@@ -1,0 +1,1244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
+<html lang="en">
+  <head>
+    <script type='text/javascript' src='//hi.districtm.ca/v3.0.104159.js'></script>
+<script type='text/javascript' src='//hi.districtm.ca/currency.js'></script>
+<script type='text/javascript' src='//cdn.districtm.ca/v4.1.header.min.js'></script>
+    <!-- 11 -->
+        <script src="//img.sparknotes.com/js/redirection_mobile.min.js"></script> 
+    <script>
+       redirect_page = true;
+       pathname = location.pathname.replace(/\//g, "");
+       no_redirect_sub_pathnames = ["sparknotes/video"];
+       for (i in no_redirect_sub_pathnames) {
+           if(location.pathname.indexOf(no_redirect_sub_pathnames[i]) !== -1){
+               redirect_page = false;
+           }
+       }
+       if(redirect_page){ 
+           
+        SA.redirection_mobile ({
+          noredirection_param:"noredirection",
+          mobile_prefix : "m",
+          keep_path : true,
+          cookie_hours : "1" 
+        });
+        
+       }
+    </script>
+            <title>SparkNotes: A Tale of Two Cities: Book the First: Recalled to Life Chapters 1–4</title>
+<meta name="description" content="A summary of Book the First: Recalled to Life Chapters 1–4 in Charles Dickens's A Tale of Two Cities. Learn exactly what happened in this chapter, scene, or section of A Tale of Two Cities and what it means. Perfect for acing essays, tests, and quizzes, as well as for writing lesson plans."></meta>
+<meta name="keywords" content="A Tale of Two Cities, Book the First: Recalled to Life Chapters 1–4, Charles Dickens, scene summary, scene summaries, chapter summary, chapter summaries, short summary, criticism, literary criticism, review, scene synopsis, interpretation, teaching, lesson plan"></meta>
+		        <link rel="shortcut icon" href="http://img.sparknotes.com/images/new_global/new_favicon.ico" />
+    <link rel='stylesheet' href='http://img.sparknotes.com/css/2016/styles-2016.css?rev=0316a'/>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="//img.sparknotes.com/js/new_user.js?rev=0316a"></script> 
+            <script>
+            !function(e){var t=document.createElement("script");t.src="//d2yyf02s9xqns0.cloudfront.net/domain.js?"+Date.now(),t.type="text/javascript",window.gPartners={queue:[],id:e,serverUrl:"",show:function(){this.queue.push(arguments)}},document.head.appendChild(t),window.domainCloudFrontCalback=function(e){var t=document,r=t.createElement("script"),n=t.querySelector("script")||t.querySelector("head").firstChild;window.gPartners.serverUrl=e,r.type="text/javascript",r.async=!0,r.src="//"+e+"/index.js",n.parentNode.insertBefore(r,n)}}("sparknotes");
+        </script>
+        
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	var gptadslots=[];
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function(){ var gads = document.createElement('script');
+		gads.async = true; gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+
+<script type="text/javascript">
+
+	googletag.cmd.push(function() {
+
+	googletag.pubads().setTargeting('s',['sn']).setTargeting('exp',['true']);
+			googletag.pubads().setTargeting('title',['twocities']);
+			googletag.pubads().setTargeting('edu',['hs']);
+	
+	googletag.pubads().enableAsyncRendering();
+	googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+
+	});
+</script>
+<!-- End: GPT -->
+
+<div id='wallpaperAd'>
+  <script type='text/javascript'>
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/9885823/5480.lia.sparknotes/notes//lit', [2, 2],'wallpaperAd')
+      .addService(googletag.pubads());
+      googletag.enableServices();googletag.display('wallpaperAd');
+    });
+  </script>
+</div>
+                            <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>   </head>
+	<body class="study-guides">
+    	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>   	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-125069-1', 'auto', {'legacyCookieDomain': '.sparknotes.com'});
+  ga('send', 'pageview'); 
+</script>
+    
+    	<link rel='stylesheet' href='http://img.sparknotes.com/css/gigya.css'/>
+
+<header class="main-header">
+	
+	<a class="sparknotes-logo" href="http://www.sparknotes.com/">SparkNotes</a>
+	
+	<div class="small-search">
+	    <form action="http://www.sparknotes.com/search" class="search" id="searchform" method="get">
+	    
+	        <fieldset>
+
+	            <input name="q" id="search-sparknotes" value="" class="search-field" placeholder="By keyword" type="text" />
+	            
+				<input type="submit" value="Go" class="search-submit" align=""/>
+					
+	        </fieldset>
+	    </form>
+	</div>
+
+	<div class="mobile-header-wrapper">
+
+		<a href="javascript:void(0)" id="mobile-search-icon">Search</a>
+		
+		<a href="javascript:void(0)" id="mobile-menu-icon">Menu</a>
+	
+					<div id="placeholder">
+    <script>
+    jQuery(document).ready(function(){
+    my_domain = document.domain;
+    identifier = my_domain.substring(0,3);
+    protocol = window.location.protocol;
+    if(identifier == 'spa')
+    {
+        my_domain = "www." + my_domain;
+    }
+
+    my_domain = protocol + "//" + my_domain;
+        if(is_loggedin())
+        {
+            jQuery.ajax({
+                'beforeSend': function(){
+                    jQuery.getScript(protocol + "//img.sparknotes.com/js/messaging.js");
+                },
+                'url': my_domain + '/messaging',
+                'success': function(data){
+                    jQuery("#placeholder").replaceWith(data);
+                    jQuery.getScript(protocol + "//img.sparknotes.com/js/messaging_bootstrap.js");
+                }
+            });
+        }
+    });
+    </script>
+</div>
+				
+		<div class="mobile-inner-wrapper">
+		
+			<nav class="login-container">
+							
+                                					
+				<script type="text/javascript">
+					print_user_links2013();
+					setupEmailLoginDialog();
+					jQuery('.jsClearOnFocus').clearOnFocus();	
+				</script>				
+			</nav>
+		
+			<!-- Begin comScore Tag -->
+<script type="text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035001" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+			<nav class="main-nav-container">
+				<ul class="main-nav">
+		  
+		            <li class="dropdown-container"><a href="http://www.sparknotes.com/sparknotes/">Literature<span class="menu-arrow">arrow</span></a>
+						<div id="literature-search" class="dropdown-menu">
+							
+							<ul>
+								<li class="title"><a href="http://www.sparknotes.com/sparknotes/">Literature SparkNotes
+								<span>Study Guides</span></a></li>
+										          <li><a href="http://www.sparknotes.com/lit/mocking/" class="main">To Kill a Mockingbird</a></li>
+		          <li><a href="http://www.sparknotes.com/lit/gatsby/" >The Great Gatsby</a></li>
+		          <li><a href="http://www.sparknotes.com/lit/flies/" >Lord of the Flies</a></li>
+		          <li><a href="http://www.sparknotes.com/lit/huckfinn" >Adventures of Huck Finn</a></li>
+			
+								<li class="see-all"><a href="http://www.sparknotes.com/sparknotes/">See all &rsaquo;</a></li>
+							</ul>
+							
+							<ul class="NFL-menu">
+								<li class="title"><a href="http://www.sparknotes.com/nofear/lit/">No Fear Literature
+								<span>Page-by-page Translations</span></a></li>
+								
+								</a></li>
+										          <li><a href="http://www.sparknotes.com/nofear/lit/beowulf/" class="main">Beowulf</a></li>
+		          <li><a href="http://www.sparknotes.com/nofear/lit/the-canterbury-tales/" >The Canterbury Tales</a></li>
+		          <li><a href="http://www.sparknotes.com/nofear/lit/heart-of-darkness/" >Heart of Darkness</a></li>
+								
+								<li class="see-all"><a href="http://www.sparknotes.com/nofear/lit/">See all &rsaquo;</a></li>
+							</ul>
+		                </div>
+		
+					</li>
+	 
+		            <li class="dropdown-container" id="shakespeare_menu"><a href="http://www.sparknotes.com/shakespeare/">Shakespeare<span class="menu-arrow">arrow</span></a>
+						<div class="dropdown-menu">
+							<div class="shakespeare-dropdown">
+					
+								<ul>
+									<li><a class="nfs-logo" href="http://nfs.sparknotes.com/">No Fear Shakespeare</a></li>
+									<li class="line-by-line"><a href="http://nfs.sparknotes.com/">Line-by-line Translations</a></li>	
+											                              <li><a href="http://nfs.sparknotes.com/macbeth/" class="main">Macbeth</a></li>
+                                        <li><a href="http://nfs.sparknotes.com/hamlet/" >Hamlet</a></li>
+                                        <li><a href="http://nfs.sparknotes.com/romeojuliet/" >Romeo and Juliet</a></li>
+                                        <li><a href="http://nfs.sparknotes.com/othello/" >Othello</a></li>
+                                        <li><a href="http://nfs.sparknotes.com/msnd/" >A Midsummer Night’s Dream</a></li>
+                                        <li><a href="http://nfs.sparknotes.com/juliuscaesar/" >Julius Caesar</a></li>
+                              	
+									<li class="see-all"><a href="http://nfs.sparknotes.com/">See all &rsaquo;</a></li>
+								</ul>
+								
+								<ul>
+									<li class="title"><a href="http://www.sparknotes.com/shakespeare/">Shakespeare Study Guides</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/macbeth/">Macbeth</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/hamlet/">Hamlet</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/romeojuliet/">Romeo and Juliet</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/othello/">Othello</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/asyoulikeit/">As You Like It</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/coriolanus/">Coriolanus</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/coriolanus/">Cymbeline</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/henry4pt1/">Henry IV, Part 1</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/henryv/">Henry V</a></li>
+									<li><a href="http://www.sparknotes.com/shakespeare/henryviii/">Henry VIII</a></li>
+									<li><a href="#">Henry IV</a></li>
+									<li class="see-all"><a href="http://www.sparknotes.com/shakespeare/">See all &rsaquo;</a></li>
+								</ul>
+								
+								
+								<ul class="video-sparknotes-dropdown">
+		                                                    <li class="title"><a href="http://www.sparknotes.com/sparknotes/video/author/2">Shakespeare Videos</a></li>
+<li class="hamlet"><a href="http://www.sparknotes.com/sparknotes/video/hamlet ">
+        <div class="image-crop">
+                <img src="http://img.sparknotes.com/video/shakespeare-images/thumbs/hamlet-thumb.jpg" alt="Hamlet">
+        </div>
+        <p class="time">(8:24)</p>
+        <p class="subtitle">Hamlet</p>
+</a></li>
+<li class="othello"><a href="http://www.sparknotes.com/sparknotes/video/othello ">
+        <div class="image-crop">
+                <img src="http://img.sparknotes.com/video/shakespeare-images/thumbs/othello-thumb.jpg" alt="Othello">
+        </div>
+        <p class="time">(9:12)</p>
+        <p class="subtitle">Othello</p>
+</a></li>
+<li class="romeojuliet"><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet ">
+        <div class="image-crop">
+                <img src="http://img.sparknotes.com/video/shakespeare-images/thumbs/romeojuliet-thumb.jpg" alt="Romeo and Juliet">
+        </div>
+        <p class="time">(9:18)</p>
+        <p class="subtitle">Romeo and Juliet</p>
+</a></li>
+<li class="juliuscaesar"><a href="http://www.sparknotes.com/sparknotes/video/juliuscaesar ">
+        <div class="image-crop">
+                <img src="http://img.sparknotes.com/video/shakespeare-images/thumbs/juliuscaesar-thumb.jpg" alt="Julius Caesar">
+        </div>
+        <p class="time">(9:01)</p>
+        <p class="subtitle">Julius Caesar</p>
+</a></li>
+<li class="see-all"><a href="http://www.sparknotes.com/sparknotes/video/author/2">See all &rsaquo;</a></li>	
+								</ul>
+								
+							</div>
+						</div>
+							
+					</li>
+
+		            <li><a href="http://www.sparknotes.com/video/">Video</a></li> 
+						
+					<li><a href="http://community.sparknotes.com/">SparkLife</a></li>
+					
+					<li><a href="http://www.sparknotes.com/sparktests/">SparkTests</a></li>
+					
+					<li class="dropdown-container more-container"><a href="javascript:void(0)">More<span class="menu-arrow">arrow</span></a>
+						<div class="dropdown-menu">
+		
+							<ul>
+								<li class="title"><a href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></li>
+										          <li><a href="http://www.sparknotes.com/biology/" class="main">Biology</a></li>
+		          <li><a href="http://www.sparknotes.com/biography/" >Biography</a></li>
+		          <li><a href="http://www.sparknotes.com/chemistry/" >Chemistry</a></li>
+		          <li><a href="http://www.sparknotes.com/cs/" >Computer Science</a></li>
+		          <li><a href="http://www.sparknotes.com/drama/" >Drama</a></li>
+		          <li><a href="http://www.sparknotes.com/economics/" >Economics</a></li>
+		          <li><a href="http://www.sparknotes.com/film/" >Film</a></li>
+		          <li><a href="http://www.sparknotes.com/history/" >History</a></li>
+		          <li><a href="http://www.sparknotes.com/lit/" >Literature</a></li>
+		          <li><a href="http://www.sparknotes.com/math/" >Math</a></li>
+		          <li><a href="http://www.sparknotes.com/philosophy/" >Philosophy</a></li>
+		          <li><a href="http://www.sparknotes.com/physics/" >Physics</a></li>
+		          <li><a href="http://www.sparknotes.com/poetry/" >Poetry</a></li>
+		          <li><a href="http://www.sparknotes.com/psychology/" >Psychology</a></li>
+		          <li><a href="http://www.sparknotes.com/sociology/" >Sociology</a></li>
+		          <li><a href="http://www.sparknotes.com/us-government-and-politics/" >U.S. Government</a></li>
+			
+								<li><a href="http://www.sparknotes.com/testprep/">Test Prep</a></li>
+					
+							</ul>
+		                </div>	 
+					</li>		
+				</ul>
+			</nav>
+		</div>
+	</div>
+</header>
+
+<script type="text/javascript">
+	//
+	// JS for main navigation and search bar
+	//
+	jQuery(window).ready(function(){
+            //provides condition checks if current page is not the same as nav menu url
+            function other_nav_selected_conditions(filter_href){
+                switch(filter_href){
+                    case "http://www.sparknotes.com/video/": 
+                        return (cur_url.indexOf('http://www.sparknotes.com/sparknotes/video/') === 0);
+                    break;
+                    default:
+                        return false;
+                    break;
+                }
+            }
+            // set active tab based on nav menu url
+            cur_url = document.location.href;
+            nav_selected = jQuery('nav ul.main-nav > li:nth-child(n+2)').filter(function(){            
+               filter_href = jQuery(this).find('a:first-child').attr('href');
+               if(cur_url.indexOf(filter_href) === 0 || other_nav_selected_conditions(filter_href)){
+                   return true;
+               }else{
+                   return false;
+               }
+            });
+            nav_selected.addClass('selected');
+
+        var dropdown_loaded5 = false;
+        /*
+        jQuery("#shakespeare_menu").mouseover(function(){
+            murl = location.protocol + "//www.sparknotes.com/featured/shakespeare_video_dropdown"; 
+            if(!dropdown_loaded5)
+            {
+                jQuery.get(murl, function(data){
+                    jQuery('.video-sparknotes-dropdown').html(data);
+                    dropdown_loaded5 = true;
+                });
+            }
+        });
+       */
+        var cache2 = {};
+            jQuery( "#search-sparknotes" ).autocomplete({
+              position: { my : "left+10 top", at: "left bottom" },
+              appendTo: ".small-search",
+              minLength: 2,
+              source: location.protocol + "//" + window.location.hostname + "/autocomplete/autocomplete_query.php",
+             select: function (event, ui) {
+                jQuery(this).val(ui.item.label); 
+                jQuery(this).closest("#searchform").submit();    
+            }
+            });
+            
+            jQuery( "#search-literature" ).autocomplete({
+              position: { my : "left+10 top", at: "left bottom" },
+              appendTo: "#literature-search",
+              minLength: 2,
+              source: location.protocol + "//" + window.location.hostname + "/autocomplete/autocomplete_query.php",
+             select: function (event, ui) {
+                jQuery(this).val(ui.item.label); 
+                jQuery(this).closest("#searchform").submit();    
+            }
+            });
+    });
+</script>
+<style>
+    #literature-search ul.ui-autocomplete{
+        padding:0px;
+    }
+</style>
+<script>
+        $('.dropdown-container').hover(
+        	function(){ $('.overlay').addClass('overlay-active') },
+			function(){ $('.overlay').removeClass('overlay-active') }
+        )
+	
+		$('#mobile-menu-icon').click(function() {
+			$( this ).toggleClass( "close" );
+			$('#mobile-search-icon').toggleClass( "hidden" );
+			$('.more-container').toggleClass( "hidden" );
+			$('.mobile-inner-wrapper').slideToggle( "fast" );
+		});
+		
+		$('#mobile-search-icon').click(function() {
+			$( this ).toggleClass( "close" );
+			$( ".small-search" ).slideToggle( "fast" );
+			$('#mobile-menu-icon').toggleClass( "hidden" );
+		});	
+			
+</script>
+
+<div class="overlay"></div>    	
+		<div id="ad-skin-bg">
+			<div id="ad-skin-img">
+				<div class="inner-content">
+              <div class="grammarly"></div>
+
+<div class="center no-columns top-ad">
+	<div class="is-centered ad-container">
+		<div id="topAd">
+			<script type="text/javascript"><!--
+				e9 = new Object();
+				e9.size = "970x250,728x90";
+			//--></script>
+			<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/SparkNotes2/Billboard/tags.js"></script>
+		</div>
+	</div>
+</div>
+		    		
+<div class="semi-bold breadcrumbs">
+	<a href='http://www.sparknotes.com'>Home</a> <span class='link-color'>&rarr;</span> <a href='http://www.sparknotes.com/sparknotes/'>SparkNotes </a> <span>&rarr;</span> <a href='http://www.sparknotes.com/lit/'>Literature Study Guides </a> <span>&rarr;</span> <a href='http://www.sparknotes.com/lit/twocities/'>A Tale of Two Cities </a> <span>&rarr;</span> Book the First: Recalled to Life Chapters 1–4</div>	
+
+<div class="study-guides-interior">
+	<div class="title-container">
+		<h1 class="title padding-btm-0"><a href="http://www.sparknotes.com/lit/twocities/">A Tale of Two Cities</a></h1><h2 class="author">Charles Dickens</h2>
+	</div> 
+    <pre></pre><div class="col-small-left left-menu">
+    <h2><a href = "http://www.sparknotes.com/lit/twocities/">Contents</a></h2>
+<ul>
+        <li><a href="http://www.sparknotes.com/lit/twocities/context.html">Context</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/summary.html">Plot Overview</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/characters.html">Character List</a></li>
+        <div class="expand-container-outer"><div class="expand-container"><li class="semi-bold character-parent">Analysis of Major Characters</li><li class="indented character-child"><a href="http://www.sparknotes.com/lit/twocities/character/sydney-carton/">Sydney Carton</a></li><li class="indented character-child"><a href="http://www.sparknotes.com/lit/twocities/character/madame-defarge/">Madame Defarge</a></li><li class="indented character-child"><a href="http://www.sparknotes.com/lit/twocities/character/doctor-manette/">Doctor Manette</a></li><li class="indented character-child"><a href="http://www.sparknotes.com/lit/twocities/character/charles-darnay-and-lucie-manette/">Charles Darnay and Lucie Manette</a></li></div></div>
+        
+        
+        
+        
+        <li><a href="http://www.sparknotes.com/lit/twocities/themes.html">Themes, Motifs &amp; Symbols</a></li>
+        <div class="expand-container-outer"><div data_type="a13" class="expand-container container-collapsed"><li class="
+                                        semi-bold summary-analysis-parent active-parent">Summary &amp; Analysis</li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section1.rhtml">Preface</a></li><li class="active indented summary-analysis-child">Book the First: Recalled to Life Chapters 1&ndash;4</li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section3.rhtml">Book the First: Recalled to Life Chapters 5&ndash;6</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section4.rhtml">Book the Second: The Golden Thread Chapters 1&ndash;4</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section5.rhtml">Book the Second: The Golden Thread Chapters 5&ndash;6</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section6.rhtml">Book the Second: The Golden Thread Chapters 7&ndash;9</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section7.rhtml">Book the Second: The Golden Thread Chapters 10&ndash;13</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section8.rhtml">Book the Second: The Golden Thread Chapters 14&ndash;17</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section9.rhtml">Book the Second: The Golden Thread Chapters 18&ndash;21</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section10.rhtml">Book the Second: The Golden Thread Chapters 22&ndash;24</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section11.rhtml">Book the Third: The Track of a Storm Chapters 1&ndash;5</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section12.rhtml">Book the Third: The Track of a Storm Chapters 6&ndash;10</a></li><li class="indented summary-analysis-child"><a href="http://www.sparknotes.com/lit/twocities/section13.rhtml">Book the Third: The Track of a Storm Chapters 11&ndash;15</a></li></div><a href="#" class="left-nav-arrow">Expand</a></div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li><a href="http://www.sparknotes.com/lit/twocities/quotes.html">Important Quotations Explained</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/facts.html">Key Facts</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/study.html">Study Questions &amp; Essay Topics</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/quickquizhub.html">Quizzes</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/bibliography.html">Suggestions for Further Reading</a></li>
+        <li><a href="http://www.sparknotes.com/lit/twocities/citing.html">How to Cite This SparkNote</a></li>
+    </ul>
+    
+<script>
+    $(function(){ 
+        if($('.expand-container-outer .active').length > 0){
+            $('.expand-container-outer .active').parent().parent().find('.left-nav-arrow').addClass('left-nav-arrow-up');
+            if($('.expand-container-outer .active').parent().find('li').length > 5){
+                $('.expand-container-outer .active').parent().toggleClass('container-collapsed');
+            }
+            $('.expand-container-outer .active').parent().find('li:nth-of-type(n+6)').show();
+        }
+        $( ".left-nav-arrow" ).click(function(event) {
+            event.preventDefault();
+            $(this).toggleClass('left-nav-arrow-up');
+            $(this).parent().find('.expand-container').toggleClass('container-collapsed');
+            $(this).parent().find('li:nth-of-type(n+6)').toggle("fast", function(){ 
+            });
+        });
+    });
+</script>
+    
+    <div class="social-TOC">
+    	    	<p>Share this Sparknote</p>
+            <ul class="social">
+                <li class="share-facebook fb-share-button" data-href="http://www.sparknotes.com/lit/twocities/" data-layout="button_count"></li>
+                <li class="twitter-study-guide"><a href="http://www.sparknotes.com/lit/twocities/#" onclick='window.open("http://twitter.com/intent/tweet?status=http%3A%2F%2Fwww.sparknotes.com%2Flit%2Ftwocities%2F+Read the SparkNote of A+Tale+of+Two+Cities", "twitter", "width=500,height=500");
+                        return false;'>Share on Twitter</a></li>	
+            </ul>
+     </div>
+<script>
+
+    $(document).ready(function(){  
+        window.fbAsyncInit = function() {
+        FB.init({
+            appId: "103292309718285",
+            status: true,
+            cookie: true
+        });
+        FB.Event.subscribe('xfbml.render',function(){
+           $(".share-facebook iframe").css("pointer-events", "none");
+           $(".share-facebook").css("cursor", "pointer");
+        });
+         };
+     $( ".share-facebook" ).on("click",function(event) {
+         event.preventDefault();
+         window.open("http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.sparknotes.com%2Flit%2Ftwocities%2F&title=Read the SparkNote of A Tale of Two Cities", "fb", "width=500,height=500"); 
+         return false;
+    });
+    });
+</script>
+    
+    
+
+<div id="leftAd">
+	<script type="text/javascript">
+		googletag.cmd.push(function() {
+		var mapping3 = googletag.sizeMapping().
+			addSize([0, 0], []).
+			addSize([320, 200], [160, 600]).
+			build();
+		googletag.defineSlot('/9885823/5480.lia.sparknotes/notes//lit', [160, 600],'leftAd').defineSizeMapping(mapping3).setTargeting('pos',['top']).addService(googletag.pubads());
+		});
+        googletag.cmd.push(function() { googletag.display('leftAd'); });
+	</script>
+
+</div>
+
+
+	
+    <div id="sparkle2"></div>
+    <script>gPartners.show(160, 600, "sparkle2")</script>
+</div>
+
+    <div class="col-mid">
+            <div class="interior-header">
+                                <h4>Book the First: Recalled to Life Chapters 1–4</h4>
+                                         <p>page 1 of 2</p>
+                				            </div>
+    
+			
+        <div id="section" class="studyGuideText">
+            
+<h4>Summary: Chapter 1: The Period</h4>
+            <blockquote class="quotation">
+                It was the best of times, it was the
+worst of times, it <br>
+was the age of wisdom, it was the age of foolishness.
+. . .<br>
+<p align="right" class="attribution">(See <a href="http://www.sparknotes.com/lit/twocities/quotes.html#CHDGICFJ">Important Quotations Explained</a>)</p>
+            </blockquote>
+            <p>As its title promises, this brief chapter establishes
+the era in which the novel takes place: England and France in 1775.
+The age is marked by competing and contradictory attitudes&mdash;&ldquo;It was
+the best of times, it was the worst of times&rdquo;&mdash;but resembles the
+&ldquo;present period&rdquo; in which Dickens writes. In England, the public
+worries over religious prophecies, popular paranormal phenomena
+in the form of &ldquo;the Cock-lane ghost,&rdquo; and the messages that a colony
+of British subjects in America has sent to King George III. France,
+on the other hand, witnesses excessive spending and extreme violence, a
+trend that anticipates the erection of the guillotine. Yet in terms
+of peace and order, English society cannot &ldquo;justify much national boasting&rdquo;
+either&mdash;crime and capital punishment abound.</p>
+<h4>Summary: Chapter 2: The Mail</h4>
+            <div class="floatingad"><div id="midAd1"><script type="text/javascript">
+                    googletag.cmd.push(function() {
+                    var mappingmid1 = googletag.sizeMapping().
+                    addSize([300, 250]).
+                    build();
+                    googletag.defineSlot('/9885823/5480.lia.sparknotes/notes//lit', [300, 250], 'midAd1').defineSizeMapping(mappingmid1).setTargeting('pos',['top']).addService(googletag.pubads());
+                    });
+                    googletag.cmd.push(function() { googletag.display('midAd1'); });
+                </script></div></div>
+            <p>On a Friday night in late November of 1775,
+a mail coach wends its way from London to Dover. The journey proves
+so treacherous that the three passengers must dismount from the
+carriage and hike alongside it as it climbs a steep hill. From out
+of the great mists, a messenger on horseback appears and asks to
+speak to Jarvis Lorry of Tellson&rsquo;s Bank. The travelers react warily,
+fearing that they have come upon a highwayman or robber. Mr.
+Lorry, however, recognizes the messenger&rsquo;s voice as that of Jerry
+Cruncher, the odd-job man at Tellson&rsquo;s, and accepts his message.
+The note that Jerry passes him reads: &ldquo;Wait at Dover for Mam&rsquo;selle.&rdquo;
+Lorry instructs Jerry to return to Tellson&rsquo;s with this reply: &ldquo;Recalled
+to Life.&rdquo; Confused and troubled by the &ldquo;blazing strange
+message,&rdquo; Jerry rides on to deliver it.</p>
+<h4>Summary: Chapter 3: The Night Shadows</h4>
+            <blockquote class="quotation">
+                <p>A wonderful fact to reflect upon, that
+every human creature is constituted to be that profound secret and mystery
+to every other. . . .</p>
+<p align="right" class="attribution">(See <a href="http://www.sparknotes.com/lit/twocities/quotes.html#CHDCIEFJ">Important Quotations Explained</a>)</p>
+            </blockquote>
+            <p>The narrator ponders the secrets and mysteries that each
+human being poses to every other: Lorry, as he rides on in the mail
+coach with two strangers, constitutes a case in point. Dozing, he
+drifts in and out of dreams, most of which revolve around the workings
+of Tellson&rsquo;s bank. Still, there exists &ldquo;another current of impression
+that never cease[s] to run&rdquo; through Lorry&rsquo;s mind&mdash;the notion that
+he makes his way to dig someone out of a grave. He imagines repetitive conversations
+with a specter, who tells Lorry that his body has lain buried nearly
+eighteen years. Lorry informs his imaginary companion that he now
+has been &ldquo;recalled to life&rdquo; and asks him if he cares to live. He
+also asks, cryptically, &ldquo;Shall I show her to you? Will you come
+and see her?&rdquo; The ghost&rsquo;s reaction to this question varies, as he sometimes
+claims that he would die were he to see this woman too soon; at
+other times, he weeps and pleads to see her immediately.</p>
+<h4>Summary: Chapter 4: The Preparation</h4>
+            <p>The next morning, Lorry descends from the coach at the
+Royal George Hotel in Dover. After shedding his travel clothes,
+he emerges as a well-dressed businessman of sixty. That afternoon,
+a waiter announces that Lucie Manette has arrived from London. Lorry meets
+the &ldquo;short, slight, pretty figure&rdquo; who has received word from the
+bank that &ldquo;some intelligence&mdash;or discovery&rdquo; has been made &ldquo;respecting
+the small property of my poor father . . . so long dead.&rdquo; After
+reiterating his duties as a businessman, Lorry relates the real reason
+that Tellson&rsquo;s has summoned Lucie to Paris. Her father, once a reputed
+doctor, has been found alive. &ldquo;Your father,&rdquo; Lorry reports to her,
+&ldquo;has been taken to the house of an old servant in Paris, and we
+are going there: I, to identify him if I can: you, to restore him
+to life, love, duty, rest, comfort.&rdquo; Lucie goes into shock, and
+her lively and protective servant, Miss Pross, rushes in to attend
+to her.</p>
+<h4>Analysis: Chapters 1&ndash;4</h4>
+            <p>The opening sentence of the novel makes clear, as the
+title itself does, the importance of doubles in the text:</p>
+            <blockquote class="quotation">
+                It was the best of times, it was the worst
+of times, it was the age of wisdom, it was the age of foolishness,
+it was the epoch of belief, it was the epoch of incredulity, it
+was the season of Light, it was the season of Darkness, it was the
+spring of hope, it was the winter of despair. . . .<br>
+            </blockquote>
+            <p>Doubles prove essential to the novel&rsquo;s structure, plot,
+and dominant themes. The idea of resurrection, a theme that emerges
+in these early pages, would not be possible without some form of
+its opposite&mdash;death. In order to pave the way for the first such
+resurrection&mdash;the recalling to life of the long-imprisoned <a href = "http://www.sparknotes.com/lit/twocities/character/doctor-manette/">Doctor Manette</a>&mdash;Dickens does much to establish a dark, ominous tone suggestive
+of death. From the mist-obscured route of the Dover mail coach to
+the darkly paneled room in which Lorry meets Lucie Manette, the
+opening chapters brim with gloomy corners and suggestive shadows.</p>
+        </div>
+    <div class="clearFloats"></div>
+            
+
+			            <div class="clearfix">  
+            
+
+                                 <a href="http://www.sparknotes.com/lit/twocities/section2/page/2/">
+                         <div class="next-button">
+                            <span>Next:</span> Page 2 of Book the First: Recalled to Life Chapters 1–4 <span class="arrow"></span>
+                        </div>
+                     </a>   
+                         </div>        
+        
+
+
+			
+			<div id="nativobelow"></div>
+
+            
+		
+	
+
+        <div class="white-background border-blue more-help interior">
+    <h3>More Help</h3>
+    <div class="more-help-interior">
+        <ul id="more-help-carousel" class="clearfix is-inline">
+                        <li class="center">
+                <a target="_blank" class="is-centered" href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/">
+                                        <img src="http://img.sparknotes.com/images/more_help/no_fear_lit.jpg">
+                                    </a>                
+                <h5><a target="_blank" class="text-color is-centered" href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/">Read No Fear A Tale of Two Cities</a></h5>
+            </li>      
+                    </ul>           
+        <a id="carousel_prev" href="javascript: void(0)">Previous</a>
+        <a id="carousel_next" href="javascript: void(0)">Next</a>
+        <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery("#more-help-carousel").carouFredSel({
+            	circular			: false,
+                items               : 3,
+                responsive          : true,
+                auto                : false,
+                height              : 190,
+                prev    : { 
+                    button  : "#carousel_prev",
+                    key     : "left"
+                },
+                next    : { 
+                    button  : "#carousel_next",
+                    key     : "right"
+                },
+                scroll : {
+                    items           : 3,
+                    duration        : 600,                          
+                    pauseOnHover    : true  
+                }                   
+            }); 
+        });
+        </script>
+    </div>
+</div> 
+  
+	<div class="light-blue-background border-blue content">
+		
+		<div class="containerUGC">
+			<div class="header clearfix">
+				<h2 class="left"><a class="text-color" href="/lit/twocities/notes">Readers' Notes<br />
+											<span>Most Helpful Readers' Notes (17 total)</span>
+									</a></h2>
+				
+				<a class="right semi-bold blue-block-link" href="javascript:void(0);" onClick="addNoteInternal('twocities', 'lit')">Add a note&nbsp; &nbsp;&rarr;</a>
+				
+			</div>
+			
+												
+<div class="white-background noteContainer border-light-blue clearfix">
+
+    <h6 class="margin-0"><a class="text-color semi-bold" href="/lit/twocities/notes/336">Trailer</a></h6>
+
+    <h3>by <a class="semi-bold" href="/account/whathastheworldcometo">whathastheworldcometo</a>, March 25, 2013</h3>
+    
+    <p class='noteExcerpt'><p>I found a great summary trailer of A Tale of Two Cities on Youtube! >> http://www.youtube.com/watch?v=LA10a83qY6A</p>
+ </p>
+    
+    <div class="clearfix">
+    	<p class="left">
+    		<a class="text-color border-0" href="/lit/twocities/notes/336"><span class="commentIcon"></span>0 Comments</a></p>
+    	<p class="right">
+    				<strong>6</strong> out of 
+	<strong>13</strong> people found this helpful
+    	</p>
+    	
+    </div>
+</div>									
+<div class="white-background noteContainer border-light-blue clearfix">
+
+    <h6 class="margin-0"><a class="text-color semi-bold" href="/lit/twocities/notes/999">Perfect :)</a></h6>
+
+    <h3>by <a class="semi-bold" href="/account/mahelah1">mahelah1</a>, December 12, 2013</h3>
+    
+    <p class='noteExcerpt'><p>I just love this Novel</p>
+ </p>
+    
+    <div class="clearfix">
+    	<p class="left">
+    		<a class="text-color border-0" href="/lit/twocities/notes/999"><span class="commentIcon"></span>1 Comments</a></p>
+    	<p class="right">
+    		    	</p>
+    	
+    </div>
+</div>									
+<div class="white-background noteContainer border-light-blue clearfix">
+
+    <h6 class="margin-0"><a class="text-color semi-bold" href="/lit/twocities/notes/1138">Sacrifice</a></h6>
+
+    <h3>by <a class="semi-bold" href="/account/16jpaule">16jpaule</a>, January 30, 2014</h3>
+    
+    <p class='noteExcerpt'><p>The paragraph about the theme that sacrifice is necessary is written like the writer believes the violence of the French Revolution (like the guillotine) was necessary, but to me it seemed like Dickens was clearly condemning the violence, if not the revolution itself. It also uses what Mrs. Defarge said to her husband, but she's a villain in the story, and I don't think we should be taking her word for it.</p>
+ </p>
+    
+    <div class="clearfix">
+    	<p class="left">
+    		<a class="text-color border-0" href="/lit/twocities/notes/1138"><span class="commentIcon"></span>0 Comments</a></p>
+    	<p class="right">
+    		    	</p>
+    	
+    </div>
+</div>										
+						    <h5 class="center"><a href="/lit/twocities/notes">See all 17 readers' notes&nbsp; &nbsp;&rarr;</a></h5>
+					</div>
+    </div>        
+</div>
+
+    <div class="col-1-3 last">	
+	
+<div class="blog-feature">
+    <p class="title semi-bold">Take a Study Break!</p> 
+	    	
+	  
+        
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2nsHBza"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/drake_with_dog_sggcc.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2nsHBza">QUIZ: Do you have chill?</a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2nNw0vs"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/mar24prideorpanicquizMAIN_a1sgc.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2nNw0vs"><i>Pride and Prejudice</i> quote or Panic! At the Disco Lyric?</a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2mVtob2"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/emmastonewhatkindofflirt_sgcaa1.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2mVtob2">Find out if you're any good at flirting... like at all</a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2n8v6Xh"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/mar21textsfromhamletMAIN_a1sgcc.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2n8v6Xh"><i>Hamlet</i> as told in a series of texts</a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2nKkZvb"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/snapechatcover_a1sgcc.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2nKkZvb">We created SnapeChat because the dark lord commanded it</a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2ntbGix"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/billandfluerasleaandsam.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2ntbGix">Bill Weasley, Fleur Delacour, & more get modern makeovers! </a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2mRL8ny"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/beauty_and_the_beast_gaston_sgc.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2mRL8ny">How vain are you?</a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2mms5pd"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/doesgilderoylockhartlikeyoua1.jpg" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2mms5pd">QUIZ: Do teachers like you? </a></p>
+	        	    </div>	
+	 
+	    
+	    	    <div class="sidebar-media ">
+	 		<a href="http://bit.ly/2lBLBfx"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/hermioneslamsbook_a1sgc.gif" /></a>      
+	        <p class="media-title semi-bold"><a href="http://bit.ly/2lBLBfx">Every <i>Harry Potter</i> book summed up in a sentence</a></p>
+	        	    </div>	
+		
+	</div>
+
+<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->        <script>
+            jQuery(document).ready(function($) {
+                $('.select-list').on('change', function() {
+                    $ean = $(this).find('option:selected').data('ean');
+                    $(this).closest('.book-info').find('li').each(function() {
+                        $(this).css('display', 'none')
+                    });
+                    $(this).closest('.book-info').find('li[data-ean="' + $ean + '"]').css('display', 'block');
+                });
+
+            });
+        </script>
+        <div class="ecommerce-pod">
+	<a href="http://www.barnesandnoble.com/" class="bn-logo">Barnes & Noble</a>
+	<p class="title">Buy on BN.com and save!</p>
+	
+        <div class="merch-placement desktop" style="display: block">
+            <img src="//prodimage.images-bn.com/pimages/9781593081386_p0_v3_s192x300.jpg" class="cover" />
+
+            <div class="book-info">
+                <p>A Tale of Two Cities (Barnes & Noble Classics Series)</p>
+
+                <div class="selectBox-container">
+                    <select class="select-list">
+                                                    <option href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-barnes-noble-classics-series-charles-dickens/1106017525?ean=9781593081386" data-ean="9781593081386"> 
+                            Paperback <span>$6.25</span>
+                            </option>
+                                                        <option href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-charles-dickens/1116666164?ean=9781411433236" data-ean="9781411433236"> 
+                            NOOK Book <span>$3.99</span>
+                            </option>
+                                                </select>
+                </div>
+                <ul class="dynamic-area">
+                                            <li data-ean="9781593081386" style="display:block">
+                            <div class="listprice-container">
+                                                                    <span class="listprice">$6.95</span>|<span class="save-percent">Save 10 %</span>
+                                                                </div>
+                            <a class="shop-now" href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-barnes-noble-classics-series-charles-dickens/1106017525?ean=9781593081386" target='__blank' >Shop Now</a>
+                        </li>
+                                                <li data-ean="9781411433236" style="display:none">
+                            <div class="listprice-container">
+                                                            </div>
+                            <a class="shop-now" href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-charles-dickens/1116666164?ean=9781411433236" target='__blank' >Shop Now</a>
+                        </li>
+                                        </ul>
+            </div>
+        </div>	
+        
+        <div class="merch-placement desktop" style="display: block">
+            <img src="//prodimage.images-bn.com/pimages/9781411469662_p0_v2_s192x300.jpg" class="cover" />
+
+            <div class="book-info">
+                <p>A Tale of Two Cities (SparkNotes Literature Guide Series)</p>
+
+                <div class="selectBox-container">
+                    <select class="select-list">
+                                                    <option href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-sparknotes/1104681311?ean=9781411469662" data-ean="9781411469662"> 
+                            Paperback <span>$5.95</span>
+                            </option>
+                                                        <option href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-sparknotes/1104681311?ean=9781411471900" data-ean="9781411471900"> 
+                            NOOK Book <span>$4.49</span>
+                            </option>
+                                                </select>
+                </div>
+                <ul class="dynamic-area">
+                                            <li data-ean="9781411469662" style="display:block">
+                            <div class="listprice-container">
+                                                            </div>
+                            <a class="shop-now" href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-sparknotes/1104681311?ean=9781411469662" target='__blank' >Shop Now</a>
+                        </li>
+                                                <li data-ean="9781411471900" style="display:none">
+                            <div class="listprice-container">
+                                                                    <span class="listprice">$4.95</span>|<span class="save-percent">Save 9 %</span>
+                                                                </div>
+                            <a class="shop-now" href="http://www.barnesandnoble.com/w/a-tale-of-two-cities-sparknotes/1104681311?ean=9781411471900" target='__blank' >Shop Now</a>
+                        </li>
+                                        </ul>
+            </div>
+        </div>	
+        </div>    </div>
+
+
+</div>
+
+
+
+ 
+		    	</div>
+			</div>	
+			<footer class="main-footer-container">
+	<div class="main-footer">
+			<h6>When your books and teachers don't make sense, we do.</h6>
+			<nav>
+				<ul>
+					<li><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
+            		<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
+            		<li class="mobile-hide"><a href="http://www.sparknotes.com/about/">About</a></li>
+            		<li class="mobile-hide"><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
+            		<li class="mobile-hide"><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
+            		<li class="facebook"><a href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>		
+            		<li class="tumblr"><a href="http://sparkitors.tumblr.com/">Tumblr</a></li>
+            		<li class="twitter"><a href="https://twitter.com/SparkNotes">Twitter</a></li>	
+				</ul>
+				<p class="mobile-hide">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/b/textbooks/_/N-8q9">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/w/samsung-galaxy-tab-a-nook-7-inch-barnes-noble/1123826273?ean=9780594762157">Samsung Galaxy Tab A NOOK</a> and <a href="http://www.barnesandnoble.com/w/nook-glowlight-plus-barnes-noble/1122314015?ean=9781400697564">NOOK GlowLight Plus</a>.</p>
+			</nav>
+			<p class="copyright">&copy; 2017 <a href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
+	</div>
+</footer>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- OwnerIQ Analytics tag --> 
+<!-- Sparknotes - Sparknotes - mz4f - Analytic --> 
+<script type="text/javascript"> 
+window._oiqq = window._oiqq || []; 
+_oiqq.push(['oiq_addPageLifecycle', 'mz4f']); 
+_oiqq.push(['oiq_doTag']); 
+(function() { 
+var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true; 
+oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/bz4lph.js'; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s); 
+})(); 
+</script> 
+<!-- End OwnerIQ tag --> 
+	
+	    		    		    	    <script>
+    $(function(){ 
+        var pin = false;
+        var ad_scrolltop;
+        $( window ).scroll(function() {
+            window_scrolltop = $(this).scrollTop();
+            ad_margin_top = 10;
+            if(window_scrolltop >= ad_scrolltop && pin === false){
+                    $("#leftAd").css('position', 'fixed');
+                    $("#leftAd").css('top', ad_margin_top + "px");
+                    pin = true;
+            }else if(window_scrolltop < ad_scrolltop && pin === true){
+                    $("#leftAd").removeAttr('style');
+                    pin = false;
+            }else if(pin === false){
+                    ad_scrolltop =  $("#leftAd").offset().top;
+            }
+        });
+    });
+</script><script type="text/javascript" src="http://img.sparknotes.com/js/jquery.carouFredSel-6.1.0-packed.js"></script>
+<script type="text/javascript">
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 54125
+       ,lang        : "en"
+       ,slot        : '.content .copy > p, .content #plotoverview > p, article #plotoverview > p, .content #section > p, article #section > p'
+       ,format      : "inread"
+       ,minSlot     : 3
+       ,components  : { skip: {delay : 0}}
+       ,css         : "margin: 0px auto 0px; max-width: 600px;"
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/media/format.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+</script>
+<script type='text/javascript'> 
+googletag.cmd.push(function() {
+   var mappingVslider = googletag.sizeMapping(). 
+                    addSize([0, 0], []). 
+                    addSize([1050, 200], [1, 1]). // Desktop 
+                    build();    googletag.defineSlot('/9885823/5480.lia.sparknotes/Q1MediaController', [1, 1], 'div-gpt-ad-1434739530147-0').     
+                    defineSizeMapping(mappingVslider). 
+                    addService(googletag.pubads()); 
+});
+</script>
+
+<div id='div-gpt-ad-1434739530147-0' style='width:1px; height:1px;'>
+        <script type='text/javascript'> 
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434739530147-0'); }); 
+        </script> 
+</div>  
+
+
+<script>
+    $(function(){ 
+        function UITool(options){
+            this.options = options;
+            
+        }
+        UITool.prototype = {
+            constructor: UITool,
+            animate:function(){
+                effect = this.options.effect;
+                class_name = this.options.class_name;                   
+                switch(effect){
+                    case 'footer':
+                        this.stickFooter(class_name);
+                    break;
+                }
+                
+            },setOptions:function(options){
+                this.options = options;
+            },stickFooter:function(class_name){
+                this_class = $(class_name);
+                current_class_top_offset = this_class.offset().top;
+                current_class = this_class.clone();
+                additonal_gap_class = this.options.additional_gap_class;
+                timeout = this.options.timeout * 1000;
+                template = this.options.template;
+                last_scroll_pos = $(window).scrollTop();
+                window_height = $(window).height();
+                scroll_limit_class = sticky_obj.options.scroll_up_limit_class;
+                is_up = false;
+                sticky_obj = this;
+                sticky_type = "";
+                if(typeof(timeout) == "number" && timeout > 0){
+                    sticky_type = "time";
+                    allow_sticky = true;
+                }else{
+                    sticky_type = "scroll";
+                    allow_sticky = false;
+                }
+                if(typeof(this.options.close_button) != "undefined"){
+                    close_button = this.options.close_button;
+                    $(close_button).click(function(){
+                        if(typeof(interval_timer) != "undefined"){
+                            clearInterval(interval_timer);
+                        }
+                        this_class.removeClass("bottom");
+                        $(this).addClass("hidden");
+                        this_class.addClass("in-place");
+                        allow_sticky = false;
+                    });
+                }
+                bottom_set = false;
+                if(typeof(this.options.bottom_limit_class) != "undefined"){
+                    
+                    bottom_limit_class = this.options.bottom_limit_class;
+                }else{
+                    bottom_limit_class = "";
+                }
+                set_once = false;
+                $(class_name).hide();
+                $(window).scroll(function(){
+                    
+                    scroll_position = sticky_obj.getScrollPosition(last_scroll_pos);
+                    last_scroll_pos = scroll_position.last_scroll_pos;
+                    scroll_bottom = $(window).scrollTop() + $(window).height();
+                    if(typeof(interval_timer) != "undefined"){
+                        clearInterval(interval_timer);
+                    }
+                    if($(additonal_gap_class).height() != null){
+                        check_top_offset = current_class_top_offset + $(additonal_gap_class).height();
+                    }else{
+                        check_top_offset = current_class_top_offset;
+                    }
+                    switch(sticky_type){
+                        case "time":
+                            if(scroll_bottom >= check_top_offset && allow_sticky){                       
+                                if(!is_up){
+                                    sticky_obj.setSlideDownFooter(this_class, class_name);
+                                    is_up = true;
+                                }
+                                interval_timer = setInterval(function(){
+                                    $(class_name).fadeOut(500, "swing");
+                                    is_up = false;
+                                    clearInterval(interval_timer);                            
+                                }, timeout);
+                            }
+                        break;
+                        case "scroll":
+                            if(template == 'template1'){
+                                if(scroll_bottom >= check_top_offset && set_once == false){
+                                    allow_sticky = true;
+                                    set_once = true;
+                                }
+                                if(allow_sticky){
+                                    bottom_class_offset = $(sticky_obj.options.bottom_limit_class).offset();
+                                    if((!bottom_set || !is_up) && scroll_position.direction == "down"){
+                                        if(typeof(sticky_obj.options.bottom_limit_class) != "undefined"){
+                                            if(scroll_bottom >= bottom_class_offset.top){
+                                                $(class_name).fadeOut(500, "swing");
+                                                bottom_set = true;
+                                            }else if(bottom_set == false){
+                                                sticky_obj.setSlideDownFooter(this_class, class_name);
+                                                is_up = true;
+                                            }
+                                        }else{
+                                            sticky_obj.setSlideDownFooter(this_class, class_name);
+                                            is_up = true;
+                                        }
+                                    }else if(scroll_position.direction == "up"){
+                                        if(typeof(sticky_obj.options.bottom_limit_class) != "undefined"){
+                                            if(typeof(sticky_obj.options.scroll_up_limit_class) != "undefined"){
+                                                scroll_up_top_limit_offset = $(sticky_obj.options.scroll_up_limit_class).offset();
+                                                top_limit = scroll_up_top_limit_offset.top + $(sticky_obj.options.scroll_up_limit_class).height() - 200;
+                                            }else{
+                                                top_limit = bottom_class_offset.top - 200;
+                                            }
+                                            if(bottom_set && (bottom_class_offset.top > scroll_bottom)){
+                                                sticky_obj.setSlideDownFooter(this_class, class_name);
+                                                bottom_set = false;
+                                            }else if(top_limit > scroll_bottom){
+                                                $(class_name).fadeOut(500, "swing");
+                                                is_up = false;
+                                            }
+                                        }else{
+                                            $(class_name).fadeOut(500, "swing");
+                                            is_up = false;
+                                        }
+                                    }
+                                }
+                            }else if(template == 'template2'){
+                                scroll_limit_offset = $(sticky_obj.options.scroll_up_limit_class).offset();
+                                bottom_limit = scroll_limit_offset.top + $(sticky_obj.options.scroll_up_limit_class).height() + (window_height * .75);
+                                
+                                if(scroll_bottom >= bottom_limit){
+                                    //alert(scroll_limit_offset.top + "and " + $(sticky_obj.options.scroll_up_limit_class).height() + " and 400");
+                                    if(!set_once){
+                                        //$(class_name).show();
+                                        set_once = true;
+                                    }
+                                    sticky_obj.setSlideDownFooter(this_class, class_name);
+                                }else{
+                                    $(class_name).fadeOut(100, "swing");
+                                }
+                            }
+                        break;
+                    }
+                });
+            },setSlideDownFooter:function(this_class, class_name){
+                if(typeof(this.options.fixed_class) != "undefined"){
+                    if(!this_class.hasClass(this.options.fixed_class)){
+                        this_class.addClass(this.options.fixed_class);
+                    }
+                }else{
+                    this_class.css("position", "fixed");
+                    this_class.css("bottom", "0px");
+                    this_class.css("margin-bottom", "0px");
+                    this_class.css("display", "none");
+                    this_class.addClass("bottom");
+                }
+                $(class_name).fadeIn(500, "swing");
+            },getScrollPosition:function(last_scroll_pos){
+                new_direction = "";
+                current_scroll_pos = $(window).scrollTop();
+                if(last_scroll_pos > current_scroll_pos){
+                    new_direction = "up";
+                }else{
+                    new_direction = "down";
+                }
+                return {direction: new_direction, last_scroll_pos: current_scroll_pos};
+            }
+        }
+        
+        var sticky_obj = new UITool({
+            class_name:'.quick-quiz',
+            effect:'footer',
+            //timeout: 3,
+            template: 'template2',
+            fixed_class: 'bottom',
+            in_place_class: 'in-place',
+            //additional_gap_class: ".box1",
+            //bottom_limit_class: '.containerUGC',
+            scroll_up_limit_class: '.col-1-3.last',
+            //scroll_up_limit_class: '.studyGuideText, .content_txt',
+            close_button: ".close-quiz"
+        });
+        if($('.quick-quiz').length > 0){
+            sticky_obj.animate();
+        }
+    });
+</script>
+						<script type="text/javascript" src="http://img.sparknotes.com/js/jquery-ui-1.10.2.custom.min.js"></script>
+	 		<script type="text/javascript" src="http://img.sparknotes.com/js/sparknotes.js?rev=0316a"></script>
+		</div>
+	</body>
+</html>
