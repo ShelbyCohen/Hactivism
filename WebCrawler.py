@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import urllib.response
+import urllib.request
 import string
 from nltk.tokenize import wordpunct_tokenize
 from nltk.stem import PorterStemmer
@@ -69,29 +69,24 @@ if __name__ == '__main__':
 	if not os.path.exists(clean_path):
 		os.makedirs(clean_path)
 
-	if not os.path.exists(header_path):
-		os.makedirs(header_path)
-
-	count = 1
+	count = 0
 	valid_pages = 0
 	file_path = os.path.dirname(item_path)
 	for file in os.listdir(file_path):
 		item_file = open(item_path + file, "r")
 		for line in item_file.readlines():
+			count += 1
 			valid_pages = 0
 			url_list = search(str(line))
 			for url in list(url_list):
 				try:
 					if valid_pages < 10:
+						print(line, " count --> ", count, "--> url: ", url)
 						urllib.request.urlretrieve(url, raw_path + str(count) + ".txt")
-						response = urllib.request.urlopen(url).info()
 
-						header_page = open(header_path + str(count) + ".txt", "w")
-						header_page.write(str(response))
-
-						raw_page = open(raw_path + str(count) + ".txt", "r")
+						raw_page = open(raw_path + str(count) + ".txt", 'r')
 						tokens = mySpider.parser(raw_page)
-						target = open(clean_path + str(count) + ".txt", 'w')
+						target = open(clean_path + str(count) + ".txt", 'a')
 						[target.write(t + "\n") for t in tokens]
 						target.close()
 
@@ -99,8 +94,6 @@ if __name__ == '__main__':
 						itemID = db.insertItem(line, file)
 						u2iID = db.insertURLToItem(urlID, itemID)
 
-						print(count, "--> url: ", url)
-						count += 1
 						valid_pages += 1
 					else:
 						break

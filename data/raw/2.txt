@@ -1,372 +1,528 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Sydney Carton - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sydney_Carton","wgTitle":"Sydney Carton","wgCurRevisionId":754788744,"wgRevisionId":754788744,"wgArticleId":1856402,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","Pages using deprecated image syntax","Fictional characters introduced in 1859","A Tale of Two Cities characters","Fictional lawyers","Fictional characters who committed suicide","Fictional English people","Fictional alcohol abusers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sydney_Carton","wgRelevantArticleId":1856402,"wgRequestId":"WNOrawpAIDYAAFj1xcwAAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7659855","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
-
-});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.29.0-wmf.16"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/fd/T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sydney_Carton"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sydney_Carton&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Sydney_Carton&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Sydney_Carton"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sydney_Carton rootpage-Sydney_Carton skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Sydney Carton</h1>
-									<div id="bodyContent" class="mw-body-content">
-									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-								<div id="contentSub"></div>
-												<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;border-spacing: 2px 5px;">
-<tr>
-<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #DEDEE2;">Sydney Carton</th>
-</tr>
-<tr>
-<td colspan="2" style="text-align:center"><i><a href="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</a></i> character</td>
-</tr>
-<tr>
-<td colspan="2" style="text-align:center"><a href="/wiki/File:T2C,_Fred_Barnard,_SydneyCarton_and_Lucie_Manette_(I,13).jpeg" class="image"><img alt="T2C, Fred Barnard, SydneyCarton and Lucie Manette (I,13).jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg/200px-T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg" width="200" height="154" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg/300px-T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg/400px-T2C%2C_Fred_Barnard%2C_SydneyCarton_and_Lucie_Manette_%28I%2C13%29.jpeg 2x" data-file-width="720" data-file-height="554" /></a>
-<div>Sydney Carton telling Lucie Manette of his devotion to her, by <a href="/wiki/Fred_Barnard" title="Fred Barnard">Fred Barnard</a></div>
-</td>
-</tr>
-<tr>
-<th scope="row">Created by</th>
-<td><a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a></td>
-</tr>
-<tr>
-<th colspan="2" style="text-align:center;background: #DEDEE2;">Information</th>
-</tr>
-<tr>
-<th scope="row"><span class="nowrap">Nickname(s)</span></th>
-<td>The Jackal</td>
-</tr>
-<tr>
-<th scope="row">Gender</th>
-<td>Male</td>
-</tr>
-<tr>
-<th scope="row">Occupation</th>
-<td>Lawyer</td>
-</tr>
-<tr>
-<th scope="row">Nationality</th>
-<td>English</td>
-</tr>
-</table>
-<p><b>Sydney Carton</b> is a central character in the novel <i><a href="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</a></i> by <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>. He is a shrewd young <a href="/wiki/England" title="England">Englishman</a> and sometime junior to his fellow <a href="/wiki/Barrister" title="Barrister">barrister</a> <a href="/wiki/C.J._Stryver" class="mw-redirect" title="C.J. Stryver">C.J. Stryver</a>. In the novel, he is seen to be a drunkard, depressed and self-loathing because of his wasted life. He has a strong, <a href="/wiki/Unrequited_love" title="Unrequited love">unrequited love</a> for <a href="/wiki/Lucie_Manette" title="Lucie Manette">Lucie Manette</a>.</p>
-<h2><span class="mw-headline" id="Carton.27s_character">Carton's character</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sydney_Carton&amp;action=edit&amp;section=1" title="Edit section: Carton's character">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Sydney Carton is introduced into the novel <i><a href="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</a></i> as a young, sloppy but brilliant lawyer who bears an uncanny likeness to <a href="/wiki/Charles_Darnay" title="Charles Darnay">Charles Darnay</a>, the prisoner he is defending. He uses his great skill to save Darnay from death, passing his case to his colleague Stryver, who takes all the glory for saving Darnay. It is then revealed that Carton both likes and hates Darnay, as he sees him as everything he should be but is not. Carton is called a "<a href="/wiki/Jackal" title="Jackal">jackal</a>" because it appears that, while Mr. Stryver very deftly presents each case, it is Carton's legal acumen that helps win them, though Stryver gets all the credit—a reference to how the jackals help the lions with the kill, while the lions take all the glory. It is also seen that Carton is an alcoholic who faces a great lack of self-confidence. He develops an unrequited love for Lucie Manette, which he tells her about. He says that he would do anything for her or for anybody that she loves.</p>
-<p>Darnay returns to France, and is arrested for being an aristocrat (his original name is Charles Evrémonde). Before his execution by <a href="/wiki/Guillotine" title="Guillotine">guillotine</a>, Carton steps in and tricks Darnay into trading places with him, for Lucie and for the sake of their friendship. This is done with the help of <a href="/wiki/John_Barsad" title="John Barsad">John Barsad</a>, an English spy working at one of the French prisons, after a conversation described as a "hand at cards". His final words are among the most famous in English literature:</p>
-<blockquote class="templatequote">
-<p>It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.</p>
-<div class="templatequotecite"><cite>— <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></div>
-</blockquote>
-<h2><span class="mw-headline" id="Interpretations">Interpretations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sydney_Carton&amp;action=edit&amp;section=2" title="Edit section: Interpretations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li>The historical novel <i>A Far Better Rest</i> (2000) by American author <a href="/w/index.php?title=Susanne_Alleyn&amp;action=edit&amp;redlink=1" class="new" title="Susanne Alleyn (page does not exist)">Susanne Alleyn</a> is a re-telling of <i>A Tale of Two Cities</i> from Carton's perspective, and including the story of his entire life.</li>
-<li>The historical novel <i>The Carton Chronicles&#160;: The Curious Tale of Flashman's true father</i> (2010) by Keith Laidler imagines that Sydney Carton had a last minute change of heart, escaped the guillotine and went on to work as a spy for <a href="/wiki/Robespierre" class="mw-redirect" title="Robespierre">Robespierre</a> whilst attempting to win Lucie Manette / Darnay's heart. In his narrative Carton also confesses to being the real father of <a href="/wiki/Harry_Flashman" title="Harry Flashman">Harry Flashman</a> the roguish hero of the series of books created by <a href="/wiki/George_MacDonald_Fraser" title="George MacDonald Fraser">George MacDonald Fraser</a> who in turn borrowed him from <a href="/wiki/Tom_Brown%27s_Schooldays" class="mw-redirect" title="Tom Brown's Schooldays">Tom Brown's Schooldays</a> by <a href="/wiki/Thomas_Hughes" title="Thomas Hughes">Thomas Hughes</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
-<li>In the young adult series "The infernal devices" (2013) by Cassandra Clare, the final installment in the series "Clockwork Princess" is said to be a loose retell of "A tale of two cities" one of the series main protagonists, William "Will" Herondale often quotes Sydney Carton as he believed he was cursed to those who love him to die in the second book, he sees himself as Sydney Carton with an unrequited love towards Tessa Gray who actually did love him, but he cannot be with her for she is engaged to his best friend, or Parabatai (bound warriors) James "Jem" Carstairs. Though in the end Will and Jem do seem to swap places in the end of the story. Will goes on to marry Tessa while Jem "dies" from his illness, actually going on to become a Silent Brother. He and Tessa can no longer be together due to Silent Brothers not being allowed to marry. The story takes place in Victorian London, a hundred years after the events of the book.</li>
-</ul>
-<p>On film and television, Sydney Carton has been portrayed by:</p>
-<ul>
-<li>Maurice Costello (<a href="/wiki/A_Tale_of_Two_Cities_(1911_film)" title="A Tale of Two Cities (1911 film)">film</a>, 1911)</li>
-<li>William Farnum (film, 1917)</li>
-<li>Clive Brook (film, 1922)</li>
-<li><a href="/wiki/Ronald_Colman" title="Ronald Colman">Ronald Colman</a> (<a href="/wiki/A_Tale_of_Two_Cities_(1935_film)" title="A Tale of Two Cities (1935 film)">film</a>, 1935)</li>
-<li><a href="/wiki/Wendell_Corey" title="Wendell Corey">Wendell Corey</a> (TV, 1953)</li>
-<li><a href="/wiki/Peter_Wyngarde" title="Peter Wyngarde">Peter Wyngarde</a> (TV/BBC, 1957)</li>
-<li><a href="/wiki/Dirk_Bogarde" title="Dirk Bogarde">Dirk Bogarde</a> (<a href="/wiki/A_Tale_of_Two_Cities_(1958_film)" title="A Tale of Two Cities (1958 film)">film</a>, 1958)</li>
-<li><a href="/wiki/John_Wood_(English_actor)" title="John Wood (English actor)">John Wood</a> (TV/BBC, 1965)</li>
-<li><a href="/wiki/Paul_Shelley" title="Paul Shelley">Paul Shelley</a> (TV/BBC, 1980)</li>
-<li><a href="/wiki/Chris_Sarandon" title="Chris Sarandon">Chris Sarandon</a> (TV, 1980)</li>
-<li><a href="/wiki/James_Wilby" title="James Wilby">James Wilby</a> (TV/BBC, 1989)</li>
-</ul>
-<p>On radio, he has been portrayed by <a href="/wiki/Orson_Welles" title="Orson Welles">Orson Welles</a>, <a href="/wiki/Charles_Dance" title="Charles Dance">Charles Dance</a> and <a href="/wiki/Paul_Ready" title="Paul Ready">Paul Ready</a>.</p>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sydney_Carton&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://literature.org/authors/dickens-charles/two-cities/book-03/chapter-15.html"><i>Literature.org: The Online Literature Source</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASydney+Carton&amp;rft.btitle=Literature.org%3A+The+Online+Literature+Source&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fliterature.org%2Fauthors%2Fdickens-charles%2Ftwo-cities%2Fbook-03%2Fchapter-15.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Laidler, Keith,<i>The Carton Chronicles&#160;: The Curious Tale of Flashman's true father</i>. Aziloth Books, 2010, <a href="/wiki/Special:BookSources/9781907523014" class="internal mw-magiclink-isbn">ISBN 978-1-907523-01-4</a>)</span></li>
-</ol>
-</div>
-<div role="navigation" class="navbox" aria-labelledby="Charles_Dickens.27_A_Tale_of_Two_Cities" style="padding:3px">
-<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-<tr>
-<th scope="col" class="navbox-title" colspan="2">
-<div class="plainlinks hlist navbar mini">
-<ul>
-<li class="nv-view"><a href="/wiki/Template:A_Tale_of_Two_Cities" title="Template:A Tale of Two Cities"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="/wiki/Template_talk:A_Tale_of_Two_Cities" title="Template talk:A Tale of Two Cities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:A_Tale_of_Two_Cities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
-</ul>
-</div>
-<div id="Charles_Dickens.27_A_Tale_of_Two_Cities" style="font-size:114%;margin:0 4em"><a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>' <i><a href="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</a></i></div>
-</th>
-</tr>
-<tr style="height:2px">
-<td colspan="2"></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group">Characters</th>
-<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><strong class="selflink">Sydney Carton</strong></li>
-<li><a href="/wiki/Lucie_Manette" title="Lucie Manette">Lucie Manette</a></li>
-<li><a href="/wiki/Charles_Darnay" title="Charles Darnay">Charles Darnay</a></li>
-<li><a href="/wiki/Alexandre_Manette" title="Alexandre Manette">Alexandre Manette</a></li>
-<li><a href="/wiki/Ernest_Defarge" title="Ernest Defarge">Monsieur Ernest Defarge</a></li>
-<li><a href="/wiki/Madame_Defarge" title="Madame Defarge">Madame Thérèse Defarge</a></li>
-<li><a href="/wiki/Jarvis_Lorry" title="Jarvis Lorry">Jarvis Lorry</a></li>
-<li><a href="/wiki/Miss_Pross" title="Miss Pross">Miss Pross</a></li>
-<li><a href="/wiki/Marquis_St._Evr%C3%A9monde" title="Marquis St. Evrémonde">Marquis St. Evrémonde</a></li>
-<li><a href="/wiki/John_Barsad" title="John Barsad">John Barsad</a></li>
-<li><a href="/wiki/Jerry_Cruncher" title="Jerry Cruncher">Jerry Cruncher</a></li>
-<li><a href="/wiki/Stryver" title="Stryver">Stryver</a></li>
-<li><a href="/wiki/The_seamstress_(A_Tale_of_Two_Cities)" title="The seamstress (A Tale of Two Cities)">The Seamstress</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td colspan="2"></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group">Film</th>
-<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><i><a href="/wiki/A_Tale_of_Two_Cities_(1911_film)" title="A Tale of Two Cities (1911 film)">A Tale of Two Cities</a></i> (1911)</li>
-<li><i><a href="/wiki/A_Tale_of_Two_Cities_(1917_film)" title="A Tale of Two Cities (1917 film)">A Tale of Two Cities</a></i> (1917)</li>
-<li><i><a href="/wiki/A_Tale_of_Two_Cities_(1922_film)" title="A Tale of Two Cities (1922 film)">A Tale of Two Cities</a></i> (1922)</li>
-<li><i><a href="/wiki/The_Only_Way_(1927_film)" title="The Only Way (1927 film)">The Only Way</a></i> (1927)</li>
-<li><i><a href="/wiki/A_Tale_of_Two_Cities_(1935_film)" title="A Tale of Two Cities (1935 film)">A Tale of Two Cities</a></i> (1935)</li>
-<li><i><a href="/wiki/A_Tale_of_Two_Cities_(1958_film)" title="A Tale of Two Cities (1958 film)">A Tale of Two Cities</a></i> (1958)</li>
-<li><i><a href="/wiki/A_Tale_of_Two_Cities_(1980_film)" title="A Tale of Two Cities (1980 film)">A Tale of Two Cities</a></i> (1980)</li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td colspan="2"></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group">Television parodies</th>
-<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li>"<a href="/wiki/The_Story_of_Flibber-o-loo" class="mw-redirect" title="The Story of Flibber-o-loo">The Story of Flibber-o-loo</a>" (<i>VeggieTales</i>)</li>
-<li>"<a href="/wiki/A_Tale_of_Two_Cities_(Lost)" title="A Tale of Two Cities (Lost)">A Tale of Two Cities</a>" (<i>Lost</i>)</li>
-<li>"<a href="/wiki/A_Tale_of_Two_Springfields" title="A Tale of Two Springfields">A Tale of Two Springfields</a>" (<i>The Simpsons</i>)</li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td colspan="2"></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group">Musicals</th>
-<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><i><a href="/wiki/Two_Cities_(musical)" title="Two Cities (musical)">Two Cities</a></i> (2006)</li>
-<li><a href="/wiki/A_Tale_of_Two_Cities_(musical)" title="A Tale of Two Cities (musical)"><i>A Tale of Two Cities</i></a> (2007)</li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head profile="http://dublincore.org/documents/dcq-html/"><title>BBC - Ethics - Animal ethics: Animal rights</title><style type="text/css">
+        #archive-mothballed-message a:hover span {
+            text-decoration:underline;
+        }
+        #blq-container #archived-mothball-message a {
+            padding-left:250px;
+            padding-top:17px;
+            background-position: 180px 10px;
+        }
+        #ttd-masthead #archived-mothball-message a {
+            padding-left:250px;
+            padding-top:17px;
+            background-position: 180px 10px;
+        }
+        #k-masthead-container #archived-mothball-message a {
+            padding-left:250px;
+            padding-top:17px;
+            background-position: 180px 10px;
+        }
+        #archived-mothball-message a {
+            display:block;
+            height:56px;
+            background:url(/globalresources/mothball-images/i.gif)
+                100px 10px no-repeat;
+            color:#666;
+            text-decoration:none;
+            padding-left:160px;
+            padding-top:12px;
+            font-size:20px;
+            font-family: verdana,helvetica,arial,sans-serif;
+            font-weight: normal;
+        }
+    </style><meta name="description" content="This article discusses whether non-human animals have rights, and what is meant by animal rights."><meta name="keywords" content="humane, experiments, hunting, zoos, St Thomas Aquinas, Rene Descartes,Mary Warnoc, speciesism"><link rel="schema.dcterms" href="http://purl.org/dc/terms/"><meta name="DCTERMS.created" content="2005-02-08"><meta name="DCTERMS.updated" content="2009-12-08"><!-- Glow cachebust:    
+                --><!-- Barlesque 2.75.0 --><link rel="schema.dcterms" href="http://purl.org/dc/terms/"><link rel="index" href="http://www.bbc.co.uk/a-z/" title="A to Z"><link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use"><link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon"><meta name="viewport" content="width = 974"><link rel="stylesheet" type="text/css" href="/staticarchive/c808749ad4d537416e40591def8e05c130d72722.css"><script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.6/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script><script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script><script type="text/javascript" src="http://node1.bbcimg.co.uk/glow/gloader.0.1.6.js"></script><script type="text/javascript" src="/staticarchive/21f604032d29edfa0a166f89bd41c95004718ed2.js"></script><script type="text/javascript">  bbcRequireMap = {"jquery-1":"/staticarchive/6cabfa9be6f12b6fec5ddf61c2dca1dde868555e", "jquery-1.4":"/staticarchive/cce0a0919c693f9473535d6941613bad16a4b40f", "jquery-1.9":"/staticarchive/14a082a42c1074b40bedae2666d3204e142899f5", "swfobject-2":"/staticarchive/b02e05aa3b12cfe8510390c7eccecd0af315b0a6", "demi-1":"/staticarchive/a916559c328a465dafcc30056734651ac8fdbb4b", "gelui-1":"/staticarchive/0159feca9179b145c659298e302b55dc76dfa15d", "cssp!gelui-1/overlay":"/staticarchive/fee6b4a3b22c51a59dd3ddebfb1b765049c683f6.css", "istats-1":"/staticarchive/125ca583fde51c9babc88112cf0545a6d2cf53ac", "relay-1":"/staticarchive/ab39b61cf0980994246594bebe70fe460df87a42", "clock-1":"/staticarchive/7b8bb05c3fa19067c2c4c99144d21702cc15704f", "canvas-clock-1":"/staticarchive/703fd8b8a1b4ecf9cf624195bfb9691c648d3919", "cssp!clock-1":"/staticarchive/85ca997ae2f6bd2990765422dcc5b1c386c9d0cb.css", "jssignals-1":"/staticarchive/238f1d675d1626860f85815b7ab638cd41811a06", "jcarousel-1":"/staticarchive/3b38690b91f14468826c5f05f6e3da9beb55f4b1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3.js", "gelui-1/widget": "/staticarchive/fcf01fd866ac629bad5a92592c208c3b04184cd3", "gelui-1/carousel": "/staticarchive/562f83c33cfe04062d95de8024ba03636cd0af4c", "gelui-1/core": "/staticarchive/d69cc93987af4e17f910996164dc15516614353e", "gelui-1/overlay": "/staticarchive/84bd061f5e14f0728caa8c933fe6d758b54fec5a", "gelui-1/autosuggest": "/staticarchive/ca81d8400ee443b0c31a47f1eea1c6872091dd48"}; require({ baseUrl: 'http://'+location.host+'/', paths: bbcRequireMap, waitSeconds: 30 }); </script><script type="text/javascript" src="/staticarchive/1b2549937977a29e048af5c307e7f73044570f03.js"></script><!--[if (IE 6)|(IE 7)|(IE 8)]> <style type="text/css"> html{font-size:125%} body{font-size:50%} .blq-tooltipped:hover {background-position:0 0} #blq-autosuggest ul li { zoom:normal; } .skylightTheme #blq-mast-home, .doveTheme #blq-mast-home, .tealTheme #blq-mast-home, .aquaTheme #blq-mast-home, .greenTheme #blq-mast-home, .violetTheme #blq-mast-home, .purpleTheme #blq-mast-home, .pinkTheme #blq-mast-home, .oliveTheme #blq-mast-home, .suedeTheme #blq-mast-home, .redTheme #blq-mast-home, .orangeTheme #blq-mast-home { filter: none; -ms-filter: ""; } #blq-nav-main { background-position: 96% 17px; } </style> <![endif]--><!--[if IE 7]> <link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/style/ie7.css" type="text/css" /> <style type="text/css"> .blq-clearfix {display: inline-block} </style> <![endif]--><!--[if IE 6]> <link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/style/ie6.css" type="text/css" /> <style type="text/css"> .blq-js #blq-nav-foot div {filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/img/panel.png', sizingMethod='image');margin-top:-139px}  #blq-container {height: 15%} #blq-mast-home span.blq-home { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod='crop', src='/staticarchive/2e00d1d53e9c3bd91993196aa19a1d88589969f0.png');} #blq-mast #blq-search-btn { background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/img/blq-search_grey_alpha.png', sizingMethod='image'); } </style>  <script type="text/javascript"> try { document.execCommand("BackgroundImageCache",false,true); } catch(e) {} </script> <![endif]--><script type="text/javascript"> blq.assetPath="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/"; blqOnDomReady(function() {  blq.suggest_short = false; blq.addAutoSuggest(); });  blq.setEnvironment('live');  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; }  </script><script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) {  var defaultThreshold = 0, usePulseThreshold = (flag === 'OFF')? 1 : defaultThreshold, activeThreshold; w.oqs = w.oqs || {}; /* we support cookie override for testing */ if ( w.document.cookie.match(/(?:^|; *)ckns_oqs_usePulseThreshold=([\d.]+)/) ) { activeThreshold = RegExp.$1; } /* we support clientside override */ else if (typeof w.oqs_usePulseThreshold !== 'undefined') { activeThreshold = w.oqs_usePulseThreshold; } else { activeThreshold = usePulseThreshold; } w.oqs.usePulse = (w.Math.random() < activeThreshold); if (!w.oqs.usePulse) {  w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script><!-- ISTATS --><script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/signin", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/" }); /* ]]> */ </script><script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.63.23/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.23.4/modules/idcta/idcta-1'; require({paths: map}); define('id-config', {"idapp":{"version":"0.63.23","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.29.1"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity"},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.63.23\/modules\/idapp\/idapp-1\/View.css"}}); })(); </script><style type="text/css">
+	@import '/staticarchive/de138284d8eceb705f73af8711ffe078b1fe323f.css';
+	@import '/staticarchive/67f790428e1dc1baf083f87e41c9f6785a11c0fe.css';
+	@import '/staticarchive/3e670a904ae54eff0cac6844b0c25704a7f34bec.css';
+	
+</style><link rel="stylesheet" type="text/css" media="screen" href="/staticarchive/e121841179ae452eb75b868edf68c2377eb8b6a1.css"><link rel="stylesheet" type="text/css" media="print" href="/staticarchive/7e24410b9b1b41d15ef363a38479a8006b090ff6.css"><!-- Barlesque: --><script type="text/javascript">
 <!-- 
-NewPP limit report
-Parsed by mw1184
-Cached time: 20170323110307
-Cache expiry: 2592000
-Dynamic content: false
-CPU time usage: 0.132 seconds
-Real time usage: 0.169 seconds
-Preprocessor visited node count: 769/1000000
-Preprocessor generated node count: 0/1500000
-Post‐expand include size: 16003/2097152 bytes
-Template argument size: 587/2097152 bytes
-Highest expansion depth: 10/40
-Expensive parser function count: 0/500
-Lua time usage: 0.050/10.000 seconds
-Lua memory usage: 1.94 MB/50 MB
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  141.885      1 -total
- 52.81%   74.927      1 Template:Infobox_character
- 38.97%   55.288      1 Template:Infobox
- 29.02%   41.175      1 Template:Reflist
- 24.09%   34.182      1 Template:Citation
- 12.28%   17.421      4 Template:Ifempty
- 10.20%   14.475      1 Template:Quote
-  7.24%   10.273      1 Template:A_Tale_of_Two_Cities
-  7.02%    9.964      1 Template:Comma_separated_entries
-  5.67%    8.048      1 Template:Navbox
--->
+	if (document.documentElement && document.getElementById){
+		document.documentElement.className += " js";
+	}	
+// -->		
+</script><!-- Glow library : core modules --><script type="text/javascript">
+	gloader.load(["glow", "1", "glow.anim", "glow.net", "glow.dom", "glow.embed"]);
+</script><!-- EMP embed support --><script type="text/javascript" src="/staticarchive/296b7e9b01b56142aec1bfa4760e2eb86073b802.js"></script><script type="text/javascript" src="/staticarchive/880927e055ea2d75cc32254b7274b0e4a04822c2.js"></script><!-- Live Stats Variable --><!-- End of Live Stats Variable Settings --></head><body class="lime prg-content-lhn article ethics">
+	<div><a name="top"> </a></div>                <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&app_type=web&ml_name=SSI&ml_version=0.23.1&language=en-GB'; /*]]>*/</script><script type="text/javascript" src="http://static.bbci.co.uk/archive_stats/modules/stats-1.0.0.js"></script>    <div id="blq-container" class="blq-lang-en-GB blq-gvl-2-8"> <div id="blq-pre-mast" lang="en-GB"> <!-- Pre mast -->  </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <div id="bbccookies-prompt" class="bbccookies-d"> <h2> Cookies on the BBC website </h2> <p> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]></script><script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}}})(); /*]]>*/</script><span id="blq-mast-background"></span> <div id="blq-container-inner" lang="en-GB">  <div id="blq-acc" class="blq-rst">  <p id="blq-mast-home" class="blq-no-images"><a href="/" hreflang="en-GB"> <span id="blq-blocks-wrapper"> <span class="blq-home">British Broadcasting Corporation</span><img src="/staticarchive/2e00d1d53e9c3bd91993196aa19a1d88589969f0.png" alt="BBC" id="blq-blocks" width="84" height="24"><span class="blq-span">Home</span> </span> </a></p>  <p class="blq-hide"><strong><a id="page-top">Accessibility links</a></strong></p> <ul id="blq-acc-links"><li><a href="#blq-content">Skip to content</a></li>  <li><a href="#blq-local-nav">Skip to local navigation</a></li>  <li><a href="#blq-nav-main">Skip to bbc.co.uk navigation</a></li> <li><a href="#blq-search">Skip to bbc.co.uk search</a></li>  <li><a href="/accessibility/">Accessibility Help</a></li>   </ul></div>   <div id="archived-mothball-message" style="
+            background:url(/globalresources/mothball-images/bg.jpg)
+                        0 0 repeat-x #fbfbfb;
+    ">
+        <a href="/globalresources/mothballing" style="
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1856402-0!*!0!!*!4!* and timestamp 20170323110307 and revision id 754788744
- -->
-<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sydney_Carton&amp;oldid=754788744">https://en.wikipedia.org/w/index.php?title=Sydney_Carton&amp;oldid=754788744</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fictional_characters_introduced_in_1859" title="Category:Fictional characters introduced in 1859">Fictional characters introduced in 1859</a></li><li><a href="/wiki/Category:A_Tale_of_Two_Cities_characters" title="Category:A Tale of Two Cities characters">A Tale of Two Cities characters</a></li><li><a href="/wiki/Category:Fictional_lawyers" title="Category:Fictional lawyers">Fictional lawyers</a></li><li><a href="/wiki/Category:Fictional_characters_who_committed_suicide" title="Category:Fictional characters who committed suicide">Fictional characters who committed suicide</a></li><li><a href="/wiki/Category:Fictional_English_people" title="Category:Fictional English people">Fictional English people</a></li><li><a href="/wiki/Category:Fictional_alcohol_abusers" title="Category:Fictional alcohol abusers">Fictional alcohol abusers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>				<div class="visualClear"></div>
-							</div>
-		</div>
-		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
+        ">
+            This page has been archived and is no longer updated.
+            <span style="
+                display:block;
+                font-size:0.5em;
+                padding:10px 0 0 70px;
+                font-weight:bold;
+            ">
+                <span style="
+                color:#1A75BB; margin-left:100px;
+                ">Find out more about page archiving.</span>
+            </span>
+        </a>
+    </div><div id="blq-main" class="blq-clearfix">        
 
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sydney+Carton" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sydney+Carton" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sydney_Carton"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-															<li  id="ca-talk"><span><a href="/wiki/Talk:Sydney_Carton"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
-													</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span><a href="#"></a>
-						</h3>
+	<!--START PROGRAMMES CONTENT CONTAINER SHELL-->
+	<div id="prg-masthead">
+	<p><a href="/ethics/guide" title="Ethics guide">Ethics guide</a></p>
 
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-															<li id="ca-view" class="selected"><span><a href="/wiki/Sydney_Carton" >Read</a></span></li>
-															<li id="ca-edit"><span><a href="/w/index.php?title=Sydney_Carton&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
-															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sydney_Carton&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-													</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+	</div>
+	<div class="prg-wrapper" id="prg-wrapper-shell">
+	<div id="blq-content">
+		
+	<div id="prg-wrapper-featured"><!-- START MAIN CONTENT AREA -->
+	<div class="box top_promo">
+	<div class="header"><h1>Animal rights</h1>
+	
+	</div>
+	<div class="content">
+	<p>This article discusses whether non-human animals have rights, and what is meant by animal rights.</p>
+	</div>
+	<div class="footer"> </div>
+	</div>
+		
+	<div class="p-grp p-grp-a p-grp-theme-n nth-row-n">
+	<!--LEFT HAND NAV-->
+	<div class="left-nav">
+	<h2>On this page</h2>
+	<ul><li><a href="#h1">Animal rights</a></li>
+	<li><a href="#h2">The case for animal rights</a></li>
+	<li><a href="#h3">The case against animal rights</a></li>
+	<li><a href="#h4">Animals aren't 'moral'</a></li>
+	<li><a href="#h5">Moral community</a></li>
+	<li><a href="#h6">Fundamental rights</a></li>
+	<li><a href="#h7">The problem of 'marginal people'</a></li>
+	</ul><h3>Page options</h3>
+	<ul class="tools"><li class="print"><a href="#" onclick="window.print();return false;">Print this page</a></li>
+	</ul></div>
+		
+	<div class="center">
+	
+	<div class="content-main-header"> </div>
+	<div class="p-mod nth-child-1 content-main">
+	<a name="section_1"> </a>
+	<div class="promo">
+	
+<h2 class="heading-nth-1" id="h1">Animal rights</h2>
+	
 
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
+<span class="image_with_caption float_right" style="width: 130px;">
+	<img alt="Large dog in a small crate" height="130" src="/staticarchive/13e9a5350155d6c851b67a8ee6ea5b2cce262a90.jpg" width="130"></span>
+	
 
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
+<p>There is much disagreement as to whether non-human animals have rights, and what is meant by animal rights.</p>
+
+<p>There is much less disagreement about the consequences of accepting that animals have rights.</p>
+
+<h3>The consequences of animal rights</h3>
+	
+<p>Animal rights teach us that certain things are wrong as a matter of principle, that there are some things that it is morally wrong to do to animals.</p>
+
+<p>Human beings must not do those things, no matter what the cost to humanity of not doing them.</p>
+
+<p>Human beings must not do those things, even if they do them in a humane way.</p>
+
+<p>For example: if animals have a right not to be bred and killed for food then animals must not be bred and killed for food.</p>
+
+<p>It makes no difference if the animals are given 5-star treatment throughout their lives and then killed humanely without any fear or pain - it's just plain wrong in principle, and nothing can make it right.</p>
+
+<p>Accepting the doctrine of animal rights means:</p>
+
+<ul><li>No <a href="/ethics/animals/using/experiments_1.shtml">experiments on animals</a></li>
+	<li>No breeding and killing animals for <a href="/ethics/animals/using/eating_1.shtml">food</a> or clothes or medicine</li>
+	<li>No use of animals for hard labour</li>
+	<li>No selective breeding for any reason other than the benefit of the animal</li>
+	<li>No <a href="/ethics/animals/using/hunting_1.shtml">hunting</a></li>
+	<li>No <a href="/ethics/animals/using/entertainment_1.shtml">zoos</a> or use of animals in <a href="/ethics/animals/using/entertainment_1.shtml">entertainment</a></li>
+</ul><div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	<a name="section_2"> </a>
+	<div class="promo">
+	
+
+<h2 id="h2">The case for animal rights</h2>
+	
+
+<p>Philosophers have usually avoided arguing that all non-human animals have rights because:</p>
+
+<ul><li>the consequences are so limiting for humanity</li>
+	<li>it would give rights to creatures that are so simple that the idea of them having rights seems to defy common sense</li>
+</ul><p>The second problem is dealt with by not arguing that all animals have rights, but only that 'higher' animals have rights.</p>
+
+<p>One leading author restricts right to mentally normal mammals at least one year old (called 'adult mammals' from now on).</p>
+
+<h3>The case for animal rights</h3>
+	
+<p>The case for animal rights is usually derived from the case for human rights.</p>
+
+<p>The argument (grossly oversimplified) goes like this:</p>
+
+<ul><li>Human animals have rights</li>
+	<li>There is no morally relevant difference between human animals and adult mammals</li>
+	<li>Therefore adult mammals must have rights too</li>
+</ul><p>Human beings and adult mammals have rights because they are both 'subjects-of-a-life'.</p>
+
+<p>This means that:</p>
+
+<ul><li>They have similar levels of biological complexity</li>
+	<li>They are conscious and aware that they exist</li>
+	<li>They know what is happening to them</li>
+	<li>They prefer some things and dislike others</li>
+	<li>They make conscious choices</li>
+	<li>They live in such a way as to give themselves the best quality of life</li>
+	<li>They plan their lives to some extent</li>
+	<li>The quality and length of their life matters to them</li>
+</ul><p>If a being is the subject-of-a-life then it can be said to have 'inherent value'.</p>
+
+<p>All beings with inherent value are equally valuable and entitled to the same rights.</p>
+
+<p>Their inherent value doesn't depend on how useful they are to the world, and it doesn't diminish if they are a burden to others.</p>
+
+<p>Thus adult mammals have rights in just the same way, for the same reasons, and to the same extent that human beings have rights.</p>
+
+
+	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	<a name="section_3"> </a>
+	<div class="promo">
+	
+  <h2 id="h3">The case against animal rights</h2>
+	
+
+<p>A number of arguments are put forward against the idea that animals have rights.</p>
+
+<ul><li>Animals don't think</li>
+	<li>Animals are not really conscious</li>
+	<li>Animals were put on earth to serve human beings</li>
+	<li>Animals don't have souls</li>
+	<li>Animals don't behave morally</li>
+	<li>Animals are not members of the 'moral community'</li>
+	<li>Animals lack the capacity for free moral judgment</li>
+	<li>Animals don't think</li>
+</ul><p>St Thomas Aquinas taught that animals acted purely on instinct while human beings engaged in rational thought.</p>
+
+<p>This distinction provided the frontier between human beings and animals, and was regarded as a suitable criterion for assessing a being's moral status.</p>
+
+<h3>Animals are not really conscious</h3>
+	
+<span class="image_with_caption float_right" style="width: 130px;">
+	<img alt="Orangutan washing clothes" height="130" src="/staticarchive/31ee60b4525e876d97e9f5ad666a6f65643f0be0.jpg" width="130"></span>
+	
+
+<p>The French philosopher Rene Descartes, and many others, taught that animals were no more than complicated biological robots.</p>
+
+<p>This meant that animals were not the sort of thing that was entitled to have any rights - or indeed any moral consideration at all.</p>
+
+<h3>Animals were put on earth to serve human beings</h3>
+	
+<p>This view comes originally from the Bible, but probably reflects a basic human attitude towards other species.</p>
+
+<p>Christian theologians developed this idea - St Augustine taught that "by a most just ordinance of the Creator, both their [animals'] life and their death are subject to our use."</p>
+
+<p>St Thomas Aquinas taught that the universe was constructed as a hierarchy in which beings at a lower level were there to serve those above them.</p>
+
+<p>As human beings were above animals in this hierarchy they were entitled to use animals in any way they wanted.</p>
+
+<p>However, as C.S. Lewis pointed out:</p>
+
+	
+	<div class="promo_quote_box_top">
+	<blockquote>
+	<p>We may find it difficult to formulate a human right of tormenting beasts in terms which would not equally imply an angelic right of tormenting men.</p>
+	<p><cite>C.S. Lewis, Vivisection</cite></p>
+	</blockquote>
+	</div>
+	<div class="promo_quote_box_bottom"> </div>
+
+<h3>Animals don't have souls</h3>
+	
+<p>Christian theologians used to teach that only beings with souls deserved ethical consideration.</p>
+
+<p>Animals did not have souls and therefore did not have any moral rights.</p>
+
+<p>This argument is no longer regarded as useful, because the idea of the soul is very controversial and unclear, even among religious people. Furthermore it is not possible to establish the existence of the soul (human or animal) in a valid experimental way.</p>
+
+<p>This also makes it difficult to argue, as some theologians have done, that animals should have rights because they do have souls.</p>
+
+
+	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	<a name="section_4"> </a>
+	<div class="promo">
+	
+  <h2 id="h4">Animals aren't 'moral'</h2>
+	
+  
+<p>Some of the arguments against animal rights centre on whether animals behave morally.</p>
+
+<h3>Rights are unique to human beings</h3>
+	
+
+<ul><li>rights only have meaning within a <a href="#h5">moral community</a></li>
+	<li>only human beings live in a moral community</li>
+	<li>adult mammals don't understand or practice living according to a moral code</li>
+	<li>the differences in the way human beings and adult mammals experience the world are morally relevant</li>
+	<li>therefore rights is a uniquely human concept and only applies to human beings</li>
+</ul><h3>Animals don't behave morally</h3>
+	
+<p>Some argue that since animals don't behave in a moral way they don't deserve moral treatment from other beings.</p>
+
+<p>Animals, it's argued, usually behave selfishly, and look after their own interests, while human beings will often help other people, even if doing so is to their own disadvantage.</p>
+
+<p>Not all scientists agree: Jane Goodall, an expert on chimpanzees has reported that they sometimes show truly altruistic behaviour.</p>
+
+<h3>Animals don't have rights against other animals</h3>
+	
+<p>Another reason for thinking that animals don't behave morally is that even the most enthusiastic supporters of animal rights only argue that animals have rights against human beings, not against other animals.</p>
+
+<p>For example, as Mary Warnock put it:</p>
+
+	
+	<div class="promo_quote_box_top">
+	<blockquote>
+	<p>
+	</p><p>May they [animals] be hunted? To this the answer is no, not by humans; but presumably their rights are not infringed if they are hunted by animals other than human beings.</p>
+	<p>And here the real difficulties start. If all animals had a right to freedom to live their lives without molestation, then someone would have to protect them from one another. But this is absurd...</p>
+	
+	<p><cite>M Warnock, An Intelligent Person's Guide to Ethics, 1998</cite></p>
+	</blockquote>
+	</div>
+	<div class="promo_quote_box_bottom"> </div>
+
+<p>Why this might be relevant to the question of whether animals should have rights becomes clearer if you rephrase it in terms of duties or obligations instead of rights and ask - why should human beings have obligations towards animals, if animals don't have obligations to other animals or to human beings?</p>
+
+
+	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	<a name="section_5"> </a>
+	<div class="promo">
+	
+  <h2 id="h5">Moral community</h2>
+	
+
+<p>This argument states that animals are not members of the 'moral community'.</p>
+
+<ul><li>A moral community is
+		<ul><li>a group of beings who live in relationship with each other and use and understand moral concepts and rules</li>
+		<li>the members of this community can respect each other as moral persons</li>
+		<li>the members of this community respect each other's autonomy</li>
+		</ul></li>
+	<li>human beings do display these characteristics and are therefore members of the 'moral community'</li>
+	<li>animals do not display these characteristics and are therefore not members of the 'moral community'
+		<ul><li>most people would agree with this: after all we don't regard a dog as having done something morally wrong when it bites someone - if the dog is put to death because of the bite, that is to protect people, not to punish the dog</li>
+		</ul></li>
+	<li>only members of a 'moral community' can have rights, therefore animals don't have rights</li>
+	<li>members of the 'moral community' are more 'valuable' than beings that are not members of the moral community</li>
+	<li>it is not wrong for valuable beings to 'use' less valuable beings</li>
+	<li>therefore it is not wrong for human beings to use animals</li>
+</ul><h3>Animals lack the capacity for free moral judgements</h3>
+	
+
+<ul><li>If an individual lacks the capacity for free moral judgment, then they do not have moral rights.</li>
+	<li>All non-human animals lack the capacity for free moral judgment.</li>
+	<li>Therefore, non-human animals do not have moral rights.</li>
+</ul><div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	<a name="section_6"> </a>
+	<div class="promo">
+	
+  <h2 id="h6">Fundamental rights</h2>
+	
+
+<p>Animal and human rights boil down to one fundamental right: the right to be treated with respect as an individual with inherent value.</p>
+
+<p>Philosophers have a traditional way of expressing this:</p>
+
+	
+	<div class="promo_quote_box_top">
+	<blockquote>
+	<p>Animals with rights must be treated as ends in themselves; they should not be treated by others as means to achieve their ends.</p>
+	</blockquote>
+	</div>
+	<div class="promo_quote_box_bottom"> </div>
+
+<p>From this fundamental right come other rights.</p>
+
+<p>Particular species only get relevant and useful rights - so animals don't get all the rights that human beings get. For example: animals don't want or get the right to vote.</p>
+
+<h3>When rights conflict</h3>
+	
+<p>Sometimes a particular situation results in a conflict of rights.</p>
+
+<p>Two methods can be used to determine the best course of action when there is no alternative to violating the rights of some individual or group:</p>
+
+<ul><li>The Miniride Principle: Where similar harms are involved, override the fewest individuals' rights.</li>
+	<li>The Worse-off Principle: Where dissimilar harms are involved, avoid harming the worse-off individual.</li>
+</ul><p>Harm is defined as the reduction of the capacity to have and fulfil desires.</p>
+
+<p>This definition of harm benefits people over animals because human beings have far more desires that they want to satisfy than do non-human animals.</p>
+
+<p>This resolves many of the traditional problems of humans versus animals in favour of humanity, because the human being under consideration would suffer far more harm than the non-human animal.</p>
+
+<p>But be careful: this method of choosing alternative courses of action is not utilitarian, it doesn't necessarily lead to choosing the course of action that produces the greatest overall happiness.</p>
+
+
+	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	<a name="section_7"> </a>
+	<div class="promo">
+	
+  <h2 id="h7">The problem of 'marginal people'</h2>
+	
+
+<span class="image_with_caption float_right" style="width: 140px;">
+	<img alt="Newborn baby girl" height="100" src="/staticarchive/68f492b3a60d34d8143c2786dde53489960bd9b0.jpg" width="140"></span>
+	
+
+<p>The phrase 'marginal people' or 'marginal human beings' is unpleasant. We use it here only because if you read the literature of animal rights you will encounter it often, and it's important to know what it means. We do not intend to denigrate the status or worth of any human being by using it here...</p>
+
+<p>The problem with the line of thought in the section above that it takes rights away from many human beings as well as from non-human animals.</p>
+
+<p>This is because some human beings (babies, senile people, people with some severe mental defects and people in a coma) don't have the capacity for free moral judgement either, and by this argument they wouldn't have any rights.</p>
+
+<p>Some philosophers are prepared to argue that in fact such 'marginal human beings' don't have rights, but most people find that conclusion repellent.</p>
+
+<p>The argument can be rescued by rewriting it like this:</p>
+
+<ul><li>If an individual is a member of a species that lacks the capacity for free moral judgment, then he or she does not have moral rights.</li>
+	<li>All non-human animal species lack the capacity for free moral judgment.</li>
+	<li>Therefore, non-human animals do not have moral rights.</li>
+</ul><p>But this is not an argument; it's a statement that human beings have rights and non-human animals don't, which is pure <a href="/ethics/animals/rights/speciesism.shtml">speciesism</a>, and hardly persuasive.</p>
+
+<p>It's also vulnerable to the (probably unlikely) arrival of a species of extra-terrestrial creatures who demonstrate the capacity for free moral judgement.</p>
+
+
+	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
+	</div>
+	</div>
+	<div class="content_bottom"> </div>
+		
+	
+
+	</div>
+		
+	</div><!--closes Row - single column -->
+		
+	</div><!-- End: main content area -->
+			<!--START RHN CONTAINER -->
+		<div id="prg-wrapper-extra">
+			<div class="product_button">
+				<!--ETHICS HOMEPAGE BUTTON-->
+				
+				
+				
+				
+				
+				<!-- MORE ETHICS BUTTON -->
+				
+				
+				
+
+				<!-- abortion -->
+				
+				
+				<!-- animals -->
+				
+					<h2>
+						<span class="arrow">«</span>
+						<a href="/ethics/animals/" title="More animals">More on <span>Animals</span></a>
+					</h2>
+				
+				
+				<!-- capitalpunishment -->
+				
+				
+				<!-- charity -->
+				
+				
+				<!-- contraception -->
+				
+				
+				<!-- euthanasia -->
+				
+				
+				<!-- femalecircumcision -->
+				
+				
+				<!-- forcedmarriage -->
+				
+				
+				<!-- honourcrimes -->
+				
+				
+				<!-- introduction -->
+				
+				
+				<!-- lying -->
+				
+				
+				<!-- malecircumcision -->
+				
+				
+				<!-- slavery -->
+				
+				
+				<!-- sport -->
+				
+				
+				<!-- torture -->
+				
+				
+				<!-- war -->
+				
+				
+				
+				
+			</div>	
+				
+			<!-- New row: -->
+			<div class="p-grp">		
+				<div class="p-mod">
+				
+				
+					<!-- new promo module -->
+					<div class="promo">
+						<div class="rhn_header"><h2>See also</h2></div>
+						<div class="rhn_body">
+							<ul><li><a href="/religion/" title="Go to the Religion and Ethics homepage">Religion and Ethics home</a></li>
+								<li><a href="/religion/religions/" title="Go to Religions">Religions</a></li>
+							</ul></div>
+						<div class="module_footer"></div>
 					</div>
-									</div>
+					
+					
+					
+						<div class="promo">
+	<div class="rhn_header"><h2>Around the BBC</h2></div>
+	<div class="rhn_body">
+	<ul><li><a href="/nature/kingdom/Animal">BBC Wildlife Finder - Animals</a></li>
+	<li><a href="http://news.bbc.co.uk/1/hi/sci/tech/default.stm">BBC News - Science and Environment</a></li>
+	</ul></div>
+	<div class="module_footer"> </div>
+	</div>
+		
+	
+					
+					
+					
+				</div>	
 			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
+			
+			<div class="clear_both"></div>
+		<!--END RHN CONTAINER-->
+		</div></div>
+	</div>
+		
+	               </div>   <div id="blq-mast" class="blq-rst blq-default-domestic blq-new-nav" lang="en-GB"> <div id="blq-sign-in">   <div id="id-status" class="blq-id-v4"> <div class="id-out id-gel"> <h2 class="blq-hide">BBC iD</h2> <a href="https://ssl.bbc.co.uk/id/status" id="blq-idstatus-link"> <span class="id-icon"> <span></span> </span> <span id="blq-idstatus-text"> BBC iD </span> <span class="id-spinner"></span> <span class="blq-dropdown-arrow"> <span></span> </span> </a> </div> <div id="id-status-nav"> <div class="id-in blq-rst"> <ul><li> <a name="idDash" class="blq-nogo has-ptrt idDash" href="https://ssl.bbc.co.uk/id/settings"> Settings </a> </li> <li> <a name="idSignout" class="blq-nogo has-ptrt idSignout" href="https://ssl.bbc.co.uk/id/signout"> Sign out </a> </li> </ul></div> </div> </div>          </div>  <form method="get" id="blq-search-form" action="http://search.bbc.co.uk/search" accept-charset="utf-8"> <p id="blq-nav-search">  <input type="hidden" name="go" value="toolbar"><input type="hidden" name="uri" value="/ethics/animals/rights/rights_1.shtml"><label for="blq-search" class="blq-hide">Search term:</label> <input id="blq-search" type="text" name="q" value="" maxlength="128"><input id="blq-search-btn" type="submit" value="Search"></p> </form>   <h2 class="blq-hide">BBC navigation</h2> <ul id="blq-nav-main" class="blq-not-uk"><li id="blq-nav-n"><a href="http://www.bbc.co.uk/news/" hreflang="en-GB">News</a></li>  <li id="blq-nav-s"><a href="http://www.bbc.co.uk/sport/" hreflang="en-GB">Sport</a></li> <li id="blq-nav-w"><a href="http://www.bbc.co.uk/weather/" hreflang="en-GB">Weather</a></li>  <li id="blq-nav-i">  <a href="/iplayer/" hreflang="en-GB">iPlayer</a>  </li>  <li id="blq-nav-t"><a href="/tv/" hreflang="en-GB">TV</a></li>  <li id="blq-nav-r"><a href="/radio/" hreflang="en-GB">Radio</a></li> <li id="blq-nav-m"><a href="#blq-nav">More…</a></li>  </ul></div>  <div id="blq-nav" class="blq-blue"> <div id="blq-nav-links" class="blq-clearfix" lang="en-GB"> <div id="blq-nav-links-inner">  <ul class="blq-nav-sub blq-first"><li><a href="/cbbc/">CBBC</a></li> <li><a href="/cbeebies/">CBeebies</a></li> <li><a href="/comedy/">Comedy</a></li> <li><a href="/food/">Food</a></li> <li><a href="/history/">History</a></li> </ul><ul class="blq-nav-sub"><li><a href="/learning/">Learning</a></li> <li><a href="/music/">Music</a></li> <li><a href="/science/">Science</a></li> <li><a href="http://www.bbc.com/earth/">Earth</a></li> <li><a href="/local/">Local</a></li> </ul><ul class="blq-nav-sub blq-last"><li><a href="/northernireland/">Northern Ireland</a></li> <li><a href="/scotland/">Scotland</a></li> <li><a href="/wales/">Wales</a></li> <li id="blq-az"><a href="/a-z/">Full A-Z<span class="blq-hide"> of BBC sites</span></a></li> </ul></div> </div> </div>  <!--[if IE 6]> <div id="blq-ie6-upgrade"> <p> <span>You're using the Internet Explorer 6 browser to view the BBC website. Our site will work much better if you change to a more modern browser. It's free, quick and easy.</span> <a href="http://www.browserchoice.eu/">Find out more <span>about upgrading your browser</span> here&hellip;</a> </p> </div> <![endif]-->  <div id="blq-foot" lang="en-GB" class="blq-rst blq-clearfix blq-foot-grey">  <div id="blq-footlinks"> <h2 class="blq-hide">BBC links</h2> <ul><li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="http://m.bbc.co.uk/">Mobile site</a></li>      <li><a href="/terms/">Terms of Use</a></li>       <li><a href="/aboutthebbc/">About the BBC</a></li>  </ul></li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="/privacy/">Privacy</a></li>       <li><a href="/accessibility/">Accessibility Help</a></li>  </ul></li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="/privacy/cookies/about">Cookies</a></li>        <li><a href="/contact/">Contact the BBC</a></li>   </ul></li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="/guidance/">Parental Guidance</a></li>  </ul></li>  </ul></div>   <div id="blq-foot-blocks" class="blq-footer-image-light"><img src="/staticarchive/a8e42f8fe987b7cc9bf2d43b74b2c74b2448d2e3.png" width="84" height="24" alt="BBC"></div> <p id="blq-disclaim"><span id="blq-copy">BBC © 2014</span> <a href="/help/web/links/">The BBC is not responsible for the content of external sites. Read more.</a></p> <div id="blq-obit"><p><strong>This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.</strong></p></div> </div> </div>  </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script><!-- progs scripts --><script type="text/javascript" src="/staticarchive/7e06d56c105e40ac2586df1fdee6dc2c4de3522b.js"></script><script type="text/javascript" src="/staticarchive/9db0e83f69a5e9abafddc192847b0cfd316cb3da.js"></script><script type="text/javascript" src="/staticarchive/c22b3ff9cd32a6a8c384665fef98785674d88408.js"></script><script type="text/javascript" src="/staticarchive/290c74c7c0fce7cf3c54f4747d56712839f0da48.js"></script><script type="text/javascript" src="/staticarchive/159117ef9f66736fed7c12cf0096784ffa74c3d5.js"></script><div id="vision-prod-livestats-bug">
+	<!-- LiveStats -->
+<div class="blq-hide"><img id="livestats" width="1" height="1" alt="" src="/staticarchive/56d45f8a17f5078a20af9962c992ca4678450765.gif"></div>
 
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
+<!-- LiveStats heatmap -->
+<script src="/staticarchive/e48c065d50111cc7095426d5ae5646c41b799914.js" type="text/javascript"></script></div>
 
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sydney_Carton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sydney_Carton" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sydney_Carton&amp;oldid=754788744" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sydney_Carton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q7659855" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sydney_Carton&amp;id=754788744" title="Information on how to cite this page">Cite this page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sydney+Carton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sydney+Carton&amp;returnto=Sydney+Carton&amp;oldid=754788744&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sydney_Carton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%AF%D9%86%D9%8A_%D9%83%D8%A7%D8%B1%D8%AA%D9%88%D9%86_(%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D9%81%D9%8A_%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)" title="سيدني كارتون (شخصية في رواية) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>					</ul>
-				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q7659855#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 14 December 2016, at 14:37.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sydney_Carton&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.169","ppvisitednodes":{"value":769,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16003,"limit":2097152},"templateargumentsize":{"value":587,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  141.885      1 -total"," 52.81%   74.927      1 Template:Infobox_character"," 38.97%   55.288      1 Template:Infobox"," 29.02%   41.175      1 Template:Reflist"," 24.09%   34.182      1 Template:Citation"," 12.28%   17.421      4 Template:Ifempty"," 10.20%   14.475      1 Template:Quote","  7.24%   10.273      1 Template:A_Tale_of_Two_Cities","  7.02%    9.964      1 Template:Comma_separated_entries","  5.67%    8.048      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"10.000"},"limitreport-memusage":{"value":2038048,"limit":52428800}},"cachereport":{"origin":"mw1184","timestamp":"20170323110307","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":272,"wgHostname":"mw1184"});});</script>
-	</body>
-</html>
+	</body></html>
