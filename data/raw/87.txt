@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2015 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="http://www.fao.org/">
+<link rel="shortcut icon" href="http://www.fao.org/fileadmin/images/icons/favicon.ico" type="image/x-icon; charset=binary">
+<link rel="icon" href="http://www.fao.org/fileadmin/images/icons/favicon.ico" type="image/x-icon; charset=binary">
+<title>Education for Rural People: ERP Home</title>
+<meta name="generator" content="TYPO3 CMS">
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_96999b3ef0.css?1460388378" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/ERP/erp_style.css?1319553421" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/faohome/liMenu.css?1439470963" media="all">
+
+
+
+<script src="typo3temp/javascript_93077bb238.js?1460386799" type="text/javascript"></script>
+
+
+
+
+	<!-- pp_lib:headmgr BEGIN  -->
+
+	<!-- pp_lib:headmgr END -->
+<meta name="google-site-verification" content="FbeHqFX1RBLY6srQObwAl6FDhorAKzZq21MeOB62p4Q" /><link rel="canonical" href="http://www.fao.org/erp/erp-home/en/" /><link rel="alternate" hreflang="en" href="http://www.fao.org/erp/erp-home/en/" /><link rel="alternate" hreflang="fr" href="http://www.fao.org/erp/erp-home/fr/" /><link rel="alternate" hreflang="es" href="http://www.fao.org/erp/erp-home/es/" /><link rel="alternate" hreflang="ar" href="http://www.fao.org/erp/erp-home/ar/" /><link rel="alternate" hreflang="zh" href="http://www.fao.org/erp/erp-home/zh/" /><link rel="alternate" hreflang="ru" href="http://www.fao.org/erp/erp-home/ru/" /><link rel="alternate" hreflang="it" href="http://www.fao.org/erp/erp-home/it/" /><meta name="description" content="Education for rural people (ERP) Home Page" />
+<meta name="keywords" content="Education for Rural People,ERP,AGRICULTURAL EDUCATION,EDUCATIONAL NEEDS,LITERACY,PRIMARY EDUCATION,SECONDARY EDUCATION,TEACHING,rural education,illiteracy" />
+<meta name="DC.Description" content="Education for rural people (ERP) Home Page" />
+<meta name="DC.Subject" content="Education for Rural People,ERP,AGRICULTURAL EDUCATION,EDUCATIONAL NEEDS,LITERACY,PRIMARY EDUCATION,SECONDARY EDUCATION,TEACHING,rural education,illiteracy" />
+<link rel="schema.dc" href="http://purl.org/metadata/dublin_core_elements" />
+<!-- Begin Styles added by af_css_select -->
+<!-- PAGE STYLESHEET, uid:848/pid:12575/persistent -->
+<style type="text/css" media="all">
+div.tx-dynalist-pi1 {
+   width:100%;
+}
+</style>
+<!-- End Styles added by af_css_select -->
+
+
+
+</head>
+<body>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH6V33"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td colspan="2">
+	<table width="84%" align="left" cellspacing="0" cellpadding="0" >
+		<tr><td class="langs" width="100%" height="21" colspan="2"><!-- ###DEV_AREA###  start--> <!-- ###DEV_AREA###  end--><div class="tx-srlanguagemenu-pi1"><div class="NO"><a href="erp/erp-home/ar/" onfocus="blurLink(this);"  >العربية</a></div><div class="NO"><a href="erp/erp-home/zh/" onfocus="blurLink(this);"  >﻿中文</a></div><div class="CUR" id={}><a href="erp/erp-home/en/" onfocus="blurLink(this);"  >english</a></div><div class="NO"><a href="erp/erp-home/fr/" onfocus="blurLink(this);"  >français</a></div><div class="NO"><a href="erp/erp-home/it/" onfocus="blurLink(this);"  >italiano</a></div><div class="NO"><a href="erp/erp-home/ru/" onfocus="blurLink(this);"  >Русский</a></div><div class="NO"><a href="erp/erp-home/es/" onfocus="blurLink(this);"  >Español</a></div></div></td></tr>
+	</table>
+	</td>
+</tr>
+<tr>
+<td colspan="2">
+	<table width="84%" align="left" cellspacing="0" cellpadding="0" >
+	<tr>
+		<td width="160" valign="top" class="leftcolumn">
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr><td class="logo"><div id="c6217" class="csc-default" ><a href="http://www.fao.org"><img src="/fileadmin/images/faologo/FAO-emblem_en.gif" border="0" alt="Food and Agriculture Organization of the United Nations logo" title="Food and Agriculture Organization of the United Nations logo" /></a></div></td></tr>
+				<tr><td class="search"><div id="c165771" class="csc-default" ><!-- search box -->
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.fao.org/erp/google-search-results/en/" id="searchbox_018170620143701104933:y8of4dsemqy">
+  <input name="cx" value="018170620143701104933:y8of4dsemqy" type="hidden">
+  <input name="cof" value="FORID:11" type="hidden">
+  <input style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif&quot;) no-repeat scroll left center rgb(255, 255, 255);" name="q" size="14" type="text">
+  <input type="image" class="submit" name="sa" title="Search" alt="Search" value="search" src="fileadmin/templates/eufao-fsi4dm/images/search_btn.gif"/>
+  <input value="http://www.fao.org/erp/" name="siteurl" type="hidden">
+  </form>
+  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018170620143701104933%3Ay8of4dsemqy"></script>
+<!-- Google CSE Search Box Ends --></div></td></tr>
+				<tr><td>
+					<table width="96%" align="right" class="table_menu" cellspacing="0" cellpadding="0"><tr><td colspan="2" id="navigation"><div class="toc home"><ul><li><a href="http://www.fao.org/index_en.htm">FAO Home</a></li></ul></div></td></tr><tr><td colspan="2" id="navigation"><div class="toc"><ul><li><a href="erp/erp-home/en/" onfocus="blurLink(this);"  class="selected">ERP Home</a></li><li><a href="erp/the-flagship-en/en/" onfocus="blurLink(this);"  >The partnership</a></li><li><a href="erp/erp-news/en/?no_cache=1" onfocus="blurLink(this);"  >News</a></li><li><a href="erp/universities/en/" onfocus="blurLink(this);"  >Universities</a></li><li><a href="erp/social-protection/en/" onfocus="blurLink(this);"  >Social Protection</a></li><li><a href="erp/erp-toolkit-en/en/" onfocus="blurLink(this);"  >ERP Tool Kit</a></li><li><a href="erp/erp-global-study-en/en/" onfocus="blurLink(this);"  >Global Studies</a></li><li><a href="erp/erp-publications-en/en/" onfocus="blurLink(this);"  >Publications</a></li><li><a href="erp/erp-fao-position-en/en/" onfocus="blurLink(this);"  >FAO position</a></li><li><a href="erp/erp-activities-en/en/" onfocus="blurLink(this);"  >Activities</a></li><li><a href="erp/erp-inthenews-en/en/" onfocus="blurLink(this);"  >ERP in the news</a></li><li><a href="erp/links-other/en/" onfocus="blurLink(this);"  >Links & other</a></li><li><a href="erp/erp-partners-en/en/" onfocus="blurLink(this);"  >Partners</a></li><li><a href="erp/erp-login/en/" onfocus="blurLink(this);"  >Login</a></li><li><a href="erp/erp-site-map-en/en/" onfocus="blurLink(this);"  >Site Map</a></li><li><a href="erp/erp-contacts-en/en/" onfocus="blurLink(this);"  >Contacts</a></li></ul></div></td></tr><!-- ###SMENU### start --> <!--###SMENU### end --></table>
+				    </td>
+				</tr>
+			</table>
+		</td>
+		<td valign="top" class="maincolumn_bg" width="100%">
+			<table cellspacing="0" cellpadding="0" border="0" class="maincolumn">
+				<tr>
+					<td colspan="100" valign="top" class="top_banner" >
+						<div id="title_topbanner">ERP Home</div>
+					</td>
+				</tr>
+				<!-- ###TITLE_BANNER_SPECIAL###  start--> <!-- ###TITLE_BANNER_SPECIAL###  end-->
+				
+				<!-- ###SYS_LINKS###  start--> <!-- ###SYS_LINKS###  end-->
+				
+				<tr><td colspan="2" class="heightcell">&nbsp; </td></tr>
+				<!-- ###CONTENT_BANNER###  start--> <!-- ###CONTENT_BANNER###  end-->
+				<tr>
+					<td valign="top" colspan="2" class="maincontent" width="100%">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+							<tr>
+								
+								<td class="newsroom_2cols" valign="top"><div id="c40024" class="csc-default" ></div><div id="c40153" class="csc-default" ><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap csc-textpic-single-image" style="width:365px;"><img src="uploads/pics/tabmajority.gif" width="365" height="38" alt="" /></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c40156" class="csc-default" ><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap" style="width:203px;"><ul><li class="csc-textpic-image csc-textpic-firstcol" style="width:65px;"><img src="uploads/pics/Faologo.gif" width="65" height="63" alt="" /></li><li class="csc-textpic-image" style="width:73px;"><img src="uploads/pics/unesco_01.jpg" width="73" height="58" alt="" /></li><li class="csc-textpic-image csc-textpic-lastcol" style="width:45px;"><img src="uploads/pics/efa_03.jpg" width="45" height="55" alt="" /></li></ul></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c107032" class="csc-default" ><p align=center>
+<b> <font color=red size=3>The ERP partnership</font><br>
+<font color=blue size=2>is a Community of Practice on Education and Training, 
+<br>Capacity Development and <br>Knowledge Sharing 
+on Agriculture <br>and Sustainable Food Systems for 
+Food Security, <br>Food Safety and Poverty Reduction
+</b></font></div><div id="c69727" class="csc-default" ><p align="justify">
+The divide between urban-rural knowledge and education and training is one of today’s main barriers in eradicating poverty and hunger (MDG 1) and achieving the other MDGs. 
+Four out of five of the at least 61 million out of school children 
+(UNESCO 2010) and, as a consequence, 
+of about 775 million illiterate youth and adults are rural people. 
+
+<p align="justify">
+<a href="http://www.fao.org/docrep/010/a1434e/a1434e00.htm">Research indicates that food security and education of rural children are directly connected </a>and therefore need to be addressed simultaneously to achieve the MDGs. On this issue, the FAO book,
+<a href="http://www.fao.org/docrep/012/i0760e/i0760e00.htm"> "Education for Rural People: The Role of Education, Training and Capacity Development in Poverty Reduction and Food Security" (2009) </a>, presents a synthesis of the ERP partnership lessons learned - since its launch in 2002, during the World Summit on Sustainable Development - from the policy, research and field work of its partners. 
+<p align="justify">
+The ERP partnership aims to contribute to removing barriers that prevent poor people from using their capacity as part of FAO worldwide call to action to foster rural peoples’ capacity to be food secure and to manage natural resources in a sustainable manner. 
+<br>ERP is a research-based policy approach promoting 
+multisectoral alliances between ministries of education and agriculture and
+ related stakeholders and advocating for increased access to improved quality 
+education and skills training for all rural adults, youth and children. 
+ERP works through the identification of political, institutional, organizational and individual opportunities and constraints that poor people face in developing their capacity and accessing education and training services at all levels of education, in both formal and non-formal settings. 
+<br>It works through a network of <a href="http://www.fao.org/erp/erp-partners-en/en/"> more than 400 partners </a> including governments, international agencies, universities, civil society, the media and the private sector. 
+<br>FAO is the UN lead agency for the Education for Rural People (ERP) Partnership Flagship <a href="http://webapps01.un.org/dsd/partnerships/public/browse.do"> which is one of the Partnerships of the United Nations Commission for Sustainable Development</a> as well 
+<a href="http://www.unesco.org/education/efa/know_sharing/flagship_initiatives/index.shtml"> as one of the flagships initiatives of the Education for all programmes led by UNESCO </a>. 
+<p align="justify">
+Examples of policy, advocacy and strategy work include: 
+<a href="http://www.fao.org/index.php?id=29254">more... </a></div><div id="c134758" class="csc-default" ><p align="center">
+<br>
+<br>
+
+
+<a>
+<b>FOCUS ON 
+<br><br><a href="http://www.globaleducationfirst.org/">
+Education first, a global initiative </a></b>
+<p align="justify">Education is the basic building block of every society. It is the single best investment countries can make towards building prosperous, healthy and equitable societies. In order to renew and reinvigorate global commitments to education, United Nations Secretary-General BAN Ki-moon has launched the Education First initiative to put every child in school, improve the quality of learning, and foster global citizenship.
+
+<p><b>
+<a href="http://www.fao.org/erp/universities/en/"> 
+Knowledge Sharing between the Universities Members of the ERP partnership, 
+and supporting capacity development for Food Security.</b> </a>
+
+<br><br>
+ERP is included in the 
+<a href="http://www.fao.org/knowledge/networksandcommunities/knbrowse/en/?page=3&ipp=5">
+ FAO Knowledge Networks community centre </a>
+<br><br>
+The ERP web site had about 200.000 visits in 2011 
+<!--
+<p><a><b>Last news</b></a>  -->
+</div></td>
+								<td width="200" valign="top" class="rightcolumn"><table width="100%" cellspacing="0" cellpadding="0" border="0" class="table_menu_right"><tbody><tr><td width="100%" valign="top" id="box_blue_2cols"><div id="c69728" class="csc-default" ><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap csc-textpic-single-image" style="width:180px;"><img src="typo3temp/pics/8ca8c535dc.jpg" width="180" height="214" alt="" /></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c40173" class="csc-default" >
+
+		<table>
+<tr> 
+            <td colspan="2"  bgcolor="#C0C0C0"><p align="center">
+<b><a>The ERP partnership</a></b> 
+</td> 
+          </tr> 
+					
+					    <tr> 
+            <td colspan="2"  bgcolor="#E4E4E4"><p align="center"> 
+
+ <a>An initiative led by FAO with financial support of the Italian Development Cooperation
+</a>
+</p></td> 
+ 
+          </tr> 
+</table>			
+	</div><div id="c40170" class="csc-default" ><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap csc-textpic-single-image" style="width:180px;"><img src="typo3temp/pics/852dbd19bf.jpg" width="180" height="216" alt="toolkit3.jpg" /></div><div class="csc-textpic-text"></div></div><div class="csc-textpic-clear"><!-- --></div></div><div id="c40172" class="csc-default" ><table>
+<tr> 
+            <td colspan="2"  bgcolor="#C0C0C0"><p align="center"><b>
+ <a href="http://www.fao.org/erp/erp-toolkit-en/en/"> 
+ The ERP Tool Kit</a></b> 
+</td> 
+          </tr> 
+					
+					    <tr> 
+            <td colspan="2"  bgcolor="#E4E4E4"><p align="center"> 
+						<a href="http://www.fao.org/erp/erp-toolkit-en/en/"> 
+	A collection of education and training materials
+ 
+</a> 
+ 
+</p></td> 
+ 
+          </tr> 
+</table>
+</div><div id="c178282" class="csc-default" >&nbsp;&nbsp;&nbsp<iframe width="180" height="150" src="http://www.youtube.com/embed/psMktIIHqEg" frameborder="0" allowfullscreen>
+</iframe>
+<br>
+<br>
+</div><div id="c40150" class="csc-default" ><div class="csc-textpic csc-textpic-center csc-textpic-above"><div class="csc-textpic-imagewrap csc-textpic-single-image" style="width:180px;"><img src="typo3temp/pics/4914b68dfb.jpg" width="180" height="222" alt="Posterefa.jpg" /></div></div><div class="csc-textpic-clear"><!-- --></div></div></td></tr></tbody></table></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>		
+	</tr>	
+	<tr><td class="leftcolumn leftBottom">&nbsp;</td><td valign="top" class="maincolumn_bg rightBottom"><!--###BASE_LINE_BEFORE_FOOTER### start -->&nbsp;<!--###BASE_LINE_BEFORE_FOOTER### end --><!-- ###LAST_UPDATED###  start--> <!-- ###LAST_UPDATED###  end--></td></tr>
+	<tr>	
+		 <td valign="top" colspan="2" width="100%"> 
+					<!--####  FOOTER STARTS ####-->
+                                        <div id="footer_with_social_media">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">	
+						<tr>
+						<td id="footer_lx_cont" valign="top" align="left"><div id="c55421" class="csc-default" ><p class="bodytext"><a href="http://www.fao.org/contact-us/en/" target="_top" class="external-link-new-window" >Contact us</a>&nbsp; | <a href="http://www.fao.org/contact-us/terms/en/" target="_top" class="external-link-new-window" >Terms and Conditions</a> |&nbsp; <a href="http://www.fao.org/contact-us/scam-alert/en/" target="_top" >Scam Alert</a></p></div> </td>
+						<td id="footer_rx_cont" valign="top" align="right"><p class="bodytext"><a href="http://www.fao.org/contact-us/terms/en" target="_blank" class="internal-link">© FAO,&nbsp;2017</a> </p></td>
+						</tr>
+					</table>
+                                        </div>
+					<!--####  FOOTER ENDS ####-->
+		</td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+
+<script language="Javascript1.2">
+function printWindow(){
+browserVersion = parseInt(navigator.appVersion)
+if (browserVersion >= 4) window.print()
+}
+</script> 
+
+<div id="c245967" class="csc-default" ><!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','_gaTracker');
+
+  _gaTracker('create', 'UA-16957842-1', 'fao.org');
+  _gaTracker('send', 'pageview');
+
+  _gaTracker('create', 'UA-16796074-1', {'name':'allTracker'});
+  _gaTracker('allTracker.send', 'pageview');
+
+  _gaTracker('create', 'UA-16957552-1', {'name':'allSites'});
+  _gaTracker('allSites.send', 'pageview');
+
+</script>
+<!-- End Google Analytics --></div>
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ba981e2a4f","applicationID":"32692611","transactionName":"M11RNUYAXxBTVUYNWgoXZhNdTlgNVlNKSkUMSA==","queueTime":0,"applicationTime":1573,"atts":"HxpSQw4aTB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

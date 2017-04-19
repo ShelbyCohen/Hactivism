@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta name="globalsign-domain-verification" content="G6sL-E5CgOml77GGq4qvR1-2oDBBeoo8H8DZe2sDwA" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="viewport" content="width=980" />
+
+<meta property="og:image:secure_url" content="https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b.jpg" /><title>
+    What Social Democracy Delivers | Jacobin</title>
+
+<!--[if lt IE 9]>
+<script src="https://www.jacobinmag.com/wp-content/themes/boukman/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel="icon" type="image/png" href="https://www.jacobinmag.com/wp-content/themes/boukman/images/tabimage.png">
+
+<script type="text/javascript">
+  /* setup so that we can use auth.jacobinmag.com iframes */
+  document.domain = "jacobinmag.com";
+  /* create postmessage handler to resize iframes */
+  window.addEventListener("message", receiveResizeMessage, false);
+  function receiveResizeMessage(event) {
+    if (event.origin !== "https://auth.jacobinmag.com") {
+      console.log("bad origin: " + event.origin + "\n" + event.data);
+      return;
+    }
+    $(event.data.selector).css("height", (event.data.height+30) + "px");
+  }
+</script>
+
+
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jacobin &raquo; What Social Democracy Delivers Comments Feed" href="https://www.jacobinmag.com/2017/02/ted-cruz-bernie-sanders-cnn-inequality-scandinavia/feed/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"https:\/\/www.jacobinmag.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false'
+        src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js'
+        data-shr-siteid='6e93b671d4acd5f9190c57076cdaece1' async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Jacobin' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:url' content='https://www.jacobinmag.com/2017/02/ted-cruz-bernie-sanders-cnn-inequality-scandinavia/' />
+<meta name='shareaholic:keywords' content='blogs' />
+<meta name='shareaholic:article_published_time' content='2017-02-09T21:31:08+00:00' />
+<meta name='shareaholic:article_modified_time' content='2017-04-19T10:41:34+00:00' />
+<meta name='shareaholic:shareable_page' content='true' />
+<meta name='shareaholic:article_author_name' content='Josh Mound' />
+<meta name='shareaholic:site_id' content='6e93b671d4acd5f9190c57076cdaece1' />
+<meta name='shareaholic:wp_version' content='7.8.0.4' />
+<meta name='shareaholic:image' content='https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b.jpg' />
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.jacobinmag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-12-15-16-css'  href='https://www.jacobinmag.com/wp-content/themes/boukman/style-2-2-17.css' type='text/css' media='' />
+<link rel='stylesheet' id='overrides-css'  href='https://www.jacobinmag.com/wp-content/themes/boukman/overrides.css' type='text/css' media='' />
+<link rel='stylesheet' id='lifetime-css'  href='https://www.jacobinmag.com/wp-content/themes/boukman/lifetime.css' type='text/css' media='' />
+<link rel='stylesheet' id='fundraiser-12-13-16-css'  href='https://www.jacobinmag.com/wp-content/themes/boukman/fundraiser-12-13-16.css' type='text/css' media='' />
+<script type='text/javascript' src='https://www.jacobinmag.com/wp-content/themes/boukman/js/jquery-1.8.0.min.js'></script>
+<script type='text/javascript' src='https://www.jacobinmag.com/wp-content/themes/boukman/js/jquery.waypoints.min.js'></script>
+<script type='text/javascript' src='//use.typekit.net/gqo7ant.js'></script>
+<script type='text/javascript' src='https://ws.sharethis.com/button/buttons.js'></script>
+<script type='text/javascript' src='https://www.jacobinmag.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.2'></script>
+<link rel='https://api.w.org/' href='https://www.jacobinmag.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.jacobinmag.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.jacobinmag.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The Roots of Terrorism' href='https://www.jacobinmag.com/2017/02/khalid-sheikh-mohammed-terrorism-9-11-trump-muslim-ban-blowback/' />
+<link rel='next' title='Coulterland' href='https://www.jacobinmag.com/2017/02/coulterland/' />
+<link rel="canonical" href="https://www.jacobinmag.com/2017/02/ted-cruz-bernie-sanders-cnn-inequality-scandinavia/" />
+<link rel='shortlink' href='https://www.jacobinmag.com/?p=39631' />
+<link rel="alternate" type="application/json+oembed" href="https://www.jacobinmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jacobinmag.com%2F2017%2F02%2Fted-cruz-bernie-sanders-cnn-inequality-scandinavia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.jacobinmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jacobinmag.com%2F2017%2F02%2Fted-cruz-bernie-sanders-cnn-inequality-scandinavia%2F&#038;format=xml" />
+<link rel='https://github.com/WP-API/WP-API' href='https://www.jacobinmag.com/wp-json' />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-17512051-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Simple Google Analytics End -->
+<meta name="twitter:partner" content="tfwp" /><!-- Google Analytics Tracking by Google Analyticator 6.5.2: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-17512051-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<meta name="twitter:card" content="summary" /><meta name="twitter:title" content="What Social Democracy Delivers" /><meta name="twitter:description" content="Ted Cruz is wrong. Workers in more social-democratic countries are richer and freer than in the US." /><meta name="twitter:image" content="https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b.jpg" />
+
+<script type="text/javascript">stLight.options({publisher: "ur-bb0b3b81-1841-fead-d22-5316df36483a", doNotHash:true, doNotCopy:true, hashAddressBar:false}); </script>
+
+</head>
+<body class="post-template-default single single-post postid-39631 single-format-standard">
+
+<div id="preload" style="display: none">
+    <img src="https://www.jacobinmag.com/wp-content/themes/boukman/images/social/facebook_hov.png"/>
+    <img src="https://www.jacobinmag.com/wp-content/themes/boukman/images/social/twitter_hov.png"/>
+    <img src="https://www.jacobinmag.com/wp-content/themes/boukman/images/misc/arrow_hov.png"/>
+    <img src="https://www.jacobinmag.com/wp-content/themes/boukman/images/auth/submit_mo.png"/>
+    <img src="https://www.jacobinmag.com/wp-content/themes/boukman/images/auth/logout_mo.png"/>
+</div>
+
+<header id="header">
+
+  <div id="settings">
+    <iframe src="https://auth.jacobinmag.com/mini_profile?redirect=https%3A%2F%2Fwww.jacobinmag.com%2F2017%2F02%2Fted-cruz-bernie-sanders-cnn-inequality-scandinavia%2F"></iframe>
+  </div>
+
+  <div id="banner-wrap">
+      <div id="banner-bar">
+        <a href="/" id="banner">
+          <div>
+              <h1>Jacobin</h1>
+              <p id="title" href="/">Reason in Revolt</span></p>
+              <img src="https://www.jacobinmag.com/wp-content/themes/boukman/images/banner/type.svg" />
+          </div>
+        </a>
+        <!-- <div id="subscribe"><a href="https://www.jacobinmag.com/subscribe/"><img id="front-cover" src="https://www.jacobinmag.com/wp-content/themes/boukman/images/issue23/0-cover.png" /></a></div> -->
+      </div> <!-- #banner-bar -->
+  </div> <!-- #banner-wrap -->
+
+  <div id="menu-wrap">
+      <div id="menu-bar">
+          <ul>
+                            <li class="about">
+                  <a href="https://www.jacobinmag.com/about/">About Us</a>
+              </li>
+              <li class="blogs active">
+                  <a href="https://www.jacobinmag.com/category/blogs">Online</a>
+              </li>
+              <li class="magazine">
+                  <a href="https://www.jacobinmag.com/issue/journey-to-the-dark-side/">Magazine</a>
+              </li>
+              <li class="donate">
+                  <a href="https://www.jacobinmag.com/donate/">Donate</a>
+              </li>
+
+              <li class="subscribe"><div id="subscribe-box"><div class="wrap"><a href="https://www.jacobinmag.com/subscribe/">Subscribe</a></div></div></li>
+          </ul>
+      </div> <!-- #menu-bar -->
+  </div> <!-- #menu-wrap -->
+
+   </header><!-- #header -->
+
+<div id="main-wrap">
+<main id="main">
+
+<div id="top-main">
+
+<article id="post-39631" class="post-39631 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs">
+
+  <header class="entry-header">
+    <h1 class="entry-title">What Social Democracy Delivers</h1>
+    <h3 class="entry-dek">
+      <p>Ted Cruz is wrong. Workers in more social-democratic countries are richer and freer than in the US.</p>
+    </h3>
+    <div class="entry-author"><div class="bar"></div>by <a href="https://www.jacobinmag.com/author/josh-mound/" title="Posts by Josh Mound" rel="author">Josh Mound</a></div>
+        <img width="662" height="492" src="https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b.jpg 662w, https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b-391x291.jpg 391w, https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b-370x275.jpg 370w, https://images.jacobinmag.com/2017/02/360685880_3e189acdc1_b-300x223.jpg 300w" sizes="(max-width: 662px) 100vw, 662px" />
+    <p class="wp-caption-text">A demonstration on May Day 1917 in Sandviken, Sweden. Britt-Marie Sohlström / Flickr</p>
+  </header>
+
+    <div class="entry-content">
+              <div class='shareaholic-canvas' data-app-id='15267583' data-app='share_buttons' data-title='What Social Democracy Delivers' data-link='https://www.jacobinmag.com/2017/02/ted-cruz-bernie-sanders-cnn-inequality-scandinavia/' data-summary='Ted Cruz is wrong. Workers in more social-democratic countries are richer and freer than in the US.'></div><blockquote><p>The next issue of <em>Jacobin</em><em>,</em> “<a href="https://www.jacobinmag.com/issue-24-preview/">Journey to the Dark Side</a>,” will be out February 21. Subscribe for the first time at a <a href="https://www.jacobinmag.com/subscribe/?code=DARKSIDE">discount</a>.</p></blockquote>
+<p><span class="dropcaps">O</span>n Tuesday night, Bernie Sanders and Ted Cruz squared off in a CNN <a href="http://www.cnn.com/2017/02/07/politics/obamacare-cruz-sanders-highlights/">debate</a> about the future of health care in the United States. As might be expected from an event pitting the country’s most well-known social democrat against one of the GOP’s most <a href="http://www.cnn.com/2016/03/24/opinions/cruz-real-radical-opinion-zelizer/">reactionary</a>, <a href="https://atlassociety.org/commentary/commentary-blog/5183-sen-ted-cruz-takes-ayn-rand-to-washington">Ayn Rand</a>&#8211;<a href="http://www.msnbc.com/rachel-maddow-show/the-gops-affinity-ayn-rand-wont-go-away">loving</a> <a href="https://www.nytimes.com/2016/04/18/us/politics/ted-cruz-conservative.html">conservatives</a>, the discussion inevitably turned to larger questions of political economy.</p>
+<p>Over and over, Sanders admirably stressed issues of distribution and inequality. He noted that, while the Affordable Care Act extended coverage to millions of Americans, many <a href="https://www.bloomberg.com/politics/articles/2016-11-04/some-find-care-unaffordable-even-with-obamacare-coverage">still</a> <a href="http://money.cnn.com/2016/11/04/news/economy/obamacare-affordable/">can’t</a> <a href="http://www.pnhp.org/news/2015/september/more-americans-gain-health-coverage-but-many-can%E2%80%99t-afford-to-use-it-doctors-grou">afford</a> the health care they need. He argued vigorously for expanding Medicare to all Americans and allowing the government to use its <a href="http://thehill.com/blogs/floor-action/senate/314596-sanders-to-roll-out-legislation-allowing-medicare-to-negotiate-drug">negotiating</a> power to lower the prices of pharmaceuticals and other medical goods and services. And, moving the debate beyond health care, he assailed Cruz for his tax <a href="http://www.vox.com/2016/2/16/11019986/ted-cruz-tax-policy-center">plan</a>, which would funnel billions of dollars to the rich.</p>
+<p>Cruz’s predictable response to Sanders’s arguments, which contrasted pharmaceutical CEOs raking in millions of dollars and average Americans struggling to afford their prescriptions, was to turn to hoary red-baiting, claiming that Sanders, like all socialists, was really hell-bent on dictating the amount of money every American was allowed to make. The European and Nordic countries that Sanders championed, Cruz insisted, were “not doing nearly as well as America.”</p>
+<p>“The per capita income in America is over five times the average per capita income in this world. It’s 50 percent more than the per capita income in Europe,” Cruz <a href="https://www.youtube.com/watch?v=2ugBYg1zbuY#t=101m10s">claimed</a>. “This is a land of opportunity, because there’s social mobility. . . . The advantage of this country is someone can start out a dishwasher like my dad did, and the free enterprise system in this country let’s people rise.”</p>
+<p>Sanders simply responded, “Denmark and Sweden and Finland . . . do pretty well.” (Cruz waxed patriotic: “I choose to live in America.”)</p>
+<p>Unfortunately, Sanders’s rejoinder let the elisions and misdirection in Cruz’s comments go unanswered. Cruz’s claims notwithstanding, most Americans have lower incomes and less mobility than their counterparts in more social-democratic countries.</p>
+<h4>Inequality and Income</h4>
+<p><span class="dropcaps2">T</span>he first part of Cruz’s argument, <a href="http://www.vox.com/2016/3/1/11139718/bernie-sanders-trade-global-poverty">like</a> <a href="http://lawyersgunsmon.wpengine.com/2016/04/no-bernie-sanders-is-not-going-to-immiserate-the-worlds-poor">much</a> growth-centric “free market” rhetoric, leaned heavily on claims about what’s “average” in order to obscure distributional issues. When Cruz mentioned “per capita income,” he was surely hoping most listeners would think about their own incomes and imagine that they would fall were the US to become more like Denmark. But Cruz was really talking about means, not medians or which country is best for those at the bottom of the income ladder.</p>
+<p>Even if we ignore the distribution of income, Cruz’s contention is misleading. Whether measured in dollars or <a href="http://www.imf.org/external/pubs/ft/fandd/2007/03/basics.htm">Purchasing Power Parity</a>, the US’s Gross Domestic Product per capita <a href="http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?year_high_desc=true">lags</a> <a href="http://data.worldbank.org/indicator/NY.GDP.PCAP.CD?year_high_desc=true">behind</a> those of a handful of countries (including Norway).</p>
+<p>But GDP per capita tells us very little about which country has the most well-off workers or the least deprived poor.</p>
+<p>In a country of four people, for example, where one citizen had one million dollars and the other three had nothing, the per capita income would be $250,000. In a country of four people where each citizen had $100,0000, the per capita income would be $100,000. Cruz would have us believe that the first country was more than twice as good as the latter. The three penniless people in the first country, of course, would beg to differ.</p>
+<p>Particularly for those in the bottom half of the income distribution, and even for those in the middle, the US doesn’t offer the highest incomes. As poverty researcher Matt Bruenig has <a href="http://www.demos.org/blog/1/5/15/when-it-better-not-be-america">explained</a>, the very poorest fare much, much better in other countries — particularly those (like Norway, Denmark, Finland, and Canada, among others) that have more social-democratic political systems and, therefore, stronger unions and more generous welfare states. By a <a href="http://www.gallup.com/poll/166211/worldwide-median-household-income-000.aspx">variety</a> of <a href="http://www.cgdev.org/blog/world-bank-poverty-statistics-lack-median-income-data-so-we-filled-gap-ourselves-download-available">measures</a>, countries like Canada and Norway have also surpassed the US when it comes to median incomes, and a host of other countries are not far behind.</p>
+<p>The especially middling fortunes of workers and poor people in the US are largely the result of soaring inequality. While inequality has risen in <a href="https://www.oecd.org/els/soc/dividedwestandwhyinequalitykeepsrising.htm">most</a> industrialized countries since the 1970s, the increase in inequality has been particularly acute in the US, which had a less developed welfare state to begin with and has seen particularly virulent attacks on inequality-reducing <a href="https://journalistsresource.org/studies/economics/inequality/labor-unions-income-pay-inequality-research">labor</a> <a href="https://www.theatlantic.com/business/archive/2016/08/union-inequality-wages/497954/">unions</a> and <a href="https://www.theatlantic.com/business/archive/2013/05/study-tax-cuts-might-drive-income-inequality-after-all/276394/">progressive</a> <a href="https://fas.org/sgp/crs/misc/R42131.pdf">taxes</a>. As a result, workers in countries that once trailed the US have gained ground in recent decades.</p>
+<p><a href="https://images.jacobinmag.com/2017/02/Median-Income-PPP.png"><img class="aligncenter wp-image-39635 size-full" src="https://images.jacobinmag.com/2017/02/Median-Income-PPP.png" width="1095" height="784" srcset="https://images.jacobinmag.com/2017/02/Median-Income-PPP.png 1095w, https://images.jacobinmag.com/2017/02/Median-Income-PPP-391x280.png 391w, https://images.jacobinmag.com/2017/02/Median-Income-PPP-1024x733.png 1024w, https://images.jacobinmag.com/2017/02/Median-Income-PPP-384x275.png 384w, https://images.jacobinmag.com/2017/02/Median-Income-PPP-300x215.png 300w" sizes="(max-width: 1095px) 100vw, 1095px" /></a></p>
+<p>The size of a country’s economy, in other words, tells us very little about the quality of life for most of its citizens. Indeed, as <a href="https://www.nytimes.com/2015/01/28/upshot/gains-from-economic-recovery-still-limited-to-top-one-percent.html?mtrref=www.google.com&amp;gwh=B893515180437BCB5EF715832063D7C1&amp;gwt=pay&amp;assetType=nyt_now&amp;_r=0">numerous</a> <a href="http://www.levyinstitute.org/pubs/pn_15_4.pdf">studies</a> have shown, the vast majority of the economic growth in recent years has gone to the very richest, while the incomes of the poor, working, and middle classes have remained stagnant or fallen.</p>
+<h4>Social (Im)mobility</h4>
+<p><span class="dropcaps2">T</span>he second half of Cruz’s response, about “social mobility,” attempts to hedge against the reality of inequality in the US. Many people, Cruz’s argument implies, might think that it’s okay if poor and working-class people in the US are worse off than those in other countries if every American has a good chance to become rich.</p>
+<p>Here Cruz’s apologetics beggar belief. It’s common sense that parents’ economic resources shape their children’s opportunities, whether through direct <a href="https://www.nytimes.com/2016/03/28/opinion/campaign-stops/whats-more-american-than-inheriting-a-fortune.html?action=click&amp;pgtype=Homepage&amp;version=Moth-Visible&amp;moduleDetail=inside-nyt-region-4&amp;module=inside-nyt-region&amp;region=inside-nyt-region&amp;WT.nav=inside-nyt-region&amp;_r=1&amp;mtrref=undefined&amp;gwh=4A527E72CC4FBA003CD2BB816C8F01F8&amp;gwt=pay&amp;assetType=opinion">cash</a> transfers, <a href="https://journalistsresource.org/studies/economics/inequality/investing-children-changes-parental-spending-children">better</a> <a href="https://www.washingtonpost.com/news/wonk/wp/2016/05/10/the-incredible-impact-of-rich-parents-fighting-to-live-by-the-very-best-schools/?utm_term=.8be31951721f">educational</a> opportunities, or social <a href="http://www.huffingtonpost.com/2011/11/16/family-connections-rich-kids-jobs_n_1097813.html">connections</a> (which boost job prospects). So it should come as no shock that <a href="https://www.brookings.edu/blog/social-mobility-memos/2015/05/19/the-great-utility-of-the-great-gatsby-curve/">research</a>, depicted <a href="https://www.bloomberg.com/graphics/infographics/the-great-gatsby-curve-explained.html">visually</a> by the “Great Gatsby Curve,” shows that high inequality is associated with low social mobility. The more resources parents have to help their kids get ahead, the less likely it is that those kids will fall down the income ladder or poor kids will move up.</p>
+<p>So where does that leave the exceptionally unequal US? America performs even worse on measures of mobility than it does on incomes for the poor and working class. <a href="https://www.theatlantic.com/business/archive/2015/07/america-social-mobility-parents-income/399311/">According</a> <a href="http://www.nytimes.com/2012/01/05/us/harder-for-americans-to-rise-from-lower-rungs.html?mtrref=www.google.com&amp;gwh=73446CC66BABFD934B2D6E9E30C75244&amp;gwt=pay">to</a> <a href="http://www.politifact.com/punditfact/statements/2013/dec/19/steven-rattner/it-easier-obtain-american-dream-europe/">numerous</a> <a href="http://www.epi.org/publication/usa-lags-peer-countries-mobility/">studies</a>, relative intergenerational mobility — the ability of a child to move up or down the income ladder, regardless of his or her parents’ incomes — is much lower in the US than in nearly every other European and Nordic country.</p>
+<p>Only a few countries, such as the notoriously class-bound Britain, compete with the US for the unenviable title of least mobile industrialized democracy. So rigid is the US&#8217;s class structure that one <a href="http://folk.uib.no/secaa/Public/Trygd2014/InternationalMobilityCurves20Feb2015.pdf">study</a> found “that the most mobile region of the U.S. is still less mobile than the least mobile regions of Norway and Sweden.”</p>
+<p>According to <a href="https://www.theatlantic.com/business/archive/2016/07/social-mobility-america/491240/">several</a> <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2012/april-297">studies</a>, relative intergenerational mobility has fallen in recent decades in the US. But even if it <a href="http://www.newyorker.com/news/john-cassidy/social-mobility-hasnt-fallen-what-it-means-and-doesnt-mean">hasn’t</a>, that’s no reason to celebrate.</p>
+<p>New research shows that a more foundational metric of mobility — <a href="http://www.demos.org/blog/1/23/14/absolute-and-relative-mobility-short-primer">absolute mobility</a>, which measures how much money children make compared to their parents, adjusted for inflation — has <a href="https://www.nytimes.com/2016/12/08/opinion/the-american-dream-quantified-at-last.html?mtrref=www.google.com&amp;gwh=E9946F1A53981723E9945A1F2DCEA1E6&amp;gwt=pay&amp;assetType=opinion&amp;_r=0">collapsed</a> in the US in recent decades.</p>
+<p><a href="https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US.png"><img class="aligncenter wp-image-39634 size-full" src="https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US.png" width="1382" height="997" srcset="https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US.png 1382w, https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US-391x282.png 391w, https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US-1024x739.png 1024w, https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US-381x275.png 381w, https://images.jacobinmag.com/2017/02/Absolute-Mobility-in-US-300x216.png 300w" sizes="(max-width: 1382px) 100vw, 1382px" /></a></p>
+<p>As the <em>Washington Post</em> <a href="https://www.washingtonpost.com/news/wonk/wp/2016/12/08/american-dream-collapsing-for-young-americans-study-says-finding-plunging-odds-that-children-earn-more-than-their-parents/?utm_term=.9d8d22ad11ca">summarized</a>, “only half the children born in the 1980s grew up to earn more than their parents did, after adjusting for inflation. That&#8217;s a drop from 92 percent of children born in 1940.” This fall in absolute mobility is even more directly related to soaring inequality.</p>
+<p>In short, rising inequality — <a href="https://opinionator.blogs.nytimes.com/2014/06/27/inequality-is-not-inevitable/?mtrref=www.google.com&amp;gwh=9BE8297B9A18B8789839F64E5E0A7744&amp;gwt=pay&amp;assetType=opinion&amp;_r=0">spurred on</a> by the capital-friendly <a href="https://www.jacobinmag.com/2015/03/capital-gains-rubio-lee-tax-reform/">policies</a> that Cruz and his ilk champion — has systematically undermined the already-pollyannaish “free market” arguments favored by Cruz and company.</p>
+<p>On one measure of wellbeing after another, ordinary people in countries that Cruz derides enjoy more economic security than the average American worker. They enjoy more freedom — despite the <a href="https://www.jacobinmag.com/2016/03/up-from-liberalism/">decades-long erosion</a> of social democracy — than their American counterparts.</p>
+<p>And no amount of “average”-invoking obfuscations or chest-thumping economic patriotism will change that.</p>
+<blockquote><p>Our next issue, “<a href="https://www.jacobinmag.com/issue-24-preview/">Journey to the Dark Side</a>,” will be out February 21. <a href="https://www.jacobinmag.com/subscribe/?code=DARKSIDE">Subscribe</a> today.</p></blockquote>
+        <div class="entry-bottom">
+                          <div class="entry-end"></div>
+
+                <p>If you like this article, please <a href="https://jacobinmag.com/subscribe/">subscribe</a> or <a href="https://www.jacobinmag.com/donate/">donate</a>.</p>
+
+            <div id="post-share-bottom">
+              <div class='st_facebook_hcount' displayText='Facebook'></div>
+              <div class='st_twitter_hcount' displayText='Tweet'></div>
+              <div class='st_googleplus_hcount' displayText='Google +'></div>
+            </div>
+            <!-- <table id="nav-below" class="navigation">
+              <tr>
+                <td class="previous-post">
+                  <a href="https://www.jacobinmag.com/2017/02/khalid-sheikh-mohammed-terrorism-9-11-trump-muslim-ban-blowback/" rel="prev"><span class="meta-nav">&laquo;</span> The Roots of Terrorism</a>                </td>
+
+                <td class="next-post">
+                  <a href="https://www.jacobinmag.com/2017/02/coulterland/" rel="next">Coulterland <span class="meta-nav">&raquo;</span></a>                </td>
+              </tr>
+            </table> --> <!-- #nav-below -->
+
+        </div>
+          </div>
+    <footer class="entry-meta">
+            </footer><!-- #entry-meta -->
+
+    
+</article><!-- #post-39631 -->
+
+
+</div> <!-- #top-main -->
+
+
+<div id="top-side">
+  <div class="entry-info">
+                <div class="category"></div>
+          <div class="entry-date">2.9.17</div>
+            <div class="entry-author-bio">
+      <p><a href="https://twitter.com/JoshuaMound">Josh Mound </a> holds a PhD in history and sociology from the University of Michigan and is currently a postdoctoral fellow in political economy at Miami University of Ohio.</p>
+      </div>
+	  </div> <!-- .entry-info -->
+
+  <div id="featured" class="banner-bar">
+    <div class="widget">
+    <h2>Featured</h2>
+      <ul>
+                      
+        <li class="">
+          <div class="featured-text">
+            <h3 class="entry-title"><a href="https://www.jacobinmag.com/2017/03/being-anti-trump-isnt-enough/">Being Anti-Trump Isn’t Enough</a></h3>
+            <p class="entry-author"><a href="https://www.jacobinmag.com/author/david-broder/" title="Posts by David Broder" rel="author">David Broder</a></p>
+          </div>
+          <a href="https://www.jacobinmag.com/2017/03/being-anti-trump-isnt-enough/"><img width="160" height="160" src="https://images.jacobinmag.com/2017/01/issue24-illo-broder-160x160.jpg" class="attachment-160x160 size-160x160 wp-post-image" alt="" srcset="https://images.jacobinmag.com/2017/01/issue24-illo-broder-160x160.jpg 160w, https://images.jacobinmag.com/2017/01/issue24-illo-broder-370x370.jpg 370w" sizes="(max-width: 160px) 100vw, 160px" /></a>
+        </li>
+                      
+        <li class="">
+          <div class="featured-text">
+            <h3 class="entry-title"><a href="https://www.jacobinmag.com/2017/03/labour-jeremy-corbyn-owen-jones-guardian-plp/">No Easy Answers</a></h3>
+            <p class="entry-author"><a href="https://www.jacobinmag.com/author/daniel-finn/" title="Posts by Daniel Finn" rel="author">Daniel Finn</a></p>
+          </div>
+          <a href="https://www.jacobinmag.com/2017/03/labour-jeremy-corbyn-owen-jones-guardian-plp/"><img width="160" height="160" src="https://images.jacobinmag.com/2017/03/15024926027_384702cb70_b-160x160.jpg" class="attachment-160x160 size-160x160 wp-post-image" alt="" srcset="https://images.jacobinmag.com/2017/03/15024926027_384702cb70_b-160x160.jpg 160w, https://images.jacobinmag.com/2017/03/15024926027_384702cb70_b-370x370.jpg 370w" sizes="(max-width: 160px) 100vw, 160px" /></a>
+        </li>
+                      
+        <li class="">
+          <div class="featured-text">
+            <h3 class="entry-title"><a href="https://www.jacobinmag.com/2017/02/the-great-god-trump-and-the-white-working-class/">The Great God Trump and the White Working Class</a></h3>
+            <p class="entry-author"><a href="https://www.jacobinmag.com/author/mike-davis/" title="Posts by Mike Davis" rel="author">Mike Davis</a></p>
+          </div>
+          <a href="https://www.jacobinmag.com/2017/02/the-great-god-trump-and-the-white-working-class/"><img width="160" height="160" src="https://images.jacobinmag.com/2017/02/md-160x160.png" class="attachment-160x160 size-160x160 wp-post-image" alt="" srcset="https://images.jacobinmag.com/2017/02/md-160x160.png 160w, https://images.jacobinmag.com/2017/02/md-370x370.png 370w" sizes="(max-width: 160px) 100vw, 160px" /></a>
+        </li>
+                      
+        <li class="">
+          <div class="featured-text">
+            <h3 class="entry-title"><a href="https://www.jacobinmag.com/2017/01/womens-march-dc-trump-protests-inauguration/">How to Build a Mass Movement</a></h3>
+            <p class="entry-author"><a href="https://www.jacobinmag.com/author/keeanga-yamahtta-taylor/" title="Posts by Keeanga-Yamahtta Taylor" rel="author">Keeanga-Yamahtta Taylor</a></p>
+          </div>
+          <a href="https://www.jacobinmag.com/2017/01/womens-march-dc-trump-protests-inauguration/"><img width="160" height="160" src="https://images.jacobinmag.com/2017/01/womens-march-160x160.jpg" class="attachment-160x160 size-160x160 wp-post-image" alt="" srcset="https://images.jacobinmag.com/2017/01/womens-march-160x160.jpg 160w, https://images.jacobinmag.com/2017/01/womens-march-370x370.jpg 370w" sizes="(max-width: 160px) 100vw, 160px" /></a>
+        </li>
+                      
+        <li class="last">
+          <div class="featured-text">
+            <h3 class="entry-title"><a href="https://www.jacobinmag.com/2016/12/carceral-state-mass-incarceration-conservatives-koch-trump/">Conservatives Against Incarceration?</a></h3>
+            <p class="entry-author"><a href="https://www.jacobinmag.com/author/marie-gottschalk/" title="Posts by Marie Gottschalk" rel="author">Marie Gottschalk</a></p>
+          </div>
+          <a href="https://www.jacobinmag.com/2016/12/carceral-state-mass-incarceration-conservatives-koch-trump/"><img width="160" height="160" src="https://images.jacobinmag.com/2016/12/13001284944_8536239b78_b-160x160.jpg" class="attachment-160x160 size-160x160 wp-post-image" alt="" srcset="https://images.jacobinmag.com/2016/12/13001284944_8536239b78_b-160x160.jpg 160w, https://images.jacobinmag.com/2016/12/13001284944_8536239b78_b-370x370.jpg 370w" sizes="(max-width: 160px) 100vw, 160px" /></a>
+        </li>
+              </ul>
+    </div> <!-- .widget -->
+</div> <!-- #featured -->
+
+
+  <div id="sidebar">
+    <div id="social">
+    <a href="https://www.facebook.com/jacobinmag" target="_blank" class="facebook"></a>
+    <a href="https://twitter.com/jacobinmag" target="_blank" class="twitter"></a>
+    <div>Follow us</div>
+</div> <!-- #social -->
+
+<div id="search">
+    <form method="get" id="searchform" action="https://www.jacobinmag.com/">
+    <div><input type="text" name="s" class="s" placeholder=""/>
+    <button type="submit" class="btn"></button>
+    </div>
+    </form>
+</div>
+
+  <div class="issue24-link">
+    <p><a href="https://www.jacobinmag.com/issue/journey-to-the-dark-side/">NEW ISSUE OUT NOW</a></p>
+    <a href="https://www.jacobinmag.com/issue/journey-to-the-dark-side/"><img src="https://images.jacobinmag.com/2017/02/issue-24-cover.jpg" /></a>
+  </div>
+
+  <div id="donate" class="banner-bar">
+    <div id="text-11" class="widget widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fjacobinmag&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false&amp;appId=107533262637761" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div>
+		</div><div id="text-30" class="widget widget_text">			<div class="textwidget"><a href="http://www.ucpress.edu/book.php?isbn=9780520293502&utm_source=jacobin&utm_medium=banner&utm_campaign=shafir" target="_blank"><img src="https://images.jacobinmag.com/2017/04/University-of-California-April-20172.png"></a></div>
+		</div><div id="text-31" class="widget widget_text">			<div class="textwidget"><a href="https://www.sevenstories.com/books/3993-requiem-for-the-american-dream" target="_blank"><img src="https://images.jacobinmag.com/2017/04/7S-Jacobin-Chomsky-Requiem-300x600-top-ten-final.jpg"></a></div>
+		</div><div id="text-26" class="widget widget_text">			<div class="textwidget"><a href="http://bit.ly/CIISanthjacobin" target="_blank"><img src="https://images.jacobinmag.com/2017/03/CIIS.png"></a></div>
+		</div><div id="text-28" class="widget widget_text">			<div class="textwidget"><a href="https://aestheticsandpolitics.calarts.edu" target="_blank"><img src="https://images.jacobinmag.com/2017/03/calarts.jacobin.300x600.jpg"></a>
+</div>
+		</div><div id="text-25" class="widget widget_text">			<div class="textwidget"><a href="https://www.alaraby.co.uk/english/indepth/2017/3/24/music-of-the-revolution-the-arab-spring-soundtrack​" target="_blank"><img src="https://images.jacobinmag.com/2017/04/Jacobin-Ads-Music.jpg"></a></div>
+		</div><div id="text-10" class="widget widget_text"><h2 class="widgettitle"><a href="/donate/">Donate</a></h2>			<div class="textwidget"></div>
+		</div></div> <!-- #donate -->  </div>
+
+</div> <!-- #top-side -->
+
+
+
+</main> <!-- #main -->
+</div> <!-- #main-wrap -->
+
+
+<div id="footer-wrap">
+    <footer id="footer">
+
+        <a href="https://www.jacobinmag.com/about" id=""></a>
+        <div class="col-a">
+            <h3>About Us</h3>
+            <p><i>Jacobin</i> is a leading voice of the American left, offering socialist perspectives on politics, economics, and culture. The print magazine is released quarterly and reaches over 25,000 subscribers, in addition to a web audience of 1,000,000 a month.</p>
+        </div>
+
+        <div class="col-b">
+            <h3>The Magazine</h3>
+            <p><a href="https://www.jacobinmag.com/">Home</a></p>
+            <p><a href="https://www.jacobinmag.com/about">About</a></p>
+                        <p><a href="https://www.jacobinmag.com/issue/journey-to-the-dark-side">
+                Current Issue</a>
+            </p>
+            <p><a href="https://www.jacobinmag.com/issue/">All Issues</a></p>
+        </div>
+
+        <div class="col-c">
+            <h3>Support Us</h3>
+            <p><a href="https://www.jacobinmag.com/contact">Contact</a></p>
+            <p><a href="https://www.jacobinmag.com/subscribe">Subscribe</a></p>
+            <p><a href="https://www.jacobinmag.com/donate">Donate</a></p>
+            <p><a href="https://www.jacobinmag.com/store/">Buy Swag</a></p>
+            <p><a href="https://www.jacobinmag.com/advertise">Advertise</a></p>
+        </div>        
+
+
+
+    </footer> <!-- #footer -->
+</div> <!-- #footer-wrap -->
+
+<script type='text/javascript' src='https://www.jacobinmag.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Served from: www.jacobinmag.com @ 2017-04-19 09:36:34 by W3 Total Cache -->

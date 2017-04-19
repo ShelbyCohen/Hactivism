@@ -1,0 +1,617 @@
+	<!doctype html>
+	<!--[if !IE]>
+	<html class="no-js non-ie" lang="en-US"> <![endif]-->
+	<!--[if IE 7 ]>
+	<html class="no-js ie7" lang="en-US"> <![endif]-->
+	<!--[if IE 8 ]>
+	<html class="no-js ie8" lang="en-US"> <![endif]-->
+	<!--[if IE 9 ]>
+	<html class="no-js ie9" lang="en-US"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html class="no-js kab" lang="en-US"> <!--<![endif]-->
+	<head>
+	<meta name="test" />
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<meta name="google-site-verification" content="sDUM5Gd044tcP4QT73maDtbAP7zw2wsOdFVOpmSqDpo" />
+        		<title>Home | Kids Against Bullying &#124; Kids Against Bullying</title>
+
+		<link rel="profile" href="http://gmpg.org/xfn/11"/>
+		<link rel="pingback" href="http://www.pacerkidsagainstbullying.org/xmlrpc.php"/>
+		
+		<!--[if gte IE 9]>
+		  <style type="text/css">
+		    .gradient,
+			.tab .wpProQuiz_button,
+			.tab .wpProQuiz_button:hover,
+			.fancy-select-wrap,
+			.fancy-checkbox-wrap,
+			.fancy-radio-wrap,
+			.sub-nav .menu .btn-activity,
+			.sub-nav .menu .btn-activity:hover,
+			.sub-nav .menu .btn-activity.current,
+			.sub-nav .menu .btn-pill,
+			.sub-nav .menu .btn-pill:hover,
+			.sub-nav .menu .btn-pill.current,
+			.menu a:hover {
+		       filter: none!important;
+		    }
+		  </style>
+		<![endif]-->
+
+		<link rel="alternate" type="application/rss+xml" title="Pacer &raquo; Feed" href="http://www.pacerkidsagainstbullying.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pacer &raquo; Comments Feed" href="http://www.pacerkidsagainstbullying.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pacer &raquo; Home | Kids Against Bullying Comments Feed" href="http://www.pacerkidsagainstbullying.org/kab/feed/" />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-polls/polls-css.css?ver=2.63' type='text/css' media='all' />
+<link rel='stylesheet' id='wpProQuiz_front_style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.28' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/css/style.css?ver=1.9.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-media-queries-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/css/responsive.css?ver=1.9.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kab_css-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/htdocs/css/styles.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/shared/htdocs/css/flexslider.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-child-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='views-table-sorting-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/css/wpv-views-sorting.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='views-pagination-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/shared/htdocs/js/libs/jquery.gaaware.min.js?ver=1.9.13'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/js/responsive-modernizr.min.js?ver=2.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pacerkidsagainstbullying.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pacerkidsagainstbullying.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<link rel='canonical' href='http://www.pacerkidsagainstbullying.org/kab/' />
+<link rel='shortlink' href='http://www.pacerkidsagainstbullying.org/?p=9' />
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 18px;
+	line-height: 20px;
+	height: 20px;
+	background: #ef8100;
+	border: 1px solid #c8c8c8;
+}
+</style>
+<link href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/shared/htdocs/images/favicon.ico" rel="icon" type="image/x-icon" /><link rel="apple-touch-icon-precomposed"  href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-57x57-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-76x76-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-120x120-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-152x152-precomposed.png" /><!-- We need this for debugging -->
+<!-- Responsive 1.9.6.3 -->
+<!-- Pacer Kids and Teens Against Bullying 1.0.0 -->
+        <script type="text/javascript">
+            var front_ajaxurl = 'http://www.pacerkidsagainstbullying.org/wp-admin/admin-ajax.php';
+            var wpv_calendar_image = 'http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/img/calendar.gif';
+            var wpv_calendar_text = 'Select date';
+        </script>
+    
+    <script type="text/javascript">var gaAware = jQuery(document).gaaware({    UA: "UA-2136885-2"});</script>	</head>
+
+<body class="page page-id-9 page-parent page-template page-template-kids_against_bullyingkab-template-php kab">
+
+<div id="container" class="hfeed">
+
+	<div class="skip-container cf">
+		<a class="skip-link screen-reader-text focusable" href="#main">&darr; Skip to Main Content</a>
+	</div><!-- .skip-container -->
+	<header class="content-header gradient">
+	<div  class="cloud-wrapper">
+	<div class="wrapper">
+
+		
+					<ul id="menu-kab-utility" class="top-menu"><li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://www.pacerkidsagainstbullying.org/kab/in-the-news/">News</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://www.pacerkidsagainstbullying.org/kab/contact-us/">Contact</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.pacerkidsagainstbullying.org/kab/about-us/">About Us</a></li>
+<li id="menu-item-113" class="external menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a target="_blank" href="http://www.pacer.org/bullying/"><span class="external-link">PACER.org/bullying</span></a></li>
+<li id="menu-item-159217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159217"><a href="https://www.instagram.com/pacer_nbpc/"><span class="external-link"><img src="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/teens_against_bullying/htdocs/images/instagramicon_medium.gif" alt="NBPC Instagram width="35" height="35"></span></a></li>
+<li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033"><a title="Fundraising" href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/fundraising/">Fundraise</a></li>
+</ul>		
+		
+			<div id="logo">
+				<span class="site-name"><a href="http://www.pacerkidsagainstbullying.org/kab/" title="Pacer" rel="home">Pacer</a></span>
+			</div><!-- end of #logo -->
+
+		
+
+				</div>
+	</div><!-- end of #header -->
+
+	</header>
+	<div class="main-nav ">
+		<span class="display-none custom-mobile-menu-title">Menu</span>
+		<div class="wrapper clearfix">
+		<ul class="menu">
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/">What is Bullying?</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://www.pacerkidsagainstbullying.org/kab/are-you-a-target/">Are You A Target?</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://www.pacerkidsagainstbullying.org/kab/do-you-bully/">Do You Bully?</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.pacerkidsagainstbullying.org/kab/how-can-you-help/">How Can You Help?</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/">Join the Cause</a></li>
+			<li class="utility nav-hidden">
+			<ul>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://www.pacerkidsagainstbullying.org/kab/in-the-news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://www.pacerkidsagainstbullying.org/kab/contact-us/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.pacerkidsagainstbullying.org/kab/about-us/">About Us</a></li>
+<li class="external menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a target="_blank" href="http://www.pacer.org/bullying/"><span class="external-link">PACER.org/bullying</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159217"><a href="https://www.instagram.com/pacer_nbpc/"><span class="external-link"><img src="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/teens_against_bullying/htdocs/images/instagramicon_medium.gif" alt="NBPC Instagram width="35" height="35"></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033"><a title="Fundraising" href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/fundraising/">Fundraise</a></li>
+								</ul>
+			</li>
+		</ul>
+		</div>
+		</div>
+		<div class="main-nav-responsive display-none">
+		<ul>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/">What is Bullying?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://www.pacerkidsagainstbullying.org/kab/are-you-a-target/">Are You A Target?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://www.pacerkidsagainstbullying.org/kab/do-you-bully/">Do You Bully?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.pacerkidsagainstbullying.org/kab/how-can-you-help/">How Can You Help?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/">Join the Cause</a></li>
+  		
+		</ul>
+		</div>
+
+	<div id="wrapper" class="clearfix">
+
+	
+
+
+	
+	
+
+
+
+	
+	<!-- wpv-loop-start -->
+<div class="main_slides">
+  <ul class="slides">
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px; left:400px" class="poster posterright">
+
+<h1>You are Braver, Stronger and Smarter Than You Think.</h1>
+<a href="https://www.youtube.com/watch?v=R8lUD6BHunE?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
+
+</div></div></div>
+  <div class="image"><img alt="http://www.pacerteensagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Slide.jpg" title="http://www.pacerteensagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Slide.jpg" class="attachment-full" src="http://www.pacerteensagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Slide.jpg" /></div>
+</li>
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px; left:-100px;" class="poster posterleft">
+
+<h1 style="padding-top:10px">Stop That! A Bullying Prevention Anthem</h1>
+<p>Written by Annie Lynn and Chris Arms as a response to bullying experienced by Chris’ daughter and Annie’s son Alex and his friends nine years ago.</p>
+<a href="https://youtu.be/9XNqXR_UDig?rel=0" target="_blank" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
+
+</div></div></div>
+  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2016/11/stopThatSlide.jpg" class="attachment-full" alt="" style="" title="" /></div>
+</li>
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster postercenter">
+
+<h1>Ask Carmen</h1>
+<p>Carmen is a member of the Kids Against Bullying “Club Crew”. She knows a lot about how to prevent bullying and gives great advice to kids.</p>
+<a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/carmens-advice/" class="btn btn-cta gradient pacer_blue" style="margin-top:0px">Read Carmen&#8217;s Advice</a>
+
+</div></div></div>
+  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/askCarmenSlide1.jpg" class="attachment-full" alt="" style="" title="" /></div>
+</li>
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterleft">
+
+<h1 style="padding-top:10px">Turn a Life Around</h1>
+<p>Bullying knocks down thousands of kids every day, but when one person stands, another will stand with them. You can be that person, you can turn a life around.</p>
+<a href="https://www.youtube.com/watch?v=GMwkNLk11LA?rel=0" style="font-size:24px" target="_blank" class="btn btn-cta gradient pacer_blue video_link">Watch video</a>
+
+</div></div></div>
+  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2015/06/turnALifeAroundSlide.jpg" class="attachment-full" alt="" style="" title="" /></div>
+</li>
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterright">
+
+<h1>Pima Rock Band &#8220;Keep Your Eyes Open&#8221; PSA</h1>
+<p>A video with a positive message showing the bystander effect and how you can help others.</p>
+<a href="https://www.youtube.com/watch?v=4hSfD7b-NU8?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
+
+</div></div></div>
+  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/04/PimaRockBandSlide2.jpg" class="attachment-full" alt="" style="" title="" /></div>
+</li>
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterleft">
+
+<h1>&#8220;Play With Me&#8221;</h1>
+<p>Anti-bullying version of Sam Smith&#8217;s &#8220;Stay with Me&#8221; sung by children.</p>
+<a href="https://www.youtube.com/watch?v=bmN2CQ6qhGc?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
+
+</div></div></div>
+  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/kab_playWithMe_slide.jpg" class="attachment-full" alt="" style="" title="" /></div>
+</li>
+		
+          <li class="slide">
+  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterright">
+
+<h1>&#8220;Stronger&#8221;</h1>
+<p>Anyone can be bullied, including talented musicians. The classical garage band Time for Three offers a unique take on the Kanye West tune.</p>
+<a href="https://www.youtube.com/watch?v=OG3YOa9vIt8#t=110?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
+
+</div></div></div>
+  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/stronger_slide.jpg" class="attachment-full" alt="" style="" title="" /></div>
+</li>
+		
+  </ul>
+</div>
+
+<div class="wrapper">
+	<div class="orange-solid-left"></div>
+  	<div class="orange-cover-left"></div>
+	<div class="orange-cover-right"></div>
+  	<div class="orange-solid-right"></div>
+</div>
+
+	<!-- wpv-loop-end -->
+	
+	
+
+
+
+
+
+
+	
+	<!-- wpv-loop-start -->
+<div class="nav_slides">
+  <ul class="slides">
+		
+         <li class="thumb">
+  <div class="thumb-image"><img width="96" height="96" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Thumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
+  <div class="thumb-content"><h4>You are Braver, Stronger and Smarter Than You Think</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+         <li class="thumb">
+  <div class="thumb-image"><img width="96" height="96" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2016/11/stopThatThumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
+  <div class="thumb-content"><h4>Stop That! A Bullying Prevention Anthem</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+         <li class="thumb">
+  <div class="thumb-image"><img width="98" height="98" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/askCarmenThumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
+  <div class="thumb-content"><h4>Ask Carmen</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+         <li class="thumb">
+  <div class="thumb-image"><img width="96" height="96" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2015/06/turnALifeAroundThumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
+  <div class="thumb-content"><h4>Turn a Life Around</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+         <li class="thumb">
+  <div class="thumb-image"><img width="98" height="98" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/pima_rockband_thumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
+  <div class="thumb-content"><h4>&#8220;Keep Your Eyes Open&#8221;</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+         <li class="thumb">
+  <div class="thumb-image"><img alt="http://www.pacerteensagainstbullying.org/wp-content/uploads/2014/10/playWithMe_thumb.jpg" title="http://www.pacerteensagainstbullying.org/wp-content/uploads/2014/10/playWithMe_thumb.jpg" class="attachment-full" src="http://www.pacerteensagainstbullying.org/wp-content/uploads/2014/10/playWithMe_thumb.jpg" /></div>
+  <div class="thumb-content"><h4>&#8220;Play With Me&#8221;</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+         <li class="thumb">
+  <div class="thumb-image"><img width="98" height="98" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/stronger_thumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
+  <div class="thumb-content"><h4>&#8220;Stronger&#8221;</h4> </div>
+  <div class="indicator"></div>
+</li>
+		
+  </ul>
+</div>
+	<!-- wpv-loop-end -->
+	
+	
+
+
+<div class="pacer_contents palegray"><div class="wrapper">
+<h1 style="text-align: center;">Tell Us Why You Care</h1>
+</div></div>
+
+
+
+
+
+	
+<div class="clearfix full-width-lightgray">
+  <div class="gradient pic-frame-horizontal"></div>
+<ul class="care_because_statements masonry">
+	<!-- wpv-loop-start -->
+		
+          <li class="care_because">
+  I care because this always happens to me and want other people to feel happy about themselves.<br />
+  <span class="care-because-credit"><br />
+     — <em></em><br />
+  </span>
+</li>
+
+		
+          <li class="care_because">
+  we care because bullying can have a big effect on your mental health that is bad! WE CARE<br />
+  <span class="care-because-credit"><br />
+    kimberli and miriama — <em>11</em><br />
+  </span>
+</li>
+
+		
+          <li class="care_because">
+  I care about bullying because i am getting bullied and still til this day for my looks and religion. No one thinks I am kind but I have found friends. I bullied one girl and I guess the karma's back to me<br />
+  <span class="care-because-credit"><br />
+    Halima — <em>10</em><br />
+  </span>
+</li>
+
+		
+          <li class="care_because">
+  Don't bully people because it may not seem like it bothers them but deep down inside it truly hurts them.<br />
+  <span class="care-because-credit"><br />
+    Ava — <em>9</em><br />
+  </span>
+</li>
+
+		
+          <li class="care_because">
+  it makes people feel sad<br />
+  <span class="care-because-credit"><br />
+    pot — <em>4</em><br />
+  </span>
+</li>
+
+		
+          <li class="care_because">
+  i have been bullied before and it does not make you fell good<br />
+  <span class="care-because-credit"><br />
+    adam — <em>11</em><br />
+  </span>
+</li>
+
+		
+	<!-- wpv-loop-end -->
+</ul>
+  <div class="gradient pic-frame-horizontal-bottom"></div>
+  
+  <div class="wrapper"><img src="/wp-content/uploads/2014/05/chandra_homepage.png" alt="chandra_homepage" width="335" height="429" class="chandra-homepage" /></div>
+  
+</div>
+	
+	
+
+
+<div class="pacer_contents palegray shadow-inset-bottom"><div class="wrapper">
+<p>&nbsp;</p>
+<p style="text-align: center;"><a class="btn btn-cta gradient pacer_blue" href="/kab/i-care-because/i-care-because-form/">Submit Your Own</a></p>
+<p style="text-align: center;">Or <a href="/kab/i-care-because/">View All</a></p>
+</div></div>
+
+
+
+
+
+	
+	<!-- wpv-loop-start -->
+<div class="crew_slider">
+  <h1>Meet the Crew!</h1>
+	<ul class="slides">
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-brad.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-183-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/BRAD-BIO.mp3?_=1" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/BRAD-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/BRAD-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hey, you. Yeah, you. I’m Brad. Rhymes with bad. You know what my favorite thing is? Making babies like you cry. Don’t even think about telling the teacher I said that. If you do, I’ll give you something to really cry about.</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-carmen.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-196-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CARMEN-BIO.mp3?_=2" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CARMEN-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CARMEN-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>¡Hola! I’m Carmen! Not many people know this, but I have epilepsy. The signals in my brain get mixed up. Sometimes I space out. I take medication so it hardly ever happens anymore. But once it happened at school. Some kids made fun of me. I felt so bad. I don’t want anyone to feel that way.</p>
+<p>When I see kids picking on other kids, it makes me so mad! Usually I just grab some friends and we march right over and say, “stop it!” Together we can stop bullying.</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-chandra.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-197-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CHANDRA-BIO.mp3?_=3" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CHANDRA-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CHANDRA-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hi. I’m Chandra.</p>
+<p>I just moved here with my mom and dad and little brother.  He has autism. I don’t really know many people yet. But I see a lot of things going on. Like kids being picked on because they’re different.</p>
+<p>It’s just wrong. I try to stop it&#8211;even if I feel afraid. Two things I know for sure: Nobody likes bullying, and everyone deserves respect.</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-jay.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-795-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/JAY-BIO.mp3?_=4" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/JAY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/JAY-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hi, I’m Jay.</p>
+<p>Yep, I use sign language. That’s because I’m hard of hearing. My hearing aids help a little, but I don’t hear like most people. When I talk, people have trouble understanding me sometimes. But you know what’s cool? I can read lips! It’s, It&#8217;s like being a super spy!</p>
+<p>Maybe you could come over sometime. We could watch TV! I could show you how closed captioning helps me understand what they’re saying.</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-matt.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-796-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MATT-BIO.mp3?_=5" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MATT-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MATT-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>I’m Matt. You got something to say?</p>
+<p>Hey, I’m better at sports than you’ll ever be. Hit a grand slam in Little League last year. I scored the winning run! Bet you couldn’t do that in a million years. I’ll probably do it again this year, if I feel like it. Yeah, I’m the best hitter on the team. On any team. Better’n you, that’s for sure.</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-mickey.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-797-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MICKEY-BIO.mp3?_=6" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MICKEY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MICKEY-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hi! I&#8217;m Mickey. I have Down syndrome. Sometimes when I talk, you might not understand me. But I usually understand you. In school, I am in special ed classes.</p>
+<p>I LOVE baseball. I even won a medal! Cool!</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-molly.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-798-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MOLLY-BIO.mp3?_=7" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MOLLY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MOLLY-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>My name is Molly! Want to play with me at recess?</p>
+<p>I like it when kids have fun together. Sometimes I see kids being picked on, and I feel scared. I want to make it stop, but I don’t know what to do. Do you ever feel that way? No one has picked on me yet.  I don’t know what I would do if they did. Usually I try to hang around with my friends, ‘cause together we’re amazing!</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-mrsbridge.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-799-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MRS-BRIDGE-BIO.mp3?_=8" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MRS-BRIDGE-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MRS-BRIDGE-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hi! I’m Mrs. Bridge. I’m so glad you’re here! I hope you have fun and learn a lot about how to stop bullying.</p>
+<p>I have a little secret.  When I was your age, kids picked on me. It’s true! That’s because I had a disability called ADHD. That’s short for “attention deficit hyperactivity disorder.” I even landed in trouble with my teachers. And now I am a teacher!</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-nick.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-800-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/NICK-BIO.mp3?_=9" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/NICK-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/NICK-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hi, I’m Nick.</p>
+<p>Am I the only one who isn’t sure what to do when someone’s being bullied?</p>
+<p>I wish people could just get along like me and my friends. Sometimes I see a kid being picked on and I don’t know what to do. I feel really bad. Should I tell? Should I try to stop it? If I do, will the kids doing it come after me? Or will I be blamed? I want to do something, but sometimes I just feel helpless.</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-pip.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-801-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/PIP-BIO.mp3?_=10" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/PIP-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/PIP-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>My name is Pipsqueak. You can call me Pip!</p>
+<p>Before I came here, I lived in a pet shop with about a gazillion other hamsters. I was the littlest one.  Boy, did the other hamsters let me know it! They teased me and called me names. Hamsters can be so mean! That’s where I learned something about bullies: They just want you to cry and feel bad so they can feel powerful. Know what I did when I was picked on? I just twitched my nose and said, “Pifflesticks!”</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-sally1.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-48-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SALLY-BIO.mp3?_=11" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SALLY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SALLY-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>Hi, I&#8217;m Sally! I have cerebral palsy. My muscles don’t always do what I want them to do. But I have this cool red wheelchair. I can go just about anywhere and do almost anything. Last summer I even went to camp and went horseback riding! It was so fun.</p>
+<p>Do you like computers? I do. A lot! You should see me surf the Web and play adventure games. I’m awesome!</p>
+</div>
+</li>
+
+		
+         <li class="slide">
+<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-shannon.jpg" class="attachment-full" alt="" style="" title="" /></div>
+<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-802-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SHANNON-BIO.mp3?_=12" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SHANNON-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SHANNON-BIO.mp3</a></audio></div>
+<div class="crew-body"><p>I’m Shannon—but I’m sure you already know that. Don’t you think I’m, like, the coolest girl in school? I do. Do you like my new cell phone? Maybe I’ll use it to take a picture of that new girl. I could post it on the Internet with a message about what a loser she is.</p>
+<p>Good thing my older sister, Marla, and her friends haven’t thought of doing that to me. They are, like, so mean! Marla even told one of my friends that I still suck my thumb at night. I do not!</p>
+</div>
+</li>
+
+		
+</ul>
+</div>
+	<!-- wpv-loop-end -->
+	
+	
+
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/learning-with-the-club-crew/" class="btn btn-cta gradient pacer_gray">Learn with the Club Crew!</a></p>
+<p>&nbsp;</p>
+		<!-- end of #featured-image -->
+
+
+	<footer>
+<div class="footer-top">
+	<div class="wrapper">
+		<img src="/wp-content/uploads/2014/05/homepage-teacher.png" alt="teacher" width="88" height="160" class="teacher-homepage" />
+		<div class="left">
+		
+				<div id="text-14" class="widget_text"><div class="widget-title"><h4>Sign The Petition</h4></div>			<div class="textwidget"><p>The end of bullying begins with you! Become a kid against bullying. </p>
+
+<a href="/kab/join-the-cause/sign-the-petition/" class="btn btn-cta gradient pacer_gray">Sign Now</a></div>
+		</div>
+					</div>
+		<div class="center">
+			
+					<div id="text-5" class="widget_text"><div class="widget-title"><h4>Donate</h4></div>			<div class="textwidget"><p>Your support can mean one less student being bullied, one more person speaking out, or one more kid knowing that somebody cares. Thank you for making a difference.</p>
+<a href="https://pacer.ejoinme.org/MyPages/DonateToTheNationalBullyingPreventionCenter/tabid/229451/Default.aspx" class="btn btn-cta gradient pacer_gray" target="_blank">Donate Now</a></div>
+		</div>
+						</div>
+		<div class="right">
+			
+					<div id="text-6" class="widget_text"><div class="widget-title"><h4>For Parents</h4></div>			<div class="textwidget"><p>Parents have an important role in addressing and preventing bullying. Find out how you can help protect your child from bullying.</p>
+<a href="http://www.pacer.org/bullying/"  target="_blank" class="external-link" >PACER.org/bullying</a></div>
+		</div>
+						</div>
+	</div>
+</div>
+<div class="footer-bottom">
+	<div class="wrapper">
+		<div id="footer_logo">
+			<span class="site-name"><a href="http://www.pacerkidsagainstbullying.org/?page_id=9 " title="Pacer" rel="home">Pacer</a></span>
+		</div><!-- end of #footer_logo -->
+
+		<div class="left">
+			
+					<div id="nav_menu-2" class="widget_nav_menu"><div class="widget-title"><h4>Explore</h4></div><div class="menu-kab-explore-container"><ul id="menu-kab-explore" class="menu-widget"><li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/">What is Bullying?</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="http://www.pacerkidsagainstbullying.org/kab/are-you-a-target/">Are You A Target?</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.pacerkidsagainstbullying.org/kab/do-you-bully/">Do You Bully?</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://www.pacerkidsagainstbullying.org/kab/how-can-you-help/">How Can You Help?</a></li>
+<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/">Join the Cause</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://www.pacerkidsagainstbullying.org/kab/in-the-news/">News</a></li>
+</ul></div></div>
+						</div>
+		<div class="center">
+			
+					<div id="text-2" class="widget_text">			<div class="textwidget"><ul>
+<li><a href="http://www.pacer.org/bullying/"  target="_blank">PACER's National Bullying Prevention Center<span class="icon-external_link"></span></a></li>
+<li><a href="http://www.pacerteensagainstbullying.org/" target="_blank">PACER's Teens Against
+Bullying<span class="icon-external_link"></span></a></li>
+<li><a href="/kab/your-opinion-counts/">Your Opinion Counts</a></li>
+</ul></div>
+		</div>
+						</div>
+		<div class="right">
+					</div>
+	</div>		
+</div>
+<div class="legal text-center">
+<div class="">
+	&copy; 2017 PACER Center. All Rights Reserved
+</div>
+
+</div>
+
+</footer>
+<link rel='stylesheet' id='JQEB_style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/jquery-expanding-box/jquery-dropdown-box.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/jquery-expanding-box/jquery.dropdown.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.pacerkidsagainstbullying.org\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-polls/polls-js.js?ver=2.63'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/htdocs/js/plugins.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/htdocs/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/js/responsive-scripts.min.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/js/jquery.placeholder.min.js?ver=2.0.7'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/comment-reply.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/js/views_front_end_utils.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/js/wpv-date-front-end-control.js?ver=1.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.15.0'></script>
+<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.0'></script>
+</body>
+</html>

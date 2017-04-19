@@ -1,0 +1,562 @@
+ <!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+
+<head>
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","/sites/default/files/google_analytics/analytics.js?oomap6","ga");ga("create", "UA-3066866-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="title" content="Being Idle No More: The Women Behind the Movement | Cultural Survival" />
+<meta name="description" content="On December 11, 2012, on International Human Rights Day, northern Ontario Attawapiskat Chief Theresa Spence began a hunger strike, calling on Canadian Prime Minister Stephen Harper and the Governor General David Johnston to “initiate immediate discussions and the development of action plans to address treaty issues with First Nations across Canada.” Her peaceful resistance, emphasizing the importance of dialogue, catapulted the Idle No More movement to a new level of urgency." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/cs_favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="und" href="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement" />
+<link rel="canonical" href="/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement" />
+<link rel="shortlink" href="/node/10754" />
+<link rel="revision" href="/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};a2a_config.no_3p=1;</script>
+
+        <title>Being Idle No More: The Women Behind the Movement | Cultural Survival</title>
+        <link rel="stylesheet" href="/sites/default/files/css/css_QF_qgGiYuUYKkGQvLvTBYzy2jL2I5Pd85CSD1vJws6o.css?oomap6" media="all" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_siuVDfNELbGOilAf_boPNpgRk7XGd7DZs2Sl0VoZong.css?oomap6" media="all" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_kvsPBP9HKbMsYLKr7pMhdBjjR_dSynvxYUyHXEd9ugQ.css?oomap6" media="all" />
+
+            
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+                <script>
+                    WebFontConfig = {
+                        google: {
+                            families: ['Raleway:200,400,700:latin']
+                        },
+                        timeout: 3000 // Set the timeout to three seconds
+                    };
+
+                    (function (d) {
+                        var wf = d.createElement('script'),
+                            s = d.scripts[0];
+                        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js';
+                        s.parentNode.insertBefore(wf, s);
+                    })(document);
+                </script>
+
+</head>
+<body class="path-node page-node-type-csq has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a> 
+    <div id="st-container" class="st-container">
+
+        <nav class="st-menu st-effect-11" id="menu-11">
+            <ul class="menu">
+                <li class="first expanded"><a href="#" class="subMenu subMenuClosed">About Us <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                    <ul class="menu">
+                        <li class="first expanded"><a href="/about">About Cultural Survival</a>                        </li>
+                        <li class="leaf"><a href="/about/internships" title="Internship Program and Volunteer Opportunities">Internships</a></li>
+                        <li class="leaf"><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </li>
+                <li class="expanded"><a href="/our-approach" class="subMenu subMenuClosed">Our Programs <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                    <ul class="menu programs">
+                        <li class="first leaf"><a href="/programs/community-media">Community Media</a></li>
+                        <li class="leaf"><a href="http://consent.culturalsurvival.org" target="_blank">Indigenous Rights Radio</a></li>
+                        <li class="leaf"><a href="/programs/advocacy">Advocacy</a></li>
+                        <li class="last leaf"><a href="http://bazaar.culturalsurvival.org/" target="_blank">Bazaars</a></li>
+                    </ul>
+                </li>
+                <li class="expanded"><a href="#" class="subMenu subMenuClosed">Our Publications <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                    <ul class="menu publications">
+                        <li class="first expanded"><a href="/taxonomy/term/3245" class="csq">Cultural Survival Quarterly</a>
+                            <ul class="menu">
+                                <li class="first leaf"><a href="/publications/cultural-survival-quarterly/back-issues">Back Issues</a></li>
+                                <li class="leaf"><a href="/publications/cultural-survival-quarterly/guidelines">Guidelines</a></li>
+                                <li class="last leaf"><a href="/donate">Subscribe</a></li>
+                            </ul>
+                        </li>
+                        <li class="leaf"><a href="/news">News &amp; Articles</a></li>
+                        <li class="leaf"><a href="/reports">Reports</a></li>
+                        <li class="leaf"><a href="/about/annual-reports">Annual Reports</a></li>
+                        <li class="last leaf"><a href="/resources" title="Resources for Indigenous Peoples">Resources</a></li>
+                    </ul>
+                </li>
+                <li class="leaf"><a href="http://bazaar.culturalsurvival.org/" target="_blank">Bazaars</a></li>
+
+                <li class="expanded"><a href="/get-involved" class="subMenu subMenuClosed">Get Involved <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                    <ul class="menu action">
+                        <li class="first leaf"><a href="/about/internships">Intern or Volunteer</a></li>
+                        <li class="leaf"><a href="/donate">Donate</a></li>
+                        <li class="last leaf"><a href="http://shop.culturalsurvival.org/" title="Shop Cultural Survival T-Shirts and Calendars" target="_blank">Shop CS</a></li>
+                    </ul>
+                </li>
+                <li class="last expanded"><a href="/donate" class="donate">Donate Now</a></li>
+            </ul>
+        </nav>
+
+        <!-- content push wrapper -->
+        <div class="st-pusher">
+
+            <div class="st-content">
+                <!-- this is the wrapper for the content -->
+                <div class="st-content-inner">
+                    <!-- extra div for emulating position:fixed of the menu -->
+                         <header class="navbar navbar-default container-fluid" id="navbar">
+    <div class="navbar-header">
+          <div class="region region-navigation">
+     <div class="col-sm-3 col-xs-6 logo-container">
+    <div class="col-xs-3 no-padding">
+        <div id="st-trigger-effects">
+            <button class="icon glyphicon glyphicon-menu-hamburger" data-effect="st-effect-11" aria-hidden="true">
+            </button>
+        </div>
+    </div>
+    <div class="col-xs-9 no-padding">
+        <a class="logo no-padding" href="/" title="Home" rel="home">
+            <img src="/sites/default/files/cslogo-x2.png" alt="Home" />
+        </a>
+    </div>
+</div>
+   <nav  id="block-csflat-main-menu" class="col-xs-12 col-md-5">
+      
+              <ul class="menu nav navbar-nav">
+                            <li>
+        <a href="/issues" data-drupal-link-system-path="node/3">The Issues</a>
+                  </li>
+                        <li>
+        <a href="/our-approach" data-drupal-link-system-path="node/4">Our Approach</a>
+                  </li>
+                        <li>
+        <a href="/get-involved" data-drupal-link-system-path="node/5">Get Involved</a>
+                  </li>
+                        <li>
+        <a href="/latest" data-drupal-link-system-path="node/11777">Latest</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="search-block-form col-sm-6 col-md-2 col-xs-1 block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-csflat-search" role="search">
+  
+      <h2 class="visually-hidden">Search</h2>
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Search</label>
+  
+  
+  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Search</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+
+  
+  
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
+
+</form>
+
+  </div>
+<div id="block-sociallinks" class="col-sm-3 col-md-2 col-xs-5 block block-block-content block-block-contentb5ff6432-8be1-442b-8a52-6eb4705e3620 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item">  <div class="col-xs-2">
+  <a href="https://www.facebook.com/culturalsurvival" class="btn-social-icon btn-facebook">
+    <span class="fa fa-facebook"></span>
+  </a>
+  </div>
+  <div class="col-xs-2">
+<a href="https://twitter.com/csorg" class="btn-social-icon btn-twitter">
+    <span class="fa fa-twitter"></span>
+    </a></div>
+    <div class="col-xs-2">
+<a href="https://www.instagram.com/cultural_survival/" class="btn-social-icon btn-instagram">
+    <span class="fa fa-instagram"></span>
+      </a></div>
+
+      <div class="col-xs-6">
+<a href="/donate" class="button donateButton">Donate</a>
+  </div></div>
+      
+  </div>
+
+
+  </div>
+      </div>
+
+         </header>
+           <div role="main" class="main-container container-fluid js-quickedit-main-content">
+        <div class="row">
+
+                             <div  class="col-sm-12 no-padding">
+
+                                  <div class="highlighted">  <div class="region region-highlighted">
+    
+
+  </div>
+</div>
+                         
+
+                <a id="main-content"></a>
+                  <div class="region region-content">
+             <div class="container-fluid">
+     <div class="col-md-10 col-md-offset-1">  
+<h3><a href="/publications/cultural-survival-quarterly/40-4-water-life">Cultural Survival Quarterly Magazine</a></h3>
+</div>
+</div>
+      <article>
+  <div class="container-fluid">
+     <div class="col-md-10 col-md-offset-1">  <h1 class="page-header"><span>Being Idle No More: The Women Behind the Movement</span>
+</h1>
+      </div>
+          </div>
+
+  <div class="content">
+      
+      <div class="col-sm-8 col-md-7 col-md-offset-1">
+          
+      <div class="field field--name-field-image-item field--type-image field--label-hidden field--items">
+              <div class="field--item">    <img srcset="/sites/default/files/styles/max_325x325/public/idle-no-more-4-women-foundersbw.jpg?itok=aji6WqDC 325w, /sites/default/files/styles/max_650x650/public/idle-no-more-4-women-foundersbw.jpg?itok=2vbK2pGc 650w, /sites/default/files/styles/max_1300x1300/public/idle-no-more-4-women-foundersbw.jpg?itok=xe16Hdvq 1300w, /sites/default/files/styles/max_2600x2600/public/idle-no-more-4-women-foundersbw.jpg?itok=mCpeM09_ 1632w" sizes="(min-width: 1290px) 1290px, 100vw" src="/sites/default/files/styles/max_325x325/public/idle-no-more-4-women-foundersbw.jpg?itok=aji6WqDC" alt="" typeof="foaf:Image" class="img-responsive" />
+
+
+</div>
+          </div>
+  
+          
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>On December 11, 2012, on International Human Rights Day, northern Ontario Attawapiskat Chief Theresa Spence began a hunger strike, calling on Canadian Prime Minister Stephen Harper and the Governor General David Johnston to “initiate immediate discussions and the development of action plans to address treaty issues with First Nations across Canada.” Her peaceful resistance, emphasizing the importance of dialogue, catapulted the Idle No More movement to a new level of urgency. What began as a resistance against an impending bill in Saskatchewan spilled across the border to the United States, ultimately spreading as far as Ukraine and New Zealand<br />as a movement empowering Indigenous communities to stand up for their lands, rights, cultures, and sovereignty.<br /><br />The Idle No More movement began as a thread of emails between four women from Saskatchewan: Jessica Gordon, Sylvia McAdam, Nina Wilson, and Sheelah McLean, who decided to make a “sincere effort to make some change.” The context for their resolution was the Canadian Bill C-45, the government’s omnibus budget implementation<br />bill that includes changes to land management on the reservations. It attacks the land base reserved for Indigenous people, removes protection for hundreds of waterways, and weakens Canada’s environmental laws. The women started a Facebook page to brainstorm ideas and a plan for action. Gordon, who is from Pasqua 4 Treaty Territory, decided to name the page “Idle No More” as a reminder “to get off the couch and start working.”<br /><br />The movement’s grassroots tactics were evident from the first major event, a mass teach-in at Station 20 West, an innovative community enterprise center in Saskatoon, Saskatchewan, on November 10, 2012. Following the teach-in, which was loosely coordinated via the group’s Facebook page and Twitter hashtag #idlenomore, a series of rallies and protests spread across Saskatchewan to Manitoba and Alberta. Speaking to a reporter at one such rally, Wilson, a Nakota and Plains Cree from Treaty 4 White Bear territory said, “We are trying to help people get their voices back so that we can make more change and we are able to have more of a First Nations voice…not just a First Nations, but an Indigenous voice, and not just an Indigenous voice but a grassroots voice, because it affects us all.” And it does affect us all, as it does the  environment.<br /><br />Though it was the Omnibus C-45 bill that led to the movement, Idle No More is not just about legislation. It is also a call for renewal of the Indigenous identities and lifeways. The leaders and spokespersons of the movement have no hesitation linking the political to the personal, as the personal is very much a part of the movement. From her teepee on the frozen Ottawa River, a stone’s throw away from the Parliament Hill, Spence spent 44 days on hunger strike and recently said, “I am in this resistance because the pain became too heavy.<br /><br />I just could not take it anymore.” She explained how the alienation and pain she feels stems from her years in the residential schools. “It was a closed chapter, until one day you realize this generation is facing the same pain we felt at resident school. We want a life of freedom and not a life of pain and fear for the generation.”</p><p>The fact that the movement’s leaders speak so openly about the pain they have experienced is one of the things that sets Idle No More apart. It reminds supporters, especially the Indigenous communities in Canada and across the globe, of their shared stories and memories and urges them to stick to their loyalties. The leaders speak in ways that their people can understand. Idle No More is a personal, global, and spiritual movement.<br /><br />As McLean, who is the only non-Indigenous member in the initial group of four women, says, “It is a very loving movement…and it’s almost entirely female-led. Even though there are hundreds of men who support the movement, the vast majority of the movement’s participants and organizers are women.” The nature of the fluid, nonviolent, and unifying movement is one that both reflects and engages women’s agency. McLean’s passion for the cause is a statement that the resistance to Bill C-45 is a resistance relevant to every Canadian.<br /><br />As the movement continues to grow, only loosely coordinated through the use of Twitter, Facebook, and a blog, there is an increasing chance that it could lose control of its core values: nonviolence, inclusion, and peace. Gordon, who has long served her community through nonprofit organizations and by volunteering on committees and boards, has taken up the responsibility for monitoring the virtual space of the movement. She manages the movement’s website idlenomore.ca, and takes great care in ensuring that the events that get promoted and added to the Idle No More banner are all peaceful in nature. “If I’m posting, I’ve been able to make sure [the contributions] are all peaceful. That’s what we’ve been saying from the beginning,” she says.<br /><br />McAdam, who is from the Treaty 6 territory and a direct descendent of the treaty makers, is a scholar of Cree culture as well as law and human justice, and author of the book <em>Cultural Teachings: First Nations Protocol and Methodologies.</em> Nonviolence is a movement of great spiritual strength and necessitates precepts and reminders as to how the movement’s followers should renew and conduct themselves. McAdam invokes Cree history and laws to unite the Indigenous people. She says, “I’ve heard many of my relatives say, ‘yes, I will be there,’ but they don’t attend. Perhaps the reasons are legitimate; however, in our nehiyaw weyeswewna (Cree laws), when we say we are going to do something, the spirit world listens, your keepers listen, and our ancestors listen. When we say we are going to go ‘support,’ we mean, e we ni towh setohks<br />ka ke yak. This means we are doing more than supporting; our keepers, [and] spirits are going too. The ones that are listening will begin to pave the journey there for you so you may arrive safe and unharmed. When we don’t follow through with our plans, then our keepers will have set the path for that journey for nothing. When a person does this far too many times, then you are e pah kachimayak, which means dishonest, unsupportive.”<br /><br />Each of the four women leading Idle No More fills a valuable niche. But even as the movement has strong leadership provided by the blend of their roles and experience, the masses at the grassroots still retain their place at the core of the movement. As the movement leaders speak of disenfranchised communities left without potable drinking water, as the extended history of colonialism and violation of treaty rights are recalled, the focus still remains on dialogue so that solutions are sought together<br />and not imposed; so that the space and chance for co-creation is securely protected; and participation and Free, Prior and Informed Consent are respected. Speaking up, dancing, and rallying together, co-creating, let’s too join. Let us be Idle No More.<br /><br /><em>— Febna Caven is an independent researcher and writer on communities in contested environments.</em></p></div>
+      
+          <div class="pb-20 pt-20"><span class="a2a_kit a2a_kit_size_50 addtoany_list" data-a2a-url="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement" data-a2a-title="Being Idle No More: The Women Behind the Movement"><a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.culturalsurvival.org%2Fpublications%2Fcultural-survival-quarterly%2Fbeing-idle-no-more-women-behind-movement&amp;title=Being%20Idle%20No%20More%3A%20The%20Women%20Behind%20the%20Movement"></a></span>
+</div>
+      </div>
+       <div class="col-sm-4 col-md-3">
+           <div class="pb-20 pt-20"><span class="a2a_kit a2a_kit_size_50 addtoany_list" data-a2a-url="https://www.culturalsurvival.org/publications/cultural-survival-quarterly/being-idle-no-more-women-behind-movement" data-a2a-title="Being Idle No More: The Women Behind the Movement"><a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.culturalsurvival.org%2Fpublications%2Fcultural-survival-quarterly%2Fbeing-idle-no-more-women-behind-movement&amp;title=Being%20Idle%20No%20More%3A%20The%20Women%20Behind%20the%20Movement"></a></span>
+</div>
+          <h4>CSQ Issue: </h4>
+           
+            <div class="field field--name-taxonomy-vocabulary-3 field--type-entity-reference field--label-hidden field--item"><div about="/publications/cultural-survival-quarterly/37-1-electronic-drum-community-radios-role-indigenous">
+  
+      <h2><a href="/publications/cultural-survival-quarterly/37-1-electronic-drum-community-radios-role-indigenous">
+            <div class="field field--name-name field--type-string field--label-hidden field--item">37-1 The Electronic Drum: Community Radio&#039;s Role in Indigenous Language Revitalization</div>
+      </a></h2>
+    
+  
+  <div class="field field--name-field-publication-date field--type-datetime field--label-inline">
+    <div class="field--label">Publication Date</div>
+              <div class="field--item">March 2013</div>
+          </div>
+
+            <div class="field field--name-field-csq-image field--type-image field--label-hidden field--item">  <a href="/publications/cultural-survival-quarterly/37-1-electronic-drum-community-radios-role-indigenous"><img src="/sites/default/files/2016-11/csqq_371_cover.jpg" width="180" height="220" alt="csq 371" typeof="foaf:Image" class="img-responsive" />
+</a>
+</div>
+      
+
+
+          <a href="https://issuu.com/culturalsurvival/docs/37-1" class="button" target="_blank">Read on Issuu</a>
+        
+
+
+          <a href="http://shop.culturalsurvival.org/" class="button" target="_blank">Buy a copy</a>
+        <div><a href="https://www.culturalsurvival.org/subscribe" class="button donateColor">Subscribe</a></div>
+</div>
+</div>
+      
+          
+  <div class="field field--name-taxonomy-vocabulary-8 field--type-entity-reference field--label-inline">
+    <div class="field--label">Country</div>
+          <div class="field__items">
+              <div class="field--item"><a href="/country/canada" hreflang="en">Canada</a></div>
+              </div>
+      </div>
+
+            
+  <div class="field field--name-taxonomy-vocabulary-5 field--type-entity-reference field--label-inline">
+    <div class="field--label">Author</div>
+          <div class="field__items">
+              <div class="field--item"><a href="/author/febna-caven" hreflang="en">Febna Caven</a></div>
+              </div>
+      </div>
+
+           
+            
+  <div class="field field--name-taxonomy-vocabulary-14 field--type-entity-reference field--label-inline">
+    <div class="field--label">Issues</div>
+          <div class="field__items">
+              <div class="field--item"><a href="/issues/human-rights" hreflang="en">Human Rights</a></div>
+              </div>
+      </div>
+
+      </div>
+  </div>
+
+</article>
+
+
+
+
+
+  </div>
+                 </div>
+
+                         </div>
+    </div>
+        <footer>
+        <div class="wideRow dark email">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">&nbsp;</div>
+                    <div class="col-md-6">
+                        <h2><a id="stayInformed"></a>Stay Informed</h2>
+                        <p>Sign up today to stay informed about the latest news, Cultural Survival program updates, events and MORE...
+                        </p>
+                        <!--Begin CTCT Sign-Up Form-->
+                        <!-- EFD 1.0.0 [Wed Nov 16 16:14:54 EST 2016] -->
+                        <link rel='stylesheet' type='text/css' href='https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/css/signup-form.css'>
+                        <div class="ctct-embed-signup" style="font: 16px Helvetica Neue, Arial, sans-serif; font: 1rem Helvetica Neue, Arial, sans-serif; line-height: 1.5; -webkit-font-smoothing: antialiased;">
+                            <div class="columns medium-12 no-padding">
+                                <span id="success_message" style="display:none;">
+           <span style="text-align:center;">Thanks for signing up!</span>
+       </span>
+                                <form data-id="embedded_signup:form" class="ctct-custom-form Form" name="embedded_signup" method="POST" action="https://visitor2.constantcontact.com/api/signup">
+                                   
+                                    <!-- The following code must be included to ensure your sign-up form works properly. -->
+                                    <input data-id="ca:input" type="hidden" name="ca" value="b2bda7a4-42bb-4771-b748-55710d352f71">
+                                    <input data-id="source:input" type="hidden" name="source" value="EFD">
+                                    <input data-id="required:input" type="hidden" name="required" value="list,email,first_name,last_name">
+                                    <input data-id="url:input" type="hidden" name="url" value="">
+                                    
+                                    <p data-id="First Name:p">
+                                        <input data-id="First Name:input" type="text" name="first_name" value="" maxlength="50"  placeholder="First Name*">
+                                    </p>
+                                    <p data-id="Last Name:p">
+                                        <input data-id="Last Name:input" type="text" name="last_name" value="" maxlength="50"  placeholder="Last Name*">
+                                    </p>
+                                    <p data-id="Email Address:p">
+                                        <input data-id="Email Address:input" type="text" name="email" value="" maxlength="80" id="ccEmailInput"  placeholder="Your E-mail*">
+                                    </p>
+                                    <p data-id="Country:p" class="hidden">
+                                        <label data-id="Country:label" data-name="address_country">Select a country</label>
+                                    </p>
+                                    <p data-id="Street Address:p" class="hidden">
+                                        <label data-id="Street Address:label" data-name="address_street">Street</label>
+                                        <input data-id="Street Address:input" type="text" name="address_street" value="" maxlength="50">
+                                    </p>
+                                    <p data-id="City:p" class="hidden">
+                                        <label data-id="City:label" data-name="address_city">City</label>
+                                        <input data-id="City:input" type="text" name="address_city" value="" maxlength="50">
+                                    </p>
+                                    <p data-id="State/Province:p" class="hidden">
+                                        <label data-id="State/Province:label" data-name="address_state">Select a state/province</label>
+                                    </p>
+                                    <p data-id="Zip Code:p" class="hidden">
+                                        <label data-id="Zip Code:label" data-name="address_postal_code">Zip Code</label>
+                                        <input data-id="Zip Code:input" type="text" name="address_postal_code" value="" maxlength="50">
+                                    </p>
+                                    <p data-id="Job Title:p" class="hidden">
+                                        <label data-id="Job Title:label" data-name="job_title">Job Title</label>
+                                        <input data-id="Job Title:input" type="text" name="job_title" value="" maxlength="50">
+                                    </p>
+                                    <p data-id="Company:p" class="hidden">
+                                        <label data-id="Company:label" data-name="company">Company</label>
+                                        <input data-id="Company:input" type="text" name="company" value="" maxlength="50">
+                                    </p>
+                                    <div style="display:none;" id="ccLists">
+                                    <p data-id="Lists:p">
+                                        <label data-id="Lists:label" data-name="list" class="ctct-form-required">Email Lists</label>
+                                         </p>
+                                          <div>
+                                            <input data-id="Lists:input" type="checkbox" name="list_4" value="1509840590" checked><span data-id="Lists:span">Updates on Cultural Survival Programs</span></div>
+                                        <div>
+                                            <input data-id="Lists:input" type="checkbox" name="list_0" value="1456291106"><span data-id="Lists:span">Information on Bazaars and Cultural Survival Events</span></div>
+                                        <div>
+                                            <input data-id="Lists:input" type="checkbox" name="list_1" value="1229952802"><span data-id="Lists:span">Information on conferences, meetings and global events pertaining to Indigenous Peoples</span></div>
+                                        <div>
+                                            <input data-id="Lists:input" type="checkbox" name="list_2" value="1727151352"><span data-id="Lists:span">Limited, infrequent messages from our partners</span></div>
+                                        <div>
+                                            <input data-id="Lists:input" type="checkbox" name="list_3" value="2044605795"><span data-id="Lists:span">Policy and advocacy updates</span></div>
+                                      
+                                   
+                                </div>
+                                    <div class="columns medium-12 no-padding">
+                                    <button type="submit" class="button button-column" data-enabled="enabled">Join Now!</button>   
+                            </div>
+                                                           
+                           
+                        
+                                    
+                                </form>
+                                </div>
+                            </div>
+                        </div>
+                        <script type='text/javascript'>
+                            var localizedErrMap = {};
+                            localizedErrMap['required'] = 'This field is required.';
+                            localizedErrMap['ca'] = 'An unexpected error occurred while attempting to send email.';
+                            localizedErrMap['email'] = 'Please enter your email address in name@email.com format.';
+                            localizedErrMap['birthday'] = 'Please enter birthday in MM/DD format.';
+                            localizedErrMap['anniversary'] = 'Please enter anniversary in MM/DD/YYYY format.';
+                            localizedErrMap['custom_date'] = 'Please enter this date in MM/DD/YYYY format.';
+                            localizedErrMap['list'] = 'Please select at least one email list.';
+                            localizedErrMap['generic'] = 'This field is invalid.';
+                            localizedErrMap['shared'] = 'Sorry, we could not complete your sign-up. Please contact us to resolve this.';
+                            localizedErrMap['state_mismatch'] = 'Mismatched State/Province and Country.';
+                            localizedErrMap['state_province'] = 'Select a state/province';
+                            localizedErrMap['selectcountry'] = 'Select a country';
+                            var postURL = 'https://visitor2.constantcontact.com/api/signup';
+                        </script>
+                        <script type='text/javascript' src='https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/js/signup-form.js'></script>
+                        <!--End CTCT Sign-Up Form-->
+                    </div>
+                </div>
+            </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 address">
+                    <div class="footerMenu">
+                        <img src="/themes/csflat/img/cs-logo.png" alt="Cultural Survival" style="height: 60px; width: 225px;">
+                        <br> 2067 Massachusetts Avenue
+                        <br> Cambridge, MA 02140
+                        <br> (617) 441-5400
+                    </div>
+                    <ul class="social">
+                        <li><a target="_blank" href="https://twitter.com/csorg"><i class="fa fa-facebook"></i> </a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/culturalsurvival/"><i class="fa fa-twitter"></i> </a></li>
+                        <li><a target="_blank" href="https://vimeo.com/culturalsurvival"><i class="fa fa-vimeo-square"></i> </a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/cultural_survival/"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <div class="footerMenu">
+                        <strong>Who We Are</strong>
+                        <br>
+                        <a href="/about">About Us</a>
+                        <br>
+                        <a href="/about/annual-reports">Financials</a>
+                        <br>
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="footerMenu">
+                        <strong>Our Programs</strong>
+                        <br>
+                        <a href="/programs/community-media">Community Media</a>
+                        <br>
+                        <a href="http://consent.culturalsurvival.org" target="_blank">Indigenous Rights Radio</a>
+                        <br>
+                        <a href="/programs/advocacy"> Advocacy</a>
+                        <br>
+                        <a href="http://bazaar.culturalsurvival.org" target="_blank">Bazaars</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-2">
+                    <div class="footerMenu">
+                        <strong>Our Publications</strong>
+                        <br>
+                        <a href="/taxonomy/term/3245">Cultural Survival Quarterly</a>
+                        <br>
+                        <a href="/news">News</a>
+                        <br>
+                        <a href="/reports">Reports</a>
+                        <br>
+                        <a href="/resources">Resources</a>
+
+                        <br>
+                    </div>
+                </div>
+
+                <div class="col-sm-2">
+                    <div class="footerMenu">
+                        <strong>Get Involved</strong>
+                        <br>
+                        <a href="/donate">Donate</a>
+                        <br>
+                        <a href="/about/internships">Intern or Volunteer</a>
+                        <br>
+                        <a href="http://shop.culturalsurvival.org" target="_blank">Shop CS</a>
+                        <br>
+                        <a href="/contact">Contact Us</a>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <br>
+                </div>
+                <hr>
+                <div class="col-sm-6">
+                    <h3>Our Mission</h3>
+                    <p>Cultural Survival advocates for Indigenous Peoples' rights and supports Indigenous communities’ self-determination, cultures and political resilience, since 1972.</p>
+                </div>
+                <div class="col-sm-6">
+                    <h3>Our Vision</h3>
+                    <p>Cultural Survival envisions a future that respects and honors Indigenous Peoples' inherent rights and dynamic cultures, deeply and richly interwoven in lands, languages, spiritual traditions, and artistic expression, rooted in self-determination and self-governance.</p>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="columns col-sm-7">
+                        <p>© 2017 Cultural Survival. All Rights Reserved. | <a href="/policies">Privacy Policy</a></p>
+                    </div>
+                    <div class="columns col-sm-5">
+                        <ul class="social">
+                            <li><a target="_blank" href="https://twitter.com/csorg"><i class="fa fa-facebook"></i> </a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/culturalsurvival/"><i class="fa fa-twitter"></i> </a></li>
+                            <li><a target="_blank" href="https://vimeo.com/culturalsurvival"><i class="fa fa-vimeo-square"></i> </a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/cultural_survival/"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="/rss.xml"><img src="/sites/default/files/2017-02/feed-icon-28x28.png" alt="rss feed"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer> 
+
+                </div>
+                <!-- /st-content-inner -->
+            </div>
+            <!-- /st-content -->
+
+        </div>
+        <!-- /st-pusher -->
+
+    </div>
+    <!-- /st-container -->
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/10754","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"addtoany\/addtoany,bootstrap\/popover,bootstrap\/tooltip,core\/html5shiv,core\/picturefill,csflat\/global-styling,fontawesome\/fontawesome.cdn,google_analytics\/google_analytics,popup_dialog\/dialog_box,statistics\/drupal.statistics,system\/base","theme":"csflat","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"enabled":0,"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_keyboard":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"statistics":{"data":{"nid":"10754"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"445967cdb0d988d1bc8995932ed12ea8e3629cf1e367659affbb5a6b570fda1f"}}</script>
+<script src="/sites/default/files/js/js_nNk4zljk50fv-1CJpVhRTZIZ2bvwRVRhe0n3QXkBCEk.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="/sites/default/files/js/js_Lyo4G4Erop5T2yreoJNkXFYYakpZNHzA6WZLQmPFaBw.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_TMUSmudksc0qKyyRimA90uvqrR4lNAYbdBJEvpptEmk.js"></script>
+
+        <!-- Google Code for Cultural Survival -->
+        <!-- Google Code for Remarketing Tag -->
+
+        <div class="hidden">
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                var google_conversion_id = 879676400;
+                var google_conversion_label = "x9_7CL_ex2sQ8Je7owM";
+                var google_custom_params = window.google_tag_params;
+                var google_remarketing_only = true;
+                /* ]]> */
+            </script>
+            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+            </script>
+            <noscript>
+                <div style="display:inline;">
+                    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/879676400/?value=1.00&amp;currency_code=USD&amp;label=x9_7CL_ex2sQ8Je7owM&amp;guid=ON&amp;script=0" />
+                </div>
+            </noscript>
+        </div>
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"101c8130da","applicationID":"33102565","transactionName":"ZFYHbRQAVkdUAhEPDV0cJFoSCFdaGhEEAQdsUARaDgQ=","queueTime":0,"applicationTime":32,"atts":"SBEEG1waRUk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+
+</html>

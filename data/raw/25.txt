@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta name="keywords" content="Fair food program, Coalition of Immokalee Workers, Clinton Global Initiative Citizen, CIW, Human rights, slavery, Farmworker, Campaign for Fair Food, Florida tomatoes">
+		<meta name="description" content="The Coalition of Immokalee Workers’ (CIW) Fair Food Program is a unique partnership among farmers, farmworkers, and retail food companies that ensures humane wages and working conditions for the workers who  pick fruits and vegetables on participating farms. It harnesses the power of consumer demand to give farmworkers a voice in the decisions that affect their lives, and to eliminate the longstanding abuses that have plagued agriculture for generations. The Program has been called 'the best workplace-monitoring program' in the US in the New York Times, and 'one of the great human rights success stories of our day' in the Washington Post, and has won widespread recognition for its unique effectiveness from a broad spectrum of human rights observers, from the United Nations to the White House.">
+
+		<link rel="apple-touch-icon" sizes="57x57" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/favicon-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/favicon-160x160.png" sizes="160x160">
+		<link rel="icon" type="image/png" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/favicon-32x32.png" sizes="32x32">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-TileImage" content="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/favicon/mstile-144x144.png">
+
+		<title>Fair Food Program - Consumer Powered, Worker Certified</title>
+		
+		<!--				
+		<link rel="apple-touch-icon-precomposed" sizes="144x144"
+					href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/ico/apple-touch-icon-144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114"
+					href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/ico/apple-touch-icon-114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72"
+					href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/ico/apple-touch-icon-72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed"
+					href="http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/assets/ico/apple-touch-icon-57-precomposed.png">
+		-->
+	
+		
+	<link rel="alternate" type="application/rss+xml" title="Fair Food Program &raquo; The Fair Food Program Comments Feed" href="http://www.fairfoodprogram.org/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.fairfoodprogram.org\/cms\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bamboo-columns-css'  href='http://www.fairfoodprogram.org/cms/wp-content/plugins/bamboo-columns/bamboo-columns.css' type='text/css' media='all' />
+<link rel='stylesheet' id='advanced-responsive-video-embedder-css'  href='http://www.fairfoodprogram.org/cms/wp-content/plugins/advanced-responsive-video-embedder/public/advanced-responsive-video-embedder-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-four-css'  href='http://www.fairfoodprogram.org/cms/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mbpro-font-awesome-css'  href='http://www.fairfoodprogram.org/cms/wp-content/plugins/maxbuttons/assets/libraries/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ffpwp-style-css'  href='http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/style.css?420175' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fairfoodprogram.org/cms/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.fairfoodprogram.org/cms/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mb_ajax = {"ajaxurl":"http:\/\/www.fairfoodprogram.org\/cms\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fairfoodprogram.org/cms/wp-content/plugins/maxbuttons/js/min/front.js'></script>
+<link rel='https://api.w.org/' href='http://www.fairfoodprogram.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fairfoodprogram.org/cms/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fairfoodprogram.org/cms/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.7" />
+<link rel="canonical" href="http://www.fairfoodprogram.org/" />
+<link rel='shortlink' href='http://www.fairfoodprogram.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.fairfoodprogram.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fairfoodprogram.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.fairfoodprogram.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fairfoodprogram.org%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- BEGIN GADWP v4.9.3.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-56860272-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+	</head>
+
+	<body class="home page page-id-2 page-template-default">
+
+		<header>
+
+		<div id="top-header">
+			<div class="container">
+				<div class="row">
+
+				</div>
+			</div>
+		</div>
+
+		<div class="top-main-menu mt20">
+			<div class="container ">
+				<div class="col-md-12">
+				<div class="row shadowtop">
+				<nav class="navbar navbar-default"	role="navigation">
+				<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse navbar-ex1-collapse">
+					<ul id="menu-main-navigation" class="nav navbar-nav main-menu-list"><li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-268 active"><a title="Home" href="http://www.fairfoodprogram.org/">Home</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20 dropdown"><a title="About the FFP" href="#" data-toggle="dropdown" class="dropdown-toggle">About the FFP <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a title="Mechanisms" href="http://www.fairfoodprogram.org/about-the-fair-food-program/">Mechanisms</a></li>
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a title="Marketing" href="http://www.fairfoodprogram.org/fair-food-marketing/">Marketing</a></li>
+</ul>
+</li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a title="Recognition" href="http://www.fairfoodprogram.org/recognition/">Recognition</a></li>
+<li id="menu-item-16" class="navbar-right menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a title="Get involved" href="http://www.fairfoodprogram.org/get-involved/">Get involved</a></li>
+<li id="menu-item-234" class="navbar-right menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a title="Results" href="http://www.fairfoodprogram.org/results/">Results</a></li>
+<li id="menu-item-17" class="navbar-right menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a title="Partners" href="http://www.fairfoodprogram.org/partners/">Partners</a></li>
+</ul>					</div><!-- /.navbar-collapse -->
+				</nav>
+
+				<a href="http://www.fairfoodprogram.org" class="ffp-Logo" style="background-size: cover;">
+				<img src="http://www.fairfoodprogram.org/cms/wp-content/uploads/2014/10/FFP_Logo_Final.png" class="img-responsive" alt="Fair Food Program"><div id="site-title">Fair Food Program - Consumer Powered, Worker Certified</div>				</a>
+
+				<div class="header-menu-wrapper">
+					<ul id="menu-social-menu" class="header-menu"><li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a title="facebook" target="_blank" href="http://www.facebook.com/CIWonFB"><i class="fa-facebook fa"></i><span class="fontawesome-text"> facebook</span></a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a title="twitter" target="_blank" href="http://twitter.com/FairFoodProgram"><i class="fa-twitter fa"></i><span class="fontawesome-text"> twitter</span></a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a title="YouTube" target="_blank" href="https://www.youtube.com/channel/UC4Y2fRMoOmghAcA3RPxweFA"><i class="fa-youtube fa"></i><span class="fontawesome-text"> YouTube</span></a></li>
+</ul>				</div><!-- header-menu-wrapper -->
+
+				</div>
+
+
+				
+				<div class="row ffp-quotes">
+
+								
+									<div class="col-sm-5 ">
+						<div class="row">
+								
+							<div class="col-sm-12 col-lg-6 ffp-quote">
+								<a href="http://www.fairfoodprogram.org/recognition/" rel="">
+								<p>The Fair Food Program is “brilliant … You’ve got a success model, and you ought to put the pedal to the metal…”</p>
+								<p>President Bill Clinton</p>
+								</a>
+							</div>
+				
+				
+				
+								
+							<div class="col-sm-12 col-lg-6 ffp-quote">
+								<a href="http://www.fairfoodprogram.org/recognition/" rel="">
+								<p>“This is the best workplace-monitoring program” in the US.</p>
+								<p>The New York Times</p>
+								</a>
+							</div>
+				
+										</div>
+					</div>
+				
+				
+									<div class="col-sm-5 col-sm-offset-2">
+						<div class="row">
+								
+							<div class="col-sm-12 col-lg-6 ffp-quote">
+								<a href="http://www.fairfoodprogram.org/recognition/" rel="">
+								<p>“One of the great human rights success stories of our day.”</p>
+								<p>Washington Post Op/Ed</p>
+								</a>
+							</div>
+				
+				
+				
+								
+							<div class="col-sm-12 col-lg-6 ffp-quote">
+								<a href="http://www.fairfoodprogram.org/recognition/" rel="">
+								<p>“My hope is that this will become a model for social responsibility within the agricultural industry.”</p>
+								<p>President Jimmy Carter</p>
+								</a>
+							</div>
+				
+										</div>
+					</div>
+				
+												
+				<hr class="col-sm-12 shadow" style="height: 10px; width: 100%;" />
+				
+								
+					</div>
+				</div>
+
+				</div>
+			</div>
+			</div>
+		</div>
+				
+	</header>
+
+
+
+	<div class="container main">
+		<div class="row">
+				
+			<div class="col-md-12">
+					
+										
+			</div><!--/.col -->
+		</div><!--/.row -->
+		
+
+				
+		<div class="row main-top mt20">
+			<div class="col-md-6 col-lg-5 ">
+				<header>
+					<h1 class="pageHeadline green uppercase mt0 ">The Fair Food Program</h1>
+					<p>The Coalition of Immokalee Workers’ (CIW) Fair Food Program is a unique partnership among farmers, farmworkers, and retail food companies that ensures humane wages and working conditions for the workers who pick fruits and vegetables on participating farms. It harnesses the power of consumer demand to give farmworkers a voice in the decisions that affect their lives, and to eliminate the longstanding abuses that have plagued agriculture for generations.</p>
+<p>The Program has been called “the best workplace-monitoring program” in the US in the <strong>New York Times</strong>, and “one of the great human rights success stories of our day” in the <strong>Washington Post</strong>, and has won widespread recognition for its unique effectiveness from a broad spectrum of human rights observers, from the United Nations to the White House.</p>
+<p><strong><a href="http://fairfoodstandards.org/15SOTP-Web.pdf">Read the Fair Food Program’s 2015 Annual Report.</a></strong></p>
+				</header>
+				</div><!--/.col -->
+	
+			<div class="col-md-6 col-lg-6 col-lg-offset-1 ">
+				<div class="mt5 embed-responsive embed-responsive-16by9" style="">
+					<iframe width="100%" height="340" src="//www.youtube.com/embed/BDrOoNGVnJY" frameborder="0" allowfullscreen=""></iframe>
+				</div>
+			</div>
+		</div><!--/.row -->
+
+		<!-- SECTIONS -->
+				
+		<div class="row main-content  mt20">
+			<div class="col-lg-12">
+				<div class="col-sm-12 section"  style="background: transparent url(http://www.fairfoodprogram.org/cms/wp-content/uploads/2014/10/FFP_Start_WorkerDriven.jpg) no-repeat center center; background-size: cover;">
+					<div class="infocontainer mt20 no1">
+						<h3 class="panel-title sections uppercase" id="toggler-01">Worker Driven<span class="closeMe fade"><i class="fa fa-times"></i></span></h3>
+						<p>The Fair Food Program is a human rights program that is designed, monitored, and enforced by the very workers whose rights it is intended to protect.</p>
+						<a class="readmore hidden-xs">Read more <i class="fa fa-chevron-right "></i></a>
+						<p>From extreme poverty to sexual harassment and even modern-day slavery, farmworkers have faced abuses at work for as long as anyone can remember. Because workers are the only actors in the supply chain with a vital and abiding interest in seeing that their rights are effectively monitored and enforced, they have, in the case of the Fair Food Program, constructed a system that actually works.</p>
+<p>In fact, the Fair Food Program is a truly new form of human rights program that can be called Worker-driven Social Responsibility (WSR).  Thanks to the workers’ leading role in shaping its design, the Fair Food Program’s structure, function and results stand in stark contrast to the traditional approach of Corporate Social Responsibility (CSR).  In short, in the Fair Food Program, workers are not just at the table, they are at the head of the table.</p>
+					</div>
+				</div>
+			</div>
+		</div><!--/.row -->
+				
+		<div class="row main-content  mt20">
+			<div class="col-lg-12">
+				<div class="col-sm-12 section"  style="background: transparent url(http://www.fairfoodprogram.org/cms/wp-content/uploads/2014/10/FFP_Start_ConsumerPowered.jpg) no-repeat center center; background-size: cover;">
+					<div class="infocontainer mt20 no2">
+						<h3 class="panel-title sections uppercase" id="toggler-01">Consumer Powered<span class="closeMe fade"><i class="fa fa-times"></i></span></h3>
+						<p>In 2001, farmworkers in Immokalee (FL) launched an ambitious new Campaign for Fair Food to educate consumers on the labor conditions behind the food they eat.</p>
+						<a class="readmore hidden-xs">Read more <i class="fa fa-chevron-right "></i></a>
+						<p>Through the campaign, farmworkers and consumers have built an alliance that encourages retail food companies to use their enormous purchasing power to require higher labor standards for farmworkers who harvest the produce they buy. Over the next decade, this new alliance won Fair Food Agreements with a dozen of the world’s largest food companies.</p>
+<p>By requiring retail food companies to pay a small premium, the Fair Food Program helps reverse decades of worsening farmworker poverty. Since its inception in 2011, the Program has added $15 million to Florida tomato farms’ payrolls. By requiring Participating Buyers to only purchase tomatoes from growers who comply with the Fair Food Code of Conduct, the Fair Food Program harnesses retailers’ immense purchasing power to enforce the most progressive labor standards in US agriculture today.</p>
+					</div>
+				</div>
+			</div>
+		</div><!--/.row -->
+				
+		<div class="row main-content  mt20">
+			<div class="col-lg-12">
+				<div class="col-sm-12 section"  style="background: transparent url(http://www.fairfoodprogram.org/cms/wp-content/uploads/2014/11/HOME_Fair_Food_Certified.jpg) no-repeat center center; background-size: cover;">
+					<div class="infocontainer mt20 no3">
+						<h3 class="panel-title sections uppercase" id="toggler-01">Fair Food Certified<span class="closeMe fade"><i class="fa fa-times"></i></span></h3>
+						<p>The Fair Food Standards Council is the only dedicated third-party monitoring organization of its kind in agriculture in the United States of America.</p>
+						<a class="readmore hidden-xs">Read more <i class="fa fa-chevron-right "></i></a>
+						<p>The clearest reflection of the Fair Food Program’s significant investment of resources in monitoring farms’ compliance with the <a href="http://www.fairfoodstandards.org/code.html" target="_blank">Fair Food Code of Conduct</a> is the development of the <a href="http://www.fairfoodstandards.org" target="_blank">Fair Food Standards Council</a>. The FFSC staffs a 24-hour worker complaint hotline, investigates and resolves worker complaints, and carries out comprehensive audits on participating farms.</p>
+<p>Areas of non-compliance and potential risk are then addressed through verifiable corrective action measures, which steadily move farms towards industry-wide best practices. Through the complaint process and regular farm audits, the FFSC is able to gather a specialized and continuously growing information base concerning bad actors and practices targeted for reform that stands alone in the auditing field. This deep specialization makes the FFSC’s work unique for its effectiveness.</p>
+					</div>
+				</div>
+			</div>
+		</div><!--/.row -->
+		
+
+				
+		</div> <!--/.row -->
+	</div><!-- container -->
+
+
+
+<footer>
+
+	<div class="footer-wrapper mt40">
+		<div class="container">
+		
+		<hr class="shadow" />
+		
+		<div class="row">
+			<!--	<div class="footer-divider"></div>-->
+			<div class="container">
+				
+				
+		
+				<div class="row footer" style="background-color: #FFFFFF;">
+						<div class="col-sm-4">
+								<aside><div id="text-2" class="widget widget_text"><h4>Contact Us</h4>			<div class="textwidget"><h5>Fair Food Program</h5>
+<p><a href="http://www.fairfoodprogram.org">www.fairfoodprogram.org</a><br />
+<a href="mailto:info@fairfoodprogram.org">info@fairfoodprogram.org</a></p>
+</div>
+		</div></aside>						</div>
+						<div class="col-sm-4">
+								<aside><div id="text-3" class="widget widget_text"><h4>Site Development</h4>			<div class="textwidget"><a href="http://www.theabc.net" target="_blank" class="abclogo">www.theabc.net</a></div>
+		</div></aside>						</div>
+						<div class="col-sm-4">
+								<aside><div id="text-4" class="widget widget_text"><h4>More Resources</h4>			<div class="textwidget"><h5>Coalition of Immokalee Workers</h5>
+<p><a href="http://www.ciw-online.org">www.ciw-online.org</a></p>
+<h5>Fair Food Standards Council</h5>
+<p><a href="http://www.fairfoodstandards.org">www.fairfoodstandards.org</a></p>
+</div>
+		</div></aside>						</div>
+				</div>			</div>
+		</div>
+	</div>
+
+	<div class="copyright-wrapper hidden">
+		<div class="row ">
+			<div class="container">
+
+			<div class="row copyright">		
+				<div class="col-lg-12">
+
+					<div class="footer-menu-wrapper">
+										</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
+</footer>
+
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#toggler-1, #accordion-1 .readmore').click(function () {
+			$('#accordion-1').toggleClass('wide');
+			/* setTimeout("$('#collapse-1').collapse('toggle');", 200) */
+			$('#collapse-1').collapse('toggle');
+			$('#accordion-1 .readmore').toggleClass('hidden');
+		});
+		$('#toggler-2, #accordion-2 .readmore').click(function () {
+			$('#accordion-2').toggleClass('wide');
+			$('#collapse-2').collapse('toggle');
+		});
+		$('#toggler-3, #accordion-3 .readmore').click(function () {
+			$('#accordion-3').toggleClass('wide');
+			$('#collapse-3').collapse('toggle');
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+
+		$('.carousel').carousel({
+		  interval: false
+		})
+		// OPEN
+		
+		$('.infocontainer.no1 .readmore').click(function () {
+			var totalHeight;
+			$(".infocontainer.no1").children().each(function(){
+				totalHeight = totalHeight + $(this).outerHeight();
+			});
+
+			$('.infocontainer.no1 .readmore').fadeToggle();
+			$('.infocontainer.no1').animate({ width: "70%" }, 250 );
+			$('.infocontainer.no1').animate({ height: "80%" }, 250 );
+			$('.infocontainer.no1 .closeMe').toggleClass("in");
+		});
+
+		$('.infocontainer.no2 .readmore').click(function () {
+			$('.infocontainer.no2 .readmore').fadeToggle();
+			$('.infocontainer.no2').animate({ width: "70%" }, 250 );
+			$('.infocontainer.no2').animate({ height: "80%" }, 250 );
+			$('.infocontainer.no2 .closeMe').toggleClass("in");
+		});
+
+		$('.infocontainer.no3 .readmore').click(function () {
+			$('.infocontainer.no3 .readmore').fadeToggle();
+			$('.infocontainer.no3').animate({ width: "70%" }, 250 );
+			$('.infocontainer.no3').animate({ height: "80%" }, 250 );
+			$('.infocontainer.no3 .closeMe').toggleClass("in");
+		});
+
+		// CLOSE
+		$('.infocontainer.no1 .closeMe').click(function () {
+			$('.infocontainer.no1 .closeMe').toggleClass("in");
+			$('.infocontainer.no1').animate({ height: "200px" }, 250 );
+			$('.infocontainer.no1').animate({ width: "330px" }, 250 );
+			$('.infocontainer.no1 .readmore').delay(500).fadeToggle();
+		});
+
+		$('.infocontainer.no2 .closeMe').click(function () {
+			$('.infocontainer.no2 .closeMe').toggleClass("in");
+			$('.infocontainer.no2').animate({ height: "200px" }, 250 );
+			$('.infocontainer.no2').animate({ width: "330px" }, 250 );
+			$('.infocontainer.no2 .readmore').delay(500).fadeToggle();
+		});
+
+		$('.infocontainer.no3 .closeMe').click(function () {
+			$('.infocontainer.no3 .closeMe').toggleClass("in");
+			$('.infocontainer.no3').animate({ height: "200px" }, 250 );
+			$('.infocontainer.no3').animate({ width: "330px" }, 250 );
+			$('.infocontainer.no3 .readmore').delay(500).fadeToggle();
+		});
+
+
+	});
+</script>
+
+
+
+
+
+<script type='text/javascript' src='http://www.fairfoodprogram.org/cms/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://www.fairfoodprogram.org/cms/wp-content/themes/fairfoodprogram/bootstrap/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://www.fairfoodprogram.org/cms/wp-includes/js/wp-embed.min.js'></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56860272-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+<!--Generated by Endurance Page Cache-->

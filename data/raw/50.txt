@@ -1,0 +1,1545 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]><html lang="en"><![endif]--><!--[if IE 8]> <html class="lt-ie10 lt-ie9 ie8"> <![endif]--><!--[if IE 9]> <html class="lt-ie10 ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en"> <!--<![endif]-->
+  <head>
+  <meta charset="utf-8">
+    <!--JC: PF: 1 of 3-->
+    <script>/* observer-6.0.6 */!function e(t,n,o){function r(i,u){if(!n[i]){if(!t[i]){var c="function"==typeof require&&require;if(!u&&c)return c(i,!0);if(a)return a(i,!0);var d=new Error("Cannot find module '"+i+"'");throw d.code="MODULE_NOT_FOUND",d}var f=n[i]={exports:{}};t[i][0].call(f.exports,function(e){var n=t[i][1][e];return r(n?n:e)},f,f.exports,e,t,n,o)}return n[i].exports}for(var a="function"==typeof require&&require,i=0;i<o.length;i++)r(o[i]);return r}({1:[function(e,t,n){(function(e){function n(){try{var e=new o("cat",{detail:{foo:"bar"}});return"cat"===e.type&&"bar"===e.detail.foo}catch(t){}return!1}var o=e.CustomEvent;t.exports=n()?o:"undefined"!=typeof document&&"function"==typeof document.createEvent?function(e,t){var n=document.createEvent("CustomEvent");return t?n.initCustomEvent(e,t.bubbles,t.cancelable,t.detail):n.initCustomEvent(e,!1,!1,void 0),n}:function(e,t){var n=document.createEventObject();return n.type=e,t?(n.bubbles=Boolean(t.bubbles),n.cancelable=Boolean(t.cancelable),n.detail=t.detail):(n.bubbles=!1,n.cancelable=!1,n.detail=void 0),n}}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],2:[function(e,t,n){function o(e,t,n,o){"addEventListener"in e?e.addEventListener(t,n,o):"attachEvent"in e&&e.attachEvent("on"+t,n)}var r=e(1);!function(){window.adonis=window.adonis||{},window.adonis.scriptStatuses={};var e=function(){var e="NEW_SCRIPT_EVENT",t=new r(e,{detail:{}});window.dispatchEvent(t)};o(document,"load",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="load",e())},!0),o(document,"error",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="error",e())},!0)}()},{1:1}]},{},[2]);</script>
+
+    <!-- DP: initialize optimizely snippet -->
+    <!--     <script src="https://cdn.optimizely.com/js/4162051502.js"></script> -->
+    <!--Following html5bp, placing on top-->
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="referrer" content="unsafe-url"> 
+    <!-- Check to see if it's a noindex page -->
+        
+              
+    <!--Basic meta-->
+          <title>Hippie | Definition of Hippie by Merriam-Webster</title>
+              <meta name="description" content="Define hippie: a usually young person who rejects established social customs (such as by dressing in an unusual way or living… — hippie in a sentence">
+              <link rel="canonical" href="https://www.merriam-webster.com/dictionary/hippie" />
+                
+    <!--Static meta -->
+            <meta name="robots" content="noodp, noydir">
+        <meta property="fb:app_id" content="178450008855735">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Add opensearch link-->
+          <link rel="search" type="application/opensearchdescription+xml" href="/opensearch/dictionary.xml" title="Merriam-Webster Dictionary" />
+    
+    <!--Dynamic meta-->
+                          <meta property="og:title" content="Definition of HIPPIE" />
+                                <meta property="og:image" content="https://assets2.merriam-webster.com/mw/static/social-media-share/mw-logo-245x245@1x.png" />
+                                  <meta property="og:url" content="https://www.merriam-webster.com/dictionary/hippie" />
+                                <meta property="og:description" content="a usually young person who rejects established social customs (such as by dressing in an unusual way or living in a commune) and who opposes violence and war; especially : a… See the full definition…" />
+                  
+                                      <meta name="twitter:title" content="Definition of HIPPIE" />
+                                                    <meta name="twitter:image" content="https://assets2.merriam-webster.com/mw/static/social-media-share/mw-logo-245x245@1x.png" />
+                                                    <meta name="twitter:url" content="https://www.merriam-webster.com/dictionary/hippie" />
+                                                    <meta name="twitter:description" content="a usually young person who rejects established social customs (such as by dressing in an unusual way or living in a commune) and who opposes violence and war; especially : a… See the full definition…" />
+                                                                  <meta name="twitter:card" content="summary" />
+                                                    <meta name="twitter:site" content="@MerriamWebster" />
+                            
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+
+    <!--WW: vendor fonts loading via JS-->
+<link rel="preload"  as="style" onload="this.rel='stylesheet'" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,700|Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:400,700" rel="stylesheet">
+<link rel="preload" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" as="style" onload="this.rel='stylesheet'">
+<!-- no script -->
+<noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,700|Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css">
+</noscript>
+
+<!--Our minified css-->
+    <link rel="stylesheet" href="//assets.merriam-webster.com/mw/app-bundles/1492524997-app-bundle/css/style.min.css" media="screen">
+    <!--JC - temporarily commented out until bundling issue resolved.-->
+    <!--<link rel="stylesheet" href="//assets.merriam-webster.com/mw/app-bundles/1492524997-app-bundle/css/style-definitions.min.css" media="screen">-->
+
+<script async>
+/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+</script>
+
+    <!--JS config-->
+    <script type="text/javascript">
+      window.mwdata = {};
+      window.mwdata.assetsDomain1 = '//assets.merriam-webster.com';
+      window.mwdata.assetsDomain2 = '//assets2.merriam-webster.com';
+      window.mwdata.assetsDomain3 = '//media2.merriam-webster.com';
+      window.mwdata.pronsDomain   = '//media.merriam-webster.com';
+      window.mwdata.env           = 'production';
+      window.mwdata.jw7key        = 'U4WOTZRVVnSrkUDlXjD6ad101zKp0yGynG822w==';
+      window.mwdata.isHome        = false;
+      window.mwdata.ads           = {"slot-top":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT","id":"div-gpt-ad-294519280125593176-1","defSizes":[[728,90]],"targeting":[["POS",["TOP"]],["index_pos",["TOP"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,100],"ads":[[728,90]]}]}},"slot-top-test":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT_TEST","id":"div-gpt-ad-282674824790491957-1","defSizes":[[320,50]],"targeting":[["POS",["TOP"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,100],"ads":[[728,90]]}]}},"slot-mid":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT_TEST","id":"div-gpt-ad-282674824790491957-2","defSizes":[[320,50]],"targeting":[["POS",["BOT"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,100],"ads":[]}]}},"slot-right1":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT","id":"div-gpt-ad-294519280125593176-2","defSizes":[[300,250]],"targeting":[["POS",["TOP"]],["index_pos",["TOP"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}},"slot-right2":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT","id":"div-gpt-ad-294519280125593176-3","defSizes":[[300,250]],"targeting":[["POS",["BOT"]],["index_pos",["BOT"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}},"slot-right3":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT","id":"div-gpt-ad-294519280125593176-4","defSizes":[[300,250]],"targeting":[["POS",["BOT2"]],["index_pos",["BOT2"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}},"slot-def1-both":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/NATIVE_728","id":"div-gpt-ad-484753068003535130-1","noPf":true,"defSizes":[[728,90]],"targeting":[["POS",["BOT"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[1130,100],"ads":[[728,90]]}]}},"slot-def1-both-v2":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/NATIVE_728","id":"div-gpt-ad-484753068003535130-1","noPf":true,"defSizes":[[728,90]],"targeting":[["POS",["BOT"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[960,100],"ads":[[728,90]]}]}},"slot-def1-desktop":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/NATIVE_728","id":"div-gpt-ad-484753068003535130-2","noPf":true,"defSizes":[[728,90]],"targeting":[["POS",["BOT"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,100],"ads":[[320,50]]},{"screen":[1130,100],"ads":[[728,90]]}]}},"slot-def1-mobile":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/NATIVE_MOBILEWEB","id":"div-gpt-ad-484753068003535130-3","noPf":true,"defSizes":[[320,150]],"targeting":[["POS",["BOT"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,150]]},{"screen":[768,0],"ads":[]}]}},"slot-mobile-fixed-ad":{"type":"google_dfp","data":{"slot":"\/34444486\/MW","id":"div-gpt-ad-6298827-1","noPf":true,"defSizes":[[320,50]],"targeting":[["POS",["BOT1"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,0],"ads":[]}]}},"slot-central1":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT","id":"div-gpt-ad-294519280125593176-5","defSizes":[[300,250]],"targeting":[["POS",["BOT3"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[310,260],"ads":[[300,250]]},{"screen":[768,0],"ads":[]}]}},"slot-central1-test":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT_TEST","id":"div-gpt-ad-282674824790491957-3","defSizes":[[300,250]],"targeting":[["POS",["BOT3"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[310,260],"ads":[[300,250]]},{"screen":[768,0],"ads":[]}]}},"slot-central2":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT","id":"div-gpt-ad-294519280125593176-6","defSizes":[[300,250]],"targeting":[["POS",["BOT4"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[310,260],"ads":[[300,250]]},{"screen":[768,0],"ads":[]}]}},"slot-central2-test":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/DICT_TEST","id":"div-gpt-ad-282674824790491957-4","defSizes":[[300,250]],"targeting":[["POS",["BOT4"]],["PAGE"],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[310,260],"ads":[[300,250]]},{"screen":[768,0],"ads":[]}]}}};
+      window.mwdata.ads2          = {"slot-top":{"type":"google_dfp","data":{"slot":"\/34444486\/MW_DICT","id":"div-gpt-ad-632190084889653956-1","noPf":true,"defSizes":[[728,90]],"targeting":[["POS",["TOP"]],["index_pos",["TOP_REFRESH"]],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,100],"ads":[[728,90]]}]}},"slot-right1":{"type":"google_dfp","data":{"slot":"\/34444486\/MW_DICT","id":"div-gpt-ad-632190084889653956-2","noPf":true,"defSizes":[[300,250]],"targeting":[["POS",["TOP"]],["index_pos",["TOP_REFRESH"]],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}},"slot-right2":{"type":"google_dfp","data":{"slot":"\/34444486\/MW_DICT","id":"div-gpt-ad-632190084889653956-3","noPf":true,"defSizes":[[300,250]],"targeting":[["POS",["BOT"]],["index_pos",["BOT_REFRESH"]],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}},"slot-right3":{"type":"google_dfp","data":{"slot":"\/34444486\/MW_DICT","id":"div-gpt-ad-632190084889653956-4","noPf":true,"defSizes":[[300,250]],"targeting":[["POS",["BOT2"]],["index_pos",["BOT2_REFRESH"]],["SEARCH"],["CAT"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}}};
+      window.mwdata.fbAppId       = '178450008855735';
+      window.mwdata.fbSdkReady    = false;
+      window.mwdata.fbSdkQueue    = [];
+      window.mwdata.gaSiteId              = 'UA-296234-25';
+      window.mwdata.gaNoTrackOnLoad       = false;
+      window.mwdata.gaSpecialTracking     = null;
+      window.mwdata.gaSpecialTrackingWord = null;
+      window.mwdata.gatReady        = false;
+      window.mwdata.gatQueue        = [];
+      window.mwdata.tagsPrepped     = [];
+      window.mwdata.gTagReady       = false;
+      window.mwdata.dfpSvcUp        = false;
+      window.mwdata.adtestSupport  = false;
+      window.mwdata.disableBidders = false;
+      window.mwdata.adsBlacklist   = ["slot-def1-both","slot-def1-desktop"];
+      window.mwdata.adsWhitelist   = null;
+      window.mwdata.adsCarCount    = 0;
+      window.mwdata.adsQuizCount   = 0;
+      window.mwdata.search         = "hippie";
+      window.mwdata.cat            = "SY";
+      window.mwdata.contentType1   = null;
+      window.mwdata.contentType2   = null;
+      window.mwdata.contentType3   = null;
+      window.mwdata.lotame         = null;
+      window.mwdata.userSearch     = "hippie";
+      window.mwHeapEvents = {};
+      window.meta                  = {"title":"Hippie | Definition of Hippie by Merriam-Webster","description":"Define hippie: a usually young person who rejects established social customs (such as by dressing in an unusual way or living\u2026 \u2014 hippie in a sentence","keywords":"hippie, hippy, hippies, hippiedom, hippieish, hippieness, hippiness, definition, define, meaning, dictionary, glossary, free, online, english, language, word, words, webster, websters, merriam-webster","canonical":"https:\/\/www.merriam-webster.com\/dictionary\/hippie","og":{"og:title":"Definition of HIPPIE","og:image":"https:\/\/assets2.merriam-webster.com\/mw\/static\/social-media-share\/mw-logo-245x245@1x.png","og:url":"https:\/\/www.merriam-webster.com\/dictionary\/hippie","og:description":"a usually young person who rejects established social customs (such as by dressing in an unusual way or living in a commune) and who opposes violence and war; especially : a\u2026 See the full definition\u2026"},"twitter":{"twitter:title":"Definition of HIPPIE","twitter:image":"https:\/\/assets2.merriam-webster.com\/mw\/static\/social-media-share\/mw-logo-245x245@1x.png","twitter:url":"https:\/\/www.merriam-webster.com\/dictionary\/hippie","twitter:description":"a usually young person who rejects established social customs (such as by dressing in an unusual way or living in a commune) and who opposes violence and war; especially : a\u2026 See the full definition\u2026","twitter:share-text":"Here's the @MerriamWebster definition of 'hippie'","twitter:card":"summary","twitter:site":"@MerriamWebster"},"header-image":false};
+
+          </script>
+
+    <script>
+      // WW: ceate our version of require function to store and call later
+      // stop render blocking block since moved require to bottom
+      window.mwRequireCall = [];
+      window.require = function(reqName, reqFunc) {
+        window.mwRequireCall.push({reqName:reqName, reqFunc:reqFunc});
+      }
+    </script>
+
+    <!--[if lt IE 9]>
+      <link rel="stylesheet" href="//assets.merriam-webster.com/mw/app-bundles/1492524997-app-bundle/css/ie.min.css?v=1">
+      <script src="//assets.merriam-webster.com/mw/app-bundles/1492524997-app-bundle/js/vendor/html5shiv/dist/html5shiv.min.js?v=1"></script>
+    <![endif]-->
+
+
+    <!--JC: noscript only need for quantcast alternative counter so far-->
+    
+    
+
+    
+    
+    
+  <script type="text/javascript">
+    window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+          heap.load("537798487");
+          heap.clearEventProperties();
+  </script>
+  </head>
+
+
+  <body class='no-touch definitions-page dictionary-lookup'>
+    <!--JC: PF 2 of 3-->
+    <script>/* wrapper-6.0.6 */!function e(t,n,r){function o(a,c){if(!n[a]){if(!t[a]){var s="function"==typeof require&&require;if(!c&&s)return s(a,!0);if(i)return i(a,!0);var d=new Error("Cannot find module '"+a+"'");throw d.code="MODULE_NOT_FOUND",d}var u=n[a]={exports:{}};t[a][0].call(u.exports,function(e){var n=t[a][1][e];return o(n?n:e)},u,u.exports,e,t,n,r)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<r.length;a++)o(r[a]);return o}({1:[function(e,t,n){!function(){function t(){o&&console.log.apply(console,arguments)}var n=e(4),r=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection;if(!r)return void n.reportEvent("bootstrap.ifw.rtc.absent");n.reportEvent("bootstrap.ifw.rtc.exists"),window.adonisHash=window.location.hash;var o=window.adonisHash.indexOf("adonis-logging")!==-1,i=function(e){var t=function(){e===!0&&console.log.apply(console,arguments)},n=["script","img"];document.addEventListener("load",function(e){t("withinIframe load event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="load")},!0),document.addEventListener("error",function(e){t("withinIframe error event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="error")},!0),window.addEventListener("message",function(e){if(void 0!==e.data.iframeId){t("message received "+e.data.iframeId);var r=e.data,o=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)},i=function(e){var r={originIframeId:e.iframeId,readyState:document.readyState,requestData:[],cssData:[]},o=e.srcSubstrings;if(void 0!==o)for(var a=document.querySelectorAll(n.join(",")),c=0;c<a.length;c++){var s=a[c];if(s.src){var d=o.some(function(e){return s.src.indexOf(e)!==-1});if(d){if(void 0===s._loadState)return t("Wait for event from "+s.src),s.addEventListener("load",function(){i(e)}),void s.addEventListener("error",function(){i(e)});r.requestData.push({type:s.nodeName,src:s.src,state:s._loadState})}}}var u=e.displayTypes,f=e.cssAttributes;void 0!==u&&void 0!==f&&(a=document.querySelectorAll(u.join(",")),Array.prototype.forEach.call(a,function(e){var t=window.getComputedStyle(e),n={};f.forEach(function(e){n[e]=t.getPropertyValue(e)}),r.cssData.push({type:e.nodeName,id:e.id,"class":e.getAttribute("class"),cssAttributes:n})})),t("send response "+e.iframeId),parent.postMessage(r,"*")};o(function(){i(r)})}})},a=['<script type="text/javascript">(',i.toString(),")(",o.toString(),")<","/script>"].join(""),c=function(e,t,n,r){var o=Object.getOwnPropertyDescriptor(e.prototype,t);Object.defineProperty(e.prototype,t,{get:function(){return n(o.get,this,arguments)},set:function(){return r(o.set,this,arguments)},enumerable:!0})},s=function(e,t,n){return e.apply(t,n)},d=function(e,n,r){try{var o=r[0];if(o.indexOf("html")!==-1){var i=o.split(";"),c=i[1],s=parseInt(c)+a.length;i[1]=s.toString(),o=i.join(";"),o=o.replace("<head>","<head>"+a),r[0]=o}}catch(d){t(d)}return e.apply(n,r)};c(HTMLIFrameElement,"name",s,d);var u=function(e){var t=!1;if(e.src&&0!==e.src.indexOf("javascript:")&&0!==e.src.indexOf("about:blank")){var n=document.createElement("a");n.href=e.src;var r=n.host;r===window.location.host&&(t=!0)}else t=!0;return t},f=function(e,n){if(void 0===n._writeDecorated){n._writeDecorated=!0;var r=n.write;n.write=function(e){try{this._injected||(e.indexOf("<head>")!==-1?(e=e.replace("<head>","<head>"+a),this._injected=!0):e.indexOf("<script")!==-1&&(e=e.replace(/(<script.*?>)/,a+"$1"),this._injected=!0))}catch(n){t(n)}return r.call(this,e)}}},p=function(e,n,r){var o=e.apply(n,r);try{u(n)&&f(n,o)}catch(i){t(i)}return o},l=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentDocument",p,l);var v=function(e,n,r){var o=e.apply(n,r);try{u(n)&&f(n,o.document)}catch(i){t(i)}return o},m=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentWindow",v,m)}()},{4:4}],2:[function(e,t,n){var r=e(3);t.exports=r},{3:3}],3:[function(e,t,n){t.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,t,n){function r(e){var t=new XMLHttpRequest,n=[d.REPORTING_URL,e].join("");t.open("GET",n,!0),t.send()}function o(e){r("/adonis_error?e="+e.toString())}function i(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<d.REPORTING_RATE}function a(e,t){if(c(e),i()){var n={website:window.location.hostname,key:e};null!=t&&(n.quantity=t),r(["/adonis_event/?event=",JSON.stringify(n)].join(""))}}function c(e){var t={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};f.push(t)}function s(){u.defineReadOnlyProperty("adonisBootstrapTiming",f)}var d=e(2),u=e(5),f=[];t.exports={reportError:o,reportEvent:a,saveTiming:s,shouldReport:i}},{2:2,5:5}],5:[function(e,t,n){function r(e,t){Object.defineProperty(window,e,{value:t,writable:!1})}function o(e,t){return!t||Number(t)<=e}function i(e){var t=(new Date).getTime()/1e3;return o(t,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),t=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==t){var n=t[1],r=t[2],o=parseInt(r.split(".")[0]);if("chrome"===n&&o>=41||"firefox"===n&&o>=37)return!0}return!1},c=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};t.exports={isSupportedBrowser:a,defineReadOnlyProperty:r,ready:c,isExpired:o,isExpiredNow:i}},{}]},{},[1]);</script>
+    <div class="outer-container">
+      <div class="main-container">
+        <!--Global menu and search area-->
+        <!--JC: this is just a filler for when sticky header is scrolled-->
+<div class="menu-filler default"></div>
+
+<!--JC: actual menu + search-->
+<header class="shrinkheader default">
+  
+  <!--JC: top menu area (link bar etc)-->
+<!--   <div class="shrinkheader-t">
+    <div class="in-cnt-type3">
+      
+    </div>
+  </div>
+     -->
+    
+    
+  <!--JC: bottom menu area (link bar etc)-->
+  <div class="shrinkheader-b clearfix">
+    <div class="in-cnt-type3">
+      <div class="shrinkheader-b-inner">
+      
+      <div class="filler-cnt"></div>
+      
+      
+        <!--JC: left logo container-->
+        <div class="logo-cnt border-box">
+          <a href="/"><img src="//assets2.merriam-webster.com/mw/static/app-standalone-images/MW_logo.png" alt="Merriam-Webster Logo" /></a>
+        </div>
+        
+        <!--JC: since 1828 container-->
+        <div class="since1828-cnt border-box">
+          <a href="/"><span class="since1828-text">SINCE</span>&nbsp;<span class="since1828-num">1828</span></a>
+        </div>
+        
+        <!--JC: central thingie (button)-->
+        <div class="nav-btn-cnt border-box">
+          <a href="javascript:void(0)" class="menu-toggle">
+            <span class="menu-txt">Menu</span>
+    
+            <div class="menu-lines">
+              <div class="line line-1"></div>
+              <div class="line line-2"></div>
+              <div class="line line-3"></div>
+            </div>
+          </a>
+        </div>
+      
+                <!--JC: right container-->
+        <div class="search-cnt border-box">
+        
+          <!--JC: menu-->
+          <div class="s-frm-cnt border-box">
+<div class="shrinkheader-t-inner border-box clearfix">
+        
+        <nav class="link-bar-r">
+          <span>Follow: </span>
+          <a href="https://www.facebook.com/merriamwebster" target="_blank" class="social-icon fb"></a>
+          <a href="https://twitter.com/merriamwebster" target="_blank" class="social-icon twitter"></a>
+          <a href="https://www.youtube.com/user/MerriamWebsterOnline" target="_blank" class="social-icon gplay"></a>
+          <a href="https://www.instagram.com/merriamwebster/" target="_blank" class="social-icon instagram"></a>
+        </nav>
+        
+        <nav class="link-bar-l" role="navigation">
+          <ul>
+<!--             <li>
+              <a class="mw-tooltip-arrowbox" id="join-mwu" target="_blank" href="https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU">JOIN MWU
+                <p class="arrowbox">Gain access to thousands of additional definitions and advanced search features&mdash;ad free! <span class="arrow-link" >JOIN NOW</span></p>
+              </a>              
+            </li>   -->        
+            <li>
+              <a href="/word-games">GAMES</i></a>
+            </li>
+            <li>
+              <a href="/thesaurus">BROWSE THESAURUS</a>
+            </li>
+            <li class="medium880-hide">
+              <a href="/word-of-the-day">WORD OF THE DAY</a>
+            </li>
+            <li class="medium940-hide">
+              <a href="/video">VIDEO</a>
+            </li>
+            <li class="medium1060-show-inline">
+              <span id="more-menu" class="mw-tooltip-arrowbox nav-link animated fadeIn"href="#">MORE<i class="fa fa-angle-down" aria-hidden="true"></i>
+                <div class="arrowbox">
+                    <a class="menu-link medium880-show" href="/word-of-the-day">WORD OF THE DAY</a>
+                    <a class="menu-link medium940-show" href="/video">VIDEO</a>
+                    <a class="menu-link" href="/words-at-play">WORDS AT PLAY</a>
+                    <a class="menu-link" rel="nofollow" href="/my-saved-words/">FAVORITES</a>
+                </div>
+              </span>
+            </li>
+            <li class="medium1060-hide">
+              <a href="/words-at-play">WORDS AT PLAY</a>
+            </li>
+            <li class="medium1060-hide">
+              <a rel="nofollow" href="/my-saved-words/">FAVORITES</a>
+            </li>
+          </ul>
+        </nav>
+  
+      </div>          
+            <form class="s-frm clearfix" action="/dictionary">              
+              <div class="s-term-cnt border-box">
+                <button class="search-bar-submit"></button>
+                <input name="s" id="s-term" class="s-term sline-ell border-box" type="text" value="hippie" autocapitalize="off" spellcheck="false" autocorrect="off" />
+                <div class="clear-term-cnt"><a class="clear-search" href="javascript:void(0)"><span aria-label="Clear Search">×</span></a></div>
+                <div class="desk-search-btn">
+                  <span class="search-icon1"></span>
+                </div>                
+              </div>
+              <!-- search-dictionary or search-thesaurus -->
+              <div class="header-search-tabs  search-dictionary">
+                <button type="button" class="button dictionary-tab active" data-search-url="/dictionary" data-ref="dictionary">dictionary</button><button type="button" class="button thesaurus-tab" data-search-url="/thesaurus" data-ref="thesaurus">thesaurus</button>
+              </div>
+              <div class="s-autocomplete border-box"></div>
+              
+            </form>
+          </div>
+          
+          <div class="company-text">
+            <p><a href="https://www.britannica.com" target="_blank">An Encyclopædia Britannica Company</a></p>
+          </div>
+        </div>
+        
+        <div class="mob-search-cnt">
+          <div class="mob-search-btn">
+            <span class="search-icon"></span>
+          </div>
+        </div>
+        <div class="filler-cnt"></div>
+        
+      </div>
+    </div>
+  </div>
+  
+</header>
+
+
+
+<!--JC: actual mobile menu-->
+<div class="menu-mob-cnt">
+  <a href="javascript:void(0)" class="close-trigger"></a>
+  
+  <div class="menu-mob-cnt-inner">
+    <div class="menu-mob-cnt-cut">
+      <ul class="border-box">
+<!--         <li>
+          <a href="https://unabridged.merriam-webster.com/subscriber/register/p1?HDR_GLOBAL_JOINMWU" target="_blank">JOIN MWU</a>
+        </li>   -->    
+        <li>
+          <a href="/word-games">GAMES</a>
+        </li>
+        <li>
+          <a href="/thesaurus">THESAURUS</a>
+        </li>
+        <li>
+          <a href="/word-of-the-day">WORD OF THE DAY</a>
+        </li>
+        <li>
+          <a href="/video">VIDEO</a>
+        </li>
+        <li>
+          <a href="/words-at-play">WORDS AT PLAY</a>
+        </li>
+        <li>
+          <a rel="nofollow" href="/my-saved-words/">FAVORITES</a>
+        </li>
+      </ul>
+      
+      <div class="social-btns">
+        <span>Follow: </span>
+        <a href="https://www.facebook.com/merriamwebster" target="_blank" class="social-icon fb"></a>
+        <a href="https://twitter.com/merriamwebster" target="_blank" class="social-icon twitter"></a>
+        <a href="https://www.youtube.com/user/MerriamWebsterOnline" target="_blank" class="social-icon gplay"></a>
+        <a href="https://www.instagram.com/merriamwebster/" target="_blank" class="social-icon ig"></a>
+      </div>
+    </div>      
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  require(['searchBar'], function(searchBar) {
+    searchBar.init();
+  });
+</script>
+        <!-- Recirc bar - disabled on certain pages-->
+        
+        <!--Top ad (hidden on interstitial pages & error pages)-->
+                  <div class="home-top-creative-cont border-box">
+              <div class="home-top-creative-cont-shadow border-box""></div>
+              <div class="abl abl-m320-t728-d728">
+                <div class="ad-liner slot-top">
+                   <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-top');});</script>
+                </div>
+              </div>
+          </div>
+        
+        <!--JC: featured carousel is outside of main-wrapper (only present on home page)-->
+        
+        <!--JC: so that's an actual MI content, it corresponds to entire MI "main-wrapper" element -->
+        <script type="text/javascript">
+  require(['trackHeapEvents'], function(trackHeapEvents) {
+    trackHeapEvents.initDefEvents();
+  });
+</script>
+
+
+<div class="main-wrapper clearfix" data-word-click="enabled">
+  <div class="lr-cols-area clearfix sticky-column">
+    <div class="left-content">
+
+      <main>
+        <article>
+
+                                    <script type="text/javascript">
+                require(['trackHeapEvents'], function(trackHeapEvents) {
+                  trackHeapEvents.addEvent("Definition - Function Label","noun");
+                  trackHeapEvents.addEvent("Definition - Initial Search String",window.mwdata.userSearch);
+                  trackHeapEvents.addEvent("Definition - Search Matches Headword", (window.mwdata.userSearch == window.mwdata.search)? "true":"false");
+                                  });
+              </script>
+          
+            
+
+
+            
+            <!--SB: Place related phrases before kids definitions if any. -->
+            
+            
+                        
+
+            
+            
+            
+            <!--JC: We have two different type of definitions: the one that is full-only or the one that's full+quick-->
+                          <div class="full-def-box def-header-box card-box def-text headword-box  ">
+  <div class="inner-box-wrapper">
+          <div class="word-header">
+        <div class="word-and-pronunciation">
+          
+                      <h1>hippie</h1>
+          
+          <a class="play-pron" data-lang="en_us" data-file="hippie01" data-dir="h" href="javascript:void(0)" title="Listen to the pronounciation of HIPPIE">play <span class="play-box"> </span></a>        </div>
+      </div>
+      
+      <!--JC: -->
+      <div class="word-attributes">
+                  <span class="main-attr"><em>noun</em></span>
+        
+                
+                              <span class="word-syllables">
+              hip&#183;pie            </span>
+                          
+        
+        
+        
+                              <span class="pr">\ˈhi-pē\</span>
+                        </div>
+              <div class="word-variants">
+          <span class="variant-text">variants:</span> <em>or</em>  <h2>hippy</h2>        </div>
+         
+    
+    
+          <div class="word-sub-header">
+        <div class="title-block">
+      <!-- WW: we are not showing popularity if have TW -->
+                  <div class="popularity-block hidden"></div>          
+          <script type="text/javascript">
+            require(['definitions'], function (df) {
+              df.loadPopularity({
+                  word: "hippie"
+              });
+            });
+          </script>
+                                </div>     
+      </div>
+        
+  </div>
+</div>
+
+  <div id="anchor-links-container"></div>
+    
+<!--JC: social buttons should appear after fist definition but before it's additional boxes-->
+  <div class="social-sidebar" id="social-sidebar-container">
+  <ul>
+    <li>
+        <a href="#" class="sticky-icon fb share-link" data-share-url="https://www.merriam-webster.com/dictionary/hippie" data-share-image="https://assets2.merriam-webster.com/mw/static/social-media-share/mw-logo-245x245@1x.png" data-share-title="Definition of HIPPIE" data-share-description="a usually young person who rejects established social customs (such as by dressing in an unusual way or living in a commune) and who opposes violence and war; especially : a… See the full definition…">&nbsp;</a>
+    </li><li>
+        <a href="#" class="sticky-icon twitter share-link" data-share-url="https://www.merriam-webster.com/dictionary/hippie" data-share-text="Here's the @MerriamWebster definition of 'hippie'">&nbsp;</a>
+    </li><li>
+        <a href="#" class="sticky-icon gplus share-link" data-share-url="https://www.merriam-webster.com/dictionary/hippie">&nbsp;</a>
+    </li><li>
+        <a id="my-saved-words-icon" href="/my-saved-words" class="sticky-icon save" data-ref="dictionary" data-word="hippie" onclick="return false;">&nbsp;</a>
+    </li><li class="cite-link"></li><li><a rel="nofollow" href="https://grammarly.go2cloud.org/aff_c?offer_id=3&aff_id=10273" target="grammarly" class="sticky-icon grammar-check mw-tooltip"><p class="tooltiptext">Writing? Check your grammar now!</p>&nbsp;</a></li>
+  </ul>
+</div>
+<script type="text/javascript">
+  require(['socialSidebar'], function(socialSidebar) {
+    socialSidebar.init();
+  });
+</script>
+
+<!--JC: and here we're rendring actuall full definition after short defintiion finished-->
+<div class="card-box full-def-box secondary-card def-text ">
+  <div class="inner-box-wrapper">
+
+
+      <div class="title-block">
+                              <h2>
+              Definition of <i>hippie</i>             </h2>
+                        </div>
+
+    <!--JC: inflections follow subheader if they are present at all-->
+          <span class="inflections"><span class="in"> <em>plural</em> <h2>hippies</h2></span></span>
+        
+    <!--JC: actual definitions-->
+    <div class="card-primary-content"><ol class="definition-list"><li><p class="definition-inner-item"><span> <span class="intro-colon">:</span>  a usually young person who rejects the mores of established society (as by dressing unconventionally or favoring communal living) and advocates a nonviolent ethic; <em>broadly</em>  <span class="intro-colon">:</span>  a long-haired unconventionally dressed young person</span></p></li></ol></div><div class="uro"><div class="runon-attributes"><h2>hippiedom</h2><a class="play-pron" data-lang="en_us" data-file="hippie02" data-dir="h" href="javascript:void(0)" title="Listen to the pronounciation of HIPPY">play <span class="play-box"> </span></a><span class="pr">\ˈhi-pē-dəm\</span> <em>noun</em> </div></div><div class="uro"><div class="runon-attributes"><h2>hippieish</h2><a class="play-pron" data-lang="en_us" data-file="hippi01v" data-dir="h" href="javascript:void(0)" title="Listen to the pronounciation of HIPPY">play <span class="play-box"> </span></a><span class="pr">\ˈhi-pē-ish\</span> <em>adjective</em> </div></div><div class="uro"><div class="runon-attributes"><h2>hippieness</h2> <em>or</em>  <h2>hippiness</h2> <a class="play-pron" data-lang="en_us" data-file="hippie03" data-dir="h" href="javascript:void(0)" title="Listen to the pronounciation of HIPPY">play <span class="play-box"> </span></a><span class="pr">\ˈhi-pē-nəs\</span>  <em>noun</em> </div></div>    
+          <div class="link-cta-container">
+                  <p>See <a href="http://www.learnersdictionary.com/search/hippie" target="_blank"><em>hippie</em> defined for English-language learners</a></p>
+                
+              </div>
+        
+  </div>
+</div>
+            
+            <!--JC: injecting mobile ad-->
+                          <div class="definitions-ad definitions-center-creative-cont2">
+                <div class="abl abl-320-0-0">
+                  <div id="spout-inpage-target-320x150">
+                    <div class="ad-liner slot-def1-mobile">
+                      <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-def1-mobile');});</script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
+
+
+            <!--JC: according to mantis ticket 3344 stakeholders wanted to position related widget
+            right after full definition and "full def & See X defined in Y"-->
+            
+                              <!--<hr class="blue-divide no-mobile" />
+                <div class="clearfix"></div>-->
+                              
+              <!-- WW: place the podcast subscribe below related if exists as well -->
+              
+            
+            <!--JC: outputting modules start -->
+            <div class="modules clearfix">
+              
+                                    <div class="card-box examples-box simple-def-box secondary-card verb-def-box examples-module-anchor">
+    <div class="inner-box-wrapper">
+      <h2>Examples of <i>hippie</i> in a sentence</h2>
+    
+      <div class="card-primary-content def-text">
+          <ol class="definition-list no-count">
+              
+              <li><p class="definition-inner-item"><em class="vi">She used to be a <em>hippie</em>, but she's fairly conservative now.</em></p></li><li><p class="definition-inner-item"><em class="vi">The band appeals to a new generation of <em>hippies</em>.</em></p></li>
+                        </ol>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    require(['trackHeapEvents'], function(trackHeapEvents) {
+      trackHeapEvents.addEvent('Definition - Has Example Sentences','true');
+    });
+  </script>  
+                              
+                                                      <div class="definitions-ad definitions-center-creative-cont">
+                      <div class="abl abl-320-320-728">
+                        <div class="ad-liner slot-def1-both">
+                          <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-def1-both');});</script>
+                        </div>
+                      </div>
+                    </div>
+                                                
+                                    <div class="card-box small-box origin-box">
+    <div class="inner-box-wrapper">
+      <h2 class="card-box-title">
+        Origin and Etymology of <i>hippie</i>
+      </h2>
+    
+      <div class="card-primary-content">
+        <p><em><sup>4</sup>hip</em> + <em>-ie</em></p>
+                    <p><br />First Known Use: 1965</p>
+              </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    require(['trackHeapEvents'], function(trackHeapEvents) {
+      trackHeapEvents.addEvent('Definition - Has Etymology','true');
+    });
+  </script>   
+                                          </div>
+            <!--JC: outputting modules end-->
+
+                      
+                          <!--JC: separator is needed prior to every subsequent entry-->
+              <hr class="blue-divide no-mobile" />
+              <div class="clearfix"></div>
+            
+
+
+            
+
+                            <div class="central-abl-box show-mobile">
+              <div id=
+                <div class="abl abl-300-250-nr">
+                  <div class="ad-liner slot-central1">
+                     <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-central1');});</script>
+                  </div>
+                </div>
+              </div>
+            
+            <!--SB: Place related phrases before kids definitions if any. -->
+            
+            <h2 class="typo7 margin-t-10px margin-b-30px text-center">HIPPIE Defined for English Language Learners</h2><div class="tense-box quick-def-box simple-def-box card-box def-text another-def ">
+  <div class="inner-box-wrapper">
+          <div class="word-header">
+        <div class="word-and-pronunciation">
+          
+                      <h2>hippie</h2>
+          
+          <a class="play-pron" data-lang="en_us" data-file="hippie01" data-dir="h" href="javascript:void(0)" title="Listen to the pronounciation of HIPPIE">play <span class="play-box"> </span></a>        </div>
+      </div>
+      
+      
+      <!--JC: -->
+      <div class="word-attributes">
+                  <span class="main-attr"><em>noun</em></span>
+        
+                
+                              <span class="word-syllables">
+              hip&#183;pie            </span>
+                  
+        
+        
+        
+                              <span class="pr">\ˈhi-pē\</span>
+                        </div>
+        
+      
+    <!--JC: some entries have short definitions - so let's output those first-->
+          <div class="word-sub-header">
+        
+        <div class="title-block">
+          <h2 class="card-box-title">Definition of <i>hippie for English Language Learners</i></h2>
+        </div>
+      </div>
+      
+      <div class="definition-block def-text">
+        <ul class="definition-list no-count">
+                      <li>
+              <p class="definition-inner-item">
+                <span><span class="intro-colon">:</span> a usually young person who rejects established social customs (such as by dressing in an unusual way or living in a commune) and who opposes violence and war; <em>especially</em> <span class="intro-colon">:</span> a young person of this kind in the 1960s and 1970s</span>
+              </p>
+            </li>
+                  </ul>
+      </div>
+      </div>
+</div>
+
+<!-- disabled since optimizely header/recirc is done testing -->
+<!-- <div class="central-mid-slot border-box" id="central-mid-slot">
+    <div class="abl abl-320-468-728">
+      <div class="ad-liner slot-mid">
+         <script>
+          if (window['optimizely'].data.state.variationMap['6824980161'] == 1 && window['optimizely'].data.state.activeExperiments.toString().indexOf("6824980161")>=0 && window.matchMedia('screen and (max-width: 768px)').matches) { 
+            $("#central-mid-slot").show();
+            require(['adProcessor'], function(ap) {ap.renderDfp('slot-mid');});
+          }
+         </script>
+      </div>
+    </div>
+</div> -->
+<hr class="blue-divide no-mobile" />
+                                      <a id="studentDictionary-anchor"></a>
+              <h2 class="typo7 margin-t-10px margin-b-30px text-center">HIPPIE Defined for Kids</h2>
+                         
+
+            
+            
+            
+            <!--JC: We have two different type of definitions: the one that is full-only or the one that's full+quick-->
+                          <div class="toggle-box full-def-box def-header-box card-box def-text  another-def def-text">
+  <div class="inner-box-wrapper">
+          <div class="word-header">
+        <div class="word-and-pronunciation">
+          
+                      <h2>hippie</h2>
+          
+          <a class="play-pron" data-lang="en_us" data-file="hippie01" data-dir="h" href="javascript:void(0)" title="Listen to the pronounciation of HIPPY">play <span class="play-box"> </span></a>        </div>
+      </div>
+      
+      
+      <!--JC: -->
+      <div class="word-attributes">
+                  <span class="main-attr"> <em>noun</em> </span>
+        
+                
+                              <span class="word-syllables">
+              hip&#183;pie            </span>
+                          
+        
+        
+        
+                              <span class="pr">\ˈhi-pē\</span>                        </div>
+      
+              <div class="word-variants">
+          <span class="variant-text">variants:</span>  <em>or</em>  <h2>hippy</h2> <span class="pr">\ˈhi-pē\</span>        </div>
+      
+    
+    <div class="word-sub-header">
+      <div class="title-block">
+                              <h2>
+              Definition of <i>hippie</i>  for Students            </h2>
+                        </div>
+    </div>  
+    <!--JC: inflections follow subheader if they are present at all-->
+          <span class="inflections"><span class="in"> <em>plural</em>  <h2>hippies</h2></span></span>
+        
+    <!--JC: actual definitions-->
+    <div class="card-primary-content"><ol class="definition-list"><li><p class="definition-inner-item"><span> <strong>:</strong>  a usually young person who rejects the values and practices of society and opposes violence and war</span></p></li></ol></div>    
+        
+  </div>
+</div>
+
+    
+<!--JC: social buttons should appear after fist definition but before it's additional boxes-->
+            
+            <!--JC: injecting mobile ad-->
+            
+
+
+            <!--JC: according to mantis ticket 3344 stakeholders wanted to position related widget
+            right after full definition and "full def & See X defined in Y"-->
+            
+            <!--JC: outputting modules start -->
+            <div class="modules clearfix">
+              
+                                                                            </div>
+            <!--JC: outputting modules end-->
+
+          
+
+          
+          
+          
+
+                      <hr class="blue-divide no-mobile" />
+            <div class="clearfix"></div>
+          
+
+          <!--JC: "also found in" partial displays links to other references-->
+            <div class="card-box simple-def-box secondary-card also-found-in-card">
+    <div class="inner-box-wrapper">
+      <h2>Learn More about <i>hippie</i></h2>
+      <div class="card-primary-content">
+        <div class="definition-block">
+          <ol class="definition-list no-count">
+            <li>
+              <p class="definition-inner-item">
+                              <span>See <a href="http://rhymes.merriam.com/r/hippie" rel="nofollow" target="_blank">words that rhyme with <em>hippie</em></a></span>
+                                                                                                <span>Spanish Central: <a href="http://www.spanishcentral.com/translate/hippie" target="_blank">Translation of <em>hippie</em></a></span>
+                                                  <span>Nglish: <a href="http://www.nglish.com/spanish/hippie" target="_blank">Translation of <em>hippie</em> for Spanish speakers</a></span>
+                                                  <span>Britannica English: <a href="http://arabic.britannicaenglish.com/hippie" target="_blank">Translation of <em>hippie</em> for Arabic speakers</a></span>
+                                                  <span>Britannica.com: <a href="http://www.britannica.com/EBchecked/topic/266600/hippie" target="_blank">Encyclopedia article about <em>hippie</em></a></span>
+                              </p>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+
+          <hr class="blue-divide no-mobile">
+
+
+          <div class="central-abl-box show-mobile">
+            <div class="abl abl-300-250-nr">
+              <div class="ad-liner slot-central2">
+                <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-central2');});</script>
+              </div>
+            </div>
+          </div>
+
+                    <div class="seen-and-heard-block">
+              <h2 class="card-box-title">Seen and Heard</h2>
+              <p>What made you want to look up <em>hippie</em>? Please tell us where you read or heard it (including the quote, if possible).</p>
+              <div class="toggle-fb-comments">
+                <a class="red-link toggle-link" href="#"><span class="show-comment"><i class="fa fa-plus" aria-hidden="true"></i> show</span><span class="hide-comment"><i class="fa fa-minus" aria-hidden="true"></i> hide</span></a> <span class="fb-comment-count"></span>
+                <div class="fb-comments-container" data-href="http://www.merriam-webster.com/dictionary/hippie" data-numposts="10" data-width="100%" data-order-by="reverse_time"></div>
+              </div>
+          </div>
+                  </article>
+      </main>
+        <!-- WW: Subscribe Unabridged-->
+        <div class="show-mobile">
+          <!-- WW: Subscribe Unabridged -->
+<!-- Disable for now -->
+          </div>
+      </div>
+    <!-- end left side -->
+
+
+    
+    <div class="right-rail">
+      <div class="fixed-wrapper">
+        <!--JC: right panel medium ad 1/3-->
+        <div class="rail-abl-box hide-mobile">
+          <div class="abl abl-300-250-nr">
+            <div class="ad-liner slot-right1">
+              <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-right1');});</script>
+            </div>
+          </div>
+        </div>
+
+
+        <!--JC: right panel daily word box-->
+        <!--JC: Side wod widget start-->
+<div class="wgt-side wgt-wod-side">
+  
+  <h4 class="jc-wgt-title-type1 margin-t-0p9375em">
+    <a href="/word-of-the-day">WORD OF THE DAY</a>
+  </h4>
+  
+  <div class="jc-under-tline-type2 margin-t-0p625em"></div>
+  
+  <div class="ws-word-and-pron">
+    <h4 class="ws-word"><a href="/word-of-the-day">grimalkin</a></h4>
+    <a class="play-pron jc-play-icon-type1" data-lang="en_us" data-dir="g" data-file="grimal02" href="javascript:void(0)" title="Listen to the pronounciation of grimalkin">play <span class="play-box"></span></a>
+  </div>
+  
+  <p class="ws-def-text">an old female cat</p>
+  
+  <div class="word-of-day-subscribe-block">
+    <p class="wod-lead">Get Word of the Day daily email!</p>
+    <form class="js-wod-subscribe-frm" action="/word-of-the-day" method="post">
+      <input type="submit" class="wod-submit" name="wod-submit" value="SUBSCRIBE">
+      <input type="text" class="wod-subscribe" name="wod-subscribe" placeholder="Your email address">
+    </form>
+  </div>
+</div>
+<!--JC: Side wod widget end-->
+
+        <!--JC: medium ad 2/3-->
+        <div class="rail-abl-box hide-mobile">
+          <div class="abl abl-300-250-nr">
+            <div class="ad-liner slot-right2">
+              <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-right2');});</script>
+            </div>
+          </div>
+        </div>
+
+        <!--JC: sidebar trending widget -->
+        <!--JC: Side trending widget start-->
+<div class="wgt-side wgt-wap-side-trending">
+  
+  <h4 class="jc-wgt-title-type1">
+    <a href="/news-trend-watch/see-all">TRENDING NOW</a>
+  </h4>
+  
+  <div class="jc-under-tline-type2 margin-t-0p5em margin-b-0p938em"></div>
+  
+  <div class="wgt-wap-side-trending-items">
+    <ol>
+              <li>
+          <p class="title">
+            <a href="/news-trend-watch/us-drops-largest-nonnuclear-bomb-in-afghanistan-20170413">
+              <span class="tw-module-headword">
+                nonnuclear              </span>
+              <span class="tw-module-teaser">
+                'Not nuclear'              </span>
+            </a>
+          </p>
+        </li>
+              <li>
+          <p class="title">
+            <a href="/news-trend-watch/trump-we-are-sending-an-armada-20170412">
+              <span class="tw-module-headword">
+                armada              </span>
+              <span class="tw-module-teaser">
+                'A fleet of warships'              </span>
+            </a>
+          </p>
+        </li>
+              <li>
+          <p class="title">
+            <a href="/news-trend-watch/united-our-team-looked-for-volunteers-20170410">
+              <span class="tw-module-headword">
+                volunteer              </span>
+              <span class="tw-module-teaser">
+                'Someone who does something without being forced to do it'              </span>
+            </a>
+          </p>
+        </li>
+              <li>
+          <p class="title">
+            <a href="/news-trend-watch/bannon-i-was-put-on-to-ensure-that-it-was-de-operationalized-20170405">
+              <span class="tw-module-headword">
+                operationalize              </span>
+              <span class="tw-module-teaser">
+                Bannon was removed from the National Security Council              </span>
+            </a>
+          </p>
+        </li>
+              <li>
+          <p class="title">
+            <a href="/news-trend-watch/democrats-have-the-votes-to-filibuster-20170403">
+              <span class="tw-module-headword">
+                filibuster              </span>
+              <span class="tw-module-teaser">
+                'An effort to prevent action in a legislature'              </span>
+            </a>
+          </p>
+        </li>
+          </ol>
+  </div>
+  
+  <div class="see-all-cnt">
+    <a href="/news-trend-watch/see-all">SEE ALL</a>
+  </div>
+</div>
+<!--JC: Side trending widget end-->
+        
+          <!--JC: right panel browse dictionary-->
+          <!--JC: Side browse widget start-->
+<div class="wgt-side wgt-browse-side">
+  
+  <h4 class="jc-wgt-title-type1">
+    <a href="#">BROWSE DICTIONARY</a>
+  </h4>
+  
+  <div class="jc-under-tline-type2 margin-t-0p5em margin-b-0p938em"></div>
+  
+  <div class="wgt-browse-side-slider-block">
+    <div class="slider-button-line"></div>
+    <div class="browse-slider" data-ref='dictionary' data-min='1' data-max='340271' data-real-current-idx='131785'>
+
+              <div>
+                      <a class="b-link" data-ind="131765" href="/dictionary/hip%20lock">hip lock</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131766" href="/dictionary/hip">hiply</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131767" href="/dictionary/hipness">hipness</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131768" href="/dictionary/hipp-">hipp-</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131769" href="/dictionary/Hippa">Hippa</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131770" href="/dictionary/hipparch">hipparch</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131771" href="/dictionary/Hipparchus">Hipparchus</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131772" href="/dictionary/hipparion">hipparion</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131773" href="/dictionary/hippeastrum">hippeastrum</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131774" href="/dictionary/hipped">hipped</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131775" href="/dictionary/hippen">hippen</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131776" href="/dictionary/hip">hipper</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131777" href="/dictionary/hip">hippest</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131778" href="/dictionary/hippety-hop">hippety-hop</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131779" href="/dictionary/hippety-hop">hippety-hoppety</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131780" href="/dictionary/Hippeutis">Hippeutis</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131781" href="/dictionary/Hippias">Hippias</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131782" href="/dictionary/hippic">hippic</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131783" href="/dictionary/Hippidion">Hippidion</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131784" href="/dictionary/Hippidium">Hippidium</a>
+                  </div>
+              <div class='active'>
+                      <a class="b-link" data-ind="131785" href="/dictionary/hippie">hippie</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131786" href="/dictionary/hippie-dippie">hippie-dippie</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131787" href="/dictionary/hippie-dippie">hippie-dippy</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131788" href="/dictionary/hippie">hippiedom</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131789" href="/dictionary/hippie">hippieish</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131790" href="/dictionary/hippie">hippieness</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131791" href="/dictionary/hippie">hippies</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131792" href="/dictionary/hippen">hippin</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131793" href="/dictionary/hippie">hippiness</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131794" href="/dictionary/hip">hipping</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131795" href="/dictionary/Hippiospongia">Hippiospongia</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131796" href="/dictionary/hippish">hippish</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131797" href="/dictionary/hippety-hop">hippity-hop</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131798" href="/dictionary/hippety-hop">hippity-hoppity</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131799" href="/dictionary/hipple">hipple</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131800" href="/dictionary/hippo">hippo</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131801" href="/dictionary/hipp-">hippo-</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131802" href="/dictionary/hippo">Hippo</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131803" href="/dictionary/hippocamp">hippocamp</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131804" href="/dictionary/hippocampus">hippocampal</a>
+                  </div>
+              <div>
+                      <a class="b-link" data-ind="131805" href="/dictionary/hippocampus">hippocampi</a>
+                  </div>
+          </div>
+  </div>
+</div>
+
+<script>
+require(["homeBrowse"], function(homeBrowse) {
+    homeBrowse.init('.browse-slider');
+});
+</script>
+<!--JC: Side browse widget end-->
+          <!--JC: another medium ad 3/3-->
+          <div class="rail-abl-box hide-mobile">
+            <div class="abl abl-300-250-nr">
+              <div class="ad-liner slot-right3">
+                <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-right3');});</script>
+              </div>
+            </div>
+          </div>
+
+          <!--JC: sidebar games widget -->
+          <div class="wgt-side wgt-games-side bottom-location">
+  
+  <h4 class="jc-wgt-title-type1">
+    <a href="/word-games">WORD GAMES</a>
+  </h4>
+  
+  <div class="jc-under-tline-type2 margin-t-0p625em margin-b-1p375em"></div>
+  
+  <p class="lead">Take a 3-minute break and test your skills!</p>
+  
+  <div class="wgt-games-side-items">
+    
+    <div class="wgts-quiz wgts-quiz-with-answers">
+      <ul class="wgts-quiz-question">
+        <li class="wgts-quiz-image">
+          <img data-sizes="auto" alt="gramophone" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/quiz/quiz-global-side-widget/gramophone-3523-63eb29a41d91f97d0cb5f12849799480@1x.jpg" data-caption="" data-credit="" data-type="quiz" data-dim="quiz-global-side-widget" data-ret-pref="gramophone-3523-63eb29a41d91f97d0cb5f12849799480" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/quiz/quiz-global-side-widget/gramophone-3523-63eb29a41d91f97d0cb5f12849799480@1x.jpg 1x, //assets.merriam-webster.com/mw/images/quiz/quiz-global-side-widget/gramophone-3523-63eb29a41d91f97d0cb5f12849799480@2x.jpg 2x" pair-id="3526" image-id="3523" class="thumbnail lazyload">        </li>
+        <li class="lead">Which word describes a musical performance marked by the absence of instrumental accompaniment?</li>
+      </ul>
+      <div class="content">
+        <ul class="quiz-answer-list">
+          <li>
+                                      <a class="quiz-answer" href="/word-games/musical-words-quiz?q=2245&a=8031">Ionian mode</a>
+                                      <a class="quiz-answer" href="/word-games/musical-words-quiz?q=2245&a=8028">a cappella</a>
+                        </li><li>              <a class="quiz-answer" href="/word-games/musical-words-quiz?q=2245&a=8029">rococo</a>
+                                      <a class="quiz-answer" href="/word-games/musical-words-quiz?q=2245&a=8030">balladry</a>
+                    </li>
+        </ul>  
+      </div>
+    </div>
+    
+    <div class="wgts-quiz">
+      <img data-sizes="auto" alt="Name That Thing" data-src="//assets2.merriam-webster.com/mw/static/images/old-quizzes/name-that-thing/80x60@1x.jpg" data-dim="80x60" data-srcset="//assets2.merriam-webster.com/mw/static/images/old-quizzes/name-that-thing/80x60@1x.jpg 1x, //assets2.merriam-webster.com/mw/static/images/old-quizzes/name-that-thing/80x60@2x.jpg 2x" class="thumbnail lazyload">      <div class="content">
+        <p class="blurb">Test your visual vocabulary with our 10-question challenge!</p>
+        <a class="to-quiz" href="/word-games/name-that-thing">TAKE THE QUIZ</a>
+      </div>
+    </div>
+      
+    <div class="wgts-quiz last">
+      <img data-sizes="auto" alt="SCRABBLE® Sprint" data-src="//assets2.merriam-webster.com/mw/static/images/games/special-other/scrabble-sprint/204x153@1x.jpg" data-dim="204x153" class="thumbnail lazyload">      <div class="content">
+        <p class="blurb"><strong>Test Your Knowledge</strong> - and learn some interesting things along the way.</p>
+        <a class="to-quiz" href="/word-games/scrabble-sprint">TAKE THE QUIZ</a>
+      </div>
+    </div>
+    
+  </div>
+</div>        
+      </div>
+    </div>
+    <!-- End right rail -->
+
+  </div>
+  <!-- end main content -->
+
+  <!-- WW: Subscribe Unabridged-->
+  <div class="no-mobile">
+    <!-- WW: Subscribe Unabridged -->
+<!-- Disable for now -->
+    </div>
+
+</div>
+<!-- End main wrapper -->
+
+<div class="additional-content-area">
+
+  <div class="additional-items">
+  <h4>Words at Play</h4>
+
+      <div>
+      <a href="/words-at-play/difference-between-hypothesis-and-theory-usage">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="hypothesis" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/hypothesis-3534-5d4e47c3923c8252bfd0db373a2d4beb@1x.jpg" data-caption="" data-credit="" data-type="article" data-dim="art-global-footer-recirc" data-ret-pref="hypothesis-3534-5d4e47c3923c8252bfd0db373a2d4beb" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/hypothesis-3534-5d4e47c3923c8252bfd0db373a2d4beb@1x.jpg 1x, //assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/hypothesis-3534-5d4e47c3923c8252bfd0db373a2d4beb@2x.jpg 2x" pair-id="3537" image-id="3534" class="lazyload"></span>
+      </a>
+      <h5><a href="/words-at-play/difference-between-hypothesis-and-theory-usage">This is the Difference Between a Hypothesis and a Theory</a></h5>
+      <p class="mell-gr235"><a href="/words-at-play/difference-between-hypothesis-and-theory-usage">They're two completely different things</a></p>
+    </div>
+      <div>
+      <a href="/words-at-play/the-history-of-the-word-poet">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="poetry" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/poetry-3533-c1127e17993b9df02a3cd810ffa02f2a@1x.jpg" data-caption="" data-credit="" data-type="article" data-dim="art-global-footer-recirc" data-ret-pref="poetry-3533-c1127e17993b9df02a3cd810ffa02f2a" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/poetry-3533-c1127e17993b9df02a3cd810ffa02f2a@1x.jpg 1x, //assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/poetry-3533-c1127e17993b9df02a3cd810ffa02f2a@2x.jpg 2x" pair-id="3536" image-id="3533" class="lazyload"></span>
+      </a>
+      <h5><a href="/words-at-play/the-history-of-the-word-poet">A Poet by any Other Name</a></h5>
+      <p class="mell-gr235"><a href="/words-at-play/the-history-of-the-word-poet">Poets are makers. Literally. </a></p>
+    </div>
+      <div>
+      <a href="/words-at-play/financial-word-origins">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="budget" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/gallery/gal-global-footer-recirc/budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb@1x.jpg" data-caption="" data-credit="" data-type="gallery" data-dim="gal-global-footer-recirc" data-ret-pref="budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/gallery/gal-global-footer-recirc/budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb@1x.jpg 1x, //assets.merriam-webster.com/mw/images/gallery/gal-global-footer-recirc/budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb@2x.jpg 2x" pair-id="3529" image-id="3526" class="lazyload"></span>
+      </a>
+      <h5><a href="/words-at-play/financial-word-origins">9 Financial Words With Surprising Origins</a></h5>
+      <p class="mell-gr235"><a href="/words-at-play/financial-word-origins">A capital bruise, a budget of news, the fund of a bottle, and more</a></p>
+    </div>
+      <div>
+      <a href="/words-at-play/have-we-become-oblivious-of-oblivious">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="oblivious" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/oblivious-3521-ad6709785149cb8efacb5fe491f7687c@1x.jpg" data-caption="" data-credit="" data-type="article" data-dim="art-global-footer-recirc" data-ret-pref="oblivious-3521-ad6709785149cb8efacb5fe491f7687c" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/oblivious-3521-ad6709785149cb8efacb5fe491f7687c@1x.jpg 1x, //assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/oblivious-3521-ad6709785149cb8efacb5fe491f7687c@2x.jpg 2x" pair-id="3524" image-id="3521" class="lazyload"></span>
+      </a>
+      <h5><a href="/words-at-play/have-we-become-oblivious-of-oblivious">Have we become oblivious of 'oblivious'?</a></h5>
+      <p class="mell-gr235"><a href="/words-at-play/have-we-become-oblivious-of-oblivious">From 'forgetful' to 'unaware'</a></p>
+    </div>
+  </div>
+  <div class="additional-items">
+  <h4>Ask the Editors</h4>
+  
+      <div>
+      <a href="/video/serial-comma">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="serial-comma" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/serial-comma-3441@1x.jpg" data-caption="" data-credit="" data-type="video" data-dim="vid-global-footer-recirc" data-ret-pref="serial-comma-3441" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/serial-comma-3441@1x.jpg 1x, //assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/serial-comma-3441@2x.jpg 2x" pair-id="3444" image-id="3441" class="lazyload"></span>
+      </a>
+      <h5><a href="/video/serial-comma"">The Serial Comma</a></h5>
+      <p class="mell-gr235"><a href="/video/serial-comma"">Why don't they call it the Merriam-Webster comma?</a></p>
+    </div>
+      <div>
+      <a href="/video/could-care-less-or-couldnt-care-less">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="woman_shrug_shoulder" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/woman_shrug_shoulder-3255-7b76e64847337b4845703a1d413c8182@1x.jpg" data-caption="" data-credit="" data-type="video" data-dim="vid-global-footer-recirc" data-ret-pref="woman_shrug_shoulder-3255-7b76e64847337b4845703a1d413c8182" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/woman_shrug_shoulder-3255-7b76e64847337b4845703a1d413c8182@1x.jpg 1x, //assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/woman_shrug_shoulder-3255-7b76e64847337b4845703a1d413c8182@2x.jpg 2x" pair-id="3258" image-id="3255" class="lazyload"></span>
+      </a>
+      <h5><a href="/video/could-care-less-or-couldnt-care-less"">Is it 'I Could Care Less' or 'I Couldn't Care Less'?</a></h5>
+      <p class="mell-gr235"><a href="/video/could-care-less-or-couldnt-care-less"">Because we care</a></p>
+    </div>
+      <div>
+      <a href="/video/irregardless">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="video-irregardless-grammar-peeve-blend-of-the-synonyms-irrespective-and-regardless" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/video-irregardless-grammar-peeve-blend-of-the-synonyms-irrespective-and-regardless-1144@1x.jpg" data-caption="" data-credit="" data-type="video" data-dim="vid-global-footer-recirc" data-ret-pref="video-irregardless-grammar-peeve-blend-of-the-synonyms-irrespective-and-regardless-1144" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/video-irregardless-grammar-peeve-blend-of-the-synonyms-irrespective-and-regardless-1144@1x.jpg 1x, //assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/video-irregardless-grammar-peeve-blend-of-the-synonyms-irrespective-and-regardless-1144@2x.jpg 2x" pair-id="1146" image-id="1144" class="lazyload"></span>
+      </a>
+      <h5><a href="/video/irregardless"">Irregardless</a></h5>
+      <p class="mell-gr235"><a href="/video/irregardless"">It is in fact a real word (but that doesn't mean you should use it).</a></p>
+    </div>
+      <div>
+      <a href="/video/weird-plurals">
+          <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="video-moose-goose-weird-plurals" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/video-moose-goose-weird-plurals-1138@1x.jpg" data-caption="" data-credit="" data-type="video" data-dim="vid-global-footer-recirc" data-ret-pref="video-moose-goose-weird-plurals-1138" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/video-moose-goose-weird-plurals-1138@1x.jpg 1x, //assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/video-moose-goose-weird-plurals-1138@2x.jpg 2x" pair-id="1140" image-id="1138" class="lazyload"></span>
+      </a>
+      <h5><a href="/video/weird-plurals"">Weird Plurals</a></h5>
+      <p class="mell-gr235"><a href="/video/weird-plurals"">One goose, two geese. One moose, two... moose. What's up with that?</a></p>
+    </div>
+  </div>
+  <div class="additional-items">
+  <h4>Word Games</h4>
+    
+    
+            <div>
+        <a href="/word-games/musical-words-quiz"><span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="gramophone" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717@1x.jpg" data-caption="" data-credit="" data-type="quiz" data-dim="quiz-global-footer-recirc" data-ret-pref="gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717@1x.jpg 1x, //assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717@2x.jpg 2x" pair-id="3526" image-id="3523" class="lazyload"></span></a>
+        <h5><a href="/word-games/musical-words-quiz">Musical Words Quiz</a></h5>
+        <p class="mell-gr235"><a href="/word-games/musical-words-quiz">A quiz in common time.</a></p>
+        <a class="quiz-link" href="/word-games/musical-words-quiz">Take the quiz</a>
+      </div>
+                <div>
+        <a href="/word-games/lyings-words-quiz"><span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="alt-5761dbe2ba986" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/alt-5761dbe2ba986-2322-8267ba3ccb1b867cb272f596632e8754@1x.jpg" data-caption="" data-credit="" data-type="quiz" data-dim="quiz-global-footer-recirc" data-ret-pref="alt-5761dbe2ba986-2322-8267ba3ccb1b867cb272f596632e8754" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/alt-5761dbe2ba986-2322-8267ba3ccb1b867cb272f596632e8754@1x.jpg 1x, //assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/alt-5761dbe2ba986-2322-8267ba3ccb1b867cb272f596632e8754@2x.jpg 2x" pair-id="2329" image-id="2322" class="lazyload"></span></a>
+        <h5><a href="/word-games/lyings-words-quiz">Liar, Liar Quiz</a></h5>
+        <p class="mell-gr235"><a href="/word-games/lyings-words-quiz">Test your knowledge of words for lies, liars, and those being lied to. In other words, everyone.</a></p>
+        <a class="quiz-link" href="/word-games/lyings-words-quiz">Take the quiz</a>
+      </div>
+                <div>
+        <a href="/word-games/name-that-thing"><span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="Name That Thing" data-src="//assets2.merriam-webster.com/mw/static/images/old-quizzes/name-that-thing/261x174@1x.jpg" data-dim="261x174" data-srcset="//assets2.merriam-webster.com/mw/static/images/old-quizzes/name-that-thing/261x174@1x.jpg 1x, //assets2.merriam-webster.com/mw/static/images/old-quizzes/name-that-thing/261x174@2x.jpg 2x" class="lazyload"></span></a>
+        <h5><a href="/word-games/name-that-thing">Name That Thing</a></h5>
+        <p class="mell-gr235"><a href="/word-games/name-that-thing">Test your visual vocabulary with our 10-question challenge!</a></p>
+        <a class="quiz-link" href="/word-games/name-that-thing">Take the quiz</a>
+      </div>
+                <div>
+        <a href="/word-games/scrabble-sprint"><span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="SCRABBLE® Sprint" data-src="//assets2.merriam-webster.com/mw/static/images/games/special-other/scrabble-sprint/261x174@1x.jpg" data-dim="261x174" class="lazyload"></span></a>
+        <h5><a href="/word-games/scrabble-sprint">SCRABBLE® Sprint</a></h5>
+        <p class="mell-gr235"><a href="/word-games/scrabble-sprint">SCRABBLE® fans, sharpen your skills!</a></p>
+        <a class="quiz-link" href="/word-games/scrabble-sprint">Play the game</a>
+      </div>
+      </div> 
+</div>
+
+<!-- End additional content -->
+
+<!-- WW: move all into 1 script block -->
+<script type="text/javascript">
+  require(['definitions', 'jquery'], function(definitions, $) {
+     definitions.init();
+// JC: internal tracking
+    $.getScript(
+      "https://stats.merriam-webster.com/tally.php?word=hippie&t=1492545146"
+    );
+
+
+});
+
+
+</script>
+
+
+<!-- Output the anchored link content here so Google ranking isnt affected. -->
+  <div class="wgt-incentive-anchors">
+	<div class="anchor-list">
+					<div>
+			        		<a href="#" data-tracking-action="Scroll Anchor Link Click" data-tracking-category="Engagement - Definition" data-tracking-label="Examples: hippie" data-link=".examples-module-anchor"><span class="standard-anchor"><span><b>Examples:</b> <em>hippie</em> in a sentence<i class="fa fa-chevron-down"></i>
+</span></span></a>
+        	      		</div>
+      		</div>
+</div>
+<script type="text/javascript">
+    require(['wgtIncentiveAnchors'], function(widget) {
+		widget.init();
+	});
+</script>
+
+
+
+<!-- fixed mobile ad only for definition page -->
+<div class="border-box mobile-fixed-ad show-mobile">
+  <div class="abl abl-m320-t728-d728">
+    <div class="ad-liner slot-mobile-fixed-ad">
+       <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-mobile-fixed-ad');});</script>
+    </div>
+  </div>
+</div>
+        <script>
+          require(['stickyCol'], function(stickyCol) {
+            stickyCol.enableListeners('.left-content', '.right-rail', '.sticky-column');
+          });
+        </script>
+
+        <!-- Set up the share links. -->
+        <script type="text/javascript">
+          require(['shareLinks'], function(shareLinks) {
+            shareLinks.init();
+          });
+        </script>
+        <!--JC: Global footer-->
+        <!--Global footer start-->
+<footer class="global-footer">
+  
+  <div class="footer-mast clearfix">
+    <div class="mw-logo-section">
+      <a href="/" class="footer-logo">Merriam Webster</a>
+    </div>
+    <div class="footer-mast-content clearfix">
+      <div class="footer-subscribe-block">
+        <div class="footer-subscribe-msg">
+          <p>Learn a new word every day. Delivered to your inbox!</p>
+        </div>
+        <form class="footer-subscribe js-wod-subscribe-frm">
+          <input class="footer-subscribe-field" type="text" name="email" value="" placeholder="Your email address">
+          <input class="footer-subscribe-button" type="submit" name="submit" value="SUBSCRIBE">
+          <input class="footer-subscribe-button hidden arrow" type="submit" name="submit" value="&gt;">
+        </form>
+      </div>
+      <div class="footer-dictionaries">
+        <p>OTHER MERRIAM-WEBSTER DICTIONARIES</p>
+        <div class="other-dictionaries">
+          <ul>
+            <li><a href="http://www.spanishcentral.com/">SPANISH CENTRAL</a></li>
+            <li><a href="http://learnersdictionary.com/">LEARNER'S ESL DICTIONARY</a></li>
+            <li><a href="http://www.wordcentral.com/">WORDCENTRAL FOR KIDS</a></li>
+            <li><a href="http://www.visualdictionaryonline.com/">VISUAL DICTIONARY</a></li>
+          </ul>
+          <ul>
+            <li><a href="http://scrabble.merriam.com/">SCRABBLE<sup>&reg;</sup> WORD FINDER</a></li>
+            <li><a href="http://unabridged.merriam-webster.com/">MERRIAM-WEBSTER'S UNABRIDGED DICTIONARY</a></li>
+            <li><a href="http://arabic.britannicaenglish.com/en">BRITANNICA ENGLISH - ARABIC TRANSLATION</a></li>
+            <li><a href="http://www.nglish.com/spanish/en/">NGLISH - SPANISH-ENGLISH TRANSLATION</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="follow-us">
+        <p>FOLLOW US</p>
+        <div class="follow-links">
+          <ul>
+            <li><a href="https://www.facebook.com/merriamwebster" target="_blank" class="social-link social-fb">facebook</a></li>
+            <li><a href="https://twitter.com/merriamwebster" target="_blank" class="social-link social-tw">twitter</a></li>
+            <li><a href="https://www.youtube.com/user/MerriamWebsterOnline" target="_blank" class="social-link social-play">youtube</a></li>
+            <li><a href="https://www.instagram.com/merriamwebster/" target="_blank" class="social-link social-ig">instagram</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="footer-foot clearfix">
+    <div class="footer-foot-content clearfix">
+      <ul class="footer-menu browse-dictionary">
+        <li><a href="/browse/dictionary/a">Browse the Dictionary:</a></li>
+        <li><a href="/browse/dictionary/a">a</a></li>
+        <li><a href="/browse/dictionary/b">b</a></li>
+        <li><a href="/browse/dictionary/c">c</a></li>
+        <li><a href="/browse/dictionary/d">d</a></li>
+        <li><a href="/browse/dictionary/e">e</a></li>
+        <li><a href="/browse/dictionary/f">f</a></li>
+        <li><a href="/browse/dictionary/g">g</a></li>
+        <li><a href="/browse/dictionary/h">h</a></li>
+        <li><a href="/browse/dictionary/i">i</a></li>
+        <li><a href="/browse/dictionary/j">j</a></li>
+        <li><a href="/browse/dictionary/k">k</a></li>
+        <li><a href="/browse/dictionary/l">l</a></li>
+        <li><a href="/browse/dictionary/m">m</a></li>
+        <li><a href="/browse/dictionary/n">n</a></li>
+        <li><a href="/browse/dictionary/o">o</a></li>
+        <li><a href="/browse/dictionary/p">p</a></li>
+        <li><a href="/browse/dictionary/q">q</a></li>
+        <li><a href="/browse/dictionary/r">r</a></li>
+        <li><a href="/browse/dictionary/s">s</a></li>
+        <li><a href="/browse/dictionary/t">t</a></li>
+        <li><a href="/browse/dictionary/u">u</a></li>
+        <li><a href="/browse/dictionary/v">v</a></li>
+        <li><a href="/browse/dictionary/w">w</a></li>
+        <li><a href="/browse/dictionary/x">x</a></li>
+        <li><a href="/browse/dictionary/y">y</a></li>
+        <li><a href="/browse/dictionary/z">z</a></li>
+        <li><a href="/browse/dictionary/0">0-9</a></li>
+      </ul>
+
+      <ul class="footer-menu">
+        <li><a href="/">Home <span class="rborder"></span></a></li>
+        <li><a href="/help">Help <span class="rborder"></span></a></li>
+        <li><a href="/apps">Apps <span class="rborder"></span></a></li>
+        <li><a href="/about-us">About Us <span class="rborder"></span></a></li>
+        <li><a href="/shop-dictionaries">Shop <span class="rborder"></span></a></li>
+        <li><a href="/advertising">Advertising Info <span class="rborder"></span></a></li>
+        <li><a href="https://www.dictionaryapi.com/" target="_blank">Dictionary API <span class="rborder"></span></a></li>
+        <li><a href="/about-our-ads">About Our Ads <span class="rborder"></span></a></li>
+        <li><a href="/contact-us">Contact Us <span class="rborder"></span></a></li>
+        <li><a href="http://nws.merriam-webster.com/opendictionary/" target="_blank">The Open Dictionary <span class="rborder"></span></a></li>
+        <li><a href="/words-at-play/word-of-the-year-2016">Word of the Year <span class="rborder"></span></a></li>
+        <li><a href="/legal">Law Dictionary <span class="rborder"></span></a></li>
+        <li><a href="/medical">Medical Dictionary <span class="rborder"></span></a></li>
+        <li><a href="/privacy-policy">Privacy Policy <span class="rborder"></span></a></li>
+        <li class="last"><a href="/terms-of-use">Terms of Use</a></li>
+      </ul>
+
+      <ul class="footer-menu">
+        <li><a href="/browse/thesaurus/a">Browse the Thesaurus <span class="rborder"></span></a></li>
+        <li><a href="/browse/medical/a">Browse the Medical Dictionary<span class="rborder"></span></a></li>
+        <li><a href="/browse/legal/a">Browse the Legal Dictionary<span class="rborder"></span></a></li>
+        <li class="last"><a href="http://www.spanishcentral.com/browse/a" target="_blank">Browse the Spanish-English Dictionary</a></li>        
+      </ul>
+        
+      <p class="copyright">© 2017 Merriam-Webster, Incorporated</p>
+    </div>
+  </div>
+</footer>
+<!--Global footer end-->
+        <!-- JC: Footer Recirc bar disabled on certain pages -->
+                  <div class="recirc-card" id="recirc-bar-footer">
+  <div class="recirc-close"><span class="iconx"></span></div>
+          <a class="recirc-item"href="https://vote.webbyawards.com/PublicVoting#/2017/social/social-content-and-marketing/education-discovery">    
+        <div class="recirc-header">Learn More from M-W <span class="imgarrow"></span></div>
+        <div class="recirc-content">
+            <div class="recirc-img">
+              <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="alt-58e3c8f4d4850" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/alt-58e3c8f4d4850-3505-ef2e91d6ce9d0e04ab00d2d4c324f3b2@1x.jpg" data-caption="" data-credit="" data-type="article" data-dim="art-global-footer-recirc" data-ret-pref="alt-58e3c8f4d4850-3505-ef2e91d6ce9d0e04ab00d2d4c324f3b2" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/alt-58e3c8f4d4850-3505-ef2e91d6ce9d0e04ab00d2d4c324f3b2@1x.jpg 1x, //assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/alt-58e3c8f4d4850-3505-ef2e91d6ce9d0e04ab00d2d4c324f3b2@2x.jpg 2x" pair-id="3508" image-id="3505" class="lazyload"></span>
+            </div>
+            <h5 class="recirc-title">Help Us Win a Webby!</h5>
+        </div>
+      </a>
+          <a class="recirc-item"href="/words-at-play/financial-word-origins?utm_source=mwsite&utm_medium=recircb&utm_campaign=ppv">    
+        <div class="recirc-header">Learn More from M-W <span class="imgarrow"></span></div>
+        <div class="recirc-content">
+            <div class="recirc-img">
+              <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="budget" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/gallery/gal-global-footer-recirc/budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb@1x.jpg" data-caption="" data-credit="" data-type="gallery" data-dim="gal-global-footer-recirc" data-ret-pref="budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/gallery/gal-global-footer-recirc/budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb@1x.jpg 1x, //assets.merriam-webster.com/mw/images/gallery/gal-global-footer-recirc/budget-3526-f2eab5eca019c3fc6aef46357c1b2fbb@2x.jpg 2x" pair-id="3529" image-id="3526" class="lazyload"></span>
+            </div>
+            <h5 class="recirc-title">9 Financial Words With Surprising Origins</h5>
+        </div>
+      </a>
+          <a class="recirc-item"href="/news-trend-watch/us-drops-largest-nonnuclear-bomb-in-afghanistan-20170413?utm_source=mwsite&utm_medium=recircb&utm_campaign=ppv">    
+        <div class="recirc-header">Learn More from M-W <span class="imgarrow"></span></div>
+        <div class="recirc-content">
+            <div class="recirc-img">
+              <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="moab" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/moab-3524-088a9a7aedf22ccdeb8a5328388b3e52@1x.jpg" data-caption="" data-credit="" data-type="article" data-dim="art-global-footer-recirc" data-ret-pref="moab-3524-088a9a7aedf22ccdeb8a5328388b3e52" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/moab-3524-088a9a7aedf22ccdeb8a5328388b3e52@1x.jpg 1x, //assets.merriam-webster.com/mw/images/article/art-global-footer-recirc/moab-3524-088a9a7aedf22ccdeb8a5328388b3e52@2x.jpg 2x" pair-id="3527" image-id="3524" class="lazyload"></span>
+            </div>
+            <h5 class="recirc-title">Trending: US Drops Largest Nonnuclear Bomb in Afghanistan</h5>
+        </div>
+      </a>
+          <a class="recirc-item"href="/word-games/musical-words-quiz?utm_source=mwsite&utm_medium=recircb&utm_campaign=ppv">    
+        <div class="recirc-header">Learn More from M-W <span class="imgarrow"></span></div>
+        <div class="recirc-content">
+            <div class="recirc-img">
+              <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="gramophone" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717@1x.jpg" data-caption="" data-credit="" data-type="quiz" data-dim="quiz-global-footer-recirc" data-ret-pref="gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717@1x.jpg 1x, //assets.merriam-webster.com/mw/images/quiz/quiz-global-footer-recirc/gramophone-3523-26ae3ee8eecf5e23f3e51bf383a29717@2x.jpg 2x" pair-id="3526" image-id="3523" class="lazyload"></span>
+            </div>
+            <h5 class="recirc-title">Musical Words Quiz</h5>
+        </div>
+      </a>
+          <a class="recirc-item"href="/video/serial-comma?utm_source=mwsite&utm_medium=recircb&utm_campaign=ppv">    
+        <div class="recirc-header">Learn More from M-W <span class="imgarrow"></span></div>
+        <div class="recirc-content">
+            <div class="recirc-img">
+              <span class="lazyload-container ratio-3-2"><img data-sizes="auto" alt="serial-comma" is_retina="true" data-src="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/serial-comma-3441@1x.jpg" data-caption="" data-credit="" data-type="video" data-dim="vid-global-footer-recirc" data-ret-pref="serial-comma-3441" data-ret-x="1" data-srcset="//assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/serial-comma-3441@1x.jpg 1x, //assets.merriam-webster.com/mw/images/video/vid-global-footer-recirc/serial-comma-3441@2x.jpg 2x" pair-id="3444" image-id="3441" class="lazyload"></span>
+            </div>
+            <h5 class="recirc-title">The Serial Comma</h5>
+        </div>
+      </a>
+    </div>
+  <script>require(['wgtRecircBarFoot'], function(wgtRecircBarFoot) {wgtRecircBarFoot.init();});</script>
+        
+      </div>
+    </div>
+
+    <script>
+      // delete our require function and load the require library
+      delete window.require; //need this or else can't load default require lib.
+    </script>
+    <!--JC: let's add modernizr-->
+    <!-- WW: Modernizer only need for games -->
+    
+                    <!--JC: disabled untill bundling issues resolved-->
+          <script src="//assets.merriam-webster.com/mw/app-bundles/1492524997-app-bundle/js/main.min.js"></script>
+          <!--<script src="//assets.merriam-webster.com/mw/app-bundles/1492524997-app-bundle/js/main.definitions.min.js"></script>-->
+             <!--Enabling some default functionality -->
+    <script>
+      require(['adProcessor'], function(adProcessor) {
+        //JC: Initiating ad libraries (google slot lib, ) & initializing slots
+        adProcessor.prepareAdLibraries();
+
+        //JC: by default we use a black-list, white-list is only being used if provided (rare cases)
+        if (window.mwdata.adsWhitelist  !== null) {
+          adProcessor.prepareOnlyTheseAdSlots(window.mwdata.adsWhitelist);
+        } else {
+          adProcessor.prepareAllAdSlotsExcept(window.mwdata.adsBlacklist);
+        }
+      });
+      require(['common', 'audioplayer', 'wodSubscribe', 'gaTracker', 'fbSdk', 'raf'], function(common, audioplayer, wodSubscribe, gaTracker, fbSdk) {
+
+        //JC: this enables audio playback everywhere (wod & definitions)
+        audioplayer.init();
+
+         //JC: Enabling WOD subscribe forms if present
+        wodSubscribe.init();
+
+        //JC: Loading google analitics libary and starting tracking
+        gaTracker.init();
+
+        //JC: this is inheritedd from MI - needs to be refactored
+        common.init();
+
+        //JC: special handling for spelling suggestionsand not found pages.
+        if (window.mwdata.gaSpecialTracking) {
+            // Track the virtual page click.
+            var url = '/dictionary/' + window.mwdata.gaSpecialTracking + '/' + window.mwdata.gaSpecialTrackingWord;
+            var gaCmd = function(){ga('send', 'pageview', url)};
+            gaTracker.execCmd(gaCmd);
+            console.log('Sspecial tracking', url);
+        }
+
+        //JC: Facebook SDK is needed on all pages except for Home
+        if (window.mwdata.isHome === false) {
+          fbSdk.init();
+        }
+      });
+    </script>
+
+
+    <script>
+      //JC: some libs are better off to be left out of compiled bundle
+      var jwplayerPath = window.mwdata.assetsDomain2 + '/mw/jwplayer-7.6.0/jwplayer';
+      requirejs.config({paths: {jwplayer: jwplayerPath}});
+    </script>
+  <!-- call the require functions -->
+  <script>
+    window.mwRequireCall.forEach(function(toCall) {
+      require(toCall.reqName, toCall.reqFunc);
+    })
+  </script>
+
+  <!-- Track Heap Events. -->
+  <!-- Call Lazyload/LazySizes -->
+  <script type="text/javascript">
+    require(['trackHeapEvents'], function(trackHeapEvents) {
+      trackHeapEvents.trackEvents();
+    });
+    require(['lazySizes']);
+  </script>
+
+      <!--JC: tracking -->
+    <script type="text/javascript">
+      require(['jquery'], function($) {
+        $.getScript("/lapi/v1/mwol-search/stats/lookup?stat_id=8657f14b7e852f8d1654");
+      });
+    </script>
+  
+          <div id="cite-module" style="height: 0; overflow: hidden; width: 0;">
+      <script type="text/javascript">
+        /* <![CDATA[ */
+
+          // ********** DISABLED: CAUSES PAGE LAG **********
+
+          EBcitation = {
+                "source": "website",
+                "npnd": "yes",
+                "website": {
+                  "title": "hippie"
+                },
+                "pubonline": {
+                  "title": "Merriam-Webster.com",
+                  "url": "https://www.merriam-webster.com/dictionary/hippie",
+                  "inst": "Merriam-Webster"
+                },
+                "contributors": [
+                  {
+                    "function": "author",
+                  }
+                ]
+          };
+          EBversion  = "1.0";
+        /* ]]> */
+        </script>
+        <script src="//assets2.merriam-webster.com/mw/easybib/widget.min.js" /></script>
+        </div>
+        <script type="text/javascript">
+            require(['jquery'], function($) {
+                $('.social-sidebar .cite-link').append($('#cite-module #EBwidget_container'));
+                $('#cite-module').remove();
+            });
+        </script>
+    
+
+<!-- WW: disabled optimizely -->
+<!--     <script type="text/javascript">
+      require(['optimizelyEvents'], function(optimizelyEvents) {
+        optimizelyEvents.init();
+      });
+    </script> -->
+
+    <!--JC: PF 3 of 3-->
+    <script>
+        var adonis = adonis || {};
+        adonis.scriptResources = ['app-bundle/js/main.min.js'];
+    </script>
+    <script>/* loader-6.0.6 */!function e(n,t,i){function o(a,s){if(!t[a]){if(!n[a]){var c="function"==typeof require&&require;if(!s&&c)return c(a,!0);if(r)return r(a,!0);var l=new Error("Cannot find module '"+a+"'");throw l.code="MODULE_NOT_FOUND",l}var d=t[a]={exports:{}};n[a][0].call(d.exports,function(e){var t=n[a][1][e];return o(t?t:e)},d,d.exports,e,n,t,i)}return t[a].exports}for(var r="function"==typeof require&&require,a=0;a<i.length;a++)o(i[a]);return o}({1:[function(e,n,t){e(23);var i=e(7);i.run()},{23:23,7:7}],2:[function(e,n,t){var i=e(3);n.exports=i},{3:3}],3:[function(e,n,t){n.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,n,t){function i(){if(s.isExpiredNow(localStorage.adonisClientManifestExpiry))return null;var e=null;try{e=JSON.parse(localStorage.adonisClientManifest)}catch(n){}return e}function o(e,n){localStorage.adonisClientManifest=JSON.stringify(e),localStorage.adonisClientManifestExpiry=(new Date).getTime()/1e3+n}function r(e,n){var t=new XMLHttpRequest;t.open("GET",a.MANIFEST_URL+"?v="+e,!0),t.onload=function(){var e={},i=!1;if(200===t.status)try{e=JSON.parse(t.responseText)}catch(o){e={}}else i=!0;n(e,i)},t.onerror=function(){n({},!0)};try{t.send(null)}catch(i){n({},!0)}}var a=e(2),s=e(6);n.exports={cacheAdonisManifest:o,getCachedAdonisManifest:i,fetchAdonisManifest:r}},{2:2,6:6}],5:[function(e,n,t){function i(e){var n=new XMLHttpRequest,t=[l.REPORTING_URL,e].join("");n.open("GET",t,!0),n.send()}function o(e){i("/adonis_error?e="+e.toString())}function r(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<l.REPORTING_RATE}function a(e,n){if(s(e),r()){var t={website:window.location.hostname,key:e};null!=n&&(t.quantity=n),i(["/adonis_event/?event=",JSON.stringify(t)].join(""))}}function s(e){var n={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};u.push(n)}function c(){d.defineReadOnlyProperty("adonisBootstrapTiming",u)}var l=e(2),d=e(6),u=[];n.exports={reportError:o,reportEvent:a,saveTiming:c,shouldReport:r}},{2:2,6:6}],6:[function(e,n,t){function i(e,n){Object.defineProperty(window,e,{value:n,writable:!1})}function o(e,n){return!n||Number(n)<=e}function r(e){var n=(new Date).getTime()/1e3;return o(n,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),n=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==n){var t=n[1],i=n[2],o=parseInt(i.split(".")[0]);if("chrome"===t&&o>=41||"firefox"===t&&o>=37)return!0}return!1},s=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};n.exports={isSupportedBrowser:a,defineReadOnlyProperty:i,ready:s,isExpired:o,isExpiredNow:r}},{}],7:[function(e,n,t){function i(e,n){return{host:"assets",path:e,headers:n}}function o(e,n,t){d.reportEvent("bootstrap.runclientscript"),d.saveTiming(),u.defineReadOnlyProperty("adonisConn",n),u.defineReadOnlyProperty("adonisConfig",l);var i=new Blob([e],{type:"text/javascript"}),o=URL.createObjectURL(i),a=p.getCachedAdonisManifest();return a&&a.hasOwnProperty(t)?void r(o,a[t],!1):void p.fetchAdonisManifest(t,function(e,n){p.cacheAdonisManifest(e,f),r(o,e[t],n)})}function r(e,n,t){if(t||n){var i=document.createElement("script");i.src=e,n&&(i.integrity=n),document.head.appendChild(i)}}function a(){}function s(){if(d.reportEvent("bootstrap.pageview"),u.isSupportedBrowser()){if(d.reportEvent("bootstrap.supported"),u.ready(function(){var e=document.querySelectorAll("["+h+"]");d.reportEvent("bootstrap.admarker",e.length)}),l.DEVELOPER_MODE){console.log("Developer mode is enabled. Fetching adonis client from:",l.ADONIS_CLIENT_FETCH_URL),localStorage.adonisClientVersion="6.0.0";var e=document.createElement("script");return e.src=l.ADONIS_CLIENT_FETCH_URL,void document.head.appendChild(e)}var n="undefined"!=typeof Storage;if(n){d.reportEvent("bootstrap.enabled");var t=localStorage.adonisCacheExpiry,r=localStorage.adonisCacheSrc,a=localStorage.adonisClientVersion,s=(new Date).getTime()/1e3;if(!u.isExpired(s,t)&&a&&r)d.reportEvent("bootstrap.cached"),o(r,null,localStorage.adonisClientVersion);else{d.reportEvent("bootstrap.expired");var p=new c(l.SERVER_CANDIDATE,l.REAL_STUN_HOST,l.TURNSIGNAL_HOST,l.STUNGUN_HOST,g);l.PANAMA_CLIENT&&l.PANAMA_CLIENT.SKIP_IP_LEAK_CHECK&&(p.skipIpLeakCheck=l.PANAMA_CLIENT.SKIP_IP_LEAK_CHECK),l.PANAMA_CLIENT&&l.PANAMA_CLIENT.CANDIDATE_WHITELISTED_IP&&(p.candidateWhitelistedIp=l.PANAMA_CLIENT.CANDIDATE_WHITELISTED_IP),p.setLogLevel(l.LOG_LEVEL),p.on("open",function(){d.reportEvent("bootstrap.panama_opened");var e=i("client",{adonis_client_api:"6.0.0"});p.request(e,function(e,n,t){if(d.reportEvent("bootstrap.client_fetched."+t),n){if(n["cache-control"]){var i=Number(n["cache-control"].split("=")[1]),a=s+i;localStorage.adonisCacheExpiry=a}n["adonis-client-version"]&&(localStorage.adonisClientVersion=n["adonis-client-version"])}304===t?o(r,p,localStorage.adonisClientVersion):200===t?(localStorage.adonisCacheSrc=e,o(e,p,localStorage.adonisClientVersion)):g(e)})}),d.reportEvent("bootstrap.panama_opening"),p.open()}}}}var c=e(8),l=e(2),d=e(5),u=e(6),p=e(4),f=l.MANIFEST_EXPIRATION_TIME||0;l.LOG_LEVEL=window.adonisHash.indexOf("adonis-logging")!==-1?"debug":l.LOG_LEVEL;var h=l.AD_MARKER||"adonis-marker";window.adonisConn=void 0,window.adonisConfig=l,window.adonisBootstrapTiming=void 0;var g=l.REPORT_ERRORS?d.reportError:a;n.exports={runClientScript:o,insertScriptTag:r,run:s}},{2:2,4:4,5:5,6:6,8:8}],8:[function(e,n,t){function i(e,n,t,i,o){this.realStunHost=n,this.turnSignalHost=t,this.stunGunHost=i,this.serverCandidate=e,this.nodePeerPort=null,this.nodePeerIp=null,this.localCandidates=[],this.sentDataToTurn=!1,this.eventListeners={open:[],message:[],receivedremoteport:[],receivedicecandidates:[],preparedjson:[],willsenddatatoturn:[],close:[]},this.ips={},this.requests={},this.isOpen=!1,o&&(this.handleError=o),this.timingEvents=[],this.skipIpLeakCheck=!1,this.candidateWhitelistedIp=null}function o(){var e=this,n={iceServers:[{url:"stun:"+this.stunGunHost,urls:["stun:"+this.stunGunHost],username:"test",credential:"test"}]};m.info("Connecting to stungun server : "+this.stunGunHost);var t=this.stunGunPeerConnection=new C(n);t.createDataChannel(""),t.createOffer(function(n){t.setLocalDescription(n,function(){e.addTimingEvent("requestingServerIp",performance.now()-e.estConnectionStart)},function(){})},function(){}),t.onicecandidate=function(n){if(null!==n.candidate){var i=n.candidate.candidate;if(m.debug("onicecandidate: "+i),e.skipIpLeakCheck||e.checkCandidateIpLeak(i),g.isServerReflexive(i)&&!g.isIPv6(i)){t.close();var o=g.matchNodePeerIpAndPort(i);if(null!==o){e.addTimingEvent("serverIpReceived",performance.now()-e.estConnectionStart),e.nodePeerIp=o[1],e.nodePeerPort=o[2],m.info("ip and port to connect on: "+e.nodePeerIp+":"+e.nodePeerPort);var r=e.serverCandidate.replace(/SERVER_PORT/g,e.nodePeerPort);r=r.replace(/SERVER_IP/g,e.nodePeerIp),m.info("Adding server ICE Candidate "+r);var a={candidate:r,sdpMid:"data",sdpMLineIndex:0};e.peerConnection.addIceCandidate(new y(a),h,e.handleError),e.triggerEvent("receivedremoteport"),e.remoteCandidateReceived=!0,d.call(e)}}}}}function r(){var e=this.peerConnection=new C({iceServers:[{url:"stun:"+this.realStunHost,urls:["stun:"+this.realStunHost]}]}),n=this;this.peerConnection.onicecandidate=function(e){if(null!==e.candidate){var t=e.candidate.candidate;m.info("RECEVIED LOCAL CANDIDATE "+t),n.skipIpLeakCheck||n.checkCandidateIpLeak(t);var i=g.isServerReflexive(t);n.candidateWhitelistedIp&&(i=t.indexOf(n.candidateWhitelistedIp)&&!g.isServerReflexive(t)),i&&!g.isIPv6(t)&&(n.addTimingEvent("iceCandidate",performance.now()-n.estConnectionStart),n.localCandidates.push(t),n.localCandidateReceived=!0,d.call(n))}},this.peerConnection.ondatachannel=function(e){n.dataChannel=e.channel,n.turnSignalPeerConnection.close(),m.info("ondatachannel",n.dataChannel.label,n.dataChannel.readyState),n.dataChannel.binaryType="arraybuffer",n.dataChannel.onopen=function(){n.isOpen=!0,m.info("onopen");var e=performance.now(),t=e-n.estConnectionStart;n.addTimingEvent("dataChannelOpen",t);var i={host:"test"};n.request(i,function(){var t=performance.now()-e;n.addTimingEvent("msgRoundTrip",t),clearTimeout(n.connectionTimeout),setTimeout(function(){n.close()},T)}),m.info("TIMING:total "+t),m.info("onopen"),n.triggerEvent("open"),n.messageSendStartTime=performance.now()},n.dataChannel.onmessage=function(e){var t=e.data;m.info("Received response chunk",t),n.triggerEvent("message",t);try{var i=v.handleChunk(t)}catch(o){return void m.error("Failed to process chunked response: ",o)}i&&(m.info("Received complete response. Handling it"),a.call(n,i.id,i.http))},n.dataChannel.onclose=function(){m.info("onClose"),n.triggerEvent("close")},n.dataChannel.onerror=n.handleError},this.peerConnection.onsignalingstatechange=function(){m.info("signaling state change: ",e.iceConnectionState)},this.peerConnection.oniceconnectionstatechange=function(){var t=performance.now();m.info("ice connection state change: ",e.iceConnectionState,"after ",t-n.estConnectionStart,"millis")},this.peerConnection.onicegatheringstatechange=function(){m.info("ice gathering state change: ",e.iceConnectionState)},s.call(this)}function a(e,n){var t=n.headers;t&&t["set-cookie"]&&(document.cookie=t["set-cookie"]);var i=this.requests[e];i(n.body,n.headers,n.status),delete this.requests[e]}function s(){var e={type:"offer",sdp:"v=0\r\no=- 7745999191240241858 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=msid-semantic: WMS\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:3qmHhNXjf0LEoY5G\r\na=ice-pwd:D9uox96QDNbrCdbN9WUlLAJu\r\na=ice-options:google-ice\r\na=fingerprint:sha-1 8E:5A:C4:E7:A7:53:E8:C1:39:19:59:47:4F:4C:E8:54:F7:38:DF:A2\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"};m.info("SETTING HARD CODED offer data : "+e.sdp);var n=new S(e);this.peerConnection.setRemoteDescription(n,c.bind(this),this.handleError),c.bind(this)}function c(){this.peerConnection.createAnswer(l.bind(this),this.handleError),this.iceCandidateStartTime=performance.now()}function l(e){this.answer=e,this.peerConnection.setLocalDescription(new S(e),u.bind(this),this.handleError),this.localDescriptionSet=!0,d.call(this)}function d(){!this.sentDataToTurn&&this.remoteCandidateReceived&&this.localCandidateReceived&&this.localDescriptionSet&&(m.debug("sending data to TURN"),p.call(this),this.sentDataToTurn=!0)}function u(){m.info("Sending answer"),this.addTimingEvent("setLocalDesc",performance.now()-this.estConnectionStart)}function p(){this.triggerEvent("receivedicecandidates");var e=performance.now();m.info("TIMING:ice_candidates "+(e-this.iceCandidateStartTime));var n=/a=ice-ufrag:[ -z]*/,t=/a=ice-pwd:[ -z]*/,i=/a=fingerprint:[A-z0-9\-]* [0-F:]*/,o=/o=-?\S* [0-9]+ [0-9] IN IP4 [0-9\.]+/,r=performance.now();m.info("Before matching regexes"+(r-this.estConnectionStart)),m.info(this.answer.sdp);var a=this.answer.sdp.match(n),s=this.answer.sdp.match(t),c=this.answer.sdp.match(i),l=this.answer.sdp.match(o);m.info("UFRAG:"+a),m.info("PWD:"+s),m.info("FINGERPRINT:"+c),m.info("O=:"+l);var d=[this.localCandidates];d.push(a[0]),d.push(s[0]),d.push(c[0]),d.push(l[0]);var u=new Uint8Array(8);window.crypto.getRandomValues(u);var p=String.fromCharCode.apply(null,u);d.push(p),d.push(this.nodePeerIp),d.push(this.nodePeerPort),this.triggerEvent("preparedjson",d);var h=performance.now();m.info("After matching regexes"+(h-this.estConnectionStart));var g=performance.now();m.info("Before jsonifying candidates"+(g-this.estConnectionStart));var v=JSON.stringify(d),w=performance.now();m.info("After jsonifying candidates"+(w-this.estConnectionStart)),f.call(this,v)}function f(e){this.triggerEvent("willsenddatatoturn",e);var n=performance.now()-this.estConnectionStart;this.addTimingEvent("turnPrep",n),m.debug("Sending data to turn @ "+this.turnSignalHost+" after "+n+" millis");var t={iceServers:[{url:"turn:"+this.turnSignalHost,urls:["turn:"+this.turnSignalHost],username:e,credential:"x"}]};this.turnSignalPeerConnection=new C(t),this.turnSignalPeerConnection.createDataChannel("");var i=this;this.turnSignalPeerConnection.createOffer(function(e){var n=performance.now(),t=n-i.estConnectionStart;i.addTimingEvent("turnSend",t),m.info("Fake offer generated which should trigger TURN request after "+(n-i.estConnectionStart)+" millis"),i.turnSignalPeerConnection.setLocalDescription(e,function(){},function(){})},function(){})}function h(){m.info("Successfully added ICE candidate")}const g=e(21),v=e(22),w=e(17);w.enable();const m=w("panama-client");var C=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection,S=window.RTCSessionDescription||window.mozRTCSessionDescription||window.webkitRTCSessionDescription,y=window.RTCIceCandidate||window.mozRTCIceCandidate||window.webkitRTCIceCandidate,E=15e3,T=3e5;i.prototype.handleError=function(){},i.prototype.getTimingEvents=function(){return this.timingEvents},i.prototype.addTimingEvent=function(e,n){var t={name:"t_"+e,timing:n};this.timingEvents.push(t)},i.prototype.open=function(){var e=this;this.connectionTimeout=setTimeout(function(){e.close()},E),this.estConnectionStart=performance.now(),setTimeout(function(){m.debug("v8Lag is : "+(performance.now()-e.estConnectionStart)),e.addTimingEvent("v8Lag",performance.now()-e.estConnectionStart)},1),o.call(this),r.call(this)},i.prototype.send=function(e){m.info("sending message",e),this.dataChannel.send(e)},i.prototype.request=function(e,n){var t=v.buildRequest(e),i=v.buildTerminator(t.id);this.requests[t.id]=n,this.send(JSON.stringify(t)),this.send(JSON.stringify(i))},i.prototype.close=function(){this.dataChannel&&(this.dataChannel.close(),this.dataChannel=null),this.peerConnection&&"closed"!==this.peerConnection.signalingState&&(console.log("Closed PC"),this.peerConnection.close()),this.stunGunPeerConnection&&"closed"!==this.stunGunPeerConnection.signalingState&&(console.log("Closed Stungun PC"),this.stunGunPeerConnection.close()),this.turnSignalPeerConnection&&"closed"!==this.turnSignalPeerConnection.signalingState&&(console.log("Closed Turnsignal PC"),this.turnSignalPeerConnection.close())},i.prototype.on=function(e,n){e in this.eventListeners&&this.eventListeners[e].push(n)},i.prototype.triggerEvent=function(e){if(e in this.eventListeners){var n=Array.prototype.slice.call(arguments,1);this.eventListeners[e].forEach(function(e){e.apply(this,n)})}},i.prototype.setLogLevel=function(e){w.suggest.clear().deny("panama-client",e)},i.prototype.checkCandidateIpLeak=function(e){if(!g.isIPv6(e)&&e.indexOf("typ host")!==-1){var n=g.extractCandidateIp(e);n&&(this.ips[n]=!0,Object.keys(this.ips).length>=2&&(m.info("Multiple private IPs detected. Closing the connection."),this.close()))}},window.PanamaClient=i,n.exports=i},{17:17,21:21,22:22}],9:[function(e,n,t){function i(){this.enabled=!0,this.defaultResult=!0,this.clear()}function o(e,n){return e.n.test?e.n.test(n):e.n==n}var r=e(11),a={debug:1,info:2,warn:3,error:4};r.mixin(i),i.prototype.allow=function(e,n){return this._white.push({n:e,l:a[n]}),this},i.prototype.deny=function(e,n){return this._black.push({n:e,l:a[n]}),this},i.prototype.clear=function(){return this._white=[],this._black=[],this},i.prototype.test=function(e,n){var t,i=Math.max(this._white.length,this._black.length);for(t=0;t<i;t++){if(this._white[t]&&o(this._white[t],e)&&a[n]>=this._white[t].l)return!0;if(this._black[t]&&o(this._black[t],e)&&a[n]<this._black[t].l)return!1}return this.defaultResult},i.prototype.write=function(e,n,t){if(!this.enabled||this.test(e,n))return this.emit("item",e,n,t)},n.exports=i},{11:11}],10:[function(e,n,t){var i=e(11),o=e(9),r=new i,a=Array.prototype.slice;t=n.exports=function(e){var n=function(){return r.write(e,void 0,a.call(arguments)),n};return n.debug=function(){return r.write(e,"debug",a.call(arguments)),n},n.info=function(){return r.write(e,"info",a.call(arguments)),n},n.warn=function(){return r.write(e,"warn",a.call(arguments)),n},n.error=function(){return r.write(e,"error",a.call(arguments)),n},n.log=n.debug,n.suggest=t.suggest,n.format=r.format,n},t.defaultBackend=t.defaultFormatter=null,t.pipe=function(e){return r.pipe(e)},t.end=t.unpipe=t.disable=function(e){return r.unpipe(e)},t.Transform=i,t.Filter=o,t.suggest=new o,t.enable=function(){return t.defaultFormatter?r.pipe(t.suggest).pipe(t.defaultFormatter).pipe(t.defaultBackend):r.pipe(t.suggest).pipe(t.defaultBackend)}},{11:11,9:9}],11:[function(e,n,t){function i(){}var o=e(20);o.mixin(i),i.prototype.write=function(e,n,t){this.emit("item",e,n,t)},i.prototype.end=function(){this.emit("end"),this.removeAllListeners()},i.prototype.pipe=function(e){function n(){e.write.apply(e,Array.prototype.slice.call(arguments))}function t(){!e._isStdio&&e.end()}var i=this;return i.emit("unpipe",e),e.emit("pipe",i),i.on("item",n),i.on("end",t),i.when("unpipe",function(o){var r=o===e||"undefined"==typeof o;return r&&(i.removeListener("item",n),i.removeListener("end",t),e.emit("unpipe")),r}),e},i.prototype.unpipe=function(e){return this.emit("unpipe",e),this},i.prototype.format=function(e){throw new Error(["Warning: .format() is deprecated in Minilog v2! Use .pipe() instead. For example:","var Minilog = require('minilog');","Minilog","  .pipe(Minilog.backends.console.formatClean)","  .pipe(Minilog.backends.console);"].join("\n"))},i.mixin=function(e){var n,t=i.prototype;for(n in t)t.hasOwnProperty(n)&&(e.prototype[n]=t[n])},n.exports=i},{20:20}],12:[function(e,n,t){var i=e(11),o=[],r=new i;r.write=function(e,n,t){o.push([e,n,t])},r.get=function(){return o},r.empty=function(){o=[]},n.exports=r},{11:11}],13:[function(e,n,t){var i=e(11),o=/\n+$/,r=new i;r.write=function(e,n,t){var i=t.length-1;if("undefined"!=typeof console&&console.log){if(console.log.apply)return console.log.apply(console,[e,n].concat(t));if(JSON&&JSON.stringify){t[i]&&"string"==typeof t[i]&&(t[i]=t[i].replace(o,""));try{for(i=0;i<t.length;i++)t[i]=JSON.stringify(t[i])}catch(r){}console.log(t.join(" "))}}},r.formatters=["color","minilog"],r.color=e(14),r.minilog=e(15),n.exports=r},{11:11,14:14,15:15}],14:[function(e,n,t){var i=e(11),o=e(16),r={debug:["cyan"],info:["purple"],warn:["yellow",!0],error:["red",!0]},a=new i;a.write=function(e,n,t){var i=console.log;console[n]&&console[n].apply&&(i=console[n],i.apply(console,["%c"+e+" %c"+n,o("gray"),o.apply(o,r[n])].concat(t)))},a.pipe=function(){},n.exports=a},{11:11,16:16}],15:[function(e,n,t){var i=e(11),o=e(16),r={debug:["gray"],info:["purple"],warn:["yellow",!0],error:["red",!0]},a=new i;a.write=function(e,n,t){var i=console.log;"debug"!=n&&console[n]&&(i=console[n]);var a=0;if("info"!=n){for(;a<t.length&&"string"==typeof t[a];a++);i.apply(console,["%c"+e+" "+t.slice(0,a).join(" "),o.apply(o,r[n])].concat(t.slice(a)))}else i.apply(console,["%c"+e,o.apply(o,r[n])].concat(t))},a.pipe=function(){},n.exports=a},{11:11,16:16}],16:[function(e,n,t){function i(e,n){return n?"color: #fff; background: "+o[e]+";":"color: "+o[e]+";"}var o={black:"#000",red:"#c23621",green:"#25bc26",yellow:"#bbbb00",blue:"#492ee1",magenta:"#d338d3",cyan:"#33bbc8",gray:"#808080",purple:"#708"};n.exports=i},{}],17:[function(e,n,t){var i=e(10),o=i.enable,r=i.disable,a="undefined"!=typeof navigator&&/chrome/i.test(navigator.userAgent),s=e(13);if(i.defaultBackend=a?s.minilog:s,"undefined"!=typeof window){try{i.enable(JSON.parse(window.localStorage.minilogSettings))}catch(c){}if(window.location&&window.location.search){var l=RegExp("[?&]minilog=([^&]*)").exec(window.location.search);l&&i.enable(decodeURIComponent(l[1]))}}i.enable=function(){o.call(i,!0);try{window.localStorage.minilogSettings=JSON.stringify(!0)}catch(e){}return this},i.disable=function(){r.call(i);try{delete window.localStorage.minilogSettings}catch(e){}return this},t=n.exports=i,t.backends={array:e(12),browser:i.defaultBackend,localStorage:e(19),jQuery:e(18)}},{10:10,12:12,13:13,18:18,19:19}],18:[function(e,n,t){function i(e){this.url=e.url||"",this.cache=[],this.timer=null,this.interval=e.interval||3e4,this.enabled=!0,this.jQuery=window.jQuery,this.extras={}}var o=e(11),r=(new Date).valueOf().toString(36);o.mixin(i),i.prototype.write=function(e,n,t){this.timer||this.init(),this.cache.push([e,n].concat(t))},i.prototype.init=function(){if(this.enabled&&this.jQuery){var e=this;this.timer=setTimeout(function(){var n,t,i=[],o=e.url;if(0==e.cache.length)return e.init();for(n=0;n<e.cache.length;n++)try{JSON.stringify(e.cache[n]),i.push(e.cache[n])}catch(a){}e.jQuery.isEmptyObject(e.extras)?(t=JSON.stringify({logs:i}),o=e.url+"?client_id="+r):t=JSON.stringify(e.jQuery.extend({logs:i},e.extras)),e.jQuery.ajax(o,{type:"POST",cache:!1,processData:!1,data:t,contentType:"application/json",timeout:1e4}).success(function(n,t,i){n.interval&&(e.interval=Math.max(1e3,n.interval))}).error(function(){e.interval=3e4}).always(function(){e.init()}),e.cache=[]},this.interval)}},i.prototype.end=function(){},i.jQueryWait=function(e){return"undefined"!=typeof window&&(window.jQuery||window.$)?e(window.jQuery||window.$):void("undefined"!=typeof window&&setTimeout(function(){i.jQueryWait(e)},200))},n.exports=i},{11:11}],19:[function(e,n,t){var i=e(11),o=!1,r=new i;r.write=function(e,n,t){if("undefined"!=typeof window&&"undefined"!=typeof JSON&&JSON.stringify&&JSON.parse)try{o||(o=window.localStorage.minilog?JSON.parse(window.localStorage.minilog):[]),o.push([(new Date).toString(),e,n,t]),window.localStorage.minilog=JSON.stringify(o)}catch(i){}},n.exports=r},{11:11}],20:[function(e,n,t){function i(){this._events={}}i.prototype={on:function(e,n){this._events||(this._events={});var t=this._events;return(t[e]||(t[e]=[])).push(n),this},removeListener:function(e,n){var t,i=this._events[e]||[];for(t=i.length-1;t>=0&&i[t];t--)i[t]!==n&&i[t].cb!==n||i.splice(t,1)},removeAllListeners:function(e){e?this._events[e]&&(this._events[e]=[]):this._events={}},emit:function(e){this._events||(this._events={});var n,t=Array.prototype.slice.call(arguments,1),i=this._events[e]||[];for(n=i.length-1;n>=0&&i[n];n--)i[n].apply(this,t);return this},when:function(e,n){return this.once(e,n,!0)},once:function(e,n,t){function i(){t||this.removeListener(e,i),n.apply(this,arguments)&&t&&this.removeListener(e,i)}return n?(i.cb=n,this.on(e,i),this):this}},i.mixin=function(e){var n,t=i.prototype;for(n in t)t.hasOwnProperty(n)&&(e.prototype[n]=t[n])},n.exports=i},{}],21:[function(e,n,t){n.exports.getPortNoFromCandidate=function(e){var n=/([0-9]+) ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]+)/.exec(e)||[];return n[3]||null},n.exports.isServerReflexive=function(e){return e.indexOf("srflx")!==-1},n.exports.isIPv6=function(e){return/([0-9a-fA-F]){1,4}(:([0-9a-fA-F]){1,4}){7}/.test(e)},n.exports.extractCandidateIp=function(e){var n=/[0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) [0-9]+/.exec(e);return n&&n.length>1?n[1]:null},n.exports.matchNodePeerIpAndPort=function(e){return e.match(/candidate:[0-9]+ [0-9]+ udp [0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]*)/i)}},{}],22:[function(e,n,t){function i(){return Math.floor(99999*Math.random()+1)}function o(e){var n=i().toString(),t={id:n,version:l,http:e};return t}function r(e){var n={id:e,version:l,http:"TERMINATOR"};return n}function a(e){var n=null;try{n=JSON.parse(d+e)}catch(t){d+=e}return n&&(d=""),n}function s(e){if(!e.http||!e.id)throw new Error("Fields `id` and `http` are mandatory.");var n=e.id;if("TERMINATOR"===e.http){if(!u[n])return null;var t=u[n];return u[n]=null,t}return u[n]?u[n].http.body+=e.http.body:u[n]=e,null}function c(e){var n=a(e);if(!n)return null;var t=s(n);return t}var l="1.0",d="",u={};n.exports={buildRequest:o,buildTerminator:r,handleChunk:c,accumulateJSON:a,accumulateResponse:s}},{}],23:[function(e,n,t){function i(e){"performance"in e||(e.performance={});var n=e.performance;e.performance.now=n.now||n.mozNow||n.msNow||n.oNow||n.webkitNow||Date.now||function(){return(new Date).getTime()}}i(self)},{}]},{},[1]);</script>
+
+    <!-- WW: noscript only need for quantcast alternative counter so far-->
+    <noscript>
+      <img src="//pixel.quantserve.com/pixel/p-2a93ALTZSnZrY.gif" style="display: none;" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+  </body>
+</html>

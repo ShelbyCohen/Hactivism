@@ -1,0 +1,1073 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+<script>
+var current_date = 2017-04-18;
+var current_year = 2017;
+var current_day = 18;
+var current_month = 04;
+</script>
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<script>                var sbGlideScriptElement = document.createElement("script");
+            	sbGlideScriptElement.type = "text/javascript";
+            	sbGlideScriptElement.onload = function() {
+            	    var glideUnit = typeof SbSlidingUnit == 'undefined' ? parent.SbSlidingUnit : SbSlidingUnit;
+            	    glideUnit.init({
+            	        partnerId : 4175,
+            	        widgetId : 'info003',
+            	        cmsPath : '//cms.springboardplatform.com'
+            	    });
+            	};
+            	sbGlideScriptElement.src = "//www.springboardplatform.com/storage/js/sliding/sliding_unit.js";
+            	if (top === self)
+            		document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);
+            	else
+            		parent.document.getElementsByTagName('head')[0].appendChild(sbGlideScriptElement);</script>
+<script>                var zflag_nid="305", 
+                     zflag_cid="48112/41562/1", 
+                     zflag_sid="4677", 
+                     zflag_width="1", 
+                     zflag_height="1", 
+                     zflag_sz="15";</script>
+<script src="//ss3.zedo.com/jsc/ss3/fo.js"></script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+var leaderboard_mapping;
+googletag.cmd.push(function() {
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+    || (window.screen.width == "1080" && window.screen.height == "1920")
+    || (window.screen.width == "1242" && window.screen.height == "2148")) {
+    /* For mobile device. */
+    leaderboard_mapping = googletag.sizeMapping().addSize([0, 0], [320, 50]).build();
+  } else {
+    /* For desktop browsers. */
+    leaderboard_mapping = googletag.sizeMapping().
+    addSize([1280, 800], [728, 90]).
+    addSize([600, 800], [320, 50]).
+    addSize([800, 600], [728, 90]).
+    addSize([0, 0], [728, 90]).
+    build();
+  }
+  googletag.defineSlot('/718/IP/leaderboard', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1481557922382-0').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads());
+  googletag.defineSlot('/718/IP/abovethefoldMPU', [[300, 600], [300, 250]], 'div-gpt-ad-1481558045667-0').addService(googletag.pubads());
+  googletag.defineSlot('/718/IP/middlepagetower', [[300, 600], [160, 600]], 'div-gpt-ad-1481558147970-0').addService(googletag.pubads());
+  googletag.defineSlot('/718/IP/thirdright', [[300,600],[300,250]], 'div-gpt-ad-1489606341717-0').addService(googletag.pubads());
+  googletag.defineSlot('/718/IP/fourthright', [[300,600],[300,250]], 'div-gpt-ad-1489606431392-0').addService(googletag.pubads());
+  googletag.defineOutOfPageSlot('/718/IP/outofpage', 'div-gpt-ad-1481558598915-0').addService(googletag.pubads());
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting("site", document.location.hostname);
+  googletag.pubads().setTargeting("infoplease", "IP");
+  googletag.enableServices();
+});
+</script>
+<script src="//i.infopls.com/js/flashobject.js"></script>
+<meta name="title" content="Brahmo Samaj | Infoplease" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="brä´mō səmäj´ [key] [Hindi,=society of God], Indian religious movement, founded in Kolkata (Calcutta) in 1828 by Rammohun Roy . It promoted a monotheistic, reformed Hinduism with strong Islamic and Christian overtones, support for the rights of" />
+<link rel="shortcut icon" href="/themes/ip/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="https://www.infoplease.com/encyclopedia/philosophy-and-religion/eastern-religions/hinduism/brahmo-samaj" rel="canonical" />
+
+    <title>Brahmo Samaj | Infoplease</title>
+    <link rel="stylesheet" href="/sites/infoplease.com/files/css/css_xJYUtGCgl18SttPcS356SPstYZJ2SVUsemB8pOu09ZU.css?ooetga" media="all" />
+<link rel="stylesheet" href="/sites/infoplease.com/files/css/css_b5txcwcngjhDEfZh9QzJ6G81r5L7o5jdAiIsQvtD204.css?ooetga" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/infoplease.com/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body  class="user-logged-out path-encyclopedia head-title-Brahmo-Samaj---Infoplease">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBS6K3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NBS6K3');</script>
+<!-- End Google Tag Manager -->
+    
+    <div class="container }">
+<header class="row">
+        <div id="block-ipleaderboardad" class="block">
+  
+    
+         
+            <div class="body"><!-- /718/IP/leaderboard -->
+<div id="div-gpt-ad-1481557922382-0">
+	<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+			googletag.cmd.push(function() {googletag.display('div-gpt-ad-1481557922382-0');});		
+	
+//--><!]]>
+</script></div></div>
+      
+  </div>
+            <div class="col-sm-3 col-xs-6">
+            <a href="/" title="Home" rel="home">
+                <img src="/themes/ip/logo.svg" alt="Home" />
+            </a>
+        </div>
+    <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+</div>  
+<div id="block-topheader" class="col-md-6 col-sm-12">
+  
+    
+         
+            <div class="body"><ul class="list-inline"><li><a class="icon-atlas" href="/atlas">Atlas</a></li>
+	<li><a class="icon-encyclopedia" href="/encyclopedia">Encyclopedia</a></li>
+	<li><a class="icon-dict" href="/dictionary">Dictionary</a></li>
+	<li><a class="icon-tr" href="/thesaurus">Thesaurus</a></li>
+	<li><a class="icon-hist" href="/dayinhistory">Day in History</a></li>
+</ul></div>
+      
+  </div>
+<div class="wizenoze-page-block-form block" data-drupal-selector="wizenoze-page-block-form" id="block-wizenozesearchblockform">
+  
+    
+      <form action="/encyclopedia/philosophy-and-religion/eastern-religions/hinduism/brahmo-samaj" method="post" id="wizenoze-page-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<input data-drupal-selector="form-v2qgsignpvtnvw97cq3pivw7uxhlh3rjkvo3lobazqc" type="hidden" name="form_build_id" value="form-V2QGSIGnpvTnvW97cq3PIVW7uxHlh3Rjkvo3LOBazqc" />
+<input data-drupal-selector="edit-wizenoze-page-block-form" type="hidden" name="form_id" value="wizenoze_page_block_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--3" name="op" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+
+
+</header>
+        <nav role="navigation" aria-labelledby="block-mainnavigation-menu-" id="block-mainnavigation">
+    <div class="collapse navbar-collapse navbar" id="main-menu-navbar-collapse">
+            
+
+              <ul class="nav navbar-nav">
+                              <li>
+                           
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                          <li>
+                           
+        <a href="/top-ten-archive" data-drupal-link-system-path="node/163033">Top 10s</a>
+              </li>
+                          <li>
+                           
+        <a href="/timeline-archive" data-drupal-link-system-path="node/80863">Timelines</a>
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/world" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/80861">World</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/atlas/world-atlas-map-library" data-drupal-link-system-path="node/407004">Atlas</a>
+              </li>
+                          <li>
+                           
+        <a href="/countries" data-drupal-link-system-path="countries">Countries</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/current-events-world-us-science-and-business-news" data-drupal-link-system-path="node/81063">News</a>
+              </li>
+                          <li>
+                           
+        <a href="/world-history-and-timelines" data-drupal-link-system-path="node/167236">History</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/geography-maps-country-information-distance-calculator" data-drupal-link-system-path="node/81060">Geography</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/structures-and-buildings" data-drupal-link-system-path="node/81058">Structures &amp; Buildings</a>
+              </li>
+                          <li>
+                           
+        <a href="/people/world-leaders-country-or-region" data-drupal-link-system-path="node/145952">World Rulers</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/disasters-hurricanes-earthquakes-terrorist-attacks-more" data-drupal-link-system-path="node/81059">Disasters</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/flags-around-world" data-drupal-link-system-path="node/81065">Flags of the World</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/world-statistics" data-drupal-link-system-path="node/81061">Statistics</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/international-relations" data-drupal-link-system-path="node/81064">International Relations</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/travel-transportation" data-drupal-link-system-path="node/81062">Travel</a>
+              </li>
+                          <li>
+                           
+        <a href="/us/religion" data-drupal-link-system-path="node/81046">Religion</a>
+              </li>
+        </ul>
+  
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/united-states" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/81072">U.S.</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/us/us-states-maps-stats" data-drupal-link-system-path="node/80737">Fifty States</a>
+              </li>
+                          <li>
+                           
+        <a href="/us/us-cities" data-drupal-link-system-path="node/81055">Cities</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/current-events-world-us-science-and-business-news" data-drupal-link-system-path="node/81063">News</a>
+              </li>
+                          <li>
+                           
+        <a href="/us-history" data-drupal-link-system-path="node/80860">History</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/geography-maps-country-information-distance-calculator" data-drupal-link-system-path="node/81060">Geography</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/structures-and-buildings" data-drupal-link-system-path="node/81058">Buildings &amp; Structures</a>
+              </li>
+                          <li>
+                           
+        <a href="/world/disasters-hurricanes-earthquakes-terrorist-attacks-more" data-drupal-link-system-path="node/81059">Disasters</a>
+              </li>
+                          <li>
+                           
+        <a href="/us/us-statistics" data-drupal-link-system-path="node/81054">Statistics</a>
+              </li>
+                          <li>
+                           
+        <a href="/us/military-affairs" data-drupal-link-system-path="node/81052">Military</a>
+              </li>
+                          <li>
+                           
+        <a href="/us/gender-sexuality" data-drupal-link-system-path="node/81047">Gender Issues</a>
+              </li>
+                          <li>
+                           
+        <a href="/us/race-population" data-drupal-link-system-path="node/81051">Race &amp; Ethnicity</a>
+              </li>
+                          <li>
+                           
+        <a href="/postal-regulations" data-drupal-link-system-path="node/80856">Postal Information</a>
+              </li>
+                          <li>
+                           
+        <a href="/entertainment" data-drupal-link-system-path="node/167375">Arts &amp; Entertainment</a>
+              </li>
+                          <li>
+                           
+        <a href="/sports" data-drupal-link-system-path="node/81067">Sports</a>
+              </li>
+        </ul>
+  
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/people" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/81449">People</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/academia-and-culture" data-drupal-link-system-path="node/81448">Academia &amp; Culture</a>
+              </li>
+                          <li>
+                           
+        <a href="/art-and-entertainment" data-drupal-link-system-path="node/81447">Arts &amp; Entertainment</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-0" data-drupal-link-system-path="node/81446">Business</a>
+              </li>
+                          <li>
+                           
+        <a href="/government" data-drupal-link-system-path="node/81445">Government</a>
+              </li>
+                          <li>
+                           
+        <a href="/newsmakers" data-drupal-link-system-path="node/81444">Newsmakers</a>
+              </li>
+                          <li>
+                           
+        <a href="/science" data-drupal-link-system-path="node/81443">Science</a>
+              </li>
+                          <li>
+                           
+        <a href="/sports-1" data-drupal-link-system-path="node/81442">Sports</a>
+              </li>
+        </ul>
+  
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/history-and-government" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/81069">History &amp; Gov&#039;t</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/world-history-and-timelines" data-drupal-link-system-path="node/167236">World History</a>
+              </li>
+                          <li>
+                           
+        <a href="/us-history" data-drupal-link-system-path="node/80860">U.S. History</a>
+              </li>
+                          <li>
+                           
+        <a href="/timeline-archive" data-drupal-link-system-path="node/80863">Timelines</a>
+              </li>
+                          <li>
+                           
+        <a href="/us-presidents" data-drupal-link-system-path="node/80854">U.S. Presidents</a>
+              </li>
+                          <li>
+                           
+        <a href="/us-government-0" data-drupal-link-system-path="node/166986">U.S. Government</a>
+              </li>
+                          <li>
+                           
+        <a href="/us-elections" data-drupal-link-system-path="node/81450">U.S. Elections</a>
+              </li>
+                          <li>
+                           
+        <a href="/ipa/A0873869.html">U.S. Supreme Court</a>
+              </li>
+                          <li>
+                           
+        <a href="/history-and-government/us-historical-monuments" data-drupal-link-system-path="node/155845">U.S. Monuments &amp; Landmarks</a>
+              </li>
+                          <li>
+                           
+        <a href="/us-documents" data-drupal-link-system-path="node/81453">U.S. Documents</a>
+              </li>
+        </ul>
+  
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/science-health/health-and-science" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/81068">Science &amp; Health</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/science-health/astronomy" data-drupal-link-system-path="node/81036">Astronomy &amp; Space</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/aviation" data-drupal-link-system-path="node/81037">Aviation</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/environment-and-nature" data-drupal-link-system-path="node/81026">Environment &amp; Energy</a>
+              </li>
+                          <li>
+                           
+        <a href="/health-nutrition-0" data-drupal-link-system-path="node/80851">Health</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/inventions-and-discoveries" data-drupal-link-system-path="node/80594">Inventions</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/life-science" data-drupal-link-system-path="node/80585">Life Science</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/physical-science" data-drupal-link-system-path="node/80586">Physical Science</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/computers-internet-and-technology" data-drupal-link-system-path="node/81027">Technology</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/weather" data-drupal-link-system-path="node/80593">Weather</a>
+              </li>
+                          <li>
+                           
+        <a href="/science-health/weights-measures" data-drupal-link-system-path="node/81034">Weights &amp; Measures</a>
+              </li>
+        </ul>
+  
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/calendar-and-holidays" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/80862">Calendar &amp; Holidays</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/calendar-holidays/calendars" data-drupal-link-system-path="node/80540">Calendars</a>
+              </li>
+                          <li>
+                           
+        <a href="/calendar-holidays/seasons-months-days" data-drupal-link-system-path="node/80541">Seasons, Months, Days</a>
+              </li>
+                          <li>
+                           
+        <a href="/feature-archive" data-drupal-link-system-path="node/81070">Holiday Features</a>
+              </li>
+                          <li>
+                           
+        <a href="/calendar-holidays/major-holidays" data-drupal-link-system-path="node/80542">Holidays</a>
+              </li>
+        </ul>
+  
+              </li>
+                                              <li class="dropdown">
+                                             
+        <a href="/business-and-finance" class="dropdown-toggle drop-down-icon" data-drupal-link-system-path="node/167357">Business</a>
+                                <ul class="dropdown-menu">
+                              <li>
+                           
+        <a href="/business-finance/business" title="Business" data-drupal-link-system-path="node/81013">Business</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-finance/consumer-resources" title="Consumer Resources" data-drupal-link-system-path="node/81011">Consumer Resources</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-finance/economy" title="Economy" data-drupal-link-system-path="node/81014">Economy</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-finance/labor-and-employment" data-drupal-link-system-path="node/80530">Employment &amp; Labor</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-finance/personal-finance" title="Personal Finance" data-drupal-link-system-path="node/81015">Personal Finance</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-finance/poverty-and-income" title="Poverty &amp; Income" data-drupal-link-system-path="node/80531">Poverty &amp; Income</a>
+              </li>
+                          <li>
+                           
+        <a href="/business-finance/taxes" title="Taxes" data-drupal-link-system-path="node/81012">Taxes</a>
+              </li>
+        </ul>
+  
+              </li>
+                          <li>
+                           
+        <a href="/us/us-states-maps-stats" data-drupal-link-system-path="node/80737">The Fifty States</a>
+              </li>
+        </ul>
+  
+
+
+        </div>
+</nav>
+
+
+
+
+<main class="row">
+                    <article  class="col-sm-8">
+                                <div id="block-ip-breadcrumbs" class="block">
+  
+    
+        <nav role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb-navigation">
+              <li>
+                          <a href="/">Home</a> &gt;              </li>
+                <li>
+                          <a href="/encyclopedia">Columbia Encyclopedia</a> &gt;              </li>
+                <li>
+                          <a href="/encyclopedia/philosophy-and-religion">Philosophy and Religion</a> &gt;              </li>
+                <li>
+                          <a href="/encyclopedia/philosophy-and-religion/eastern-religions">Eastern Religions</a> &gt;              </li>
+                <li>
+                          <a href="/encyclopedia/philosophy-and-religion/eastern-religions/hinduism">Hinduism</a> &gt;              </li>
+                <li>
+                          Brahmo Samaj
+              </li>
+              </ol>
+  </nav>
+
+  </div>
+
+
+                                        <div id="block-citing" class="block">
+  
+    
+         
+            <div class="body"><div class="addthis_toolbox addthis_default_style" style="float:right;width:auto;height:auto;margin:0 6px 0 0;padding:0;border:1px solid #fff;background-color:#fff;">
+
+<a href="/citing.html"><img src="//i.infopls.com/images/IPcite.gif" style="vertical-align:middle;" data-pin-nopin="true" />Cite</a>
+<div class="atclear"></div></div></div>
+      
+  </div>
+<div id="block-ip-page-title" class="block">
+  
+    
+      
+  <h1 class="js-quickedit-page-title">Brahmo Samaj</h1>
+
+
+  </div>
+
+
+                        
+            
+            <section class = "main-section col-sm-8">
+                    <div id="block-ip-content" class="block">
+  
+    
+      <div class="article-detail left-gap block block-">
+
+   
+   <div>
+    
+ <b>
+  Brahmo Samaj
+ </b>
+ <span class="noindex"><span class="pron">brä´mō səmäj´ [<a href="/key-pronunciation-symbols">key</a>]</span></span> [Hindi,=society of God], Indian religious movement, founded in Kolkata (Calcutta) in 1828 by Rammohun 
+ <a href='/encyclopedia/history/asia-and-africa/south-asian-history-biographies/roy-rammohun'>
+  Roy
+ </a>. It promoted a monotheistic, reformed Hinduism with strong Islamic and Christian overtones, support for the rights of women, and opposition to such aspects of Hinduism as idolatry and animal sacrifice. Under Roy the organization attained considerable importance in E India until his death in 1833. After a decade of decline, it was revived by Debendranath Tagore in 1843. A schism divided the organization in 1865, when Keshub Chunder Sen split with Tagore and formed the Adi Brahmo Samaj, and in 1878 Sen's group itself divided. Sen's followers formed a new church, the Nava-Vidhana, while the dissidents founded the Sadharan Brahmo Samaj, which became dominant. The Brahmo Samaj movement had great influence in the 19th cent., but although it still exists, it has had little impact on 20th-century Hinduism.
+ <biblio>
+  <p>
+   See P. K. Sen, 
+   <i>
+    Biography of a New Faith
+   </i> (2 vol., 1950–54) K. C. Sen, 
+   <i>
+    The Voice of Keshub
+   </i> (1963) P. V. Kanal, 
+   <i>
+    An Introduction to Dev-Samaj
+   </i> (1965).
+  </p>
+ </biblio>
+
+
+       <ul>
+      </ul>
+ <p class="source"><i>The Columbia Electronic Encyclopedia,</i> 6th ed. Copyright © 2012, Columbia University Press. All rights reserved.</p>
+ <p class="see-more"> <strong>See more Encyclopedia articles on: </strong><a href="/encyclopedia/philosophy-and-religion/eastern-religions/hinduism">Hinduism</a></p>
+   </div>
+</div>
+
+  </div>
+
+
+            </section>
+                            <section class="main-aside col-sm-4">
+                        <div id="block-encyclopediacategories-2" class="block">
+  
+      <h2>Browse by Subject</h2>
+    
+      <div class="Cat-Block-Mobile block block-">
+   <ul>
+       <li class = ""><a href = "/encyclopedia/earth-and-the-environment">Earth and the Environment</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/earth-and-the-environment/atmosphere-and-weather">Atmosphere and Weather</a></li><li><a href ="/encyclopedia/earth-and-the-environment/biographies">Biographies</a></li><li><a href ="/encyclopedia/earth-and-the-environment/ecology-and-environmentalism">Ecology and Environmentalism</a></li><li><a href ="/encyclopedia/earth-and-the-environment/geography">Geography</a></li><li><a href ="/encyclopedia/earth-and-the-environment/geology-and-oceanography">Geology and Oceanography</a></li><li><a href ="/encyclopedia/earth-and-the-environment/minerals-mining-and-metallurgy">Minerals, Mining, and Metallurgy</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/history">History</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/history/ancient-greece-and-rome">Ancient Greece and Rome</a></li><li><a href ="/encyclopedia/history/asia-and-africa">Asia and Africa</a></li><li><a href ="/encyclopedia/history/australia-new-zealand-and-the-pacific">Australia, New Zealand, and the Pacific</a></li><li><a href ="/encyclopedia/history/biographies">Biographies</a></li><li><a href ="/encyclopedia/history/historians-and-chronicles">Historians and Chronicles</a></li><li><a href ="/encyclopedia/history/latin-america-and-the-caribbean">Latin America and the Caribbean</a></li><li><a href ="/encyclopedia/history/modern-europe">Modern Europe</a></li><li><a href ="/encyclopedia/history/united-states-canada-and-greenland">United States, Canada, and Greenland</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/literature-and-the-arts">Literature and the Arts</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/literature-and-the-arts/art-and-architecture">Art and Architecture</a></li><li><a href ="/encyclopedia/literature-and-the-arts/biographies">Biographies</a></li><li><a href ="/encyclopedia/literature-and-the-arts/classical-literature-mythology-and-folklore">Classical Literature, Mythology, and Folklore</a></li><li><a href ="/encyclopedia/literature-and-the-arts/fashion-design-and-crafts">Fashion, Design, and Crafts</a></li><li><a href ="/encyclopedia/literature-and-the-arts/journalism-and-publishing">Journalism and Publishing</a></li><li><a href ="/encyclopedia/literature-and-the-arts/language-linguistics-and-literary-terms">Language, Linguistics, and Literary Terms</a></li><li><a href ="/encyclopedia/literature-and-the-arts/literature-in-english">Literature in English</a></li><li><a href ="/encyclopedia/literature-and-the-arts/literature-in-other-modern-languages">Literature in Other Modern Languages</a></li><li><a href ="/encyclopedia/literature-and-the-arts/performing-arts">Performing Arts</a></li><li><a href ="/encyclopedia/literature-and-the-arts/scholars-and-historians">Scholars and Historians</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/medicine">Medicine</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/medicine/anatomy-and-physiology">Anatomy and Physiology</a></li><li><a href ="/encyclopedia/medicine/biographies">Biographies</a></li><li><a href ="/encyclopedia/medicine/diseases-and-conditions">Diseases and Conditions</a></li><li><a href ="/encyclopedia/medicine/divisions-diagnostics-and-procedures">Divisions, Diagnostics, and Procedures</a></li><li><a href ="/encyclopedia/medicine/drugs">Drugs</a></li><li><a href ="/encyclopedia/medicine/psychology">Psychology</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/people">People</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/people/history">History</a></li><li><a href ="/encyclopedia/people/literature-and-the-arts">Literature and the Arts</a></li><li><a href ="/encyclopedia/people/medicine">Medicine</a></li><li><a href ="/encyclopedia/people/philosophy-and-religion">Philosophy and Religion</a></li><li><a href ="/encyclopedia/people/science-and-technology">Science and Technology</a></li><li><a href ="/encyclopedia/people/social-sciences-and-the-law">Social Sciences and the Law</a></li><li><a href ="/encyclopedia/people/sports-and-games">Sports and Games</a></li></ul></li>
+       <li class = "active"><a href = "/encyclopedia/philosophy-and-religion">Philosophy and Religion</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/philosophy-and-religion/ancient-religions">Ancient Religions</a></li><li><a href ="/encyclopedia/philosophy-and-religion/biographies">Biographies</a></li><li><a href ="/encyclopedia/philosophy-and-religion/christianity">Christianity</a></li><li><a href ="/encyclopedia/philosophy-and-religion/eastern-religions">Eastern Religions</a></li><li><a href ="/encyclopedia/philosophy-and-religion/islam">Islam</a></li><li><a href ="/encyclopedia/philosophy-and-religion/judaism">Judaism</a></li><li><a href ="/encyclopedia/philosophy-and-religion/other-religious-beliefs-and-general-terms">Other Religious Beliefs and General Terms</a></li><li><a href ="/encyclopedia/philosophy-and-religion/philosophy">Philosophy</a></li><li><a href ="/encyclopedia/philosophy-and-religion/the-bible">The Bible</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/places">Places</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/places/africa">Africa</a></li><li><a href ="/encyclopedia/places/asia">Asia</a></li><li><a href ="/encyclopedia/places/australia-and-oceania">Australia and Oceania</a></li><li><a href ="/encyclopedia/places/britain-ireland-france-and-the-low-countries">Britain, Ireland, France, and the Low Countries</a></li><li><a href ="/encyclopedia/places/commonwealth-of-independent-states-and-the-baltic-nations">Commonwealth of Independent States and the Baltic Nations</a></li><li><a href ="/encyclopedia/places/germany-scandinavia-and-central-europe">Germany, Scandinavia, and Central Europe</a></li><li><a href ="/encyclopedia/places/latin-america-and-the-caribbean">Latin America and the Caribbean</a></li><li><a href ="/encyclopedia/places/oceans-continents-and-polar-regions">Oceans, Continents, and Polar Regions</a></li><li><a href ="/encyclopedia/places/spain-portugal-italy-greece-and-the-balkans">Spain, Portugal, Italy, Greece, and the Balkans</a></li><li><a href ="/encyclopedia/places/united-states-canada-and-greenland">United States, Canada, and Greenland</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/plants-and-animals">Plants and Animals</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/plants-and-animals/agriculture-and-horticulture">Agriculture and Horticulture</a></li><li><a href ="/encyclopedia/plants-and-animals/animals">Animals</a></li><li><a href ="/encyclopedia/plants-and-animals/biographies">Biographies</a></li><li><a href ="/encyclopedia/plants-and-animals/botany">Botany</a></li><li><a href ="/encyclopedia/plants-and-animals/microbes-algae-and-fungi">Microbes, Algae, and Fungi</a></li><li><a href ="/encyclopedia/plants-and-animals/plants">Plants</a></li><li><a href ="/encyclopedia/plants-and-animals/zoology-and-veterinary-medicine">Zoology and Veterinary Medicine</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/science-and-technology">Science and Technology</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/science-and-technology/astronomy-and-space-exploration">Astronomy and Space Exploration</a></li><li><a href ="/encyclopedia/science-and-technology/biochemistry">Biochemistry</a></li><li><a href ="/encyclopedia/science-and-technology/biographies">Biographies</a></li><li><a href ="/encyclopedia/science-and-technology/biology-and-genetics">Biology and Genetics</a></li><li><a href ="/encyclopedia/science-and-technology/chemistry">Chemistry</a></li><li><a href ="/encyclopedia/science-and-technology/computers-and-electrical-engineering">Computers and Electrical Engineering</a></li><li><a href ="/encyclopedia/science-and-technology/mathematics">Mathematics</a></li><li><a href ="/encyclopedia/science-and-technology/physics">Physics</a></li><li><a href ="/encyclopedia/science-and-technology/technology">Technology</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/social-sciences-and-the-law">Social Sciences and the Law</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/social-sciences-and-the-law/anthropology-and-archaeology">Anthropology and Archaeology</a></li><li><a href ="/encyclopedia/social-sciences-and-the-law/biographies">Biographies</a></li><li><a href ="/encyclopedia/social-sciences-and-the-law/economics-business-and-labor">Economics, Business, and Labor</a></li><li><a href ="/encyclopedia/social-sciences-and-the-law/education">Education</a></li><li><a href ="/encyclopedia/social-sciences-and-the-law/law">Law</a></li><li><a href ="/encyclopedia/social-sciences-and-the-law/political-science-and-government">Political Science and Government</a></li><li><a href ="/encyclopedia/social-sciences-and-the-law/sociology-and-social-reform">Sociology and Social Reform</a></li></ul></li>
+       <li class = ""><a href = "/encyclopedia/sports-and-everyday-life">Sports and Everyday Life</a> <span class="plus-en">+</span><span  class="minus-en">-</span><ul class="content-en"><li><a href ="/encyclopedia/sports-and-everyday-life/biographies">Biographies</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/crafts-and-household-items">Crafts and Household Items</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/days-and-holidays">Days and Holidays</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/fashion-and-clothing">Fashion and Clothing</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/food-and-drink">Food and Drink</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/games">Games</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/manners-and-customs">Manners and Customs</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/social-organizations">Social Organizations</a></li><li><a href ="/encyclopedia/sports-and-everyday-life/sports">Sports</a></li></ul></li>
+      </ul>
+</div>
+
+  </div>
+
+
+                </section>
+                                        <section class="main-bottom">
+                        <div id="block-encyclopediastatictext" class="block">
+  
+    
+         
+            <div class="body"><p class="source"><em>The Columbia Electronic Encyclopedia,</em> 6th ed. Copyright © 2012, Columbia University Press. All rights reserved.</p>
+</div>
+      
+  </div>
+
+
+                </section>
+
+                                     <section class="locker-dom">
+                     <div id="block-lockerdomeblock" class="block">
+  
+    
+         
+            <div class="body"><div id="ld-2559-4525"> </div>
+<script>
+<!--//--><![CDATA[// ><!--
+(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:8440289106995559,size:[0, 0],id:"ld-2559-4525"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
+//--><!]]>
+</script></div>
+      
+  </div>
+
+
+             </section>
+                     </article>
+                <aside class="col-sm-4">
+        <div class="right-section ">
+                <div id="block-ipabovethefold" class="block">
+  
+    
+         
+            <div class="body"><!-- /718/IP/abovethefoldMPU -->
+<div id="div-gpt-ad-1481558045667-0">
+  <script>
+<!--//--><![CDATA[// ><!--
+
+     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1481558045667-0'); });
+  
+//--><!]]>
+</script></div></div>
+      
+  </div>
+<div id="block-infopleasetools" class="block">
+  
+    
+         
+            <div class="body"><p><img alt="Infoplease Tools" src="/images/infotoolslogo.gif" /></p>
+
+<div class="col-sm-6">
+<p style="margin: 5px 0;"><a href="https://www.infoplease.com/video-archive">Video Library</a></p>
+
+<p style="margin: 5px 0;"><a href="/calculator">Calculator</a></p>
+
+<p style="margin: 5px 0;"><a href="/atlas/latitude-longitude">Place Finder</a></p>
+
+<p style="margin: 5px 0;"><a href="/periodictable">Periodic Table</a></p>
+
+<p style="margin: 5px 0;"><a href="/calendar">Perpetual Calendar</a></p>
+
+<p style="margin: 5px 0;"><a href="/node/83319">Homework Help</a></p>
+</div>
+
+<div class="col-sm-6">
+<p style="margin: 5px 0;"><a href="/spellcheck">Spelling Checker</a></p>
+
+<p style="margin: 5px 0;"><a href="/atlas/calculate-distance">Distance Calculator</a></p>
+
+<p style="margin: 5px 0;"><a href="/node/64201">Conversion Tool</a></p>
+
+<p style="margin: 5px 0;"><a href="/yearbyyear">Year by Year</a></p>
+
+<p style="margin: 5px 0;"><img alt="Factmonster Logo" class="factmonster" height="20" src="/images/ip_icon_factmonster.gif" style="padding-left:0;" width="22" /><a href="//www.factmonster.com/" title="Fact Monster">Fact Monster</a></p>
+</div>
+
+<div style="clear:both"> </div>
+</div>
+      
+  </div>
+<div id="block-ipmiddlewaread" class="block">
+  
+    
+         
+            <div class="body"><!-- /718/IP/middlepagetower -->
+<div id="div-gpt-ad-1481558147970-0">
+<script>
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1481558147970-0'); });
+
+//--><!]]>
+</script></div></div>
+      
+  </div>
+<div id="block-infopleasesources" class="block">
+  
+    
+         
+            <div class="body"><h4>Infoplease Sources</h4>
+
+<ul class="list-unstyled"><li>
+	<h5><a class="icon-hist" href="/node/167349">Almanacs </a></h5>
+
+	<p>A vast compendium of statistics and up-to-date facts and figures, on everything you need to know.</p>
+	</li>
+	<li>
+	<h5><a class="icon-dict" href="/dictionary">Dictionary </a></h5>
+
+	<p>An unabridged dictionary from aalii to zymurgy, including a pronunciation guide.</p>
+	</li>
+	<li>
+	<h5><a class="icon-atlas" href="/atlas">Atlas </a></h5>
+
+	<p>An atlas featuring maps and detailed profiles of all 193 countries and the 50 U.S. states.</p>
+	</li>
+	<li>
+	<h5><a class="icon-encyclopedia" href="/encyclopedia">Encyclopedia </a></h5>
+
+	<p>A current and comprehensive encyclopedia covering all the major branches of knowledge from astrophysics to Zimbabwe.</p>
+	</li>
+</ul></div>
+      
+  </div>
+<div id="block-ip3rdad" class="block">
+  
+    
+         
+            <div class="body"><!-- /718/IP/3rd ad tower -->
+<div id="div-gpt-ad-1489606341717-0">
+<script>
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489606341717-0'); });
+
+//--><!]]>
+</script></div></div>
+      
+  </div>
+<div id="block-ip4thad" class="block">
+  
+    
+         
+            <div class="body"><!-- /718/IP/4th ad -->
+<div id="div-gpt-ad-1489606431392-0">
+<script>
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489606431392-0'); });
+
+//--><!]]>
+</script></div></div>
+      
+  </div>
+
+
+        </div>
+        </aside>
+    </main>
+    <footer>
+            <nav role="navigation" aria-labelledby="block-footer-2-menu" id="block-footer-2">
+            
+  <h2 class="visually-hidden" id="block-footer-2-menu">Footer</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Popular Areas</a>
+                                <ul>
+              <li>
+        <a href="/yearbyyear" data-drupal-link-system-path="yearbyyear">Year-by-Year</a>
+              </li>
+          <li>
+        <a href="/dictionary" data-drupal-link-system-path="node/80845">Dictionary</a>
+              </li>
+          <li>
+        <a href="/thesaurus" data-drupal-link-system-path="node/80846">Thesaurus</a>
+              </li>
+          <li>
+        <a href="/encyclopedia" data-drupal-link-system-path="encyclopedia">Encyclopedia</a>
+              </li>
+          <li>
+        <a href="/us/us-states-maps-stats" data-drupal-link-system-path="node/80737">50 States</a>
+              </li>
+          <li>
+        <a href="/countries" data-drupal-link-system-path="countries">Country Profiles</a>
+              </li>
+          <li>
+        <a href="/homework-help" data-drupal-link-system-path="node/83319">Homework Center</a>
+              </li>
+          <li>
+        <a href="https://www.infoplease.com/video-archive">Watch and Learn</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Infoplease Tools</a>
+                                <ul>
+              <li>
+        <a href="/calculator" data-drupal-link-system-path="node/509">Calculator</a>
+              </li>
+          <li>
+        <a href="/spelling-check" data-drupal-link-system-path="node/80855">Spelling Checker</a>
+              </li>
+          <li>
+        <a href="/atlas/calculate-distance" data-drupal-link-system-path="atlas/calculate-distance">Distance Calculator</a>
+              </li>
+          <li>
+        <a href="/periodictable" data-drupal-link-system-path="node/80858">Periodic Table</a>
+              </li>
+          <li>
+        <a href="/atlas/latitude-longitude" data-drupal-link-system-path="atlas/latitude-longitude">Place Finder</a>
+              </li>
+          <li>
+        <a href="/conversion-calculator" data-drupal-link-system-path="node/64201">Conversion Tool</a>
+              </li>
+          <li>
+        <a href="/calendar" data-drupal-link-system-path="calendar">Perpetual Calendar</a>
+              </li>
+          <li>
+        <a href="/citing-infoplease" data-drupal-link-system-path="node/167362">Cite</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">FEN Learning</a>
+                                <ul>
+              <li>
+        <a href="http://www.funbrainjr.com/">Funbrain Jr. - Preschool &amp; Pre-K</a>
+              </li>
+          <li>
+        <a href="https://www.funbrain.com/">Funbrain - K-8 Games for Kids</a>
+              </li>
+          <li>
+        <a href="http://www.poptropica.com/">Poptropica - Virtual World for Kids</a>
+              </li>
+          <li>
+        <a href="https://www.familyeducation.com/">FamilyEducation - Parenting Advice</a>
+              </li>
+          <li>
+        <a href="https://www.teachervision.com/">TeacherVision - Teacher Resources</a>
+              </li>
+          <li>
+        <a href="https://www.factmonster.com">Fact Monster - Homework Help</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="views-element-container block" id="block-views-block-footer-view-block-1">
+  
+    
+      <div><div class="js-view-dom-id-617176b82898f559cad2c52f24586c8cc21ce0cb6ec1babea1e163809d3c3777">
+  
+  
+  
+
+      <div class="view-header">
+      <p><a href="/aboutip.html"><strong>About Infoplease</strong></a>,<br />
+Part of <a href="http://www.fen.com">FEN Learning</a></p><nav role="navigation" aria-labelledby="block-footerlastcolumn-menu" id="block-footerlastcolumn">
+            
+  <h2 class="visually-hidden" id="block-footerlastcolumn-menu">Footer last column</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/infoplease-rss-feeds" data-drupal-link-system-path="node/436026">RSS</a>
+              </li>
+          <li>
+        <a href="https://sandboxnetworks.custhelp.com/app/ask/p/27">Contact</a>
+              </li>
+          <li>
+        <a href="/linking-information-please" data-drupal-link-system-path="node/167398">Link to Us</a>
+              </li>
+          <li>
+        <a href="/node/167396" data-drupal-link-system-path="node/167396">Advertise with Infoplease</a>
+              </li>
+          <li>
+        <a href="http://fen.com/resources/agreeDisclaim.html">Terms of Use*</a>
+              </li>
+          <li>
+        <a href="http://fen.com/resources/privacyStatement.html">Privacy**</a>
+              </li>
+          <li>
+        <a href="/sitemaps" data-drupal-link-system-path="node/167445">Site Map</a>
+              </li>
+          <li>
+        <a href="/partners">Partnerships</a>
+              </li>
+          <li>
+        <a href="http://www.fen.com/agreeDisclaim.html">Disclaimer</a>
+              </li>
+          <li>
+        <a href="https://www.surveymonkey.com/r/CMB2ZSS">Take Our Website Satisfaction Survey</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+    </div>
+  
+  
+  
+
+      <div class="views-row">
+    
+  </div>
+
+  
+  
+
+  
+  
+
+      <div class="view-footer">
+      <div class="footer-below">
+<p><sup>*</sup> Updated 10/2015</p>
+<p><sup>**</sup> Updated 10/2015</p>
+</div>
+    </div>
+  
+  </div>
+</div>
+
+  </div>
+<div id="block-copyrights" class="block">
+  
+    
+         
+            <div class="body"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.list-unstyled li{display:inline-block;}
+
+/*--><!]]>*/
+</style><div class="container">
+<div class="row">
+<div class="col-sm-2">
+<aside class="footer-widget"><ul class="social list-unstyled" style="text-align:left;"><li><a href="https://www.facebook.com/InfoPleaseOfficial/"><img src="/images/ip17_social_facebook_icon.png" style="height:23px;width:auto;" /></a></li>
+	<li><a href="https://twitter.com/Info_Please"><img src="/images/ip17_social_twitter_icon.png" style="height:19px;width:auto;" /></a></li>
+	<li><a href="https://www.pinterest.com/infopleasecom"><img src="/images/ip17_social_pinterest_icon.png" style="height:23px;width:auto;" /></a></li>
+</ul></aside></div>
+
+<div class="col-sm-9">
+<p class="copyright-contents">© 2000–2017 Sandbox Networks, Inc., publishing as Infoplease</p>
+</div>
+</div>
+</div>
+</div>
+      
+  </div>
+<div id="block-ipoutofpageblock-2" class="block">
+  
+    
+         
+            <div class="body"><!-- /718/IP/outofpage -->
+<div id="div-gpt-ad-1481558598915-0">
+<script>
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1481558598915-0'); });
+
+//--><!]]>
+</script></div></div>
+      
+  </div>
+
+
+    </footer>
+</div>
+    <div  class="hidden">
+            <nav role="navigation" aria-labelledby="block-footerlastcolumn-menu" id="block-footerlastcolumn">
+            
+  <h2 class="visually-hidden" id="block-footerlastcolumn-menu">Footer last column</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/infoplease-rss-feeds" data-drupal-link-system-path="node/436026">RSS</a>
+              </li>
+          <li>
+        <a href="https://sandboxnetworks.custhelp.com/app/ask/p/27">Contact</a>
+              </li>
+          <li>
+        <a href="/linking-information-please" data-drupal-link-system-path="node/167398">Link to Us</a>
+              </li>
+          <li>
+        <a href="/node/167396" data-drupal-link-system-path="node/167396">Advertise with Infoplease</a>
+              </li>
+          <li>
+        <a href="http://fen.com/resources/agreeDisclaim.html">Terms of Use*</a>
+              </li>
+          <li>
+        <a href="http://fen.com/resources/privacyStatement.html">Privacy**</a>
+              </li>
+          <li>
+        <a href="/sitemaps" data-drupal-link-system-path="node/167445">Site Map</a>
+              </li>
+          <li>
+        <a href="/partners">Partnerships</a>
+              </li>
+          <li>
+        <a href="http://www.fen.com/agreeDisclaim.html">Disclaimer</a>
+              </li>
+          <li>
+        <a href="https://www.surveymonkey.com/r/CMB2ZSS">Take Our Website Satisfaction Survey</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-infolinks" class="block">
+  
+    
+         
+            <div class="body"><div class="block" id="block-infolinks">
+<div class="body"><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+<!--//--><![CDATA[// ><!--
+
+var infolinks_pid = 2950542;
+var infolinks_wsid = 0;
+
+//--><!]]]]><![CDATA[>
+
+//--><!]]>
+</script><script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script></div>
+</div>
+</div>
+      
+  </div>
+
+
+    </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"encyclopedia\/philosophy-and-religion\/eastern-religions\/hinduism\/brahmo-samaj","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxTrustedUrl":{"form_action_cc611e1d":true},"user":{"uid":0,"permissionsHash":"7477a9b249ff39cf8abeca80fd66ff3a59ad294d7441d512d6b8868fbf075d99"}}</script>
+<script src="/sites/infoplease.com/files/js/js_8MeMNBAxKOZJt0b-CvJukMHlTD8DexvQ9oQIVk39Vo8.js"></script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#username=bethrowen"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc5994cfb8","applicationID":"39068115,41957789","transactionName":"NgAGbRRTXRFUBUBQXg9KJVoSW1wMGiJGTEEACTh6CUBWPnMJRlRtJwoWVCRHWg5RA0YUDxMACl0DQGMOVAVRUV4NAQFLIF1BD3QFQFBeDw==","queueTime":0,"applicationTime":533,"atts":"GkcFG1xJTh8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,1744 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024">
+	<meta name="p:domain_verify" content="fd249f05278fa781fea9db4c3c5d8c73"/>
+	<title>What Makes a Person Charismatic?</title>
+	<meta name="description" content="For weeks I had been researching what science has to say about the power of charisma. Why do some people so clearly have it and others&amp;#8230;">
+	<meta name="keywords" content="Adam Piore, AdolfHitler, Alexander Todorov, Anthony Jack, Barack Obama, Bart Campolo, Bart Compolo, Bill Clinton, Daniel Kahneman, David Aberbach, Dodge Coronet, Franklin Delano Roosevelt, Jochen Menges, Joel Osteen, John Antonakis, MarkOppenheimer, Max Weber, MonicaLewinsky, Pentecostal Movement, Princeton psychologist, Richard Boyatzis, TV preacher, Tony Campolo, Tony Compolo, Uffe Schj&oslash;dt, a citizen, default mode network, executive and social cognitivenetworks, experimentalpsychologist, functional magnetic resonance imaging, humanist chaplain, magnetic preacher, magnetic resonance imaging, max weber, presidential elections, professor of organizationalbehavior, and the director of the doctoral program in management, spiritual advisor to BillClinton, super-popular TV preacher, task-negative network">
+
+	<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NautilusMag">
+<meta name="twitter:creator" content="@NautilusMag">
+<meta name="twitter:title" content="The Anatomy of Charisma">
+<meta name="twitter:description" content="For weeks I had been researching what science has to say about the power of charisma. Why do some people so clearly have it and others&amp;#8230;">
+<meta name="twitter:image" content="http://static.nautil.us/11678_9c453cf6194406f48a40272eec8de2a8.jpg">
+
+	<meta property='og:site_name' content='Nautilus'/>
+	<meta property='og:type' content='website'/>
+	<meta property='og:url' content='http://nautil.us/issue/45/power/the-anatomy-of-charisma'/>
+	<meta property='og:title' content='The Anatomy of Charisma - Issue 45: Power - Nautilus'/>
+	<meta property='og:description' content='For weeks I had been researching what science has to say about the power of charisma. Why do some people so clearly have it and others&amp;#8230;'/>
+	<meta property='og:image' content='http://static.nautil.us/11678_9c453cf6194406f48a40272eec8de2a8.jpg'/>
+	
+
+
+
+    <meta property="fb:admins" content="520129772" />
+   <link rel="canonical" href="http://nautil.us/issue/45/power/the-anatomy-of-charisma" />
+    <meta name="citation_title" content="The Anatomy of Charisma">
+    <meta name="citation_online_date" content="2017-02-16">
+    <meta name="citation_author" content="Adam Piore">
+
+
+
+
+    <!-- Favicon -->
+	<link rel="shortcut icon" href="/favicon.ico" />
+		
+	<!-- Stylesheets B-->
+<!--	-->	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/assets/site/css/style.css?1492544759ed"/>
+
+
+
+
+	
+	<!-- Header scripts -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/assets/site/js/lib/jquery-1.9.1.min.js"><\/script>')</script>
+	
+<!--	--><!--		<script type="text/javascript" src="//use.typekit.net/dof7jxl.js"></script>		-->
+<!--	--><!--		<script type="text/javascript" src="//use.typekit.net/nos6dfk.js"></script>-->
+<!--	--><!--	-->
+<!--	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>-->
+
+    <script src="/assets/site/js/lib/jquery.transit.min.js"></script>
+    <script src="/assets/site/js/lib/jquery.lazyload.min.js"></script>
+    <script src="/assets/site/js/lib/modernizr.custom-2.6.2.min.js"></script>
+
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script>window.html5 || document.write('<script src="/assets/site/js/lib/html5shiv.js"><\/script>')</script>
+	<script src="/assets/site/js/lib/selectivizr.min.1.0.2.js"></script>
+	<![endif]-->
+		
+	<script type="text/javascript">
+		document.domain = "nautil.us";
+	</script>
+
+	<link rel="alternate" type="application/atom+xml" title="Nautilus RSS" href="/rss/all" />
+
+		<!-- Key Page View pixel -->
+	<script type="text/javascript">
+	var fb_param = {};
+	fb_param.pixel_id = '6010074328884';
+	fb_param.value = '0.00';
+	fb_param.currency = 'USD';
+	(function(){
+	  var fpw = document.createElement('script');
+	  fpw.async = true;
+	  fpw.src = '//connect.facebook.net/en_US/fp.js';
+	  var ref = document.getElementsByTagName('script')[0];
+	  ref.parentNode.insertBefore(fpw, ref);
+	})();
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6010074328884&amp;value=0&amp;currency=USD" /></noscript>
+
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '1577739302525832');
+			fbq('track', "PageView");</script>
+		<noscript><img height="1" width="1" style="display:none"
+					   src="https://www.facebook.com/tr?id=1577739302525832&ev=PageView&noscript=1"
+			/></noscript>
+		<!-- End Facebook Pixel Code -->
+
+	
+</head>
+
+<body  class="page-normal-article page-article cid_1981 noaccess">
+
+
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+//  ga('create', '<?//= ci()->config->item('ga_tracking_id'); ?>//', 'auto');
+//  ga('require', 'displayfeatures');
+//  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "18298255" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=18298255&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<div class="main-wrap">
+	<header id="main-header" class="main-header">
+		
+		<div class="main-nav navtrans">
+
+	<h2 class="site-logo"><a class="navtrans" href="/" title="Nautilus">
+		Nautilus
+
+	</a></h2>
+<img  class="print-render psite-logo"  src="http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png"/> 
+
+	<nav class="primary-nav navtrans" role="navigation">
+		<ul>
+<li data-expnd=".search-bar"  class="search-bar-trigger"><a href="#"><i class="icon-search"></i></a></li>
+<li data-expnd=".issue-browser" class="issue-browser-trigger"><a href="/issues">Issues</a></li>
+<li data-expnd=".topic-browser-wrap" class="topic-bar-trigger"><a href="#">Topics</a></li>
+<li><a href="/blog">Blog</a></li>
+<li  data-expnd=".allsubsshow"  class="newsletter-signup">
+		<div class="newsletter-signup-trigger"><span class="newsletter-thanks">Thanks for Joining the </span>Newsletter</div>
+</li>
+
+<li><a href="http://www.facebook.com/NautilusMag" title="Facebook" target="_blank"><i class="icon-facebook"></i></a></li>
+<li><a href="http://twitter.com/NautilusMag" title="Twitter" target="_blank"><i class="icon-twitter"></i></a></li>
+
+
+
+<!--            <li><a href="http://shop.nautil.us/nautilus-quarterly" target="_blank">Print Quarterly</a></li>-->
+
+		</ul>
+	</nav>
+
+	
+
+			<div id="thdcoder" class="navtrans" style="float: right;width: 176px;height: 79px;margin-left: 3px;position: relative;">
+			<a target= "_blank" title="Nautilus Prime & Print Subscription" href="http://shop.nautil.us/nautilus-print-edition/">
+				<img class="three-dcover" width="156" height="79" style="position:absolute;right:7px;bottom:-1px; "src="http://nautilus-prod.s3.amazonaws.com/nav-3d-mag.png" />
+			</a>
+		</div>
+
+	
+
+
+
+
+
+
+
+	<ul class="social-nav navtrans">
+		<li><a href="http://shop.nautil.us/" target="_blank">Store</a></li>
+
+
+
+					<li><a href="/primeuser" >Prime
+
+				</a></li>
+
+		
+
+		<!--<li><a href="#" >Donate</a></li>-->
+
+
+
+
+
+
+
+
+
+	</ul>
+
+
+
+</div>
+
+<div id="allsubs" class="allsubsshow subhidden">
+<div class="subcon">
+ <div class="centercon">
+
+     <!-- Begin MailChimp Signup Form -->
+     <form action="//nautil.us6.list-manage.com/subscribe/post?u=e299ad34aa80671ada72a819a&amp;id=dc96ec7a9d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+<table id="mc-sign">
+    <tr><td class="mc_header">
+            SELECT NEWSLETTERS AND SUBMIT CONTACT DETAILS&#8230;
+
+        </td>     <td><div id="close_mail"> </div> </td></tr>
+    <tr><td>
+            <ul>
+                <li><input type="checkbox" CHECKED value="2" name="group[1][2]" id="mce-group[1]-1-1"><label for="mce-group[1]-1-1"><strong>New chapters</strong>&nbsp;&nbsp;&nbsp;<span class="day_dlvr">Thursdays</span></label><p> Nautilus publishes a new chapter of feature stories on its monthly theme, every Thursday.<br/>Sign up to this list to stay up to date on the latest and greatest.</p></li>
+                <li><input type="checkbox" CHECKED value="1" name="group[1][1]" id="mce-group[1]-1-0"><label for="mce-group[1]-1-0"><strong>Editor's picks</strong>&nbsp;&nbsp;&nbsp;<span class="day_dlvr">Sundays</span></label><p>Read about the Nautilus stories and blogs we've been thinking about over the past week.</p></li>
+<!--                <li><input type="checkbox" CHECKED value="4" name="group[1][4]" id="mce-group[1]-1-2"><label for="mce-group[1]-1-2"><strong>Three Sentence Science</strong>&nbsp;&nbsp;&nbsp;<span class="day_dlvr">Daily</span></label><p>Breaking news and quirky facts from the web, seen from the Nautilus perspective and linked to our own stories.</p></li>-->
+            </ul>
+
+
+    </td>
+        <td class="mc_inputcell">
+            <input type="text" value="" name="NAME" class="required" placeholder="YOUR NAME" id="mce-NAME"><br/>
+            <input type="email" value="" name="EMAIL" placeholder = "YOUR EMAIL" class="required email" id="mce-EMAIL"><br/>
+            <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button">
+
+
+        </td></tr>
+
+
+</table>
+
+
+
+
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_e299ad34aa80671ada72a819a_dc96ec7a9d" tabindex="-1" value=""></div>
+</form>
+
+
+</div>
+     </div>
+
+     <!--End mc_embed_signup-->
+
+    </div>
+<div class="issue-browser">
+	<div class="issue-browser-inner">
+		<ul class="issue-browser-nav">
+					<li class="issue-browser-prev disabled"><i class="icon-left" title="Previous"></i></li>
+			<li class="issue-browser-next"><i class="icon-right" title="Next"></i></li>
+				</ul>
+		<div class="wrap">
+			<ul class="issue-browser-carousel">
+				
+
+
+
+								<li>
+
+					
+																<a class="tp_"  href="/issue/47/consciousness">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/12055_723e8f97fde15f7a8d5ff8d558ea3f16.jpg" alt="047_TH-2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 047																					</span>
+						<h2 class="issue-title">Consciousness</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/46/balance">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/11778_6c015f9b69e6a50c3d30b75ee796bc46.png" alt="Balance_CURTAIN-THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 046																					</span>
+						<h2 class="issue-title">Balance</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/45/power">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/11535_86d5cf1cd2afee605557c297315be15b.png" alt="Power_TH_2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 045																					</span>
+						<h2 class="issue-title">Power</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/44/luck">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/11346_6a41574847522a3bd0eb4a9986c5e13c.jpg" alt="Luck_TH-2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 044																					</span>
+						<h2 class="issue-title">Luck</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/43/heroes">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/11015_aa5bc34d6bd5933dd73ae2251bff88e8.png" alt="Heroes_TH-1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 043																					</span>
+						<h2 class="issue-title">Heroes</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/42/fakes">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/10780_a12f69495f41bb3b637ba1b6238884d6.jpg" alt="Fakes_TH" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 042																					</span>
+						<h2 class="issue-title">Fakes</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/41/selection">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/10525_ebd64e2bf193fc8c658af2b91952ce8d.jpg" alt="Selection-TH-1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 041																					</span>
+						<h2 class="issue-title">Selection</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/40/learning">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/10306_90c34175923a36ab7a5de4b981c1972f.jpg" alt="LEARNING_TH-2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 040																					</span>
+						<h2 class="issue-title">Learning</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/39/sport">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/10007_9cdf26568d166bc6793ef8da5afa0846.jpg" alt="Sport_THUMB-2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 039																					</span>
+						<h2 class="issue-title">Sport</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/38/noise">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/9731_535b8a7c260ccef00aa9ac0ecde6067f.png" alt="Noise_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 038																					</span>
+						<h2 class="issue-title">Noise</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/37/currents">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/9454_840b37847dbecfa4be4cf70cfade8d1d.jpg" alt="Currents_TH-3" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 037																					</span>
+						<h2 class="issue-title">Currents</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/36/aging">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/9122_9fdef890a0a6f2496628626367d39280.png" alt=" Aging_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 036																					</span>
+						<h2 class="issue-title">Aging</h2>
+					</a>
+																
+				</li>
+							<li>
+
+					
+																<a class="tp_"  href="/issue/35/boundaries">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/8544_29301521774ff3cbd26652b2d5c95996.png" alt="Boundaries_THUMB-preview" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 035																					</span>
+						<h2 class="issue-title">Boundaries</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/34/adaptation">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/8526_7d1e6b02af59efefd53323255d6ded3d.png" alt="Adaptation_CURTAIN_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 034																					</span>
+						<h2 class="issue-title">Adaptation</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/33/attraction">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/8252_88b057334964aecf7cc034c38011add0.png" alt="Attraction_THUMB-F." width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 033																					</span>
+						<h2 class="issue-title">Attraction</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/32/space">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/8003_75a7c30fc0063c4952d7eb044a3c0897.jpg" alt="Space_TH." width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 032																					</span>
+						<h2 class="issue-title">Space</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/31/stress">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/7527_11958dfee29b6709f48a9ba0387a2431.png" alt="Stress_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 031																					</span>
+						<h2 class="issue-title">Stress</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/30/identity">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/7522_67e235e7f2fa8800d8375409b566e6b6.png" alt="Identity_TH-1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 030																					</span>
+						<h2 class="issue-title">Identity</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/29/scaling">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/7248_1f4183315762e30ea441d3caef5e64ad.jpg" alt="029_Scaling_TH-2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 029																					</span>
+						<h2 class="issue-title">Scaling</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/28/2050">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/7059_84cdde86a4560c17d00c9c437fc2f0da.png" alt="028_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 028																					</span>
+						<h2 class="issue-title">2050</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/27/dark-matter">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/6845_174b39525e01b7542b3ee27ac7251d2c.jpg" alt="027_THUMB_F1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 027																					</span>
+						<h2 class="issue-title">Dark Matter</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/26/color">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/6543_12bcd658ef0a540cabc36cdf2b1046fd.jpg" alt="026_CURTAIN_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 026																					</span>
+						<h2 class="issue-title">Color</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/25/water">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/6262_481fbfa59da2581098e841b7afc122f1.jpg" alt="025-Water_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 025																					</span>
+						<h2 class="issue-title">Water</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/24/error">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/6074_2281f5c898351dbc6dace2ba201e7948.jpg" alt="024_THUMB-F." width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 024																					</span>
+						<h2 class="issue-title">Error</h2>
+					</a>
+																
+				</li>
+							<li>
+
+					
+																<a class="tp_"  href="/issue/23/dominoes">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/5755_840d68cbbbfa627cd4635408a6c82009.png" alt="023-THUMB-1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 023																					</span>
+						<h2 class="issue-title">Dominoes</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/22/slow">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/5502_13d4635deccc230c944e4ff6e03404b5.png" alt="022_THUMB-2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 022																					</span>
+						<h2 class="issue-title">Slow</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/21/information">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/5283_5ca359ab1e9e3b9c478459944a2d9ca5.png" alt="Information_THUMB-1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 021																					</span>
+						<h2 class="issue-title">Information</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/20/creativity">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/5027_853c68de7253cdd55dc37be410a45c60.jpg" alt="020_Creativity_THUMB-v2" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 020																					</span>
+						<h2 class="issue-title">Creativity</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/101/in-our-nature">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/4848_3e9f0fc9b2f89e043bc6233994dfcf76.jpg" alt="SP_Nature_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Special Issue
+																					</span>
+						<h2 class="issue-title">In Our Nature</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/19/illusions">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/4674_1f5795e7b93f423c397e6f7aaff80133.png" alt="019_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 019																					</span>
+						<h2 class="issue-title">Illusions</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/18/genius">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/4436_a1f0cf94512f963e5ed4edd9af70e2cc.jpg" alt="018_THUMB_1" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 018																					</span>
+						<h2 class="issue-title">Genius</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/17/big-bangs">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/4128_770c0e7e2af0db73409aa2431aa8f33e.jpg" alt="Cover_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 017																					</span>
+						<h2 class="issue-title">Big Bangs</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/16/nothingness">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/3887_9649dec6196d730c5e024f204477d8d1.png" alt="16_THUMB." width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 016																					</span>
+						<h2 class="issue-title">Nothingness</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/15/turbulence">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/3677_71d7232b9fed020ca23729017873089e.png" alt="015_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 015																					</span>
+						<h2 class="issue-title">Turbulence</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/14/mutation">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/3468_322f62469c5e3c7dc3e58f5a4d1ea399.png" alt="14_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 014																					</span>
+						<h2 class="issue-title">Mutation</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/13/symmetry">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/3205_9ef2ed4b7fd2c810847ffa5fa85bce38.png" alt="Issue13_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 013																					</span>
+						<h2 class="issue-title">Symmetry</h2>
+					</a>
+																
+				</li>
+							<li>
+
+					
+																<a class="tp_"  href="/issue/12/feedback">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/3037_10ce03a1ed01077e3e289f3e53c72813.jpg" alt="012_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 012																					</span>
+						<h2 class="issue-title">Feedback</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/11/light">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/2713_403ea2e851b9ab04a996beab4a480a30.png" alt="011_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 011																					</span>
+						<h2 class="issue-title">Light</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/10/mergers--acquisitions">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/2470_7cc234202e98d2722580858573fd0817.png" alt="Issue-010_COVER-THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 010																					</span>
+						<h2 class="issue-title">Mergers & Acquisitions</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/9/time">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/2220_d2a27e83d429f0dcae6b937cf440aeb1.png" alt="Time_COVER_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 009																					</span>
+						<h2 class="issue-title">Time</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/8/home">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/1899_6be5336db2c119736cf48f475e051bfe.png" alt="SpaceNest_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 008																					</span>
+						<h2 class="issue-title">Home</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/7/waste">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/1639_3c1e4bd67169b8153e0047536c9f541e.png" alt="007_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 007																					</span>
+						<h2 class="issue-title">Waste</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/6/secret-codes">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/1342_5e1b18c4c6a6d31695acbae3fd70ecc6.png" alt="Issue6_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 006																					</span>
+						<h2 class="issue-title">Secret Codes</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/5/fame">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/1040_537d9b6c927223c796cac288cced29df.png" alt="Fame_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 005																					</span>
+						<h2 class="issue-title">Fame</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/4/the-unlikely">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/796_35cf8659cfcb13224cbd47863a34fc58.png" alt="004_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 004																					</span>
+						<h2 class="issue-title">The Unlikely</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/3/in-transit">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/586_605ff764c617d3cd28dbbdd72be8f9a2.png" alt="003_thumb" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 003																					</span>
+						<h2 class="issue-title">In Transit</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/2/uncertainty">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/288_48aedb8880cab8c45637abc7493ecddd.png" alt="Uncertainty_THUMB" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 002																					</span>
+						<h2 class="issue-title">Uncertainty</h2>
+					</a>
+																
+																<a class="tp_"  href="/issue/1/what-makes-you-so-special">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/87_c7e1249ffc03eb9ded908c236bd1996d.jpg" alt="" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+																								Issue 001																					</span>
+						<h2 class="issue-title">What Makes You So Special</h2>
+					</a>
+																
+				</li>
+							<li>
+
+					
+																<a class="tp_"  href="/issue/0/the-story-of-nautilus">
+
+											
+						<div class="article-thumb">
+							<img src="http://static.nautil.us/51_2838023a778dfaecdc212708f721b788.jpg" alt="" width="230" height="130" />
+						</div>
+						<span class="article-tag">
+															PREVIEW ISSUE
+													</span>
+						<h2 class="issue-title">The Story of Nautilus</h2>
+					</a>
+																
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+				</li>
+						</ul>
+		</div>
+
+		
+		<div class="issue-browser-footer">
+			<a href="/issues" class="button">See Issue Library</a>
+
+
+			
+
+		</div>
+	</div>
+</div>
+<div class="search-bar">
+	<div class="search-bar-inner">
+		<div class="wrap">
+			<p class="search-bar-help">Enter Search Below&hellip;</p>
+						<input id='search_term' type="text" maxlength="255" name="search_term" class="search-field" value="" autocomplete="off" />
+			<button  class="search-submit">Search</button >
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div class="topic-browser-wrap">
+<div class="topic-browser">
+
+
+
+	<div class="featured">
+		<div class="arthdr">
+			TRENDING TOPIC
+		</div>
+		<a href="/term/f/Physics">
+			<div class="secthdr topic">
+				Physics			</div>
+		</a>
+		<a href="/issue/47/consciousness/is-matter-conscious">
+			<div class="trending chaptitle">
+				<img src="http://static.nautil.us/12072_c54c1353a13f0caf7c9d6fbbf57999f7.png"><br>
+				Is Matter Conscious?			</div>
+		</a>
+	</div>
+
+	<div class="column secrdmr">
+
+				<a class=""  href="/term/f/Aerodynamics">Aerodynamics</a><br>
+		<a class=""  href="/term/f/Aliens">Aliens</a><br>
+		<a class=""  href="/term/f/Animals">Animals</a><br>
+		<a class=""  href="/term/f/Anthropology">Anthropology</a><br>
+		<a class=""  href="/term/f/Archaeology">Archaeology</a><br>
+		<a class=""  href="/term/f/Architecture">Architecture</a><br>
+		<a class=""  href="/term/f/Art">Art</a><br>
+		<a class=""  href="/term/f/Artificial Intelligence">Artificial Intelligence</a><br>
+		<a class=""  href="/term/f/Astronomy">Astronomy</a><br>
+		<a class=""  href="/term/f/Chemistry">Chemistry</a><br>
+		<a class=""  href="/term/f/Climate">Climate</a><br>
+		<a class=""  href="/term/f/Cognitive Science">Cognitive Science</a><br>
+ </div><div class="column secrdmr">
+		<a class=""  href="/term/f/Computer Science">Computer Science</a><br>
+		<a class=""  href="/term/f/Cryptography">Cryptography</a><br>
+		<a class=""  href="/term/f/Earth Science">Earth Science</a><br>
+		<a class=""  href="/term/f/Economics">Economics</a><br>
+		<a class=""  href="/term/f/Education">Education</a><br>
+		<a class=""  href="/term/f/Environment">Environment</a><br>
+		<a class=""  href="/term/f/Evolution">Evolution</a><br>
+		<a class=""  href="/term/f/Fiction">Fiction</a><br>
+		<a class=""  href="/term/f/Fine Art">Fine Art</a><br>
+		<a class=""  href="/term/f/Food">Food</a><br>
+		<a class=""  href="/term/f/Genetics">Genetics</a><br>
+		<a class=""  href="/term/f/Health">Health</a><br>
+ </div><div class="column secrdmr">
+		<a class=""  href="/term/f/History">History</a><br>
+		<a class=""  href="/term/f/Information Theory">Information Theory</a><br>
+		<a class=""  href="/term/f/Insects">Insects</a><br>
+		<a class=""  href="/term/f/Linguistics">Linguistics</a><br>
+		<a class=""  href="/term/f/Literature">Literature</a><br>
+		<a class=""  href="/term/f/Math">Math</a><br>
+		<a class=""  href="/term/f/Memoir">Memoir</a><br>
+		<a class=""  href="/term/f/Microbiology">Microbiology</a><br>
+		<a class=""  href="/term/f/Mortality">Mortality</a><br>
+		<a class=""  href="/term/f/Music">Music</a><br>
+		<a class=""  href="/term/f/Neuroscience">Neuroscience</a><br>
+		<a class=""  href="/term/f/Oceanography">Oceanography</a><br>
+ </div><div class="column secrdmr">
+		<a class=""  href="/term/f/Paleontology">Paleontology</a><br>
+		<a class=""  href="/term/f/Philosophy">Philosophy</a><br>
+		<a class=""  href="/term/f/Physics">Physics</a><br>
+		<a class=""  href="/term/f/Physiology">Physiology</a><br>
+		<a class=""  href="/term/f/Psychology">Psychology</a><br>
+		<a class=""  href="/term/f/Reproduction">Reproduction</a><br>
+		<a class=""  href="/term/f/Science Practice">Science Practice</a><br>
+		<a class=""  href="/term/f/Sociology">Sociology</a><br>
+		<a class=""  href="/term/f/Technology">Technology</a><br>
+		<a class=""  href="/term/f/The Web">The Web</a><br>
+</div>
+
+
+
+
+
+</div>
+
+</div>
+		
+	</header>
+
+
+	<div class="main-content">
+		
+
+
+<div id="popwrap" class="navtrans">
+	
+
+
+
+
+
+
+<div class="Pop">
+<div class="Pop__head">
+<span>
+MOST POPULAR
+</span>
+
+
+ </div>
+<div style="position:relative;width:45px;background-color: transparent;">
+    <div class="Pop_left--wrap"></div>
+    <div class="Pop__left Pop__nav "><i id="popleft" class="icon-left Pop__goleft" title="Previous"></i></div>
+</div>
+
+    <div class="Pop__wrap">
+
+        <div class="Pop__track">
+
+
+
+            
+            
+
+<a href="/issue/47/consciousness/is-matter-conscious?utm_source=ticker&utm_medium=article&utm_campaign=is-matter-conscious">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/12072_c54c1353a13f0caf7c9d6fbbf57999f7.png)"></div>
+<div class="cel_text">Is Matter Conscious?</div>
+</div>
+</a>
+
+<a href="/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too?utm_source=ticker&utm_medium=article&utm_campaign=darwin-was-a-slacker-and-you-should-be-too">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/11999_0f34314d2dd0c1b9311cb8f40eb4f255.jpg)"></div>
+<div class="cel_text">Darwin Was a Slacker and You Should Be Too</div>
+</div>
+</a>
+
+<a href="/issue/49/the-absurd/why-men-dont-live-as-long-as-women?utm_source=ticker&utm_medium=article&utm_campaign=why-men-dont-live-as-long-as-women">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/12012_652040ab6d88c96e6f3d269a3e9d1615.png)"></div>
+<div class="cel_text">Why Men Don’t Live as Long as Women</div>
+</div>
+</a>
+
+<a href="/issue/47/consciousness/what-my-stroke-taught-me?utm_source=ticker&utm_medium=article&utm_campaign=what-my-stroke-taught-me">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/12034_f45ab3a13b96528881ffe7a63b547e79.jpg)"></div>
+<div class="cel_text">What My Stroke Taught Me</div>
+</div>
+</a>
+
+<a href="/issue/38/noise/the-sound-so-loud-that-it-circled-the-earth-four-times?utm_source=ticker&utm_medium=article&utm_campaign=the-sound-so-loud-that-it-circled-the-earth-four-times">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/9815_4589b8b6a21b964025a84f6499070b83.png)"></div>
+<div class="cel_text">The Sound So Loud That It Circled the Earth Four Times</div>
+</div>
+</a>
+
+<a href="/issue/47/consciousness/the-spiritual-reductionist-consciousness-of-christof-koch?utm_source=ticker&utm_medium=article&utm_campaign=the-spiritual-reductionist-consciousness-of-christof-koch">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/12040_6db812399de3afc15a13018a77f70aed.png)"></div>
+<div class="cel_text">The Spiritual, Reductionist Consciousness of Christof Koch</div>
+</div>
+</a>
+
+<a href="/issue/13/symmetry/what-do-animals-see-in-a-mirror?utm_source=ticker&utm_medium=article&utm_campaign=what-do-animals-see-in-a-mirror">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/3289_645e6bfdd05d1a69c5e47b20f0a91d46.png)"></div>
+<div class="cel_text">What Do Animals See in a Mirror?</div>
+</div>
+</a>
+
+<a href="/issue/33/attraction/shell-text-me-shell-text-me-not?utm_source=ticker&utm_medium=article&utm_campaign=shell-text-me-shell-text-me-not">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/8306_7fc9fd4c6654dea5be92c8ffd53bea1e.png)"></div>
+<div class="cel_text">She’ll Text Me, She’ll Text Me Not</div>
+</div>
+</a>
+
+<a href="/issue/47/consciousness/do-aliens-have-inalienable-rights?utm_source=ticker&utm_medium=article&utm_campaign=do-aliens-have-inalienable-rights">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/12116_9df2afabcdd08dbe0db7a49e509403c9.png)"></div>
+<div class="cel_text">Do Aliens Have Inalienable Rights?</div>
+</div>
+</a>
+
+<a href="/issue/42/fakes/is-physical-law-an-alien-intelligence?utm_source=ticker&utm_medium=article&utm_campaign=is-physical-law-an-alien-intelligence">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/10890_3047ee053d45323e65192012176a2a1c.png)"></div>
+<div class="cel_text">Is Physical Law an Alien Intelligence?</div>
+</div>
+</a>
+
+<a href="/issue/46/balance/why-you-feel-the-urge-to-jump?utm_source=ticker&utm_medium=article&utm_campaign=why-you-feel-the-urge-to-jump">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/12008_b6c8cf4c587f2ead0c08955ee6e2502b.png)"></div>
+<div class="cel_text">Why You Feel the Urge to Jump</div>
+</div>
+</a>
+
+<a href="/issue/46/balance/survival-of-the-friendliest?utm_source=ticker&utm_medium=article&utm_campaign=survival-of-the-friendliest">
+<div class="Pop__cell">
+<div class="Pop__img" style="background-image: url(http://static.nautil.us/11949_3463ba87bdc01378649630ed94f57eef.png)"></div>
+<div class="cel_text">Survival of the Friendliest</div>
+</div>
+</a>
+
+
+
+
+
+        </div>
+        <div class="Pop_right--wrap">
+
+        </div>
+        <div class="Pop__nav Pop__right active">
+            <i class="icon-right" id="popright" title="Next"></i>
+        </div>
+    </div>
+
+
+    </div>
+
+
+
+</div>
+
+
+
+
+<!--googleon: all-->
+<article itemscope itemtype="http://schema.org/Article" id="main-article-1981" data-aid="1981"  class="main-article nomess">
+	<div class="article-resume">
+		<div class="wrap">
+			<p class="article-resume-trigger">Resume Reading — <span class="article-title">The Anatomy of Charisma</span></p>
+			<div class="close-article-resume">Close</div>
+		</div>
+	</div>
+
+	
+
+			<section style="display:block;" class="leaderboard-ad-belt art">
+			<div class="leaderboard-ad-belt-inner hp" style="padding:0px;">
+				<!--ad-970x90-art.php-->
+<script type='text/javascript'>
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/187856151/970x90_ART:LG_leaderboard', [970, 90], 'div-gpt-ad-1463685280858-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+
+<div id='div-gpt-ad-1463685280858-0' class="hpbillboard-ad" style="width: 970px;margin: 0px auto;">
+	<!--[if lte IE 9]>
+	<script type='text/javascript'>
+	$(window).load(function(){
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1463685280858-0'); });
+	});
+	</script>
+	<![endif]-->
+
+	<!--[if !IE | gt IE 9]>-->
+	<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1463685280858-0'); });
+	</script>
+	<!--<![endif]-->
+</div>
+
+
+
+
+			</div>
+		</section>
+
+	
+
+	<header class="article-header">
+
+					
+
+
+				<div class="banner" style="position:relative; background-image: url(http://static.nautil.us/11678_9c453cf6194406f48a40272eec8de2a8.jpg);">
+					<img itemprop="image" style="display:none;" src="http://static.nautil.us/11678_9c453cf6194406f48a40272eec8de2a8.jpg" alt="Nautilus"/>
+
+					
+										
+
+				</div>
+
+
+
+
+
+						
+
+				
+				<span class="article-tag">
+
+			<table class="termtag"><tr>
+					<td><a href="/term/l/Ideas">Ideas</a></td>
+
+					<td class="article-tag-pipe">&nbsp;</td><td class="article-tag-focus"><a href="/term/f/Psychology">Psychology</a></td>
+				</tr></table>
+
+		</span>
+						<hgroup>
+				
+
+
+
+				<h1 itemprop="headline" class="article-title">The Anatomy of Charisma</h1>
+									<h2 itemprop="alternativeHeadline" class="article-subtitle">
+						What makes a person magnetic and why we should be wary.					</h2>
+							</hgroup>
+
+		
+
+										<div class="byline">
+				<span style="display:none;" itemprop="author">Adam Piore</span>
+
+				<span>By Adam Piore</span>
+								February 16, 2017
+			</div>
+		
+		
+
+
+<section class="social-tools">
+    <ul>
+
+
+        <li><a href="#comm" class="jump-to-comments"><i class="icon-comments"></i> Add a comment </a></li>
+
+        <li><a href="https://www.facebook.com/sharer/sharer.php?s=100&p%5Bsite_name%5D=Nautilus&p%5Btype%5D=website&p%5Burl%5D=http%3A%2F%2Fnautil.us%2Fissue%2F45%2Fpower%2Fthe-anatomy-of-charisma&p%5Btitle%5D=The+Anatomy+of+Charisma+-+Issue+45%3A+Power+-+Nautilus&p%5Bsummary%5D=For+weeks+I+had+been+researching+what+science+has+to+say+about+the+power+of+charisma.+Why+do+some+people+so+clearly+have+it+and+others%26%238230%3B&p%5Bimages%5D%5B0%5D=http%3A%2F%2Fstatic.nautil.us%2F11680_1c6e02b62a98d8d9341a81521edd3426.jpg" target="_blank"  class="fb-share obnd_lnk" data-trval="the-anatomy-of-charisma" data-trlbl="facebook" data-tract="social_share"><i class="icon-facebook"></i> Facebook</a></li>
+        <li><a href="https://twitter.com/share?url=http%3A%2F%2Fnautil.us%2Fissue%2F45%2Fpower%2Fthe-anatomy-of-charisma&text=The+Anatomy+of+Charisma&via=NautilusMag" target="_blank"  class="tw-share obnd_lnk" data-trval="the-anatomy-of-charisma" data-trlbl="twitter" data-tract="social_share"><i class="icon-twitter"></i> Twitter</a></li>
+        <li><a href="mailto:?subject=Nautilus: The Anatomy of Charisma&body=I saw this article on Nautil.us and wanted to share it with you.%0D%0A---------------------------%0D%0AThe Anatomy of Charisma%0D%0APsychology:What makes a person magnetic and why we should be wary.%0D%0A%0D%0AFor weeks I had been researching what science has to say about the power of charisma.%0D%0A%0D%0Ahttp://nautil.us/issue/45/power/the-anatomy-of-charisma" class="email-share obnd_lnk" data-tract="shared" data-trlbl="emailed" data-trval="the-anatomy-of-charisma"><i class="icon-envelope"></i> Email</a></li>        <li id="share_msc" class="share_ll"><a><i class="icon-shareall"></i> Sharing</a>
+
+        <li class="more_soc closedsoc"><a href="http://www.reddit.com/submit?title=The+Anatomy+of+Charisma&url=http%3A%2F%2Fnautil.us%2Fissue%2F45%2Fpower%2Fthe-anatomy-of-charisma" target="_blank" class="rddt-share obnd_lnk" data-trval="the-anatomy-of-charisma" data-trlbl="reddit" data-tract="social_share"><i class="icon-reddit"></i> Reddit</a></li>
+        <li class="more_soc closedsoc"><a href="http://www.stumbleupon.com/badge/?url=http%3A%2F%2Fnautil.us%2Fissue%2F45%2Fpower%2Fthe-anatomy-of-charisma" target="_blank" class="stb-share obnd_lnk" data-trval="the-anatomy-of-charisma" data-trlbl="stumbleupon" data-tract="social_share"><i class="icon-stumbleupon"></i> Stumbleupon</a></li>
+        <li class="more_soc closedsoc"><a href="http://tumblr.com/share?s=&v=3&t=The+Anatomy+of+Charisma&u=http%3A%2F%2Fnautil.us%2Fissue%2F45%2Fpower%2Fthe-anatomy-of-charisma" target="_blank" class="tmb-share obnd_lnk" data-trval="the-anatomy-of-charisma" data-trlbl="tumbler" data-tract="social_share"><i class="icon-tumbler"></i> Tumblr</a></li>
+        <li class="more_soc closedsoc"><a href="https://getpocket.com/save?url=http%3A%2F%2Fnautil.us%2Fissue%2F45%2Fpower%2Fthe-anatomy-of-charisma&title=The+Anatomy+of+Charisma" target="_blank"  data-lang="en" class="pocket-share obnd_lnk" data-trval="the-anatomy-of-charisma" data-trlbl="pocket" data-tract="social_share"><i class="icon-pocket"></i> Pocket</a></li>
+
+
+        <!--<li><a href="#"><i class="icon-issue"></i> Order This Issue</a></li>-->    </ul>
+</section>
+	</header>
+
+
+
+
+
+
+
+	
+	
+	<span itemprop="description" style="display:none;">For weeks I had been researching what science has to say about the power of charisma. Why do some people so clearly have it and others&#8230;By Adam Piore </span>
+	<meta itemprop="datePublished" style="display:none;" content="2017-02-16 03:00:00"/>
+
+
+	<div class="wrap">
+
+		<div itemprop="articleBody" class="page-content">
+			<p><span class="dropcap">F</span>or weeks I had been researching what science has to say about the power of charisma. Why do some people so clearly have it and others don’t? Why do we fall so easily under its influence? Charismatics can make us feel charmed and great about ourselves. They can inspire us to excel. But they can also be dangerous. They use charisma for their own purposes, to enhance their power, to manipulate others.</p><span class="auto_add">
+<a href="http://www.nautilusthink.org/donate" target="_blank">
+<img style="width:100%;" src="http://static.nautil.us/12139_c5c548e462f63499be7e59ff9f3d8e40.png">
+</a>
+</span></p> <p>Scientists have plenty to say about charisma. Individuals with charisma tap our unfettered emotions and can shut down our rational minds. They hypnotize us. But studies show charisma is not just something a person alone possesses. It’s created by our own perceptions, particularly when we are feeling vulnerable in politically tense times. I’m going to tell you about these studies and spotlight the opinions of the neuroscientists, psychologists, and sociologists who conducted them.</p> <p>But first I want to tell you about a magnetic preacher who spent decades wowing audiences in churches across America with the holy words of Jesus. Then he lost his faith and now preaches about how to live happily without God. What scientists study about charisma, Bart Campolo lives.</p><figure class="breaker-image" data-alt="Piore_BR_Campolo"><img src="http://static.nautil.us/11683_01390c18f72b8afe9e95fc57289a6675.jpg" width="733" alt=""><figcaption><span class="caption"><strong>EXPOSING CHARISMA:</strong> Humanist chaplain Bart Campolo knows the dark side of charismatic leaders: “The essence of demagoguery is recognizing that appealing to people’s emotions is the most rational way to move them. After all, that’s where people make their moral decisions.”</span><span class="credit">Courtesy John Wright</span></figcaption></figure><p>I first read about the newly non-believing Campolo in <i>The New York Times Magazine</i> last December. “An extreme extrovert, he was brilliant before a crowd and also at ease in private conversations, connecting with everyone from country-club suburbanites to the destitute souls he often fed in his own house,” wrote Mark Oppenheimer. Campolo’s father is Tony Campolo, one of America’s superstar evangelists for the past 50 years, who counseled Bill Clinton through the Monica Lewinsky scandal, and today continues to mobilize people into a movement for Jesus’ messages of love and redemption.<br></p> <p>Who would know more about the power of charisma to both charm and deceive than a preacher’s son gone rogue? Campolo, 53, who today volunteers counseling young people as a “humanist chaplain” at the University of Southern California, didn’t disappoint. He was wonderfully frank and engaging, energetic and insightful, just like a, well, evangelical preacher.</p> <p><br></p> <p><span class="dropcap">T</span>he early 20th-century German sociologist Max Weber wrote charisma is a quality that sets an individual “apart from ordinary men,” and causes others to treat him as “endowed with supernatural, superhuman, or at least specifically exceptional powers or qualities.” Such qualities, Weber wrote, “are not accessible to the ordinary person, but are regarded as of divine origin or as exemplary, and on the basis of them the individual concerned is treated as a leader.”</p> <p>Campolo had long believed that was true. “I was convinced charisma flowed directly from God,” he told me. “It was a gift.” As he began to lose his faith, he said, “I passed through every stage of apostasy on my way to heresy, I slowly left my ability to believe in all this stuff.” He began to preach that charisma may be something you’re born with, but it wasn’t supernatural; you could employ it at will. “You can use it to get women in bed, you can use it to win people down the aisle for Jesus, or you can use it to sell insurance,” Campolo said. What’s more, it was a quality that could, at least in part, be learned and perfected.</p><blockquote class="pull-quote"><p>Who would know more about the power of charisma to both charm and deceive than a preacher’s son gone rogue?</p> </blockquote><p>That was precisely what John Antonakis, a professor of organizational behavior, and the director of the doctoral program in management at the University of Lausanne who has spent years studying charismatic speakers, told me. “Charismatic techniques can be taught,” he said. Antonakis has identified a series of what he calls Charismatic Leadership Tactics (CLTs), which range from the use of metaphors and storytelling to nonverbal methods of communication like open posture and animated, representative gestures at key moments. When taken together, he has shown, they have helped decide eight of the last 10 presidential elections. “The more charismatic leadership tactics used, the more individuals will be seen as leader-like by others,” he said. (<a href="http://nautil.us/blog/why-joel-osteen-the-smiling-preacher-is-so-darn-appealing" target="_blank">Read here</a> how Antonakis breaks down the CLTs of super-popular TV preacher Joel Osteen.)</p><p>Tony Campolo had mastered all the tactics. In the 1970s and ’80s, Bart Campolo and his father traversed the country in a beat-up, sky-blue Dodge Coronet, giving sermons wherever they could. Campolo marveled at his father in action. “My dad was one of the most charismatic people in the world,” Campolo said. “I’ve been around black preachers and people like my dad, who can go up and down the spectrum, do the whisper that you can’t help but listen to, tell the joke, then tell the tear-jerking story, and then the fiery fulmination. He can do it all over the map.”</p><div class="reco"     style="margin-bottom:38px;border-top: 1px solid #d8d8d8;border-bottom: 1px solid #d8d8d8;padding:25px 0px;">
+<article class="issue-article">
+<div style="float:left;">
+<a  href="/issue/28/2050/why-futurism-has-a-cultural-blindspot" class="obnd_lnk" data-trval="why-futurism-has-a-cultural-blindspot"  data-trlbl="foc_rec"  data-tract="internal_art" >
+<img src="http://static.nautil.us/7073_c7217b04fe11f374f9a6737901025606.png" alt="Sapolsky_TH-F1" width="314" height="177" style="margin-right:18px;">
+</a>
+</div>
+<div>
+<span class="article-tag">
+<span class="article-tag">
+
+<span class="article-tag-focus"><a style="font-weight:600;font-size:12px;" href="/term/f/Psychology">Also in Psychology</a></span>&nbsp;&nbsp;</span>
+</span>
+<h4 class="article-title"><a style="margin:0px;" href="/issue/28/2050/why-futurism-has-a-cultural-blindspot" class="obnd_lnk" data-trval="why-futurism-has-a-cultural-blindspot"  data-trlbl="foc_rec"  data-tract="internal_art" >Why Futurism Has a Cultural Blindspot</a></h4>
+<p class="article-author" style="margin:0px;font-size:14px;line-height:31px;">By Tom Vanderbilt</p>
+<p style="font-size:14px;line-height:21px;">
+In early 1999, during the halftime of a University of Washington basketball game, a time capsule from 1927 was opened. Among the contents of this portal to the past were some yellowing newspapers, a Mercury dime, a student handbook, and...<strong><a style="border:0px;" href="/issue/28/2050/why-futurism-has-a-cultural-blindspot" class="obnd_lnk" data-trval="why-futurism-has-a-cultural-blindspot"  data-trlbl="foc_rec"  data-tract="internal_art" >READ MORE</a></strong>
+</p>
+
+</div>
+<div style="clear:both;"></div>
+</article>
+</div> <p>Many of the most important lessons of Bart’s vocation came after the elder Campolo’s sermons were over. That was when Bart’s dad would ask his son what he’d seen, what worked, what didn’t, and why. Like how to read a room.</p> <p>“You try to figure out who’s the most difficult part of the room,” Campolo said. “Say you’re at a college campus and there’s a bunch of athletes sitting on the back row. If you don’t get to them, they’re going to hurt you all night long.” So before you get up to speak, Campolo said, you go to the back of the room and talk to the potential troublemakers. “You might say, ‘Hey man, why did you choose this school? How did you get here?’ You try to get those people on your side even before you get up on the stage.” Or you seek them out while you’re speaking, making eye contact, reaching directly to them.</p><figure class="breaker-image" data-alt="Piore_BR_artwork"><img src="http://static.nautil.us/11681_7a6bda9ad6ffdac035c752743b7e9d0e.jpg" width="733" alt=""></figure><p>Campolo offered another example. “I remember one time I was with my dad and we went to this big music festival and there were probably 10,000 kids on a hillside. There’s Frisbees flying around. There’s all sorts of distractions. The acoustics are such that no matter what you do, the crowd won’t hear itself. He was like, ‘This is going to be tough.’ Then he said, ‘I’m going to get up and the first story I’m going to tell is a heavy, emotional story. If I try humor, since they won’t hear anyone else laughing, they won’t laugh. In a space like this, you have to throw the humor away and go for emotional resonance. You can take a group like this down, but you really can’t take them up.”<br></p> <p>Campolo said his dad had a natural gift for leadership. But he was certain where that gift came from. His dad, he said, like another famously charismatic leader, had a desperate need to be liked.</p> <p>“My dad for a long time was the spiritual advisor to Bill Clinton,” Campolo said. “He and Clinton were and are great friends. I was once in D.C. with my dad and he said, ‘Hey, I’m going to visit the president, you want to come?’ Everybody tells you when you’re in the room with Clinton, you’re the only person in the world. He has this ability, this charisma, that makes you feel like he’s really seeing you, he really feels your pain. Both he and my dad lost their fathers early in life. I think that can create a huge insecurity. It often seems that guys like that need a standing ovation every 10 minutes to feel validated. So that’s part of where charisma comes from. It has to do with the emotional makeup of the person.”</p> <p><br></p> <p><span class="dropcap">C</span>harisma, though, has two halves. It’s a relationship between the person who possesses it and the people who respond to it. It’s only when the spark meets the kindling that a flame can ignite. A charismatic speaking to a mirror is not particularly exciting. Put one in front of a crowd, however, and you’re in for a show.</p> <p>Emotion is the accelerant. In a 2005 article in Science, Princeton psychologist Alexander Todorov showed individuals two pictures side by side of competing congressional candidates and asked them to rate their competence solely based on their appearance. Their judgments, which they were capable of forming within a second, predicted with almost 70 percent accuracy which candidate went on to win the election.</p> <p>“We decide very quickly whether a person possesses many of the traits we feel are important, such as likeability and competence, even though we have not exchanged a single word with them,” Todorov said at the time. “It appears that we are hard-wired to draw these inferences in a fast, unreflective way.” Using functional magnetic resonance imaging, Todorov demonstrated snap judgments carry a powerful emotional charge, as they are associated with activity in the amygdala, a primitive brain structure, the seat of the fight-or-flight response.</p><blockquote class="pull-quote"><p>You can use charisma to get women in bed, you can use it to win people down the aisle for Jesus, or you can use it to sell insurance.</p> </blockquote><p>Jochen Menges, a lecturer in organizational behavior at the University of Cambridge, terms the emotional impact of charisma the “awestruck effect.” He came up with the concept as a doctoral student in 2008, when he traveled to Berlin to hear Barack Obama speak in the hopes he might glean some new insights about how charismatic alchemy worked. When Obama bounded onto the stage and announced he was not just a citizen of the United States, but a citizen of the world, Menges himself was taken in. For a few minutes, Menges forgot why he was there—he was taken out of himself, became a follower.</p><figure class="breaker-image" data-alt="Piore_BR_Obama"><img src="http://static.nautil.us/11682_9518dfaa68111174c238799ce9116e74.jpg" width="733" alt=""><figcaption><span class="caption"><strong>AWESTRUCK EFFECT:</strong> Barack Obama’s July 2008 speech in Berlin was studied by a behavioral scientist, who later observed that because we admire charismatic leaders so much, “we tend to hold back our emotions in an almost instinctive effort to show our deference to them, to acknowledge their superior status.”</span><span class="credit">MICHAEL GOTTSCHALK/AFP/Getty Images</span></figcaption></figure><p>When he looked around, he was fascinated. Everything he had read on charisma implied leaders worked their magic by making people feel good emotions. But this was not an animated, energized crowd. The entire crowd seemed frozen in place, entranced. Afterward, a woman next to Menges gushed that Obama’s speech was “amazing,” “wonderful,” and “awesome.” Yet when Menges asked her to name three things she liked about the speech, she couldn’t.</p> <p>In a TED Talk, Menges explained that charismatic leaders put us in awe. “And because we admire them so much, we tend to hold back our emotions in an almost instinctive effort to show our deference to them, to acknowledge their superior status,” he said.</p> <p>By recreating the “awestruck effect” in the laboratory—by inducing subjects to visualize and write about charismatic figures, and then showing them emotion-laden video clips—Menges demonstrated something profound. While the subjects’ external emotional expression may have been subdued, the subjective emotional experience of those who were “awestruck” was every bit as powerful as those who were not. Indeed, it was more so, as they simply suppressed it out of automatic deference. Psychologists have long known that when we suppress the expression of our emotions, not only do those emotions increase their intensity, but we suffer a cognitive detriment.</p> <p>Menges found that students were far more likely to report they remembered the exact contents of speeches delivered by individuals who used charismatic speaking techniques that evoke emotions, than the content of speeches from individuals using a straightforward, non-charismatic mode of delivery. Yet written tests revealed those exposed to charismatic speakers remembered far less than those exposed to the non-charismatic speakers. Even so, when offered the chance to follow each speaker into a coffee room to discuss the ideas of their talks, the students almost never followed the boring speaker—and almost always followed the charismatic one.</p> <p>This does not surprise Richard Boyatzis, who studies organizational behavior, psychology, and cognitive science at Case Western Reserve University. Using fMRI, Boyatzis and Anthony Jack, an experimental psychologist, have demonstrated that emotional speakers engage with a neural pathway called the default mode network (DMN). This pathway, also known as the task-negative network, spans multiple areas of the brain (including the amygdala) and is associated with daydreaming, thoughts about others, and remembering things in the past. Interestingly, its activation is often found to be <i>negatively</i> correlated with the very circuits we rely upon for analytic thinking—those involved in executive functions, planning, reasoning, attention, and problem-solving. “The problem is these two networks have almost no overlap,” Boyatzis said. “They suppress each other.”</p> <p>In fact, beyond shutting down our ability to reason, some scientists have found that under the right circumstances, charismatics—especially if that charisma stems from our perception of them as a “leader”—can induce a state akin to hypnotism.</p><blockquote class="pull-quote"><p>Hitler gave people who feel broken a sense of superiority, and the capacity to blame someone for everything gone wrong outside themselves.</p> </blockquote><p>In 2011, a team of Danish researchers led by Uffe Schjødt, a neuroscientist at Aarhus University, examined the brains of individuals experiencing one of the most extreme demonstrations of charismatic influence—charismatic healing. To do so, the team recruited 18 devoted, young Christians from faiths with a tradition of intercessory prayer (mainly from the Pentecostal Movement), all of whom reported a strong belief in people with special healing powers. They also recruited 18 secular participants, who did not believe in God and were skeptical that prayer could cause healing.</p><p>Both groups of participants were instructed to listen to 18 different prayers performed by three different speakers—and told the speakers were either non-Christian, Christian, or Christians known for having healing powers. The speakers were all unremarkable churchgoers randomly assigned six prayers apiece.</p> <p>The researchers found profound differences in brain activity based on assumptions made about the speaker. In the Christian subjects, activity spiked in analytical areas of the brain in response to the non-Christian speakers, but plummeted when they listened to the speaker they believed was known for healing powers. These changes were not present in the secular group. The researchers drew parallels to similar experiments done on subjects on hypnosis, noting that hypnotism, when it works, was usually preceded by the massive frontal deactivation—in effect, a “handing over” of executive function to the hypnotist. Further, they found that “the more the Christian participants deactivate their executive and social cognitive networks, the higher they rate the speaker’s charisma post-scan.”</p> <p>Schjødt explained his findings in the context of a theory called the “predictive coding framework.” The brain is essentially a pattern recognition machine, constantly making predictions. Our perception is a combination of our prior expectations—expressed in the form of these automatic predictions—and actual sensory perception. As long as the sensory information matches the predictions, the brain hums along. When there is dissonance, the brain steps into make a correction. But when we are around people we believe to have special powers or abilities—when we have made an implicit decision that we can trust them—we seem to unconsciously down-regulate our analytical thinking.</p> <p>“If you expect to experience God, or you are in the presence of a charismatic or religious expert, then you believe whatever is going on is correct, and it will lead you to that particular experience, so you don’t invest too many resources in being skeptical and checking,” Schjødt said.</p> <p><br></p> <p><span class="dropcap">I</span>f charisma is a spark, and a willing audience is the kindling, the right chain of worldly events reveals charisma’s full explosive power. In his book <i>Charisma in Politics, Religion and the Media</i>, David Aberbach zeroes in on historical pivot points that set the stage for transformative events ignited by charismatic leaders.</p> <p>“Charisma touches something deeper in society, which is not always apparent,” Aberbach told me. “The key is there are some unpredictable elements in the life of a country or the life of a group, and when there are moments of particular distress, then certain individuals come forward who would not have come forward previously. They represent something essential in the capacity to deal with the crisis. There is marriage between what is going on between them internally and whatever is going on externally.”</p> <p>A charismatic leader, Aberbach said, “releases the individual of the pressures of life under stress. If you join a group in those circumstances, you feel more protected. But that presupposes the vulnerability of the individual. When individuals feel more secure, they have less need for salvation, less need for a charismatic bond. But when they feel vulnerable, then there is a possibility of a charismatic attachment. This can be very dangerous in certain circumstances.”</p><figure class="breaker-image" data-alt="Piore_BR_FDR_Hitler."><img src="http://static.nautil.us/11690_418b5015d870b2632c0840039bfec155.png" width="733" alt=""><figcaption><span class="caption"><strong>GOOD AND EVIL:</strong> Franklin Delano Roosevelt (left) and Adolf Hitler wielded their charisma to opposite ends, says a social scientist. Roosevelt inspired people by representing a fight against adversity. Hitler employed his power to give people a target of hatred, which gave those who felt broken their own sense of superiority.</span><span class="credit">Library of Congress/Corbis/VCG via Getty Images; Wikipedia</span></figcaption></figure><p>Aberbach, a noted academic at McGill University and the London School of Economics, points to Franklin Delano Roosevelt and Adolf Hitler—two sides of the historical coin—as telling case studies. They both grew out of Depression-era needs of their respective nations. And they illustrate how profound an influence an individual charismatic can have.</p> <p>“In the case of Roosevelt, he represented the ability to fight back in time of adversity,” Aberbach said. “On a personal level, he had fought back, and he could represent the nation that was fighting back. As a person, he could represent the group. In that sense, he was charismatic. I think that’s what it comes down to. The nation or the group seeks that person that represents them at a given time, and it’s unconscious.”</p> <p>In the case of Hitler, Aberbach said, “A lot of people felt good when they heard him. It’s often forgotten because newsreel clips often represent him as a sort of raving lunatic. But in fact people were taken into a different kind of realm, a different kind of existence, where they felt one with Germany, they felt a sense of national pride, they felt an aggressive hope in their future.”</p> <p>Hitler, Aberbach continued, gave people “a target of hatred, which is a convenient means of giving people who feel broken in life a sense of superiority, and also the capacity to blame someone for everything that has gone wrong outside themselves. He takes away personal responsibility, which is great relief for people who feel burdened by responsibility. They needed to forget, they needed to be transformed in a condition of crisis. That’s why crisis and charisma are so closely linked.”</p> <p>The scientists agreed that charisma grabbed us on an emotional level. They also agreed snap judgments and subconscious fears could be overcome. In his bestseller <i>Thinking Fast, Thinking Slow</i>, Nobel Prize-winning psychologist Daniel Kahneman outlines two separate parallel decision circuits. The brain’s intuitive system is far faster than the rational system. The intuitive system, though, is prone to unconscious factors, based on limited personal experience and tendencies that result in irrational biases. But the slower, more rational system, centered in our prefrontal cortex, can serve as a potent check on unconscious tendencies—when we take the time to analyze them.</p> <p>That was the final point Bart Campolo wanted to make about charisma: We could learn not to be taken in.</p> <p>“You’re not going to stamp out charisma,” Campolo said. “The way to protect people from demagogues is not to kill all the demagogues but rather to teach people how charisma works so they can recognize whether it’s being wielded responsibly or abused. I always think charisma is like fire. You can use it to heat your house or you can use it to burn your house down.”</p><p><br></p> <p><i>Adam Piore is the author of </i><a href="https://www.amazon.com/Body-Builders-Inside-Science-Engineered/dp/0062347144" target="_blank">The Body Builders: Inside the Science of the Engineered Human</a>.</p>
+			
+
+
+
+						<section class="leaderboard-ad-belt">
+				<div class="leaderboard-ad-belt-inner adarticle">
+					<!--artad-728x90.php-->
+
+<script type='text/javascript'>
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/187856151/article_page', [728, 90], 'div-gpt-ad-1380044019755-0').addService(googletag.pubads());
+		googletag.enableServices();
+	});
+</script>
+
+<div id='div-gpt-ad-1380044019755-0' class="leaderboard-ad">
+	<!--[if lte IE 9]>
+	<script type='text/javascript'>
+	$(window).load(function(){
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380044019755-0'); });
+	});
+	</script>
+	<![endif]-->
+
+	<!--[if !IE | gt IE 9]>-->
+	<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380044019755-0'); });
+	</script>
+	<!--<![endif]-->
+</div>
+
+
+
+
+				</div>
+			</section>
+			
+
+		</div><!-- /.page-content -->
+		<!--googleoff: all-->
+		<div class="rail">
+
+			<!--<a target="_BLANK" href="http://bit.ly/2ddcxx5" class="obnd_lnk" data-trval="blog_rail" data-trlbl="leesa" data-tract="external_sponsor" >
+				<img style="padding-top: 32px;" src="http://nautilus-prod.s3.amazonaws.com/internal_bannerimg/Leesa_Nautilus_300x250.jpg"></a>
+			Advertisement
+
+				<div style="margin-top:36px;">
+					
+				</div>
+-->
+
+
+			<section id="issue-map" class="issue-map rail-module">
+
+
+
+
+	<hgroup class="module-header">
+		<h2 class="issue-number">
+												Issue 045									</h2>
+		<h3 class="issue-title">Power</h3>
+		<h4 class="module-action"><a href="/issue/45/power">Explore This Issue</a></h4>
+	</hgroup>
+
+	<div id="collapse-wrapper" class="collapse-wrapper">
+		<div id="scroll-wrapper" class="scroll-wrapper">
+			<ul class="issue-map-chapters">
+				
+
+                					<li class="issue-map-chapter">
+<!--						<i class="icon-down"></i>-->
+						<div class="chapter-number">Chapter three</div>
+						<div class="issue-map-articles">
+							<div class="chapter-title">Personality</div>
+							<ul>
+																	<li class=' issnav active'>
+
+
+
+                                        <a href="/issue/45/power/the-anatomy-of-charisma">
+
+                                            <img src="http://static.nautil.us/11680_1c6e02b62a98d8d9341a81521edd3426.jpg" alt="Piore_TH-3" width="199" height="112" />
+
+                                            <span class="article-tag">Psychology &nbsp;&nbsp;</span>
+
+
+											<span class="article-title">The Anatomy of Charisma </span>
+										</a>
+																					<div class="article-progress-wrapper"><!--<div class="article-progress"></div>-->
+											</div>
+																			</li>
+																	<li class=' issnav '>
+
+
+
+                                        <a href="/issue/45/power/atheism-the-computer-model">
+
+                                            <img src="http://static.nautil.us/11637_878cbc9ed11d6c167ef0065805a85392.png" alt="Fitzgerald_THUMB" width="199" height="112" />
+
+                                            <span class="article-tag">Philosophy &nbsp;&nbsp;</span>
+
+
+											<span class="article-title">Atheism, the Computer Model </span>
+										</a>
+																			</li>
+																	<li class=' issnav '>
+
+
+
+                                        <a href="/issue/45/power/when-climate-change-starts-wars">
+
+                                            <img src="http://static.nautil.us/11658_5fdfe2c20035ef27771422342d1842ff.jpg" alt="Wendle_THUMB" width="199" height="112" />
+
+                                            <span class="article-tag">Climate &nbsp;&nbsp;</span>
+
+
+											<span class="article-title">When Climate Change Starts Wars </span>
+										</a>
+																			</li>
+																	<li class=' issnav '>
+
+
+
+                                        <a href="/issue/45/power/the-man-who-played-with-absolute-power">
+
+                                            <img src="http://static.nautil.us/11644_b55812911f2a27b05425d0692f19a039.png" alt="Sedacca_THUMB" width="199" height="112" />
+
+                                            <span class="article-tag">Psychology &nbsp;&nbsp;</span>
+
+
+											<span class="article-title">The Man Who Played with Absolute Power </span>
+										</a>
+																			</li>
+																	<li class=' issnav '>
+
+
+
+                                        <a href="/issue/45/power/how-single-women-are-changing-society">
+
+                                            <img src="http://static.nautil.us/11704_6e67691b60ed3e4a55935261314dd534.png" alt="Regan_THUMB-2" width="199" height="112" />
+
+                                            <span class="article-tag">Sociology &nbsp;&nbsp;</span>
+
+
+											<span class="article-title">How Single Women Are Changing Society </span>
+										</a>
+																			</li>
+															</ul>
+						</div>
+					</li>
+
+			</ul><!-- /.issue-map-chapters -->
+		</div><!-- /#scroll-wrapper -->
+	</div><!-- /#collapse-wrapper -->
+
+</section>
+			<div id="footnote_sideview">
+							</div>
+
+
+			
+			
+		</div><!-- /.rail -->
+
+	</div><!-- /.wrap -->
+<a name="comm"></a>
+	<footer class="article-footer">
+		
+				
+
+
+
+
+
+
+			<div id="comments-container" class="comments-container">
+				<div class="button button_active">Join the Discussion</div>
+			</div>
+
+
+
+					<div id="disqus_thread" class="disqus-thread"></div>
+
+						<script type="text/javascript">
+						var disqus_shortname = 'nautilusmag';
+						var disqus_identifier = 'http://nautil.us/issue/45/power/the-anatomy-of-charisma';
+						/* * * DON'T EDIT BELOW THIS LINE * * */
+						(function() {
+							var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+							dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+							(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+						})();
+					</script>
+
+
+
+		
+
+	</footer>
+
+	<section class="module-more-articles  has-next">
+	<div class="wrap">
+
+	<div class="next-article">
+
+	<h2>Next Article:</h2>
+
+	<article>
+		<a href="/issue/45/power/atheism-the-computer-model" class="article-thumb">
+						<img src="http://static.nautil.us/11637_878cbc9ed11d6c167ef0065805a85392.png" width="231" height="141" alt="Fitzgerald_THUMB" />
+		</a>
+		<span class="article-tag">Ideas</span>
+		<h3 class="article-title"><a href="/issue/45/power/atheism-the-computer-model">Atheism, the Computer Model</a></h3>
+		<span class="article-author">By Michael Fitzgerald</span>
+	</article>
+
+</div>		<div class="related-articles">
+			<h2>Related Articles:</h2>
+			<ul>
+							<li>
+					<article>
+						<a href="/issue/24/error/the-bugs-in-our-mindware" class="article-thumb">
+														<img src="http://static.nautil.us/6024_3bd8fdb090f1f5eb66a00c84dbc5ad51.jpg" width="231" height="141" alt="Nisbett_THUMB" />
+						</a>
+						<span class="article-tag">Culture</span>
+						<h3 class="article-title"><a href="/issue/24/error/the-bugs-in-our-mindware">The Bugs in Our Mindware</a></h3>
+						<span class="article-author">By Richard E. Nisbett</span>
+					</article>
+				</li>
+							<li>
+					<article>
+						<a href="/issue/12/feedback/the-vulgar-mechanic-and-his-magical-oven" class="article-thumb">
+														<img src="http://static.nautil.us/3062_1aa057313c28fa4a40c5bc084b11d276.png" width="231" height="141" alt="Ashley_THUMB" />
+						</a>
+						<span class="article-tag">Numbers</span>
+						<h3 class="article-title"><a href="/issue/12/feedback/the-vulgar-mechanic-and-his-magical-oven">The Vulgar Mechanic and His Magical Oven</a></h3>
+						<span class="article-author">By Steven Ashley</span>
+					</article>
+				</li>
+							<li>
+					<article>
+						<a href="/issue/5/fame/the-brain-on-trial" class="article-thumb">
+														<img src="http://static.nautil.us/1052_f4dd765c12f2ef67f98f3558c282a9cd.png" width="231" height="141" alt="Burton_THUMB" />
+						</a>
+						<span class="article-tag">Biology</span>
+						<h3 class="article-title"><a href="/issue/5/fame/the-brain-on-trial">The Brain on Trial</a></h3>
+						<span class="article-author">By Robert  Burton</span>
+					</article>
+				</li>
+			                                			</ul>
+		</div>
+	</div>
+</section>
+</article>
+
+<span id="noncookie" style="display:none">
+		<img src="http://nautilus-prod.s3.amazonaws.com/Prime_paywall_1-733x200px.png" style="float:left;margin-right:25px;"/>
+<p><i>Nautilus</i> uses cookies to manage your digital subscription and show you your reading progress. It's just not the same without them.<br>
+Please sign in to <a href="/primeuser">Nautilus Prime</a> or turn your cookies on to continue reading.<br>Thank you!</p></span>
+
+
+
+
+	<script>
+		if (!navigator.cookieEnabled) {
+			$(function () {
+				$('.page-content').html($('#noncookie').html());
+			})
+		}
+	</script>
+	</div><!-- /.main-content -->
+</div>
+
+<footer class="main-footer">
+	<div class="main-footer-top">
+		<div class="wrap">
+			<div class="col1">
+
+
+
+
+				<nav class="footer-links">
+					<ul>
+						<li><a  href="/about">About</a></li>
+<li><a  href="/awards-and-press">Awards and Press</a></li>
+<li><a  href="/contact">Contact / Work with Us</a></li>
+<li><a target="_blank" href="http://www.nautilusthink.org/support">Donate</a></li>
+<li><a  href="/faq">FAQ</a></li>
+<li><a  href="/sponsorship">Media Kit</a></li>
+<li><a  href="/primeuser">Prime</a></li>
+<li><a  href="/rss/all">RSS</a></li>
+<li><a target="_blank" href="http://shop.nautil.us/nautilus-quarterly/">Subscribe</a></li>
+<li><a  href="/terms-of-service">Terms of Services</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="col2">
+				<section class="footer-about-us">
+					<h3 class="cat-title">NAUTILUS: SCIENCE CONNECTED</h3>
+					<p>Nautilus is a different kind of science magazine. We deliver big-picture science by reporting on a single monthly topic from multiple perspectives. Read a new chapter in the story every Thursday.</p>
+				</section>
+			</div>
+		</div>
+	</div>
+
+	<div class="main-footer-bottom">
+		<div class="wrap">
+			<p class="copyright">&copy; 2017 NautilusThink Inc, All rights reserved. <span class="tagline">Matter, Biology, Numbers, Ideas, Culture, <em>Connected</em></span></p>
+			<a class="obnd_lnk candt"  data-tract="external_link" data-trlbl="footer" data-trval="codeandtheory" href="http://www.codeandtheory.com/" target="_blank">Site by Code and Theory</a>
+		</div>
+	</div>
+</footer>
+
+
+
+<span style="display:none;" id="hiddensrc">
+
+	<div id="adpayload">
+		<div id="ovly"></div>
+		<div id="offer" style="background: url('http://static.nautil.us/11987_46da96a4b4f35c12c83baf86872ce7c3.png') no-repeat scroll 0 0 rgba(0, 0, 0, 0); height: 320px; margin: 145px auto; position: relative; width: 640px;z-index: 103;">
+			<a href="http://shop.nautil.us?utm_source=mainsite&utm_medium=popup&utm_campaign=springsale_2017"><div id="buyovly"></div></a>
+
+			<div id="closeovly"></div>
+
+		</div>
+
+	</div>
+
+</span>
+
+
+<!--Footer scripts 1492544759 -->
+
+<!--admin  20170113 > 20170418 > 20170430   --  --> 
+	<script>
+$(function() {
+
+ var ca = document.cookie
+if(ca.indexOf("adover")>0){
+return;
+}
+
+
+var hcon = $("#hiddensrc").html();
+
+var advis = false;
+
+var date = new Date();
+var midnight = new Date(date.getFullYear(), date.getMonth(), date.getDate(), 23, 59, 59);
+var expires = "expires="+midnight.toGMTString();
+document.cookie = 'adover=1;'+expires+';path=/'
+
+setTimeout(function() {
+$("body").prepend(hcon);
+advis = true;
+centeradvertically();
+}, 3000);
+
+$( window ).resize(function() {
+if(advis){
+centeradvertically();
+}
+})
+
+$(document).on("click","#closeovly",function(){
+$("#adpayload").remove();
+advis = false;
+});
+
+function centeradvertically(){
+if(advis){
+var mrgtop = Math.round(($(window).height() - 680)/2);
+if(mrgtop<1){return;}
+$('div#adpayload div#offer').css('margin-top',mrgtop+'px');
+}
+}
+
+$(window).on('keydown', function( e ) {
+	if (e.keyCode == 27) {//escape key
+		$("#adpayload").remove();
+	}
+})
+
+});
+	</script><script type="text/javascript" src="/min/b=assets/site/js&f=lib/jquery.easing-1.3.js,lib/jquery.touchSwipe-1.6.2.min.js,lib/jquery.nicescroll-3.1.9.min.js,orig_script.js,script.js,search.js,lib/jquery.vimeo.api.js,article.js"></script>
+
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981681253/?value=0&amp;guid=ON&amp;script=0"/>
+
+</div>
+    <!--  Quantcast Tag -->
+    <script>
+        qcdata = {} || qcdata;
+        (function(){
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-6EzWtvBV9sFU3";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem,scpt);
+        }());
+
+
+    </script>
+    <noscript>
+        <img src="//pixel.quantserve.com/pixel/p-6EzWtvBV9sFU3.gif?" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+    <!-- End Quantcast Tag -->
+
+	
+
+<script>
+ga('send', 'event', 'category', 'action', {
+  'dimension1': 1,
+  'metric1': 1
+});
+
+	window.onbeforeunload = function() {
+	document.cookie = "_utntlb=eyJjdXJkYXRlIjoiMTgiLCJjaWRzIjpbIjE5ODEiXX0=; expires=Wed, 18 Apr 2018 10:00:00 GMT;path=/;domain=.nautil.us";
+	}
+
+
+</script><script>
+	//PERMISSION REQUIRED TO FORWARD NAUTILUS CONTENT
+	var hyp = window.location._orig_href;
+	if (typeof hyp != 'undefined') {
+		if (hyp.indexOf("via.hypothes") > -1) {
+
+		var newad = window.location._href;
+			var newrep = newad.replace(/https:\/\/via\.hypothes\.is\//i, '');
+
+			$('body').html('<h1 class="msgw">Please visit the original article.<br> '+newrep+'</h1>');
+
+		}
+	}
+
+$(function(){
+
+
+
+
+//ipad link issue
+		$('a.tp_1').on('click touchend', function() {
+			var link = $(this).attr('href');
+			window.open(link,"_self");
+			return true;
+		});
+
+
+	var scrolldetect = true;
+	$( window ).scroll(function() {
+		if(scrolldetect){
+			ga('send', 'event','navigate', 'humanscroll', window.location.pathname , {'nonInteraction': 1});
+			scrolldetect = false;
+		}
+	});
+});
+
+	ga('create', 'UA-37494472-1', 'auto');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+
+</script>
+
+ 
+<script type="text/javascript" src="/assets/common/js/content.js" ></script></body>
+</html>
+

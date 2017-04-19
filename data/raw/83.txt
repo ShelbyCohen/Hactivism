@@ -1,0 +1,742 @@
+<HTML>
+
+
+ <HEAD>
+
+
+  <!-- $MVD$:app("MicroVision WebExpress","769") -->
+
+
+  <!-- $MVD$:template("","0","0") -->
+
+
+  <!-- $MVD$:color("18","80ff","Orange","1") -->
+
+
+  <!-- $MVD$:color("19","ffd6ce","Lavender","1") -->
+
+
+  <!-- $MVD$:fontset("Onuava","Onuava","Courier New") -->
+
+
+  <!-- $MVD$:fontset("Verdana","Verdana","Arial","Times New I2") -->
+
+
+  <TITLE>Network Against Coercive Psychiatry</TITLE><base TARGET="display">
+
+
+  <META NAME="GENERATOR" CONTENT="MicroVision Development / WebExpress">
+
+
+ </HEAD>
+
+
+ <BODY BGCOLOR="WHITE">
+
+
+  <P>
+
+
+   <TABLE WIDTH="100%" CELLPADDING="2" CELLSPACING="0" BORDER="0">
+
+
+    <TR>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+      <P>
+
+
+       <FONT FACE="Onuava,Courier New"><FONT SIZE="2">Board of Advisors</FONT></FONT>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+      <P>
+
+
+       <FONT FACE="Onuava,Courier New"><FONT SIZE="2">Board of Directors</FONT></FONT>
+
+
+     </TD>
+
+
+    </TR>
+
+
+    <TR>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+     </TD>
+
+
+    </TR>
+
+
+    <TR>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+      <P>
+
+
+       <FONT SIZE="2">Stanley Aronowitz, Ph.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Peter Breggin, M.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Judi Chamberlin</FONT><BR>
+
+
+       <FONT SIZE="2">Phyllis Chesler, Ph.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Ramsey Clark</FONT><BR>
+
+
+       <FONT SIZE="2">George Ebert</FONT><BR>
+
+
+       <FONT SIZE="2">Leonard Frank</FONT><BR>
+
+
+       <FONT SIZE="2">Kenneth Gergen, Ph.D.</FONT>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+      <P>
+
+
+       <FONT SIZE="2">Jay Haley</FONT><BR>
+
+
+       <FONT SIZE="2">James Hillman, Ph.D</FONT><BR>
+
+
+       <FONT SIZE="2">Jill Johnston</FONT><BR>
+
+
+       <FONT SIZE="2">Ken Kesey</FONT><BR>
+
+
+       <FONT SIZE="2">Rev. David Kossey</FONT><BR>
+
+
+       <FONT SIZE="2">Cloe Madanes</FONT><BR>
+
+
+       <FONT SIZE="2">Jeffrey Masson, Ph.D.</FONT><BR>
+
+
+       <FONT SIZE="2">James Mancuso, Ph.D.</FONT>
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+      <P>
+
+
+       <FONT SIZE="2">Kate Millett, Ph.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Kirkpatrick Sale</FONT><BR>
+
+
+       <FONT SIZE="2">Dorothy Tennov, Ph.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Eileen Walkenstein, M.D.</FONT><BR>
+
+
+       <FONT SIZE="2">John Weakland</FONT><BR>
+
+
+       <FONT SIZE="2">Monty Weinstein, Psy.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Lynn Zimmer, Ph.D.</FONT>
+
+
+      </P>
+
+
+      <P>
+
+
+       <!-- $MVD$:spaceretainer() -->&nbsp;
+
+
+     </TD>
+
+
+     <TD WIDTH="25%" VALIGN=TOP>
+
+
+      <P>
+
+
+       <FONT SIZE="2">Kyle Christensen</FONT><BR>
+
+
+       <FONT SIZE="2">Sandra Everett</FONT><BR>
+
+
+       <FONT SIZE="2">Seth Farber, Ph.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Ronald Leifer, M.D.</FONT><BR>
+
+
+       <FONT SIZE="2">Susan Thornton-Smith</FONT>
+
+
+     </TD>
+
+
+    </TR>
+
+
+   </TABLE>
+
+
+  <p></P>
+
+
+  <P>
+
+
+   <B><FONT SIZE="6">Network Against Coercive Psychiatry</FONT></B><BR>
+  <!-- $MVD$:picsz("1","1") -->
+  <IMG SRC="../../images/black_pixel.gif" WIDTH="522" HEIGHT="15" VSPACE="0" HSPACE="0" BORDER="0"><BR>
+
+
+   <FONT SIZE="4"><FONT FACE="Verdana,Arial,Times New I2">is an 
+
+
+   organization comprised of psychotherapists (including psychiatrists), 
+
+
+   survivors of psychiatric incarceration (commonly known as &quot;mental
+
+
+    patients&quot;) scholars and other concerned citizens.</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">OUR POSITION 
+
+
+   IS UNCOMPROMISING. WE BELIEVE THE &quot;MENTAL HEALTH&quot; 
+
+
+   ESTABLISHMENT HAS CONNED THE AMERICAN PEOPLE.</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">The idea of &quot;mental illness&quot; is a misleading 
+
+
+   and degrading metaphor. &quot;Psychiatric treatments&quot; in mental 
+
+
+   hospitals are for the most part forms of physical and emotional 
+
+
+   abuse. Psychiatric &quot;diagnoses&quot; are demeaning labels without 
+
+
+   any scientific validity. The psychiatric Establishment is pushing 
+
+
+   dangerous drugs which they euphemistically call 
+
+
+   &quot;medication.&quot; Treatments in this century have ranged from 
+
+
+   revolving chairs to lobotomies to electrical assaults on the human 
+
+
+   brain to neurologically damaging drugs. There has been no revolution 
+
+
+   in the treatment of individuals who are psychiatrically labeled: it 
+
+
+   is an unbroken history of barbaric practices, justified by 
+
+
+   professionals as medical procedures designed to control patients' 
+
+
+   ostensible mental diseases.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">THE STRUCTURE 
+
+
+   OF DEMOCRACY IS BEING UNDERMINED BY THE MENTAL HEALTH SYSTEM</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">The Network is emerging at an historical juncture that 
+
+
+   constitutes a time of potential danger as well as opportunity. The 
+
+
+   danger lies in the continued expansion of psychiatric power and of 
+
+
+   the merger of the &quot;mental health&quot; system with the American 
+
+
+   government. This forbodes a social control apparatus as totalitarian 
+
+
+   as that forseen by George Orwell in </FONT><I><B><FONT SIZE="3">1984</FONT></B><FONT SIZE="3">.
+
+
+    </FONT></I><FONT SIZE="3">In this case conformity to social norms 
+
+
+   would be enforced by mental health professionals playing the role of 
+
+
+   Big Brother. The opportunity lies in the possible development of a 
+
+
+   social movement against the mental health system.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">FOR WELL OVER 
+
+
+   THIRTY YEARS THEORISTS AND THERAPISTS HAVE BEEN WRITING DEVASTATING 
+
+
+   CRITIQUES OF THE MEDICAL MODEL OF HUMAN BEHAVIOR</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">Thomas Szasz M.D. was the first to argue that to 
+
+
+   describe individuals who are having &quot;problems in life&quot; as 
+
+
+   mentally ill is to use a metaphor that is misleading and demeaning. 
+
+
+   It obscures the individuals real problems and it serves to justify 
+
+
+   psychiatric coercion and the gratuitous deprivation of individual 
+
+
+   liberty. R.D. Laing, the British psychiatrist, argued that 
+
+
+   &quot;psychiatric treatment&quot; of &quot;schizophrenia&quot; 
+
+
+   typically aborts what is essentially a natural process tending toward 
+
+
+   the reconstitution of the self on a more mature level.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">Theodore Sarbin and James Mancuso conclude in their 
+
+
+   exhaustive study that despite 80 years of popularity, the 
+
+
+   &quot;disease model&quot; has failed to establish its value as either 
+
+
+   an explanatory theory or a practical tool. Family therapists like Jay 
+
+
+   Haley, Salvador Minuchin and the Mental Research Institute have 
+
+
+   demonstrated the extraordinary success of an approach that is not 
+
+
+   based on the metaphor of mental illness. These 
+
+
+   theorists/practitioners have had virtually no effect on public policy.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">IF THE CRISIS 
+
+
+   IN THE MENTAL HEALTH SYSTEM IS TO BE RESOLVED THE &quot;DISEASE 
+
+
+   MODEL&quot; MUST BE REPLACED</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">Viable models must be based on a developmental 
+
+
+   perspective. In the context of this perspective, psychological and 
+
+
+   spiritual crises, despair, anxiety, unusual behavior, and emotional 
+
+
+   ups and downs are not symptoms of chronic mental illnesses but 
+
+
+   natural manifestations of processes of individual and social growth 
+
+
+   and maturation. If this change in orientation is effected, the 
+
+
+   helping profession will be able to help people: it will help 
+
+
+   individuals overcome their addiction to psychiatric drugs that impair 
+
+
+   their ability to think and create, it will help reintegrate 
+
+
+   individuals into society by making available to them education and 
+
+
+   job training, housing and jobs-- it will give them the vision of a 
+
+
+   future worth struggling for.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">In the absence of this fundamental philosophical 
+
+
+   change, mental health workers will continue to impede individuals' 
+
+
+   reintegration into society by branding them &quot;mentally ill&quot; 
+
+
+   and by withholding from them opportunities for social and spiritual 
+
+
+   advancement. The disastrous and unseemly results of the stunting of 
+
+
+   individual growth by the mental health system will continue to be 
+
+
+   blamed on &quot;the tragedy of mental illness.&quot;</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">A MONSTROUS 
+
+
+   ABUSE OF POWER IS OCCURRING RIGHT NOW</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">The American public is aware through exposure to a 
+
+
+   variety of documentary materials- including such realistic works of 
+
+
+   the imagination as </FONT><I><FONT SIZE="3">One Flew Over the 
+
+
+   Cuckoo's Nest </FONT></I><FONT SIZE="3">by Ken Kesey- that 
+
+
+   &quot;mental health&quot; professionals in the public sector in 
+
+
+   another era abused the authority vested in them. The public has not 
+
+
+   confronted the fact- and the media has not exposed the fact- that the 
+
+
+   same kind of monstrous abuse of power is occurring right now. If the 
+
+
+   radical humanitarian changes advocated by the critics of the mental 
+
+
+   health system are to be implemented, it will be because the American 
+
+
+   people will begin to realize that they have been abused and mystified 
+
+
+   by the mental health professions and because they will seize the 
+
+
+   opportunity to assert their rights and to demand accountability from 
+
+
+   those who claim to serve them.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">PEOPLE ARE 
+
+
+   BEING TORTURED, OPPRESSED AND DENIED OWNERSHIP OF THEIR LIVES</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">Psychiatric survivors have been organizing for human 
+
+
+   rights and against psychiatric oppression since the mid-1970's. 
+
+
+   George Ebert, a psychiatric survivor, recently described the reason 
+
+
+   for his twelve year involvement in the movement against psychiatric 
+
+
+   oppression. &quot;As long as the psychiatric state remains, as long 
+
+
+   as people are being tortured, oppressed, dehumanized, and denied 
+
+
+   ownership of their lives, we who have survived are obligated to 
+
+
+   struggle to break the silence.&quot; The Network Against Coercive 
+
+
+   Psychiatry calls upon all socially conscious persons to join the movement.</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="4">YOU CAN HELP!</FONT></FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">For more information please write or call:</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <FONT SIZE="3">Dr. Seth Farber</FONT><BR>
+
+
+   <FONT SIZE="3">Network Against Coercive Psychiatry</FONT><BR>
+
+
+   <FONT SIZE="3">172 West 79th Street #2E</FONT><BR>
+
+
+   <FONT SIZE="3">New York, NY 10024</FONT><BR>
+
+
+   <FONT SIZE="3">(212) 799-9026</FONT>
+
+
+  </P>
+
+
+  <P>
+
+
+   <I><FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="3">The problem 
+
+
+   with psychiatric diagnoses is... that they are swung as semantic 
+
+
+   blackjacks: cracking the subject's dignity and respectibility 
+
+
+   destroys him just as effectively as cracking his skull. The 
+
+
+   difference is that the man who wields a blackjack is recognized by 
+
+
+   everyone as a thug, but one who wields a psychiatric diagnosis is not.&quot;</FONT></FONT></I>
+
+
+  </P>
+
+
+  <BLOCKQUOTE>
+
+
+   <BLOCKQUOTE>
+
+
+    <BLOCKQUOTE>
+
+
+     <BLOCKQUOTE>
+
+
+        <P> <I><FONT FACE="Verdana,Arial,Times New I2"><FONT SIZE="3">Thomas Szasz 
+          M.D. 1991</FONT></FONT></I> 
+        <P>&nbsp;
+        <!-- #BeginLibraryItem "/Library/Headlights.lbi" -->
+<P ALIGN=center><a href="../frame_docs/1st_idx_4th.html" target="_top">Table of 
+  Contents Page.</a></P>
+<P ALIGN=center><img src="../../images/boy_hover.gif" alt="Headlights the cat. Link to home page." width="144" height="147"></P>
+
+  <!-- #EndLibraryItem -->
+<P align="center">&nbsp; 
+      </blockquote></blockquote></blockquote></blockquote></BODY>
+
+
+</HTML>

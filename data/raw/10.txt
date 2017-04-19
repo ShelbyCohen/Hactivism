@@ -1,0 +1,668 @@
+	<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- BEGIN: writeHead() -->
+        
+		<title>Home - Arab Spring: A Research & Study Guide * الربيع العربي - LibGuides at Cornell University</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="noarchive" />
+<!--AUTO GENERATED DUBLIN CORE METADATA-->
+<meta name="DC.Title" content="LibGuides: Arab Spring: A Research & Study Guide * الربيع العربي: Home" />
+<meta name="DC.Creator" content="Ali Houissa" />
+<meta name="DC.Subject" content="Area: Middle East, Government & Public Policy" />
+<meta name="DC.Description" content="This guide lists online and print sources for what has become known as the &quot;Arab Spring,&quot; the popular revolutionary wave in the Middle East and North Africa that started in December 2010." />
+<meta name="DC.Publishers" content="Cornell University" />
+<meta name="DC.Rights" content="Copyright Cornell University 2017" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Identifier" scheme="URI" content="http://guides.library.cornell.edu/c.php?g=31688&p=200747" />
+<meta name="DC.Date.Created" scheme="ISO8601" content="Sep 22, 2011" />
+<meta name="DC.Date.Modified" scheme="ISO8601" content="Oct 12, 2016" />
+
+		<meta property="og:title" content="LibGuides: Arab Spring: A Research & Study Guide * الربيع العربي: Home">
+		<meta property="og:description" content="This guide lists online and print sources for what has become known as the "Arab Spring," the popular revolutionary wave in the Middle East and North Africa that started in December 2010.">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://guides.library.cornell.edu/c.php?g=31688&p=200747">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@springshare">
+        <link rel="stylesheet" href="/web/jquery/css/1.8.24_themes_base_jquery-ui.css" />
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+				<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+				<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
+            <link rel="stylesheet" href="/web/css1.15.16/lg-public.min.css" />
+        <!--[if lt IE 9]>
+        <link rel="stylesheet" href="/web/css1.15.16/springshare.public.ie8hacks.css" />
+        <![endif]-->
+        <script type="text/javascript" src="/web/jquery/js/1.12.1_jquery.min.js"></script>
+        <script type="text/javascript" src="/web/jquery/js/1.9.2_jquery-ui.min.js"></script>
+            <script type="text/javascript" src="/web/js1.15.16/lg-public.min.js"></script>
+		<style>/* =========================================== */
+                        /* bootstrap overrides */
+                        /* =========================================== */
+                        #s-lg-tabs-container .nav-tabs > li > a,
+                        #s-lg-tabs-container .nav-tabs > li > button,
+                        #s-lg-tabs-container .nav-pills > li > a,
+                        #s-lg-tabs-container .nav-pills > li > button {
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            background-color: #577CBE;
+                            color: #fff;
+                            font-weight: bold;
+                            padding: 4px 15px;
+                        }
+                        #s-lg-tabs-container .nav-tabs {
+                            border-bottom: 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+                            -webkit-border-radius: 4px 4px 0 0;
+                            -moz-border-radius: 4px 4px 0 0;
+                            border-radius: 4px 4px 0 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a:hover,
+                        #s-lg-tabs-container .nav-tabs > li > button:hover,
+                        #s-lg-tabs-container .nav-pills > li > a:hover,
+                        #s-lg-tabs-container .nav-pills > li > button:hover {
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            background-color: #70A1EB;
+                            color: #fff;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a,
+                        #s-lg-tabs-container .nav-tabs > .active > button,
+                        #s-lg-tabs-container .nav-pills > .active > a,
+                        #s-lg-tabs-container .nav-pills > .active > button {
+                            color: #fff;
+                            cursor: default;
+                            background-color: #70A1EB;
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
+                            color: #fff;
+                            cursor: default;
+                            background-color: #70A1EB;
+                            border-bottom-color: transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a:hover,
+                        #s-lg-tabs-container .nav-pills > .active > a:hover,
+                        #s-lg-tabs-container .nav-tabs > .active > button:hover,
+                        #s-lg-tabs-container .nav-pills > .active > button:hover {
+                            color: #fff;
+                            cursor: pointer;
+                            background-color: #70A1EB;
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav .dropdown-toggle .caret {
+                            border-top-color: #e1e1e1;
+                        }
+                        #s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
+                            margin-left: 2px;
+                            margin-top: -3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 6px 4px 3px;
+                            border-left: 1px solid transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 6px 0px 3px;
+                            border-left: 1px solid transparent;
+                            margin-right: 2px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 4px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 0px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
+                            border-radius: 4px 0 0 0;
+                            font-weight: bold;
+                            padding: 4px 5px 4px 10px;
+                        }
+                        .nav-tabs > li > a.s-lg-tab-top-link,
+                        .nav-tabs > li > button.s-lg-tab-top-link {
+                            margin-right: 0px;
+                        }
+
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 8px 4px 8px;
+                            border-left: 1px solid transparent;
+                            position: absolute;
+                            right: 0;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 8px 4px 8px;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
+                            width: 100%;
+                            float: left;
+                            border-radius: 4px 0 0 0;
+                            font-weight: bold;
+                            padding: 4px 15px 4px 15px;
+                        }#s-lg-guide-tabs-title-bar { border-top: 1px solid #70A1EB; }
+                    .s-lib-box {
+                        border-color: #cccccc;
+                        border-width: 1px;
+                        box-shadow: 0 8px 6px -6px #AAAAAA;border-radius: 4px 4px 4px 4px;
+                        background-color: #fff;
+                    }
+                    .s-lib-box-std .s-lib-box-title {
+                        background-color: #f1f1f1;background-image: none;
+                        color: #888;
+                        border-bottom: 1px solid #cccccc;
+                    }
+                    .s-lib-box .s-lib-box-title {
+                        background-color: #f1f1f1;background-image: none;
+                        color: #888;
+                        border-bottom: 1px solid #cccccc;;
+                        border-radius: 3px 3px 0px 0px;
+                    }
+                    .s-lib-box .s-lg-box-footer {
+                    border-radius: 0px 0px 3px 3px;
+                    }</style>
+		<!-- BEGIN: CUSTOM HEAD SYSTEM JS/CSS -->
+		<style>#cu-identity-wrap {	font-family: verdana, arial, helvetica, sans-serif;	font-size: 63.125%;		/* translate 1.0em to 10px, 1.5em to 15px, etc. */	color: #222;	height: 75px;	background: #B31B1B;	}	#cu-identity-content {	position: relative;	margin: 0 auto;	width:90%;	height: 75px;	background: url(http://beta.library.cornell.edu/sites/all/themes/bootstrap_cul7/img/layout/cul-logo-red.gif) no-repeat;	}	#cu-identity-content a {	position: absolute;	display: block;	border: none;	/* hide text link */	text-indent: -1000em;	text-decoration: none;	}	#cu-identity-content img {	display: none;	}#insignia-link {	width: 80px;	height: 75px;	}#unit-signature-links a {	left: 80px;	width: 185px;	}#cornell-link {	height: 35px;	}	#unit-link1 {	top: 35px;	height: 20px;	}	#unit-link2 {	top: 55px;	height: 33px;	}</style>
+		<!-- END: CUSTOM HEAD SYSTEM JS/CSS -->
+		<!-- BEGIN: CUSTOM HEAD GUIDE JS/CSS -->
+		
+		<!-- END: CUSTOM HEAD GUIDE JS/CSS -->
+		<script src="//guides.library.cornell.edu/sa2.php?site_id=45&tsh=libguides-proc.springyaws.com&cms=1"></script>
+		<script>
+			springSpace.Common = springSpace.Common || { };
+
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "http://guides.library.cornell.edu/";
+			/*
+			springSpace.guidePublicObj = new springSpace.guidePublic.GuidePublic({
+				script_name: "/c.php",
+				guide_id: 31688,
+				page_id: 200747,
+				constant: {
+					PROCESSING: {
+
+					},
+					CONTENT: {
+						CONTENT_BOOKS: 5
+					}
+				}
+			});
+			*/
+			// Hide guide attributes and subjects/tags if theyre empty.
+			jQuery(function () {
+				//jQuery("#s-lg-guide-header-subjects").hide();
+				//jQuery("#s-lg-guide-header-tags").hide();
+			});
+
+			handleScroll=function() {
+				var target_elt = "";
+				var anchor = window.location.hash.substring(1);
+
+				if (jQuery.isNumeric(anchor)) {
+					xhr = jQuery.ajax({
+						async: false,
+						url: "/content_process.php",
+						type: "POST",
+						dataType: "json",
+						data: {
+							action: 562,
+							anchor: anchor
+						},
+						success: function(response, textStatus, jqXHR) {
+							if ((response.data.box_id != 0) && jQuery("#s-lg-box-" + response.data.box_id)) {
+								target_elt = "#s-lg-box-" + response.data.box_id;
+							}
+						},
+						error: function (jqXHR, textStatus, errorThrown) {
+
+						}
+					});
+				}
+				else if (false) {
+					target_elt = "#s-lg-page-section-200747";
+				}
+
+				if (target_elt != "") {
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
+					}
+				}
+			}
+	   </script>
+	   <script>
+			// Enable tooltips.
+			jQuery(function () {
+				try {
+					springSpace.UI.initPopOvers();
+				} catch (e) { }
+			});springSpace.springTrack.init({_st_site_id: '45',_st_guide_id: '31688',_st_page_id: '200747'});
+			jQuery(function() {springSpace.springTrack.trackPage({_st_type_id: '1',_st_group_id: '962',_st_guide_id: '31688',_st_page_id: '200747'});
+			});
+			jQuery(document).ready(function() {
+				handleScroll();
+			});
+	   </script>
+		        <!-- END: writeHead() -->
+        	</head>
+		<body class="s-lg-guide-body">
+		<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to main content</a>                <!-- BEGIN: Page Header -->
+        <div id="cu-identity-wrap">
+	<div id="cu-identity-content">
+		<a id="insignia-link" href="http://www.cornell.edu/"></a>
+		 <div id="unit-signature-links">
+                     <a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a> 
+                     <a id="unit-link1" href="http://www.library.cornell.edu">Library</a>
+                 </div>
+	</div> <!-- cu-identity-content -->
+</div> <!-- cu-identity-wrap -->        <!-- END: Page Header -->
+        <!-- BEGIN: Guide Info Header -->
+        <div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+            <div id="s-lib-bc">
+                
+			<ol id="s-lib-bc-list" class="breadcrumb">
+				
+					<li id="s-lib-bc-customer">
+						<a title="Cornell"  href="http://www.library.cornell.edu/">Cornell
+						</a>
+					</li>
+					<li id="s-lib-bc-site">
+						<a title="LibGuides"  href="//guides.library.cornell.edu">LibGuides
+						</a>
+					</li>
+					<li id="s-lib-bc-group">
+						<a title="NES: Near Eastern Studies"  href="//guides.library.cornell.edu/NES">NES: Near Eastern Studies
+						</a>
+					</li>
+					<li id="s-lib-bc-guide">
+						<a title="Arab Spring: A Research &amp; Study Guide * الربيع العربي"  href="//guides.library.cornell.edu/arab_spring">Arab Spring: A Research & Study Guide * الربيع العربي
+						</a>
+					</li>
+					<li id="s-lib-bc-page" class="active">Home
+					</li>
+			</ol>            </div>
+			<div class="pull-right">
+				<div id="s-lg-guide-header-search">
+					
+				<div id="s-lg-guide-search-box">
+					<form role="search" id="s-lg-guide-search-form" action="//guides.library.cornell.edu/srch.php" method="GET">
+						<div class="input-group input-group-sm">
+							<input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Search this Guide">
+							<label class="sr-only" for="s-lg-guide-search-terms">Search this Guide</label><input type="hidden" name="guide_id" value="31688" />
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="submit">Search</button>
+							</span>
+						</div>
+					</form>
+				</div>				</div>
+							</div>
+            <div id="s-lg-guide-header-info">
+                <h1 id="s-lg-guide-name">Arab Spring: A Research & Study Guide * الربيع العربي: Home</h1>
+                <div id="s-lg-guide-desc-container">
+                    <span id="s-lg-guide-description">This guide lists online and print sources for what has become known as the "Arab Spring," the popular revolutionary wave in the Middle East and North Africa that started in December 2010.</span>
+                </div>
+            </div>
+        </div>
+        <!-- END: Guide Info Header -->
+        <div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
+            <div id="s-lg-guide-tabs" class="tabs" role="navigation" aria-label="Guide Page Menu">
+                <ul class="nav nav-tabs split-button-nav" role="menu">
+                    
+				<li role="menuitem"  class="active">
+					<a
+						title=""
+						class="active"
+						href="/c.php?g=31688&p=200747" 
+                        aria-label="Navigate to the page: Home"
+					>
+						<span>Home</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="/c.php?g=31688&p=200749" 
+                        aria-label="Navigate to the page: General Background"
+					>
+						<span>General Background</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="/c.php?g=31688&p=200750" 
+                        aria-label="Navigate to the page: Tunisia"
+					>
+						<span>Tunisia</span>
+                        
+					</a>
+				</li>
+					<li role="menuitem"  class="dropdown clearfix" aria-haspopup="true">
+                        <a
+							title=""
+							class="s-lg-tab-top-link  pull-left"
+							href="/c.php?g=31688&p=200748" 
+                            aria-label="Navigate to the page: Egypt"
+						>
+                    		<span>Egypt</span>
+                            
+						</a>
+						<a class="s-lg-tab-drop dropdown-toggle" data-toggle="dropdown" aria-label="Guide sub-page dropdown control" href="javascript:void();">
+                            <span class="caret"></span>
+                            <span class="sr-only">Toggle Dropdown</span>
+                        </a>
+                        <ul  class="s-lg-subtab-ul dropdown-menu" role="menu">
+                            <li role="menuitem" >
+                                <a
+									title=""
+									href="/c.php?g=31688&p=200755" 
+                                    aria-label="Navigate to the page: Egypt in Transition"
+								>Egypt in Transition
+                                    
+								</a>
+                            </li></ul>
+					</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="/c.php?g=31688&p=200751" 
+                        aria-label="Navigate to the page: Libya"
+					>
+						<span>Libya</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="/c.php?g=31688&p=200752" 
+                        aria-label="Navigate to the page: Yemen"
+					>
+						<span>Yemen</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="/c.php?g=31688&p=200753" 
+                        aria-label="Navigate to the page: Syria"
+					>
+						<span>Syria</span>
+                        
+					</a>
+				</li>
+				<li role="menuitem" >
+					<a
+						title=""
+						class=""
+						href="/c.php?g=31688&p=200754" 
+                        aria-label="Navigate to the page: Bahrain"
+					>
+						<span>Bahrain</span>
+                        
+					</a>
+				</li>                </ul>
+            </div>
+        </div>
+        <div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+        <!-- BEGIN: Guide Content -->
+        <div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+            			
+				<div class="row s-lg-row">
+    <div id="s-lg-col-126" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-9">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-703786" class="s-lg-box-wrapper-703786">
+					<div id="s-lg-box-618945-container" class="s-lib-box-container">
+						<div id="s-lg-box-618945" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Background
+                                </h2>
+							<div id="s-lg-box-collapse-618945" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-1162035" class="  clearfix">
+				<p style="text-align: left;"><span style="font-family: times new roman,times;"><span style="font-size: 12pt; line-height: 115%;">Since December 2010 the world has watched as demonstrations and protests spread across countries in North Africa and the Middle East. </span><span style="font-size: 12pt; line-height: 115%;">These pro</span><span style="font-size: 12pt; line-height: 115%;">-</span><span style="font-size: 12pt; line-height: 115%;">democracy movements rose up against the dictatorial regimes and corrupt leaders that had ruled for decades in some cases. </span><span style="font-size: 12pt; line-height: 115%;">Someone called these revolutionary events &ldquo;Arab Spring,&rdquo; and the phrase stuck. </span><span style="font-size: 12pt; line-height: 115%;"></span></span><span style="font-size: 12pt; line-height: 115%; font-family: 'Times New Roman','serif';">The specificity of these Arab revolutions is that they have been popular uprisings, leaderless and uncompromising in demanding total change. </span><span style="font-family: times new roman,times;"><span style="font-size: 12pt; line-height: 115%;">Why have the events in Tunisia, Egypt, Libya, Yemen, Syria, etc. followed such different paths? What are the </span><span style="font-size: 12pt; line-height: 115%;">long-term political, social, and economic ramifications of these revolutions? </span><span style="font-size: 12pt; line-height: 115%;">What are their intended and unintended consequences as countries across the region seek political and social reforms? </span><span style="font-size: 12pt; line-height: 115%;">What's the future of the Arab revolution with regard to the crucial issues of freedom, democracy, fidelity to Islam, secularism, and tribal power? There are a lot of questions and there is much to study in the causes and factors that led to these large-scale movements.&nbsp; </span><span style="font-size: 12pt; line-height: 115%;">This guide will attempt to provide direction to the appropriate source material within the library and beyond.</span></span></p>
+<p style="text-align: left;"><span style="font-family: times new roman,times;"><span style="font-size: 12pt; line-height: 115%;"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://lgimages.s3.amazonaws.com/data/imagemanager/48495/3revol.jpg" /></span></span></p>
+<p style="text-align: center;"><span class="newsarticlefull"><font face="Verdana" size="5"><span lang="AR-SA">إذا الشّعْبُ&nbsp; يَوْمَاً&nbsp; أرَادَ&nbsp;&nbsp; الْحَيَـاةَ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; فَلا&nbsp; بُدَّ&nbsp; أنْ&nbsp; يَسْتَجِيبَ&nbsp;&nbsp; القَـدَر</span></font></span></p>
+<p style="text-align: center;"><span class="newsarticlefull"><font face="Verdana" size="5"><span lang="AR-SA">وَلا بُـدَّ&nbsp; لِلَّيـْلِ أنْ&nbsp; يَنْجَلِــي&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;وَلا&nbsp; بُدَّ&nbsp; للقَيْدِ&nbsp; أَنْ&nbsp;&nbsp; يَـنْكَسِـر</span></font></span></p>
+<p style="text-align: center;"></p>
+<p class="MsoNormal" style="margin-bottom: 12pt; line-height: normal; background: none repeat scroll 0% 0% white; text-align: center;"><span style="font-size: medium; font-family: courier new,courier;"><em><b>If a people one day wills to live --- fate [God] must answer its call</b></em><b><i><br /> <em>And the night must fade ---- and the chain must break</em></i></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 12pt; line-height: normal; background: none repeat scroll 0% 0% white; text-align: center;"><span style="font-size: small; color: #000000; font-family: times new roman,times;">(by</span><span style="font-size: small;"><span style="color: #000000;"><span style="line-height: 115%; font-family: 'Times New Roman','serif';"> Tunisian poet Abou el-Kacem al-Chebbi</span></span><span style="color: #000000;"><span style="line-height: 115%; font-family: 'Times New Roman','serif';">, </span></span></span><span style="font-size: 11pt; line-height: 115%; font-family: 'Calibri','sans-serif';"><span style="font-family: times new roman,times;">b.</span> <span style="font-size: small; font-family: times new roman,times;">February</span><span style="font-size: small;"><span style="font-family: times new roman,times;"> 24</span> ,<span style="font-family: times new roman,times;">1909</span> <span style="font-family: times new roman,times;">- d.</span> <span style="font-family: times new roman,times;">October</span> <span style="font-family: times new roman,times;">9,</span> <span style="font-family: times new roman,times;">1934</span></span></span><span style="font-size: small; color: #000000; font-family: times new roman,times;">)</span></p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-703787" class="s-lg-box-wrapper-703787">
+					<div id="s-lg-box-620038-container" class="s-lib-box-container">
+						<div id="s-lg-box-620038" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">The Seven Steps of the Research Process
+                                </h2>
+							<div id="s-lg-box-collapse-620038" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-1162905" class="  clearfix">
+				<p><strong>STEP 1: <a href="http://olinuris.library.cornell.edu/ref/research/topic.html">IDENTIFY AND DEVELOP YOUR TOPIC</a></strong></p>
+<p><strong>STEP 2: <a href="http://olinuris.library.cornell.edu/ref/research/background.html">FIND BACKGROUND INFORMATION</a></strong></p>
+<p><strong>STEP 3: <a href="http://olinuris.library.cornell.edu/ref/research/books.html">USE CATALOGS TO FIND BOOKS AND MEDIA</a></strong></p>
+<p><strong>STEP 4: <a href="http://olinuris.library.cornell.edu/ref/research/periodical.html">USE INDEXES TO FIND PERIODICAL ARTICLES</a></strong></p>
+<p><strong>STEP 5: <a href="http://olinuris.library.cornell.edu/ref/research/wwwguides.html">FIND INTERNET RESOURCES</a></strong></p>
+<p><strong>STEP 6: <a href="http://olinuris.library.cornell.edu/ref/research/evaluate.html">EVALUATE WHAT YOU FIND</a></strong></p>
+<p><strong>STEP 7: CITE WHAT YOU FIND USING A STANDARD FORMAT </strong></p>
+<p style="padding-left: 30px;"><strong>Available online</strong>:</p>
+<p style="padding-left: 30px;"><a href="http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.refworks.com/refworks"><strong>RefWorks</strong></a> is a web-based program that allows you to easily collect, manage, and organize bibliographic references by interfacing with databases. RefWorks also interfaces directly with Word, making it easy to import references and incorporate them into your writing, properly formatted according to the style of your choice.</p>
+<p style="padding-left: 30px;"><a href="http://www.library.cornell.edu/services/citing.html"><strong>See our guide to citation tools and styles</strong></a>.</p>
+<p style="padding-left: 30px;">Format the citations in your bibliography using examples from the following Library help pages: <a href="http://www.library.cornell.edu/resrch/citmanage/mla"><strong>Modern Language Association (MLA) examples</strong></a> and <a href="http://www.library.cornell.edu/resrch/citmanage/apa"><strong>American Psychological Association (APA) examples</strong></a>.</p>
+<p><a href="http://www.library.cornell.edu/ask"><img src="http://olinuris.library.cornell.edu/sites/default/files/imported/ref/research/ask.gif" alt="" border="0" /></a></p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-703788" class="s-lg-box-wrapper-703788">
+					<div id="s-lg-box-619961-container" class="s-lib-box-container">
+						<div id="s-lg-box-619961" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Evaluation of Web Resources
+                                </h2>
+							<div id="s-lg-box-collapse-619961" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-1162839" class="  clearfix">
+				<p><span style="font-family: helvetica; font-size: xx-small;"><a target="_blank" href="http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/Evaluate.html"><strong><font style="font-size: small;" face="verdana,geneva" size="3">Evaluating Web Pages: Questions to Ask &amp; Strategies for Getting the Answers</font></strong></a><font style="font-size: small;" face="verdana,geneva" size="3"> </font></span></p>
+<p></p>
+<p><span style="font-family: helvetica; font-size: xx-small;"><em><font style="font-size: small;" face="verdana,geneva" size="3">Eight-point evaluation checklist from the UC Berkeley Library: </font></em></span></p>
+<p></p>
+<p><span style="font-family: helvetica; font-size: xx-small;"></span></p>
+<p></p>
+<ul>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">What can the URL tell you? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Who wrote the page? Is he, she, or the authoring institution a qualified authority? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Is it dated? Current, timely? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Is information cited authentic? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Does the page have overall integrity and reliability as a source? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">What's the bias? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Could the page or site be ironic, like a satire or a spoof? </font></span></li>
+<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">If you have questions or reservations, how can you satisfy them?</font></span></li>
+</ul>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-2" class="col-md-3">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-652470" class="s-lg-box-wrapper-652470">
+					<div id="s-lg-box-576481-container" class="s-lib-box-container">
+						<div id="s-lg-box-576481" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Middle East Librarian
+                                </h2>
+							<div id="s-lg-box-collapse-576481" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lib-profile-6506" class="s-lib-profile-container">
+				<div id="s-lib-profile-image-6506" class="s-lib-profile-div s-lib-profile-center s-lib-profile-image"><a href="//guides.library.cornell.edu/prf.php?account_id=9326">						
+					<img src="//libapps.s3.amazonaws.com/accounts/9326/profiles/6506/thumbnail_port.jpg" alt="Ali Houissa" /></a>
+				</div>
+				<div id="s-lib-profile-name-6506" class="s-lib-profile-div s-lib-profile-center s-lib-profile-name">Ali Houissa
+				</div>
+				<div id="s-lib-profile-email-6506" class="s-lib-profile-div s-lib-profile-center s-lib-profile-email"><a title="ah16@cornell.edu" href="mailto:ah16@cornell.edu" class="label label-info" style="font-size:1.6em;">Email Me</a>
+				</div>
+				<div id="s-lib-profile-widget-la-6506" class="s-lib-profile-div s-lib-profile-widget-la">
+					<div class="s-lib-profile-widget"><center>
+<a href="http://vivo.cornell.edu/display/individual22719" target="_top"> <img alt="VIVO" border="1" height="33"src="https://s3.amazonaws.com/libapps/accounts/218/images/vivo.jpg" width="125" /></a> </center>
+					</div>
+				</div>
+				<div id="s-lib-profile-widget-lc-6506" class="s-lib-profile-div s-lib-profile-widget-lc">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-widget-other-6506" class="s-lib-profile-div s-lib-profile-widget-other">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-contact-6506" class="s-lib-profile-div s-lib-profile-contact"><strong>Contact:</strong><div>174 Kroch Library <br />
+Cornell University<br />
+Ithaca, NY, 14853<br />
+USA<br />
+Voice: (607) 254-1614  (607) 255-5752<br />
+Fax: 255-6110<br />
+ah16@cornell.edu</div><a title="Website / Blog" href="http://www.library.cornell.edu/colldev/mideast"><i class="fa fa-bookmark fa-lg"><span class="sr-only">Website / Blog Page</span></i></a>
+				</div>
+				<div id="s-lib-profile-social-6506" class="s-lib-profile-div s-lib-profile-social">
+				</div>
+				<div id="s-lib-profile-subjects-6506" class="s-lib-profile-div s-lib-profile-subjects">
+				</div>
+			</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-127" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>            
+				<ul id="s-lg-page-prevnext" class="pager s-lib-hide">
+					<li class="previous">
+					
+					</li>
+					<li class="next">
+					<a href="/c.php?g=31688&p=200749"><strong>Next:</strong> General Background &gt;&gt;</a>
+					</li>
+				</ul>        </div>
+        <!-- END: Guide Content -->
+        <!-- BEGIN: Page Footer -->
+        <div id="s-lib-footer-public" class="s-lib-footer footer container  s-lib-side-borders">
+            <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+                <ul id="s-lg-guide-header-attributes" class="">
+                    <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Oct 12, 2016 1:26 PM</span>                    </li>
+                    <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">http://guides.library.cornell.edu/arab_spring</span>                    </li>
+                    <li id="s-lg-guide-print-url">
+                        <a href="javascript: window.print();"><i class="fa fa-print" title="Print Page"></i> Print Page</a>                    </li>
+                </ul>
+                <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+                    <a href="https://cornell.libapps.com/libapps/login.php?site_id=45&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTMxNjg4JnA9MjAwNzQ3">Login to LibApps</a>                </div>
+            </div>
+            <div class="pad-bottom-sm clearfix">
+                <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                     
+                </div>
+                <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                    
+                    <span class="s-lg-guide-label">Subjects: </span>
+                    <span class="s-lg-small bold"><a href="//guides.library.cornell.edu/sb.php?subject_id=88068">Area: Middle East</a>, <a href="//guides.library.cornell.edu/sb.php?subject_id=10347">Government & Public Policy</a></span>
+                                    </div>
+                <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    
+                    <span class="s-lg-guide-label">Tags: </span>
+                    <span class="s-lg-small bold"><a href="//guides.library.cornell.edu/srch.php?tag=2011 revolution&default_lg=1">2011 revolution</a>, <a href="//guides.library.cornell.edu/srch.php?tag=arab awakening&default_lg=1">arab awakening</a>, <a href="//guides.library.cornell.edu/srch.php?tag=arab revolutions&default_lg=1">arab revolutions</a>, <a href="//guides.library.cornell.edu/srch.php?tag=arab spring&default_lg=1">arab spring</a>, <a href="//guides.library.cornell.edu/srch.php?tag=bahrain&default_lg=1">bahrain</a>, <a href="//guides.library.cornell.edu/srch.php?tag=egypt&default_lg=1">egypt</a>, <a href="//guides.library.cornell.edu/srch.php?tag=jasmine revolution&default_lg=1">jasmine revolution</a>, <a href="//guides.library.cornell.edu/srch.php?tag=middle east unrest&default_lg=1">middle east unrest</a>, <a href="//guides.library.cornell.edu/srch.php?tag=olin_subject&default_lg=1">olin_subject</a>, <a href="//guides.library.cornell.edu/srch.php?tag=printemps arabe&default_lg=1">printemps arabe</a>, <a href="//guides.library.cornell.edu/srch.php?tag=syria&default_lg=1">syria</a>, <a href="//guides.library.cornell.edu/srch.php?tag=tahrir&default_lg=1">tahrir</a>, <a href="//guides.library.cornell.edu/srch.php?tag=tunisia&default_lg=1">tunisia</a>, <a href="//guides.library.cornell.edu/srch.php?tag=yemen. الثورات العربية‎&default_lg=1">yemen. الثورات العربية‎</a></span>
+                                    </div>
+            </div>
+        </div>
+        <!-- END: Page Footer -->
+        
+			<div id="s-lib-scroll-top">
+				<a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top"
+				aria-hidden="true">
+					<span class="fa-stack fa-lg">
+					  <i class="fa fa-square-o fa-stack-2x"></i>
+					  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+					</span>
+				</a>
+			</div>        <div id="s-lib-alert" title="">
+                            <div id="s-lib-alert-content"></div>
+                       </div>        
+                <!-- BEGIN: Custom Footer -->
+                
+
+		<!-- END: Custom Footer -->
+	</body>
+	</html>
+	

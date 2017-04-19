@@ -1,0 +1,1276 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 7]>    <html class="lt-ie9 lt-ie8" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 8]>    <html class="lt-ie9" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head>
+  <title>Children's Rights | Human Rights Watch</title>
+  <script type="text/javascript">!function(){function t(t,e){"function"!=typeof p[t]&&(p[t]=e)}function e(t,e,n,r,o){var a=function(a){s&&s(a);var c=n.push(a),i=f[r];if(i)for(var p=0;p<i.length;++p)i[p](e,a,t[5],c);return o};return o||(o=a),a}function n(t){var e,n=r[h]("script");for(n.type="text/javascript",n.async=!0,n.src="http"+("https:"===r.location.protocol?"s:":":")+t;!(e=r[v](d)[0]);)r[v]("html")[0][l](r[h](d));e[l](n)}var r,o=new Date,a=new Function("return this;")(),c=a.top;try{r=c.document}catch(i){}void 0===r&&(c=a,r=c.document);var p=c.DeepTrack||(c.DeepTrack={}),u={},f={},s=Object.freeze;t("hash",function(t){function e(){return t}return e}),t("each",function(t,e){e||(e=1);for(var n in u)for(var r=u[n],o=r[e],a=r[5],c=0;c<o.length;++c)t(n,o[c],a,c);var i=f[e]||(f[e]=[]);i.push(t)}),t("getInitTime",function(){return o}),t("options",function(t){return u[t][0].options}),t("track",function(t,n){var r,o,a,c,i,f=u[t];return f?(r=f[0],n&&(f[5]=n)):(u[t]=f=[0,o=[],a=[],c=[],i=[],n],f[0]=r=e(f,t,o,1),r.event=e(f,t,a,2,r),r.transform=e(f,t,c,3,r),r.newpage=e(f,t,i,4,r),r.hash=p.hash,r.options={}),r});var h="createElement",v="getElementsByTagName",l="appendChild",d="head",m="function"==typeof r.querySelectorAll?"":"-sizzle";n("//api.deep.bi/scripts/v1/track"+m+".js")}();var deep=DeepTrack.track("V52JBHmmKyTOzPSI","I70Tz73coQMy6pZkKjbAE1b3");deep.options.media=!0,deep();</script>
+<link rel="shortcut icon" href="https://www.hrw.org/sites/all/themes/hrw/favicon.ico" type="image/vnd.microsoft.icon" />
+<noscript><link href="https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.fallback.css" rel="stylesheet"></noscript><link href="https://www.hrw.org/zh-hans/topic/childrens-rights" rel="alternate" hreflang="zh-hans" />
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta http-equiv="cleartype" content="on" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<link href="https://www.hrw.org/ru/topic/childrens-rights" rel="alternate" hreflang="ru" />
+<link href="https://www.hrw.org/fr/topic/childrens-rights" rel="alternate" hreflang="fr" />
+<link href="https://www.hrw.org/es/topic/childrens-rights" rel="alternate" hreflang="es" />
+<link href="https://www.hrw.org/topic/childrens-rights" rel="alternate" hreflang="en" />
+<link href="https://www.hrw.org/de/topic/childrens-rights" rel="alternate" hreflang="de" />
+<link href="https://www.hrw.org/pt/topic/childrens-rights" rel="alternate" hreflang="pt" />
+<link href="https://www.hrw.org/he/topic/childrens-rights" rel="alternate" hreflang="he" />
+<link href="https://www.hrw.org/ja/topic/childrens-rights" rel="alternate" hreflang="ja" />
+<link href="https://www.hrw.org/ar/topic/childrens-rights" rel="alternate" hreflang="ar" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="description" content="Millions of children have no access to education, work long hours under hazardous conditions and are forced to serve as soldiers in armed conflict. They suffer targeted attacks on their schools and teachers or languish in institutions or detention centers, where they endure inhumane conditions and assaults on their dignity. Young and immature, they are often easily exploited. In many cases, they are abused by the very individuals responsible for their care. We are working to help protect children around the world, so they can grow into adults." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hrw.org/topic/childrens-rights" />
+<link rel="shortlink" href="https://www.hrw.org/taxonomy/term/9683" />
+<meta property="og:site_name" content="Human Rights Watch" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.hrw.org/topic/childrens-rights" />
+<meta property="og:title" content="Children&#039;s Rights" />
+<meta property="og:description" content="Millions of children have no access to education, work long hours under hazardous conditions and are forced to serve as soldiers in armed conflict. They suffer targeted attacks on their schools and teachers or languish in institutions or detention centers, where they endure inhumane conditions and assaults on their dignity. Young and immature, they are often easily exploited. In many cases, they are abused by the very individuals responsible for their care. We are working to help protect children around the world, so they can grow into adults." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.hrw.org/topic/childrens-rights" />
+<meta name="twitter:title" content="Children&#039;s Rights" />
+<meta name="twitter:description" content="Millions of children have no access to education, work long hours under hazardous conditions and are forced to serve as soldiers in armed conflict. They suffer targeted attacks on their schools and teachers or languish in institutions or detention centers, where they endure inhumane conditions and assaults on their dignity. Young and immature, they are often easily exploited. In many cases, they are abused by the very individuals responsible for their care. We are working to help protect children around the world, so they can grow into adults." />
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.hrw.org/sites/all/themes/hrw/favicon.ico" />
+  <!--[if lt IE 9]><script src="/sites/all/libraries/html5shiv/html5shiv.js"></script><![endif]-->
+  <!--[if lt IE 9]><script src="/sites/all/libraries/html5shiv/html5shiv-printshiv.js"></script><![endif]-->
+  <link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_pL9Fy1fRJowWiNNKIES0o6TEdr3aR-fnLwLYUTftmwI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_2bvt6nKp0MGkfPnBEuwhOu0W6wvTqV6lmBZuPqa7Rpk.css" media="all" />
+<style type="text/css" media="screen">
+<!--/*--><![CDATA[/*><!--*/
+@media screen{.campaign-section--hero--294924{background-image:url('https://www.hrw.org/sites/default/files/styles/16x9/public/multimedia_images_2017/dsc_1971-edit_0.jpg?itok=c9-YBBMW');}@media screen and (min-width:833px){.campaign-section--hero--294924{background-image:url('https://www.hrw.org/sites/default/files/styles/marquee/public/multimedia_images_2017/dsc_1971-edit_0.jpg?itok=Ama7AmK6');}}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_Nu6xYj6WKzSKvSRM0EBP3zspZei_zssvJCDcu1uGA4Q.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/f6b12f55-6a39-4418-bd32-e1341eb2a92e.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_EKX7KB1SXb9fOg4NdGo5XHNysY7A1nslORFmshriV9Q.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_6n3APbtVIldfQTh6cRqNC6qQmrmB7r0WXb19MhTe_Ro.css" media="print" />
+  <script src="https://cdn.polyfill.io/v2/polyfill.js?features=Promise"></script>
+  <script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_tSSQwp5KLrobKT6ny7srWOmGr7QW19FIulV2vpTe_fo.js"></script>
+<script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_hn8Bct4tSBDM8-pZTXAc-PPa6YCcujxAARoQvc1YuFQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hrw","theme_token":"71J73aTOMDq5sff9Lk-obrC8cU9_fCQipk_0YRAneSE","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"0":1,"sites\/all\/themes\/hrw\/build\/js\/common.js":1,"sites\/all\/themes\/hrw\/build\/js\/main.js":1,"sites\/all\/modules\/custom\/hrw_multimedia\/js\/hrw_multimedia.youtubeCount.js":1,"1":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/modules\/custom\/hrw_panels\/js\/hrw_panels_twitter_widget.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/unveil\/jquery.unveil.js":1,"sites\/all\/libraries\/swfobject\/swfobject.js":1,"sites\/all\/modules\/custom\/hrw_views\/js\/hrw_views.unveil.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/patched\/footnotes\/footnotes.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/patched\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"0":1,"sites\/all\/modules\/patched\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/custom\/hrw_share\/css\/hrw-share.css":1,"sites\/all\/themes\/hrw\/build\/css\/screen.css":1,"\/\/fast.fonts.net\/cssapi\/f6b12f55-6a39-4418-bd32-e1341eb2a92e.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/ctools.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/field.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/node.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/system.messages.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/system.menus.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/user.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/views.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/field_collection.theme.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/system.base.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/system.theme.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/search.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/vertical-tabs.css":1,"sites\/all\/themes\/hrw\/build\/css\/jplayer.css":1,"sites\/all\/themes\/hrw\/build\/css\/print.css":1}},"chartbeat":{"uid":8172,"domain":"www.hrw.org","useCanonical":true,"noCookies":false},"better_exposed_filters":{"views":{"latest_videos":{"displays":{"panel_pane_1":{"filters":[]}}},"latest_content":{"displays":{"panel_pane_1":{"filters":[]}}},"latest_reports":{"displays":{"panel_pane_1":{"filters":[]}}},"promo_boxes":{"displays":{"panel_pane_3":{"filters":[]}}},"daily_brief":{"displays":{"panel_pane_1":{"filters":[]}}},"latest_interactive":{"displays":{"panel_pane_1":{"filters":[]}}},"featured_content":{"displays":{"panel_pane_1":{"filters":[]}}},"take_action":{"displays":{"panel_pane_1":{"filters":[]}}}}},"photo_essay":{"album":null},"hrw_navigation_tid":"9683","hrw_navigation_pid":"9683","hrw_navigation":{"region_country":{"term9450":{"path":"\/africa","name":"Africa","id":"9450","weight":0},"term9457":{"path":"\/africa\/angola","name":"Angola","id":"9457","weight":1,"pid":"9450"},"term9461":{"path":"\/africa\/burundi","name":"Burundi","id":"9461","weight":2,"pid":"9450"},"term9462":{"path":"\/africa\/cameroon","name":"Cameroon","id":"9462","weight":3,"pid":"9450"},"term9464":{"path":"\/africa\/central-african-republic","name":"Central African Republic","id":"9464","weight":4,"pid":"9450"},"term9465":{"path":"\/africa\/chad","name":"Chad","id":"9465","weight":5,"pid":"9450"},"term9468":{"path":"\/africa\/cote-divoire","name":"C\u00f4te d\u0027Ivoire","id":"9468","weight":6,"pid":"9450"},"term9469":{"path":"\/africa\/democratic-republic-congo","name":"Democratic Republic of Congo","id":"9469","weight":7,"pid":"9450"},"term9471":{"path":"\/africa\/equatorial-guinea","name":"Equatorial Guinea","id":"9471","weight":8,"pid":"9450"},"term9472":{"path":"\/africa\/eritrea","name":"Eritrea","id":"9472","weight":9,"pid":"9450"},"term9473":{"path":"\/africa\/ethiopia","name":"Ethiopia","id":"9473","weight":10,"pid":"9450"},"term9475":{"path":"\/africa\/gambia","name":"Gambia","id":"9475","weight":11,"pid":"9450"},"term9476":{"path":"\/africa\/ghana","name":"Ghana","id":"9476","weight":12,"pid":"9450"},"term9477":{"path":"\/africa\/guinea","name":"Guinea","id":"9477","weight":13,"pid":"9450"},"term9479":{"path":"\/africa\/kenya","name":"Kenya","id":"9479","weight":14,"pid":"9450"},"term9481":{"path":"\/africa\/liberia","name":"Liberia","id":"9481","weight":15,"pid":"9450"},"term9483":{"path":"\/africa\/malawi","name":"Malawi","id":"9483","weight":16,"pid":"9450"},"term9484":{"path":"\/africa\/mali","name":"Mali","id":"9484","weight":17,"pid":"9450"},"term9486":{"path":"\/africa\/mozambique","name":"Mozambique","id":"9486","weight":18,"pid":"9450"},"term9489":{"path":"\/africa\/nigeria","name":"Nigeria","id":"9489","weight":19,"pid":"9450"},"term9490":{"path":"\/africa\/rwanda","name":"Rwanda","id":"9490","weight":20,"pid":"9450"},"term9491":{"path":"\/africa\/senegal","name":"Senegal","id":"9491","weight":21,"pid":"9450"},"term9493":{"path":"\/africa\/sierra-leone","name":"Sierra Leone","id":"9493","weight":22,"pid":"9450"},"term9494":{"path":"\/africa\/somalia","name":"Somalia","id":"9494","weight":23,"pid":"9450"},"term9495":{"path":"\/africa\/south-africa","name":"South Africa","id":"9495","weight":24,"pid":"9450"},"term9496":{"path":"\/africa\/south-sudan","name":"South Sudan","id":"9496","weight":25,"pid":"9450"},"term9497":{"path":"\/africa\/sudan","name":"Sudan","id":"9497","weight":26,"pid":"9450"},"term9499":{"path":"\/africa\/tanzania-and-zanzibar","name":"Tanzania and Zanzibar","id":"9499","weight":27,"pid":"9450"},"term9501":{"path":"\/africa\/uganda","name":"Uganda","id":"9501","weight":28,"pid":"9450"},"term9502":{"path":"\/africa\/zambia","name":"Zambia","id":"9502","weight":29,"pid":"9450"},"term9503":{"path":"\/africa\/zimbabwe","name":"Zimbabwe","id":"9503","weight":30,"pid":"9450"},"term9451":{"path":"\/americas","name":"Americas","id":"9451","weight":31},"term9505":{"path":"\/americas\/argentina","name":"Argentina","id":"9505","weight":32,"pid":"9451"},"term9509":{"path":"\/americas\/bolivia","name":"Bolivia","id":"9509","weight":33,"pid":"9451"},"term9510":{"path":"\/americas\/brazil","name":"Brazil","id":"9510","weight":34,"pid":"9451"},"term9511":{"path":"\/americas\/canada","name":"Canada","id":"9511","weight":35,"pid":"9451"},"term9512":{"path":"\/americas\/chile","name":"Chile","id":"9512","weight":36,"pid":"9451"},"term9513":{"path":"\/americas\/colombia","name":"Colombia","id":"9513","weight":37,"pid":"9451"},"term9514":{"path":"\/americas\/costa-rica","name":"Costa Rica","id":"9514","weight":38,"pid":"9451"},"term9515":{"path":"\/americas\/cuba","name":"Cuba","id":"9515","weight":39,"pid":"9451"},"term9516":{"path":"\/americas\/dominican-republic","name":"Dominican Republic","id":"9516","weight":40,"pid":"9451"},"term9517":{"path":"\/americas\/ecuador","name":"Ecuador","id":"9517","weight":41,"pid":"9451"},"term9518":{"path":"\/americas\/el-salvador","name":"El Salvador","id":"9518","weight":42,"pid":"9451"},"term9521":{"path":"\/americas\/guatemala","name":"Guatemala","id":"9521","weight":43,"pid":"9451"},"term9523":{"path":"\/americas\/haiti","name":"Haiti","id":"9523","weight":44,"pid":"9451"},"term9524":{"path":"\/americas\/honduras","name":"Honduras","id":"9524","weight":45,"pid":"9451"},"term9525":{"path":"\/americas\/jamaica","name":"Jamaica","id":"9525","weight":46,"pid":"9451"},"term9526":{"path":"\/americas\/mexico","name":"Mexico","id":"9526","weight":47,"pid":"9451"},"term9527":{"path":"\/americas\/nicaragua","name":"Nicaragua","id":"9527","weight":48,"pid":"9451"},"term9529":{"path":"\/americas\/paraguay","name":"Paraguay","id":"9529","weight":49,"pid":"9451"},"term9530":{"path":"\/americas\/peru","name":"Peru","id":"9530","weight":50,"pid":"9451"},"term9536":{"path":"\/americas\/uruguay","name":"Uruguay","id":"9536","weight":51,"pid":"9451"},"term9537":{"path":"\/americas\/venezuela","name":"Venezuela","id":"9537","weight":52,"pid":"9451"},"term9452":{"path":"\/asia","name":"Asia","id":"9452","weight":53},"term9538":{"path":"\/asia\/afghanistan","name":"Afghanistan","id":"9538","weight":54,"pid":"9452"},"term9539":{"path":"\/asia\/australia","name":"Australia","id":"9539","weight":55,"pid":"9452"},"term9540":{"path":"\/asia\/bangladesh","name":"Bangladesh","id":"9540","weight":56,"pid":"9452"},"term9543":{"path":"\/asia\/burma","name":"Burma","id":"9543","weight":57,"pid":"9452"},"term9544":{"path":"\/asia\/cambodia","name":"Cambodia","id":"9544","weight":58,"pid":"9452"},"term9545":{"path":"\/asia\/china-and-tibet","name":"China and Tibet","id":"9545","weight":59,"pid":"9452"},"term9547":{"path":"\/asia\/east-timor","name":"East Timor","id":"9547","weight":60,"pid":"9452"},"term9549":{"path":"\/asia\/fiji","name":"Fiji","id":"9549","weight":61,"pid":"9452"},"term9550":{"path":"\/asia\/india","name":"India","id":"9550","weight":62,"pid":"9452"},"term9551":{"path":"\/asia\/indonesia","name":"Indonesia","id":"9551","weight":63,"pid":"9452"},"term9552":{"path":"\/asia\/japan","name":"Japan","id":"9552","weight":64,"pid":"9452"},"term9554":{"path":"\/asia\/laos","name":"Laos","id":"9554","weight":65,"pid":"9452"},"term9555":{"path":"\/asia\/malaysia","name":"Malaysia","id":"9555","weight":66,"pid":"9452"},"term9559":{"path":"\/asia\/nauru","name":"Nauru","id":"9559","weight":67,"pid":"9452"},"term9560":{"path":"\/asia\/nepal","name":"Nepal","id":"9560","weight":68,"pid":"9452"},"term9563":{"path":"\/asia\/north-korea","name":"North Korea","id":"9563","weight":69,"pid":"9452"},"term9564":{"path":"\/asia\/pakistan","name":"Pakistan","id":"9564","weight":70,"pid":"9452"},"term9566":{"path":"\/asia\/papua-new-guinea","name":"Papua New Guinea","id":"9566","weight":71,"pid":"9452"},"term9567":{"path":"\/asia\/philippines","name":"Philippines","id":"9567","weight":72,"pid":"9452"},"term9569":{"path":"\/asia\/singapore","name":"Singapore","id":"9569","weight":73,"pid":"9452"},"term9571":{"path":"\/asia\/south-korea","name":"South Korea","id":"9571","weight":74,"pid":"9452"},"term9572":{"path":"\/asia\/sri-lanka","name":"Sri Lanka","id":"9572","weight":75,"pid":"9452"},"term9573":{"path":"\/asia\/taiwan","name":"Taiwan","id":"9573","weight":76,"pid":"9452"},"term9574":{"path":"\/asia\/thailand","name":"Thailand","id":"9574","weight":77,"pid":"9452"},"term9578":{"path":"\/asia\/vietnam","name":"Vietnam","id":"9578","weight":78,"pid":"9452"},"term9453":{"path":"\/europe\/central-asia","name":"Europe\/Central Asia","id":"9453","weight":79},"term9579":{"path":"\/europe\/central-asia\/albania","name":"Albania","id":"9579","weight":80,"pid":"9453"},"term9581":{"path":"\/europe\/central-asia\/armenia","name":"Armenia","id":"9581","weight":81,"pid":"9453"},"term9583":{"path":"\/europe\/central-asia\/azerbaijan","name":"Azerbaijan","id":"9583","weight":82,"pid":"9453"},"term9584":{"path":"\/europe\/central-asia\/belarus","name":"Belarus","id":"9584","weight":83,"pid":"9453"},"term9585":{"path":"\/europe\/central-asia\/belgium","name":"Belgium","id":"9585","weight":84,"pid":"9453"},"term9586":{"path":"\/europe\/central-asia\/bosnia-and-herzegovina","name":"Bosnia and Herzegovina","id":"9586","weight":85,"pid":"9453"},"term9587":{"path":"\/europe\/central-asia\/bulgaria","name":"Bulgaria","id":"9587","weight":86,"pid":"9453"},"term9588":{"path":"\/europe\/central-asia\/croatia","name":"Croatia","id":"9588","weight":87,"pid":"9453"},"term9590":{"path":"\/europe\/central-asia\/czech-republic","name":"Czech Republic","id":"9590","weight":88,"pid":"9453"},"term9592":{"path":"\/europe\/central-asia\/estonia","name":"Estonia","id":"9592","weight":89,"pid":"9453"},"term9593":{"path":"\/europe\/central-asia\/european-union","name":"European Union","id":"9593","weight":90,"pid":"9453"},"term9595":{"path":"\/europe\/central-asia\/france","name":"France","id":"9595","weight":91,"pid":"9453"},"term9596":{"path":"\/europe\/central-asia\/georgia","name":"Georgia","id":"9596","weight":92,"pid":"9453"},"term9597":{"path":"\/europe\/central-asia\/germany","name":"Germany","id":"9597","weight":93,"pid":"9453"},"term9598":{"path":"\/europe\/central-asia\/greece","name":"Greece","id":"9598","weight":94,"pid":"9453"},"term9599":{"path":"\/europe\/central-asia\/holy-see","name":"Holy See","id":"9599","weight":95,"pid":"9453"},"term9600":{"path":"\/europe\/central-asia\/hungary","name":"Hungary","id":"9600","weight":96,"pid":"9453"},"term9602":{"path":"\/europe\/central-asia\/ireland","name":"Ireland","id":"9602","weight":97,"pid":"9453"},"term9603":{"path":"\/europe\/central-asia\/italy","name":"Italy","id":"9603","weight":98,"pid":"9453"},"term9604":{"path":"\/europe\/central-asia\/kazakhstan","name":"Kazakhstan","id":"9604","weight":99,"pid":"9453"},"term9605":{"path":"\/europe\/central-asia\/kyrgyzstan","name":"Kyrgyzstan","id":"9605","weight":100,"pid":"9453"},"term9606":{"path":"\/europe\/central-asia\/latvia","name":"Latvia","id":"9606","weight":101,"pid":"9453"},"term9608":{"path":"\/europe\/central-asia\/lithuania","name":"Lithuania","id":"9608","weight":102,"pid":"9453"},"term9609":{"path":"\/europe\/central-asia\/macedonia","name":"Macedonia","id":"9609","weight":103,"pid":"9453"},"term9614":{"path":"\/europe\/central-asia\/netherlands","name":"Netherlands","id":"9614","weight":104,"pid":"9453"},"term9615":{"path":"\/europe\/central-asia\/norway","name":"Norway","id":"9615","weight":105,"pid":"9453"},"term9616":{"path":"\/europe\/central-asia\/poland","name":"Poland","id":"9616","weight":106,"pid":"9453"},"term9617":{"path":"\/europe\/central-asia\/portugal","name":"Portugal","id":"9617","weight":107,"pid":"9453"},"term9618":{"path":"\/europe\/central-asia\/romania","name":"Romania","id":"9618","weight":108,"pid":"9453"},"term9619":{"path":"\/europe\/central-asia\/russia","name":"Russia","id":"9619","weight":109,"pid":"9453"},"term9621":{"path":"\/europe\/central-asia\/serbia\/kosovo","name":"Serbia\/Kosovo","id":"9621","weight":110,"pid":"9453"},"term9624":{"path":"\/europe\/central-asia\/spain","name":"Spain","id":"9624","weight":111,"pid":"9453"},"term9625":{"path":"\/europe\/central-asia\/sweden","name":"Sweden","id":"9625","weight":112,"pid":"9453"},"term9627":{"path":"\/europe\/central-asia\/tajikistan","name":"Tajikistan","id":"9627","weight":113,"pid":"9453"},"term9628":{"path":"\/europe\/central-asia\/turkey","name":"Turkey","id":"9628","weight":114,"pid":"9453"},"term9629":{"path":"\/europe\/central-asia\/turkmenistan","name":"Turkmenistan","id":"9629","weight":115,"pid":"9453"},"term9630":{"path":"\/europe\/central-asia\/ukraine","name":"Ukraine","id":"9630","weight":116,"pid":"9453"},"term9631":{"path":"\/europe\/central-asia\/united-kingdom","name":"United Kingdom","id":"9631","weight":117,"pid":"9453"},"term9632":{"path":"\/europe\/central-asia\/uzbekistan","name":"Uzbekistan","id":"9632","weight":118,"pid":"9453"},"term9455":{"path":"\/middle-east\/n-africa","name":"Middle East\/North Africa","id":"9455","weight":119},"term9633":{"path":"\/middle-east\/n-africa\/algeria","name":"Algeria","id":"9633","weight":120,"pid":"9455"},"term9634":{"path":"\/middle-east\/n-africa\/bahrain","name":"Bahrain","id":"9634","weight":121,"pid":"9455"},"term9635":{"path":"\/middle-east\/n-africa\/egypt","name":"Egypt","id":"9635","weight":122,"pid":"9455"},"term9636":{"path":"\/middle-east\/n-africa\/iran","name":"Iran","id":"9636","weight":123,"pid":"9455"},"term9637":{"path":"\/middle-east\/n-africa\/iraq","name":"Iraq","id":"9637","weight":124,"pid":"9455"},"term9638":{"path":"\/middle-east\/n-africa\/israel\/palestine","name":"Israel\/Palestine","id":"9638","weight":125,"pid":"9455"},"term9639":{"path":"\/middle-east\/n-africa\/jordan","name":"Jordan","id":"9639","weight":126,"pid":"9455"},"term9640":{"path":"\/middle-east\/n-africa\/kuwait","name":"Kuwait","id":"9640","weight":127,"pid":"9455"},"term9641":{"path":"\/middle-east\/n-africa\/lebanon","name":"Lebanon","id":"9641","weight":128,"pid":"9455"},"term9642":{"path":"\/middle-east\/n-africa\/libya","name":"Libya","id":"9642","weight":129,"pid":"9455"},"term9644":{"path":"\/middle-east\/n-africa\/morocco\/western-sahara","name":"Morocco\/Western Sahara","id":"9644","weight":130,"pid":"9455"},"term9645":{"path":"\/middle-east\/n-africa\/oman","name":"Oman","id":"9645","weight":131,"pid":"9455"},"term9646":{"path":"\/middle-east\/n-africa\/qatar","name":"Qatar","id":"9646","weight":132,"pid":"9455"},"term9647":{"path":"\/middle-east\/n-africa\/saudi-arabia","name":"Saudi Arabia","id":"9647","weight":133,"pid":"9455"},"term9648":{"path":"\/middle-east\/n-africa\/syria","name":"Syria","id":"9648","weight":134,"pid":"9455"},"term9649":{"path":"\/middle-east\/n-africa\/tunisia","name":"Tunisia","id":"9649","weight":135,"pid":"9455"},"term9650":{"path":"\/middle-east\/n-africa\/united-arab-emirates","name":"United Arab Emirates","id":"9650","weight":136,"pid":"9455"},"term9651":{"path":"\/middle-east\/n-africa\/yemen","name":"Yemen","id":"9651","weight":137,"pid":"9455"},"term9456":{"path":"\/united-states","name":"United States","id":"9456","weight":138},"term9785":{"path":"\/united-states\/criminal-justice","name":"Criminal Justice","id":"9785","weight":139,"pid":"9456"},"term9659":{"path":"\/united-states\/immigration","name":"Immigration","id":"9659","weight":140,"pid":"9456"},"term9784":{"path":"\/united-states\/national-security","name":"National Security","id":"9784","weight":141,"pid":"9456"},"term9653":{"path":"\/united-states\/us-foreign-policy","name":"US Foreign Policy","id":"9653","weight":142,"pid":"9456"}},"topic":{"term9681":{"path":"\/topic\/arms","name":"Arms","id":"9681","weight":0},"term9703":{"path":"\/topic\/arms\/cluster-munitions","name":"Cluster Munitions","id":"9703","weight":1,"pid":"9681"},"term9810":{"path":"\/topic\/arms\/explosive-weapons-civilian-areas","name":"Explosive Weapons in Civilian Areas","id":"9810","weight":2,"pid":"9681"},"term9704":{"path":"\/topic\/arms\/incendiary-weapons","name":"Incendiary Weapons","id":"9704","weight":3,"pid":"9681"},"term9705":{"path":"\/topic\/arms\/killer-robots","name":"Killer Robots","id":"9705","weight":4,"pid":"9681"},"term9706":{"path":"\/topic\/arms\/landmines","name":"Landmines","id":"9706","weight":5,"pid":"9681"},"term9682":{"path":"\/topic\/business","name":"Business","id":"9682","weight":6},"term9708":{"path":"\/topic\/business\/oil-mining-and-natural-resources","name":"Oil, Mining, and Natural Resources","id":"9708","weight":7,"pid":"9682"},"term9709":{"path":"\/topic\/business\/world-bank-imf","name":"World Bank, IMF","id":"9709","weight":8,"pid":"9682"},"term9683":{"path":"\/topic\/childrens-rights","name":"Children\u0027s Rights","id":"9683","weight":9},"term9711":{"path":"\/topic\/childrens-rights\/child-labor","name":"Child Labor","id":"9711","weight":10,"pid":"9683"},"term9712":{"path":"\/topic\/childrens-rights\/child-soldiers","name":"Child Soldiers","id":"9712","weight":11,"pid":"9683"},"term9713":{"path":"\/topic\/childrens-rights\/education","name":"Education","id":"9713","weight":12,"pid":"9683"},"term9714":{"path":"\/topic\/childrens-rights\/education-and-conflict","name":"Education and Conflict","id":"9714","weight":13,"pid":"9683"},"term9715":{"path":"\/topic\/childrens-rights\/juvenile-justice","name":"Juvenile Justice","id":"9715","weight":14,"pid":"9683"},"term9716":{"path":"\/topic\/childrens-rights\/orphans-and-abandoned-children","name":"Orphans and Abandoned Children","id":"9716","weight":15,"pid":"9683"},"term9717":{"path":"\/topic\/childrens-rights\/refugees-and-migrants","name":"Refugees and Migrants","id":"9717","weight":16,"pid":"9683"},"term9685":{"path":"\/topic\/disability-rights","name":"Disability Rights","id":"9685","weight":17},"term9686":{"path":"\/topic\/environment","name":"Environment","id":"9686","weight":18},"term9688":{"path":"\/topic\/free-speech","name":"Free Speech","id":"9688","weight":19},"term9762":{"path":"\/topic\/free-speech\/internet-freedom","name":"Internet Freedom","id":"9762","weight":20,"pid":"9688"},"term9763":{"path":"\/topic\/free-speech\/press-freedom","name":"Press Freedom","id":"9763","weight":21,"pid":"9688"},"term9764":{"path":"\/topic\/free-speech\/religious-freedom","name":"Religious Freedom","id":"9764","weight":22,"pid":"9688"},"term9689":{"path":"\/topic\/health","name":"Health","id":"9689","weight":23},"term9808":{"path":"\/topic\/health\/attacks-health","name":"Attacks on Health","id":"9808","weight":24,"pid":"9689"},"term9726":{"path":"\/topic\/health\/detention-centers","name":"Detention Centers","id":"9726","weight":25,"pid":"9689"},"term9727":{"path":"\/topic\/health\/disasters-and-displaced-populations","name":"Disasters and Displaced Populations","id":"9727","weight":26,"pid":"9689"},"term9728":{"path":"\/topic\/health\/environment-and-health","name":"Environment and Health","id":"9728","weight":27,"pid":"9689"},"term9729":{"path":"\/topic\/health\/health-care-access","name":"Health Care Access","id":"9729","weight":28,"pid":"9689"},"term9730":{"path":"\/topic\/health\/hiv\/aids-and-tuberculosis","name":"HIV\/AIDS and Tuberculosis","id":"9730","weight":29,"pid":"9689"},"term9731":{"path":"\/topic\/health\/palliative-care","name":"Palliative Care","id":"9731","weight":30,"pid":"9689"},"term9813":{"path":"\/topic\/health\/rights-older-people","name":"Rights of Older People","id":"9813","weight":31,"pid":"9689"},"term9732":{"path":"\/topic\/health\/sexual-and-reproductive-health","name":"Sexual and Reproductive Health","id":"9732","weight":32,"pid":"9689"},"term9690":{"path":"\/topic\/international-justice","name":"International Justice","id":"9690","weight":33},"term9733":{"path":"\/topic\/international-justice\/bosco-ntaganda","name":"Bosco Ntaganda","id":"9733","weight":34,"pid":"9690"},"term9734":{"path":"\/topic\/international-justice\/charles-taylor","name":"Charles Taylor","id":"9734","weight":35,"pid":"9690"},"term9735":{"path":"\/topic\/international-justice\/international-criminal-court","name":"International Criminal Court","id":"9735","weight":36,"pid":"9690"},"term9736":{"path":"\/topic\/international-justice\/joseph-kony-lra","name":"Joseph Kony - LRA","id":"9736","weight":37,"pid":"9690"},"term9737":{"path":"\/topic\/international-justice\/peace-and-justice","name":"Peace and Justice","id":"9737","weight":38,"pid":"9690"},"term9691":{"path":"\/topic\/lgbt-rights","name":"LGBT Rights","id":"9691","weight":39},"term9692":{"path":"\/topic\/migrants","name":"Migrants","id":"9692","weight":40},"term9740":{"path":"\/topic\/trudovye-migranty\/exploitation-forced-labor-trafficking","name":"Exploitation, Forced Labor \u0026 Trafficking","id":"9740","weight":41,"pid":"9692"},"term9693":{"path":"\/topic\/refugee-rights","name":"Refugee Rights","id":"9693","weight":42},"term9741":{"path":"\/topic\/droits-des-refugies\/asylum-seekers","name":"Asylum Seekers","id":"9741","weight":43,"pid":"9693"},"term9742":{"path":"\/topic\/droits-des-refugies\/internally-displaced-people","name":"Internally Displaced People","id":"9742","weight":44,"pid":"9693"},"term9743":{"path":"\/topic\/droits-des-refugies\/migrants","name":"Migrants","id":"9743","weight":45,"pid":"9693"},"term9684":{"path":"\/topic\/terrorism-counterterrorism","name":"Terrorism \/ Counterterrorism","id":"9684","weight":46},"term9720":{"path":"\/topic\/terrorism\/counterterrorism\/cia-activities","name":"CIA Activities","id":"9720","weight":47,"pid":"9684"},"term9721":{"path":"\/topic\/terrorism-counterterrorism\/detention-without-trial","name":"Detention without Trial","id":"9721","weight":48,"pid":"9684"},"term9722":{"path":"\/topic\/terrorism-counterterrorism\/edward-snowden","name":"Edward Snowden","id":"9722","weight":49,"pid":"9684"},"term9723":{"path":"\/topic\/terrorism-counterterrorism\/guantanamo","name":"Guantanamo","id":"9723","weight":50,"pid":"9684"},"term9724":{"path":"\/topic\/terrorism-counterterrorism\/guantanamo-military-commissions","name":"Guantanamo - Military Commissions","id":"9724","weight":51,"pid":"9684"},"term9725":{"path":"\/topic\/terrorism-counterterrorism\/targeted-killings-and-drones","name":"Targeted Killings and Drones","id":"9725","weight":52,"pid":"9684"},"term9696":{"path":"\/topic\/torture","name":"Torture","id":"9696","weight":53},"term9697":{"path":"\/topic\/united-nations","name":"United Nations","id":"9697","weight":54},"term9744":{"path":"\/topic\/united-nations\/human-rights-council","name":"Human Rights Council","id":"9744","weight":55,"pid":"9697"},"term9698":{"path":"\/topic\/womens-rights","name":"Women\u0027s Rights","id":"9698","weight":56},"term9746":{"path":"\/topic\/womens-rights\/child-marriage","name":"Child Marriage","id":"9746","weight":57,"pid":"9698"},"term9747":{"path":"\/topic\/womens-rights\/domestic-violence","name":"Domestic Violence","id":"9747","weight":58,"pid":"9698"},"term9748":{"path":"\/topic\/womens-rights\/domestic-workers","name":"Domestic Workers","id":"9748","weight":59,"pid":"9698"},"term9757":{"path":"\/topic\/womens-rights\/gender-equality","name":"Gender Equality","id":"9757","weight":60,"pid":"9698"},"term9752":{"path":"\/topic\/womens-rights\/reproductive-rights-and-abortion","name":"Reproductive Rights and Abortion","id":"9752","weight":61,"pid":"9698"},"term9753":{"path":"\/topic\/womens-rights\/sexual-violence-and-rape","name":"Sexual Violence and Rape","id":"9753","weight":62,"pid":"9698"},"term9805":{"path":"\/topic\/womens-rights\/women-and-armed-conflict","name":"Women and Armed Conflict","id":"9805","weight":63,"pid":"9698"},"term9811":{"path":"\/topic\/womens-rights\/womens-health-and-fgm","name":"Women\u2019s Health and FGM","id":"9811","weight":64,"pid":"9698"}},"main_menu":{"menu2725":{"path":"\/countries","name":"Countries","id":"2725","weight":"-50"},"menu2726":{"path":"\/topics","name":"Topics","id":"2726","weight":"-49"},"menu5350":{"path":"\/publications","name":"Reports","id":"5350","weight":"-48"},"menu5351":{"path":"\/video-photos","name":"Video \u0026 Photos","id":"5351","weight":"-47"},"menu5501":{"path":"\/impact","name":"Impact","id":"5501","weight":"-46"},"menu5511":{"path":"\/about","name":"About","id":"5511","weight":"-45"},"menu5744":{"path":"https:\/\/careers.hrw.org","name":"Careers","id":"5744","pid":"5511"},"menu6010":{"path":"\/about","name":"About Us","id":"6010","pid":"5511"},"menu5553":{"path":"\/about\/people","name":"People","id":"5553","pid":"5511"},"menu5552":{"path":"\/history","name":"History","id":"5552","pid":"5511"},"menu5559":{"path":"\/about-our-research","name":"About Our Research","id":"5559","pid":"5511"},"menu7722":{"path":"\/human-rights-101","name":"Human Rights 101","id":"7722","pid":"5511"},"menu5566":{"path":"\/frequently-asked-questions","name":"FAQ","id":"5566","pid":"5511"},"menu5560":{"path":"\/about\/partners","name":"Partners","id":"5560","pid":"5511"},"menu5561":{"path":"\/financials","name":"Financials","id":"5561","pid":"5511"},"menu5567":{"path":"\/about\/accessibility","name":"Accessibility","id":"5567","pid":"5511"},"menu5718":{"path":"\/contact-us","name":"Contact","id":"5718","pid":"5511"},"menu5521":{"path":"\/support-us","name":"Join Us","id":"5521","weight":"-44"},"menu5571":{"path":"\/join-us\/human-rights-watch-council","name":"Our Committees","id":"5571","pid":"5521"},"menu5570":{"path":"\/join-us\/take-action","name":"Take Action","id":"5570","pid":"5521"},"menu5572":{"path":"\/film-festival","name":"Film Festival","id":"5572","pid":"5521"},"menu5573":{"path":"\/follow-us","name":"Follow Us","id":"5573","pid":"5521"},"menu6291":{"path":"http:\/\/action.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=32180\u0026ea.tracking.id=supportus","name":"Newsletter","id":"6291","pid":"5521"},"menu12994":{"path":"http:\/\/myplanwithhrw.org\/legacies-for-justice-society","name":"Legacies for Justice Society","id":"12994","pid":"5521"},"menu7793":{"path":"\/join-us\/voices-for-justice","name":"Voices for Justice","id":"7793","pid":"5521"},"menu7818":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=38593\u0026promo_id=1004","name":"Give Now","id":"7818","weight":"0"},"menu7819":{"path":"https:\/\/www.hrw.org\/donate-now?promo_id=1003","name":"Make a One-time Gift","id":"7819","pid":"7818"},"menu7820":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=38593\u0026promo_id=1004","name":"Give Monthly","id":"7820","pid":"7818"},"menu5569":{"path":"https:\/\/myplanwithhrw.org","name":"Planned Giving","id":"5569","pid":"7818"},"menu7821":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=42023\u0026promo_id=1008","name":"Partners for Justice","id":"7821","pid":"7818"}},"hrw_trending_nav":[{"path":"\/blog-feed\/trump-administration-first-100-days","name":"Trump Administration: The First 100 Days","short_name":"Trump First 100 Days"},{"path":"\/tag\/philippines-war-drugs","name":"Philippines\u2019 \u2018War on Drugs\u2019","short_name":""},{"path":"\/tag\/europes-migration-crisis","name":"Europe\u2019s Migration Crisis","short_name":"Migration Crisis"},{"path":"\/blog-feed\/venezuelas-crisis","name":"Venezuela\u2019s Crisis","short_name":""}]},"urlIsAjaxTrusted":{"\/topic\/childrens-rights":true},"password":{"strengthTitle":"Password compliance:"},"type":"setting","js_debug":[]});
+//--><!]]>
+</script>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-9683 i18n-en preload" >
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5D7ZP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W5D7ZP');</script>
+<!-- End Google Tag Manager -->
+  <div id="skip-link">
+    <a href="#main" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div id="page" class="page page--topic">
+
+  <!-- Begin .header -->
+  <div id="block-hrw-donation-blocks-hrw-donation-blocks-header-bar" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+    <div class="donate--header-bar l--constrained--padded">
+  <a href="https://www.hrw.org/donate-now?promo_id=1006" class="donate-bar">Help us continue to fight human rights abuses. Please give now to support our work</a>
+</div>  </div>
+  </div>
+<header id="header" class="header cf is-default" role="banner">
+  <div id="header-default">
+    <div class="header-utility">
+      <div class="header-utility-inner clearfix">
+        <div class="l--constrained--wide">
+                      <div class="header-logo"><a href="/" title="Home" rel="home" id="logo"><img src="https://www.hrw.org/sites/all/themes/hrw/logo.png" alt="Human Rights Watch" /></a></div>
+                    <div class="header-languages">
+                          <div id="block-hrw-language-hrw-language-nav" class="block block-hrw-language">
+  
+  
+  <div  class="block-content block-content">
+    <ul class="language-switcher-locale-url"><li class="ar"><a href="/ar/topic/childrens-rights" class="language-link" xml:lang="ar">العربية</a></li>
+<li class="zh-hans"><a href="/zh-hans/topic/childrens-rights" class="language-link" xml:lang="zh-hans">简体中文</a></li>
+<li class="en active"><a href="/topic/childrens-rights" class="language-link active" xml:lang="en">English</a></li>
+<li class="fr"><a href="/fr/topic/childrens-rights" class="language-link" xml:lang="fr">Français</a></li>
+<li class="de"><a href="/de/topic/childrens-rights" class="language-link" xml:lang="de">Deutsch</a></li>
+<li class="ja"><a href="/ja/topic/childrens-rights" class="language-link" xml:lang="ja">日本語</a></li>
+<li class="pt"><a href="/pt/topic/childrens-rights" class="language-link" xml:lang="pt">Português</a></li>
+<li class="ru"><a href="/ru/topic/childrens-rights" class="language-link" xml:lang="ru">Русский</a></li>
+<li class="es"><a href="/es/topic/childrens-rights" class="language-link" xml:lang="es">Español</a></li>
+<li class="more last"></li>
+</ul>  </div>
+  </div>
+                      </div>
+          <div class="header-utilities">
+                          <form class="search-form" action="/topic/childrens-rights" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-apachesolr-panels-search-form">
+  <label class="form-item-label element-invisible" for="edit-apachesolr-panels-search-form">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" value="form-EskvD4QMPsyj07-6dMTlrwcrGX6L3FRWLqSOD477wHU" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div></form>            
+                          <div id="block-hrw-donation-blocks-hrw-donation-blocks-header" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+      <a href="https://www.hrw.org/donate-now?promo_id=1000" class="donate-toggle">Donate Now</a>
+  </div>
+  </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-nav l--constrained">
+              <nav id="nav" class="nav is-fallback">
+          <ul class="nav nav--primary"><li class="first leaf nav-item"><a href="/countries" title="" class="nav-link">Countries</a></li>
+<li class="leaf nav-item"><a href="/topics" title="" class="nav-link">Topics</a></li>
+<li class="leaf nav-item"><a href="/publications" title="" class="nav-link">Reports</a></li>
+<li class="leaf nav-item"><a href="/video-photos" title="" class="nav-link">Video &amp; Photos</a></li>
+<li class="leaf nav-item"><a href="/impact" class="nav-link">Impact</a></li>
+<li class="collapsed nav-item"><a href="/about" class="nav-link">About</a></li>
+<li class="collapsed nav-item"><a href="/support-us" title="" class="nav-link">Join Us</a></li>
+<li class="last collapsed nav-item"><a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&amp;ea.campaign.id=38593&amp;promo_id=1004" title="" class="nav-link">Give Now</a></li>
+</ul>        </nav><!--end .nav-->
+                </div>
+  </div>
+</header>
+<!-- End .header -->
+
+  <div id="main">
+
+      
+      <div id="main-content" class="clearfix">
+        
+        
+        
+        
+            
+  <header class="l--constrained--padded clearfix landing-page-header">
+    <nav class="dropdown dropdown--local"><a href="/topic/childrens-rights" class="dropdown-link toggle active">Explore Children&#039;s Rights</a></nav><h1 class="title--large">Children&#039;s Rights</h1>
+  </header>
+
+  <div class="section--summary landing-page-summary is-inverse l--constrained--wide">
+    <div class="l--constrained clearfix">
+              <div class="l-primary">
+          
+<div class="summary"><p>Millions of children have no access to education, work long hours under hazardous conditions and are forced to serve as soldiers in armed conflict. They suffer targeted attacks on their schools and teachers or languish in institutions or detention centers, where they endure inhumane conditions and assaults on their dignity. Young and immature, they are often easily exploited. In many cases, they are abused by the very individuals responsible for their care. We are working to help protect children around the world, so they can grow into adults.</p>
+</div>
+        </div>
+      
+              <div class="l-secondary">
+          
+<figure class="topic-image">
+  <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/topic/public/topic_image/childrens-rights.jpg?itok=qyh97XzZ" width="1400" height="480" alt="" /></figure>
+
+<div class="copyright">
+  @2010 David Høgsholt/Reportage by Getty Images for Human Rights Watch</div>
+        </div>
+          </div>
+  </div>
+
+  <div class="section--featured is-inverse l--constrained--wide">
+    <div class="l--constrained--padded clearfix">
+      <div class="view view-featured-content view-id-featured_content view-display-id-panel_pane_1 view-dom-id-4ea4768f163bc81dc9d9807b657e16cb">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="list--3up">          <li class="views-row-odd views-row-first list-item"><article class="article--featured clearfix node node-news" data-eq-pts="medium: 450"  about="/news/2017/02/14/tanzania-15-million-adolescents-not-school" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Tanzania: 1.5 Million Adolescents Not in School " class="rdf-meta element-hidden"></span>
+      <div class="article-location">Africa</div>
+        <figure class="article-image">
+      <a href="/news/2017/02/14/tanzania-15-million-adolescents-not-school">
+                  <img data-src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2017/2017-02-crd-tanzania-photo-01.jpg?itok=fD1aOf_S" class="js-unveil" width="374" height="210" typeof="foaf:Image" src="https://www.hrw.org/sites/all/themes/hrw/img/lazy_loader.gif" alt="Loading Photo" />        
+              </a>
+    </figure>
+  
+  
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-02-14T02:01:00-05:00">February 14, 2017</time> <span class="type">News Release</span></div>
+      <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2017/02/14/tanzania-15-million-adolescents-not-school">Tanzania: 1.5 Million Adolescents Not in School </a></h3>
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item"><article class="article--featured clearfix node node-news" data-eq-pts="medium: 450"  about="/news/2017/03/15/indonesias-child-tobacco-workers-peril" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Indonesia&#039;s Child Tobacco Workers in Peril" class="rdf-meta element-hidden"></span>
+      <div class="article-location">Asia</div>
+        <figure class="article-image">
+      <a href="/news/2017/03/15/indonesias-child-tobacco-workers-peril">
+                  <img data-src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2016/2016-05-asia-indonesia-12.jpg?itok=Y8i2sRNx" class="js-unveil" width="374" height="210" typeof="foaf:Image" src="https://www.hrw.org/sites/all/themes/hrw/img/lazy_loader.gif" alt="Loading Photo" />        
+              </a>
+    </figure>
+  
+  
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-03-15T07:51:14-04:00">March 15, 2017</time> <span class="type">Commentary</span></div>
+      <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2017/03/15/indonesias-child-tobacco-workers-peril">Indonesia&#039;s Child Tobacco Workers in Peril</a></h3>
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile has-image byline--simple clearfix"  about="/about/people/margaret-wurth" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+              <a href="/about/people/margaret-wurth">
+                        <img data-src="https://www.hrw.org/sites/default/files/styles/square_bw/public/multimedia_images_2015/2015_margaret-wurth_02_edit_web-bio.jpg?itok=G5FcSyX6" class="js-unveil" width="108" height="108" typeof="foaf:Image" src="https://www.hrw.org/sites/all/themes/hrw/img/lazy_loader.gif" alt="Loading Photo" />          <noscript><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_bw/public/multimedia_images_2015/2015_margaret-wurth_02_edit_web-bio.jpg?itok=G5FcSyX6" width="108" height="108" alt="Margaret Wurth" /></noscript>
+                      </a>
+          </figure>
+        <h4 class="name">
+              <a href="/about/people/margaret-wurth">
+              Margaret Wurth              </a>
+          </h4>
+  <span property="dc:title" content="Margaret Wurth" class="rdf-meta element-hidden"></span>      <span class="position">Researcher, Children's Rights Division</span>
+  </article>
+  </div>
+          </address>
+                          <div class="article-source">
+            <span class="article-source-label">Published In:</span> <cite>
+  <a href="https://coconuts.co/jakarta/features/tobacco-companies-profiting-endangering-exploiting-indonesian-child-workers-must-stop-now/" target="_blank">Coconuts Jakarta</a></cite>
+          </div>
+              </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-odd views-row-last list-item"><article class="article--featured clearfix node node-news" data-eq-pts="medium: 450"  about="/news/2017/03/23/central-african-republic-armed-groups-using-schools" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Central African Republic: Armed Groups Using Schools" class="rdf-meta element-hidden"></span>
+      <div class="article-location">Africa</div>
+        <figure class="article-image">
+      <a href="/news/2017/03/23/central-african-republic-armed-groups-using-schools">
+                  <img data-src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2017/car_occupied_schools-83.jpg?itok=eh0YfUWB" class="js-unveil" width="374" height="210" typeof="foaf:Image" src="https://www.hrw.org/sites/all/themes/hrw/img/lazy_loader.gif" alt="Loading Photo" />        
+              </a>
+    </figure>
+  
+  
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-03-23T02:00:00-04:00">March 23, 2017</time> <span class="type">News Release</span></div>
+      <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2017/03/23/central-african-republic-armed-groups-using-schools">Central African Republic: Armed Groups Using Schools</a></h3>
+      </div>
+</article>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+
+  <div class="l--sidebar-after landing-page-main l--constrained--padded clearfix">
+          <div class="l-primary">
+        <div  class="pane">
+<h2 class="heading">Videos <a href="/video-photos" class="link--all">Watch More</a></h2>
+
+<div><div class="view view-latest-videos view-id-latest_videos view-display-id-panel_pane_1 view-dom-id-bf9281d8f27aef39687498727b3a530e">
+        
+  
+  
+      <div class="view-content">
+      <div class="videos">    <ul class="videos-list">          <li class="videos-item"><article class="node node-video node-promoted node-teaser multimedia video--teaser clearfix is-inverse"  about="/video-photos/video/2017/03/27/pakistan-end-attacks-schools" typeof="sioc:Item foaf:Document" data-yt-id="xRDM_iKSS5A">
+  <figure class="video-image">
+          <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/video/public/video_embed_field_thumbnails/youtube/xRDM_iKSS5A.jpg?itok=Ob3GHwtp" width="832" height="520" alt="" />      </figure>
+
+  <div class="video-header">
+    <div class="dateline--small"><time class="date" datetime="2017-03-27T01:50:00-04:00">March 27, 2017</time> <span class="type">Video</span></div>
+    <h3 class="video-title"><a href="/video-photos/video/2017/03/27/pakistan-end-attacks-schools">Pakistan: End Attacks on Schools </a></h3>
+  </div>
+      <div class="embedded-video">
+  <div class="player" data-media-handler="youtube">
+    <iframe width="640" height="360" src="//www.youtube.com/embed/xRDM_iKSS5A?width=640&amp;height=360&amp;thumbnail_image=maxresdefault&amp;theme=dark&amp;autoplay=0&amp;vq=large&amp;rel=0&amp;showinfo=1&amp;modestbranding=0&amp;iv_load_policy=1&amp;controls=1&amp;autohide=2&amp;enablejsapi=1&amp;origin=https://www.hrw.org&amp;start=0&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>  </div>
+</div>
+  </article>
+</li>
+          <li class="videos-item"><article class="node node-video node-promoted node-teaser multimedia video--teaser clearfix is-inverse"  about="/video-photos/video/2017/03/23/video-armed-groups-occupy-schools-central-african-republic" typeof="sioc:Item foaf:Document" data-yt-id="0KK1SczjG-Y">
+  <figure class="video-image">
+          <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/video/public/video_embed_field_thumbnails/youtube/0KK1SczjG-Y.jpg?itok=odMMpSnV" width="832" height="520" alt="" />      </figure>
+
+  <div class="video-header">
+    <div class="dateline--small"><time class="date" datetime="2017-03-23T01:00:00-04:00">March 23, 2017</time> <span class="type">Video</span></div>
+    <h3 class="video-title"><a href="/video-photos/video/2017/03/23/video-armed-groups-occupy-schools-central-african-republic">VIDEO: Armed Groups Occupy Schools in Central African Republic</a></h3>
+  </div>
+      <div class="embedded-video">
+  <div class="player" data-media-handler="youtube">
+    <iframe width="640" height="360" src="//www.youtube.com/embed/0KK1SczjG-Y?width=640&amp;height=360&amp;thumbnail_image=maxresdefault&amp;theme=dark&amp;autoplay=0&amp;vq=large&amp;rel=0&amp;showinfo=1&amp;modestbranding=0&amp;iv_load_policy=1&amp;controls=1&amp;autohide=2&amp;enablejsapi=1&amp;origin=https://www.hrw.org&amp;start=0&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>  </div>
+</div>
+  </article>
+</li>
+          <li class="videos-item"><article class="node node-video node-promoted node-teaser multimedia video--teaser clearfix is-inverse"  about="/video-photos/video/2017/03/20/military-leaders-speak-out-against-use-schools-soldiers" typeof="sioc:Item foaf:Document" data-yt-id="pohb0uPluio">
+  <figure class="video-image">
+          <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/video/public/video_embed_field_thumbnails/youtube/pohb0uPluio.jpg?itok=2J2HZCNo" width="832" height="520" alt="" />      </figure>
+
+  <div class="video-header">
+    <div class="dateline--small"><time class="date" datetime="2017-03-20T00:01:00-04:00">March 20, 2017</time> <span class="type">Video</span></div>
+    <h3 class="video-title"><a href="/video-photos/video/2017/03/20/military-leaders-speak-out-against-use-schools-soldiers">Military Leaders Speak Out Against Use of Schools by Soldiers</a></h3>
+  </div>
+      <div class="embedded-video">
+  <div class="player" data-media-handler="youtube">
+    <iframe width="640" height="360" src="//www.youtube.com/embed/pohb0uPluio?width=640&amp;height=360&amp;thumbnail_image=maxresdefault&amp;theme=dark&amp;autoplay=0&amp;vq=large&amp;rel=0&amp;showinfo=1&amp;modestbranding=0&amp;iv_load_policy=1&amp;controls=1&amp;autohide=2&amp;enablejsapi=1&amp;origin=https://www.hrw.org&amp;start=0&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>  </div>
+</div>
+  </article>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div><div  class="pane">
+<h2 class="heading--ruled">News</h2>
+
+<div class="view view-latest-content view-id-latest_content view-display-id-panel_pane_1 view-dom-id-358d9cc032945d250d5a6ab4218bb3dd">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="list--ruled">          <li class="views-row-odd views-row-first list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/17/secondary-school-displaced-kids-shouldnt-be-afterthought" typeof="sioc:Item foaf:Document">
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-17T09:23:00-04:00">April 17, 2017</time> <span class="type">Commentary</span></div>
+          <h3 class="title"><a href="/news/2017/04/17/secondary-school-displaced-kids-shouldnt-be-afterthought">Secondary School for Displaced Kids Shouldn’t be an Afterthought</a></h3>
+    <span property="dc:title" content="Secondary School for Displaced Kids Shouldn’t be an Afterthought" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/susan-raqib" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              Susan Raqib          </h4>
+  <span property="dc:title" content="Susan Raqib" class="rdf-meta element-hidden"></span>      <span class="position">Associate, Children&#039;s Rights</span>
+  </article>
+  </div>
+          </address>
+                          <div class="article-source">
+            <span class="article-source-label">Published In:</span> <cite>
+  <a href="http://www.ineesite.org/en/blog/secondary-school-for-displaced-kids-shouldnt-be-an-afterthought" target="_blank">INEE</a></cite>
+          </div>
+              </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/13/free-primary-education-still-out-reach-south-africa" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/13/free-primary-education-still-out-reach-south-africa"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2015/southafrica0815_cover_0.jpg?itok=f1vikrOa" width="374" height="374" alt="Free Primary Education Still Out of Reach in South Africa" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-13T00:01:00-04:00">April 13, 2017</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2017/04/13/free-primary-education-still-out-reach-south-africa">Free Primary Education Still Out of Reach in South Africa</a></h3>
+    <span property="dc:title" content="Free Primary Education Still Out of Reach in South Africa" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/helen-griffiths" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/helen-griffiths">
+              Helen Griffiths              </a>
+          </h4>
+  <span property="dc:title" content="Helen Griffiths" class="rdf-meta element-hidden"></span>      <span class="position">Coordinator, Children&#039;s Rights</span>
+  </article>
+  </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-odd list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/12/girls-sake-tanzania-should-stop-abuse-bias-schools" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/12/girls-sake-tanzania-should-stop-abuse-bias-schools"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2017/9.jpg?itok=aureu87A" width="374" height="374" alt="For Girls’ Sake, Tanzania Should Stop Abuse, Bias in Schools" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-12T12:01:52-04:00">April 12, 2017</time> <span class="type">Commentary</span></div>
+          <h3 class="title"><a href="/news/2017/04/12/girls-sake-tanzania-should-stop-abuse-bias-schools">For Girls’ Sake, Tanzania Should Stop Abuse, Bias in Schools</a></h3>
+    <span property="dc:title" content="For Girls’ Sake, Tanzania Should Stop Abuse, Bias in Schools" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/elin-martinez" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/elin-martinez">
+              Elin Martínez              </a>
+          </h4>
+  <span property="dc:title" content="Elin Martínez" class="rdf-meta element-hidden"></span>      <span class="position">Researcher, Children&#039;s Rights Division</span>
+  </article>
+  </div>
+          </address>
+                          <div class="article-source">
+            <span class="article-source-label">Published In:</span> <cite>
+  <a href="http://www.huffingtonpost.com/entry/for-girls-sake-tanzania-should-stop-abuse-bias-in_us_58eddaf5e4b0145a227cb9d8?" target="_blank">Huffington Post</a></cite>
+          </div>
+              </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/12/lebanon-pass-bill-end-child-marriage" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/12/lebanon-pass-bill-end-child-marriage"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2017/lebanon_parliament.jpg?itok=zKBIpaHB" width="374" height="374" alt="Lebanon: Pass Bill to End Child Marriage" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-12T06:31:09-04:00">April 12, 2017</time> <span class="type">News Release</span></div>
+          <h3 class="title"><a href="/news/2017/04/12/lebanon-pass-bill-end-child-marriage">Lebanon: Pass Bill to End Child Marriage</a></h3>
+    <span property="dc:title" content="Lebanon: Pass Bill to End Child Marriage" class="rdf-meta element-hidden"></span>
+    
+      </div>
+</article>
+</li>
+          <li class="views-row-odd list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/11/pakistan-should-protect-students-militant-attacks" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/11/pakistan-should-protect-students-militant-attacks"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2017/2017-04-un-malala-guterres.jpg?itok=rRxfg9zU" width="374" height="374" alt="Pakistan Should Protect Students from Militant Attacks " /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-11T14:55:23-04:00">April 11, 2017</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2017/04/11/pakistan-should-protect-students-militant-attacks">Pakistan Should Protect Students from Militant Attacks </a></h3>
+    <span property="dc:title" content="Pakistan Should Protect Students from Militant Attacks " class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/saroop-ijaz" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/saroop-ijaz">
+              Saroop Ijaz              </a>
+          </h4>
+  <span property="dc:title" content="Saroop Ijaz" class="rdf-meta element-hidden"></span>  </article>
+  </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/11/doing-away-death-penalty" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/11/doing-away-death-penalty"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/media/images/photographs/Iran_2008_Juvenile_Executions.jpg?itok=0oeoNuKq" width="374" height="374" alt="Doing Away with the Death Penalty" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-11T11:01:00-04:00">April 11, 2017</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2017/04/11/doing-away-death-penalty">Doing Away with the Death Penalty</a></h3>
+    <span property="dc:title" content="Doing Away with the Death Penalty" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/michael-garcia-bochenek" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/michael-garcia-bochenek">
+              Michael Garcia Bochenek              </a>
+          </h4>
+  <span property="dc:title" content="Michael Garcia Bochenek" class="rdf-meta element-hidden"></span>      <span class="position">Senior Counsel, Children’s Rights Division</span>
+  </article>
+  </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-odd list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/10/letter-canada-protecting-education-attack" typeof="sioc:Item foaf:Document">
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-10T10:36:43-04:00">April 10, 2017</time> <span class="type">Letter</span></div>
+          <h3 class="title"><a href="/news/2017/04/10/letter-canada-protecting-education-attack">Letter to Canada on Protecting Education From Attack </a></h3>
+    <span property="dc:title" content="Letter to Canada on Protecting Education From Attack " class="rdf-meta element-hidden"></span>
+    
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/06/epa-decision-could-put-children-risk" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/06/epa-decision-could-put-children-risk"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/media/images/photographs/2009_USA_FarmOrange.jpg?itok=iAt5GVpS" width="374" height="374" alt="EPA Decision Could Put Children at Risk" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-06T06:01:00-04:00">April 6, 2017</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2017/04/06/epa-decision-could-put-children-risk">EPA Decision Could Put Children at Risk</a></h3>
+    <span property="dc:title" content="EPA Decision Could Put Children at Risk" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/jo-becker" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/jo-becker">
+              Jo Becker              </a>
+          </h4>
+  <span property="dc:title" content="Jo Becker" class="rdf-meta element-hidden"></span>      <span class="position">Advocacy Director, Children&#039;s Rights Division</span>
+  </article>
+  </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+          <li class="views-row-odd list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/05/remove-barriers-syrian-refugee-education" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/04/05/remove-barriers-syrian-refugee-education"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2016/refugee_education_graphic_002.jpeg?itok=2YJ77r5X" width="374" height="374" alt="Remove Barriers to Syrian Refugee Education" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-05T00:01:00-04:00">April 5, 2017</time> <span class="type">News Release</span></div>
+          <h3 class="title"><a href="/news/2017/04/05/remove-barriers-syrian-refugee-education">Remove Barriers to Syrian Refugee Education</a></h3>
+    <span property="dc:title" content="Remove Barriers to Syrian Refugee Education" class="rdf-meta element-hidden"></span>
+    
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/04/updated-submission-committee-economic-social-and-cultural-rights-concerning-pakistan" typeof="sioc:Item foaf:Document">
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-04T08:42:21-04:00">April 4, 2017</time> <span class="type">Letter</span></div>
+          <h3 class="title"><a href="/news/2017/04/04/updated-submission-committee-economic-social-and-cultural-rights-concerning-pakistan">Updated Submission to the Committee on Economic, Social and Cultural Rights concerning Pakistan</a></h3>
+    <span property="dc:title" content="Updated Submission to the Committee on Economic, Social and Cultural Rights concerning Pakistan" class="rdf-meta element-hidden"></span>
+    
+      </div>
+</article>
+</li>
+          <li class="views-row-odd list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/04/03/human-rights-watch-letter-re-texas-sb-6-and-rights-transgender-students" typeof="sioc:Item foaf:Document">
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-04-03T12:17:54-04:00">April 3, 2017</time> <span class="type">Letter</span></div>
+          <h3 class="title"><a href="/news/2017/04/03/human-rights-watch-letter-re-texas-sb-6-and-rights-transgender-students">Human Rights Watch Letter Re: Texas SB 6 and the Rights of Transgender Students</a></h3>
+    <span property="dc:title" content="Human Rights Watch Letter Re: Texas SB 6 and the Rights of Transgender Students" class="rdf-meta element-hidden"></span>
+    
+      </div>
+</article>
+</li>
+          <li class="views-row-even views-row-last list-item">
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2017/03/30/hundreds-abducted-children-still-missing-nigeria" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2017/03/30/hundreds-abducted-children-still-missing-nigeria"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2017/2017-03-nigeria-africa-boko-haram.jpg?itok=6PouPTPg" width="374" height="374" alt="Hundreds of Abducted Children Still Missing in Nigeria" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2017-03-30T09:57:45-04:00">March 30, 2017</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2017/03/30/hundreds-abducted-children-still-missing-nigeria">Hundreds of Abducted Children Still Missing in Nigeria</a></h3>
+    <span property="dc:title" content="Hundreds of Abducted Children Still Missing in Nigeria" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/mausi-segun" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/mausi-segun">
+              Mausi Segun              </a>
+          </h4>
+  <span property="dc:title" content="Mausi Segun" class="rdf-meta element-hidden"></span>      <span class="position">Senior Researcher, Nigeria</span>
+  </article>
+  </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+      <a href="/news?topic[0]=9683" class="link--button--more">Read More</a>  
+  
+  
+</div>
+</div>      </div>
+    
+          <div class="l-secondary">
+        <div  class="pane">
+<h2 class="heading--ruled--small">Reports <a href="/publications?topic[0]=9683" class="link--all">More Reports</a></h2>
+
+<div><div class="view view-latest-reports view-id-latest_reports view-display-id-panel_pane_1 view-dom-id-5e774db037fd579c554dc4895c4d8275">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="list--ruled">          <li class="views-row-odd views-row-first list-item">
+<article class="node node-report report--teaser report--longform-teaser clearfix"  about="/report/2017/03/27/dreams-turned-nightmares/attacks-students-teachers-and-schools-pakistan" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Dreams Turned into Nightmares" class="rdf-meta element-hidden"></span>      <figure class="report-image">
+      <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/report_square/public/multimedia_images_2017/pakistan0317_reportcover_web-1.jpg?itok=lQ6w9-Z6" width="200" height="200" alt="" />    </figure>
+    <div class="report-content">
+    <div class="date--small"><time datetime="2017-03-27T01:50:00-04:00">March 27, 2017</time></div>
+      <h3 class="title"><a href="/report/2017/03/27/dreams-turned-nightmares/attacks-students-teachers-and-schools-pakistan">Dreams Turned into Nightmares</a></h3>
+          <p class="subtitle--tiny">Attacks on Students, Teachers, and Schools in Pakistan</p>
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-report report--teaser report--longform-teaser clearfix"  about="/report/2017/03/23/no-class/when-armed-groups-use-schools-central-african-republic" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="No Class" class="rdf-meta element-hidden"></span>      <figure class="report-image">
+      <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/report_square/public/multimedia_images_2017/car_crd0317_reportcover_web-1.jpg?itok=UcU2Ah07" width="200" height="200" alt="" />    </figure>
+    <div class="report-content">
+    <div class="date--small"><time datetime="2017-03-23T01:50:00-04:00">March 23, 2017</time></div>
+      <h3 class="title"><a href="/report/2017/03/23/no-class/when-armed-groups-use-schools-central-african-republic">No Class</a></h3>
+          <p class="subtitle--tiny">When Armed Groups Use Schools in the Central African Republic</p>
+      </div>
+</article>
+</li>
+          <li class="views-row-odd views-row-last list-item">
+<article class="node node-report node-promoted node-sticky report--teaser report--longform-teaser clearfix"  about="/report/2017/03/20/protecting-schools-military-use/law-policy-and-military-doctrine" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Protecting Schools from Military Use" class="rdf-meta element-hidden"></span>      <figure class="report-image">
+      <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/report_square/public/multimedia_images_2017/crd0317_reportcover_web-1.jpg?itok=AM-2mL3x" width="200" height="200" alt="" />    </figure>
+    <div class="report-content">
+    <div class="date--small"><time datetime="2017-03-20T00:01:00-04:00">March 20, 2017</time></div>
+      <h3 class="title"><a href="/report/2017/03/20/protecting-schools-military-use/law-policy-and-military-doctrine">Protecting Schools from Military Use</a></h3>
+          <p class="subtitle--tiny">Law, Policy, and Military Doctrine</p>
+      </div>
+</article>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div><div  class="pane">
+<div class="view view-promo-boxes view-id-promo_boxes view-display-id-panel_pane_3 view-dom-id-f312328b9cc2b9db27d296e3273ae748">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      <article class="promo--featured block--promo clearfix node node-promo-box"  about="/promo/295064/endchildmarriage" typeof="sioc:Item foaf:Document" data-eq-pts="large: 728">
+        <span property="dc:title" content="#EndChildMarriage" class="rdf-meta element-hidden"></span>
+          <figure class="article-image">
+                  <a href="https://www.hrw.org/EndChildMarriage">
+        
+                  <img data-src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2016/p201504wrd_bangladesh_childmarriage_final_05_0.jpg?itok=4fWuH9PP" class="js-unveil" width="374" height="210" typeof="foaf:Image" src="https://www.hrw.org/sites/all/themes/hrw/img/lazy_loader.gif" alt="Loading Photo" />          <noscript><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2016/p201504wrd_bangladesh_childmarriage_final_05_0.jpg?itok=4fWuH9PP" width="374" height="210" alt="#EndChildMarriage" /></noscript>
+        
+                  </a>
+              </figure>
+    
+    <div class="block-content">
+      <h3 class="title">        <a href="https://www.hrw.org/EndChildMarriage">
+            #EndChildMarriage              </a>
+      </h3>
+              <div class="promo-body">
+          <p><a href="https://www.hrw.org/EndChildMarriage">15 million girls marry as children each year. Demand an end to child marriage.</a></p>
+        </div>
+                    <div class="promo-link link--all">
+          <a href="https://www.hrw.org/EndChildMarriage">Join the call</a>        </div>
+          </div>
+  </article>
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      <article class="promo--featured block--promo clearfix node node-promo-box"  about="/promo/293235/education-syrian-refugee-children" typeof="sioc:Item foaf:Document" data-eq-pts="large: 728">
+        <span property="dc:title" content="Education for Syrian Refugee Children" class="rdf-meta element-hidden"></span>
+          <figure class="article-image">
+        
+                  <img data-src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2016/2016-07-mena-lebanon-photo-04.jpg?itok=nONwW_aW" class="js-unveil" width="374" height="210" typeof="foaf:Image" src="https://www.hrw.org/sites/all/themes/hrw/img/lazy_loader.gif" alt="Loading Photo" />          <noscript><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2016/2016-07-mena-lebanon-photo-04.jpg?itok=nONwW_aW" width="374" height="210" alt="Education for Syrian Refugee Children" /></noscript>
+        
+              </figure>
+    
+    <div class="block-content">
+      <h3 class="title">      Education for Syrian Refugee Children      </h3>
+              <div class="promo-body">
+          <p>The series "<a href="https://www.hrw.org/tag/education-syrian-refugee-children">Preventing A Lost Generation</a>" examines barriers to education for Syrian refugee children in Jordan, Lebanon, and Turkey.</p>
+        </div>
+                </div>
+  </article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><div  class="pane">
+<h2 class="heading--twitter heading--ruled--small">On Twitter</h2>
+
+<a class="twitter-timeline" href="https://twitter.com/hrw" data-widget-id="729794690443268096" data-chrome="noheader nofooter noborders transparent" data-link-color="#0b81c3" height="400">Tweets</a>
+</div><div  class="pane">
+<h2 class="heading--ruled--small">Our People</h2>
+
+
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile node-sticky has-image byline--expanded clearfix"  about="/about/people/zama-neff" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/zama-neff">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/media/images/photographs/Zama_Cousen-Neff_web.jpg?itok=raNAFLS1" width="108" height="108" alt="Zama Neff" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/zama-neff">
+              Zama Neff              </a>
+          </h4>
+  <span property="dc:title" content="Zama Neff" class="rdf-meta element-hidden"></span>      <span class="position">Executive Director, Children’s Rights Division</span>
+        <a href="https://twitter.com/ZamaHRW" class="link--twitter">ZamaHRW</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/jo-becker" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/jo-becker">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/multimedia_images_2015/2015_jo-becker_01_web-bio.jpg?itok=YYeVQqZq" width="108" height="108" alt="Jo Becker" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/jo-becker">
+              Jo Becker              </a>
+          </h4>
+  <span property="dc:title" content="Jo Becker" class="rdf-meta element-hidden"></span>      <span class="position">Advocacy Director, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/jobeckerhrw" class="link--twitter">jobeckerhrw</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/bede-sheppard" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/bede-sheppard">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/multimedia_images_2016/bede_sheppard_0.jpeg?itok=FroLO_33" width="108" height="108" alt="Bede Sheppard" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/bede-sheppard">
+              Bede Sheppard              </a>
+          </h4>
+  <span property="dc:title" content="Bede Sheppard" class="rdf-meta element-hidden"></span>      <span class="position">Deputy Director, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/BedeOnKidRights" class="link--twitter">BedeOnKidRights</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/jane-buchanan" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/jane-buchanan">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/multimedia_images_2015/2015_jane-buchanan_02_web-bio_0.jpg?itok=kIQqToBf" width="108" height="108" alt="Jane Buchanan" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/jane-buchanan">
+              Jane Buchanan              </a>
+          </h4>
+  <span property="dc:title" content="Jane Buchanan" class="rdf-meta element-hidden"></span>      <span class="position">Associate Director, Europe &amp; Central Asia Division, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/JaneMBuchanan" class="link--twitter">JaneMBuchanan</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/juliane-kippenberg" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/juliane-kippenberg">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/media/images/photographs/Juliane_Kippenberg.jpg?itok=9TyuNmjA" width="108" height="108" alt="Juliane Kippenberg" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/juliane-kippenberg">
+              Juliane Kippenberg              </a>
+          </h4>
+  <span property="dc:title" content="Juliane Kippenberg" class="rdf-meta element-hidden"></span>      <span class="position">Associate Director, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/KippenbergJ" class="link--twitter">KippenbergJ</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/michael-garcia-bochenek" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/michael-garcia-bochenek">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/media/images/photographs/2015_Michael-Bochenek_03_web_1.jpg?itok=JQhtoZBU" width="108" height="108" alt="Michael Garcia Bochenek" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/michael-garcia-bochenek">
+              Michael Garcia Bochenek              </a>
+          </h4>
+  <span property="dc:title" content="Michael Garcia Bochenek" class="rdf-meta element-hidden"></span>      <span class="position">Senior Counsel, Children’s Rights Division</span>
+        <a href="https://twitter.com/MichaelBochenek" class="link--twitter">MichaelBochenek</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/elizabeth-calvin" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/elizabeth-calvin">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/media/images/photographs/Elizabeth%20Calvin%20headshot.png?itok=ErHRU00b" width="108" height="108" alt="Elizabeth Calvin" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/elizabeth-calvin">
+              Elizabeth Calvin              </a>
+          </h4>
+  <span property="dc:title" content="Elizabeth Calvin" class="rdf-meta element-hidden"></span>      <span class="position">Senior Advocate, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/FairSentencing" class="link--twitter">FairSentencing</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/bill-van-esveld" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/bill-van-esveld">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/media/images/photographs/Bill_Van_Esveld_web.jpg?itok=PWfmp9pp" width="108" height="108" alt="Bill Van Esveld" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/bill-van-esveld">
+              Bill Van Esveld              </a>
+          </h4>
+  <span property="dc:title" content="Bill Van Esveld" class="rdf-meta element-hidden"></span>      <span class="position">Senior Researcher, MENA, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/billvanesveld" class="link--twitter">@billvanesveld</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/elin-martinez" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/elin-martinez">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/multimedia_images_2015/2015_elin-martinez_01_edit_web-bio.jpg?itok=fdKnBlFw" width="108" height="108" alt="Elin Martínez" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/elin-martinez">
+              Elin Martínez              </a>
+          </h4>
+  <span property="dc:title" content="Elin Martínez" class="rdf-meta element-hidden"></span>      <span class="position">Researcher, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/Martinez_Elin" class="link--twitter">Martinez_Elin</a>
+  </article>
+  </div>
+  <div class="field field--field-shared-featured-researcher">
+    <article class="node node-profile has-image byline--expanded clearfix"  about="/about/people/margaret-wurth" typeof="sioc:Item foaf:Document">
+      <figure class="byline-image">
+      <a href="/about/people/margaret-wurth">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/multimedia_images_2015/2015_margaret-wurth_02_edit_web-bio.jpg?itok=MgVPidDC" width="108" height="108" alt="Margaret Wurth" />      </a>
+    </figure>
+        <h4 class="name">
+              <a href="/about/people/margaret-wurth">
+              Margaret Wurth              </a>
+          </h4>
+  <span property="dc:title" content="Margaret Wurth" class="rdf-meta element-hidden"></span>      <span class="position">Researcher, Children&#039;s Rights Division</span>
+        <a href="https://twitter.com/MargaretWurth" class="link--twitter">MargaretWurth</a>
+  </article>
+  </div>
+
+</div><div  class="pane">
+<div><div class="view view-daily-brief view-id-daily_brief view-display-id-panel_pane_1 view-dom-id-2d79acd973ca8ec51ecc9bea655f8d14">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    <a href="/the-day-in-human-rights/2017/04/18" class="link--block">
+  <article class="brief--teaser clearfix" data-eq-pts="large: 728">
+          <figure class="brief-image">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/16x9_small/public/multimedia_images_2016/leopoldolopezphoto.jpg?itok=YAKCPnCP" width="374" height="210" alt="US Mosque Attack In Syria; Repressive Climate In Turkey: HRW Daily Brief" />      </figure>
+        <header class="brief-header">
+      <h3 class="title">Daily Brief</h3>
+      <time class="date" datetime="2017-04-18T06:33:07-04:00">April 18, 2017</time>
+    </header>
+          <div class="brief-content">
+        <div class="brief-summary">
+          <p>US mosque attack in Syria; repressive climate in Turkey; Thailand's junta targets critics; reporter in hiding after exposing Chechnya's gay purge; Venezuela in crisis; Ethiopia rejects UN investigation into protest deaths; campaign of terror in Burundi; no secondary education for refugee kids; &amp; hitherto inaccessible Holocaust files made public.</p>
+        </div>
+      </div>
+      </article>
+</a>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div><div  class="pane">
+<h2 class="heading--ruled--small">Interactives <a href="/video-photos/search?mm_type[0]=interactive" class="link--all">More Interactives</a></h2>
+
+<div><div class="view view-latest-interactive view-id-latest_interactive view-display-id-panel_pane_1 view-dom-id-ab44f1989f14fab2caa3428f91e42e5b">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="list--ruled">          <li class="views-row-odd views-row-first list-item">
+<article class="node node-interactive node-promoted multimedia interactive--teaser clearfix"  about="/video-photos/interactive/2015/10/08/exodus-asylum-seekers-flee-europe" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Exodus: Asylum Seekers Flee Into Europe" class="rdf-meta element-hidden"></span>      <figure class="interactive-image">
+      <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/multimedia_images_2015/2015_10_mm_desperate_journey_1.jpg?itok=X-4XJgSM" width="108" height="108" alt="Exodus: Asylum Seekers Flee Into Europe" />    </figure>
+    <div class="interactive-content">
+    <div class="date--small"><time datetime="2015-10-08T12:18:48-04:00">October 8, 2015</time></div>
+      <h3 class="title"><a href="/video-photos/interactive/2015/10/08/exodus-asylum-seekers-flee-europe">Exodus: Asylum Seekers Flee Into Europe</a></h3>
+          <p class="subtitle--tiny">“What will happen to us?” “Will they fingerprint us?” was the constant refrain as we watched a human wave of asylum seekers and migrants from Syria, Iraq, and Afghanistan crossing the Serbia-Hungary border. </p>
+      </div>
+</article>
+</li>
+          <li class="views-row-even list-item">
+<article class="node node-interactive node-promoted multimedia interactive--teaser clearfix"  about="/video-photos/interactive/2014/12/24/unravelling-central-african-republic-crisis" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="THE UNRAVELLING: The Central African Republic Crisis" class="rdf-meta element-hidden"></span>      <figure class="interactive-image">
+      <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square_small/public/media/images/photographs/CAR-feature_dec2014.jpg?itok=JzqdRR42" width="108" height="108" alt="THE UNRAVELLING: The Central African Republic Crisis" />    </figure>
+    <div class="interactive-content">
+    <div class="date--small"><time datetime="2014-12-24T17:00:46-05:00">December 24, 2014</time></div>
+      <h3 class="title"><a href="/video-photos/interactive/2014/12/24/unravelling-central-african-republic-crisis">THE UNRAVELLING: The Central African Republic Crisis</a></h3>
+          <p class="subtitle--tiny">The Unravelling: Journey Through The Central African Republic Crisis</p>
+      </div>
+</article>
+</li>
+          <li class="views-row-odd views-row-last list-item">
+<article class="node node-interactive node-promoted multimedia interactive--teaser clearfix"  about="/video-photos/interactive/2013/05/17/schools-battlegrounds" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Schools as Battlegrounds" class="rdf-meta element-hidden"></span>    <div class="interactive-content">
+    <div class="date--small"><time datetime="2013-05-17T11:00:30-04:00">May 17, 2013</time></div>
+      <h3 class="title"><a href="/video-photos/interactive/2013/05/17/schools-battlegrounds">Schools as Battlegrounds</a></h3>
+          <p class="subtitle--tiny">In conflicts around the world, schools, students, and teachers are under attack. When schools are destroyed or students and teachers are threatened, children often drop out of school and don’t come back. </p>
+      </div>
+</article>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>      </div>
+      </div>
+
+  <div class="section--supplement landing-page-supplement">
+    <div class="l--constrained--padded">
+      <div  class="pane">
+<h2 class="heading--ruled">Take Action</h2>
+
+<div class="view view-take-action view-id-take_action view-display-id-panel_pane_1 view-dom-id-0d9881a262111b0b1ef2c4541906c02c">
+        
+  
+  
+      <div class="view-content">
+        <div>
+    <article class="node node-campaign node-teaser campaign--teaser clearfix"  about="/EndChildMarriage" typeof="sioc:Item foaf:Document">
+      <figure class="campaign-image">
+      <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2017/dsc_1971-edit_0.jpg?itok=Sr1yRH1G" width="374" height="374" alt="End Child Marriage In New York" />    </figure>
+    <div class="campaign-content">
+          <h3 class="title--ruled">End Child Marriage In New York</h3>
+    <span property="dc:title" content="End Child Marriage In New York" class="rdf-meta element-hidden"></span>          <div class="campaign-summary">
+        
+  <div class="field field--field-shared-teaser">
+    <p><strong>UPDATE:</strong> On February 28, New York Governor Andrew Cuomo announced that he would support reform on the age of marriage. On March 7, the New York Senate unanimously passed S.4407. The bill now must be passed by the Assembly and signed by the governor to become law. Please help us keep the pressure on!</p>
+<p>	Did you know 14-year-olds can legally marry in New York State? From 2001 to 2010, nearly 4,000 teenagers under 18 married in New York. Research strongly links child marriage with dropping out of school, poverty, and mental and physical health problems. It is time something was done! This month, a new bill to crack down on child marriage was introduced in New York's state legislature. Please email Assembly Speaker Heastie &amp; Assembly Member Weinstein to tell them to support the bill.</p>
+  </div>
+      </div>
+              
+  <div class="field field--field-campaign-link">
+    <a href="https://www.hrw.org/EndChildMarriage" class="link--action">Act Now</a>  </div>
+      </div>
+</article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>    </div>
+  </div>
+      </div>
+    </div>
+
+  <!-- Begin Footer -->
+<footer class="footer" role="contentinfo">
+      <div class="donations">
+      <div id="block-hrw-donation-blocks-hrw-donation-blocks-footer" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+    <div class="donate donate--toggle-form donate--footer l--sidebar-after-centered l--sidebar-after-centered--even l--constrained--padded">
+  <div class="donation--main l-primary">
+  <h4 class="donation-heading">Protecting Rights, Saving Lives</h4>
+  <p class="donation-description">Human Rights Watch defends the rights of people in 90 countries worldwide, spotlighting abuses and bringing perpetrators to justice</p>
+  </div>
+  <div class="donation--side l-secondary">
+      <a href=" https://www.hrw.org/donate-now?promo_id=1005" class="donate-button donate--url-primary">Donate Now</a>
+    </div>
+</div>
+  </div>
+  </div>
+    </div>
+  
+  <div class="footer-inner l--constrained--padded">
+    <div class="footer-logo"><a href="/" title="Home" rel="home"><img src="https://www.hrw.org/sites/all/themes/hrw/logo.png" alt="Human Rights Watch" /></a></div>
+    <div class="l--footer-split clearfix">
+      <div class="l-primary">
+                  <div id="block-hrw-signup-form-hrw-signup-form" class="block block-hrw-signup-form footer-signup">
+  
+      <h2 class="footer-heading">Sign Up for Our Weekly Newsletter</h2>
+  
+  <div  class="block-content block-content">
+    
+<form method="POST" name="Sign Up for Our Newsletter_1" id="ea7596id" class="eaform ea7596class" action="https://action.hrw.org/ea-action/action" >
+  <input type="hidden" name="ea_requested_action" value="ea_submit_user_form" />
+  <input type="hidden" name="ea_javascript_enabled" id="ea_javascript_enabled" value="false" />
+  <input type="hidden" name="ea.AJAX.submit" value="false" />
+  <input type="hidden" name="ea.client.id" value="1908" />
+  <input type="hidden" name="ea.campaign.id" value="32256" />
+  <input type="hidden" name="ea.form.id" value="7596" />
+  <input type="hidden" name="ea.submitted.page" value="1" />
+  <input type="hidden" name="sessionId" value="d063cbc8-79bb-486b-9896-962350fb6a97" />
+  <input type="hidden" name="Week In Rights" value="Y" />
+  <input id="ea7596id_email_address" class="form-text form-email" type="email" name="Email Address" value="" placeholder="Enter an email address" />
+  <input type="submit" value="Sign Up" name="SubmitButton" id="SubmitButton" class="form-submit" />
+</form>
+  </div>
+  </div>
+              </div>
+      <div class="l-secondary">
+                  <div class="footer-connect">
+            <div id="block-social-links-social-links" class="block block-social-links footer-signup">
+  
+      <h2 class="footer-heading">Connect With Us</h2>
+  
+  <div  class="block-content block-content">
+    <div class="item-list"><ul class="nav nav--social nav--icons"><li class="nav-item first"><a href="https://twitter.com/hrw" class="nav-link nav-link--social nav-link--twitter" title="Twitter" target="_blank">Twitter</a></li>
+<li class="nav-item"><a href="https://www.facebook.com/HumanRightsWatch" class="nav-link nav-link--social nav-link--facebook" title="Facebook" target="_blank">Facebook</a></li>
+<li class="nav-item last"><a href="https://www.youtube.com/user/HumanRightsWatch" class="nav-link nav-link--social nav-link--youtube" title="YouTube" target="_blank">YouTube</a></li>
+</ul></div>  </div>
+  </div>
+          </div>
+              </div>
+    </div>
+
+    <div class="l--footer-split clearfix">
+      <div class="l-primary">
+                  <ul class="nav--footer"><li class="first leaf nav-item"><a href="/contact-us" title="" class="nav-link">Contact Us</a></li>
+<li class="leaf nav-item"><a href="/corrections" title="" class="nav-link">Corrections</a></li>
+<li class="leaf nav-item"><a href="/privacy-policy" title="Privacy Policy" class="nav-link">Privacy Policy</a></li>
+<li class="last leaf nav-item"><a href="/sitemap" title="" class="nav-link">Site Map</a></li>
+</ul>              </div>
+      <div class="l-secondary">
+        <p class="copyright">
+                      &copy; 2017 Human Rights Watch                  </p>
+      </div>
+    </div>
+    <div class="footer-address vcard">
+              <strong class="fn">Human Rights Watch</strong>  |
+    <span class="adr"><span class="street-address">350 Fifth Avenue, 34th Floor</span>  |
+    <span class="locality">New York</span>, <abbr class="region" title="New York">NY</abbr> <span class="postal-code">10118-3299</span> <abbr class="country-name" title="United States of America">USA</abbr></span>  |
+    <strong title="Telephone">t</strong> <span class="tel">1.212.290.4700</span>          </div>
+  </div>
+</footer>
+
+<!-- End Footer -->
+
+</div>
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_dKngieW4X0PQzNth2L0B8H0oPKObUx3jeiU_5kWUhU0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_5hGbUe47wwJ6nOJ0eEheMvANOSspzPLzY2x59JbQhzU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")),o=function(o){var r=t.document.createElement("link"),a=t.document.getElementsByTagName("script")[0];r.rel="stylesheet",r.href=e[o&&n?0:o?1:2],a.parentNode.insertBefore(r,a)},r=new t.Image;r.onerror=function(){o(!1)},r.onload=function(){o(1===r.width&&1===r.height)},r.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};grunticon(["https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.data.svg.css", "https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.data.png.css", "https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.fallback.css"]);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({103:[function(require,module,exports){
+'use strict';
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+(function ($, Drupal) {
+  $(document).ready(function () {
+    var _flashvars;
+
+    var flashvars = (_flashvars = {
+      loop: 'On',
+      navButtonsAppearance: '',
+      mediaPlayerButtonColor: '0xB6534A',
+      galleryBackgroundColor: '0x000000',
+      navGradientAppearance: 'Hidden',
+      navBackgroundAlpha: 1,
+      contentFramePadding: 0,
+      navLinkAppearance: 'Thumbnails',
+      navThumbLinkSize: '44,30',
+      navAppearance: 'Visible'
+    }, _defineProperty(_flashvars, 'navButtonsAppearance', 'Hide Display Mode and Gallery Button'), _defineProperty(_flashvars, 'galleryAppearance', 'Hidden'), _defineProperty(_flashvars, 'captionTextSize', 14), _defineProperty(_flashvars, 'xmlFileType', 'Director'), _flashvars);
+    if (typeof Drupal.settings.photo_essay !== 'undefined' && typeof Drupal.settings.photo_essay.album !== 'undefined') {
+      flashvars.xmlFilePath = 'http://slideshowpro.hrw.org/images.php?album=' + Drupal.settings.photo_essay.album;
+    }
+    var params = {
+      bgcolor: '#FFFFFF',
+      allowfullscreen: true,
+      wmode: 'opaque'
+    };
+    var attributes = {
+      id: 'ssp-album',
+      width: 994,
+      height: 559
+    };
+    swfobject.embedSWF('http://slideshowpro.hrw.org/m/slideshowpro.swf', 'ssp-album', '994', '559', '9.0.0', false, flashvars, params, attributes);
+  });
+})(jQuery, Drupal);
+
+},{}]},{},[103])
+//# sourceMappingURL=data:application/json;charset:utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5vZGVfbW9kdWxlcy9icm93c2VyLXBhY2svX3ByZWx1ZGUuanMiLCIuLi8uLi9zaXRlcy9hbGwvdGhlbWVzL2hydy9zcmMvanMvc2xpZGVzaG93cHJvLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztBQ0FBLENBQUMsVUFBUyxDQUFULEVBQVksTUFBWixFQUFvQjtBQUNuQixJQUFFLFFBQUYsRUFBWSxLQUFaLENBQWtCLFlBQVc7QUFBQTs7QUFDM0IsUUFBSTtBQUNELFlBQU0sSUFETDtBQUVELDRCQUFzQixFQUZyQjtBQUdELDhCQUF3QixVQUh2QjtBQUlELDhCQUF3QixVQUp2QjtBQUtELDZCQUF1QixRQUx0QjtBQU1ELDBCQUFtQixDQU5sQjtBQU9ELDJCQUFxQixDQVBwQjtBQVFELHlCQUFtQixZQVJsQjtBQVNELHdCQUFrQixPQVRqQjtBQVVELHFCQUFlO0FBVmQsMkRBV3FCLHNDQVhyQixvREFZa0IsUUFabEIsa0RBYWdCLEVBYmhCLDhDQWNZLFVBZFosY0FBSjtBQWdCQSxRQUFJLE9BQU8sT0FBTyxRQUFQLENBQWdCLFdBQXZCLEtBQXVDLFdBQXZDLElBQXNELE9BQU8sT0FBTyxRQUFQLENBQWdCLFdBQWhCLENBQTRCLEtBQW5DLEtBQTZDLFdBQXZHLEVBQW9IO0FBQ2xILGdCQUFVLFdBQVYsR0FBd0Isa0RBQWtELE9BQU8sUUFBUCxDQUFnQixXQUFoQixDQUE0QixLQUF0RztBQUNEO0FBQ0QsUUFBSSxTQUFTO0FBQ1osZUFBUyxTQURHO0FBRVosdUJBQWlCLElBRkw7QUFHWixhQUFPO0FBSEssS0FBYjtBQUtBLFFBQUksYUFBYTtBQUNoQixVQUFJLFdBRFk7QUFFaEIsYUFBTyxHQUZTO0FBR2hCLGNBQVE7QUFIUSxLQUFqQjtBQUtBLGNBQVUsUUFBVixDQUFtQixnREFBbkIsRUFBcUUsV0FBckUsRUFBa0YsS0FBbEYsRUFBeUYsS0FBekYsRUFBZ0csT0FBaEcsRUFBeUcsS0FBekcsRUFBZ0gsU0FBaEgsRUFBMkgsTUFBM0gsRUFBbUksVUFBbkk7QUFDRCxHQS9CRDtBQWdDRCxDQWpDRCxFQWlDRyxNQWpDSCxFQWlDVyxNQWpDWCIsImZpbGUiOiJnZW5lcmF0ZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlc0NvbnRlbnQiOlsiKGZ1bmN0aW9uIGUodCxuLHIpe2Z1bmN0aW9uIHMobyx1KXtpZighbltvXSl7aWYoIXRbb10pe3ZhciBhPXR5cGVvZiByZXF1aXJlPT1cImZ1bmN0aW9uXCImJnJlcXVpcmU7aWYoIXUmJmEpcmV0dXJuIGEobywhMCk7aWYoaSlyZXR1cm4gaShvLCEwKTt2YXIgZj1uZXcgRXJyb3IoXCJDYW5ub3QgZmluZCBtb2R1bGUgJ1wiK28rXCInXCIpO3Rocm93IGYuY29kZT1cIk1PRFVMRV9OT1RfRk9VTkRcIixmfXZhciBsPW5bb109e2V4cG9ydHM6e319O3Rbb11bMF0uY2FsbChsLmV4cG9ydHMsZnVuY3Rpb24oZSl7dmFyIG49dFtvXVsxXVtlXTtyZXR1cm4gcyhuP246ZSl9LGwsbC5leHBvcnRzLGUsdCxuLHIpfXJldHVybiBuW29dLmV4cG9ydHN9dmFyIGk9dHlwZW9mIHJlcXVpcmU9PVwiZnVuY3Rpb25cIiYmcmVxdWlyZTtmb3IodmFyIG89MDtvPHIubGVuZ3RoO28rKylzKHJbb10pO3JldHVybiBzfSkiLCIoZnVuY3Rpb24oJCwgRHJ1cGFsKSB7XG4gICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkge1xuICAgIHZhciBmbGFzaHZhcnMgPSB7XG4gICAgICAgbG9vcDogJ09uJyxcbiAgICAgICBuYXZCdXR0b25zQXBwZWFyYW5jZTogJycsXG4gICAgICAgbWVkaWFQbGF5ZXJCdXR0b25Db2xvcjogJzB4QjY1MzRBJyxcbiAgICAgICBnYWxsZXJ5QmFja2dyb3VuZENvbG9yOiAnMHgwMDAwMDAnLFxuICAgICAgIG5hdkdyYWRpZW50QXBwZWFyYW5jZTogJ0hpZGRlbicsXG4gICAgICAgbmF2QmFja2dyb3VuZEFscGhhOjEsXG4gICAgICAgY29udGVudEZyYW1lUGFkZGluZzogMCxcbiAgICAgICBuYXZMaW5rQXBwZWFyYW5jZTogJ1RodW1ibmFpbHMnLFxuICAgICAgIG5hdlRodW1iTGlua1NpemU6ICc0NCwzMCcsXG4gICAgICAgbmF2QXBwZWFyYW5jZTogJ1Zpc2libGUnLFxuICAgICAgIG5hdkJ1dHRvbnNBcHBlYXJhbmNlOiAnSGlkZSBEaXNwbGF5IE1vZGUgYW5kIEdhbGxlcnkgQnV0dG9uJyxcbiAgICAgICBnYWxsZXJ5QXBwZWFyYW5jZTogJ0hpZGRlbicsXG4gICAgICAgY2FwdGlvblRleHRTaXplOiAxNCxcbiAgICAgICB4bWxGaWxlVHlwZTogJ0RpcmVjdG9yJ1xuICAgIH1cbiAgICBpZiAodHlwZW9mIERydXBhbC5zZXR0aW5ncy5waG90b19lc3NheSAhPT0gJ3VuZGVmaW5lZCcgJiYgdHlwZW9mIERydXBhbC5zZXR0aW5ncy5waG90b19lc3NheS5hbGJ1bSAhPT0gJ3VuZGVmaW5lZCcpIHtcbiAgICAgIGZsYXNodmFycy54bWxGaWxlUGF0aCA9ICdodHRwOi8vc2xpZGVzaG93cHJvLmhydy5vcmcvaW1hZ2VzLnBocD9hbGJ1bT0nICsgRHJ1cGFsLnNldHRpbmdzLnBob3RvX2Vzc2F5LmFsYnVtO1xuICAgIH1cbiAgICB2YXIgcGFyYW1zID0ge1xuICAgICBiZ2NvbG9yOiAnI0ZGRkZGRicsXG4gICAgIGFsbG93ZnVsbHNjcmVlbjogdHJ1ZSxcbiAgICAgd21vZGU6ICdvcGFxdWUnXG4gICAgfVxuICAgIHZhciBhdHRyaWJ1dGVzID0ge1xuICAgICBpZDogJ3NzcC1hbGJ1bScsXG4gICAgIHdpZHRoOiA5OTQsXG4gICAgIGhlaWdodDogNTU5XG4gICAgfVxuICAgIHN3Zm9iamVjdC5lbWJlZFNXRignaHR0cDovL3NsaWRlc2hvd3Byby5ocncub3JnL20vc2xpZGVzaG93cHJvLnN3ZicsICdzc3AtYWxidW0nLCAnOTk0JywgJzU1OScsICc5LjAuMCcsIGZhbHNlLCBmbGFzaHZhcnMsIHBhcmFtcywgYXR0cmlidXRlcyk7XG4gIH0pO1xufSkoalF1ZXJ5LCBEcnVwYWwpO1xuIl19
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({103:[function(require,module,exports){
+'use strict';
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+(function ($, Drupal) {
+  $(document).ready(function () {
+    var _flashvars;
+
+    var flashvars = (_flashvars = {
+      loop: 'On',
+      navButtonsAppearance: '',
+      mediaPlayerButtonColor: '0xB6534A',
+      galleryBackgroundColor: '0x000000',
+      navGradientAppearance: 'Hidden',
+      navBackgroundAlpha: 1,
+      contentFramePadding: 0,
+      navLinkAppearance: 'Thumbnails',
+      navThumbLinkSize: '44,30',
+      navAppearance: 'Visible'
+    }, _defineProperty(_flashvars, 'navButtonsAppearance', 'Hide Display Mode and Gallery Button'), _defineProperty(_flashvars, 'galleryAppearance', 'Hidden'), _defineProperty(_flashvars, 'captionTextSize', 14), _defineProperty(_flashvars, 'xmlFileType', 'Director'), _flashvars);
+    if (typeof Drupal.settings.photo_essay !== 'undefined' && typeof Drupal.settings.photo_essay.album !== 'undefined') {
+      flashvars.xmlFilePath = 'http://slideshowpro.hrw.org/images.php?album=' + Drupal.settings.photo_essay.album;
+    }
+    var params = {
+      bgcolor: '#FFFFFF',
+      allowfullscreen: true,
+      wmode: 'opaque'
+    };
+    var attributes = {
+      id: 'ssp-album',
+      width: 994,
+      height: 559
+    };
+    swfobject.embedSWF('http://slideshowpro.hrw.org/m/slideshowpro.swf', 'ssp-album', '994', '559', '9.0.0', false, flashvars, params, attributes);
+  });
+})(jQuery, Drupal);
+
+},{}]},{},[103])
+//# sourceMappingURL=data:application/json;charset:utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5vZGVfbW9kdWxlcy9icm93c2VyLXBhY2svX3ByZWx1ZGUuanMiLCIuLi8uLi9zaXRlcy9hbGwvdGhlbWVzL2hydy9zcmMvanMvc2xpZGVzaG93cHJvLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztBQ0FBLENBQUMsVUFBUyxDQUFULEVBQVksTUFBWixFQUFvQjtBQUNuQixJQUFFLFFBQUYsRUFBWSxLQUFaLENBQWtCLFlBQVc7QUFBQTs7QUFDM0IsUUFBSTtBQUNELFlBQU0sSUFETDtBQUVELDRCQUFzQixFQUZyQjtBQUdELDhCQUF3QixVQUh2QjtBQUlELDhCQUF3QixVQUp2QjtBQUtELDZCQUF1QixRQUx0QjtBQU1ELDBCQUFtQixDQU5sQjtBQU9ELDJCQUFxQixDQVBwQjtBQVFELHlCQUFtQixZQVJsQjtBQVNELHdCQUFrQixPQVRqQjtBQVVELHFCQUFlO0FBVmQsMkRBV3FCLHNDQVhyQixvREFZa0IsUUFabEIsa0RBYWdCLEVBYmhCLDhDQWNZLFVBZFosY0FBSjtBQWdCQSxRQUFJLE9BQU8sT0FBTyxRQUFQLENBQWdCLFdBQXZCLEtBQXVDLFdBQXZDLElBQXNELE9BQU8sT0FBTyxRQUFQLENBQWdCLFdBQWhCLENBQTRCLEtBQW5DLEtBQTZDLFdBQXZHLEVBQW9IO0FBQ2xILGdCQUFVLFdBQVYsR0FBd0Isa0RBQWtELE9BQU8sUUFBUCxDQUFnQixXQUFoQixDQUE0QixLQUF0RztBQUNEO0FBQ0QsUUFBSSxTQUFTO0FBQ1osZUFBUyxTQURHO0FBRVosdUJBQWlCLElBRkw7QUFHWixhQUFPO0FBSEssS0FBYjtBQUtBLFFBQUksYUFBYTtBQUNoQixVQUFJLFdBRFk7QUFFaEIsYUFBTyxHQUZTO0FBR2hCLGNBQVE7QUFIUSxLQUFqQjtBQUtBLGNBQVUsUUFBVixDQUFtQixnREFBbkIsRUFBcUUsV0FBckUsRUFBa0YsS0FBbEYsRUFBeUYsS0FBekYsRUFBZ0csT0FBaEcsRUFBeUcsS0FBekcsRUFBZ0gsU0FBaEgsRUFBMkgsTUFBM0gsRUFBbUksVUFBbkk7QUFDRCxHQS9CRDtBQWdDRCxDQWpDRCxFQWlDRyxNQWpDSCxFQWlDVyxNQWpDWCIsImZpbGUiOiJnZW5lcmF0ZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlc0NvbnRlbnQiOlsiKGZ1bmN0aW9uIGUodCxuLHIpe2Z1bmN0aW9uIHMobyx1KXtpZighbltvXSl7aWYoIXRbb10pe3ZhciBhPXR5cGVvZiByZXF1aXJlPT1cImZ1bmN0aW9uXCImJnJlcXVpcmU7aWYoIXUmJmEpcmV0dXJuIGEobywhMCk7aWYoaSlyZXR1cm4gaShvLCEwKTt2YXIgZj1uZXcgRXJyb3IoXCJDYW5ub3QgZmluZCBtb2R1bGUgJ1wiK28rXCInXCIpO3Rocm93IGYuY29kZT1cIk1PRFVMRV9OT1RfRk9VTkRcIixmfXZhciBsPW5bb109e2V4cG9ydHM6e319O3Rbb11bMF0uY2FsbChsLmV4cG9ydHMsZnVuY3Rpb24oZSl7dmFyIG49dFtvXVsxXVtlXTtyZXR1cm4gcyhuP246ZSl9LGwsbC5leHBvcnRzLGUsdCxuLHIpfXJldHVybiBuW29dLmV4cG9ydHN9dmFyIGk9dHlwZW9mIHJlcXVpcmU9PVwiZnVuY3Rpb25cIiYmcmVxdWlyZTtmb3IodmFyIG89MDtvPHIubGVuZ3RoO28rKylzKHJbb10pO3JldHVybiBzfSkiLCIoZnVuY3Rpb24oJCwgRHJ1cGFsKSB7XG4gICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkge1xuICAgIHZhciBmbGFzaHZhcnMgPSB7XG4gICAgICAgbG9vcDogJ09uJyxcbiAgICAgICBuYXZCdXR0b25zQXBwZWFyYW5jZTogJycsXG4gICAgICAgbWVkaWFQbGF5ZXJCdXR0b25Db2xvcjogJzB4QjY1MzRBJyxcbiAgICAgICBnYWxsZXJ5QmFja2dyb3VuZENvbG9yOiAnMHgwMDAwMDAnLFxuICAgICAgIG5hdkdyYWRpZW50QXBwZWFyYW5jZTogJ0hpZGRlbicsXG4gICAgICAgbmF2QmFja2dyb3VuZEFscGhhOjEsXG4gICAgICAgY29udGVudEZyYW1lUGFkZGluZzogMCxcbiAgICAgICBuYXZMaW5rQXBwZWFyYW5jZTogJ1RodW1ibmFpbHMnLFxuICAgICAgIG5hdlRodW1iTGlua1NpemU6ICc0NCwzMCcsXG4gICAgICAgbmF2QXBwZWFyYW5jZTogJ1Zpc2libGUnLFxuICAgICAgIG5hdkJ1dHRvbnNBcHBlYXJhbmNlOiAnSGlkZSBEaXNwbGF5IE1vZGUgYW5kIEdhbGxlcnkgQnV0dG9uJyxcbiAgICAgICBnYWxsZXJ5QXBwZWFyYW5jZTogJ0hpZGRlbicsXG4gICAgICAgY2FwdGlvblRleHRTaXplOiAxNCxcbiAgICAgICB4bWxGaWxlVHlwZTogJ0RpcmVjdG9yJ1xuICAgIH1cbiAgICBpZiAodHlwZW9mIERydXBhbC5zZXR0aW5ncy5waG90b19lc3NheSAhPT0gJ3VuZGVmaW5lZCcgJiYgdHlwZW9mIERydXBhbC5zZXR0aW5ncy5waG90b19lc3NheS5hbGJ1bSAhPT0gJ3VuZGVmaW5lZCcpIHtcbiAgICAgIGZsYXNodmFycy54bWxGaWxlUGF0aCA9ICdodHRwOi8vc2xpZGVzaG93cHJvLmhydy5vcmcvaW1hZ2VzLnBocD9hbGJ1bT0nICsgRHJ1cGFsLnNldHRpbmdzLnBob3RvX2Vzc2F5LmFsYnVtO1xuICAgIH1cbiAgICB2YXIgcGFyYW1zID0ge1xuICAgICBiZ2NvbG9yOiAnI0ZGRkZGRicsXG4gICAgIGFsbG93ZnVsbHNjcmVlbjogdHJ1ZSxcbiAgICAgd21vZGU6ICdvcGFxdWUnXG4gICAgfVxuICAgIHZhciBhdHRyaWJ1dGVzID0ge1xuICAgICBpZDogJ3NzcC1hbGJ1bScsXG4gICAgIHdpZHRoOiA5OTQsXG4gICAgIGhlaWdodDogNTU5XG4gICAgfVxuICAgIHN3Zm9iamVjdC5lbWJlZFNXRignaHR0cDovL3NsaWRlc2hvd3Byby5ocncub3JnL20vc2xpZGVzaG93cHJvLnN3ZicsICdzc3AtYWxidW0nLCAnOTk0JywgJzU1OScsICc5LjAuMCcsIGZhbHNlLCBmbGFzaHZhcnMsIHBhcmFtcywgYXR0cmlidXRlcyk7XG4gIH0pO1xufSkoalF1ZXJ5LCBEcnVwYWwpO1xuIl19
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({103:[function(require,module,exports){
+'use strict';
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+(function ($, Drupal) {
+  $(document).ready(function () {
+    var _flashvars;
+
+    var flashvars = (_flashvars = {
+      loop: 'On',
+      navButtonsAppearance: '',
+      mediaPlayerButtonColor: '0xB6534A',
+      galleryBackgroundColor: '0x000000',
+      navGradientAppearance: 'Hidden',
+      navBackgroundAlpha: 1,
+      contentFramePadding: 0,
+      navLinkAppearance: 'Thumbnails',
+      navThumbLinkSize: '44,30',
+      navAppearance: 'Visible'
+    }, _defineProperty(_flashvars, 'navButtonsAppearance', 'Hide Display Mode and Gallery Button'), _defineProperty(_flashvars, 'galleryAppearance', 'Hidden'), _defineProperty(_flashvars, 'captionTextSize', 14), _defineProperty(_flashvars, 'xmlFileType', 'Director'), _flashvars);
+    if (typeof Drupal.settings.photo_essay !== 'undefined' && typeof Drupal.settings.photo_essay.album !== 'undefined') {
+      flashvars.xmlFilePath = 'http://slideshowpro.hrw.org/images.php?album=' + Drupal.settings.photo_essay.album;
+    }
+    var params = {
+      bgcolor: '#FFFFFF',
+      allowfullscreen: true,
+      wmode: 'opaque'
+    };
+    var attributes = {
+      id: 'ssp-album',
+      width: 994,
+      height: 559
+    };
+    swfobject.embedSWF('http://slideshowpro.hrw.org/m/slideshowpro.swf', 'ssp-album', '994', '559', '9.0.0', false, flashvars, params, attributes);
+  });
+})(jQuery, Drupal);
+
+},{}]},{},[103])
+//# sourceMappingURL=data:application/json;charset:utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5vZGVfbW9kdWxlcy9icm93c2VyLXBhY2svX3ByZWx1ZGUuanMiLCIuLi8uLi9zaXRlcy9hbGwvdGhlbWVzL2hydy9zcmMvanMvc2xpZGVzaG93cHJvLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztBQ0FBLENBQUMsVUFBUyxDQUFULEVBQVksTUFBWixFQUFvQjtBQUNuQixJQUFFLFFBQUYsRUFBWSxLQUFaLENBQWtCLFlBQVc7QUFBQTs7QUFDM0IsUUFBSTtBQUNELFlBQU0sSUFETDtBQUVELDRCQUFzQixFQUZyQjtBQUdELDhCQUF3QixVQUh2QjtBQUlELDhCQUF3QixVQUp2QjtBQUtELDZCQUF1QixRQUx0QjtBQU1ELDBCQUFtQixDQU5sQjtBQU9ELDJCQUFxQixDQVBwQjtBQVFELHlCQUFtQixZQVJsQjtBQVNELHdCQUFrQixPQVRqQjtBQVVELHFCQUFlO0FBVmQsMkRBV3FCLHNDQVhyQixvREFZa0IsUUFabEIsa0RBYWdCLEVBYmhCLDhDQWNZLFVBZFosY0FBSjtBQWdCQSxRQUFJLE9BQU8sT0FBTyxRQUFQLENBQWdCLFdBQXZCLEtBQXVDLFdBQXZDLElBQXNELE9BQU8sT0FBTyxRQUFQLENBQWdCLFdBQWhCLENBQTRCLEtBQW5DLEtBQTZDLFdBQXZHLEVBQW9IO0FBQ2xILGdCQUFVLFdBQVYsR0FBd0Isa0RBQWtELE9BQU8sUUFBUCxDQUFnQixXQUFoQixDQUE0QixLQUF0RztBQUNEO0FBQ0QsUUFBSSxTQUFTO0FBQ1osZUFBUyxTQURHO0FBRVosdUJBQWlCLElBRkw7QUFHWixhQUFPO0FBSEssS0FBYjtBQUtBLFFBQUksYUFBYTtBQUNoQixVQUFJLFdBRFk7QUFFaEIsYUFBTyxHQUZTO0FBR2hCLGNBQVE7QUFIUSxLQUFqQjtBQUtBLGNBQVUsUUFBVixDQUFtQixnREFBbkIsRUFBcUUsV0FBckUsRUFBa0YsS0FBbEYsRUFBeUYsS0FBekYsRUFBZ0csT0FBaEcsRUFBeUcsS0FBekcsRUFBZ0gsU0FBaEgsRUFBMkgsTUFBM0gsRUFBbUksVUFBbkk7QUFDRCxHQS9CRDtBQWdDRCxDQWpDRCxFQWlDRyxNQWpDSCxFQWlDVyxNQWpDWCIsImZpbGUiOiJnZW5lcmF0ZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlc0NvbnRlbnQiOlsiKGZ1bmN0aW9uIGUodCxuLHIpe2Z1bmN0aW9uIHMobyx1KXtpZighbltvXSl7aWYoIXRbb10pe3ZhciBhPXR5cGVvZiByZXF1aXJlPT1cImZ1bmN0aW9uXCImJnJlcXVpcmU7aWYoIXUmJmEpcmV0dXJuIGEobywhMCk7aWYoaSlyZXR1cm4gaShvLCEwKTt2YXIgZj1uZXcgRXJyb3IoXCJDYW5ub3QgZmluZCBtb2R1bGUgJ1wiK28rXCInXCIpO3Rocm93IGYuY29kZT1cIk1PRFVMRV9OT1RfRk9VTkRcIixmfXZhciBsPW5bb109e2V4cG9ydHM6e319O3Rbb11bMF0uY2FsbChsLmV4cG9ydHMsZnVuY3Rpb24oZSl7dmFyIG49dFtvXVsxXVtlXTtyZXR1cm4gcyhuP246ZSl9LGwsbC5leHBvcnRzLGUsdCxuLHIpfXJldHVybiBuW29dLmV4cG9ydHN9dmFyIGk9dHlwZW9mIHJlcXVpcmU9PVwiZnVuY3Rpb25cIiYmcmVxdWlyZTtmb3IodmFyIG89MDtvPHIubGVuZ3RoO28rKylzKHJbb10pO3JldHVybiBzfSkiLCIoZnVuY3Rpb24oJCwgRHJ1cGFsKSB7XG4gICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkge1xuICAgIHZhciBmbGFzaHZhcnMgPSB7XG4gICAgICAgbG9vcDogJ09uJyxcbiAgICAgICBuYXZCdXR0b25zQXBwZWFyYW5jZTogJycsXG4gICAgICAgbWVkaWFQbGF5ZXJCdXR0b25Db2xvcjogJzB4QjY1MzRBJyxcbiAgICAgICBnYWxsZXJ5QmFja2dyb3VuZENvbG9yOiAnMHgwMDAwMDAnLFxuICAgICAgIG5hdkdyYWRpZW50QXBwZWFyYW5jZTogJ0hpZGRlbicsXG4gICAgICAgbmF2QmFja2dyb3VuZEFscGhhOjEsXG4gICAgICAgY29udGVudEZyYW1lUGFkZGluZzogMCxcbiAgICAgICBuYXZMaW5rQXBwZWFyYW5jZTogJ1RodW1ibmFpbHMnLFxuICAgICAgIG5hdlRodW1iTGlua1NpemU6ICc0NCwzMCcsXG4gICAgICAgbmF2QXBwZWFyYW5jZTogJ1Zpc2libGUnLFxuICAgICAgIG5hdkJ1dHRvbnNBcHBlYXJhbmNlOiAnSGlkZSBEaXNwbGF5IE1vZGUgYW5kIEdhbGxlcnkgQnV0dG9uJyxcbiAgICAgICBnYWxsZXJ5QXBwZWFyYW5jZTogJ0hpZGRlbicsXG4gICAgICAgY2FwdGlvblRleHRTaXplOiAxNCxcbiAgICAgICB4bWxGaWxlVHlwZTogJ0RpcmVjdG9yJ1xuICAgIH1cbiAgICBpZiAodHlwZW9mIERydXBhbC5zZXR0aW5ncy5waG90b19lc3NheSAhPT0gJ3VuZGVmaW5lZCcgJiYgdHlwZW9mIERydXBhbC5zZXR0aW5ncy5waG90b19lc3NheS5hbGJ1bSAhPT0gJ3VuZGVmaW5lZCcpIHtcbiAgICAgIGZsYXNodmFycy54bWxGaWxlUGF0aCA9ICdodHRwOi8vc2xpZGVzaG93cHJvLmhydy5vcmcvaW1hZ2VzLnBocD9hbGJ1bT0nICsgRHJ1cGFsLnNldHRpbmdzLnBob3RvX2Vzc2F5LmFsYnVtO1xuICAgIH1cbiAgICB2YXIgcGFyYW1zID0ge1xuICAgICBiZ2NvbG9yOiAnI0ZGRkZGRicsXG4gICAgIGFsbG93ZnVsbHNjcmVlbjogdHJ1ZSxcbiAgICAgd21vZGU6ICdvcGFxdWUnXG4gICAgfVxuICAgIHZhciBhdHRyaWJ1dGVzID0ge1xuICAgICBpZDogJ3NzcC1hbGJ1bScsXG4gICAgIHdpZHRoOiA5OTQsXG4gICAgIGhlaWdodDogNTU5XG4gICAgfVxuICAgIHN3Zm9iamVjdC5lbWJlZFNXRignaHR0cDovL3NsaWRlc2hvd3Byby5ocncub3JnL20vc2xpZGVzaG93cHJvLnN3ZicsICdzc3AtYWxidW0nLCAnOTk0JywgJzU1OScsICc5LjAuMCcsIGZhbHNlLCBmbGFzaHZhcnMsIHBhcmFtcywgYXR0cmlidXRlcyk7XG4gIH0pO1xufSkoalF1ZXJ5LCBEcnVwYWwpO1xuIl19
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_hSwvl8-E3_X0yLaAX4feA0aEmGg5q3MZ03ZWkRjV5Rs.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0f4764254c","applicationID":"8959313","transactionName":"bwBUYkMDXkpVVURbW1ZKd1VFC19XG0ZRVVFnCFdYUAVVS2tCVUBZZxNfU0Y9QFhTUw==","queueTime":0,"applicationTime":4877,"atts":"Q0dXFAsZTUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script><script>(function () { var v = 1492517605 * 3.1415926535898; v = Math.floor(v); document.cookie = "__zjc4184="+v+"; expires=Tue, 18 Apr 2017 12:14:34 UTC; path=/"; })()</script></body>
+</html>

@@ -1,528 +1,1152 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head profile="http://dublincore.org/documents/dcq-html/"><title>BBC - Ethics - Animal ethics: Animal rights</title><style type="text/css">
-        #archive-mothballed-message a:hover span {
-            text-decoration:underline;
+
+
+
+
+
+      		
+
+
+
+      		
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+          		
+
+
+
+      		
+
+
+
+
+
+
+
+
+    <!-- Begin Monetate ExpressTag Sync v8. Place at start of document head. DO NOT ALTER. -->
+    <script type="text/javascript">
+    var monetateT = new Date().getTime();
+    (function() {
+        var p = document.location.protocol;
+        if (p == "http:" || p == "https:") {
+            var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-07e257bc/p/nationalgeographic.com/entry.js";
+            var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
         }
-        #blq-container #archived-mothball-message a {
-            padding-left:250px;
-            padding-top:17px;
-            background-position: 180px 10px;
+    })();
+    </script>
+    <!-- End Monetate tag. -->
+
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="theme-color" content="#ffffff">
+
+
+    
+    <link rel="amphtml" href="http://relay.nationalgeographic.com/proxy/distribution/public/amp/2017/02/wildlife-watch-usda-animal-welfare-trump-records">
+
+    
+<link rel="apple-touch-icon" href="/etc/designs/platform/v2/images/apple-touch-icon.ngsversion.45ded159.png">
+<link rel="icon" href="/etc/designs/platform/v2/images/favicon.ngsversion.45ded159.png">
+<link rel="icon" href="/etc/designs/platform/v2/images/favicon-32x32.ngsversion.45ded159.png" sizes="32x32">
+<link rel="icon" href="/etc/designs/platform/v2/images/favicon-16x16.ngsversion.45ded159.png" sizes="16x16">
+<link rel="mask-icon" href="/etc/designs/platform/v2/images/safari-pinned-tab.ngsversion.45ded159.svg" color="#ffcc00">
+<link rel="shortcut icon" href="/etc/designs/platform/v2/images/favicon.ico"/>
+<link rel="preload" href="//fonts.ngeo.com/haas/1-0-0/NHaasGroteskDSPro-55Rg.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//fonts.ngeo.com/haas/1-0-0/NHaasGroteskDSPro-65Md.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/etc/designs/platform/v2/styles/main.ngsversion.45ded159.css" media="all">
+
+<link type="text/ng-style" id="mapmaker-style" data-src="/etc/designs/platform/v2/styles/mapbox_js/theme/style.css">
+
+
+    
+    
+
+    
+    
+
+    <title>U.S. Animal Abuse Records Deleted—What We Stand to Lose</title>
+    <meta property="og:title" content="U.S. Animal Abuse Records Deleted—What We Stand to Lose"/>
+<meta name="description" content="By removing online records of welfare violations, U.S. agency robs journalists, investigators, and the public of timely information—and takes pressure off abusers."/>
+    <meta property="og:description" content="By removing online records of welfare violations, U.S. agency robs journalists, investigators, and the public of timely information—and takes pressure off abusers."/>
+<meta name="keywords" content="animal welfare, government transparency, zoos, animal testing, investigative journlaism, animal cruelty, law and legislation, animals, governments, united states"/>
+<meta name="news_keywords" content="animal welfare, government transparency, zoos, animal testing, investigative journlaism, animal cruelty, law and legislation, animals, governments, united states, environment"/>
+<meta property="og:url" content="http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records/"/>
+<link rel="canonical" href="http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records/"/>
+<meta property="og:type" content="article"/>
+<meta name="og:site_name" content="National Geographic News"/>
+<meta property="article:publisher" content="https://www.facebook.com/natgeo"/>
+<meta property="article:published_time" content="2017-02-06T13:39:00-0500"/>
+    <meta property="article:modified_time" content="2017-04-14T15:31:13-0400"/>
+    <meta property="article:section" content="News"/>
+    <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NatGeo">
+    <meta name="twitter:creator" content="@NatGeo">
+<meta name="twitter:site:id" content="17471979">
+<meta name="twitter:title" content="U.S. Animal Abuse Records Deleted—What We Stand to Lose">
+<meta name="twitter:description" content="By removing online records of welfare violations, U.S. agency robs journalists, investigators, and the public of timely information—and takes pressure off abusers.">
+<meta property="twitter:url" content="http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records/"/>
+<meta property="og:image" content="http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/01_animal_abuse_reports.ngsversion.1486407603112.adapt.1900.1.jpg"/>
+    <meta property="og:image:width" content="1900"/>
+    <meta property="og:image:height" content="1270"/>
+    <meta name="twitter:image:src" content="http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/01_animal_abuse_reports.ngsversion.1486407603112.adapt.945.1.jpg">
+    
+    <meta property="gsa_publish_date" content="2017-04-14"/>
+
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4AWVVACgsJVVlWAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+
+          		
+
+
+
+<meta name="tax:source" content="news">
+<meta name="tax:firstSubjectAncestor" content="animals">
+<meta name="tax:firstSubject" content="animal_cruelty">
+<meta name="tax:adKeywords" content="">
+<meta name="tax:otherSubjects" content="zoos law_and_legislation animals governments">
+<meta name="tax:locations" content="united_states">
+<meta name="tax:series" content="wildlife_watch facebook_instant editors_picks">
+<meta name="tax:genres" content="">
+<meta name="tax:people" content="">
+<meta name="tax:organizations" content="">
+<meta name="tax:events" content="">
+<meta name="tax:concepts" content="">
+<meta name="tax:audiences" content="general">
+<meta name="aem:pageType" content="news-article">
+<meta name="cq:editMode" content="false">
+
+
+          		
+
+
+
+<meta name="dfp:adLoadBuffer" content="300">
+<meta name="dfp:domain" content="news">
+<meta name="dfp:networkCode" content="2994">
+<meta name="dfp:outOfPageEnabled" content="false">
+<meta name="dfp:refreshRate" content="3600">
+<meta name="dfp:activeEngagementInterval" content="120">
+<meta name="dfp:adFavorability" content="viewability">
+
+<meta name="dfp:bigWebAdInterval" content="1700">
+<meta name="dfp:tabletAdInterval" content="1700">
+<meta name="dfp:mobileAdInterval" content="1700">
+
+<meta name="dfp:bigWebMaxAdCount" content="5">
+<meta name="dfp:tabletMaxAdCount" content="5">
+<meta name="dfp:mobileMaxAdCount" content="5">
+
+<meta name="dfp:sizeMapping" content='{"commentsBoxAd":[{"browser":["970","250"],"ad_sizes":["[300, 250]","[300, 600]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 250]","[300, 600]"]},{"browser":["728","90"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"adslotsponsor-2":[{"browser":["970","250"],"ad_sizes":["[257, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"stickyLeadAd":[{"browser":["970","250"],"ad_sizes":["[300, 250]","[300, 600]","[300, 1050]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 600]","[300, 250]"]},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"adslotsponsor-1":[{"browser":["970","250"],"ad_sizes":["[257, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"257x90":[{"browser":["970","250"],"ad_sizes":["[257, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"bodyBox":[{"browser":["970","250"],"ad_sizes":["[300, 250]","[300, 600]","[300, 1050]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 250]","[300, 600]"]},{"browser":["728","90"],"ad_sizes":["[300, 250]","[300, 600]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"sponsorAd_small":[{"browser":["970","250"],"ad_sizes":["[88, 31]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[88, 31]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[88, 31]"],"lazy":false,"refresh":false}],"search":[{"browser":["970","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"article_dynamic":[{"browser":["970","250"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[728, 90]","[300, 250]","[300, 600]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"sponsorAd_upperRight":[{"browser":["970","250"],"ad_sizes":["[210, 50]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[210, 50]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[210, 50]"],"lazy":false,"refresh":false}],"header":[{"browser":["970","250"],"ad_sizes":["[728, 90]","[970, 250]","[970, 300]","[970, 66]","[970, 90]"],"lazy":false,"refresh":false,"stickydimensions":["[728, 90]","[970, 90]"]},{"browser":["728","90"],"ad_sizes":["[728, 90]"],"lazy":false,"refresh":false,"stickydimensions":["[728, 90]"]},{"browser":["300","250"],"ad_sizes":["[320, 50]","[300, 50]"],"lazy":false,"refresh":false,"stickydimensions":["[320, 50]","[300, 50]"]}],"broughtBy":[{"browser":["970","250"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false}],"bodyLeaderboard":[{"browser":["970","250"],"ad_sizes":["[728, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[728, 90]"],"lazy":false,"refresh":false,"stickydimensions":["[728, 90]"]},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"pixel":[{"browser":["970","250"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false}],"stickyBumperFixtureAd":[{"browser":["970","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 250]"]},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}]}'>
+<meta name="dfp:lazy:sizeMapping" content='[]'>
+<meta name="dfp:template" content="article">
+
+          		
+
+
+
+<meta name="flag:disableAds" content="false"/>
+<meta name="aem:commentsSetting" content="false"/>
+
+          		
+
+
+
+<meta name="picturefill" content='[{"width":133,"densities":[1],"media":"(max-width: 130px)"},{"width":152,"densities":[1],"media":"(max-width: 150px)"},{"width":162,"densities":[1],"media":"(max-width: 160px)"},{"width":210,"densities":[1],"media":"(max-width: 205px)"},{"width":224,"densities":[1],"media":"(max-width: 220px)"},{"width":225,"densities":[1],"media":"(max-width: 225px)"},{"width":280,"densities":[1],"media":"(max-width: 280px)"},{"width":352,"densities":[1],"media":"(max-width: 352px)"},{"width":470,"densities":[1],"media":"(max-width: 470px)"},{"width":536,"densities":[1],"media":"(max-width: 536px)"},{"width":590,"densities":[1],"media":"(max-width: 590px)"},{"width":676,"densities":[1],"media":"(max-width: 676px)"},{"width":710,"densities":[1],"media":"(max-width: 710px)"},{"width":768,"densities":[1],"media":"(max-width: 768px)"},{"width":885,"densities":[1],"media":"(max-width: 885px)"},{"width":945,"densities":[1],"media":"(max-width: 945px)"},{"width":1190,"densities":[1],"media":"(max-width: 1190px)"},{"width":1900,"densities":[1],"media":"(max-width: 1900px)"}]'/>
+
+</head>
+
+
+
+
+
+<!-- using feature flag's model, add class to body if ads are disabled. this allows the UI to not shift much on account of ads not firing on load. -->
+<body itemscope="itemscope" itemtype="http://schema.org/WebPage">
+    <!-- Icon SVG Sprite for mortar icons -->
+    <div class="mt3_visuallyhidden">
+      <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="-2 -2 41.41 41.41" id="arrow-down"><title>arrow-down</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M18.71 0v36M.71 18l18 18 18-18"/></symbol><symbol viewBox="-2 -2 41.41 41.41" id="arrow-left"><title>arrow-left</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M37.41 18.71h-36M19.41.71l-18 18 18 18"/></symbol><symbol viewBox="-2 -2 41.41 41.41" id="arrow-right"><title>arrow-right</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M0 18.71h36M18 .71l18 18-18 18"/></symbol><symbol viewBox="-2 -2 41.41 41.41" id="arrow-up"><title>arrow-up</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M18.71 37.41v-36M.71 19.41l18-18 18 18"/></symbol><symbol viewBox="-2 -2 41.4 41.6" id="chevron-down"><title>chevron-up</title><path class="aest0" fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" vector-effect="non-scaling-stroke" d="M36.7 10.2l-18 18-18-18"/></symbol><symbol viewBox="-2 -2 24.12 41.41" id="chevron-left"><title>chevron-left</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M19.41.71l-18 18 18 18"/></symbol><symbol viewBox="-2 -2 24.12 41.41" id="chevron-right"><title>chevron-right</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M.71.71l18 18-18 18"/></symbol><symbol viewBox="-2 -2 41.4 41.6" id="chevron-up"><title>chevron-up</title><path fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" vector-effect="non-scaling-stroke" d="M.7 28.2l18-18 18 18"/></symbol><symbol viewBox="-2 -2 41.41 41.41" id="close"><title>close</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M.71.71l36 36M36.71.71l-36 36"/></symbol><symbol viewBox="-2 -2 26.2 25" id="comment"><title>comment-new</title><path d="M0 0v1.5h20.7v12.7h-9l-5 3.7v-3.7H1.5V4.6H0v11.1h5.2V21l7-5.3h10V0H0z"/></symbol><symbol viewBox="-2 -2 29.62 21" id="email"><title>email-new</title><path d="M25.62 0v17H0V0zm-1.28 1.28H1.28v14.49h23.06zm-11.58 8L2.3 3.62l.58-1.12 9.87 5.33 9.87-5.31.61 1.12z"/></symbol><symbol viewBox="-2 -2 29.9 23.2" id="gallery"><title>gallery</title><path d="M6 0v5H0v14.2h21.6V5h-14V1.6h16.7v11.8h1.6V0zm14 6.6v11H1.5v-11z"/></symbol><symbol viewBox="-2 -2 40 40" id="grid"><title>grid</title><path fill="currentColor" d="M0 0h16v16H0zM20 0h16v16H20zM0 20h16v16H0zM20 20h16v16H20z"/></symbol><symbol viewBox="-2 -2 24.4 23" id="headphones"><title>headphones-new</title><path d="M18.6 11.2V8.4a8.45 8.45 0 0 0-16.9 0v2.8c-.2.1-1.7.8-1.7 3.5A4.09 4.09 0 0 0 4.3 19h.8v-8.6h-.7c-.4 0-.7.1-1.1.1V8.4a6.9 6.9 0 1 1 13.8 0v2.1a2.77 2.77 0 0 0-.9-.1h-.7V19h.8a3.94 3.94 0 0 0 4.1-4.3c0-2.7-1.6-3.4-1.8-3.5zm-15 6.2a2.42 2.42 0 0 1-2.1-2.7A3 3 0 0 1 3.6 12zm13.2 0V12a2.82 2.82 0 0 1 2.1 2.7c0 2.07-.9 2.4-2.1 2.7z"/></symbol><symbol viewBox="-2 -2 40.03 35.4" id="heart-filled"><title>heart-filled</title><path d="M32.6 3.37a9.13 9.13 0 0 0-6.66-2.35 7.56 7.56 0 0 0-2.4.41 9.72 9.72 0 0 0-2.28 1.1q-1 .69-1.81 1.3a17.5 17.5 0 0 0-1.44 1.29 17.56 17.56 0 0 0-1.44-1.29q-.76-.61-1.81-1.3a9.72 9.72 0 0 0-2.28-1.1 7.56 7.56 0 0 0-2.4-.41 9.13 9.13 0 0 0-6.66 2.35A8.7 8.7 0 0 0 1.01 9.9a8.31 8.31 0 0 0 .45 2.62 11.47 11.47 0 0 0 1 2.3 16.75 16.75 0 0 0 1.29 1.85q.72.9 1 1.24c.26.22 12.95 12.49 13.26 12.49s12.63-12 12.63-12q4.37-4.31 4.37-8.5a8.7 8.7 0 0 0-2.41-6.53z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 40.03 35.4" id="heart-open"><title>heart-open</title><path d="M32.6 3.37a9.13 9.13 0 0 0-6.66-2.35 7.56 7.56 0 0 0-2.4.41 9.72 9.72 0 0 0-2.28 1.1q-1 .69-1.81 1.3a17.5 17.5 0 0 0-1.44 1.29 17.56 17.56 0 0 0-1.44-1.29q-.76-.61-1.81-1.3a9.72 9.72 0 0 0-2.28-1.1 7.56 7.56 0 0 0-2.4-.41 9.13 9.13 0 0 0-6.66 2.35A8.7 8.7 0 0 0 1.01 9.9a8.31 8.31 0 0 0 .45 2.62 11.47 11.47 0 0 0 1 2.3 16.75 16.75 0 0 0 1.29 1.85q.72.9 1 1.24c.26.22 12.95 12.49 13.26 12.49s12.63-12 12.63-12q4.37-4.31 4.37-8.5a8.7 8.7 0 0 0-2.41-6.53z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke"/></symbol><symbol viewBox="-2 -2 40 40" id="map-geolocator"><title>map-geolocator</title><path d="M19.22 36h-2.4v-4.83C10 30 6 26.06 4.83 19.21H0V16.8h4.88A13.26 13.26 0 0 1 16.79 4.9V0h2.42v4.84C26 6 30 9.95 31.17 16.79H36v2.41h-4.82c-1.18 6.8-5.12 10.8-12 12V36zm9.61-18A10.82 10.82 0 1 0 18 28.81 10.82 10.82 0 0 0 28.83 18z" fill="currentColor"/><path d="M18 26.42A8.42 8.42 0 1 1 26.45 18 8.39 8.39 0 0 1 18 26.42z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 26 39.8" id="map-pushpin"><title>map-pushpin</title><path d="M20.8 6.1c-2.7-5.4-9.3-7.7-14.7-5-5.4 2.7-7.7 9.3-5 14.7 2.5 5 5 10 7.4 15l2.4 4.9 1.2-2.5c2.8-5.6 5.5-11.2 8.3-16.8.8-1.5 1.3-3.2 1.5-4.9.2-1.7-.2-3.7-1.1-5.4zm-9.9 8.1h-.3C8.2 14 6.3 12 6.3 9.5S8.4 4.9 11 4.9s4.6 2.1 4.6 4.7-2.1 4.6-4.7 4.6z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 52 35.73" id="menu"><title>Artboard 1</title><path d="M0 31.73h48v-2.8H0zm0-14.4h48v-2.8H0zM0 2.8h48V0H0z"/></symbol><symbol viewBox="-2 -2 52 27.87" id="menu-down"><title>Artboard 1</title><path d="M0 0l24 23.87L48 0H0z"/></symbol><symbol viewBox="-2 -2 52 27.87" id="menu-up"><title>Artboard 1</title><path d="M48 23.87L24 0 0 23.87h48z"/></symbol><symbol viewBox="-2 -2 40 6" id="minus"><title>minus</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M0 1h36"/></symbol><symbol viewBox="-2 -2 29.12 40" id="ng-border"><title>ng-border</title><path d="M0 36V0h25.12v36H0zm21.49-3.63V3.62H3.62v28.75h17.87z" fill="#fc0"/></symbol><symbol viewBox="-2 -2 32.75 40" id="pause"><title>pause</title><path fill="currentColor" d="M0 0h10.1v36H0zM18.65 0h10.1v36h-10.1z"/></symbol><symbol viewBox="-2 -2 34.82 39.59" id="play"><title>play</title><path fill="currentColor" d="M0 0l30.82 17.8L0 35.59V0z"/></symbol><symbol viewBox="-2 -2 40 40" id="plus"><title>plus</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M0 18h36M18 0v36"/></symbol><symbol viewBox="-2 -2 24 23.95" id="replay"><title>replay</title><path d="M19.23 6.07a10 10 0 0 0-5.3-5.29A9.72 9.72 0 0 0 10.05 0a9.75 9.75 0 0 0-2.92.43 9.91 9.91 0 0 0-4.67 3.09L2 4.17l-.42-4L0 .31l.77 7L7.63 6l-.28-1.46L3 5.32s.6-.81 1-1.19a8.25 8.25 0 0 1 1.7-1.39 8.69 8.69 0 0 1 2.05-.89 8.39 8.39 0 0 1 5.56.34 8.53 8.53 0 0 1 4.49 4.49 8.12 8.12 0 0 1 .67 3.32 8.12 8.12 0 0 1-.66 3.27 8.53 8.53 0 0 1-4.49 4.49 8.12 8.12 0 0 1-3.27.66 8.22 8.22 0 0 1-3.28-.66A8.38 8.38 0 0 1 4.1 15.9a8.68 8.68 0 0 1-1.8-2.68A8.12 8.12 0 0 1 1.63 10H.1a9.72 9.72 0 0 0 .78 3.88 10 10 0 0 0 5.29 5.29 9.72 9.72 0 0 0 3.88.78 9.72 9.72 0 0 0 3.88-.78 10 10 0 0 0 5.29-5.29A9.72 9.72 0 0 0 20 10a9.72 9.72 0 0 0-.77-3.93z"/></symbol><symbol viewBox="-2 -2 29.92 25.13" id="screen"><title>screen</title><path d="M25.92 16.94V0H0v1.58h24.34v13.78H1.58V4.95H0v11.99h11.79v2.61H5.66v1.58h13.99v-1.58h-6.28v-2.61h12.55z"/></symbol><symbol viewBox="-2 -2 52 49.73" id="search"><path d="M42.93 45.73L27.33 30c.27-.13.4-.4.67-.53a1.61 1.61 0 0 0 .67-.67 13.13 13.13 0 0 0 3.2-4.93 16.66 16.66 0 0 0 1.07-5.6 16.66 16.66 0 0 0-1.07-5.6 15 15 0 0 0-3.2-4.93 13.13 13.13 0 0 0-4.93-3.2 16.66 16.66 0 0 0-5.6-1.07 16.66 16.66 0 0 0-5.6 1.07 18.18 18.18 0 0 0-4.67 3.2 17.87 17.87 0 0 0-3.33 4.93 16.66 16.66 0 0 0-1.07 5.6 16.66 16.66 0 0 0 1.07 5.6 15 15 0 0 0 3.2 4.93 14.26 14.26 0 0 0 6.53 3.87 15.2 15.2 0 0 0 7.33.13l2.8 2.8a20.34 20.34 0 0 1-4.93 1.07 16 16 0 0 1-5.07-.4 18.68 18.68 0 0 1-4.8-1.73 20.47 20.47 0 0 1-4.27-3.34 18.21 18.21 0 0 1-4-6A17.64 17.64 0 0 1 0 18.4a17.82 17.82 0 0 1 1.33-6.93 17.47 17.47 0 0 1 4-6.13 19.69 19.69 0 0 1 6-4A17.82 17.82 0 0 1 18.27 0a16.73 16.73 0 0 1 6.8 1.33 18.21 18.21 0 0 1 6 4 16.94 16.94 0 0 1 3.87 5.6 18.61 18.61 0 0 1 1.47 6.53 18.06 18.06 0 0 1-.94 6.54 17.16 17.16 0 0 1-3.33 5.87L48 45.73z" class="bccls-2"/></symbol><symbol viewBox="-2 -2 32.09 36.01" id="share"><title>share</title><path d="M14.09 18.29v-4.54a9.13 9.13 0 0 0 0 18.25 13.72 13.72 0 1 1-.74-27.43h.74V0l14 9.14z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 270.9 270.9" id="social-facebook"><title>facebook</title><path d="M252.2 0H14.7C6.6 0 0 6.6 0 14.7v237.4c0 8.1 6.6 14.7 14.7 14.7h127.8V163.6h-34.8v-40.3h34.8V93.6c0-34.5 21.1-53.2 51.8-53.2 10.4 0 20.8.5 31.1 1.6v36h-21.3c-16.8 0-20 8-20 19.6v25.7H224l-5.2 40.3h-34.7v103.3h68c8.1 0 14.7-6.6 14.7-14.7V14.7c.1-8.1-6.5-14.7-14.6-14.7z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 121.67 230.58" id="social-facebook-f"><path d="M76.37 226.59V123.23h34.7l5.19-40.28H76.37V57.24c0-11.66 3.24-19.61 20-19.61h21.3v-36A285.42 285.42 0 0 0 86.59.04c-30.75 0-51.81 18.77-51.81 53.24v29.71H0v40.28h34.78v103.32h41.6z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 24 23.51" id="social-github"><title>github</title><path d="M10 0a10 10 0 0 0-3.16 19.49.5.5 0 0 0 .68-.49v-1.7c-2.79.61-3.38-1.3-3.38-1.3A2.65 2.65 0 0 0 3 14.5c-.91-.62.07-.61.07-.61a2.1 2.1 0 0 1 1.53 1 2.13 2.13 0 0 0 2.91.83 2.14 2.14 0 0 1 .63-1.34c-2.14-.21-4.52-1.07-4.52-4.9a3.87 3.87 0 0 1 1-2.68 3.6 3.6 0 0 1 .1-2.65s.84-.27 2.75 1a9.48 9.48 0 0 1 5 0c1.91-1.29 2.75-1 2.75-1a3.59 3.59 0 0 1 .1 2.65 3.86 3.86 0 0 1 1 2.68c0 3.84-2.34 4.69-4.57 4.93a2.39 2.39 0 0 1 .68 1.85V19a.5.5 0 0 0 .69.48A10 10 0 0 0 10 0z" fill="currentColor" fill-rule="evenodd"/></symbol><symbol viewBox="-2 -2 233.84 157.13" id="social-google-plus"><title>Artboard 1</title><path d="M229.84 67H205.9V43.1h-19.16V67H162.8v19.2h23.94v23.94h19.16V86.2h23.94M76.61 62.25v29.88h41.75c-3.21 18-18.82 31.12-41.75 31.12a46.69 46.69 0 0 1 0-93.32 42 42 0 0 1 29.64 11.59l21.6-21.6A73.55 73.55 0 0 0 76.61 0a76.61 76.61 0 0 0 0 153.23c44.24 0 73.55-31.12 73.55-74.89a87.39 87.39 0 0 0-1.48-16.09z"/></symbol><symbol viewBox="-2 -2 233.84 231.9" id="social-instagram"><title>Artboard 1</title><path d="M115 20.52c30.45 0 34.06.13 46 .67 11.13.49 17.14 2.36 21.15 3.92a35.25 35.25 0 0 1 13.09 8.5 35.72 35.72 0 0 1 8.55 13.09c1.56 4 3.43 10.06 3.92 21.15.53 12 .67 15.63.67 46s-.13 34.06-.67 46c-.49 11.13-2.36 17.14-3.92 21.15a35.25 35.25 0 0 1-8.5 13.09 35.72 35.72 0 0 1-13.09 8.55c-4 1.56-10.06 3.43-21.15 3.92-12 .53-15.63.67-46 .67s-34.06-.13-46-.67c-11.13-.49-17.14-2.36-21.15-3.92a35.25 35.25 0 0 1-13.09-8.5 35.72 35.72 0 0 1-8.55-13.09c-1.56-4-3.43-10.06-3.92-21.15-.53-12-.67-15.63-.67-46s.13-34.06.67-46c.49-11.13 2.36-17.14 3.92-21.15a35.25 35.25 0 0 1 8.5-13.09 35.72 35.72 0 0 1 13.09-8.55c4-1.56 10.06-3.43 21.15-3.92 12-.53 15.58-.67 46-.67M115 0C84 0 80.17.13 68 .67S47.58 3.16 40.37 6a55.63 55.63 0 0 0-20.21 13.14A55.84 55.84 0 0 0 7 39.31C4.18 46.57 2.22 54.85 1.68 67S1 83 1 114s.13 34.81.67 47S4.18 181.38 7 188.59a55.63 55.63 0 0 0 13.16 20.21 55.71 55.71 0 0 0 20.17 13.13c7.26 2.8 15.54 4.76 27.65 5.3s16 .67 47 .67 34.81-.13 47-.67 20.43-2.49 27.65-5.3a58.23 58.23 0 0 0 33.3-33.3c2.8-7.26 4.76-15.54 5.3-27.65s.67-16 .67-47-.13-34.81-.67-47-2.49-20.43-5.3-27.65a53.38 53.38 0 0 0-13-20.26A55.71 55.71 0 0 0 189.65 6C182.39 3.2 174.11 1.24 162 .7S145.93 0 115 0z"/><path d="M115 55.43A58.54 58.54 0 1 0 173.53 114 58.56 58.56 0 0 0 115 55.43zm0 96.52a38 38 0 1 1 38-38 38 38 0 0 1-38 38z"/><circle cx="175.85" cy="53.11" r="13.67"/></symbol><symbol viewBox="-2 -2 40 40" id="social-linkedin"><title>linkedin</title><path class="bjst0" d="M33.3 0H2.7C1.2 0 0 1.1 0 2.6v30.8C0 34.9 1.2 36 2.7 36h30.7c1.5 0 2.6-1.1 2.7-2.6V2.6C36 1.1 34.8 0 33.3 0zM10.7 30.7H5.3V13.5h5.3v17.2zM8 11.2c-1.7 0-3.1-1.4-3.1-3.1C4.9 6.4 6.3 5 8 5s3.1 1.4 3.1 3.1c0 1.7-1.4 3.1-3.1 3.1zm22.6 19.5h-5.3v-8.4c0-2 0-4.6-2.8-4.6s-3.2 2.2-3.2 4.4v8.5H14V13.5h5.1v2.3h.1c1-1.8 3-2.8 5-2.8 5.4 0 6.4 3.6 6.4 8.2v9.5z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 29.75 29.68" id="social-linkedin-in"><title>linkedin_in</title><path d="M.43 8.5h5.34v17.18H.43V8.5zM3.1-.04A3.1 3.1 0 1 1 .01 3.1 3.1 3.1 0 0 1 3.1-.04M9.1 8.5h5.12v2.35h.07a5.61 5.61 0 0 1 5-2.77c5.41 0 6.41 3.56 6.41 8.18v9.42h-5.26v-8.36c0-2 0-4.56-2.77-4.56s-3.2 2.17-3.2 4.41v8.5H9.1V8.5z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 20 20" id="social-pinterest"><title>pinterest</title><path class="blst0" d="M5.6 15.6c.4-.7.8-1.4 1-2.1l.5-1.8c.4.6 1.1.9 1.8.9 2.4 0 4.2-2.3 4.1-5v-.2c0-2.6-2.2-4.6-4.8-4.4-3.5 0-5.3 2.3-5.3 4.8 0 1.2.6 2.4 1.6 3.1.2.1.3 0 .3-.1l.2-.9v-.2c-.4-.6-.6-1.2-.6-1.9v-.2C4.5 5.8 6.1 4.3 8 4.4h.3c1.7.1 3.1 1.5 3 3.3 0 2.2-1.1 3.7-2.5 3.7h-.3c-.6-.2-1-.8-.8-1.4.2-1 .4-1.9.6-2.8V7c0-.6-.5-1-1-1-1 .2-1.6 1.1-1.5 2 0 .4.1.8.2 1.2l-1 4c-.1.8-.1 1.5 0 2.3-3-1.3-5-4.2-5-7.5 0-4.4 3.6-8 8-8 .8 0 1.6.1 2.4.4 4.2 1.3 6.6 5.8 5.3 10s-5.8 6.5-10.1 5.2z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 12.85 14.99" id="social-pinterest-p"><title>pinterest_p</title><path d="M1.9 10.82a6.64 6.64 0 0 1 0-2l.84-3.45a2.5 2.5 0 0 1-.21-1 1.49 1.49 0 0 1 1.26-1.69.87.87 0 0 1 .88 1 14 14 0 0 1-.57 2.33 1 1 0 0 0 1 1.25c1.23 0 2.18-1.3 2.18-3.17a2.74 2.74 0 0 0-2.63-2.87h-.22A3 3 0 0 0 1.3 4.09v.13a2.7 2.7 0 0 0 .52 1.58.21.21 0 0 1 0 .2l-.19.79c0 .13-.1.15-.23.09A3.11 3.11 0 0 1 0 4.2C0 2.01 1.59.01 4.58.01a4.07 4.07 0 0 1 4.27 3.86v.14c0 2.36-1.5 4.36-3.59 4.36a1.86 1.86 0 0 1-1.59-.8l-.43 1.6a7.75 7.75 0 0 1-.86 1.84z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 364.01 342.36" id="social-snapchat"><title>snapchat</title><path d="M183.49 7.46c13.56 0 60.26 3.64 82.27 53 7.24 16.24 5.39 45.68 3.9 69.32-.24 3.75-.47 7.38-.65 10.86l-.08 1.49 1 1.11c.4.45 4.17 4.38 12.54 4.71h.28c5.54-.21 11.78-1.93 18.56-5.1a9 9 0 0 1 3.7-.67 12.5 12.5 0 0 1 4.71.89l.21.09c3.55 1.24 6.06 3.59 6.11 5.72 0 1.21-.88 5.53-13.48 10.5-1.23.49-2.85 1-4.73 1.59-8.19 2.61-20.58 6.53-24.74 16.35-2.35 5.54-1.71 12.07 1.91 19.4 1.49 3.47 24.88 56.17 77.53 64.85a2.42 2.42 0 0 1-.22.84c-.89 2.1-6.57 9.36-41.86 14.81-5.52.85-6.88 7-8.45 14.24-.56 2.57-1.14 5.17-1.93 7.86-.24.81-.28.86-1.16.86h-.41a39.07 39.07 0 0 1-6.7-.86 103.31 103.31 0 0 0-20.62-2.18 91.9 91.9 0 0 0-15 1.26c-10.8 1.8-19.58 8-28.89 14.58-12.49 8.83-25.4 18-45.1 18-.86 0-1.7 0-2.54-.07h-.44c-.48 0-1 .06-1.47.06-19.7 0-32.61-9.13-45.1-18-9.3-6.58-18.09-12.79-28.89-14.59a91.91 91.91 0 0 0-15-1.26 101.65 101.65 0 0 0-20.62 2.31 41.85 41.85 0 0 1-6.7 1c-1.28 0-1.3-.07-1.57-1-.79-2.69-1.37-5.36-1.93-7.93-1.57-7.2-2.93-13.42-8.45-14.27-35.29-5.45-41-12.72-41.86-14.82a2.44 2.44 0 0 1-.21-.86c52.65-8.67 76-61.37 77.52-64.85 3.62-7.34 4.26-13.86 1.91-19.4-4.16-9.82-16.55-13.75-24.74-16.35-1.88-.59-3.5-1.11-4.73-1.59-10.64-4.2-13.91-8.44-13.42-11 .56-3 5.69-6 10.16-6a6.09 6.09 0 0 1 2.54.47c7.27 3.4 13.91 5.13 19.72 5.13 9.15 0 13.23-4.26 13.66-4.74l1-1.11v-1.48c-.19-3.47-.41-7.1-.65-10.85-1.49-23.65-3.34-53.06 3.9-69.31 21.92-49.16 68.4-53 82.12-53l6.3-.06h.81m0-7.46h-.89l-6.23.06c-14.85 0-65.18 4.14-88.93 57.37-8 17.91-6.07 48.33-4.54 72.77.18 2.88.37 5.87.54 8.77a14.35 14.35 0 0 1-7 1.53c-4.71 0-10.28-1.49-16.56-4.43a13.36 13.36 0 0 0-5.71-1.17c-7.34 0-16.13 4.83-17.5 12-1 5.19 1.33 12.75 18 19.34 1.5.59 3.31 1.17 5.22 1.77 6.89 2.19 17.3 5.49 20.13 12.15 1.46 3.45.88 7.89-1.73 13.19l-.17.36c-.92 2.13-23 52.37-71.88 60.42a7.47 7.47 0 0 0-6.25 7.87 10 10 0 0 0 .8 3.35c3.68 8.59 19.2 14.88 47.37 19.25.94 1.28 1.92 5.78 2.52 8.52s1.2 5.5 2.06 8.44 3.06 6.36 8.73 6.36a45.4 45.4 0 0 0 8.13-1.14 95.06 95.06 0 0 1 19.19-2.17 84.5 84.5 0 0 1 13.76 1.16c9.1 1.52 16.83 7 25.79 13.31 12.82 9.07 27.34 19.33 49.42 19.33.61 0 1.22 0 1.82-.06s1.65.06 2.64.06c22.08 0 36.6-10.27 49.41-19.33 9-6.34 16.7-11.8 25.8-13.31a84.34 84.34 0 0 1 13.75-1.16 95.66 95.66 0 0 1 19.19 2 45 45 0 0 0 8.13 1h.41a8.11 8.11 0 0 0 8.32-6.24c.85-2.88 1.46-5.6 2.06-8.36s1.57-7.22 2.51-8.49c28.21-4.38 43.7-10.66 47.36-19.21a9.93 9.93 0 0 0 .81-3.37 7.46 7.46 0 0 0-6.24-7.78c-49-8.07-71-58.29-71.88-60.42 0-.12-.11-.24-.17-.36-2.61-5.3-3.19-9.73-1.73-13.18 2.82-6.66 13.23-10 20.12-12.14 1.93-.61 3.74-1.19 5.23-1.78 12.2-4.82 18.32-10.74 18.19-17.59-.11-5.38-4.3-10.18-11-12.56a20 20 0 0 0-7.5-1.4 16.6 16.6 0 0 0-6.89 1.4c-5.8 2.72-11 4.2-15.52 4.4a13.77 13.77 0 0 1-6-1.5c.14-2.48.3-5 .47-7.7l.06-1c1.54-24.46 3.46-54.91-4.53-72.83C248.85 4.19 198.41 0 183.51 0z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 364.01 342.36" id="social-snapchat-filled"><title>snapchat_2</title><path d="M182.24 334.63c-.91 0-1.8 0-2.69-.07-.57 0-1.16.07-1.76.07-20.89 0-34.29-9.48-47.25-18.64-9-6.32-17.4-12.29-27.35-14a88.3 88.3 0 0 0-14.36-1.21 98.21 98.21 0 0 0-19.9 2.22 43.55 43.55 0 0 1-7.43 1.15c-2 0-4.2-.44-5.15-3.68-.83-2.81-1.42-5.54-2-8.17-1.48-6.78-2.53-11-5.37-11.39-33.12-5.12-42.61-12.09-44.72-17a6.38 6.38 0 0 1-.51-2.12 3.73 3.73 0 0 1 3.12-3.89c50.92-8.39 73.75-60.43 74.7-62.64l.08-.18c3.12-6.32 3.73-11.8 1.82-16.29-3.46-8.29-14.89-11.91-22.46-14.3-1.85-.58-3.6-1.14-5-1.68-15.05-6-16.31-12.06-15.72-15.17 1-5.3 8.1-9 13.83-9a9.69 9.69 0 0 1 4.12.82c6.77 3.17 12.88 4.78 18.14 4.78 7.28 0 10.45-3.06 10.84-3.46-.18-3.45-.41-7-.65-10.76C85.01 106 83.17 76 90.79 59c22.83-51.22 71.22-55.2 85.53-55.2l6.27-.06h.85c14.33 0 62.84 4 85.68 55.19 7.62 17.08 5.73 47 4.21 71.08l-.06 1c-.21 3.35-.41 6.61-.58 9.72.36.37 3.29 3.18 9.88 3.44 5-.19 10.77-1.79 17.1-4.75a12.9 12.9 0 0 1 5.31-1 16.23 16.23 0 0 1 6.11 1.17h.11c5.11 1.81 8.46 5.4 8.54 9.14.07 3.53-2.63 8.83-15.84 14-1.37.54-3.12 1.09-5 1.68-7.55 2.4-19 6-22.44 14.25-1.91 4.49-1.3 10 1.82 16.29a.71.71 0 0 0 .08.18c1 2.21 23.76 54.24 74.7 62.63a3.74 3.74 0 0 1 3.12 3.89 6.26 6.26 0 0 1-.52 2.13c-2.1 4.91-11.57 11.88-44.71 17-2.71.42-3.76 3.94-5.37 11.34-.59 2.69-1.18 5.34-2 8.12a4.43 4.43 0 0 1-4.74 3.54h-.41a41.48 41.48 0 0 1-7.42-.94 98.92 98.92 0 0 0-19.9-2.11 88.4 88.4 0 0 0-14.37 1.21c-9.94 1.66-18.38 7.62-27.32 13.93-12.89 9.31-26.29 18.76-47.18 18.76z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 15.47 23.93" id="social-tumblr"><title>tumblr</title><path d="M10.47 15.94a4.72 4.72 0 0 1-1.61.34 1.75 1.75 0 0 1-1.92-2V8.11h4v-3h-4V0H4.07a.16.16 0 0 0-.14.15A6.11 6.11 0 0 1 0 5.53v2.58h2v6.49c0 2.23 1.65 5.4 6 5.33a5.32 5.32 0 0 0 3.47-1.14z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 277.38 226.18" id="social-twitter"><title>twitter</title><path d="M273.38 26.2a112.12 112.12 0 0 1-32.21 8.83 56.25 56.25 0 0 0 24.66-31 112.3 112.3 0 0 1-35.62 13.61 56.14 56.14 0 0 0-95.56 51.13 159.24 159.24 0 0 1-115.66-58.6 56.15 56.15 0 0 0 17.39 74.88 55.86 55.86 0 0 1-25.41-7v.71a56.12 56.12 0 0 0 45 55 56.23 56.23 0 0 1-25.33 1 56.15 56.15 0 0 0 52.4 39 112.54 112.54 0 0 1-69.66 24 114.17 114.17 0 0 1-13.39-.78 158.76 158.76 0 0 0 86 25.2c103.17 0 159.58-85.47 159.58-159.59q0-3.65-.16-7.26a114 114 0 0 0 27.97-29.13z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 90.72 79.02" id="social-vimeo"><title>vimeo</title><path d="M86.68 17.37Q86.1 30.02 69 52.02q-17.69 23-29.93 23-7.58 0-12.83-14l-7-25.66q-3.89-14-8.36-14-1 0-6.81 4.08L0 20.19q6.42-5.64 12.65-11.28 8.56-7.4 12.85-7.79Q35.62.12 38 14.96q2.53 16 3.51 19.87 2.92 13.26 6.43 13.25 2.72 0 8.18-8.6t5.84-13.09q.78-7.42-5.84-7.43a16.26 16.26 0 0 0-6.42 1.42Q56-.55 74.08.02q13.36.41 12.6 17.35z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 286.28 326" id="social-vine"><title>vine</title><path d="M282.25 160.04a105.69 105.69 0 0 1-23.54 2.76c-40.63 0-71.91-28.37-71.91-77.71 0-24.18 9.35-36.76 22.57-36.76 12.58 0 21 11.29 21 34.18 0 13-3.49 27.28-6.06 35.72 0 0 12.52 21.84 46.75 15.14 7.27-16.14 11.22-37 11.22-55.37 0-49.34-25.15-78-71.26-78-47.4 0-75.13 36.44-75.13 84.48 0 47.6 22.25 88.45 58.94 107.07-15.43 30.86-35.06 58-55.53 78.53-37.15-44.9-70.73-104.81-84.5-221.71H-.05c25.32 194.65 100.78 256.65 120.73 268.59 11.29 6.77 21 6.45 31.32.64 16.2-9.21 64.84-57.84 91.8-114.8a181.18 181.18 0 0 0 38.45-4.39v-38.37z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 422.85 424.87" id="social-whatsapp"><title>whatsapp</title><path d="M357.84 61.16A207.2 207.2 0 0 0 210.31 0C95.31 0 1.8 93.55 1.75 208.54A208.18 208.18 0 0 0 29.59 312.8L0 420.87l110.56-29a208.37 208.37 0 0 0 99.65 25.38h.09c114.94 0 208.51-93.56 208.55-208.55a207.29 207.29 0 0 0-61.01-147.54zM210.31 382h-.1A173.08 173.08 0 0 1 122 357.87l-6.33-3.76L50 371.32l17.51-64-4.12-6.56A172.93 172.93 0 0 1 37 208.58C37 113 114.76 35.25 210.38 35.25a173.37 173.37 0 0 1 173.27 173.44C383.61 304.27 305.85 382 210.31 382zm95.08-129.82c-5.21-2.61-30.83-15.21-35.61-17s-8.25-2.61-11.72 2.61-13.46 17-16.5 20.43-6.08 3.91-11.29 1.3-22-8.11-41.91-25.86c-15.49-13.82-26-30.88-29-36.1s-.32-8 2.28-10.63c2.34-2.34 5.21-6.09 7.82-9.13s3.47-5.22 5.21-8.69.87-6.52-.43-9.13-11.71-28.22-16-38.66c-4.23-10.16-8.53-8.78-11.72-9-3-.15-6.51-.18-10-.18a19.14 19.14 0 0 0-13.9 6.52c-4.78 5.22-18.24 17.83-18.24 43.47s18.67 50.43 21.28 53.91 36.75 56.11 89 78.69a299.33 299.33 0 0 0 29.71 11c12.48 4 23.84 3.41 32.82 2.07 10-1.5 30.83-12.61 35.17-24.78s4.34-22.61 3-24.78-4.76-3.42-9.97-6.03z" fill="currentColor" data-name="WA Logo"/></symbol><symbol viewBox="-2 -2 1028 725" id="social-youtube"><path d="M1013.023 156.281s-9.981-70.389-40.606-101.386c-38.842-40.684-82.38-40.885-102.346-43.267C727.134 1.296 512.721 1.296 512.721 1.296h-.444s-214.408 0-357.35 10.332c-19.967 2.381-63.49 2.583-102.346 43.267C21.956 85.892 11.99 156.281 11.99 156.281S1.775 238.94 1.775 321.6v77.493c0 82.658 10.215 165.317 10.215 165.317s9.966 70.39 40.591 101.387c38.856 40.684 89.896 39.397 112.629 43.661 81.718 7.836 347.29 10.261 347.29 10.261s214.634-.323 357.571-10.655c19.966-2.382 63.504-2.583 102.346-43.267 30.625-30.997 40.606-101.387 40.606-101.387s10.2-82.659 10.2-165.317V321.6c.001-82.66-10.2-165.319-10.2-165.319zM407.047 493L407 206l276 144-275.953 143z" fill="currentColor"/></symbol><symbol viewBox="-2 -2 31 40" id="speaker"><title>speaker</title><path fill="currentColor" d="M9 12H0v12h9l18 12V0L9 12z"/></symbol><symbol viewBox="-2 -2 40.3 38.52" id="star-filled"><title>star-filled</title><path fill="currentColor" d="M18.15 2.26l4.94 10.02 11.06 1.6-8 7.8 1.89 11.01-9.89-5.19-9.89 5.19 1.89-11.01-8-7.8 11.06-1.6 4.94-10.02z"/></symbol><symbol viewBox="-2 -2 40.3 38.52" id="star-open"><title>star-open</title><path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="2" vector-effect="non-scaling-stroke" d="M18.15 2.26l4.94 10.02 11.06 1.6-8 7.8 1.89 11.01-9.89-5.19-9.89 5.19 1.89-11.01-8-7.8 11.06-1.6 4.94-10.02z"/></symbol><symbol viewBox="-2 -2 23.9 23.9" id="zoom-in"><title>zoom-in-new</title><path d="M19.12 6.07A10 10 0 0 0 13.83.78 9.72 9.72 0 0 0 10 0a9.72 9.72 0 0 0-3.93.78A10 10 0 0 0 .78 6.07 9.72 9.72 0 0 0 0 10a9.72 9.72 0 0 0 .78 3.88 10 10 0 0 0 5.29 5.29 9.72 9.72 0 0 0 3.93.73 9.72 9.72 0 0 0 3.88-.78 10 10 0 0 0 5.29-5.29A9.72 9.72 0 0 0 19.9 10a9.72 9.72 0 0 0-.78-3.93zm-1.42 7.14a8.53 8.53 0 0 1-4.49 4.49 8.12 8.12 0 0 1-3.27.66 8.12 8.12 0 0 1-3.27-.66 8.53 8.53 0 0 1-4.49-4.49 8.34 8.34 0 0 1 0-6.48 8.53 8.53 0 0 1 4.5-4.54A8.12 8.12 0 0 1 10 1.53a8.12 8.12 0 0 1 3.27.66 8.53 8.53 0 0 1 4.49 4.49 8.12 8.12 0 0 1 .61 3.32 8.12 8.12 0 0 1-.66 3.22z"/><path d="M10.74 3.67H9.16v5.49H3.68v1.58h5.48v5.49h1.58v-5.49h5.49V9.16h-5.49V3.67z"/></symbol><symbol viewBox="-2 -2 23.9 23.9" id="zoom-out"><title>zoom-out-new</title><path d="M19.12 6.07A10 10 0 0 0 13.83.78 9.72 9.72 0 0 0 10 0a9.72 9.72 0 0 0-3.93.78A10 10 0 0 0 .78 6.07 9.72 9.72 0 0 0 0 10a9.72 9.72 0 0 0 .78 3.88 10 10 0 0 0 5.29 5.29 9.72 9.72 0 0 0 3.93.73 9.72 9.72 0 0 0 3.88-.78 10 10 0 0 0 5.29-5.29A9.72 9.72 0 0 0 19.9 10a9.72 9.72 0 0 0-.78-3.93zm-1.42 7.14a8.53 8.53 0 0 1-4.49 4.49 8.12 8.12 0 0 1-3.27.66 8.12 8.12 0 0 1-3.27-.66 8.53 8.53 0 0 1-4.49-4.49 8.34 8.34 0 0 1 0-6.48 8.53 8.53 0 0 1 4.5-4.54A8.12 8.12 0 0 1 10 1.53a8.12 8.12 0 0 1 3.27.66 8.53 8.53 0 0 1 4.49 4.49 8.12 8.12 0 0 1 .61 3.32 8.12 8.12 0 0 1-.66 3.22z"/><path d="M3.68 9.16v1.58h12.55V9.16H3.68z"/></symbol></svg>
+    </div>
+    
+
+<!-- Google Tag Manager -->
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  dataLayer.push({
+    'aemGuid': '42a8b8d9-ffa5-4d9e-a7e7-b8f40a4b930a'
+    ,'aemShortDescription':'By+removing+online+records+of+welfare+violations%2C+U.S.+agency+robs+journalists%2C+investigators%2C+and+the+public+of+timely+information%E2%80%94and+takes+pressure+off+abusers.'
+    ,'aemLeadImage': 'http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/01_animal_abuse_reports.jpg'
+
+	
+		,'aemTemplateType': 'news-article'
+	
+	
+		,'aemSeries': 'Wildlife+Watch'
+	
+    
+     });
+</script>
+
+      		
+
+
+
+      		
+
+
+
+
+
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    
+    
+        dataLayer.push({'aemTaxonomyLocation': 'united_states'});
+    
+    
+        dataLayer.push({'aemTaxonomyLocationAncestor': 'north_america'});
+    
+    
+    
+    
+        dataLayer.push({'aemTaxonomySeries': 'wildlife_watch'});
+    
+    
+        dataLayer.push({'aemTaxonomySource': 'news'});
+    
+    
+        dataLayer.push({'aemTaxonomySubject': 'animal_cruelty'});
+    
+    
+        dataLayer.push({'aemTaxonomySubjectAncestor': 'animals'});
+    
+</script>
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({'pageCategory': 'NG|News'});
+    </script>
+
+
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({'aemSiteName': 'News'});
+    </script>
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-S6J5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-S6J5');</script>
+
+
+
+<!-- End Google Tag Manager -->
+
+    <div id="page" class="ad-template-type--article">
+        
+
+        
+        
+            <div id="template-id" data-template="article"></div>
+        
+
+        
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+<div class="global-nav globalNav">
+    <header id="global_nav" data-pestle-module="GlobalNav">
+        <script type="text/json" data-pestle-options>
+            {"endpoint":"http://appservices.nationalgeographic.com/api/v1/globalnav/grouped/?contextualnav__sitemenu__topnav=explorers-nat-geo&show_card","showSubscribe":true,"showShop":true,"loadRegistration":true,"searchUrl":"https://www-s.nationalgeographic.com/search","showSearch":true,"showContextualNav":true,"stickyContextualNav":false,"activeCountry":{"title":"United States","iso_code":"USA"}}
+        </script>
+    </header>
+</div>
+
+
+
+
+        
+
+
+<div id="ad-component-base"></div>
+
+
+
+    <div id='pixel-ad' class="ad-holder" data-ad-component="single" data-ad-config-key="pixel"></div>
+    <div id='out-of-page-ad' class="ad-holder" data-ad-component="outOfPage" data-ad-config-key="out-of-page"></div>
+
+<div id='header-ad' class="ad-holder" data-ad-component="stickyComposedLeaderboard" data-ad-config-key="header" data-ad-config-secondary-key="257x90"></div>
+
+
+
+        
+<div class="pre-content">
+    <div class="pre-content parsys iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="pre-content parsys iparsys"></div>
+</div>
+</div>
+
+</div>
+		
+		      
+		      
+		      	
+
+
+
+
+<script> var deepLinkProvided = null </script>
+<div class="presentationMode">      		
+
+
+
+      		
+
+
+
+
+
+
+
+    
+    <div id="loadingPresentation" class="presentation-gallery presentation-gallery__loading-version">
+        <div class="presentation-gallery__loading-version__header">
+            <a href="http://nationalgeographic.com" class="presentation-gallery__logo-link">
+                <div class="presentation-gallery__box-logo"></div>
+            </a>
+        </div>
+        <div class="presentation-gallery__loading-version__right-rail"></div>
+        <div class="presentation-gallery__loading-version__footer"></div>
+    </div>
+    
+    <script>
+        //get provided hash link for use by deeplinking. must have image extension to be eligible
+        var deepLinkProvided = window.location.hash != null && window.location.hash != "" && window.location.hash != "#/" && window.location.hash != "#" && (window.location.hash.toLowerCase().indexOf(".jpg") >= 0 || window.location.hash.toLowerCase().indexOf(".jpeg") >= 0 || window.location.hash.toLowerCase().indexOf(".png") >= 0 || window.location.hash.toLowerCase().indexOf(".gif") >= 0 || window.location.hash.toLowerCase().indexOf(".svg") >= 0) ? window.location.hash.replace("#", "").replace("/", "") : null;
+        //launch "loading presentation" state if deeplink found. Presentation Mode component will remove/replace once deeplink has been evaluated
+        if(deepLinkProvided) {
+            document.getElementById("loadingPresentation").className += " on-screen";
+            document.getElementsByTagName( 'html' )[0].setAttribute('class','ngs-generic-modal__noscroll');
+            document.getElementsByTagName( 'body' )[0].setAttribute('class','ngs-generic-modal__noscroll')
         }
-        #ttd-masthead #archived-mothball-message a {
-            padding-left:250px;
-            padding-top:17px;
-            background-position: 180px 10px;
+    </script>
+
+    
+        <div data-pestle-module="PresentationMode">
+            <script type="text/json" data-pestle-options>
+                {"id":"echjd2bl","socialLinks":[{"socialLink":{"icon":"social-facebook","class":"addthis_button_facebook","analyticsEvent":"Social-facebook"}},{"socialLink":{"icon":"social-twitter","class":"addthis_button_twitter","analyticsEvent":"Social-twitter"}},{"socialLink":{"icon":"social-pinterest","class":"addthis_button_pinterest_share","analyticsEvent":"Social-pinterest"}},{"socialLink":{"icon":"social-google-plus","class":"addthis_button_google_plusone_share","analyticsEvent":"Social-google-plus"}},{"socialLink":{"icon":"social-linkedin","class":"addthis_button_linkedin","analyticsEvent":"Social-linkedin"}},{"socialLink":{"icon":"email","class":"addthis_button_email","analyticsEvent":"Email"}}],"analyticsEventSite":"News","maxVisible":3,"configuration":"vertical","endpoint":"http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records/_jcr_content/presentation-mode.pres.json","json":{"title":"U.S. Animal Abuse Records Deleted\u2014What We Stand to Lose","items":[{"path":"/content/dam/news/2017/02/06/animal_abuse_reports/01_animal_abuse_reports.jpg","url":"http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/01_animal_abuse_reports.jpg","altText":"Picture of elephants during Ringling Brothers Circus","caption":"<p>A Ringling Brothers trainer supervises a performing elephant. USDA animal welfare reports were crucial to reporting on mistreatment of these animals\u2014and many others\u2014but are now invisible to the public.<\/p>","credit":"Photograph by Michael S. Williamson, The Washington Post, Getty Images","aspectRatio":0.66845703125,"pageType":"image/jpeg","guid":"0055e4ae-f2b8-47dc-8968-319ccad6d7e6","abstract":"elephant","publishDate":"Mon Feb 06 13:39:53 EST 2017","height":1369,"width":2048,"componentType":"IMAGE"},{"path":"/content/dam/news/2017/02/06/animal_abuse_reports/02_animal_abuse_reports.jpg","url":"http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/02_animal_abuse_reports.jpg","caption":"<p>Julie Miner, owner of Maine-based DEW Haven zoo, closes the gate after hours. Using now deleted USDA documents, <i>Mother Jones<\/i> exposed a raft of animal abuse taking place here.<\/p>","credit":"<p>Photograph by Shawn Patrick Ouellette, Portland Press Herald, Getty Images<\/p> \n<p>&nbsp;<\/p>","aspectRatio":0.6640625,"pageType":"image/jpeg","guid":"37e3c22a-2574-4769-aea3-5dfc692a2f34","abstract":"animal park","publishDate":"Mon Feb 06 13:39:53 EST 2017","height":1360,"width":2048,"componentType":"IMAGE"},{"path":"/content/dam/news/2017/02/06/animal_abuse_reports/03_animal_abuse_reports.jpg","url":"http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/03_animal_abuse_reports.jpg","altText":"Picture of retired lab chimps hang out in their enclosure at Chimp Haven","caption":"<p>Retired lab chimpanzees relax at the National Chimpanzee Sanctuary, in Louisiana, which cares for chimps that have been used for biomedical research. Most lab animals don't have this happy ending.<\/p>","credit":"Photograph by Melanie Stetson Freeman, The Christian Science Monitor, Getty Images","aspectRatio":0.66650390625,"pageType":"image/jpeg","guid":"a02d0436-dc39-4c83-b148-1f5d72f613fc","abstract":"chimp sanctuary","publishDate":"Mon Feb 06 13:39:52 EST 2017","height":1365,"width":2048,"componentType":"IMAGE"}]}}
+            </script>
+        </div>
+    
+
+</div>
+
+
+
+<div data-pestle-module="VideoModal"></div>
+
+
+<div class="print-only clearfix">
+    <img src="/etc/designs/platform/v2/images/logos/ng-black-logo.ngsversion.45ded159.png" class="print-logo print-img"/>
+    <a class="print-link" href="http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records.html" target="_blank">http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records.html</a>
+    <hr>
+</div>
+
+<section itemprop="mainContentOfPage" role="main" class="main-section">
+    <article itemscope="itemscope" itemtype="http://schema.org/NewsArticle" class="news__article">
+        <div class="container">
+            
+            <div class="row clearfix row--mainArt">
+                <div class="mt3_col-12">
+                    
+<div class="parsys mainArt"><div class="titleAndDek section">      		
+
+
+
+
+
+
+
+
+<div class="mt3_row">
+    <div class="mt3_col-12">
+        <span class="hidden dateline"/></span>
+        
+        
+        
+            <div data-pestle-module="Kicker">
+                <script type="text/json" data-pestle-options>
+                    {"sponsorContent":false,"links":[{"link":{"linkText":"Wildlife Watch","inPageLink":false,"linkUrl":"http://news.nationalgeographic.com/wildlife-watch","linkTarget":"_self"},"itemprop":"isPartOf"}]}
+                </script>
+            </div>
+        
+        
+            <h1 class="main-title md-title mt3_col-12 mt3_col-lg-9"><span itemprop="headline">U.S. Animal Abuse Records Deleted—What We Stand to Lose</span>
+            </h1>
+        
+        <div class="upper-right-ad mt3_col-12 mt3_col-lg-3">
+            <div id='upper-right-ad' class="ad-holder" data-ad-component="single" data-ad-config-key="sponsorAd_upperRight"></div>
+        </div>
+        
+            <div class="article__deck mt3_col-12 mt3_col-lg-9">
+                <h2>By hiding online records of welfare violations, U.S. agency robs journalists, investigators, and the public of timely information—and takes pressure off abusers.</h2>
+            </div>
+        
+    </div>
+</div>
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+
+            
+            <span class="bumper--bottom bumper--leaderboard-desktop bumper--add-margin"></span>
+
+            
+            <div class="row article__body--container">
+                
+                <div class=" mt3_col-12 mt3_col-lg-1 icon-menu addthis_toolbox ">
+                    <div class="sticky-addthis_toolbox__wrap">
+                        <div data-pestle-module="CommentButton" class="social-icons comment-button">
+                            <script type="text/json" data-pestle-options>
+                                {"minimumAmountToShow":0}
+                            </script>
+                        </div>
+                        <div class="AddThis">      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+    
+        <div class="add-this__init" data-pestle-module="AddThis">
+            <script type="text/json" data-pestle-options>
+                {"id":"ij5nc5qy","socialLinks":[{"socialLink":{"icon":"social-facebook","class":"addthis_button_facebook","analyticsEvent":"Social-facebook"}},{"socialLink":{"icon":"social-twitter","class":"addthis_button_twitter","analyticsEvent":"Social-twitter"}},{"socialLink":{"icon":"social-pinterest","class":"addthis_button_pinterest_share","analyticsEvent":"Social-pinterest"}},{"socialLink":{"icon":"social-google-plus","class":"addthis_button_google_plusone_share","analyticsEvent":"Social-google-plus"}},{"socialLink":{"icon":"social-linkedin","class":"addthis_button_linkedin","analyticsEvent":"Social-linkedin"}},{"socialLink":{"icon":"email","class":"addthis_button_email","analyticsEvent":"Email"}}],"analyticsEventSite":"News","maxVisible":3,"configuration":"vertical"}
+            </script>
+        </div>
+    
+    
+</div>
+
+                    </div>
+                </div>
+                <div id="article__body" class="paragraphs mt3_col-12 mt3_col-lg-7">
+                    
+                    <span class="bumper--top bumper--top_addthis"></span>
+                    <div id='StickyBoxAd' class="ad-holder" data-ad-component="stickyBoxAd" data-ad-config-key="stickyLeadAd"></div>
+
+                    
+                    <span itemprop="articleBody">
+                        <div class="parsys content"><div class="image parbase section">
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <span class="bumper--bottom bumper--add-margin bumper--bottom_addthis"></span>
+        <div class="fullsize-element ">
+            <div class="media--medium__container">
+    
+
+    
+    
+
+    <figure itemscope="itemscope" itemtype="http://schema.org/ImageObject" class="image media-image media--medium left   ">
+
+        
+            <div id="lyzfdkdj" data-pagewide-presentation-disabled="false">
+                
+                    
+                        <div class="placeholder-image-wrap" style="padding-bottom: 66.845703125%">
+                            <div class="picturefill" data-pestle-module="PictureFill">
+  <script type="text/json" data-pestle-options>
+  {"alt":"Picture of elephants during Ringling Brothers Circus","imageCrop":"","imageboxSize":"medium","src":"http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/01_animal_abuse_reports.jpg","itemprop":"contentUrl"}
+  </script>
+</div>
+                        </div>
+                    
+                    
+                
+            
+                <script language="javascript">
+                    var el = document.getElementById("lyzfdkdj");
+                    el.setAttribute('class','standalone-linked');
+                    el.addEventListener('click', function(){
+                        //pass to Prez gallery: Json for photos, current index, the Title for the Prez gallery, social link data, and social link analytics site
+                        Pestle.EventBus.emit("OpenPresentationGallery",
+                                '0055e4ae-f2b8-47dc-8968-319ccad6d7e6');
+                    });
+                </script>
+                <span class="image-hover-control--hover-only enlarge-button">
+                    <span>View Images</span>
+                    <span class="enlarge-button__icons icon">
+                      <svg class="mt3_icon">
+                        <use xlink:href="#gallery"></use>
+                      <svg>
+                    </span>
+                </span>
+            
+            </div>
+        
+
+        
+            <figcaption class="media__caption medium-caption">
+                <div class="media__caption--text">
+                    
+                    
+                        <span itemprop="caption"><p>A Ringling Brothers trainer supervises a performing elephant. USDA animal welfare reports were crucial to reporting on mistreatment of these animals—and many others—but are now invisible to the public.</p>
+</span>
+                    
+                    
+                        <br />
+                    
+                    
+                        <small itemprop="author" class="media__caption--credit"> Photograph by Michael S. Williamson, The Washington Post, Getty Images </small>
+                    
+                </div>
+            </figcaption>
+        
+
+        
+        
+        
+
+    </figure>
+
+
+	
+	
+	
+	
+	         </div>
+	    </div>
+        <span class="bumper--top bumper--top_addthis"></span>
+	
+
+</div>
+<div class="section byline">      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+    <div id="eznlhnbl" data-platform-component="Byline" data-platform-hide-bylines="false" data-platform-hide-publish-date="false" data-platform-publish-date-format="default"></div>
+</div>
+<div class="parbase smartbody section text">
+<blockquote>
+ Editor’s Note: This story was updated on February 13 to reflect legal actions filed against the USDA.
+</blockquote></div>
+<div class="parbase smartbody section text">
+<p>Two weeks into the Trump Administration, thousands of documents detailing animal welfare violations nationwide have been removed from the website of the United States Department of Agriculture (USDA), which has been posting them publicly for decades. These are the inspection records and annual reports for every commercial animal facility in the U.S.—including zoos, breeders, factory farms, and laboratories.</p></div>
+<div class="parbase smartbody section text">
+<p>These records have revealed many cases of abuse and mistreatment of animals, incidents that, if the reports had not been publicly posted, would likely have remained hidden. This action plunges journalists, animal welfare organizations, and the public at large into the dark about animal welfare at facilities across the country. The records document violations of the <a href="https://www.aphis.usda.gov/aphis/ourfocus/animalwelfare/SA_AWA">Animal Welfare Act</a>, the federal law that regulates treatment of animals used for research and exhibition. The USDA Animal and Plant Health Inspection Service (APHIS), which has maintained the online database, <a href="https://www.aphis.usda.gov/aphis/newsroom/news/!ut/p/z0/fYzJDoIwFEW_xqV5hTiswaiREDAxJtBN85BGKvAKbR34e7Ef4O6c3AE4FMAJX-qOTmnCbvaSb0Sar3ZBfGHp8XDes-iaJ_EpYyHL1pAA_1-YH9RjHHkE_KbJyY-DAodGWeGVnOhUZdBMC2ZRkHxbo3XvxTpsZaO7WhqBRPpJN9nPC-vTahI1OvnjZciCrQcWwtDy8gsSzBMV/">cites privacy concerns</a> as justification for the removal.</p></div>
+<div class="pullQuote parbase section text">      		
+
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+    <div class="pull-quote pull-quote--small">
+        <blockquote class="double">Anyone concerned about responsible and transparent government should be alarmed by the USDA's actions.</blockquote>
+        
+            <div class="pull-quote__author">
+                <span class="author">Doug Haddix, Investigative Reporters and Editors</span>
+                
+            </div>
+        
+    </div>
+
+</div>
+<div class="parbase smartbody section text">
+<p>Critics question that reasoning. The agency has long redacted sensitive information from these records, and commercial facilities do not necessarily have the same right to privacy as private individuals. “The citizens of the United States deserve to see that information,” says Dan Ashe, head of the Association of Zoos and Aquariums and the former director of the U.S. Fish and Wildlife Service. He says the USDA's removal of records is “not in the interest of credible, legitimate animal care facilities. What [the action] does is it erodes public confidence, because when people see something like that, they're inclined, rightfully, to think that the government is trying to shield something from their view.”</p></div>
+<div class="parbase smartbody section text">
+<p>Tanya Espinosa, spokesperson for USDA-APHIS, says that the decision to pull welfare reports from the website does not affect enforcement of the Animal Welfare Act: “We will continue to enforce the regulations and standards as they are written.”</p></div>
+<div class="parbase smartbody section text">
+<p>Adam Roberts, CEO of <a href="http://www.bornfreeusa.org/">Born Free USA</a>, an animal advocacy nonprofit based in Washington, D.C., is “shocked” by the purge. He says the documents shed light on cruelty in “substandard roadside zoos, shameful animal circuses, puppy breeding factories and more.” Often, the animals in these facilities may have visible wounds or cramped conditions or no access to water, according to Roberts. He says “the government's decision to make it harder to access this information further protects animal exploiters in the shroud of secrecy on which their nefarious activities thrive.”</p></div>
+<div class="parbase smartbody section text">
+<p>From now on the documents will be accessible only via official requests made under the Freedom of Information Act (<a href="https://www.justice.gov/oip/freedom-information-act-5-usc-552">FOIA</a>). FOIA requests can take months to process. That’s far too long, Roberts says. When Born Free receives welfare complaints from concerned citizens, he says the organization has always checked USDA records to see if any complaints had already been made involving the facility or animal in question. Waiting months for a FOIA report for information that previously could be obtained with the click of a button “may mean prolonged suffering for an animal in need,” Roberts says.<br /> <br /> In response, animal-rights groups have launched a counterattack. On February 6, the Humane Society of the United States initiated <a href="http://blog.humanesociety.org/wp-content/uploads/2017/02/2017-02-06-Notice-of-Violation_HSUS-v-USDA-No.-15-0197.pdf">legal action</a> against the USDA, arguing that the removal of records violates a 2009 settlement between the two parties. Other groups, including PETA, the Physicians Committee For Responsible Medicine, and Born Free USA, have filed <a href="http://466a221d5f0081643b32-e5fd6e4345ef06428c08a34c1e533de0.r4.cf1.rackcdn.com/FILEDCOMPLAINT.PDF">a joint lawsuit</a> against the USDA, arguing that in removing this data, the department is in violation of FOIA and that the action hinders the groups’ ability to identify violations of the Animal Welfare Act. The USDA has yet to respond to either legal action.</p></div>
+<div class="parbase smartbody section text">
+<p>As the legal battle over the records heats up, the impact on journalism—and therefore the public’s awareness of animal suffering—will be keenly felt. “Long delays in processing federal FOIA requests already hinder the public and journalists in obtaining information that's essential to ensuring that government is truly working for the people,” says Doug Haddix, executive director of Investigative Reporters and Editors, based in Columbia, Missouri. The added burden of animal requests could slow FOIAs down even more.</p></div>
+<div class="parbase smartbody section text">
+<p>“Access to public data and documents should not be a partisan political issue,” Haddix says. “Anyone concerned about responsible and transparent government should be alarmed by the USDA's actions.”</p></div>
+<div class="parbase smartbody section text">
+<p>Ashe and others are urging the USDA to reconsider. Reporting on animal welfare violations has played a significant role in ending numerous incidents of animal suffering.</p></div>
+<div class="image parbase section">
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    <figure itemscope="itemscope" itemtype="http://schema.org/ImageObject" class="image media-image media--small left   ">
+
+        
+            <div id="pdfqjeqc" data-pagewide-presentation-disabled="false">
+                
+                    
+                        <div class="placeholder-image-wrap" style="padding-bottom: 66.40625%">
+                            <div class="picturefill" data-pestle-module="PictureFill">
+  <script type="text/json" data-pestle-options>
+  {"alt":"","imageCrop":"","imageboxSize":"small","src":"http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/02_animal_abuse_reports.jpg","itemprop":"contentUrl"}
+  </script>
+</div>
+                        </div>
+                    
+                    
+                
+            
+                <script language="javascript">
+                    var el = document.getElementById("pdfqjeqc");
+                    el.setAttribute('class','standalone-linked');
+                    el.addEventListener('click', function(){
+                        //pass to Prez gallery: Json for photos, current index, the Title for the Prez gallery, social link data, and social link analytics site
+                        Pestle.EventBus.emit("OpenPresentationGallery",
+                                '37e3c22a-2574-4769-aea3-5dfc692a2f34');
+                    });
+                </script>
+                <span class="image-hover-control--hover-only enlarge-button">
+                    <span>View Images</span>
+                    <span class="enlarge-button__icons icon">
+                      <svg class="mt3_icon">
+                        <use xlink:href="#gallery"></use>
+                      <svg>
+                    </span>
+                </span>
+            
+            </div>
+        
+
+        
+            <figcaption class="media__caption ">
+                <div class="media__caption--text">
+                    
+                    
+                        <span itemprop="caption"><p>Julie Miner, owner of Maine-based DEW Haven zoo, closes the gate after hours. Using now deleted USDA documents, <i>Mother Jones</i> exposed a raft of animal abuse taking place here.</p>
+</span>
+                    
+                    
+                        <br />
+                    
+                    
+                        <small itemprop="author" class="media__caption--credit"> <p>Photograph by Shawn Patrick Ouellette, Portland Press Herald, Getty Images</p> 
+<p>&nbsp;</p> </small>
+                    
+                </div>
+            </figcaption>
+        
+
+        
+        
+        
+
+    </figure>
+
+
+	
+	
+	
+	
+
+</div>
+<div class="parbase smartbody section text">
+<h2>TWO DECADES OF ABUSE AT ROADSIDE ZOO</h2></div>
+<div class="parbase smartbody section text">
+<p>In March 2016, <i>Mother Jones</i> published “<a href="http://www.motherjones.com/media/2016/03/animal-planet-yankee-jungle-reality-canceled">Welcome to the Jungle</a>,” a story exposing 20 years of abuse of animals at DEW Haven, a family-run, roadside zoo outside Mount Haven, Maine. The zoo was already in the national spotlight—as the setting for a popular Animal Planet reality show, Yankee Jungle.</p></div>
+<div class="parbase smartbody section text">
+<p>The article exposed illegal importation of animals, poor sanitation, inadequate shelter, feces-ridden food, pens too small for movement, and premature death, as revealed in <a href="https://www.documentcloud.org/documents/2766968-PETA-DEW-USDA-Inspections-Combined-OCR.html">dozens of now offline USDA citations</a> issued between 2004 and 2015. After <i>Mother Jones</i> brought its investigation to light, Animal Planet canceled the show.</p></div>
+<div class="parbase smartbody section text">
+<p>“The USDA documents provided such a strong spine of documentary evidence right out of the gate,” says James West, who wrote the story. He explains that it would have been “near impossible to report” without access to these records. “These were completely rich, primary source evidence documents, full of information, which then led me to other leads. There’s names of people in here, there’s types of animals.”</p></div>
+<div class="parbase smartbody section text">
+<p>Without them, he says, the public misses the facts, and people may not realize that “it’s very hard to get information from state and local enforcement agencies. The USDA [reports] are one of the only ways that journalists can have an immediate insight into people who may be running afoul of federal animal welfare law.”</p></div>
+<div class="parbase smartbody section text">
+<p>DEW Haven’s doors are still open. Without the public database of USDA reports, it will be difficult to keep tabs on the practices at this facility—and nearly impossible to determine whether the USDA continues to monitor them at all.</p></div>
+<div class="parbase smartbody section text">
+<h2>GRUESOME ANIMAL EXPERIMENTS</h2></div>
+<div class="parbase smartbody section text">
+<p>A January 2015 <i>New York Times</i> <a href="https://www.nytimes.com/2015/01/20/dining/animal-welfare-at-risk-in-experiments-for-meat-industry.html?_r=0">investigation</a> exposed the suffering of farm animals at the U.S. Meat Animal Research Center, a USDA facility that ran experiments designed to make livestock meatier and more fertile. The story detailed numerous problematic practices, including an effort to develop “easy care” sheep, which involved allowing ewes to give birth unaided in open fields, resulting in newborns starving or freezing to death, or being ravaged by coyotes.</p></div>
+<div class="parbase smartbody section text">
+<p>In gathering his material, investigative journalist Michael Moss relied heavily on USDA APHIS welfare records. Using dozens of APHIS case files on university and private-sector experiments, Moss revealed how the USDA has cracked down on third parties engaging in milder practices than it was performing in its own lab. Moss says his investigation was aided immensely by being able to use the agency's online database “without the burden and delay of using FOIA to show how aggressive the USDA could be on behalf of animals when it wanted to be.”</p></div>
+<div class="parbase smartbody section text">
+<p>Moss’s work prompted the USDA to shut down all new experimental projects at the facility pending improvements to its welfare standards. The agency also highlighted a gaping loophole in the Animal Welfare Act: It exempts farm animals used in research experiments.</p></div>
+<div class="parbase smartbody section text">
+<p>After the story ran, several lawmakers on both sides of the aisle introduced <a href="https://www.congress.gov/bill/114th-congress/house-bill/746/text">a bill</a> to extend the Animal Welfare Act to farm animals being used in experiments. Tom Vilsack, then Secretary of Agriculture, ordered increased protections of the animals used at the U.S. Meat Animal Research Center and appointed the first-ever animal welfare ombudsman to oversee the welfare of animals at all USDA-run facilities.</p></div>
+<div class="image parbase section">
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    <figure itemscope="itemscope" itemtype="http://schema.org/ImageObject" class="image media-image media--small left   ">
+
+        
+            <div id="zvjgeqgw" data-pagewide-presentation-disabled="false">
+                
+                    
+                        <div class="placeholder-image-wrap" style="padding-bottom: 66.650390625%">
+                            <div class="picturefill" data-pestle-module="PictureFill">
+  <script type="text/json" data-pestle-options>
+  {"alt":"Picture of retired lab chimps hang out in their enclosure at Chimp Haven","imageCrop":"","imageboxSize":"small","src":"http://news.nationalgeographic.com/content/dam/news/2017/02/06/animal_abuse_reports/03_animal_abuse_reports.jpg","itemprop":"contentUrl"}
+  </script>
+</div>
+                        </div>
+                    
+                    
+                
+            
+                <script language="javascript">
+                    var el = document.getElementById("zvjgeqgw");
+                    el.setAttribute('class','standalone-linked');
+                    el.addEventListener('click', function(){
+                        //pass to Prez gallery: Json for photos, current index, the Title for the Prez gallery, social link data, and social link analytics site
+                        Pestle.EventBus.emit("OpenPresentationGallery",
+                                'a02d0436-dc39-4c83-b148-1f5d72f613fc');
+                    });
+                </script>
+                <span class="image-hover-control--hover-only enlarge-button">
+                    <span>View Images</span>
+                    <span class="enlarge-button__icons icon">
+                      <svg class="mt3_icon">
+                        <use xlink:href="#gallery"></use>
+                      <svg>
+                    </span>
+                </span>
+            
+            </div>
+        
+
+        
+            <figcaption class="media__caption ">
+                <div class="media__caption--text">
+                    
+                    
+                        <span itemprop="caption"><p>Retired lab chimpanzees relax at the National Chimpanzee Sanctuary, in Louisiana, which cares for chimps that have been used for biomedical research. Most lab animals don't have this happy ending.</p>
+</span>
+                    
+                    
+                        <br />
+                    
+                    
+                        <small itemprop="author" class="media__caption--credit"> Photograph by Melanie Stetson Freeman, The Christian Science Monitor, Getty Images </small>
+                    
+                </div>
+            </figcaption>
+        
+
+        
+        
+        
+
+    </figure>
+
+
+	
+	
+	
+	
+
+</div>
+<div class="parbase smartbody section text">
+<p>Moss says the USDA’s taking down of its document database “is a significant blow not only to the public's ability to get information about the treatment of animals but also the agency's ability to convey the important work that it does.”</p></div>
+<div class="parbase smartbody section text">
+<h2>LAB MONKEY DEATHS BY DEHYDRATION</h2></div>
+<div class="parbase smartbody section text">
+<p>USDA APHIS documents have also detailed the mistreatment of animals used for research in several academic institutions. <i>The Augusta Chronicle</i> <a href="http://chronicle.augusta.com/news/education/2015-03-20/gru-found-violation-animal-welfare-act">reported on</a> a flurry of APHIS citations issued in 2012 to a research lab at Augusta University, then called Georgia Regents University. The lab was accused of keeping primates—highly social animals—in isolation, a violation of the Animal Welfare Act; of using expired pain medication on animals during testing; and of restricting its animals’ food intake. In 2013 APHIS cited the lab for using dogs for painful dental experiments and inflicting undue suffering resulting in death, following a <a href="http://www.humanesociety.org/news/press_releases/2013/11/georgia-regents-university-dogs-112013.html?referrer=https://www.google.com/">Humane Society investigation</a>. The APHIS document detailing the lab’s violation of the Animal Welfare Act was one of the thousands in the database.</p></div>
+<div class="parbase smartbody section text">
+<p>Documents also exposed the mistreatment of primates at a Harvard University Medical School research facility. The APHIS citations—seven in all—were revealed in a <a href="http://www.thecrimson.com/article/2012/4/4/primates-usda-animal-welfare/">2012 story</a> by <i>The Harvard Crimson</i>. The citations detailed the deaths of several primates owing to lack of water. In 2013 <i>The Boston Globe</i> <a href="http://www.bostonglobe.com/news/science/2013/04/23/harvard-shut-primate-research-center-where-monkeys-died-citing-tough-economic-climate/ZrHIL4Qnx2ocQdduvOq8pL/story.html">reported</a> that the 51-year-old facility was to be shut down. It closed its doors permanently on May 31, 2015.</p></div>
+<div class="parbase smartbody section text">
+<p>In November 2016, reporting from USDA APHIS documents, <i>The Daily Beast</i> <a href="http://www.thedailybeast.com/articles/2016/11/01/pharma-business-starved-baby-monkeys-to-death-feds-claim.html">exposed the deaths of 38 primates</a> at SNBL USA, a pharmaceutical research facility where monkeys confined in decrepit quarters died from dehydration, botched surgeries, and being pumped full of more drugs than their small bodies could handle.</p></div>
+<div class="parbase smartbody section text">
+<h2>RINGLING’S ELEPHANT MISTREATMENT</h2></div>
+<div class="parbase smartbody section text">
+<p>APHIS documents served as crucial primary evidence in a yearlong <i>Mother Jones</i> <a href="http://www.motherjones.com/environment/2011/10/ringling-bros-elephant-abuse">investigation</a> of Ringling Bros. Circus’s allegedly horrific treatment of elephants. The 2011 investigation was one of the first to shed light on the plight of the animals, showing that elephants were kept for years in cramped living conditions and were whipped and chained by their handlers. Many elephants were found to have infected wounds and untreated diseases. The story prompted a public outcry and petitions calling for the elephants' removal from the circus. Ringling declared in 2016 that it would <a href="http://news.nationalgeographic.com/2016/01/160111-ringling-elephants-retire/">stop using touring elephants</a>. But then, in January 2017, it <a href="https://www.ringling.com/ringling-bros-final-performances/">announced</a> that after 146 years, the circus would be shut down permanently.</p></div>
+<div class="parbase smartbody section text">
+<p>Writer Deborah Nelson, also an associate professor of investigative journalism at the University of Maryland, says she used the online records to track pending and new inspections and complaints as she researched the story. “They allowed me to keep running watch on how animals were being treated and how the government was carrying out its mandate to protect them,” she says.</p></div>
+<div class="parbase smartbody section text">
+<p>Nelson also relied on a FOIA lawsuit welfare groups had filed against the USDA to force release of public records on the elephants. “FOIA request is no substitute for direct public access,” Nelson says. “The FOIA process builds in delays and can be used to prevent release of information absent appeals and costly litigation.”</p></div>
+<div class="parbase smartbody section text">
+<p>The burden of making public a trove of information on animal welfare—how animals are suffering nationwide, who the perpetrators are, and where there may be holes in current legislation—now largely falls to third parties. <i>Mother Jones</i>’s West, whose story about the roadside zoo relied heavily on the USDA APHIS database, points out how cumbersome a task this will be for nonprofit watchdog organizations: “They're cash-strapped and overworked, and it shouldn't be their responsibility to be the reservoir of public information. It’s the government’s role.”</p></div>
+<div class="parbase smartbody section text">
+<p>AZA’s Dan Ashe sees the USDA’s actions as a blow to accountability. If these records aren’t made readily available, “you can only really reach one conclusion, and that is that the public's ability to hold these institutions accountable will be diminished.”</p></div>
+<div class="parbase smartbody section text">
+<p>Born Free’s Roberts agrees.</p></div>
+<div class="parbase smartbody section text">
+<p>“Transparency is vital to democracy, and the USDA should reverse course and reopen access to information online,” he says. “I assume they will—unless they have something to hide.”</p></div>
+<div class="parbase smartbody section text">
+<blockquote>
+ Editor’s note: You can let the USDA know what you think of the changes by 
+ <a href="https://www.aphis.usda.gov/aphis/banner/contactus/sa_animal_welfare/">contacting them here</a>.
+</blockquote></div>
+<div class="parbase smartbody section text">
+<p><i>Natasha Daly is an assistant editor at National Geographic. Follow her on <a href="https://twitter.com/natashaldaly">Twitter</a>.</i></p></div>
+
+</div>
+
+                        
+<div class="contributorDetails contributors">
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+    <div data-pestle-module="ContributorCards">
+        <script type="text/json" data-pestle-options>
+            {"endpoint":"http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records.contributordetails.json"}
+        </script>
+    </div>
+
+
+
+</div>
+
+                    </span>
+
+                    
+                    
+                        <div class="comments-call-to-action-button" data-pestle-module="CommentsCallToActionButton">
+                            <script type="text/json" data-pestle-options>
+                                {
+                                   "label":"Comment",
+                                   "iconclass":"comment"
+                                }
+                            </script>
+                        </div>
+                    
+
+                    
+                    <section class="inline-gallery__container">
+                        <div class="parsys related-content">
+</div>
+
+                    </section>
+
+                    
+                    <span class="bumper--bottom bumper--bottom_addthis"></span>
+                </div>
+            </div>
+        </div>
+    </article>
+</section>
+
+
+<div data-pestle-module="SocialMobile" class="social-mobile hidden-md hidden-pt">
+</div>
+
+
+
+<div class="parsys promobottom"><div class="multiLayout threeUp section">      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+    
+
+
+<div class="anchor">      		
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+    <a name="you_might_also_like" id="you_might_also_like" class="anchor__link"></a>
+</div>
+
+
+
+
+
+<div id="d7c5xvwj" class="multi-layout-promos__init" data-pestle-module="MultiLayoutPromos">
+    <script type="text/json" data-pestle-options>
+        {"type":"multiLayout","configuration":"automatic","size":"small","adConfig":"leaderboard-ads","include970x250":false,"introStyle":"secondary","buttonLabel":"Show More","infiniteScroll":false,"endpoint":"http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records/_jcr_content/promobottom/threeUp.promo-all.json","showAll":false,"showImages":true,"showTitles":true,"showAbstracts":true,"showSeries":true,"hideBylines":false,"heading":"<p><b>You Might Also Like<\/b><\/p>"}
+	</script>
+</div>
+</div>
+
+</div>
+
+
+
+
+    <div class="container livefyre-comments">
+        <div class="mt3_col-12 mt3_col-lg-8">
+            <div class="comments--title">
+                <p><strong>Comment on This Story</strong></p>
+            </div>
+            <div class="comments lf">      		
+
+
+
+      		
+
+
+
+
+
+
+<div id="livefyre" data-pestle-module="Comments">
+  <script type="text/json" data-pestle-options>
+  {
+    "guid": "42a8b8d9-ffa5-4d9e-a7e7-b8f40a4b930a",
+    "lfnetworkname": "natgeo.fyre.co",
+    "lfsiteid": "318027",
+    "pageguid": "42a8b8d9-ffa5-4d9e-a7e7-b8f40a4b930a",
+    "lfelement": "livefyre-comments",
+    "lfmetadata": "eyJjdHkiOiJ0ZXh0XC9wbGFpbiIsImFsZyI6IkhTMjU2In0.eyJ0aXRsZSI6IlUuUy4gQW5pbWFsIEFidXNlIFJlY29yZHMgRGVsZXRlZFx1MjAxNFdoYXQgV2UgU3RhbmQgdG8gTG9zZSIsInVybCI6Imh0dHA6Ly9uZXdzLm5hdGlvbmFsZ2VvZ3JhcGhpYy5jb20vMjAxNy8wMi93aWxkbGlmZS13YXRjaC11c2RhLWFuaW1hbC13ZWxmYXJlLXRydW1wLXJlY29yZHMuaHRtbCIsImNoZWNrc3VtIjoiN2YyYjRiMDQ0ZWMzM2U2ZWE0MDk0ZTA0ODU1OWYwODkiLCJhcnRpY2xlSWQiOiI0MmE4YjhkOS1mZmE1LTRkOWUtYTdlNy1iOGY0MGE0YjkzMGEifQ.-GeFfICgAku9lMVoDK7vlBWYIWJaUudHhrc1d7oqkAI",
+    "checksum": "7f2b4b044ec33e6ea4094e048559f089"
+  }
+  </script>
+
+   <!-- start livefyre Comments -->
+   <div id="livefyre-comments" class="NGS_livefyre"></div>
+   <!-- stop livefyre Comments -->
+</div></div>
+
+        </div>
+        <div id='commentsAd' class="ad-holder mt3_col-12 mt3_col-lg-4 comments-box-ad" data-ad-component="boxAd" data-ad-config-key="commentsBoxAd"></div>
+    </div>
+    <span class="bumper--bottom bumper--bottom-of-comments-ad "></span>
+
+
+
+<div class="print-only clearfix">
+    <hr>
+    <img src="/etc/designs/platform/v2/images/logos/ng-black-logo.ngsversion.45ded159.png" class="print-logo print-img"/>
+    <p class="print-only__copyright">&copy; 1996-2017 National Geographic Society.</p>
+</div>
+
+
+<div class="listicleController">      		
+
+
+
+      		
+
+
+
+
+
+
+
+    <div data-pestle-module="Listicle">
+        <script type="text/json" data-pestle-options>
+            {"showNumbering":true,"endpoint":"http://news.nationalgeographic.com/2017/02/wildlife-watch-usda-animal-welfare-trump-records/_jcr_content/listicleController.listiclecards.json"}
+        </script>
+    </div>
+
+</div>
+
+
+		      
+		
+        
+
+<div class="post-content">
+    <div class="post-content parsys iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="post-content parsys iparsys"></div>
+</div>
+</div>
+
+</div>
+
+
+        
+
+<footer class="global-footer"></footer>
+
+      		
+
+
+
+
+
+<div data-pestle-module="GlobalFooter"></div>
+
+
+
+    
+    
+        
+
+
+
+<script>
+
+    window.NGS = {
+        'pestlecfg': {
+            'debug': {
+                'logLevel': 4, // this value should be overwritten by all sites and have a value of 5 in the production env
+                'sentry': {
+                    'endPoint': 'http://3b86f5cfe41448d19e6ad20441fea85c@platform-sentry1.int.ngeo.com/26',
+                    'options': {
+                        'collectWindowErrors': false
+                    }
+                }
+            },
         }
-        #k-masthead-container #archived-mothball-message a {
-            padding-left:250px;
-            padding-top:17px;
-            background-position: 180px 10px;
-        }
-        #archived-mothball-message a {
-            display:block;
-            height:56px;
-            background:url(/globalresources/mothball-images/i.gif)
-                100px 10px no-repeat;
-            color:#666;
-            text-decoration:none;
-            padding-left:160px;
-            padding-top:12px;
-            font-size:20px;
-            font-family: verdana,helvetica,arial,sans-serif;
-            font-weight: normal;
-        }
-    </style><meta name="description" content="This article discusses whether non-human animals have rights, and what is meant by animal rights."><meta name="keywords" content="humane, experiments, hunting, zoos, St Thomas Aquinas, Rene Descartes,Mary Warnoc, speciesism"><link rel="schema.dcterms" href="http://purl.org/dc/terms/"><meta name="DCTERMS.created" content="2005-02-08"><meta name="DCTERMS.updated" content="2009-12-08"><!-- Glow cachebust:    
-                --><!-- Barlesque 2.75.0 --><link rel="schema.dcterms" href="http://purl.org/dc/terms/"><link rel="index" href="http://www.bbc.co.uk/a-z/" title="A to Z"><link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use"><link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon"><meta name="viewport" content="width = 974"><link rel="stylesheet" type="text/css" href="/staticarchive/c808749ad4d537416e40591def8e05c130d72722.css"><script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.6/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script><script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script><script type="text/javascript" src="http://node1.bbcimg.co.uk/glow/gloader.0.1.6.js"></script><script type="text/javascript" src="/staticarchive/21f604032d29edfa0a166f89bd41c95004718ed2.js"></script><script type="text/javascript">  bbcRequireMap = {"jquery-1":"/staticarchive/6cabfa9be6f12b6fec5ddf61c2dca1dde868555e", "jquery-1.4":"/staticarchive/cce0a0919c693f9473535d6941613bad16a4b40f", "jquery-1.9":"/staticarchive/14a082a42c1074b40bedae2666d3204e142899f5", "swfobject-2":"/staticarchive/b02e05aa3b12cfe8510390c7eccecd0af315b0a6", "demi-1":"/staticarchive/a916559c328a465dafcc30056734651ac8fdbb4b", "gelui-1":"/staticarchive/0159feca9179b145c659298e302b55dc76dfa15d", "cssp!gelui-1/overlay":"/staticarchive/fee6b4a3b22c51a59dd3ddebfb1b765049c683f6.css", "istats-1":"/staticarchive/125ca583fde51c9babc88112cf0545a6d2cf53ac", "relay-1":"/staticarchive/ab39b61cf0980994246594bebe70fe460df87a42", "clock-1":"/staticarchive/7b8bb05c3fa19067c2c4c99144d21702cc15704f", "canvas-clock-1":"/staticarchive/703fd8b8a1b4ecf9cf624195bfb9691c648d3919", "cssp!clock-1":"/staticarchive/85ca997ae2f6bd2990765422dcc5b1c386c9d0cb.css", "jssignals-1":"/staticarchive/238f1d675d1626860f85815b7ab638cd41811a06", "jcarousel-1":"/staticarchive/3b38690b91f14468826c5f05f6e3da9beb55f4b1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3.js", "gelui-1/widget": "/staticarchive/fcf01fd866ac629bad5a92592c208c3b04184cd3", "gelui-1/carousel": "/staticarchive/562f83c33cfe04062d95de8024ba03636cd0af4c", "gelui-1/core": "/staticarchive/d69cc93987af4e17f910996164dc15516614353e", "gelui-1/overlay": "/staticarchive/84bd061f5e14f0728caa8c933fe6d758b54fec5a", "gelui-1/autosuggest": "/staticarchive/ca81d8400ee443b0c31a47f1eea1c6872091dd48"}; require({ baseUrl: 'http://'+location.host+'/', paths: bbcRequireMap, waitSeconds: 30 }); </script><script type="text/javascript" src="/staticarchive/1b2549937977a29e048af5c307e7f73044570f03.js"></script><!--[if (IE 6)|(IE 7)|(IE 8)]> <style type="text/css"> html{font-size:125%} body{font-size:50%} .blq-tooltipped:hover {background-position:0 0} #blq-autosuggest ul li { zoom:normal; } .skylightTheme #blq-mast-home, .doveTheme #blq-mast-home, .tealTheme #blq-mast-home, .aquaTheme #blq-mast-home, .greenTheme #blq-mast-home, .violetTheme #blq-mast-home, .purpleTheme #blq-mast-home, .pinkTheme #blq-mast-home, .oliveTheme #blq-mast-home, .suedeTheme #blq-mast-home, .redTheme #blq-mast-home, .orangeTheme #blq-mast-home { filter: none; -ms-filter: ""; } #blq-nav-main { background-position: 96% 17px; } </style> <![endif]--><!--[if IE 7]> <link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/style/ie7.css" type="text/css" /> <style type="text/css"> .blq-clearfix {display: inline-block} </style> <![endif]--><!--[if IE 6]> <link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/style/ie6.css" type="text/css" /> <style type="text/css"> .blq-js #blq-nav-foot div {filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/img/panel.png', sizingMethod='image');margin-top:-139px}  #blq-container {height: 15%} #blq-mast-home span.blq-home { filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod='crop', src='/staticarchive/2e00d1d53e9c3bd91993196aa19a1d88589969f0.png');} #blq-mast #blq-search-btn { background: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/img/blq-search_grey_alpha.png', sizingMethod='image'); } </style>  <script type="text/javascript"> try { document.execCommand("BackgroundImageCache",false,true); } catch(e) {} </script> <![endif]--><script type="text/javascript"> blq.assetPath="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/"; blqOnDomReady(function() {  blq.suggest_short = false; blq.addAutoSuggest(); });  blq.setEnvironment('live');  if (! /bbc\.co\.uk$/i.test(window.location.hostname) ) { document.documentElement.className += ' blq-not-bbc-co-uk'; }  </script><script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) {  var defaultThreshold = 0, usePulseThreshold = (flag === 'OFF')? 1 : defaultThreshold, activeThreshold; w.oqs = w.oqs || {}; /* we support cookie override for testing */ if ( w.document.cookie.match(/(?:^|; *)ckns_oqs_usePulseThreshold=([\d.]+)/) ) { activeThreshold = RegExp.$1; } /* we support clientside override */ else if (typeof w.oqs_usePulseThreshold !== 'undefined') { activeThreshold = w.oqs_usePulseThreshold; } else { activeThreshold = usePulseThreshold; } w.oqs.usePulse = (w.Math.random() < activeThreshold); if (!w.oqs.usePulse) {  w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.75.0/desktop/2.8/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script><!-- ISTATS --><script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/signin", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/" }); /* ]]> */ </script><script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.63.23/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.23.4/modules/idcta/idcta-1'; require({paths: map}); define('id-config', {"idapp":{"version":"0.63.23","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.29.1"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity"},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.63.23\/modules\/idapp\/idapp-1\/View.css"}}); })(); </script><style type="text/css">
-	@import '/staticarchive/de138284d8eceb705f73af8711ffe078b1fe323f.css';
-	@import '/staticarchive/67f790428e1dc1baf083f87e41c9f6785a11c0fe.css';
-	@import '/staticarchive/3e670a904ae54eff0cac6844b0c25704a7f34bec.css';
-	
-</style><link rel="stylesheet" type="text/css" media="screen" href="/staticarchive/e121841179ae452eb75b868edf68c2377eb8b6a1.css"><link rel="stylesheet" type="text/css" media="print" href="/staticarchive/7e24410b9b1b41d15ef363a38479a8006b090ff6.css"><!-- Barlesque: --><script type="text/javascript">
-<!-- 
-	if (document.documentElement && document.getElementById){
-		document.documentElement.className += " js";
-	}	
-// -->		
-</script><!-- Glow library : core modules --><script type="text/javascript">
-	gloader.load(["glow", "1", "glow.anim", "glow.net", "glow.dom", "glow.embed"]);
-</script><!-- EMP embed support --><script type="text/javascript" src="/staticarchive/296b7e9b01b56142aec1bfa4760e2eb86073b802.js"></script><script type="text/javascript" src="/staticarchive/880927e055ea2d75cc32254b7274b0e4a04822c2.js"></script><!-- Live Stats Variable --><!-- End of Live Stats Variable Settings --></head><body class="lime prg-content-lhn article ethics">
-	<div><a name="top"> </a></div>                <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&app_type=web&ml_name=SSI&ml_version=0.23.1&language=en-GB'; /*]]>*/</script><script type="text/javascript" src="http://static.bbci.co.uk/archive_stats/modules/stats-1.0.0.js"></script>    <div id="blq-container" class="blq-lang-en-GB blq-gvl-2-8"> <div id="blq-pre-mast" lang="en-GB"> <!-- Pre mast -->  </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <div id="bbccookies-prompt" class="bbccookies-d"> <h2> Cookies on the BBC website </h2> <p> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can <a href="/privacy/cookies/managing/cookie-settings.html">change your cookie settings</a> at any time. </p> <ul> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> ]]></script><script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var i=document,b=i.getElementById("blq-pre-mast"),f=i.getElementById("blq-global"),h=i.getElementById("blq-container"),c=i.getElementById("blq-bbccookies-tmpl"),a,g,e;if(b&&i.createElement){a=i.createElement("div");a.id="bbccookies";e=c.innerHTML;e=e.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=e;if(f){f.insertBefore(a,b)}else{h.insertBefore(a,b)}g=i.getElementById("bbccookies-continue-button");g.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}}})(); /*]]>*/</script><span id="blq-mast-background"></span> <div id="blq-container-inner" lang="en-GB">  <div id="blq-acc" class="blq-rst">  <p id="blq-mast-home" class="blq-no-images"><a href="/" hreflang="en-GB"> <span id="blq-blocks-wrapper"> <span class="blq-home">British Broadcasting Corporation</span><img src="/staticarchive/2e00d1d53e9c3bd91993196aa19a1d88589969f0.png" alt="BBC" id="blq-blocks" width="84" height="24"><span class="blq-span">Home</span> </span> </a></p>  <p class="blq-hide"><strong><a id="page-top">Accessibility links</a></strong></p> <ul id="blq-acc-links"><li><a href="#blq-content">Skip to content</a></li>  <li><a href="#blq-local-nav">Skip to local navigation</a></li>  <li><a href="#blq-nav-main">Skip to bbc.co.uk navigation</a></li> <li><a href="#blq-search">Skip to bbc.co.uk search</a></li>  <li><a href="/accessibility/">Accessibility Help</a></li>   </ul></div>   <div id="archived-mothball-message" style="
-            background:url(/globalresources/mothball-images/bg.jpg)
-                        0 0 repeat-x #fbfbfb;
-    ">
-        <a href="/globalresources/mothballing" style="
+    };
+</script>
 
-        ">
-            This page has been archived and is no longer updated.
-            <span style="
-                display:block;
-                font-size:0.5em;
-                padding:10px 0 0 70px;
-                font-weight:bold;
-            ">
-                <span style="
-                color:#1A75BB; margin-left:100px;
-                ">Find out more about page archiving.</span>
-            </span>
-        </a>
-    </div><div id="blq-main" class="blq-clearfix">        
+        <!--   V2 script, platform -->
+        <script type="text/ng-script" data-src="/etc/designs/platform/v2/scripts/ngs-global.ngsversion.45ded159.js"></script>
+        <script type="text/ng-script" data-src="/etc/designs/platform/v2/scripts/ngs-vendor.ngsversion.45ded159.js"></script>
+        <script src="/etc/designs/news/scripts/init-v2.ngsversion.45ded159.js"></script>
 
-	<!--START PROGRAMMES CONTENT CONTAINER SHELL-->
-	<div id="prg-masthead">
-	<p><a href="/ethics/guide" title="Ethics guide">Ethics guide</a></p>
 
-	</div>
-	<div class="prg-wrapper" id="prg-wrapper-shell">
-	<div id="blq-content">
-		
-	<div id="prg-wrapper-featured"><!-- START MAIN CONTENT AREA -->
-	<div class="box top_promo">
-	<div class="header"><h1>Animal rights</h1>
-	
-	</div>
-	<div class="content">
-	<p>This article discusses whether non-human animals have rights, and what is meant by animal rights.</p>
-	</div>
-	<div class="footer"> </div>
-	</div>
-		
-	<div class="p-grp p-grp-a p-grp-theme-n nth-row-n">
-	<!--LEFT HAND NAV-->
-	<div class="left-nav">
-	<h2>On this page</h2>
-	<ul><li><a href="#h1">Animal rights</a></li>
-	<li><a href="#h2">The case for animal rights</a></li>
-	<li><a href="#h3">The case against animal rights</a></li>
-	<li><a href="#h4">Animals aren't 'moral'</a></li>
-	<li><a href="#h5">Moral community</a></li>
-	<li><a href="#h6">Fundamental rights</a></li>
-	<li><a href="#h7">The problem of 'marginal people'</a></li>
-	</ul><h3>Page options</h3>
-	<ul class="tools"><li class="print"><a href="#" onclick="window.print();return false;">Print this page</a></li>
-	</ul></div>
-		
-	<div class="center">
-	
-	<div class="content-main-header"> </div>
-	<div class="p-mod nth-child-1 content-main">
-	<a name="section_1"> </a>
-	<div class="promo">
-	
-<h2 class="heading-nth-1" id="h1">Animal rights</h2>
-	
+        
 
-<span class="image_with_caption float_right" style="width: 130px;">
-	<img alt="Large dog in a small crate" height="130" src="/staticarchive/13e9a5350155d6c851b67a8ee6ea5b2cce262a90.jpg" width="130"></span>
-	
+        
+    
 
-<p>There is much disagreement as to whether non-human animals have rights, and what is meant by animal rights.</p>
+        <span class="bumper--bottom bumper--leaderboard"></span>
+        
+    </div>
+</body>
 
-<p>There is much less disagreement about the consequences of accepting that animals have rights.</p>
 
-<h3>The consequences of animal rights</h3>
-	
-<p>Animal rights teach us that certain things are wrong as a matter of principle, that there are some things that it is morally wrong to do to animals.</p>
-
-<p>Human beings must not do those things, no matter what the cost to humanity of not doing them.</p>
-
-<p>Human beings must not do those things, even if they do them in a humane way.</p>
-
-<p>For example: if animals have a right not to be bred and killed for food then animals must not be bred and killed for food.</p>
-
-<p>It makes no difference if the animals are given 5-star treatment throughout their lives and then killed humanely without any fear or pain - it's just plain wrong in principle, and nothing can make it right.</p>
-
-<p>Accepting the doctrine of animal rights means:</p>
-
-<ul><li>No <a href="/ethics/animals/using/experiments_1.shtml">experiments on animals</a></li>
-	<li>No breeding and killing animals for <a href="/ethics/animals/using/eating_1.shtml">food</a> or clothes or medicine</li>
-	<li>No use of animals for hard labour</li>
-	<li>No selective breeding for any reason other than the benefit of the animal</li>
-	<li>No <a href="/ethics/animals/using/hunting_1.shtml">hunting</a></li>
-	<li>No <a href="/ethics/animals/using/entertainment_1.shtml">zoos</a> or use of animals in <a href="/ethics/animals/using/entertainment_1.shtml">entertainment</a></li>
-</ul><div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	<a name="section_2"> </a>
-	<div class="promo">
-	
-
-<h2 id="h2">The case for animal rights</h2>
-	
-
-<p>Philosophers have usually avoided arguing that all non-human animals have rights because:</p>
-
-<ul><li>the consequences are so limiting for humanity</li>
-	<li>it would give rights to creatures that are so simple that the idea of them having rights seems to defy common sense</li>
-</ul><p>The second problem is dealt with by not arguing that all animals have rights, but only that 'higher' animals have rights.</p>
-
-<p>One leading author restricts right to mentally normal mammals at least one year old (called 'adult mammals' from now on).</p>
-
-<h3>The case for animal rights</h3>
-	
-<p>The case for animal rights is usually derived from the case for human rights.</p>
-
-<p>The argument (grossly oversimplified) goes like this:</p>
-
-<ul><li>Human animals have rights</li>
-	<li>There is no morally relevant difference between human animals and adult mammals</li>
-	<li>Therefore adult mammals must have rights too</li>
-</ul><p>Human beings and adult mammals have rights because they are both 'subjects-of-a-life'.</p>
-
-<p>This means that:</p>
-
-<ul><li>They have similar levels of biological complexity</li>
-	<li>They are conscious and aware that they exist</li>
-	<li>They know what is happening to them</li>
-	<li>They prefer some things and dislike others</li>
-	<li>They make conscious choices</li>
-	<li>They live in such a way as to give themselves the best quality of life</li>
-	<li>They plan their lives to some extent</li>
-	<li>The quality and length of their life matters to them</li>
-</ul><p>If a being is the subject-of-a-life then it can be said to have 'inherent value'.</p>
-
-<p>All beings with inherent value are equally valuable and entitled to the same rights.</p>
-
-<p>Their inherent value doesn't depend on how useful they are to the world, and it doesn't diminish if they are a burden to others.</p>
-
-<p>Thus adult mammals have rights in just the same way, for the same reasons, and to the same extent that human beings have rights.</p>
-
-
-	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	<a name="section_3"> </a>
-	<div class="promo">
-	
-  <h2 id="h3">The case against animal rights</h2>
-	
-
-<p>A number of arguments are put forward against the idea that animals have rights.</p>
-
-<ul><li>Animals don't think</li>
-	<li>Animals are not really conscious</li>
-	<li>Animals were put on earth to serve human beings</li>
-	<li>Animals don't have souls</li>
-	<li>Animals don't behave morally</li>
-	<li>Animals are not members of the 'moral community'</li>
-	<li>Animals lack the capacity for free moral judgment</li>
-	<li>Animals don't think</li>
-</ul><p>St Thomas Aquinas taught that animals acted purely on instinct while human beings engaged in rational thought.</p>
-
-<p>This distinction provided the frontier between human beings and animals, and was regarded as a suitable criterion for assessing a being's moral status.</p>
-
-<h3>Animals are not really conscious</h3>
-	
-<span class="image_with_caption float_right" style="width: 130px;">
-	<img alt="Orangutan washing clothes" height="130" src="/staticarchive/31ee60b4525e876d97e9f5ad666a6f65643f0be0.jpg" width="130"></span>
-	
-
-<p>The French philosopher Rene Descartes, and many others, taught that animals were no more than complicated biological robots.</p>
-
-<p>This meant that animals were not the sort of thing that was entitled to have any rights - or indeed any moral consideration at all.</p>
-
-<h3>Animals were put on earth to serve human beings</h3>
-	
-<p>This view comes originally from the Bible, but probably reflects a basic human attitude towards other species.</p>
-
-<p>Christian theologians developed this idea - St Augustine taught that "by a most just ordinance of the Creator, both their [animals'] life and their death are subject to our use."</p>
-
-<p>St Thomas Aquinas taught that the universe was constructed as a hierarchy in which beings at a lower level were there to serve those above them.</p>
-
-<p>As human beings were above animals in this hierarchy they were entitled to use animals in any way they wanted.</p>
-
-<p>However, as C.S. Lewis pointed out:</p>
-
-	
-	<div class="promo_quote_box_top">
-	<blockquote>
-	<p>We may find it difficult to formulate a human right of tormenting beasts in terms which would not equally imply an angelic right of tormenting men.</p>
-	<p><cite>C.S. Lewis, Vivisection</cite></p>
-	</blockquote>
-	</div>
-	<div class="promo_quote_box_bottom"> </div>
-
-<h3>Animals don't have souls</h3>
-	
-<p>Christian theologians used to teach that only beings with souls deserved ethical consideration.</p>
-
-<p>Animals did not have souls and therefore did not have any moral rights.</p>
-
-<p>This argument is no longer regarded as useful, because the idea of the soul is very controversial and unclear, even among religious people. Furthermore it is not possible to establish the existence of the soul (human or animal) in a valid experimental way.</p>
-
-<p>This also makes it difficult to argue, as some theologians have done, that animals should have rights because they do have souls.</p>
-
-
-	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	<a name="section_4"> </a>
-	<div class="promo">
-	
-  <h2 id="h4">Animals aren't 'moral'</h2>
-	
-  
-<p>Some of the arguments against animal rights centre on whether animals behave morally.</p>
-
-<h3>Rights are unique to human beings</h3>
-	
-
-<ul><li>rights only have meaning within a <a href="#h5">moral community</a></li>
-	<li>only human beings live in a moral community</li>
-	<li>adult mammals don't understand or practice living according to a moral code</li>
-	<li>the differences in the way human beings and adult mammals experience the world are morally relevant</li>
-	<li>therefore rights is a uniquely human concept and only applies to human beings</li>
-</ul><h3>Animals don't behave morally</h3>
-	
-<p>Some argue that since animals don't behave in a moral way they don't deserve moral treatment from other beings.</p>
-
-<p>Animals, it's argued, usually behave selfishly, and look after their own interests, while human beings will often help other people, even if doing so is to their own disadvantage.</p>
-
-<p>Not all scientists agree: Jane Goodall, an expert on chimpanzees has reported that they sometimes show truly altruistic behaviour.</p>
-
-<h3>Animals don't have rights against other animals</h3>
-	
-<p>Another reason for thinking that animals don't behave morally is that even the most enthusiastic supporters of animal rights only argue that animals have rights against human beings, not against other animals.</p>
-
-<p>For example, as Mary Warnock put it:</p>
-
-	
-	<div class="promo_quote_box_top">
-	<blockquote>
-	<p>
-	</p><p>May they [animals] be hunted? To this the answer is no, not by humans; but presumably their rights are not infringed if they are hunted by animals other than human beings.</p>
-	<p>And here the real difficulties start. If all animals had a right to freedom to live their lives without molestation, then someone would have to protect them from one another. But this is absurd...</p>
-	
-	<p><cite>M Warnock, An Intelligent Person's Guide to Ethics, 1998</cite></p>
-	</blockquote>
-	</div>
-	<div class="promo_quote_box_bottom"> </div>
-
-<p>Why this might be relevant to the question of whether animals should have rights becomes clearer if you rephrase it in terms of duties or obligations instead of rights and ask - why should human beings have obligations towards animals, if animals don't have obligations to other animals or to human beings?</p>
-
-
-	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	<a name="section_5"> </a>
-	<div class="promo">
-	
-  <h2 id="h5">Moral community</h2>
-	
-
-<p>This argument states that animals are not members of the 'moral community'.</p>
-
-<ul><li>A moral community is
-		<ul><li>a group of beings who live in relationship with each other and use and understand moral concepts and rules</li>
-		<li>the members of this community can respect each other as moral persons</li>
-		<li>the members of this community respect each other's autonomy</li>
-		</ul></li>
-	<li>human beings do display these characteristics and are therefore members of the 'moral community'</li>
-	<li>animals do not display these characteristics and are therefore not members of the 'moral community'
-		<ul><li>most people would agree with this: after all we don't regard a dog as having done something morally wrong when it bites someone - if the dog is put to death because of the bite, that is to protect people, not to punish the dog</li>
-		</ul></li>
-	<li>only members of a 'moral community' can have rights, therefore animals don't have rights</li>
-	<li>members of the 'moral community' are more 'valuable' than beings that are not members of the moral community</li>
-	<li>it is not wrong for valuable beings to 'use' less valuable beings</li>
-	<li>therefore it is not wrong for human beings to use animals</li>
-</ul><h3>Animals lack the capacity for free moral judgements</h3>
-	
-
-<ul><li>If an individual lacks the capacity for free moral judgment, then they do not have moral rights.</li>
-	<li>All non-human animals lack the capacity for free moral judgment.</li>
-	<li>Therefore, non-human animals do not have moral rights.</li>
-</ul><div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	<a name="section_6"> </a>
-	<div class="promo">
-	
-  <h2 id="h6">Fundamental rights</h2>
-	
-
-<p>Animal and human rights boil down to one fundamental right: the right to be treated with respect as an individual with inherent value.</p>
-
-<p>Philosophers have a traditional way of expressing this:</p>
-
-	
-	<div class="promo_quote_box_top">
-	<blockquote>
-	<p>Animals with rights must be treated as ends in themselves; they should not be treated by others as means to achieve their ends.</p>
-	</blockquote>
-	</div>
-	<div class="promo_quote_box_bottom"> </div>
-
-<p>From this fundamental right come other rights.</p>
-
-<p>Particular species only get relevant and useful rights - so animals don't get all the rights that human beings get. For example: animals don't want or get the right to vote.</p>
-
-<h3>When rights conflict</h3>
-	
-<p>Sometimes a particular situation results in a conflict of rights.</p>
-
-<p>Two methods can be used to determine the best course of action when there is no alternative to violating the rights of some individual or group:</p>
-
-<ul><li>The Miniride Principle: Where similar harms are involved, override the fewest individuals' rights.</li>
-	<li>The Worse-off Principle: Where dissimilar harms are involved, avoid harming the worse-off individual.</li>
-</ul><p>Harm is defined as the reduction of the capacity to have and fulfil desires.</p>
-
-<p>This definition of harm benefits people over animals because human beings have far more desires that they want to satisfy than do non-human animals.</p>
-
-<p>This resolves many of the traditional problems of humans versus animals in favour of humanity, because the human being under consideration would suffer far more harm than the non-human animal.</p>
-
-<p>But be careful: this method of choosing alternative courses of action is not utilitarian, it doesn't necessarily lead to choosing the course of action that produces the greatest overall happiness.</p>
-
-
-	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	<a name="section_7"> </a>
-	<div class="promo">
-	
-  <h2 id="h7">The problem of 'marginal people'</h2>
-	
-
-<span class="image_with_caption float_right" style="width: 140px;">
-	<img alt="Newborn baby girl" height="100" src="/staticarchive/68f492b3a60d34d8143c2786dde53489960bd9b0.jpg" width="140"></span>
-	
-
-<p>The phrase 'marginal people' or 'marginal human beings' is unpleasant. We use it here only because if you read the literature of animal rights you will encounter it often, and it's important to know what it means. We do not intend to denigrate the status or worth of any human being by using it here...</p>
-
-<p>The problem with the line of thought in the section above that it takes rights away from many human beings as well as from non-human animals.</p>
-
-<p>This is because some human beings (babies, senile people, people with some severe mental defects and people in a coma) don't have the capacity for free moral judgement either, and by this argument they wouldn't have any rights.</p>
-
-<p>Some philosophers are prepared to argue that in fact such 'marginal human beings' don't have rights, but most people find that conclusion repellent.</p>
-
-<p>The argument can be rescued by rewriting it like this:</p>
-
-<ul><li>If an individual is a member of a species that lacks the capacity for free moral judgment, then he or she does not have moral rights.</li>
-	<li>All non-human animal species lack the capacity for free moral judgment.</li>
-	<li>Therefore, non-human animals do not have moral rights.</li>
-</ul><p>But this is not an argument; it's a statement that human beings have rights and non-human animals don't, which is pure <a href="/ethics/animals/rights/speciesism.shtml">speciesism</a>, and hardly persuasive.</p>
-
-<p>It's also vulnerable to the (probably unlikely) arrival of a species of extra-terrestrial creatures who demonstrate the capacity for free moral judgement.</p>
-
-
-	<div class="article_end"><a href="#top" title="go to the top"><span class="top_anchor">Top</span></a></div>
-	</div>
-	</div>
-	<div class="content_bottom"> </div>
-		
-	
-
-	</div>
-		
-	</div><!--closes Row - single column -->
-		
-	</div><!-- End: main content area -->
-			<!--START RHN CONTAINER -->
-		<div id="prg-wrapper-extra">
-			<div class="product_button">
-				<!--ETHICS HOMEPAGE BUTTON-->
-				
-				
-				
-				
-				
-				<!-- MORE ETHICS BUTTON -->
-				
-				
-				
-
-				<!-- abortion -->
-				
-				
-				<!-- animals -->
-				
-					<h2>
-						<span class="arrow">«</span>
-						<a href="/ethics/animals/" title="More animals">More on <span>Animals</span></a>
-					</h2>
-				
-				
-				<!-- capitalpunishment -->
-				
-				
-				<!-- charity -->
-				
-				
-				<!-- contraception -->
-				
-				
-				<!-- euthanasia -->
-				
-				
-				<!-- femalecircumcision -->
-				
-				
-				<!-- forcedmarriage -->
-				
-				
-				<!-- honourcrimes -->
-				
-				
-				<!-- introduction -->
-				
-				
-				<!-- lying -->
-				
-				
-				<!-- malecircumcision -->
-				
-				
-				<!-- slavery -->
-				
-				
-				<!-- sport -->
-				
-				
-				<!-- torture -->
-				
-				
-				<!-- war -->
-				
-				
-				
-				
-			</div>	
-				
-			<!-- New row: -->
-			<div class="p-grp">		
-				<div class="p-mod">
-				
-				
-					<!-- new promo module -->
-					<div class="promo">
-						<div class="rhn_header"><h2>See also</h2></div>
-						<div class="rhn_body">
-							<ul><li><a href="/religion/" title="Go to the Religion and Ethics homepage">Religion and Ethics home</a></li>
-								<li><a href="/religion/religions/" title="Go to Religions">Religions</a></li>
-							</ul></div>
-						<div class="module_footer"></div>
-					</div>
-					
-					
-					
-						<div class="promo">
-	<div class="rhn_header"><h2>Around the BBC</h2></div>
-	<div class="rhn_body">
-	<ul><li><a href="/nature/kingdom/Animal">BBC Wildlife Finder - Animals</a></li>
-	<li><a href="http://news.bbc.co.uk/1/hi/sci/tech/default.stm">BBC News - Science and Environment</a></li>
-	</ul></div>
-	<div class="module_footer"> </div>
-	</div>
-		
-	
-					
-					
-					
-				</div>	
-			</div>
-			
-			<div class="clear_both"></div>
-		<!--END RHN CONTAINER-->
-		</div></div>
-	</div>
-		
-	               </div>   <div id="blq-mast" class="blq-rst blq-default-domestic blq-new-nav" lang="en-GB"> <div id="blq-sign-in">   <div id="id-status" class="blq-id-v4"> <div class="id-out id-gel"> <h2 class="blq-hide">BBC iD</h2> <a href="https://ssl.bbc.co.uk/id/status" id="blq-idstatus-link"> <span class="id-icon"> <span></span> </span> <span id="blq-idstatus-text"> BBC iD </span> <span class="id-spinner"></span> <span class="blq-dropdown-arrow"> <span></span> </span> </a> </div> <div id="id-status-nav"> <div class="id-in blq-rst"> <ul><li> <a name="idDash" class="blq-nogo has-ptrt idDash" href="https://ssl.bbc.co.uk/id/settings"> Settings </a> </li> <li> <a name="idSignout" class="blq-nogo has-ptrt idSignout" href="https://ssl.bbc.co.uk/id/signout"> Sign out </a> </li> </ul></div> </div> </div>          </div>  <form method="get" id="blq-search-form" action="http://search.bbc.co.uk/search" accept-charset="utf-8"> <p id="blq-nav-search">  <input type="hidden" name="go" value="toolbar"><input type="hidden" name="uri" value="/ethics/animals/rights/rights_1.shtml"><label for="blq-search" class="blq-hide">Search term:</label> <input id="blq-search" type="text" name="q" value="" maxlength="128"><input id="blq-search-btn" type="submit" value="Search"></p> </form>   <h2 class="blq-hide">BBC navigation</h2> <ul id="blq-nav-main" class="blq-not-uk"><li id="blq-nav-n"><a href="http://www.bbc.co.uk/news/" hreflang="en-GB">News</a></li>  <li id="blq-nav-s"><a href="http://www.bbc.co.uk/sport/" hreflang="en-GB">Sport</a></li> <li id="blq-nav-w"><a href="http://www.bbc.co.uk/weather/" hreflang="en-GB">Weather</a></li>  <li id="blq-nav-i">  <a href="/iplayer/" hreflang="en-GB">iPlayer</a>  </li>  <li id="blq-nav-t"><a href="/tv/" hreflang="en-GB">TV</a></li>  <li id="blq-nav-r"><a href="/radio/" hreflang="en-GB">Radio</a></li> <li id="blq-nav-m"><a href="#blq-nav">More…</a></li>  </ul></div>  <div id="blq-nav" class="blq-blue"> <div id="blq-nav-links" class="blq-clearfix" lang="en-GB"> <div id="blq-nav-links-inner">  <ul class="blq-nav-sub blq-first"><li><a href="/cbbc/">CBBC</a></li> <li><a href="/cbeebies/">CBeebies</a></li> <li><a href="/comedy/">Comedy</a></li> <li><a href="/food/">Food</a></li> <li><a href="/history/">History</a></li> </ul><ul class="blq-nav-sub"><li><a href="/learning/">Learning</a></li> <li><a href="/music/">Music</a></li> <li><a href="/science/">Science</a></li> <li><a href="http://www.bbc.com/earth/">Earth</a></li> <li><a href="/local/">Local</a></li> </ul><ul class="blq-nav-sub blq-last"><li><a href="/northernireland/">Northern Ireland</a></li> <li><a href="/scotland/">Scotland</a></li> <li><a href="/wales/">Wales</a></li> <li id="blq-az"><a href="/a-z/">Full A-Z<span class="blq-hide"> of BBC sites</span></a></li> </ul></div> </div> </div>  <!--[if IE 6]> <div id="blq-ie6-upgrade"> <p> <span>You're using the Internet Explorer 6 browser to view the BBC website. Our site will work much better if you change to a more modern browser. It's free, quick and easy.</span> <a href="http://www.browserchoice.eu/">Find out more <span>about upgrading your browser</span> here&hellip;</a> </p> </div> <![endif]-->  <div id="blq-foot" lang="en-GB" class="blq-rst blq-clearfix blq-foot-grey">  <div id="blq-footlinks"> <h2 class="blq-hide">BBC links</h2> <ul><li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="http://m.bbc.co.uk/">Mobile site</a></li>      <li><a href="/terms/">Terms of Use</a></li>       <li><a href="/aboutthebbc/">About the BBC</a></li>  </ul></li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="/privacy/">Privacy</a></li>       <li><a href="/accessibility/">Accessibility Help</a></li>  </ul></li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="/privacy/cookies/about">Cookies</a></li>        <li><a href="/contact/">Contact the BBC</a></li>   </ul></li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"><li><a href="/guidance/">Parental Guidance</a></li>  </ul></li>  </ul></div>   <div id="blq-foot-blocks" class="blq-footer-image-light"><img src="/staticarchive/a8e42f8fe987b7cc9bf2d43b74b2c74b2448d2e3.png" width="84" height="24" alt="BBC"></div> <p id="blq-disclaim"><span id="blq-copy">BBC © 2014</span> <a href="/help/web/links/">The BBC is not responsible for the content of external sites. Read more.</a></p> <div id="blq-obit"><p><strong>This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.</strong></p></div> </div> </div>  </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script><!-- progs scripts --><script type="text/javascript" src="/staticarchive/7e06d56c105e40ac2586df1fdee6dc2c4de3522b.js"></script><script type="text/javascript" src="/staticarchive/9db0e83f69a5e9abafddc192847b0cfd316cb3da.js"></script><script type="text/javascript" src="/staticarchive/c22b3ff9cd32a6a8c384665fef98785674d88408.js"></script><script type="text/javascript" src="/staticarchive/290c74c7c0fce7cf3c54f4747d56712839f0da48.js"></script><script type="text/javascript" src="/staticarchive/159117ef9f66736fed7c12cf0096784ffa74c3d5.js"></script><div id="vision-prod-livestats-bug">
-	<!-- LiveStats -->
-<div class="blq-hide"><img id="livestats" width="1" height="1" alt="" src="/staticarchive/56d45f8a17f5078a20af9962c992ca4678450765.gif"></div>
-
-<!-- LiveStats heatmap -->
-<script src="/staticarchive/e48c065d50111cc7095426d5ae5646c41b799914.js" type="text/javascript"></script></div>
-
-	</body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"114b3a1f69","agent":"","beacon":"bam.nr-data.net","applicationTime":210,"applicationID":"28918442","transactionName":"NFVSbRBSCxFYAUBeWA0fYlwTRgARTSNAQ0UKUkVNBxwLB04RG1RYDkBfVwddEREWElVQUhdJQFwRHBYWVhBNGFYRRFlaDlY=","queueTime":0}</script>
+</html>

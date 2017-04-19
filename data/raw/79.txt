@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://new-compass.net/sites/new-compass.net/themes/compasssky/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>The State of Oaxaca | New Compass</title>
+  <meta name="google-site-verification" content="W03kC61ihoC9fwSCRMMN_9boZSrCnpktqPKBGR22_g8" />
+  <style type="text/css" media="all">
+@import url("http://new-compass.net/modules/system/system.base.css?o6jil2");
+</style>
+<style type="text/css" media="all">
+@import url("http://new-compass.net/sites/all/modules/date/date_api/date.css?o6jil2");
+@import url("http://new-compass.net/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?o6jil2");
+@import url("http://new-compass.net/modules/field/theme/field.css?o6jil2");
+@import url("http://new-compass.net/sites/all/themes/sky/css/search.css?o6jil2");
+@import url("http://new-compass.net/sites/all/themes/sky/css/user.css?o6jil2");
+@import url("http://new-compass.net/sites/all/modules/views/css/views.css?o6jil2");
+</style>
+<style type="text/css" media="all">
+@import url("http://new-compass.net/sites/all/modules/ctools/css/ctools.css?o6jil2");
+@import url("http://new-compass.net/sites/all/modules/panels/css/panels.css?o6jil2");
+@import url("http://new-compass.net/sites/all/modules/panels/plugins/layouts/onecol/onecol.css?o6jil2");
+@import url("http://new-compass.net/sites/all/modules/compact_forms/compact_forms.css?o6jil2");
+</style>
+<style type="text/css" media="all">
+@import url("http://new-compass.net/sites/new-compass.net/themes/compasssky/css/layout.css?o6jil2");
+@import url("http://new-compass.net/sites/new-compass.net/themes/compasssky/css/style.css?o6jil2");
+@import url("http://new-compass.net/sites/new-compass.net/themes/compasssky/css/forms.css?o6jil2");
+@import url("http://new-compass.net/sites/new-compass.net/themes/compasssky/css/colors.css?o6jil2");
+@import url("http://new-compass.net/sites/new-compass.net/themes/compasssky/css/text.css?o6jil2");
+</style>
+<style type="text/css" media="print">
+@import url("http://new-compass.net/sites/all/themes/sky/css/print.css?o6jil2");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://new-compass.net/sites/new-compass.net/themes/compasssky/css/ie.css?o6jil2" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://new-compass.net/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://new-compass.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://new-compass.net/misc/drupal.js?o6jil2"></script>
+<script type="text/javascript" src="http://new-compass.net/sites/all/modules/admin_menu/admin_devel/admin_devel.js?o6jil2"></script>
+<script type="text/javascript" src="http://new-compass.net/sites/all/modules/compact_forms/compact_forms.js?o6jil2"></script>
+<script type="text/javascript" src="http://new-compass.net/sites/all/modules/google_analytics/googleanalytics.js?o6jil2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-799438-27", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://new-compass.net/sites/all/themes/sky/js/scripts.js?o6jil2"></script>
+<script type="text/javascript" src="http://new-compass.net/sites/new-compass.net/themes/compasssky/statescope.js?o6jil2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"compasssky","theme_token":"XSrlhiOn1Aqff2MUkhX1PVZkH0fxcsX3xCQhg0d8ZjM","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/compact_forms\/compact_forms.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/sky\/js\/scripts.js":1,"sites\/new-compass.net\/themes\/compasssky\/statescope.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/compact_forms\/compact_forms.css":1,"sites\/new-compass.net\/themes\/compasssky\/css\/layout.css":1,"sites\/new-compass.net\/themes\/compasssky\/css\/style.css":1,"sites\/new-compass.net\/themes\/compasssky\/css\/forms.css":1,"sites\/new-compass.net\/themes\/compasssky\/css\/colors.css":1,"sites\/new-compass.net\/themes\/compasssky\/css\/text.css":1,"sites\/all\/themes\/sky\/css\/print.css":1,"sites\/new-compass.net\/themes\/compasssky\/css\/ie.css":1}},"compactForms":{"forms":["user-login-form","user-login","search-block-form"],"stars":2},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-216 node-type-article" >
+  <div id="bg2">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="container" class="container-16">
+  <header id="header" class="section section-header clearfix" role="banner">
+          <hgroup class="grid-10">
+                  <h1 class="site-name"><a title="Home" rel="home" href="/">New Compass</a></h1>
+                              </hgroup>
+              <div class="region region-navigation grid-16 alpha omega">
+    <div id="block-system-main-menu" class="block block-system block-menu first">
+  <div class="inner">
+              <h2 class="title block-title element-invisible">Main menu</h2>
+            <div class="content">
+      <ul class="menu"><li class="first collapsed"><a href="/about">About</a></li>
+<li class="leaf"><a href="/articles">Articles</a></li>
+<li class="leaf"><a href="/publications" title="">Books</a></li>
+<li class="last leaf"><a href="/contributors" title="">Contributors</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+  </header>
+    <div id="main" class="section section-main clearfix" role="main">
+    <div id="content" class="column grid-12 ">
+      <div class="inner">
+                          <h1 class="title" id="page-title">The State of Oaxaca</h1>
+                                    <div id="main-content" class="clearfix">
+          <div class="region region-content">
+    <div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-entity-field pane-node-field-author-node"  >
+  
+        <h2 class="pane-title">
+      By     </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-author-node field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/contributors/lisa-roth">Lisa Roth</a></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-created"  >
+  
+      
+  
+  <div class="pane-content">
+    01.05.2011  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-article-frontpageimage floatright"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-article-frontpageimage field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://new-compass.net/sites/new-compass.net/files/styles/inlineimage220/public/Oaxaca-teacher-protester_0.jpg?itok=ifr0ZFrK" width="220" height="165" alt="Teacher prepared for a protest in Oaxaca, Mexico." /></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="leadparagraph">Oaxaca lies like an oasis in between towering mountains in southern Mexico. Tourists flock to this picturesque colonial city for its beautiful handicrafts and exquisite traditional cousin. Oaxaca is also a place ripe with social conflicts. The indigenous population faces discrimination, women are treated as inferior and social movements are criminalized.</p>
+<p>For 80 years, the PRI (The Institutional Revolutionary Party) had ruled the state of Oaxaca almost like a dictatorship, without regard for civil rights, and it became one of the poorest states in Mexico. For a few months in 2006, however, Oaxaca was a “free” society where the Asamblea Popular de los Pueblos de Oaxaca (APPO) – in English, Popular Assembly of the Peoples of Oaxaca – became the de facto government despite the PRI officially holding power.</p>
+<h3>A “Free” Society</h3>
+<p>It all started with the teachers from Oaxaca’s section 22 of the National Union of Education Workers. Since 1986 they had been going out on strike annually. In 2006 their demands included school uniforms and shoes for all students, an increase in scholarships and budget allocations for school buildings and equipment. The police reacted with brutal force, removing the teachers from the main square of the city of Oaxaca.</p>
+<p>After years of dissatisfaction with an authoritarian regime that prevented citizens from participation in the development of society, the incident triggered a popular movement that demanded structural change. The Popular Assembly of the Peoples of Oaxaca (APPO) became the key organizational vehicle. The initial aim of APPO was to develop cooperative relationships at all levels of society – from the grassroots level and up to the State government – to achieve positive change. Efforts toward this aim were thwarted by further repression. APPO meanwhile decided to fight the agencies that prevented democracy and encroached on basic human rights. Its first demand was the removal of governor Ulises Ruiz Ortiz, and in the months that followed, Oaxaca was turned into a city of resistance. Few tourists came to visit, and 300.000-500.000 people gathered weekly for “mega marches.”</p>
+<p>APPO was an example of how a resistance movement could develop an alternative to political parties and state power. For months, Oaxaca was a “free” society. Despite the State government officially holding power, APPO became the de facto government representing grassroots organization, indigenous communities and individuals wanting to create a new Oaxaca. At every level of society – from neighborhoods and street blocks, unions and towns – people could assemble and discuss how to improve the situation of the people. Even the police disappeared from the streets of the city, as described in an account by <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8330.2010.00784.x/full" target="_blank">Gustavo Estavo</a>:</p>
+<blockquote>
+<p>"From June to October 2006, there were no police in the city of Oaxaca (population 600,000), not even to direct traffic. The governor and his functionaries met secretly in hotels or private homes; none of them dared to show up at their offices. The Popular Assembly of the Peoples of Oaxaca (APPO) had posted 24-hour guards in all the public buildings and radio and TV stations that it controlled. When the governor began sending out his goons to launch nocturnal guerrilla attacks against these guards, the people responded by putting up barricades. More than a thousand barricades were put up every night at 11 pm, around the encampments or at critical intersections. They would be taken down every morning at 6 am to restore normal traffic. Despite the attacks, there was less violence in those months (fewer assaults, deaths and injuries or traffic accidents) than in any similar period in the previous 10 years. Unionized workers belonging to APPO performed basic services like garbage collection.”</p>
+</blockquote>
+<h3>Federal Repression</h3>
+<p>Meanwhile security forces continuously threatened prominent activists. When activist and U.S citizen Brad Will was killed while filming clashes between APPO and civilian police on October 27 2006, international media began reporting on the conflict in Oaxaca. President Vicente Fox quickly sent in federal forces, and federal police to besiege Oaxaca. The mega-marches in the streets of the state capitol turned into street fights continuing through November. One of the marches ended in an especially hard street fight in which several hundred activists were detained. Many from Oaxaca fled to other states to avoid detention.</p>
+<p>The Federal police remained until January 2007. During this period the strong unity and widespread participation of the people in the effort to create a more democratic Oaxaca gave way to fear of arrests and persecution. This was a hard blow for APPO, whose leader, Flavio Sosa, was arrested on his way to a dialogue meeting in Mexico City on December 4, 2007. His 16 month imprisonment attested the criminalization of social protest in Mexico.</p>
+<h3>“APPO lives in each and every one of us”</h3>
+<p>2006 was a year for brutal repression of social conflicts throughout Mexico, with activists being detained in the states of Atenco and Chiapas in addition to Oaxaca. People in other parts of Mexico identified with the struggle in Oaxaca, and the slogan “We are all APPO” was chanted in protests throughout the country. APPO was seen as a unique example of how it is possible to unify groups and individuals for a common goal, despite a diversity of convictions and methods. When I stayed in Oaxaca in 2010, I met one of my friends who recently returned to her hometown in Oaxaca after fleeing the country in 2006. She told me that the underlying organization of APPO has lost strength but that “APPO still lives in each and every one of us. It is up to us to achieve the change we want to see ourselves. We still cooperate with some organizations, but not on the same scale as in 2006.”</p>
+<p>A commentary in the newspaper La Jornada stated that “APPO is not defeated, nor has it ceased to exist. The opposite has happened; APPO has significantly changed the consciousness of the people of Oaxaca and developed new methods of organization.” These new methods include small assemblies at all levels of society where a particular problem can be raised and representatives from APPO or other organizations can be engaged in a dialogue to find a solution to it. Implicit in this type of organization is a gradual change of the socio-political structures in the state of Oaxaca. The election of a new governor in July 2010 showed that the people desire change, when they for the first time in 80 years elected an alternative to the PRI.</p>
+<p>Since APPO was founded, the PRI has posed the biggest threat to the movement’s existence. The fear of arrest, harassment or physical attacks remains an everyday fear of activists in Oaxaca, even though the street fights have subsided. The fragmentation of organizations and individuals has led to less powerful APPO, but its continued existence remains important as a symbol of the possibility of a new society where direct democracy plays an important part and the citizens have a say in the society’s development.</p>
+<h3>Governor Gabino Cue and Justice</h3>
+<p>Along with the election of the new governor Gabino Cue in 2010, hope came to Oaxaca. Gabino Cue was the first non-PRI governor elected in eight decades in Oaxaca. The vote itself was not really in support of Cue, but was a protest against the PRI. In order to challenge the PRI’s electoral hegemony, the PRD (Revolutionary Democratic Party) had to make an alliance with the PAN (National Action Party), Convergencia and the PT (Workers Party). This coalition was called “ For peace and progress,” and was quite strange in Mexican political life since the PRD assumedly is a left wing party and the PAN is a right wing party (note: There is no clear left wing party in Mexico). The coalition seemed absurd, but anything was better than the PRI for the Oaxaca people.</p>
+<p>Many hoped for justice and for incarcerating the ex-governor, Ulises Ruiz Ortiz, who is to blame for the 2006 riots and the several disappearances and killings in Oaxaca in recent years. In October 2009, the ex-governor was found guilty in the Supreme Court of Justice for human rights violations committed in 2006, but the ruling was merely a resolution and not a prosecution for these violations. The ruling did not impose any legal sanctions and Ulises can still walk around as a free man. The Mexican system of justice is failing the people in Oaxaca, because pronouncing blame means nothing if the ex-governor cannot be prosecuted.</p>
+<p>The ex-governor is also suspected of stealing millions of dollars from the budgets of various departments in the State administration. The government of Cue has found many irregularities in which money was mysteriously “disappeared” during the period of Ulises’ rule. An investigation of the role of the ex-governor in these matters is currently taking place in Oaxaca.</p>
+<p>The fact that Ulises Ruiz Ortiz has not yet been brought to trial for the riots in 2006 leaves the people of Oaxaca still demanding justice to this day. The president of the country has ignored this injustice, so when he visited Oaxaca on the February 16, 2011, teachers clashed with the police once again after a demonstration in the colonial streets of Oaxaca. When asked about the ex-governor, one of my friends said that impunity is unacceptable even though it is common in Mexico. He does not believe justice will prevail with governor Cue or other politicians in power. The system is too corrupt and impunity rules.</p>
+<p>The investigations against the ex-governor continue, and Oaxaca is continuing the struggle for peace in the region. In recent years, struggles over land have developed into serious conflicts in many regions in Oaxaca. The most current known conflict is San Juan Copala where there seems to be no hope for a solution.</p>
+<p>The impunity of the killings committed against activists in 2006 and in 2010 (27th of April) against activists<a href="/articles/jyri-jaakkola-presente" target="_blank"> Jyri Jaakkola and Betty Cariño</a>, and the leader of MULT-I (The independent movement for the Triqui Liberation Movement), Timoteo Alejandro Ramirez and his wife (20th of May) is an open wound in the Oaxaca society. Who will be brought to justice for all these atrocities? This question remains to be answered. Either the governor will address this legacy of atrocities soon, or Oaxaca will rise up once again.</p>
+<p> </p></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-editorialcomment"  >
+  
+        <h2 class="pane-title">
+      Editorial Comment    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-editorialcomment field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>See Lisa Roth’s pictures from Oaxaca, Mexico on <a href="http://www.flickr.com/photos/lisaxochitl/sets/72157626467400827/" target="_blank">Flickr</a>.</p></div></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+<div id="block-block-2" class="block block-block first">
+  <div class="inner">
+                <div class="content">
+      <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=188859594467302";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-comments" data-href="http://new-compass.net/node/216" data-width="600" data-num-posts="10"></div>    </div>
+  </div>
+</div>
+  </div>
+      </div>
+          </div>
+    </div>
+              <div id="sidebar-second" class="sidebar grid-4">
+          <div class="region region-sidebar-second">
+    <div id="block-apachesolr-search-mlt-001" class="block block-apachesolr-search first">
+  <div class="inner">
+              <h2 class="title block-title">Related</h2>
+            <div class="content">
+      <div class="item-list"><ul><li class="first"><a href="/articles/jyri-jaakkola-presente">Jyri Jaakkola, presente!</a></li>
+<li><a href="/articles/we-will-never-forget-atenco-sr-presidente">We will never forget Atenco, Sr. Presidente! </a></li>
+<li><a href="/articles/43-students-demand-change">The 43 Students Demand Change</a></li>
+<li><a href="/articles/weve-had-it-here">We&#039;ve had it up to here!</a></li>
+<li class="last"><a href="/articles/past-present-and-future-wisconsin-politics">The Past, Present, and Future of Wisconsin Politics</a></li>
+</ul></div>    </div>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+  <div class="inner">
+                <div class="content">
+      <form action="/articles/state-oaxaca-0" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-lP8F3k3eqk4o4du1oBaIWQDQmS-LJoa1yHGOfS80Fz4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>
+<div id="block-block-3" class="block block-block">
+  <div class="inner">
+                <div class="content">
+      <script type="text/javascript">
+// <![CDATA[
+      var addthis_config = {
+      ui_cobrand: "New Compass",
+      }
+// ]]>
+</script>	
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_facebook" title="Share on Facebook"></a>
+<a class="addthis_button_twitter" title="Share on Twitter"></a> 
+<a class="addthis_button_email" title="Send as email"></a> 
+<a class="addthis_button_rss_follow" addthis:url="http://new-compass.net/feed"></a>
+<a class="addthis_button_print" title="Print"></a> 
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=newcompass"></script>
+<!-- AddThis Button END -->    </div>
+  </div>
+</div>
+<div id="block-block-10" class="block block-block">
+  <div class="inner">
+                <div class="content">
+      <p><iframe style="border: none; overflow: hidden; width: 220px; height: 280px;" src="http://www.facebook.com/plugins/likebox.php?id=109219819152361&amp;width=220&amp;connections=6&amp;stream=false&amp;header=false&amp;height=280" frameborder="0" scrolling="no"></iframe></p>    </div>
+  </div>
+</div>
+<div id="block-block-6" class="block block-block">
+  <div class="inner">
+              <h2 class="title block-title">Support Us</h2>
+            <div class="content">
+      <p>We are depending on volunteers and contributions. You can help.</p><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"> <input name="cmd" type="hidden" value="_s-xclick"> <input name="hosted_button_id" type="hidden" value="HSF4SDVPXB8XW"> <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="http://new-compass.net/sites/new-compass.net/themes/compasssky/images/btn-donate.png" type="image"> <img src="https://www.paypal.com/en_US/i/scr/pixel.gif" border="0" alt="" width="1" height="1"> </form> <p>&nbsp;</p>    </div>
+  </div>
+</div>
+<div id="block-views-quote-block-1" class="block block-views">
+  <div class="inner">
+                <div class="content">
+      <div class="view view-quote view-id-quote view-display-id-block_1 view-dom-id-9985f31fbf60a658a2a4eaa198c8a20b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-entity-id">        <div class="field-content"><p>Society gets all the criminals it deserves</p></div>  </div>  
+  <div class="views-field views-field-entity-id-1">        <div class="field-content">Emma Goldman</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+  </div>
+      </div>
+      </div>
+  <!-- <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div> -->
+  <footer id="footer" class="section section-footer clearfix" role="footer">
+      <div class="region region-footer">
+    <div id="block-block-4" class="block block-block first">
+  <div class="inner">
+                <div class="content">
+      <p><strong>New Compass</strong>, Grenmarsvegen 12, 3912 Porsgrunn, Norway | <a href="mailto:general@new-compass.net">general@new-compass.net</a> | Bank account: International: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=donations@new-compass.net&amp;item_name=Donation">PayPal</a>, Norway: 0540.160.3087 | <a href="/feed">RSS</a><br />Development and design: <a href="http://www.pixelsyndikatet.no" target="_blank">Pixelsyndikatet</a></p>    </div>
+  </div>
+</div>
+  </div>
+    <!--  -->
+  </footer>
+</div>
+    <div id="bottombg"></div>
+  </div>
+</body>
+</html>

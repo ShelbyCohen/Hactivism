@@ -1,0 +1,524 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr"  data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"gjc"}'>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="http://globaljusticecenter.net/about-us/team/our-staff" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Our Staff - Global Justice Center</title>
+  <link href="/about-us/team/our-staff" rel="canonical" />
+  <link href="http://globaljusticecenter.net/component/search/?Itemid=213&amp;format=opensearch" rel="search" title="Search Global Justice Center" type="application/opensearchdescription+xml" />
+  <link href="/templates/yoo_eat/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/index.php?option=com_ajax&plugin=arkbootstrap&format=json" type="text/css" />
+  <link rel="stylesheet" href="/index.php?option=com_ajax&plugin=arktypography&format=json" type="text/css" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-23a49cef.css" type="text/css" />
+  <link rel="stylesheet" href="http://globaljusticecenter.net/media/editors/arkeditor/css/squeezebox.css" type="text/css" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-048715d8.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://globaljusticecenter.net/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
+  <script src="http://globaljusticecenter.net/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+(function()
+				{
+					if(typeof jQuery == 'undefined')
+						return;
+					
+					jQuery(function($)
+					{
+						if($.fn.squeezeBox)
+						{
+							$( 'a.modal' ).squeezeBox({ parse: 'rel' });
+				
+							$( 'img.modal' ).each( function( i, el )
+							{
+								$(el).squeezeBox({
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							})
+						}
+						else if(typeof(SqueezeBox) !== 'undefined')
+						{
+							$( 'img.modal' ).each( function( i, el )
+							{
+								SqueezeBox.assign( el, 
+								{
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							});
+						}
+						
+						function jModalClose() 
+						{
+							if(typeof(SqueezeBox) == 'object')
+								SqueezeBox.close();
+							else
+								ARK.squeezeBox.close();
+						}
+					
+					});
+				})();
+  </script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_eat/apple_touch_icon.png">
+<link rel="stylesheet" href="/templates/yoo_eat/styles/gjc/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/yoo_eat/styles/gjc/css/theme.css">
+<link rel="stylesheet" href="/templates/yoo_eat/styles/gjc/css/custom.css">
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/uikit.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/components/autocomplete.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/components/search.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/components/sticky.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/components/tooltip.js"></script>
+<script src="/templates/yoo_eat/warp/js/social.js"></script>
+<script src="/templates/yoo_eat/js/theme.js"></script>
+</head>
+
+<body class="tm-isblog">
+
+    
+	
+	<div class="tm-headerbar uk-clearfix uk-hidden-small">
+
+		<div class="uk-container uk-container-center">
+
+						<a class="tm-logo" href="http://globaljusticecenter.net">
+	<p><img src="/images/gjc/logo.png" alt="logo" width="301" height="84" /></p></a>
+			
+			<div class="uk-panel">
+	<div class="uk-text-right uk-margin-top">
+  <p class="uk-margin-bottom-remove"><a class="uk-button uk-button-danger" href="https://donatenow.networkforgood.org/1432512">Donate today</a></p>
+</div>
+</div>
+		</div>
+	</div>
+	
+		<div class="tm-top-block tm-grid-block">
+
+					<nav class="tm-navbar uk-navbar" data-uk-sticky>
+
+				<div class="uk-container uk-container-center">
+
+										<div class="uk-navbar-flip uk-visible-large">
+						<div class="uk-navbar-content">
+<form id="search-40-58f66e595f308" class="uk-search" action="/about-us/team/our-staff" method="post" data-uk-search="{'source': '/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found', flipDropdown: 1}">
+	<input class="uk-search-field" type="text" name="searchword" placeholder="search...">
+	<input type="hidden" name="task"   value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="107">
+</form>
+</div>
+					</div>
+					
+											<ul class="uk-navbar-nav uk-hidden-small"><li><a href="/">Home</a></li><li class="uk-parent uk-active" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/about-us">About Us</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/about-us/mission">Mission</a></li><li class="uk-parent uk-active uk-nav-header">Team
+<ul class="uk-nav-sub"><li class="uk-active"><a href="/about-us/team/our-staff">Our Staff</a></li><li><a href="/about-us/team/our-board">Our Board</a></li></ul></li><li><a href="/about-us/partners">Partners</a></li><li><a href="/about-us/employment">Employment</a></li><li><a href="/about-us/our-logo">Our Logo</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/our-work">Our Work</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-2"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-2"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/our-work/our-issues">Our Issues</a><ul class="uk-nav-sub"><li><a href="/our-work/our-issues/abortion-access-in-conflict">Abortion Access in Conflict</a></li><li><a href="/our-work/our-issues/gender-and-genocide">Gender and Genocide</a></li><li><a href="/our-work/our-issues/rape-as-a-weapon-of-war">Rape as a Weapon of War</a></li><li><a href="/our-work/our-issues/burma-a-case-study">Burma: A Case Study</a></li></ul></li></ul></div><div class="uk-width-1-2"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/our-work/how-we-work">How We Work</a><ul class="uk-nav-sub"><li><a href="/our-work/how-we-work/what-resistance-looks-like">What Resistance Looks Like</a></li><li><a href="/our-work/how-we-work/using-cedaw">Using CEDAW</a></li></ul></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/publications">Publications</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/publications/advocacy-resources">Advocacy Resources</a></li><li><a href="/publications/articles">Articles</a></li><li><a href="/publications/briefs-and-white-papers">Briefs and White Papers</a></li><li><a href="/publications/fact-sheets">Fact Sheets</a></li><li><a href="/publications/q-a-s">Q&amp;A's</a></li><li><a href="/publications/legal-tools">Legal Tools</a></li><li><a href="/publications/letters">Letters</a></li><li><a href="/publications/un-submissions">UN Submissions</a></li><li><a href="/publications/videos">Videos</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/press-center">Press Center</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/press-center/gjc-in-the-news">GJC in the News</a></li><li><a href="/press-center/press-releases">Press Releases</a></li><li><a href="/press-center/events">Events</a></li><li><a href="/press-center/join-our-mailing-list">Join Our Mailing List</a></li></ul></div></div></div></li><li><a href="/blog">Blog</a></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="https://donatenow.networkforgood.org/1432512">Donate</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/donate/michael-sandler-fund">Michael Sandler Fund</a></li><li><a href="/donate/our-financials">Our Financials</a></li><li><a href="/donate/ways-to-give">Ways to Give</a></li></ul></div></div></div></li></ul>					
+										<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+					
+										<div class="uk-navbar-content uk-navbar-center uk-visible-small"><a class="tm-logo-small" href="http://globaljusticecenter.net">
+	<img class="uk-responsive-height" src="/images/gjc/logo_small.png" alt="logo" /></a></div>
+					
+				</div>
+
+		</nav>
+		
+	</div>
+	
+		<div id="tm-fullscreen" class="tm-fullscreen  uk-hidden-small uk-hidden-medium uk-hidden-large">
+			</div>
+	
+	<div class="tm-page">
+
+		
+		
+		
+		
+					<div class="tm-block tm-block-light">
+
+				<div class="uk-container uk-container-center">
+
+					<div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
+
+												<div class="tm-main uk-width-medium-1-1">
+
+							
+														<main class="tm-content">
+
+								
+								<div id="system-message-container">
+</div>
+<article class="uk-article" >
+
+	
+		<h1 class="uk-article-title ">
+					Our Staff			</h1>
+	
+	
+	
+	
+	
+	<div class="tm-article-content">
+		
+<div class="uk-grid">
+<div class="uk-width-medium-4-5 uk-push-1-10">
+<div class="uk-grid">
+<div class="uk-width-small-1-3"><img alt="Janet Benshoof, Esq." class="uk-margin-bottom" src="/images/janet.jpg" title="Janet Benshoof, Esq." width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Janet Benshoof, Esq.</h3>
+
+<h5 class="uk-margin-top-remove">President and Founder</h5>
+
+<p>Janet Benshoof is internationally recognized for her human rights and constitutional law expertise. She established landmark legal precedents in the U.S. Supreme Court and international forums. Ms. Benshoof spearheaded several successful legal efforts from the approval of emergency contraception for women by the FDA, to the application of international rape law to ensure the rights of women in the Iraq High Tribunal prosecutions of Saddam-era war crimes. She lectures and trains women leaders, judges, parliamentarians, and various UN bodies on implementing international human rights laws, such as CEDAW, and international humanitarian law, including women's rights to criminal accountability under Security Council Resolutions and by the International Criminal Court.</p>
+
+<p>Ms. Benshoof is the recipient of numerous awards and honors including the National Law Journal as one of the "100 Most Influential Lawyers in America," the prestigious MacArthur Foundation "Genius Award" in recognition of her legal work, the Gloria Steinem Women of Vision Award, the Edith Spivack Award for Outstanding New York Women Lawyers, and the Planned Parenthood Federation of America Margaret Sanger Award.</p>
+
+<p>Ms. Benshoof previously served as Director of the American Civil Liberties Reproductive Freedom Project where she spearheaded national litigation shaping Supreme Court law on gender equality, free speech, and reproductive choice. In 1992, Ms. Benshoof founded the first international human rights organization focused on women's rights to reproductive choice and equality, now the Center for Reproductive Rights (CRR), and served as its first President.</p>
+
+<p>Ms. Benshoof published numerous articles in respected publications such as the Harvard Law Review and The Journal of the American Medical Association, The New York University Journal of International Law and Policy, and Law Ka Pala, a Journal of The Burma Lawyers' Council. Her forthcoming publications include "Global Justice for the Twenty-First Century: International Legal Issues" for the Encyclopedia of Global Studies, "US Ratification of CEDAW: An Opportunity to Revisit and Reframe the Right to Equality Accorded Women under the US Constitution" for the NYU Review of Law and Social Change, and "The Upcoming Elections in Burma: Increasing Risks to Global Security by Constitutionalizing a Military Monopoly on Nuclear Development" with the Burma Lawyers' Council. She has appeared on the BBC, CBS evening news, Good Morning America, ABC evening news, Nightline, and McNeil /Lehr. She is a member of the Council on Foreign Relations and served on its Burma Task Force.</p>
+
+<p>Ms. Benshoof received her Juris Doctor from Harvard Law School and taught at Harvard Law School and Bard College.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Akila Radhakrishnan" class="uk-margin-bottom" src="/images/team/AkilaRadhakrishnan.jpg" title="Akila Radhakrishnan" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Akila Radhakrishnan</h3>
+
+<h5 class="uk-margin-top-remove">Vice-President; Legal Director</h5>
+
+<p>Akila Radhakrishnan is the Vice-President and Legal Director at the Global Justice Center. In her role, she works to ensure justice, accountability and equal rights to people in conflict and in post-conflict situations, and to establish global legal precedents protecting human rights and ensuring gender equality. She has published articles in Time Magazine, The Atlantic, Ms. Magazine, Women Under Siege, Rewire, the Denver Journal of International Law and Policy and Reproductive Laws for the Twenty First Century. Prior to the Global Justice Center, she has worked at the International Criminal Tribunal for the Former Yugoslavia, DPK Consulting and Drinker, Biddle &amp; Reath, LLP. Akila received her J.D. with a concentration in International Law from the University of California, Hastings and holds a B.A. in Political Science and Art History from the University of California, Davis.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Phyu Phyu Sann" class="uk-margin-bottom" src="/images/team/PhyuPhyuSann.jpg" title="Phyu Phyu Sann" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Phyu Phyu Sann</h3>
+
+<h5 class="uk-margin-top-remove">Senior Burma Researcher; Director of Operations</h5>
+
+<p>Phyu Phyu Sann carries out a wide range of research on Burma on legal, political, constitutional and gender related issues. She collaborates with key partners, including Burmese and ethnic groups, women's groups, UN agencies, and Human Rights NGOs as part of the GJC's project on Criminal Accountability for Heinous Crimes in Burma, which aims to uphold international commitments to the rule of law.</p>
+
+<p>Ms. Sann joined the Global Justice Center in 2006 as a research intern. Prior, Ms. Sann earned her Master of Arts in Intercultural Service, Leadership, and Management at the School for International Training (SIT) in Brattleboro, Vermont. Prior to her studies at SIT, Ms. Sann has also worked in the field of social, economic and project related research for local and international NGOs in Burma.</p>
+
+<p>Ms. Sann received her MBA from the Asian Institute of Technology in Thailand and her BA from Yangon University with a concentration in International Relations. She was also a recipient of the scholarship from the Swiss Agency for Development and Cooperation (SDC) for her MBA degree and Fujitsu Asia Pacific Scholarship for Intercultural Management Program at the Japan American Institute of Management Sciences, Honolulu, Hawaii. Ms. Sann is a native of Rakhine (Arakan), in the western part of Burma.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="" class="uk-margin-bottom" src="/images/team/SusanDeMaio.jpg" title="Susan De Maio" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Susan De Maio</h3>
+
+<h5 class="uk-margin-top-remove">Director of Development</h5>
+
+<p>Susan De Maio is the Director of Development at Global Justice Center.&nbsp; Her prior roles in the non-profit sector include leading fundraising, development and communications efforts as Director of Development at America Press, Daytop Village Foundation, and Hour Children.&nbsp; She also served as Associate Vice President of Institutional Giving at Covenant House International Headquarters, where she was also Special Regional Liaison to the CH Casa Alianza sites in Latin America (Guatemala, Honduras, Nicaragua and Mexico) for overall capacity building efforts for both foundation and government grant funding.</p>
+
+<p>Her professional work and rich volunteer service has included fundraising and awareness-building efforts for programs serving homeless children, incarcerated and formerly incarcerated women, teen sex workers and Mexican immigrants, as well as for advocacy initiatives against human trafficking and the sexual exploitation of young women; against the torture and murder of street children in Latin America; against the shackling of incarcerated women during labor and delivery; and for the fundamental rights of children in international human rights forums.</p>
+
+<p>Ms. De Maio has also held senior Regulatory Compliance roles in the financial services industry, including as an advisory Consultant and as a Vice President to organizations such as Citigroup, HSBC Brokerage (USA) and others. &nbsp;She holds a Bachelor of Science from New York University.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Stephanie Johanssen" class="uk-margin-bottom" src="/images/team/StephanieJohanssen.jpg" title="Stephanie Johanssen" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Stephanie Johanssen</h3>
+
+<h5 class="uk-margin-top-remove">UN and EU&nbsp;Director</h5>
+
+<p>Stephanie Johanssen is the UN and EU Director&nbsp;at the Global Justice Center. Born and raised in Germany she has worked for the Center for European Integration Studies as a student assistant. After graduating from law school at the University of Bonn, she started working for a law firm in Bonn focusing on public law. During her practical legal training Stephanie was an assistant to two judges at the Higher Court of Koblenz and worked for several law firms. Furthermore she absolved a legal internship at the Environment Protection Agency in New York. Before becoming a Communications Fellow at the GJC, Stephanie was an outreach officer for the International Criminal Court in The Hague, where she was responsible for implementing the campaign Calling African Female Lawyers, a campaign aimed at increasing the number of female counsel practicing before the Court.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Stephanie Olszewski" class="uk-margin-bottom" src="/images/team/StephanieOlszewski.jpg" title="Stephanie Olszewski" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Stephanie Olszewski</h3>
+
+<h5 class="uk-margin-top-remove">Director of Communications&nbsp;</h5>
+
+<p>Stephanie Olszewski is the Director of Communications at the Global Justice Center. She spent three years assistant managing an art gallery in Brooklyn before moving to the non-profit world. Originally from Pittsburgh, Stephanie graduated from New York University with a B.A. double majoring in Art History and Journalism with a minor in Spanish.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Michelle Onello" class="uk-margin-bottom" src="/images/team/MichelleOnello.jpg" title="Michelle Onello" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Michelle Onello</h3>
+
+<h5 class="uk-margin-top-remove">Special Counsel</h5>
+
+<p>Michelle Onello is an attorney serving as a consultant to the Global Justice Center on international human rights issues. She is a graduate of Harvard Law School and The Johns Hopkins University, including its SAIS Bologna Center. Following law school, she was a Luce Scholar working for the Phuket Provincial Governor in Thailand. Michelle was an Associate in the New York office of Cleary, Gottlieb, Steen &amp; Hamilton, where she focused on international financial transactions. Michelle left everyday law practice to become a full-time caretaker for her four children.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Grant Shubin" class="uk-margin-bottom" src="/images/team/GrantShubin.jpg" title="Grant Shubin" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Grant Shubin</h3>
+
+<h5 class="uk-margin-top-remove">Staff Attorney</h5>
+
+<p>Grant Shubin holds expertise in international law and conflict resolution and supports all of GJC’s legal projects with research, writing, editing, and coordination. He has contributed to GJC’s shadow report submissions to human rights treaty bodies, as well as legal briefings to the Human Rights Council, the UN Secretary General, the Special Rapporteur on Sexual Violence in Conflict, the International Criminal Court, the European Commission and European Parliament, and various national level policymakers.&nbsp;He been published and spoken on international legal issues ranging from the human rights implications of identity politics and the law governing peace agreements.&nbsp;Mr. Shubin graduated from University of California Hastings College of the Law in May 2013. Prior to his time at GJC, Grant was both an associate attorney at a small litigation firm in San Francisco and a staff attorney at legal services organization offering pro bono representation for low income members of San Francisco's most marginalized communities. His scope of practice ranged from family law to business litigation to criminal defense to administrative law.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Zoé Eggleston" class="uk-margin-bottom" src="/images/team/ZoeEggleston.jpg" title="Zoé Eggleston" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Zoé Eggleston</h3>
+
+<h5 class="uk-margin-top-remove">International Advocacy and Program Associate</h5>
+
+<p>Zoé Eggleston is the International Advocacy and Program Associate at&nbsp;the Global Justice Center. Of French, Swiss and American background, Zoé graduated with a Master's degree in Global Studies from the Global Studies Institute of the University of Geneva where she specialized in Culture and Societies. Prior to that she studied in Belgium where she obtained a Bachelor in Journalism with a minor in Art History from the Université Libre de Bruxelles. She developed an interest in international peace and security through volunteering experiences and while working with a Brussels-based legal NGO on a radio series about genocide survivors. Before moving to New York, Zoé worked at the United Nations Press and External Relations section in Geneva where she was involved in the preparations of the Geneva II Peace Conference on Syria and the creation of pedagogical programs. Previously, she was the Executive and Research Assistant at the Global Justice Center.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="" class="uk-margin-bottom" src="/images/MagdaLaski1.jpg" title="Magda Laski" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Magdalena&nbsp;Laski</h3>
+
+<h5 class="uk-margin-top-remove">Counsel</h5>
+
+<p>Magda Laski is an attorney serving as counsel to the Global Justice Center on international human rights issues. She is a graduate of the University of Michigan Law School, where her studies focused on international law. She also holds a law degree from the University of Warsaw Department of Law in Poland. Prior to joining GJC, she practiced law in Europe as well as in New York, focusing on project finance and commercial litigation. Magda is a native of Poland.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Liz Olson" class="uk-margin-bottom" src="/images/team/LizOlson.jpg" title="Liz Olson" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Liz Olson</h3>
+
+<h5 class="uk-margin-top-remove">Communications and Development Associate</h5>
+
+<p>Liz Olson is the Communications and Development Associate at the Global Justice Center. Liz holds a B.A. from Reed College, where she studied Modern Chinese History. Before working at the Global Justice Center, Liz was living in Beijing, China, where she interned at International Bridges to Justice, worked as an analyst at China Policy, and served as the international communications and development coordinator at the Shangri-la Institute for Sustainable Communities, a local Chinese environmental NGO.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Heather Bordner" class="uk-margin-bottom" src="/images/team/HeatherBordner.jpg" title="Heather Bordner" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Heather Bordner</h3>
+
+<h5 class="uk-margin-top-remove">Operations Assistant</h5>
+
+<p>Heather Bordner the Operations Assistant at the Global Justice Center. Heather is a recent graduate of St. Francis College in Brooklyn, with a B.A. in European Studies and a minor in Economics. During her time at St. Francis she studied abroad for a summer semester in Segovia, Spain; worked full-time; and interned at several human rights organizations. In the spring of 2016 Heather worked part-time for Amnesty International, assisting with organizing and running their annual conference.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Elena Sarver" class="uk-margin-bottom" src="/images/team/Elena.jpg" title="Elena Sarver" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Elena Sarver</h3>
+
+<h5 class="uk-margin-top-remove">Legal Fellow</h5>
+
+<p>Elena Sarver is the Legal Fellow at the Global Justice Center and holds a J.D. from Benjamin N. Cardozo School of Law. While in law school, Elena participated in two year-long clinics, the Innocence Project as well as the Human Rights and Atrocity Prevention Clinic, where she researched sexual and gender-based violence crimes for regional human rights litigation. She also interned at the National Institute for Reproductive Health. Elena received her B.A. in Political Science from Macalester College and studied abroad in Egypt at the American University in Cairo.</p>
+</div>
+
+<div class="uk-width-1-1 uk-margin-large-top uk-margin-large-bottom">
+<hr /></div>
+
+<div class="uk-width-small-1-3"><img alt="Merrite" class="uk-margin-bottom" src="/images/team/Merrite.jpg" title="Merrite" width="100%" /></div>
+
+<div class="uk-width-small-2-3">
+<h3 class="uk-margin-bottom-remove">Merrite Johnson</h3>
+
+<h5 class="uk-margin-top-remove">Executive Assistant</h5>
+
+<p>Merrite Johnson is the Executive Assistant at the Global Justice Center. She holds a Master’s degree in Comparative Politics from New York University, where her thesis work examined how women have increased their political participation in post-conflict countries in sub-Saharan Africa. Merrite received her B.A. in Politics from NYU and studied abroad in Madrid, Spain. Prior to joining GJC, she worked in client relations at a business management firm.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 	</div>
+
+	
+	
+	
+	
+	
+</article>
+							</main>
+							
+							
+						</div>
+						
+																		
+					</div>
+
+				</div>
+
+			</div>
+		
+        
+		
+		
+				<div class="tm-bottom tm-block">
+			<div class="uk-container uk-container-center">
+				<section class="tm-bottom-c uk-grid" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
+<div class="uk-width-1-1 uk-width-medium-1-4"><div class="uk-panel  footer">
+	<div class="uk-panel">
+<h2 class="uk-panel-title uk-text-bold">Donate</h2>
+
+<p>Your gift helps us to provide the legal tools to enforce international law, promote peace and security, and advance human rights.</p>
+
+<p><a class="uk-button uk-button-danger" href="https://donatenow.networkforgood.org/1432512">Donate now</a></p>
+
+<p>Global Justice Center is a nonprofit 501(c)(3) organization.<br />
+EIN/Federal Tax ID: 20-8734461.</p>
+</div>
+</div></div>
+
+<div class="uk-width-1-1 uk-width-medium-1-4"><div class="uk-panel  footer">
+	<div class="uk-panel">
+<h2 class="uk-panel-title">Our Issues</h2>
+
+<ul class="uk-list">
+	<li><a href="http://globaljusticecenter.net/our-work/international-law-and-human-rights/abortion-access-in-conflict"><i class="uk-icon-balance-scale uk-margin-small-right"></i>Abortion Access</a></li>
+	<li><a href="http://globaljusticecenter.net/our-work/women-in-power/burma-a-case-study"><i class="uk-icon-balance-scale uk-margin-small-right"></i>Human Rights in Burma</a></li>
+	<li><a href="http://globaljusticecenter.net/our-work/justice-and-equal-protection/rape-as-a-weapon-of-war"><i class="uk-icon-balance-scale uk-margin-small-right"></i>Rape as a Weapon of War</a></li>
+	<li><a href="http://globaljusticecenter.net/our-work/gender-and-security/gender-and-genocide"><i class="uk-icon-balance-scale uk-margin-small-right"></i>Gender and Genocide</a></li>
+</ul>
+</div>
+</div></div>
+
+<div class="uk-width-1-1 uk-width-medium-1-4"><div class="uk-panel  footer">
+	    <div class="uk-panel">
+      <h2 class="uk-panel-title">Mailing List</h2>
+
+    
+<form class="uk-form uk-form-stacked" action="index.php?option=com_acymailing&ctrl=sub" method="post">
+  <div class="uk-form-row">
+    <div class="uk-form-controls">
+      <input id="user_name" type="text" name="user[name]" value="" placeholder="Name" class="uk-width-1-1">
+    </div>
+  </div>
+  <div class="uk-form-row">
+    <div class="uk-form-controls">
+      <input id="user_email" type="text" name="user[email]" value="" placeholder="Email" class="uk-width-1-1">
+    </div>
+  </div>
+  <div class="uk-form-row">
+    <div class="uk-form-controls">
+      <button class="uk-button uk-button-primary">Subscribe</button>
+    </div>
+  </div>
+ 
+  <input type="hidden" name="acyformname" value="formAcymailing1" />
+  <input type="hidden" name="ctrl" value="sub"/>
+  <input type="hidden" name="task" value="optin"/>
+  <input type="hidden" name="redirect" value="/"/>
+  <input type="hidden" name="option" value="com_acymailing"/>
+  <input type="hidden" name="visiblelists" value=""/>
+  <input type="hidden" name="hiddenlists" value=""/>
+</form>    
+    
+    </div>   
+</div></div>
+
+<div class="uk-width-1-1 uk-width-medium-1-4"><div class="uk-panel  footer">
+	<div>
+<h2 class="uk-panel-title"><a href="/2-uncategorised/532-contact-us" title="Contact Us">Contact Us</a></h2>
+11 Hanover Square, 6th Floor<br />
+New York, NY &nbsp;10005
+<ul class="uk-list">
+	<li><i class="uk-icon-phone uk-margin-small-right"></i>212-725-6530</li>
+	<li class="uk-margin-bottom"><i class="uk-icon-fax uk-margin-small-right"></i>212-725-6536</li>
+	<li><i class="uk-icon-envelope uk-margin-small-right"></i><span id="cloak36007">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak36007').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy36007 = '&#105;nf&#111;' + '&#64;';
+ addy36007 = addy36007 + 'gl&#111;b&#97;lj&#117;st&#105;c&#101;c&#101;nt&#101;r' + '&#46;' + 'n&#101;t';
+ var addy_text36007 = '&#105;nf&#111;' + '&#64;' + 'gl&#111;b&#97;lj&#117;st&#105;c&#101;c&#101;nt&#101;r' + '&#46;' + 'n&#101;t';
+ document.getElementById('cloak36007').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy36007 + '\'>'+addy_text36007+'<\/a>';
+ //-->
+ </script></li>
+</ul>
+</div>
+
+<div class="uk-panel">
+<h2 class="uk-panel-title">Follow Us</h2>
+
+<p>&nbsp;</p>
+</div>
+</div></div>
+</section>
+			</div>
+		</div>
+		
+	</div>
+
+		<div class="tm-block">
+		<div class="uk-container uk-container-center">
+			<footer class="tm-footer uk-text-center">
+
+				<div>
+				<div class="uk-panel">
+	<div>
+  &copy; 
+2015
+ <a href="http://www.globaljusticecenter.net" target="_blank">Global Justice Center</a>
+</div>
+</div>				</div>
+
+				<div>
+								</div>
+
+			</footer>
+		</div>
+	</div>
+	
+	
+		<div id="offcanvas" class="uk-offcanvas">
+		<div class="uk-offcanvas-bar"><div class="uk-panel">
+<form id="search-121-58f66e5975d8c" class="uk-search" action="/about-us/team/our-staff" method="post" >
+	<input class="uk-search-field" type="text" name="searchword" placeholder="search...">
+	<input type="hidden" name="task"   value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="213">
+</form>
+</div>
+<ul class="uk-nav uk-nav-offcanvas"><li><a href="/">Home</a></li><li class="uk-parent uk-active"><a href="/about-us">About Us</a><ul class="uk-nav-sub"><li><a href="/about-us/mission">Mission</a></li><li class="uk-parent uk-active uk-nav-header">Team
+<ul><li class="uk-active"><a href="/about-us/team/our-staff">Our Staff</a></li><li><a href="/about-us/team/our-board">Our Board</a></li></ul></li><li><a href="/about-us/partners">Partners</a></li><li><a href="/about-us/employment">Employment</a></li><li><a href="/about-us/our-logo">Our Logo</a></li></ul></li><li class="uk-parent"><a href="/our-work">Our Work</a><ul class="uk-nav-sub"><li class="uk-parent"><a href="/our-work/our-issues">Our Issues</a><ul><li><a href="/our-work/our-issues/abortion-access-in-conflict">Abortion Access in Conflict</a></li><li><a href="/our-work/our-issues/gender-and-genocide">Gender and Genocide</a></li><li><a href="/our-work/our-issues/rape-as-a-weapon-of-war">Rape as a Weapon of War</a></li><li><a href="/our-work/our-issues/burma-a-case-study">Burma: A Case Study</a></li></ul></li><li class="uk-parent"><a href="/our-work/how-we-work">How We Work</a><ul><li><a href="/our-work/how-we-work/what-resistance-looks-like">What Resistance Looks Like</a></li><li><a href="/our-work/how-we-work/using-cedaw">Using CEDAW</a></li></ul></li></ul></li><li class="uk-parent"><a href="/publications">Publications</a><ul class="uk-nav-sub"><li><a href="/publications/advocacy-resources">Advocacy Resources</a></li><li><a href="/publications/articles">Articles</a></li><li><a href="/publications/briefs-and-white-papers">Briefs and White Papers</a></li><li><a href="/publications/fact-sheets">Fact Sheets</a></li><li><a href="/publications/q-a-s">Q&amp;A's</a></li><li><a href="/publications/legal-tools">Legal Tools</a></li><li><a href="/publications/letters">Letters</a></li><li><a href="/publications/un-submissions">UN Submissions</a></li><li><a href="/publications/videos">Videos</a></li></ul></li><li class="uk-parent"><a href="/press-center">Press Center</a><ul class="uk-nav-sub"><li><a href="/press-center/gjc-in-the-news">GJC in the News</a></li><li><a href="/press-center/press-releases">Press Releases</a></li><li><a href="/press-center/events">Events</a></li><li><a href="/press-center/join-our-mailing-list">Join Our Mailing List</a></li></ul></li><li><a href="/blog">Blog</a></li><li class="uk-parent"><a href="https://donatenow.networkforgood.org/1432512">Donate</a><ul class="uk-nav-sub"><li><a href="/donate/michael-sandler-fund">Michael Sandler Fund</a></li><li><a href="/donate/our-financials">Our Financials</a></li><li><a href="/donate/ways-to-give">Ways to Give</a></li></ul></li></ul></div>
+	</div>
+	
+
+</body>
+</html>

@@ -1,0 +1,1958 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8 ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9 ie8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="no-js lt-ie10 ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" xml:lang="en" lang="en">
+  <!--<![endif]-->
+  <head role="heading">
+            
+    <script>
+      var url = window.location.pathname;
+      if(url.indexOf("shebamiles") >= 0)  
+      {   
+        window.location.href = "https://shebamiles.ethiopianairlines.com";
+        //$("#betaShebaRedirectAlert").show();        
+      }
+    </script>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE7" />
+    <meta name="google-site-verification" content="zhFh2QijbbsXhTgg-Ph3u5Pl8l0nMa8lFfUePild9DA" />
+    <title>Web Check-In - Fly Ethiopian</title>
+    <link rel="canonical" href="https://www.ethiopianairlines.com/AA/EN/book/booking/web-checkin"/><meta name="author" content="Ethiopian Airlines" />
+    <link rel="Stylesheet" href="/Kooboo-WebResource/Index/jQuery-Styles/20130227" type="text/css" />
+<link type="text/css" rel="stylesheet" href="/Cms_Data/Sites/EthiopianAirlines/Themes/Default/et-css.css" />
+<link type="text/css" rel="stylesheet" href="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Themes/Default/et-css.min.css" />
+<script src="/Scripts/less.js" type="text/javascript"></script>    
+    
+    <!-- Live chat -->   
+    <script>
+      var __lc = {};
+      __lc.license = 6320491;
+      (function() {
+        var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+      })();
+    </script>
+    <!-- End ive chat --> 
+    <!--[if IE 8]> <script src="/Kooboo-WebResource/Index/jQuery/20130227" type="text/javascript"></script>
+<script type="text/javascript" src="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Scripts/et-js-imported.min.js" ></script>
+<script type="text/javascript" src="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Scripts/et-js.min.js" ></script>
+ <![endif]-->
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" name="viewport"/>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+        
+    
+  </head>
+  <body>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53GR48"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function (w, d, s, l, i) {
+  w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+  }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-53GR48');</script>
+     <!--End Google Tag Manager -->
+    
+    
+    <!--noscript header-->
+    <noscript>
+      <div class="alert alert-danger alert-dismissible" role="alert">
+        <h4>Java Script is disabled in your browser. Please activate Java Script in your browser settings.</h4>
+      </div>
+    </noscript>
+    <!--end noscript header-->
+    <!--header-->
+    <div class="container-header" role="banner">
+      <div class="alert alert-warning" role="alert" align="middle"  id="betaShebaRedirectAlert" hidden>
+  <a href="#" class="close" data-dismiss="alert"><span class="fa fa-times-circle-o"></span></a>    
+  <b> <a href='https://betashebamiles.ethiopianairlines.com'>Click here to go to the new ShebaMiles beta website </a></b>
+</div> 
+
+
+<!--Navigation section-->
+<nav class="navbar navbar-default" role="navigation">
+  <!--Skip navigation section-->
+  <div style="position:absolute;z-index:10">
+    
+     <a accesskey="5" href='/AA/EN/information/special/Website-Accessibility' title="ALT + 0" 
+      class="sr-only sr-only-focusable btn btn-link">Website Accessibility</a>
+    
+    
+    <a accesskey="0" href='/AA/EN/' title="ALT + 1"
+      class="sr-only sr-only-focusable btn btn-link">Start page</a>
+    <a accesskey='1' href='#main-menu' title="[ALT + 2]" class="sr-only sr-only-focusable btn btn-link">
+      Skip to main menu</a>
+    <a accesskey='2' href='#main-content' title="[ALT + 3]" class="sr-only sr-only-focusable btn btn-link">
+      Skip to main content</a>
+    <a accesskey='3' href='#' id="skip-search" title="[ALT + 4]" class="sr-only sr-only-focusable btn btn-link">
+      Skip to search</a>
+    <a accesskey="4" href="#quick-links" title="[ALT + 5]" class="sr-only sr-only-focusable btn btn-link">
+      Skip to quick links</a>
+    <a accesskey="5" href='/AA/EN/services/support/contact' title="ALT + 6" 
+      class="sr-only sr-only-focusable btn btn-link">Contact</a>
+    <a accesskey="6" href='/AA/EN/sitemap' title="ALT + 7"
+      class="sr-only sr-only-focusable btn btn-link">Sitemap</a>           
+  </div>
+  <!--End of skip navigation section-->
+  <!--Brand (logo) section-->
+  <div class="navbar-brand" role="banner">
+    <div class="row">
+      <div class="col-lg-6" style="padding-right:0; padding-left:0">
+        <a href='/AA/EN/'>
+          <img src="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Files/Logo.jpg" alt="Ethiopian Airlines Logo" class="img-responsive">
+        </a>
+      </div>
+      <div class="col-lg-6" style="padding-right:0; padding-left:0">
+        <a href="http://www.staralliance.com/en/member-airline-details?airlineCode=ET" target="_blank">
+          <img src="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Files/Star-alliance.jpg" alt="Star Alliance Membership Logo"
+            class="visible-lg img-responsive">
+        </a>
+      </div>
+    </div>        
+  </div>
+  <!--End of brand (logo) section-->
+  <!--Navigation collapse section-->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#basic-collapse">
+      <span class="sr-only">Toggle menu.</span>
+      <span class="icon-bar"></span><br/>
+      <span class="icon-bar"></span><br/>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <!--End of navigation collapse section-->
+  <div class="visible-xs">
+    <br/><br/>
+  </div>
+  <!--Upper navigation section-->
+  <div class="collapse navbar-collapse" id="basic-collapse">               
+    <ul class="nav navbar-nav navbar-right" role="menu">      
+      <li class="dropdown" role="menuitem">
+        <input type="hidden" value="English" id="current-language" />
+        <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true">
+          <img src="/Cms_Data/Contents/EthiopianAirlines/Media/FlyEthiopian/Flags/24/Global.jpg" alt=""/>
+          <span class="sr-only">Current country and language</span>
+           Global [English] 
+          <span class="sr-only">. Press Enter, to change country and language</span>
+          <span class="fa fa-caret-down" aria-hidden="true"></span>
+        </a>
+        <div class="dropdown-menu" style="padding:17px; width:250px;border: 1px solid #517842;">          
+          <strong>Select Country</strong><br/>
+          <form class="form" id="searchForm" method="POST" action="/"> 
+            <select id="countrySel" name="countrySel" class="form-control input-sm" style="margin-bottom:10px" 
+              title='Select Country' onchange="UpdateLanguage();">
+              <option value="aa"> Global</option>
+              <option value="ao">Angola</option>
+              <option value="at">Austria</option>
+              <option value="be">Belgium</option>
+              <option value="bj">Benin</option>
+              <option value="bw">Botswana</option>
+              <option value="bz">Brazil</option>
+              <option value="bf">Burkina Faso</option>
+              <option value="bi">Burundi</option>
+              <option value="cm">Cameroon</option>
+              <option value="ca">Canada</option>
+              <option value="td">Chad</option>
+              <option value="cn">China</option>
+              <option value="km">Comoros</option>
+              <option value="ci">Cote D&#39;Ivoire</option>
+              <option value="cd">Democratic Republic of the Congo</option>
+              <option value="dj">Djibouti</option>
+              <option value="eg">Egypt</option>
+              <option value="gq">Equatorial Guinea</option>
+              <option value="et">Ethiopia</option>
+              <option value="fr">France</option>
+              <option value="ga">Gabon</option>
+              <option value="de">Germany</option>
+              <option value="gh">Ghana</option>
+              <option value="gn">Guinea</option>
+              <option value="hk">Hong Kong</option>
+              <option value="in">India</option>
+              <option value="id">Indonesia</option>
+              <option value="ie">Ireland</option>
+              <option value="il">Israel</option>
+              <option value="it">Italy</option>
+              <option value="jp">Japan</option>
+              <option value="ke">Kenya</option>
+              <option value="kw">Kuwait</option>
+              <option value="lb">Lebanon</option>
+              <option value="mg">Madagascar</option>
+              <option value="mw">Malawi</option>
+              <option value="my">Malaysia</option>
+              <option value="ml">Mali</option>
+              <option value="mz">Mozambique</option>
+              <option value="na">Namibia</option>
+              <option value="nl">Netherlands</option>
+              <option value="ne">Niger</option>
+              <option value="ng">Nigeria</option>
+              <option value="no">Norway</option>
+              <option value="om">Oman</option>
+              <option value="ph">Philippines</option>
+              <option value="qa">Qatar</option>
+              <option value="cg">Republic of the Congo</option>
+              <option value="rw">Rwanda</option>
+              <option value="sa">Saudi Arabia</option>
+              <option value="sn">Senegal</option>
+              <option value="sc">Seychelles</option>
+              <option value="sg">Singapore</option>
+              <option value="so">Somaliland </option>
+              <option value="za">South Africa</option>
+              <option value="kr">South Korea</option>
+              <option value="ss">South Sudan</option>
+              <option value="es">Spain</option>
+              <option value="sd">Sudan</option>
+              <option value="se">Sweden</option>
+              <option value="tz">Tanzania</option>
+              <option value="th">Thailand</option>
+              <option value="tg">Togo</option>
+              <option value="ug">Uganda</option>
+              <option value="ae">United Arab Emirates</option>
+              <option value="uk">United Kingdom</option>
+              <option value="us">United States of America</option>
+              <option value="zm">Zambia</option>
+              <option value="zw">Zimbabwe</option>
+            </select>
+            
+            <strong>Select Language</strong><br/> 
+            
+            <select class="form-control input-sm" style="margin-bottom:10px" id="language" title="Select Language">
+              <option class="sr-only">Select your language.</option>
+            </select>
+            
+            <div class="checkbox">
+              <label>
+                <input type="checkbox"  id="remember_selection" 
+                  title='Remember my selection' checked />Remember my selection                
+                <a id="rememberMeLabel" href="#" data-toggle="modal" data-target=".bs-example-modal" 
+                  style="cursor: pointer" title="Information">
+                  <span class="fa fa-info-circle fa-lg"><span class="sr-only">Information</span></span>
+                </a>
+                
+                <div class="modal fade bs-example-modal" role="dialog" 
+                  aria-labelledby="rememberMeLabel" aria-hidden="true">
+                  <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" area-label="Close">&times;</button>
+                        <p class="modal-title">
+                          <strong>What is Remember my selection?</strong>
+                        </p>
+                      </div>
+                      <div class="modal-body">                           
+                        If you select this option, on your next visit to ethiopianairlines.com you will be redirected
+                        to the site of country and language that you have set to be remembered. To be able to recognize
+                        your selection, we use a 'cookie' (a small text file) that we store on your computer. 
+                        If you do not want us to use cookie on your computer, please do not check 'Remember my selection' box.
+                      </div>            
+                    </div>
+                  </div>
+                </div>                
+              </label>
+            </div>
+            
+            <input type="button" value='Continue' 
+              class="form-control border btn btn-success input-sm" onclick="RedirectToUrl();"/>            
+          </form>          
+        </div>
+      </li>
+      
+      <li role="menuitem">   
+        <a href='/AA/EN/services/support'>
+          Help
+        </a>
+      </li>
+      
+      <li role="menuitem">   
+        <a href='/AA/EN/services/support/support-feedback'>
+          Comment
+        </a>
+      </li>
+      
+      <li role="menuitem">
+        <a href='https://shebamiles.ethiopianairlines.com/#/about_shebamiles'> ShebaMiles login
+        </a> 
+      </li>
+      
+      <li role="menuitem" class="visible-lg visible-md">
+        <form class="navbar-form" action="/services/support/search"
+          method="GET" novalidate="novalidate" style="padding:5px;" role="search">          
+          <div class="input-group" id="srtDiv">
+            <div class="input-group input-group-sm">          
+              <input id="searchContent" type="text" name="key" title="Search ethiopianairlines.com" size="10" 
+                placeholder='Search' class="form-control" 
+                data-val="true" data-val-required="Search term is required."/>                  
+               <span class="input-group-btn">
+                <button type="submit" class="btn btn-success btn-sm" title="Search">
+                  <span  class="fa fa-search"><span class="sr-only">Search</span></span>
+                </button>
+              </span>                           
+            </div>            
+          </div>   
+        </form>        
+      </li>
+    </ul>  
+    
+        
+    <div id="toll-free-contact">      
+      <div id='toll-no' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+47 22 06 44 01">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +47 22 06 44 01 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-ae' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+800 035 702 401">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +800 035 702 401 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-ug' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:0800 113 014">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              0800 113 014 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-se' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+46 850 513 549">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +46 850 513 549 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-es' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+34 912 788 672">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +34 912 788 672 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-za' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:0800 984 023/+27 218 197 028 ">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              0800 984 023/+27 218 197 028  </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-qa' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+800 100 263">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +800 100 263 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-ph' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:1 800 111 020 72">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              1 800 111 020 72 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-om' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:800 741 10">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              800 741 10 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-de' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+800 181 8982">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +800 181 8982 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-fr' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:0800 901 031">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              0800 901 031 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-et' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +251 116 656 666 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;">(Local)</span>
+        </div>
+      </div>
+      <div id='toll-eg' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:800 000 0411">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              800 000 0411 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-ca' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:1 800 445 2733">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              1 800 445 2733 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-bz' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+55 113 181 3958">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +55 113 181 3958 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-be' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+32 289 483 03">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +32 289 483 03 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-us' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:1 800 445 2733">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              1 800 445 2733 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-uk' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:0800 016 3449">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              0800 016 3449 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-th' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:001800 156 206 9708">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              001800 156 206 9708 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-cn' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+86 400 807 1787 /+86 400 158 9689">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +86 400 807 1787 /+86 400 158 9689 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-at' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+43 125 302 2575">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +43 125 302 2575 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-bh' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+973 161 992 05">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +973 161 992 05 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-bw' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+269 800 300 2524">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +269 800 300 2524 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-hk' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:800 905 629">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              800 905 629 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-in' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+0800 100 7947">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +0800 100 7947 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-ie' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+35 315 268 371">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +35 315 268 371 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-il' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+972 376 310 52">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +972 376 310 52 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-it' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+39 064 877 1370">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +39 064 877 1370 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-jp' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+66 338 134 14">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +66 338 134 14 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-ke' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:0800 720 982">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              0800 720 982 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-my' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+60 392 121 819">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +60 392 121 819 </span>
+            <span class="sr-only">Local</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (Local)</span> &nbsp;
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+      <div id='toll-sa' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:800 814 0018">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              800 814 0018 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-kr' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">
+          <a href="tel:+79 814 205 3890">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>
+              +79 814 205 3890 </span>
+            <span class="sr-only">Toll Free</span>
+          </a>      
+          <span class="fa fa" style="font-size:14px;">(Toll Free)</span>    
+        </div>
+      </div>
+      <div id='toll-aa' hidden>
+        <hr/>
+        <div class="col-sm-offset-6 col-md-offset-6" style="margin-bottom:-20px;">          
+          <a href="tel:+251 116 656 666">
+            <span class="fa fa-phone" style="font-size:14px;"><span class="sr-only">Call us on </span>+251 116 656 666</span>
+            <span class="sr-only">International Charges Apply</span>
+          </a>
+          <span class="fa fa" style="font-size:14px;"> (International Charges Apply)</span>
+        </div>
+      </div>
+    </div>
+
+    
+    
+    <!--Menu collapse section-->
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse-menu">
+      Menu      
+    </button> 
+    <!--End of menu collapse section-->
+  </div>
+  <!--End of upper navigation section--> 
+  <br/>  
+  <!--Main menu section-->
+  <div class="collapse navbar-collapse" id="collapse-menu">
+    <ul class="nav navbar-nav navbar-right" role="navigation">
+      <li class="dropdown dropdown-large keyboard-open-menu">        
+        <a href='/AA/EN/book' class="dropdown-toggle" data-hover="dropdown" 
+          style="font-size:14px;font-weight: bold;" id="main-menu">
+          Book
+          <span class="sr-only">main menu. Press down arrow to expand. Press up arrow to collapse.</span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-large">
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-plane fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/book/booking'>Ethiopian Flights</a>
+              </li>
+              <li class="dropdown-header">          
+                <div class="row">       
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href='/AA/EN/book/booking/book-flight'>Book a Flight</a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/book/booking/book-car'>Rent a Car</a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/book/booking/web-checkin'>Web Check-In</a>
+                    </li>
+                       <li class="list-group-item">
+                      <a href="https://booking.ethiopianairlines.com/SSW2010/ETET/myb.html?abcd" target="_blank">Manage Your Trip</a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/book/booking/flight-status'>Flight Status</a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/book/booking/flight-schedule'>Flight Schedule</a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/book/booking/upgrade-to-cloud-nine'>CloudNine Upgrade</a>
+                      <!--<a href="https://www.ethiopianairlines.com/book/booking/upgrade-to-cloud-nine">CloudNine Upgrade</a>-->
+                    </li>
+                    
+                  </ul>              
+                </div>  
+              </li>
+            </ul>
+          </li>
+          
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-map-marker fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/book/route-network'>
+                  Ethiopian Destinations</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/destinations'>Flight Destinations</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/route-network/international-network'>
+                          International Network</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/route-network/domestic-network'>
+                          Domestic Network</a>
+                      </li>
+                    </ul>              
+                  </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-star-o fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/book/specials'>
+                  Ethiopian Special Deals</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                       <li class="list-group-item">
+                         <a href='/AA/EN/book/specials/corporate-traveler-sales'>
+                          Corporate Travel Program
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/specials/tour'>
+                          Tour Packages
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/specials/medical-travel-package'>
+                          Medical Travel Packages
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/specials/group-travel'>
+                          Group Travel
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/specials/star-alliance-meetings-plus'>
+                          Star Alliance Meetings Plus
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/specials/star-alliance-conventions-plus'>
+                          Star Alliance Conventions Plus
+                        </a>              
+                      </li>
+                    </ul>              
+                  </div>  
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-plus fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/book/modern-aircrafts'>
+                  Ethiopian Modern Aircraft</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/modern-aircrafts/787-dreamliner'>
+                          Ethiopian 787 Dreamliner
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/modern-aircrafts/787-features'>
+                          Ethiopian 787 Features
+                        </a>
+                      </li>
+                     <!-- <li class="list-group-item">
+                        <a href='/AA/EN/book/modern-aircrafts/ethiopian-777-200LR-Features'>
+                          Ethiopian 777-200LR Features
+                        </a>
+                      </li>-->
+                        <li class="list-group-item">
+                        <a href='/AA/EN/book/modern-aircrafts/virtual-tour-inside-boeing777'>
+                          Virtual Tour inside our Boeing 777
+                        </a>
+                      </li>
+                      
+                      
+                       <li class="list-group-item">
+                        <a href='/AA/EN/book/modern-aircrafts/Virtual-Tour-inside-Airbus-A350'>
+                          Virtual Tour inside our Airbus A350
+                        </a>
+                      </li>
+                      
+                      
+                      
+                      <li class="list-group-item">
+                        <a href='/AA/EN/book/modern-aircrafts/Ethiopian-Airlines-B787-cabin-interior'>
+                          Ethiopian B787 Cabin Interior
+                        </a>
+                      </li>
+                    </ul>              
+                  </div> 
+              </li>            
+            </ul>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="dropdown dropdown-large keyboard-open-menu">
+        <a href='/AA/EN/information' class="dropdown-toggle" data-hover="dropdown" 
+          style="font-size:14px;font-weight: bold;">
+          Information
+          <span class="sr-only">main menu. Press down arrow to expand. Press up arrow to collapse.</span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-large" id="info-serv">
+          <li class="active col-sm-3">
+            <ul class="active">
+              <li class="dropdown-header"><br/><span class="fa fa-info fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/information/essential'>Essential Information</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/essential/conditions-of-carriage'>
+                          Conditions of Carriage
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/essential/travel-tips-and-information'>
+                          Travel Tips and Information
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/essential/credit-card-restriction'>
+                          Credit Card Restrictions
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/essential/dangerous-goods'>
+                          Dangerous Goods
+                        </a>
+                      </li>
+                      
+                      <li class="list-group-item">
+                        <a href='/AA/EN/news'>
+                          News
+                        </a>
+                      </li>
+                    </ul>              
+                  </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-suitcase fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/information/baggage'>
+                  Baggage Information</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/baggage/restricted-items'>
+                          Restricted Items
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/baggage/carry-on-baggage'>
+                          Carry-on Baggage
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/baggage/excess-and-special-baggage'>
+                          Excess and Special Baggage
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/baggage/lost-or-damaged-baggage'>
+                          Delayed, Lost or Damaged Baggage
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/baggage/free-baggage-allowance'>
+                          Free Baggage Allowance
+                        </a>
+                      </li>
+                    </ul>              
+                  </div> 
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-exclamation fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/information/special'>
+                  Special Needs</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/travelling-with-pets'>
+                          Travelling with Pets
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/travelling-while-pregnant'>
+                          Travelling While Pregnant
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/differently-abled-passengers'>
+                          Disabled/Medical Case Passengers
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/unaccompanied-minor'>
+                          Unaccompanied Minors
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/services-for-customers-with-disabilities'>
+                          Customers with Disabilities
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/disability-service-request-form'>
+                          Disability Service Request Form
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/special/Website-Accessibility'>
+                          Website Accessibility
+                        </a>
+                      </li>
+                    </ul>              
+                  </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-briefcase fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/information/check-in'>
+                  Check-In Information</a>
+              </li>
+              <li class="dropdown-header">
+                  <div class="row">              
+                    <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/check-in/check-in-at-the-airport'>
+                          Check-In at the Airport
+                        </a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href='/AA/EN/information/check-in/online-check-in'>
+                          Online Check-In
+                        </a>
+                      </li>
+                    </ul>              
+                  </div>
+              </li>            
+            </ul>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="dropdown dropdown-large keyboard-open-menu">
+        <a href='/AA/EN/services' class="dropdown-toggle" data-hover="dropdown" 
+          style="font-size:14px;font-weight: bold;">
+          Services
+          <span class="sr-only">main menu. Press down arrow to expand. Press up arrow to collapse.</span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-large">
+          <li class="active col-sm-3">
+            <ul class="active">
+              <li class="dropdown-header"><br/><span class="fa fa-street-view fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/services/airport'>
+                  Services at the Airport</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/airport/arrival-services-at-addis-ababa'>
+                        Arrival Services at Addis Ababa
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/airport/lounges-at-addis-ababa-airport'>
+                        Lounges at Addis Ababa
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/airport/addis-ababa-stopovers'>
+                        Addis Ababa Stopovers
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/airport/about-addis-ababa-airport'>
+                        Addis Ababa Airport
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/airport/minimum-connecting-time'>
+                        Minimum Connecting Time
+                      </a>
+                    </li>
+                  </ul>              
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-plane fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/services/onboard'>On Board Services</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/onboard/cloud-nine-services'>
+                        Cloud Nine Services
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/onboard/economy-class'>
+                        Economy Services
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/onboard/seat-map'>
+                        Seat Map
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/onboard/duty-free'>
+                        Duty Free Shopping</a>
+                    </li>
+                    <li class="list-group-item">
+                    <a href='/AA/EN/services/onboard/in-flight-experience'>
+                        In-Flight Experience
+                      </a>
+                    </li>
+                  </ul>              
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-user fa-2x"></span></li>
+              <li class="dropdown-header">
+                 <a href='/AA/EN/services/support'>Help & Contact</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/support/FAQ'>
+                        Frequently Asked Questions
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                     <a href='/AA/EN/services/support/contact'>
+                        Ethiopian Worldwide Contacts
+                      </a>
+                    </li>
+                  <!--<li class="list-group-item">
+                      <a href=''>
+                        Comments and Complaints
+                      </a>
+                    </li>-->
+                       <li class="list-group-item">
+                      <a href='/AA/EN/services/support/support-feedback'>
+                        Support and Feedback
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/support/subscription'>
+                        Subscription
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/support/call-center-numbers'>
+                        Call Center Numbers
+                      </a>
+                    </li>
+                  </ul>              
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-mobile fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href='/AA/EN/services/mobile-features'>
+                  Ethiopian on Mobile</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/mobile-features/CBE_Mobile_App'>
+                        CBE Mobile App
+                      </a>
+                    </li>
+                    
+                    <li class="list-group-item">
+                      <a href='/AA/EN/services/mobile-features/UBE_Mobile_App'>
+                        UBE Mobile App
+                      </a>
+                    </li>
+                    
+                    
+                  </ul>              
+                </div>
+              </li>            
+            </ul>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="dropdown dropdown-large keyboard-open-menu">
+        <a href="https://shebamiles.ethiopianairlines.com/#/about_shebamiles" class="dropdown-toggle" data-hover="dropdown" 
+          style="font-size:14px;font-weight: bold;">
+          ShebaMiles
+          <span class="sr-only">main menu. Press down arrow to expand. Press up arrow to collapse.</span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-large">
+          <li class="active col-sm-3">
+            <ul class="active">
+              <li class="dropdown-header"><br/><span class="fa fa-user fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="https://shebamiles.ethiopianairlines.com/#/about_shebamiles">Ethiopian Loyalty Program</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/about_shebamiles">
+                        Log in to Your Account
+                      </a>
+                    </li>
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/enrollment">
+                        Join ShebaMiles
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/how-it-works">
+                        How It Works
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/program-benefits">
+                        Program Benefits
+                      </a>
+                    </li>
+                  
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/terms-and-conditions">
+                        Terms and Conditions
+                      </a>
+                    </li>                    
+                   <!-- <li class="list-group-item">
+                      <a href='/AA/EN/services/support/FAQ'>
+                        Frequently Asked Questions
+                      </a>
+                    </li>-->                    
+                  </ul>              
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-plus-circle fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="https://shebamiles.ethiopianairlines.com/#/EarnMiles">Earn Miles</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/EarnMiles">
+                        Earning Miles Easily
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/EarnMiles">
+                        Earn Miles Calculator
+                      </a>
+                    </li>
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/partners">
+                        Earn Miles with our Partners
+                      </a>
+                    </li>
+                    
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/buy-miles">
+                        Buy Miles
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/earn-miles/retroactive-mileage-claim-request">
+                        Claim Missing Miles
+                      </a>
+                    </li>
+                  </ul>              
+                </div> 
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-minus-circle fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="https://shebamiles.ethiopianairlines.com/#/SpendMiles">Spend Miles</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/SpendMiles">
+                        Spend Miles Calculator
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/SpendMiles">
+                        Spend on Ethiopian Flights
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/SpendMiles">
+                        Spend with our Partners
+                      </a>
+                    </li>
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/SpendMiles">
+                        Upgrade Award
+                      </a>
+                    </li>
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/SpendMiles">
+                        Donate Miles
+                      </a>
+                    </li>
+                  </ul>              
+                </div> 
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-users fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="https://shebamiles.ethiopianairlines.com/#/partners">
+                  Our Partners</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/partner/airline-partner">
+                        Airline
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/partner/hotels">
+                        Hotel
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/partner/dining">
+                        Dining
+                      </a>
+                    </li>
+                     <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/partner/shopping">
+                        Shopping
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="https://shebamiles.ethiopianairlines.com/#/partner/others">
+                        Other
+                      </a>
+                    </li>
+                  </ul>              
+                </div>  
+              </li>            
+            </ul>
+          </li>
+        </ul>
+      </li>
+      
+      
+       <li class="dropdown dropdown-large keyboard-open-menu">
+        <a href="/corporate/" class="dropdown-toggle" data-hover="dropdown" 
+          style="font-size:14px;font-weight: bold;" target="_blank">
+          Corporate
+         <!-- <span class="sr-only">main menu. Press down arrow to expand. Press up arrow to collapse.</span>-->
+        </a>
+     <!--<ul class="dropdown-menu dropdown-menu-large">
+          <li class="active col-sm-3">
+            <ul class="active">
+              <li class="dropdown-header"><br/><span class="fa fa-users fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href=''>Ethiopian Group</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="/corporate/group/academy/">
+                        Aviation Academy
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/cargo/">
+                        Ethiopian Cargo
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/catering/">
+                        Ethiopian Catering
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="corporate/group/ground-services/">
+                        Ground Services
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/mro/">
+                        Ethiopian MRO
+                      </a>
+                    </li>
+                  </ul>              
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-plus-circle fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="/corporate/careers/">Career</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="/corporate/careers/information/">
+                        Information
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/careers/vacancy/">
+                        Vacancies
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/careers/result/">
+                        Results
+                      </a>
+                    </li>
+                  </ul>              
+                </div> 
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-list-alt fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="/corporate/media/">Media</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="/corporate/media/news/press-release/">
+                        Press Release
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/media/news/tender-documents/">
+                        Tender Documents
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/media/news/performance-reports/">
+                        Performance Report
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/media/relations/contact-us/">
+                        Contact Us
+                      </a>
+                    </li>
+                  </ul>              
+                </div> 
+              </li>
+            </ul>
+          </li>
+          <li class="col-sm-3">
+            <ul>
+              <li class="dropdown-header"><br/><span class="fa fa-check-square-o fa-2x"></span></li>
+              <li class="dropdown-header">
+                <a href="/corporate/group/academy/private-training/training-applications/">
+                  Application Forms</a>
+              </li>
+              <li class="dropdown-header">
+                <div class="row">              
+                  <ul class="list-group col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                    <li class="list-group-item">
+                      <a href="/corporate/group/academy/private-training/training-applications/Aircraft_Maintenance_Training/">
+                        Aircraft Maintenance Training
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/academy/private-training/training-applications/CabinCrewTraining_training_application/">
+                        Cabin Crew Training
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/academy/private-training/training-applications/commercial_services_training_application/">
+                        Commercial and Services Training
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/academy/private-training/training-applications/leadership_training_application">
+                        Leadership Training
+                      </a>
+                    </li>
+                    <li class="list-group-item">
+                      <a href="/corporate/group/academy/private-training/training-applications/pilot_training_application">
+                        Pilot Training
+                      </a>
+                    </li>
+                  </ul>              
+                </div>  
+              </li>            
+            </ul>
+          </li>
+        </ul>-->
+      </li>
+            
+      
+      <li class="dropdown dropdown-large keyboard-open-menu">
+        <a href='https://www.ethiopianholidays.com/' target="_blank" class="dropdown-toggle" data-hover="dropdown" 
+          style="font-size:14px;font-weight: bold;">
+          Ethiopian Holidays
+          <span class="sr-only">main menu</span>
+        </a>
+      </li>
+     
+    </ul>          
+  </div>
+  <!--End of main menu section-->
+</nav>
+<!--End of navigation section-->      
+    </div>
+    <!--end header-->
+    <!--main container-->
+    <div class="container" role="main" id="main-content">
+      <div class="hidden-xs">
+  <ul class="breadcrumb">
+    	<li><a href="/AA/EN/" target="">Home</a></li>
+    	<li><span class="fa fa-caret-right fa-lg"></span></li>      
+    	<li><a href="/AA/EN/book" target="">Booking</a></li>
+    	<li><span class="fa fa-caret-right fa-lg"></span></li>
+    	<li><a href="/AA/EN/book/booking" target="">Book your Trip</a></li>
+    	<li><span class="fa fa-caret-right fa-lg"></span></li>
+    <li>
+      <div class="dropdown">
+        <a href="#" class="dropdown-toggle activelink" data-hover="dropdown" style="cursor: pointer">
+          Web Check-In
+        </a>
+        <div class="dropdown-menu">
+          <ul class="list-group" style="margin-top:-25px;background-color:#fff;">
+            <li class='list-group-item ' style="padding:5px">
+              <a href='/AA/EN/book/booking/book-flight' style="white-space : nowrap"
+                class=''>
+                Book a Flight
+              </a>
+            </li>
+            <li class='list-group-item ' style="padding:5px">
+              <a href='/AA/EN/book/booking/book-car' style="white-space : nowrap"
+                class=''>
+                Rent a Car
+              </a>
+            </li>
+            <li class='list-group-item ' style="padding:5px">
+              <a href='/AA/EN/book/booking/flight-status' style="white-space : nowrap"
+                class=''>
+                Flight Status
+              </a>
+            </li>
+            <li class='list-group-item ' style="padding:5px">
+              <a href='/AA/EN/book/booking/flight-schedule' style="white-space : nowrap"
+                class=''>
+                Flight Schedule
+              </a>
+            </li>
+            <li class='list-group-item ' style="padding:5px">
+              <a href='/AA/EN/book/booking/Paymentoption' style="white-space : nowrap"
+                class=''>
+                Payment Option
+              </a>
+            </li>
+            <li class='list-group-item success' style="padding:5px">
+              <a href='/AA/EN/book/booking/web-checkin' style="white-space : nowrap"
+                class='activelink'>
+                Web Check-In
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+<div class="visible-xs">
+  <br/>
+
+  <span class="fa fa-caret-left fa-lg"></span>
+  <b><a href="/AA/EN/book/booking" target="">Book your Trip</a></b><br><br>
+</div>
+
+
+      
+<div class="panel panel-ET">
+  <div class="panel-heading">
+    <h1 style="color:#fff;margin-top:0;margin-bottom:0;font-size:120%;">
+      Web Check-In
+    </h1>
+  </div>
+  <div class="panel-body">
+    <div id="webchkinctt" class="container">
+<form action="/AA/EN/book/booking/web-checkin" method="post"><input name="__RequestVerificationToken" type="hidden" value="nKUOSErYI13WV_q6KyDguR2U7EkHSWKioqd7nirUUnC3NOtmxoE1_YQRhwhjKJ6vjiU2qoHIFfL16UPP4WaBlJqD3g81" /><div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>      <input type="hidden" id="checkin" name="checkin" value='FFEY'/>
+      <input type="hidden" id="DeviceStatus" name="DeviceStatus/">
+      <input type="hidden" id="langchecin" name="langchecin" value="en"/>
+      <div class="row">
+        <div class="btn-group col-sm-12 hidden-sm hidden-xs" role="group" 
+          aria-label="Select one of the following check-in types.">
+          <button type="button" class="btn btn-success btn-sm" id="eticket">Ticket No.</button>
+          <button type="button" class="btn btn-success btn-sm" id="itrnery">Record locator</button>
+          <button type="button" class="btn btn-success btn-sm" id="flightnum">Flight</button>
+          <button type="button" class="btn btn-success btn-sm" id="fflyer">Frequent Flyer</button>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-5 visible-sm visible-xs">
+          <select class="form-control input-sm" title='Check-In Type' id="checkinType">
+            <option value="itrnery">Record locator</option>
+            <option value="flightnum">Flight</option>
+            <option value="fflyer">Frequent Flyer</option>
+            <option value="eticket">Ticket Number</option>
+          </select>
+        </div>
+      </div>
+      <br/>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4" id="PNRchkdiv">
+          <input type="text" class="form-control input-sm"
+            title='PNR (Reservation Code)' id="PNRtxt" name="PNRtxt"
+            autocomplete="off" placeholder='PNR *' data-val="true" aria-required="true"
+            data-val-required='PNR (Passenger Name Record) is required.'/>
+          <input type="text" class="form-control input-sm visible-xs" id="flightlastNametxtPNR"
+            title='Last Name' name="flightlastNametxtPNR"
+            autocomplete="off" placeholder='Last Name'
+            data-val="true" data-val-required='Last Name is required.'/>
+        </div>
+      </div>
+      <div id="flightchkdiv">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="input-group">
+              <span class="input-group-addon basic-addon">ET</span>
+              <input type="number" class="form-control input-sm" id="flightnumbertxt" name="flightnumbertxt"
+                title='Flight Number' data-val-range='Flight Number must be between 100 and 999.'
+                data-val-range-min="100" data-val-range-max="999" aria-required="true"
+                autocomplete="off" placeholder='Flight Number*'
+                data-val="true" data-val-required='Flight Number is required.'/>
+            </div>
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="flightdepartureAirportsel" name="flightdepartureAirportsel" aria-required="true"
+              title='Departure City or Airport' autocomplete="off"
+              placeholder='Departure City or Airport*' 
+              data-val="true" data-val-required='Departure City or Airport is required.'/>                            
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="flightfirstNametxt" name="flightfirstNametxt"
+              title='First Name' autocomplete="off" placeholder='First Name*'
+              data-val-regex-pattern="([a-zA-Z'`]+)" data-val-regex='Please enter valid First Name.'
+              data-val="true" data-val-required='First Name is required.' aria-required="true"/>
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="flightlastNametxt" name="flightlastNametxt"
+              data-val-regex-pattern="([a-zA-Z'`]+)" data-val-regex='Please enter valid Last Name.'
+              title='Last Name' autocomplete="off" placeholder='Last Name*'
+              data-val="true" data-val-required='Last Name is required.' aria-required="true"/>
+          </div>
+        </div>
+      </div>
+      <div id="ffchkdiv">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <select class="form-control input-sm" id="ffairlinesel" name="ffairlinesel"
+              title='Airline Selection'>
+               <option value="ET">ShebaMiles</option>
+              <option value="AC">Aeroplan</option>
+              <option value="NZ">Airpoints</option>
+              <option value="O6">Amigo</option>
+              <option value="NH">ANA Mileage Club</option>              
+              <option value="OZ">Asiana Club</option>
+              <option value="KP">ASKY Club</option>
+              <option value="CM">ConnectMiles</option>
+              <option value="MS">EGYPTAIR Plus</option>
+              <option value="SK">EuroBonus</option>
+              <option value="AI">Flying Returns</option>
+              <option value="BR">Infinity MileageLands</option>
+              <option value="SQ">KrisFlyer</option>
+              <option value="AV">LifeMiles</option>
+              <option value="UA">MileagePlus</option>
+              <option value="LH">Miles & More</option>
+              <option value="A3">Miles & Bonus</option>
+              <option value="TK">Miles & Smiles</option>
+              <option value="CA">PhoenixMiles</option>
+              <option value="TG">Royal Orchid Plus</option>
+              <option value="TP">Victoria</option>
+              <option value="SA">Voyager</option>             
+
+            </select>
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="ffnumbertxt" name="ffnumbertxt"
+              title='Frequent Flyer Number' autocomplete="off" placeholder='Frequent Flyer Number*' aria-required="true"
+              data-val="true" data-val-required='Frequent Flyer Number is required.'/>
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="fffirstNametxt" name="fffirstNametxt"
+              data-val-regex-pattern="([a-zA-Z'`]+)" data-val-regex='Please enter valid First Name.'
+              title='First Name' autocomplete="off" placeholder='First Name*'
+              data-val="true" data-val-required='First Name is required.' aria-required="true"/>
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="fflastNametxt" name="fflastNametxt"
+              data-val-regex-pattern="([a-zA-Z'`]+)" data-val-regex='Please enter valid Last Name.'
+              title='Last Name' autocomplete="off" placeholder='Last Name*'
+              aria-required="true"
+              data-val="true" data-val-required='Last Name is required.'/>
+          </div>
+        </div>
+      </div>
+      <div id="ethkcc">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="ethktxt"
+              title='Ticket Number' name="ethktxt" aria-required="true"
+              autocomplete="off" placeholder='Ticket Number*'
+              data-val="true" data-val-required='Ticket Number is required.'/>
+          </div>
+        </div>
+        <br/>
+        <div class="row">          
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <input type="text" class="form-control input-sm" id="lastnamethk"
+              title='Last Name' name="lastnamethk" aria-required="true"
+              autocomplete="off" placeholder='Last Name*'
+              data-val="true" data-val-required='Last Name is required.'/>
+          </div>
+        </div>
+      </div>
+      <br/>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+          <button type="submit" class="btn btn-success" name="submit-btn" id="submit-btn-chkin" value="checkin" style="margin-left:0;">
+            Check-In&nbsp;<span class="fa fa-external-link"></span>
+          </button>
+        </div>
+      </div>
+      <br/>
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <a href='/AA/EN/information/check-in/online-check-in' target="_blank">
+            <strong>Online Check-In Help</strong>
+          </a>
+        </div>
+      </div>
+      <br/>
+</form>    </div>
+  </div>
+</div>
+    </div>
+    <!--end main container-->
+    <!--footer-->
+    <div class="container" role="contentinfo">
+      <div class="row">
+  <br/>
+  <div class="col-sm-8">
+    <div class="thumbnail">
+      <div class="caption row">        
+        <ul class="list-group col-lg-5">
+          <li class="list-group-item">
+            <strong>Information and Services</strong>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/information/essential/ethiopian-customer-commitment' id="quick-links">Ethiopian Customer Commitment</a>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/information/essential/tarmac-delay-contingency-plan'>Tarmac delay and Contingency plan</a>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/information/baggage'>Baggage Information</a>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/information/baggage/excess-and-special-baggage'>Excess and Special Baggage</a>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/information/essential/optional-service-charges'>Optional Service Charges</a>              
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/information/special/disability-service-request-form'>Disability Service Request Form to/from USA</a>                
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/services/airport'>At the Airport</a>
+          </li>
+        </ul>
+        <ul class="list-group col-lg-4">
+          <li class="list-group-item"><strong>Customer Support</strong></li>          
+          <li class="list-group-item">
+            <a href='/AA/EN/services/support'>Help and Contacts</a>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/services/support/call-center-numbers'>Call Center Numbers</a>
+          </li>
+          <li class="list-group-item">
+            <a href='/AA/EN/services/support/support-feedback'>Comments and Complaints</a>
+          </li>
+          
+           <li class="list-group-item">
+            <a href='/AA/EN/services/support/FAQ'> Frequently Asked Questions</a>
+          </li>
+          
+        </ul>
+        <ul class="list-group col-lg-3">
+          <li class="list-group-item"><strong>Corporate</strong></li>
+          <li class="list-group-item">
+            <a href="/corporate/media">Media</a>
+          </li>
+          <li class="list-group-item">
+            <a href="/corporate/careers">Careers</a>
+          </li>
+          <li class="list-group-item">
+            <a href="/corporate/group">Aviation Group</a>
+          </li>
+        </ul>                       
+      </div>
+    </div>      
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">   
+      <div class="caption">
+        <strong class="green">Subscription</strong><hr/>
+        Get the best of Ethiopian offers and news.<hr/>
+        <a href='/AA/EN/services/support/subscription' class="btn btn-success" role="button">
+          Subscribe Now
+        </a>
+      </div>
+    </div>
+  </div>  
+</div>
+      
+<nav class="navbar green" id="social">
+  
+  <p class="navbar-text navbar-left green">
+    &copy;2017 Ethiopian Airlines.&nbsp;&nbsp;
+    <a href="/corporate/" target="_blank" class="green"><strong>Corporate</strong></a>&nbsp;&nbsp;
+    <a href='/AA/EN/sitemap' class="green"><strong>Sitemap</strong></a>    
+  </p>
+  
+  <div class="navbar-right">
+    <a href="http://www.staralliance.com/en/member-airline-details?airlineCode=ET" target="_blank" class="navbar-text green">
+      <img src="/Cms_Data/Contents/EthiopianAirlines/Media/FlyEthiopian/Logo/StarAlliance.jpg" 
+        alt='Star Alliance' width="200px" title='Star Alliance Membership Logo'/>
+    </a>
+    <a title="Facebook" target="_blank" href="https://www.facebook.com/ethiopianairlines" class="navbar-text green">
+      <span class="fa fa-facebook fa-lg">&nbsp;</span><span class="sr-only">Facebook</span>
+    </a>
+    <a title="Twitter" target="_blank" href="https://twitter.com/flyethiopian" class="navbar-text green">
+      <span class="fa fa-twitter fa-lg">&nbsp;</span><span class="sr-only">Twitter</span>
+    </a>
+    <a title="Google+" target="_blank" href="https://plus.google.com/+ethiopianairlinescom" class="navbar-text green">
+      <span class="fa fa-google-plus fa-lg">&nbsp;</span><span class="sr-only">Google Plus</span>
+    </a>
+    <a title="YouTube" target="_blank" href="https://www.youtube.com/user/flyethiopian" class="navbar-text green">
+      <span class="fa fa-youtube fa-lg">&nbsp;</span><span class="sr-only">YouTube</span>
+    </a>
+    <a title="Instagram" target="_blank" href="https://instagram.com/fly.ethiopian" class="navbar-text green">
+      <span class="fa fa-instagram fa-lg">&nbsp;</span><span class="sr-only">Instagram</span>
+    </a>
+    <a title="Weibo" target="_blank" href="http://weibo.com/ethiopianairlinesCN" class="navbar-text green">
+      <span class="fa fa-weibo fa-lg">&nbsp;</span><span class="sr-only">Weibo</span>
+    </a>
+      <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/company/ethiopian-airlines" class="navbar-text green">
+      <span class="fa fa-linkedin fa-lg">&nbsp;</span><span class="sr-only">LinkedIn</span>
+    </a>
+  </div>  
+</nav>
+
+    </div>
+    <!--end footer-->
+    <script src="/Kooboo-WebResource/Index/jQuery/20130227" type="text/javascript"></script>
+<script type="text/javascript" src="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Scripts/et-js-imported.min.js" ></script>
+<script type="text/javascript" src="/Cms_Data/Sites/EthiopianAirlines/Sites/FlyEthiopian/Scripts/et-js.min.js" ></script>
+
+  </body>
+</html>

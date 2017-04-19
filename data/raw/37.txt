@@ -1,0 +1,1224 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>
+        Fairtrade America
+    </title>
+    <meta charset="UTF-8">
+    
+        
+            <meta name="description" content="Fairtrade America - Working to secure a better deal for farmers and workers around the world." />
+            <meta name="keywords" content="Fairtrade America, fair trade, trade justice, fairness, fairtrade" />
+        
+        
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta property="og:title" content="Fairtrade America"/>
+    
+    <meta property="og:description"
+            content="Fairtrade America - Working to secure a better deal for farmers and workers around the world."/>
+    
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+        var JQ = jQuery.noConflict();
+    </script>
+
+
+    <!-- Google Maps -->
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3.14&amp;sensor=false"></script>
+
+    <!-- CSS -->
+    
+    
+    <link href="/Css/Fairtrade/Master.min.css" rel="stylesheet" media="screen" />
+    <link href="/Css/Fairtrade/Print.min.css" rel="stylesheet" media="print" />
+
+    <!-- Scripts -->
+
+    <!--[if lt IE 9]>   
+        <link href="/Css/Fairtrade/IE8.min.css" rel="stylesheet" media="screen" />
+        <script src="/Scripts/Fairtrade/Plugins/html5shiv.js"></script>
+        <script src="/Scripts/Fairtrade/Plugins/respond.min.js"></script>
+    <![endif]-->
+    
+
+    <link rel="icon" type="image/png" href="/favicon.ico" />
+    
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35174803-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    
+</head>
+
+<body id="BodyTag" class="Desktop">
+
+    <form method="post" action="/" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjM1NzAwNTQPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCAhMPFgIeBWNsYXNzBQdEZXNrdG9wFgICARBkZBYKAgEPZBYCZg9kFgYCBQ9kFgJmD2QWBAIBDw9kFgQeC3BsYWNlaG9sZGVyBQZTZWFyY2geBXRpdGxlBQZTZWFyY2hkAgMPDxYCHgRUZXh0BQZTZWFyY2hkZAIHD2QWAmYPZBYCAgEPFgIeC18hSXRlbUNvdW50AgYWDAIBD2QWBAIBDw8WAh4LTmF2aWdhdGVVcmwFGC9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZWRkAgMPFgIfBQIHFg4CAQ9kFgQCAQ8PFgQfBgUsL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3doYXQtZmFpcnRyYWRlLWRvZXMfBAUTV2hhdCBGYWlydHJhZGUgZG9lc2RkAgMPFgIfBQL/////D2QCAg9kFgQCAQ8PFgQfBgUjL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3doby13ZS1hcmUfBAUKV2hvIHdlIGFyZWRkAgMPFgIfBQL/////D2QCAw9kFgQCAQ8PFgQfBgUqL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL2ZhY3RzLWFuZC1maWd1cmVzHwQFHEZhaXJ0cmFkZSBGYWN0cyBhbmQgRmlndXJlcyBkZAIDDxYCHwUC/////w9kAgQPZBYEAgEPDxYEHwYFIC9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZS9yZXBvcnRzHwQFEUZhaXJ0cmFkZSBSZXBvcnRzZGQCAw8WAh8FAv////8PZAIFD2QWBAIBDw8WBB8GBTEvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvdXNpbmctdGhlLWZhaXJ0cmFkZS1tYXJrHwQFGFVzaW5nIHRoZSBGQUlSVFJBREUgTWFya2RkAgMPFgIfBQL/////D2QCBg9kFgQCAQ8PFgQfBgUdL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL2ZhcXMfBAUERkFRc2RkAgMPFgIfBQL/////D2QCBw9kFgQCAQ8PFgQfBgUvL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3RoZS1pbXBhY3Qtb2Ytb3VyLXdvcmsfBAUWVGhlIGltcGFjdCBvZiBvdXIgd29ya2RkAgMPFgIfBQIFFgoCAQ9kFgICAQ8PFgQfBgVTL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3RoZS1pbXBhY3Qtb2Ytb3VyLXdvcmsvdGhlLWRpZmZlcmVuY2UtdGhhdC1mYWlydHJhZGUtbWFrZXMfBAUjVGhlIGRpZmZlcmVuY2UgdGhhdCBGYWlydHJhZGUgbWFrZXNkZAICD2QWAgIBDw8WBB8GBUQvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvdGhlLWltcGFjdC1vZi1vdXItd29yay9vdXItdGhlb3J5LW9mLWNoYW5nZR8EBRRPdXIgdGhlb3J5IG9mIGNoYW5nZWRkAgMPZBYCAgEPDxYEHwYFWS9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZS90aGUtaW1wYWN0LW9mLW91ci13b3JrL21lYXN1cmluZy1hbmQtbW9uaXRvcmluZy1mYWlydHJhZGUtaW1wYWN0HwQFKU1lYXN1cmluZyBhbmQgbW9uaXRvcmluZyBGYWlydHJhZGUgaW1wYWN0ZGQCBA9kFgICAQ8PFgQfBgVQL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3RoZS1pbXBhY3Qtb2Ytb3VyLXdvcmsvd2hlcmUtZmFpcnRyYWRlLW5lZWRzLXRvLWRvLW1vcmUfBAUgV2hlcmUgRmFpcnRyYWRlIG5lZWRzIHRvIGRvIG1vcmVkZAIFD2QWAgIBDw8WBB8GBVYvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvdGhlLWltcGFjdC1vZi1vdXItd29yay9pbXBhY3QtcmVzZWFyY2gtYW5kLWV2YWx1YXRpb24tc3R1ZGllcx8EBSZJbXBhY3QgcmVzZWFyY2ggYW5kIGV2YWx1YXRpb24gc3R1ZGllc2RkAgIPZBYEAgEPDxYCHwYFGS9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHNkZAIDDxYCHwUCCBYQAgEPZBYEAgEPDxYEHwYFMy9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHMvYmFuYW5hcy1hbmQtZnJlc2gtcHJvZHVjZR8EBRhCdXlpbmcgRmFpcnRyYWRlIEJhbmFuYXNkZAIDDxYCHwUC/////w9kAgIPZBYEAgEPDxYEHwYFIy9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHMvY2hvY29sYXRlHwQFGkJ1eWluZyBGYWlydHJhZGUgQ2hvY29sYXRlZGQCAw8WAh8FAv////8PZAIDD2QWBAIBDw8WBB8GBSAvZW4tdXMvZmFpcnRyYWRlLXByb2R1Y3RzL2NvZmZlZR8EBRdCdXlpbmcgRmFpcnRyYWRlIENvZmZlZWRkAgMPFgIfBQL/////D2QCBA9kFgQCAQ8PFgQfBgUhL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0cy9mbG93ZXJzHwQFGEJ1eWluZyBGYWlydHJhZGUgRmxvd2Vyc2RkAgMPFgIfBQL/////D2QCBQ9kFgQCAQ8PFgQfBgUfL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0cy9zdWdhch8EBRZCdXlpbmcgRmFpcnRyYWRlIFN1Z2FyZGQCAw8WAh8FAv////8PZAIGD2QWBAIBDw8WBB8GBR0vZW4tdXMvZmFpcnRyYWRlLXByb2R1Y3RzL3RlYR8EBRRCdXlpbmcgRmFpcnRyYWRlIFRlYWRkAgMPFgIfBQL/////D2QCBw9kFgQCAQ8PFgQfBgUgL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0cy9jb3R0b24fBAUXQnV5aW5nIEZhaXJ0cmFkZSBDb3R0b25kZAIDDxYCHwUC/////w9kAggPZBYEAgEPDxYEHwYFHy9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHMvb3RoZXIfBAUpQnV5aW5nIE90aGVyIEZhaXJ0cmFkZSBDZXJ0aWZpZWQgUHJvZHVjdHNkZAIDDxYCHwUC/////w9kAgMPZBYEAgEPDxYCHwYFGi9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzZGQCAw8WAh8FAggWEAIBD2QWBAIBDw8WBB8GBSIvZW4tdXMvZmFybWVycy1hbmQtd29ya2Vycy9iYW5hbmFzHwQFGkJhbmFuYSBGYXJtZXJzIGFuZCBXb3JrZXJzZGQCAw8WAh8FAv////8PZAICD2QWBAIBDw8WBB8GBSAvZW4tdXMvZmFybWVycy1hbmQtd29ya2Vycy9jb2NvYR8EBSNGYWlydHJhZGUgQ29jb2EgRmFybWVycyBhbmQgV29ya2Vyc2RkAgMPFgIfBQL/////D2QCAw9kFgQCAQ8PFgQfBgUhL2VuLXVzL2Zhcm1lcnMtYW5kLXdvcmtlcnMvY29mZmVlHwQFJEZhaXJ0cmFkZSBDb2ZmZWUgRmFybWVycyBhbmQgV29ya2Vyc2RkAgMPFgIfBQL/////D2QCBA9kFgQCAQ8PFgQfBgUhL2VuLXVzL2Zhcm1lcnMtYW5kLXdvcmtlcnMvY290dG9uHwQFJEZhaXJ0cmFkZSBDb3R0b24gRmFybWVycyBhbmQgV29ya2Vyc2RkAgMPFgIfBQL/////D2QCBQ9kFgQCAQ8PFgQfBgUiL2VuLXVzL2Zhcm1lcnMtYW5kLXdvcmtlcnMvZmxvd2Vycx8EBSRGYWlydHJhZGUgRmxvd2VyIEZhcm1lcnMgYW5kIFdvcmtlcnNkZAIDDxYCHwUC/////w9kAgYPZBYEAgEPDxYEHwYFIC9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL3N1Z2FyHwQFI0ZhaXJ0cmFkZSBTdWdhciBGYXJtZXJzIGFuZCBXb3JrZXJzZGQCAw8WAh8FAv////8PZAIHD2QWBAIBDw8WBB8GBR4vZW4tdXMvZmFybWVycy1hbmQtd29ya2Vycy90ZWEfBAUhRmFpcnRyYWRlIFRlYSBGYXJtZXJzIGFuZCBXb3JrZXJzZGQCAw8WAh8FAv////8PZAIID2QWBAIBDw8WBB8GBR8vZW4tdXMvZmFybWVycy1hbmQtd29ya2Vycy93aW5lHwQFIkZhaXJ0cmFkZSBXaW5lIEZhcm1lcnMgYW5kIFdvcmtlcnNkZAIDDxYCHwUC/////w9kAgQPZBYEAgEPDxYCHwYFEy9lbi11cy9nZXQtaW52b2x2ZWRkZAIDDxYCHwUCBRYKAgEPZBYEAgEPDxYEHwYFKS9lbi11cy9nZXQtaW52b2x2ZWQvd2luLWZhaXJ0cmFkZS1nb29kaWVzHwQFFVdpbiBGYWlydHJhZGUgR29vZGllc2RkAgMPFgIfBQL/////D2QCAg9kFgQCAQ8PFgQfBgUaL2VuLXVzL2dldC1pbnZvbHZlZC9ldmVudHMfBAUGRXZlbnRzZGQCAw8WAh8FAv////8PZAIDD2QWBAIBDw8WBB8GBR8vZW4tdXMvZ2V0LWludm9sdmVkL3dvcmstZm9yLXVzHwQFC1dvcmsgZm9yIHVzZGQCAw8WAh8FAv////8PZAIED2QWBAIBDw8WBB8GBTAvZW4tdXMvZ2V0LWludm9sdmVkL2ZhaXJ0cmFkZS1hbWVyaWNhLW5ld3NsZXR0ZXIfBAURTmV3c2xldHRlciBTaWdudXBkZAIDDxYCHwUC/////w9kAgUPZBYEAgEPDxYEHwYFHi9lbi11cy9nZXQtaW52b2x2ZWQvY29udGFjdC11cx8EBQpDb250YWN0IHVzZGQCAw8WAh8FAv////8PZAIFD2QWBAIBDw8WAh8GBRMvZW4tdXMvZm9yLWJ1c2luZXNzZGQCAw8WAh8FAgIWBAIBD2QWBAIBDw8WBB8GBTIvZW4tdXMvZm9yLWJ1c2luZXNzL3dheXMtb2Ytd29ya2luZy13aXRoLWZhaXJ0cmFkZR8EBRVDZXJ0aWZ5IFlvdXIgUHJvZHVjdHNkZAIDDxYCHwUCAxYGAgEPZBYCAgEPDxYEHwYFRC9lbi11cy9mb3ItYnVzaW5lc3Mvd2F5cy1vZi13b3JraW5nLXdpdGgtZmFpcnRyYWRlL2JlY29tZS1hLWxpY2Vuc2VlHwQFEUJlY29tZSBhIExpY2Vuc2VlZGQCAg9kFgICAQ8PFgQfBgVOL2VuLXVzL2Zvci1idXNpbmVzcy93YXlzLW9mLXdvcmtpbmctd2l0aC1mYWlydHJhZGUvZmFpcnRyYWRlLXNvdXJjaW5nLXByb2dyYW1zHwQFG0ZhaXJ0cmFkZSBTb3VyY2luZyBQcm9ncmFtc2RkAgMPZBYCAgEPDxYEHwYFRS9lbi11cy9mb3ItYnVzaW5lc3Mvd2F5cy1vZi13b3JraW5nLXdpdGgtZmFpcnRyYWRlL3RyYWRlci1hcHBsaWNhdGlvbh8EBRlCZWNvbWUgYSBGYWlydHJhZGUgVHJhZGVyZGQCAg9kFgQCAQ8PFgQfBgUdL2VuLXVzL2Zvci1idXNpbmVzcy9yZXRhaWxlcnMfBAUNRm9yIFJldGFpbGVyc2RkAgMPFgIfBQL/////D2QCBg9kFgQCAQ8PFgIfBgUYL2VuLXVzL21lZGlhLWNlbnRlci9ibG9nZGQCAw8WAh8FAv////8PZAIJD2QWAmYPZBYCZg8WAh8FAgMWBgIBD2QWAgIBDw8WBB8GBR4vZW4tdXMvZ2V0LWludm9sdmVkL2NvbnRhY3QtdXMeBlRhcmdldGVkFgICAQ8WAh8EBQpDb250YWN0IHVzZAICD2QWAgIBDw8WBB8GBRMvZW4tdXMvbWVkaWEtY2VudGVyHwdlZBYCAgEPFgIfBAUMTWVkaWEgQ2VudGVyZAIDD2QWAgIBDw8WBB8GZR8HZWQWAgIBDxYCHwRlZAIDD2QWAmYPZBYIAgMPZBYCZg9kFgQCAQ8PZBYEHwIFBlNlYXJjaB8DBQZTZWFyY2hkAgMPDxYCHwQFBlNlYXJjaGRkAgUPZBYCZg8PFgIeB1Zpc2libGVoZBYCZg8WAh8FAv////8PZAIHD2QWAmYPZBYCZg8WAh8FAgMWBgIBD2QWAgIBDw8WBB8GBR4vZW4tdXMvZ2V0LWludm9sdmVkL2NvbnRhY3QtdXMfB2VkFgICAQ8WAh8EBQpDb250YWN0IHVzZAICD2QWAgIBDw8WBB8GBRMvZW4tdXMvbWVkaWEtY2VudGVyHwdlZBYCAgEPFgIfBAUMTWVkaWEgQ2VudGVyZAIDD2QWAgIBDw8WBB8GZR8HZWQWAgIBDxYCHwRlZAIJD2QWAmYPZBYCAgEPFgIfBQIGFgwCAQ9kFgICAQ8WAh8BBQZwdXJwbGUWBgIBDw8WAh8GBRgvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGVkZAIDD2QWBGYPZBYEAgEPFgIfBQL/////D2QCAw8PFgIfBgUYL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlZGQCAQ9kFgYCAQ8WAh8FAgYWDAIBD2QWBAIBDw8WBB8GBSwvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvd2hhdC1mYWlydHJhZGUtZG9lcx8EBRNXaGF0IEZhaXJ0cmFkZSBkb2VzZGQCAw8WAh8FAv////8PZAICD2QWBAIBDw8WBB8GBSMvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvd2hvLXdlLWFyZR8EBQpXaG8gd2UgYXJlZGQCAw8WAh8FAv////8PZAIDD2QWBAIBDw8WBB8GBSovZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvZmFjdHMtYW5kLWZpZ3VyZXMfBAUcRmFpcnRyYWRlIEZhY3RzIGFuZCBGaWd1cmVzIGRkAgMPFgIfBQL/////D2QCBA9kFgQCAQ8PFgQfBgUgL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3JlcG9ydHMfBAURRmFpcnRyYWRlIFJlcG9ydHNkZAIDDxYCHwUC/////w9kAgUPZBYEAgEPDxYEHwYFMS9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZS91c2luZy10aGUtZmFpcnRyYWRlLW1hcmsfBAUYVXNpbmcgdGhlIEZBSVJUUkFERSBNYXJrZGQCAw8WAh8FAv////8PZAIGD2QWBAIBDw8WBB8GBR0vZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvZmFxcx8EBQRGQVFzZGQCAw8WAh8FAv////8PZAIDDxYCHwUCARYCAgEPZBYEAgEPDxYEHwYFLy9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZS90aGUtaW1wYWN0LW9mLW91ci13b3JrHwQFFlRoZSBpbXBhY3Qgb2Ygb3VyIHdvcmtkZAIDDxYCHwUCBRYKAgEPZBYCAgEPDxYEHwYFUy9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZS90aGUtaW1wYWN0LW9mLW91ci13b3JrL3RoZS1kaWZmZXJlbmNlLXRoYXQtZmFpcnRyYWRlLW1ha2VzHwQFI1RoZSBkaWZmZXJlbmNlIHRoYXQgRmFpcnRyYWRlIG1ha2VzZGQCAg9kFgICAQ8PFgQfBgVEL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3RoZS1pbXBhY3Qtb2Ytb3VyLXdvcmsvb3VyLXRoZW9yeS1vZi1jaGFuZ2UfBAUUT3VyIHRoZW9yeSBvZiBjaGFuZ2VkZAIDD2QWAgIBDw8WBB8GBVkvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvdGhlLWltcGFjdC1vZi1vdXItd29yay9tZWFzdXJpbmctYW5kLW1vbml0b3JpbmctZmFpcnRyYWRlLWltcGFjdB8EBSlNZWFzdXJpbmcgYW5kIG1vbml0b3JpbmcgRmFpcnRyYWRlIGltcGFjdGRkAgQPZBYCAgEPDxYEHwYFUC9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZS90aGUtaW1wYWN0LW9mLW91ci13b3JrL3doZXJlLWZhaXJ0cmFkZS1uZWVkcy10by1kby1tb3JlHwQFIFdoZXJlIEZhaXJ0cmFkZSBuZWVkcyB0byBkbyBtb3JlZGQCBQ9kFgICAQ8PFgQfBgVWL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3RoZS1pbXBhY3Qtb2Ytb3VyLXdvcmsvaW1wYWN0LXJlc2VhcmNoLWFuZC1ldmFsdWF0aW9uLXN0dWRpZXMfBAUmSW1wYWN0IHJlc2VhcmNoIGFuZCBldmFsdWF0aW9uIHN0dWRpZXNkZAIFD2QWBAIBDw8WAh8GBSUvZW4tdXMvd2hhdC1pcy1mYWlydHJhZGUvcHJvZHVjZXItbWFwZGQCBQ8PFgIfBgUlL2VuLXVzL3doYXQtaXMtZmFpcnRyYWRlL3Byb2R1Y2VyLW1hcGRkAgUPDxYCHwYFGC9lbi11cy93aGF0LWlzLWZhaXJ0cmFkZWRkAgIPZBYCAgEPFgIfAQUEcGluaxYGAgEPDxYCHwYFGS9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHNkZAIDD2QWBGYPZBYEAgEPFgIfBQIIFhACAQ9kFgICAQ8PFgIfBgUzL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0cy9iYW5hbmFzLWFuZC1mcmVzaC1wcm9kdWNlZGQCAg9kFgICAQ8PFgIfBgUjL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0cy9jaG9jb2xhdGVkZAIDD2QWAgIBDw8WAh8GBSAvZW4tdXMvZmFpcnRyYWRlLXByb2R1Y3RzL2NvZmZlZWRkAgQPZBYCAgEPDxYCHwYFIS9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHMvZmxvd2Vyc2RkAgUPZBYCAgEPDxYCHwYFHy9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHMvc3VnYXJkZAIGD2QWAgIBDw8WAh8GBR0vZW4tdXMvZmFpcnRyYWRlLXByb2R1Y3RzL3RlYWRkAgcPZBYCAgEPDxYCHwYFIC9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHMvY290dG9uZGQCCA9kFgICAQ8PFgIfBgUfL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0cy9vdGhlcmRkAgMPDxYCHwYFGS9lbi11cy9mYWlydHJhZGUtcHJvZHVjdHNkZAIBD2QWBAIBDxYCHwUC/////w9kAgMPFgIfBQL/////D2QCBQ8PFgIfBgUZL2VuLXVzL2ZhaXJ0cmFkZS1wcm9kdWN0c2RkAgMPZBYCAgEPFgIfAQUEYmx1ZRYGAgEPDxYCHwYFGi9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzZGQCAw9kFgRmD2QWBAIBDxYCHwUCCBYQAgEPZBYCAgEPDxYCHwYFIi9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL2JhbmFuYXNkZAICD2QWAgIBDw8WAh8GBSAvZW4tdXMvZmFybWVycy1hbmQtd29ya2Vycy9jb2NvYWRkAgMPZBYCAgEPDxYCHwYFIS9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL2NvZmZlZWRkAgQPZBYCAgEPDxYCHwYFIS9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL2NvdHRvbmRkAgUPZBYCAgEPDxYCHwYFIi9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL2Zsb3dlcnNkZAIGD2QWAgIBDw8WAh8GBSAvZW4tdXMvZmFybWVycy1hbmQtd29ya2Vycy9zdWdhcmRkAgcPZBYCAgEPDxYCHwYFHi9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL3RlYWRkAggPZBYCAgEPDxYCHwYFHy9lbi11cy9mYXJtZXJzLWFuZC13b3JrZXJzL3dpbmVkZAIDDw8WAh8GBRovZW4tdXMvZmFybWVycy1hbmQtd29ya2Vyc2RkAgEPZBYEAgEPFgIfBQL/////D2QCAw8WAh8FAv////8PZAIFDw8WAh8GBRovZW4tdXMvZmFybWVycy1hbmQtd29ya2Vyc2RkAgQPZBYCAgEPFgIfAQUFZ3JlZW4WBgIBDw8WAh8GBRMvZW4tdXMvZ2V0LWludm9sdmVkZGQCAw9kFgRmD2QWBAIBDxYCHwUC/////w9kAgMPDxYCHwYFEy9lbi11cy9nZXQtaW52b2x2ZWRkZAIBD2QWBgIBDxYCHwUCAhYEAgEPZBYEAgEPDxYEHwYFKS9lbi11cy9nZXQtaW52b2x2ZWQvd2luLWZhaXJ0cmFkZS1nb29kaWVzHwQFFVdpbiBGYWlydHJhZGUgR29vZGllc2RkAgMPFgIfBQL/////D2QCAg9kFgQCAQ8PFgQfBgUaL2VuLXVzL2dldC1pbnZvbHZlZC9ldmVudHMfBAUGRXZlbnRzZGQCAw8WAh8FAv////8PZAIDDxYCHwUCAxYGAgEPZBYEAgEPDxYEHwYFHy9lbi11cy9nZXQtaW52b2x2ZWQvd29yay1mb3ItdXMfBAULV29yayBmb3IgdXNkZAIDDxYCHwUC/////w9kAgIPZBYEAgEPDxYEHwYFMC9lbi11cy9nZXQtaW52b2x2ZWQvZmFpcnRyYWRlLWFtZXJpY2EtbmV3c2xldHRlch8EBRFOZXdzbGV0dGVyIFNpZ251cGRkAgMPFgIfBQL/////D2QCAw9kFgQCAQ8PFgQfBgUeL2VuLXVzL2dldC1pbnZvbHZlZC9jb250YWN0LXVzHwQFCkNvbnRhY3QgdXNkZAIDDxYCHwUC/////w9kAgUPZBYEAgEPDxYCHwYFLS9lbi11cy9nZXQtaW52b2x2ZWQvd29ybGQtZmFpcnRyYWRlLWNoYWxsZW5nZWRkAgUPDxYCHwYFLS9lbi11cy9nZXQtaW52b2x2ZWQvd29ybGQtZmFpcnRyYWRlLWNoYWxsZW5nZWRkAgUPDxYCHwYFEy9lbi11cy9nZXQtaW52b2x2ZWRkZAIFD2QWAgIBDxYCHwEFBm9yYW5nZRYGAgEPDxYCHwYFEy9lbi11cy9mb3ItYnVzaW5lc3NkZAIDD2QWBGYPZBYEAgEPFgIfBQL/////D2QCAw8PFgIfBgUTL2VuLXVzL2Zvci1idXNpbmVzc2RkAgEPZBYGAgEPFgIfBQIBFgICAQ9kFgQCAQ8PFgQfBgUyL2VuLXVzL2Zvci1idXNpbmVzcy93YXlzLW9mLXdvcmtpbmctd2l0aC1mYWlydHJhZGUfBAUVQ2VydGlmeSBZb3VyIFByb2R1Y3RzZGQCAw8WAh8FAgMWBgIBD2QWAgIBDw8WBB8GBUQvZW4tdXMvZm9yLWJ1c2luZXNzL3dheXMtb2Ytd29ya2luZy13aXRoLWZhaXJ0cmFkZS9iZWNvbWUtYS1saWNlbnNlZR8EBRFCZWNvbWUgYSBMaWNlbnNlZWRkAgIPZBYCAgEPDxYEHwYFTi9lbi11cy9mb3ItYnVzaW5lc3Mvd2F5cy1vZi13b3JraW5nLXdpdGgtZmFpcnRyYWRlL2ZhaXJ0cmFkZS1zb3VyY2luZy1wcm9ncmFtcx8EBRtGYWlydHJhZGUgU291cmNpbmcgUHJvZ3JhbXNkZAIDD2QWAgIBDw8WBB8GBUUvZW4tdXMvZm9yLWJ1c2luZXNzL3dheXMtb2Ytd29ya2luZy13aXRoLWZhaXJ0cmFkZS90cmFkZXItYXBwbGljYXRpb24fBAUZQmVjb21lIGEgRmFpcnRyYWRlIFRyYWRlcmRkAgMPFgIfBQIBFgICAQ9kFgQCAQ8PFgQfBgUdL2VuLXVzL2Zvci1idXNpbmVzcy9yZXRhaWxlcnMfBAUNRm9yIFJldGFpbGVyc2RkAgMPFgIfBQL/////D2QCBQ9kFgQCAQ8PFgIfBgUvL2VuLXVzL2Zvci1idXNpbmVzcy90ZWxsaW5nLXRoZS1mYWlydHJhZGUtc3RvcnlkZAIFDw8WAh8GBS8vZW4tdXMvZm9yLWJ1c2luZXNzL3RlbGxpbmctdGhlLWZhaXJ0cmFkZS1zdG9yeWRkAgUPDxYCHwYFEy9lbi11cy9mb3ItYnVzaW5lc3NkZAIGD2QWAgIBDxYCHwFkFgYCAQ8PFgIfBgUYL2VuLXVzL21lZGlhLWNlbnRlci9ibG9nZGQCAw9kFgRmD2QWBAIBDxYCHwUC/////w9kAgMPDxYCHwYFGC9lbi11cy9tZWRpYS1jZW50ZXIvYmxvZ2RkAgEPZBYGAgEPFgIfBWZkAgMPFgIfBWZkAgUPDxYCHwhoZGQCBQ8PFgIfBgUYL2VuLXVzL21lZGlhLWNlbnRlci9ibG9nZGQCBQ9kFgJmD2QWAmYPZBYKZg8VBAM1MDAENTAwMAVmYWxzZQR0cnVlZAIBDxYCHwhoZAIDDxYCHwUCA2QCBQ8WAh8IaGQCBw8WAh8IaGQCBw9kFgJmD2QWAmYPZBYEAgMPFgIfBQIEFghmD2QWAmYPFQEgOTlGRUExREZGRjcwNEFBNDk3NUJEQ0RBQUM1MEVFQkRkAgEPZBYCZg8VASA1NDMyNkM0QkM5OUU0M0RBODVBNjk0MEMwMkM1QTlDRGQCAg9kFgJmDxUBIDYyRkEzMDlFRDAwRDRDRThCMjU3QTMwQUQxQUY0NjJEZAIDD2QWAmYPFQEgREIzRjI3MzRCNTg2NEExOEJGM0M5RUYzMjIyRDc2M0FkAgUPZBYUAgEPZBYCZg9kFgJmDw8WBB4IQ3NzQ2xhc3MFfXByb21vLXBhbmVsIGdyZWVuIDk5RkVBMURGRkY3MDRBQTQ5NzVCRENEQUFDNTBFRUJEIDYyRkEzMDlFRDAwRDRDRThCMjU3QTMwQUQxQUY0NjJEIERCM0YyNzM0QjU4NjRBMThCRjNDOUVGMzIyMkQ3NjNBIGludmVydGVkHgRfIVNCAgJkZAIDD2QWAmYPZBYCZg8WAh8FAgEWAmYPZBYCAgEPDxYEHwkFTmxhdGVzdC1ibG9ncyA5OUZFQTFERkZGNzA0QUE0OTc1QkRDREFBQzUwRUVCRCBEQjNGMjczNEI1ODY0QTE4QkYzQzlFRjMyMjJENzYzQR8KAgJkFgQCAQ8PFgIfBgU4L2VuLXVzL21lZGlhLWNlbnRlci9ibG9nLzIwMTcvYXByaWwvZ2V0dGluZy1kaWdpLXdpdGgtaXRkZAIFDw8WAh8GBTgvZW4tdXMvbWVkaWEtY2VudGVyL2Jsb2cvMjAxNy9hcHJpbC9nZXR0aW5nLWRpZ2ktd2l0aC1pdGRkAgQPZBYCZg9kFgJmDw8WBB8JBVtwcm9tby1wYW5lbCBibHVlIDk5RkVBMURGRkY3MDRBQTQ5NzVCRENEQUFDNTBFRUJEIDU0MzI2QzRCQzk5RTQzREE4NUE2OTQwQzAyQzVBOUNEIG5vaW52ZXJ0HwoCAmRkAgUPZBYCZg9kFgJmDw8WBB8JBTxwcm9tby1wYW5lbCBwdXJwbGUgOTlGRUExREZGRjcwNEFBNDk3NUJEQ0RBQUM1MEVFQkQgbm9pbnZlcnQfCgICZGQCBw9kFgJmD2QWAmYPDxYEHwkFTWxhdGVzdC1uZXdzIDk5RkVBMURGRkY3MDRBQTQ5NzVCRENEQUFDNTBFRUJEIERCM0YyNzM0QjU4NjRBMThCRjNDOUVGMzIyMkQ3NjNBHwoCAmQWBAIDDxYCHwUCAhYEAgEPZBYCAgMPDxYCHwYFPC9lbi11cy9tZWRpYS1jZW50ZXIvbmV3cy9mYWlyLXRyYWRlLWNhbXBhaWducy1oaXJpbmctZmVsbG93c2RkAgIPZBYCAgMPDxYCHwYFOS9lbi11cy9tZWRpYS1jZW50ZXIvbmV3cy9mcmFucy1jaG9jb2xhdGVzLWdvb2QtZm9vZC1hd2FyZGRkAgUPDxYCHwYFGC9lbi11cy9tZWRpYS1jZW50ZXIvbmV3c2RkAggPZBYCZg9kFgJmDw8WBB8JBVZwcm9tby1wYW5lbCBEQjNGMjczNEI1ODY0QTE4QkYzQzlFRjMyMjJENzYzQSA5OUZFQTFERkZGNzA0QUE0OTc1QkRDREFBQzUwRUVCRCBub2ludmVydB8KAgJkZAIJD2QWAmYPZBYCZg8PFgQfCQVgY29udGVudC1jYXJvdXNlbCBwaW5rIDk5RkVBMURGRkY3MDRBQTQ5NzVCRENEQUFDNTBFRUJEIDYyRkEzMDlFRDAwRDRDRThCMjU3QTMwQUQxQUY0NjJEIGludmVydGVkHwoCAmQWCgIEDxUEAzMwMAQzMDAwBHRydWUFZmFsc2VkAgUPFgIfCGhkAgcPFgIfBQIBZAIJDxYCHwhoZAILDxYCHwhoZAIKD2QWAmYPZBYCZg8PFgQfCQViY29udGVudC1jYXJvdXNlbCBvcmFuZ2UgOTlGRUExREZGRjcwNEFBNDk3NUJEQ0RBQUM1MEVFQkQgNjJGQTMwOUVEMDBENENFOEIyNTdBMzBBRDFBRjQ2MkQgaW52ZXJ0ZWQfCgICZBYEAgQPFQQDNTAwBDMwMDAFZmFsc2UEdHJ1ZWQCBw8WAh8FAgNkAgsPZBYCZg9kFgJmDxYCHwVmZAIND2QWAmYPZBYCZg8PFgQfCQVXdXBjb21pbmctZXZlbnRzIGdyZWVuIDk5RkVBMURGRkY3MDRBQTQ5NzVCRENEQUFDNTBFRUJEIERCM0YyNzM0QjU4NjRBMThCRjNDOUVGMzIyMkQ3NjNBHwoCAmQWBAIDDxYCHwUCAxYGAgEPZBYEAgUPDxYCHwYFRC9lbi11cy9nZXQtaW52b2x2ZWQvZXZlbnRzL2Jvb2stbGF1bmNoLWxpdmluZy13YWdlcy1hcm91bmQtdGhlLXdvcmxkZGQCDQ8PFgIfCGhkZAICD2QWBgIFDw8WAh8GBTcvZW4tdXMvZ2V0LWludm9sdmVkL2V2ZW50cy9nbG9iYWwtc3BlY2lhbHR5LWNvZmZlZS1leHBvZGQCCw8PFgIfCGhkZAINDw8WAh8IaGRkAgMPZBYGAgUPDxYCHwYFMS9lbi11cy9nZXQtaW52b2x2ZWQvZXZlbnRzL3NjYWEtZmFpcnRyYWRlLWN1cHBpbmdkZAILDw8WAh8IaGRkAg0PDxYCHwhoZGQCBQ8PFgIfBgUaL2VuLXVzL2dldC1pbnZvbHZlZC9ldmVudHNkZAILD2QWAmYPZBYIAgEPZBYCZg9kFgICFw8PFgIfBgUlbWFpbHRvOnF1ZXN0aW9uc0BmYWlydHJhZGVhbWVyaWNhLm9yZ2RkAgcPZBYCZg9kFgICAQ8WAh8FAgQWCAIBD2QWAgIBDw8WBB8GBR4vZW4tdXMvZ2V0LWludm9sdmVkL2NvbnRhY3QtdXMfB2VkFgICAQ8WAh8EBQpDb250YWN0IHVzZAICD2QWAgIBDw8WBB8GBQ4vZW4tdXMvc2l0ZW1hcB8HZWQWAgIBDxYCHwQFB1NpdGVtYXBkAgMPZBYCAgEPDxYEHwYFEy9lbi11cy90ZXJtcy1vZi11c2UfB2VkFgICAQ8WAh8EBQxUZXJtcyBvZiBVc2VkAgQPZBYCAgEPDxYEHwYFFS9lbi11cy9wcml2YWN5LXBvbGljeR8HZWQWAgIBDxYCHwQFDlByaXZhY3kgUG9saWN5ZAIJD2QWAmYPZBYCAgEPFgIfBAUawqkgMjAxNSBGYWlydHJhZGUgQW1lcmljYSBkAgsPZBYCZg9kFgJmD2QWAgIBDxYCHwUCAhYEAgEPZBYCAgEPDxYCHwhoZBYCZg8VAQZUYWJsZXRkAgIPZBYCAgEPDxYEHwYFFC9lbi11cz9kZXZpY2U9TW9iaWxlHwQFEFZpZXcgbW9iaWxlIHNpdGVkZBgGBSpjdGwwNiRjdGwwMyRycHRNYWluTmF2aWdhdGlvbiRjdGwwMSRtdndOYXYPD2QCAWQFKmN0bDA2JGN0bDAzJHJwdE1haW5OYXZpZ2F0aW9uJGN0bDA0JG12d05hdg8PZAIBZAUqY3RsMDYkY3RsMDMkcnB0TWFpbk5hdmlnYXRpb24kY3RsMDMkbXZ3TmF2Dw9kZmQFKmN0bDA2JGN0bDAzJHJwdE1haW5OYXZpZ2F0aW9uJGN0bDA1JG12d05hdg8PZAIBZAUqY3RsMDYkY3RsMDMkcnB0TWFpbk5hdmlnYXRpb24kY3RsMDIkbXZ3TmF2Dw9kZmQFKmN0bDA2JGN0bDAzJHJwdE1haW5OYXZpZ2F0aW9uJGN0bDA2JG12d05hdg8PZAIBZGzEmgeup9V9DQnSOGMYH738chtLJEi/jaQINEENUGMY" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="12D5928E" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAONSXQgcyFrc6c0diSXgP8zH+tcSqR6qbhsd0QWOxX0sIPwB5LW54jdFd5hMvrKs6Cpl9V0SpjzWM2yg0W28cLMBlTbIGcMd98BXI59uUOJAA==" />
+</div>
+          
+
+
+        
+
+        <div id="Wrapper">
+
+            
+ <header class="header">
+
+<div class="header-nav-wrapper">
+    <div class="wrapper-inner">
+
+        <div class="site-logo"><a href="/en-us"><img src="/~/media/fairtrade%20america/images/logo/fairtrade_america_logo_web.jpg?h=115&amp;la=en-US&amp;mw=298&amp;w=95" alt="Fairtrade America Logo" width="95" height="115" /></a></div>
+        <div class="header-nav-wrapper">
+            
+<div class="search-box">
+    <input name="ctl06$ctl00$txtSearch" type="text" id="ctl06_ctl00_txtSearch" class="js-tags" placeholder="Search" title="Search" />
+    <input type="submit" name="ctl06$ctl00$btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl06$ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;TopSearch&quot;, &quot;&quot;, false, false))" id="ctl06_ctl00_btnSearch" class="js-searchbox-submit" />
+    &nbsp;
+   
+</div>
+
+
+
+            <div class="header-navigation">
+                
+                
+        <ul class="header-navigation">
+    
+                <li>
+                <a id="ctl06_ctl02_rptNavigation_lnkNavigation_0" href="/en-us/get-involved/contact-us">Contact us</a>
+                </li>
+    
+                <li>
+                <a id="ctl06_ctl02_rptNavigation_lnkNavigation_1" href="/en-us/media-center">Media Center</a>
+                </li>
+    
+                <li>
+                <a id="ctl06_ctl02_rptNavigation_lnkNavigation_2"></a>
+                </li>
+    
+            </ul>
+    
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<div class="main-nav-wrapper">
+    <div class="main-nav-inner">
+
+        
+                <ul class="main-nav">
+            
+                <li id="ctl06_ctl03_rptMainNavigation_liMain_0" class="purple">
+                    <a id="ctl06_ctl03_rptMainNavigation_lnkMain_0" href="/en-us/what-is-fairtrade">What is Fairtrade?</a>
+                    <div class="main-nav-panel">
+                        <div class="main-nav-panel-wrapper">
+
+                            
+                                    <div class="main-nav-panel-columns">
+
+                                        
+                                                <ul>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_0_lnkItem_0" href="/en-us/what-is-fairtrade/what-fairtrade-does">What Fairtrade does</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_0_lnkItem_1" href="/en-us/what-is-fairtrade/who-we-are">Who we are</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_0_lnkItem_2" href="/en-us/what-is-fairtrade/facts-and-figures">Fairtrade Facts and Figures </a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_0_lnkItem_3" href="/en-us/what-is-fairtrade/reports">Fairtrade Reports</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_0_lnkItem_4" href="/en-us/what-is-fairtrade/using-the-fairtrade-mark">Using the FAIRTRADE Mark</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_0_lnkItem_5" href="/en-us/what-is-fairtrade/faqs">FAQs</a>
+                                                    
+                                                </li>
+                                            
+                                                </ul>
+                                            
+
+                                        
+                                                <ul>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_0_lnkItem_0" href="/en-us/what-is-fairtrade/the-impact-of-our-work">The impact of our work</a>
+                                                    
+                                                            <ul>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_0_rptChildren_0_lnkItem_0" href="/en-us/what-is-fairtrade/the-impact-of-our-work/the-difference-that-fairtrade-makes">The difference that Fairtrade makes</a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_0_rptChildren_0_lnkItem_1" href="/en-us/what-is-fairtrade/the-impact-of-our-work/our-theory-of-change">Our theory of change</a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_0_rptChildren_0_lnkItem_2" href="/en-us/what-is-fairtrade/the-impact-of-our-work/measuring-and-monitoring-fairtrade-impact">Measuring and monitoring Fairtrade impact</a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_0_rptChildren_0_lnkItem_3" href="/en-us/what-is-fairtrade/the-impact-of-our-work/where-fairtrade-needs-to-do-more">Where Fairtrade needs to do more</a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_0_rptChildren_0_lnkItem_4" href="/en-us/what-is-fairtrade/the-impact-of-our-work/impact-research-and-evaluation-studies">Impact research and evaluation studies</a>
+                                                            </li>
+                                                        
+                                                            </ul>
+                                                        
+                                                </li>
+                                            
+                                                </ul>
+                                            
+
+                                        <div id="ctl06_ctl03_rptMainNavigation_pnlPromo_0" class="feature">
+	
+                                            <a id="ctl06_ctl03_rptMainNavigation_lnkPromo_0" href="/en-us/what-is-fairtrade/producer-map"><img src="/~/media/fairtrade%20global/images/content/what%20is%20fairtrade/producer%20map%202.jpg?h=175&amp;la=en-US&amp;w=280" alt="Producer map" width="280" height="175" /></a>
+                                            <h2 class="feature-heading">
+                                                
+                                            </h2>
+                                            <a id="ctl06_ctl03_rptMainNavigation_lnkPromo2_0" class="feature-link" href="/en-us/what-is-fairtrade/producer-map">Producer map</a>
+                                        
+</div>
+
+                                    </div>
+                                
+                            
+                        </div>
+                        <div class="main-nav-panel-link">
+                            <a id="ctl06_ctl03_rptMainNavigation_lnkImageAdditional_0" href="/en-us/what-is-fairtrade">What is Fairtrade?</a>
+                        </div>
+                    </div>
+                 </li>
+            
+                <li id="ctl06_ctl03_rptMainNavigation_liMain_1" class="pink">
+                    <a id="ctl06_ctl03_rptMainNavigation_lnkMain_1" href="/en-us/fairtrade-products">Fairtrade PRODUCTS</a>
+                    <div class="main-nav-panel">
+                        <div class="main-nav-panel-wrapper">
+
+                            
+                                    <div class="main-nav-panel-list">
+
+                                        <ul>
+                                            
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_0" href="/en-us/fairtrade-products/bananas-and-fresh-produce"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_bananas/2nd_fairtrade_prod_bananas.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade America Banana" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Bananas
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_1" href="/en-us/fairtrade-products/chocolate"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_chocolate/2nd_fairtrade_prod_chocolate.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Chocolate" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Chocolate
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_2" href="/en-us/fairtrade-products/coffee"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_coffee/2nd_fairtrade_prod_coffee.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Coffee" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Coffee
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_3" href="/en-us/fairtrade-products/flowers"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_flowers/2nd_fairtrade_prod_flowers.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Flowers" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Flowers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_4" href="/en-us/fairtrade-products/sugar"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_sugar/2nd_buy_fairtrade_sugar.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Sugar" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Sugar
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_5" href="/en-us/fairtrade-products/tea"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_tea/2nd_fairtrade_prod_tea.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Tea" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Tea
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_6" href="/en-us/fairtrade-products/cotton"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_prod_cotton/2nd_fairtrade_prod_cotton.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Cotton" width="100" height="83" />
+                                                            <span>
+                                                                Buying Fairtrade Cotton
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_1_lnkImage_7" href="/en-us/fairtrade-products/other"><img src="/~/media/fairtrade%20america/images/hero/products/hero_fairtrade_honeycomb/2nd_fairtrade_honeycomb.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Buy Fairtrade Honey" width="100" height="83" />
+                                                            <span>
+                                                                Buying Other Fairtrade Certified Products
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                
+                                            <!-- TODO Decide how best to achieve the show all link and make dynamic-->
+                                            <li class="show-all">
+                                                <a id="ctl06_ctl03_rptMainNavigation_lnkShowAll_1" href="/en-us/fairtrade-products">
+                                                    <span>All</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                
+                            
+                        </div>
+                        <div class="main-nav-panel-link">
+                            <a id="ctl06_ctl03_rptMainNavigation_lnkImageAdditional_1" href="/en-us/fairtrade-products">Fairtrade PRODUCTS</a>
+                        </div>
+                    </div>
+                 </li>
+            
+                <li id="ctl06_ctl03_rptMainNavigation_liMain_2" class="blue">
+                    <a id="ctl06_ctl03_rptMainNavigation_lnkMain_2" href="/en-us/farmers-and-workers">Farmers and workers</a>
+                    <div class="main-nav-panel">
+                        <div class="main-nav-panel-wrapper">
+
+                            
+                                    <div class="main-nav-panel-list">
+
+                                        <ul>
+                                            
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_0" href="/en-us/farmers-and-workers/bananas"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_bananas/2nd_fairtrade_farmer_bananas.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Banana Producers" width="100" height="83" />
+                                                            <span>
+                                                                Banana Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_1" href="/en-us/farmers-and-workers/cocoa"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_cocoa3/2nd_fairtrade_farmer_cocoa.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Cocoa Producer" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Cocoa Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_2" href="/en-us/farmers-and-workers/coffee"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_coffee/2nd_fairtrade_farmer_coffee.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Coffee Producer" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Coffee Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_3" href="/en-us/farmers-and-workers/cotton"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_cotton/2nd_fairtrade_farmer_cotton.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Cotton Producer" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Cotton Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_4" href="/en-us/farmers-and-workers/flowers"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_flower/2nd_fairtrade_farmer_flower.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Flowers Producers" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Flower Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_5" href="/en-us/farmers-and-workers/sugar"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_sugarcane/2nd_fairtrade_farmer_sugarcane.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Farmer Worker" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Sugar Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_6" href="/en-us/farmers-and-workers/tea"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmers_tea/2nd_fairtrade_farmer_tea.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Tea Producers" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Tea Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a id="ctl06_ctl03_rptMainNavigation_rptImages_2_lnkImage_7" href="/en-us/farmers-and-workers/wine"><img src="/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_wine/2nd_fairtrade_farmer_wine.jpg?h=83&amp;la=en-US&amp;mh=100&amp;mw=100&amp;w=100" alt="Fairtrade Wine Producer" width="100" height="83" />
+                                                            <span>
+                                                                Fairtrade Wine Farmers and Workers
+                                                            </span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                
+                                            <!-- TODO Decide how best to achieve the show all link and make dynamic-->
+                                            <li class="show-all">
+                                                <a id="ctl06_ctl03_rptMainNavigation_lnkShowAll_2" href="/en-us/farmers-and-workers">
+                                                    <span>All</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                
+                            
+                        </div>
+                        <div class="main-nav-panel-link">
+                            <a id="ctl06_ctl03_rptMainNavigation_lnkImageAdditional_2" href="/en-us/farmers-and-workers">Farmers and workers</a>
+                        </div>
+                    </div>
+                 </li>
+            
+                <li id="ctl06_ctl03_rptMainNavigation_liMain_3" class="green">
+                    <a id="ctl06_ctl03_rptMainNavigation_lnkMain_3" href="/en-us/get-involved">Get involved</a>
+                    <div class="main-nav-panel">
+                        <div class="main-nav-panel-wrapper">
+
+                            
+                                    <div class="main-nav-panel-columns">
+
+                                        
+                                                <ul>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_3_lnkItem_0" href="/en-us/get-involved/win-fairtrade-goodies">Win Fairtrade Goodies</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_3_lnkItem_1" href="/en-us/get-involved/events">Events</a>
+                                                    
+                                                </li>
+                                            
+                                                </ul>
+                                            
+
+                                        
+                                                <ul>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_3_lnkItem_0" href="/en-us/get-involved/work-for-us">Work for us</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_3_lnkItem_1" href="/en-us/get-involved/fairtrade-america-newsletter">Newsletter Signup</a>
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_3_lnkItem_2" href="/en-us/get-involved/contact-us">Contact us</a>
+                                                    
+                                                </li>
+                                            
+                                                </ul>
+                                            
+
+                                        <div id="ctl06_ctl03_rptMainNavigation_pnlPromo_3" class="feature">
+	
+                                            <a id="ctl06_ctl03_rptMainNavigation_lnkPromo_3" href="/en-us/get-involved/world-fairtrade-challenge"><img src="/~/media/fairtrade%20america/images/events/2nd_events_2017_world_fairtrade_challenge.jpg?h=210&amp;la=en-US&amp;w=280" alt="World Fairtrade Challenge Logo" width="280" height="210" /></a>
+                                            <h2 class="feature-heading">
+                                                
+                                            </h2>
+                                            <a id="ctl06_ctl03_rptMainNavigation_lnkPromo2_3" class="feature-link" href="/en-us/get-involved/world-fairtrade-challenge">World Fairtrade Challenge</a>
+                                        
+</div>
+
+                                    </div>
+                                
+                            
+                        </div>
+                        <div class="main-nav-panel-link">
+                            <a id="ctl06_ctl03_rptMainNavigation_lnkImageAdditional_3" href="/en-us/get-involved">Get involved</a>
+                        </div>
+                    </div>
+                 </li>
+            
+                <li id="ctl06_ctl03_rptMainNavigation_liMain_4" class="orange">
+                    <a id="ctl06_ctl03_rptMainNavigation_lnkMain_4" href="/en-us/for-business">For Business</a>
+                    <div class="main-nav-panel">
+                        <div class="main-nav-panel-wrapper">
+
+                            
+                                    <div class="main-nav-panel-columns">
+
+                                        
+                                                <ul>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_4_lnkItem_0" href="/en-us/for-business/ways-of-working-with-fairtrade">Certify Your Products</a>
+                                                    
+                                                            <ul>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_4_rptChildren_0_lnkItem_0" href="/en-us/for-business/ways-of-working-with-fairtrade/become-a-licensee">Become a Licensee</a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_4_rptChildren_0_lnkItem_1" href="/en-us/for-business/ways-of-working-with-fairtrade/fairtrade-sourcing-programs">Fairtrade Sourcing Programs</a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a id="ctl06_ctl03_rptMainNavigation_rptColumnOne_4_rptChildren_0_lnkItem_2" href="/en-us/for-business/ways-of-working-with-fairtrade/trader-application">Become a Fairtrade Trader</a>
+                                                            </li>
+                                                        
+                                                            </ul>
+                                                        
+                                                </li>
+                                            
+                                                </ul>
+                                            
+
+                                        
+                                                <ul>
+                                            
+                                                <li>
+                                                    <a id="ctl06_ctl03_rptMainNavigation_rptColumnTwo_4_lnkItem_0" href="/en-us/for-business/retailers">For Retailers</a>
+                                                    
+                                                </li>
+                                            
+                                                </ul>
+                                            
+
+                                        <div id="ctl06_ctl03_rptMainNavigation_pnlPromo_4" class="feature">
+	
+                                            <a id="ctl06_ctl03_rptMainNavigation_lnkPromo_4" href="/en-us/for-business/telling-the-fairtrade-story"><img src="/~/media/fairtrade%20america/images/hero/random%20extras/hero_women_bowls/2nd_women_bowls.jpg?h=288&amp;la=en-US&amp;w=345" alt="Fairtrade Shea Producers" width="345" height="288" /></a>
+                                            <h2 class="feature-heading">
+                                                
+                                            </h2>
+                                            <a id="ctl06_ctl03_rptMainNavigation_lnkPromo2_4" class="feature-link" href="/en-us/for-business/telling-the-fairtrade-story">Tell your Fairtrade story</a>
+                                        
+</div>
+
+                                    </div>
+                                
+                            
+                        </div>
+                        <div class="main-nav-panel-link">
+                            <a id="ctl06_ctl03_rptMainNavigation_lnkImageAdditional_4" href="/en-us/for-business">For Business</a>
+                        </div>
+                    </div>
+                 </li>
+            
+                <li id="ctl06_ctl03_rptMainNavigation_liMain_5">
+                    <a id="ctl06_ctl03_rptMainNavigation_lnkMain_5" href="/en-us/media-center/blog">Blog</a>
+                    <div class="main-nav-panel">
+                        <div class="main-nav-panel-wrapper">
+
+                            
+                                    <div class="main-nav-panel-columns">
+
+                                        
+                                                <ul>
+                                            
+                                                </ul>
+                                            
+
+                                        
+                                                <ul>
+                                            
+                                                </ul>
+                                            
+
+                                        
+
+                                    </div>
+                                
+                            
+                        </div>
+                        <div class="main-nav-panel-link">
+                            <a id="ctl06_ctl03_rptMainNavigation_lnkImageAdditional_5" href="/en-us/media-center/blog">Blog</a>
+                        </div>
+                    </div>
+                 </li>
+            
+                </ul>
+            
+
+    </div>
+</div>
+
+
+
+
+
+
+  
+</header>
+
+
+            <div id="Banner">
+                
+
+<!-- Main Carousel - Wireframe Reference: 1011-DMSW -->
+<div class="main-carousel">
+<div class="cycle-slideshow-holder">
+     <div class="cycle-slideshow-wrapper">
+        <div class="cycle-slideshow-custom"
+            data-cycle-fx="scrollHorz"
+            data-cycle-speed="500"
+            data-cycle-timeout="5000"
+            data-cycle-slides="> .cycle-slide"
+            data-cycle-update-view="1"
+            data-cycle-paused="false"
+            data-cycle-pause-on-hover="true" >
+
+            
+
+            
+                
+                    <div class="cycle-slide">
+                        <div class="slide-content cta" style="background-image:url(/~/media/fairtrade%20america/images/hero/home/hero_fairtrade_tea_home.jpg?h=480&amp;amp;la=en-US&amp;amp;w=1300);"><div class="slider-txt"><h2>Fairtrade. Empowering farmers.</h2><a class="carousel-link" href="/en-us/what-is-fairtrade">What is Fairtrade</a></div></div>
+                        
+                    </div>
+                
+                    <div class="cycle-slide">
+                        <div class="slide-content cta" style="background-image:url(/~/media/fairtrade%20america/images/hero/farmers/hero_fairtrade_farmer_cotton.jpg?h=480&amp;amp;la=en-US&amp;amp;w=1300);"><div class="slider-txt"><h2>Fairtrade. Empowering farmers.</h2><a class="carousel-link" href="/en-us/farmers-and-workers">Farmers and Workers</a></div></div>
+                        
+                    </div>
+                
+                    <div class="cycle-slide">
+                        <div class="slide-content cta" style="background-image:url(/~/media/fairtrade%20america/images/hero/random%20extras/hero_fairtrade_premium.jpg?h=480&amp;amp;la=en-US&amp;amp;w=1300);"><div class="slider-txt"><h2>Fairtrade. Empowering People.</h2><a class="carousel-link" href="/en-us/what-is-fairtrade/what-fairtrade-does">What Fairtrade does</a></div></div>
+                        
+                    </div>
+                
+                
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
+</div>
+            </div>
+
+            <!-- Main Content Placeholder BEGINS -->
+            <div id="Main">
+                <div class="wrapper-inner">
+                    
+
+
+<div id="PlHome">
+    <div id="ph-primary-content">
+        
+        
+        <div class="filter-bar filters">
+            <h2>What would you like to see?</h2>
+            <ul class="filters">
+                
+                        <li><a href="#" data-filter=".99FEA1DFFF704AA4975BDCDAAC50EEBD"><span>The Big Picture</span></a></li>
+                    
+                        <li><a href="#" data-filter=".54326C4BC99E43DA85A6940C02C5A9CD"><span>Why care about Fairtrade?</span></a></li>
+                    
+                        <li><a href="#" data-filter=".62FA309ED00D4CE8B257A30AD1AF462D"><span>What can I do?</span></a></li>
+                    
+                        <li><a href="#" data-filter=".DB3F2734B5864A18BF3C9EF3222D763A"><span>What&#39;s new?</span></a></li>
+                    
+            </ul>
+        </div>
+        <div class="js-isotope-custom" data-isotope-options='{ "itemSelector": ".js-isotope>div" }'>
+            <div id="phmain_0_phcontent_0_pnlContainer" class="promo-panel">
+	
+    
+        
+    
+
+    <h2>Welcome</h2>
+
+   
+    <div id="phmain_0_phcontent_0_pnlShortText" class="rich-text">
+		
+        <p><br />
+</p>
+    
+	</div>
+    
+    
+
+
+</div><div id="phmain_0_phcontent_1_pnlContainer" class="promo-panel green 99FEA1DFFF704AA4975BDCDAAC50EEBD 62FA309ED00D4CE8B257A30AD1AF462D DB3F2734B5864A18BF3C9EF3222D763A inverted">
+	
+    <a href="/en-us/get-involved/world-fairtrade-challenge">
+        <img src="/~/media/fairtrade%20america/images/events/2nd_events_2017_world_fairtrade_challenge.jpg?h=210&amp;la=en-US&amp;mw=400&amp;w=280" alt="World Fairtrade Challenge Logo" width="280" height="210" />
+    </a>
+
+    <h2>Join the World Fairtrade Challenge</h2>
+
+   
+    <div id="phmain_0_phcontent_1_pnlShortText" class="rich-text">
+		
+        <p>Celebrate World Fair Trade Day by hosting a Fairtrade Celebration - we've come so far in 30 years!</p>
+    
+	</div>
+    
+    <a class="read-more" href="/en-us/get-involved/world-fairtrade-challenge">World Fairtrade Challenge</a>
+
+
+</div><div id="phmain_0_phcontent_2_pnlContainer" class="promo-panel">
+	
+    
+        
+    
+
+    <h2>Welcome</h2>
+
+   
+    <div id="phmain_0_phcontent_2_pnlShortText" class="rich-text">
+		
+        <p><br />
+</p>
+    
+	</div>
+    
+    
+
+
+</div>
+        <div id="phmain_0_phcontent_3_rptBlogs_pnlContainer_0" class="latest-blogs 99FEA1DFFF704AA4975BDCDAAC50EEBD DB3F2734B5864A18BF3C9EF3222D763A">
+	
+            <a id="phmain_0_phcontent_3_rptBlogs_hypBlog_0" href="/en-us/media-center/blog/2017/april/getting-digi-with-it"><img src="/~/media/fairtrade%20america/images/blog/2017/hero_blog_getting_digi_with_it_2.jpg?h=203&amp;la=en-US&amp;mw=400&amp;w=400" alt="Coffee farmers set up virtual university in Honduras" width="400" height="203" /></a>
+
+            <h2>
+                <span class="pre">
+                    From the blog
+                </span>
+
+                <a id="phmain_0_phcontent_3_rptBlogs_lnkBlogPost_0" href="/en-us/media-center/blog/2017/april/getting-digi-with-it">Getting Digi with IT</a>
+
+            </h2>
+
+            <p class="info">
+                <span class="date">
+                    17/04/2017
+                </span>
+            </p>
+        
+</div>
+    
+
+<div id="phmain_0_phcontent_4_pnlContainer" class="promo-panel blue 99FEA1DFFF704AA4975BDCDAAC50EEBD 54326C4BC99E43DA85A6940C02C5A9CD noinvert">
+	
+    <a href="/en-us/farmers-and-workers">
+        <img src="/~/media/fairtrade%20america/images/home%20panels/home_woman_coffeebeans.gif?h=350&amp;la=en-US&amp;mw=400&amp;w=400" alt="Fairtrade Coffee Producer" width="400" height="350" />
+    </a>
+
+    <h2>At the heart of Fairtrade&#160;</h2>
+
+   
+    <div id="phmain_0_phcontent_4_pnlShortText" class="rich-text">
+		
+        <p>Find out more about the people behind the products we love.
+</p>
+    
+	</div>
+    
+    <a class="read-more" href="/en-us/farmers-and-workers">Farmers and Workers</a>
+
+
+</div><div id="phmain_0_phcontent_5_pnlContainer" class="promo-panel purple 99FEA1DFFF704AA4975BDCDAAC50EEBD noinvert">
+	
+    <a href="/en-us/what-is-fairtrade">
+        <img src="/~/media/fairtrade%20america/images/home%20panels/home_baby_doctors.jpg?h=330&amp;la=en-US&amp;mw=400&amp;w=400" alt="Fairtrade tea farmers" width="400" height="330" />
+    </a>
+
+    <h2>What is Fairtrade</h2>
+
+   
+    <div id="phmain_0_phcontent_5_pnlShortText" class="rich-text">
+		
+        <p>By choosing Fairtrade, you have the power to change the world every day.</p>
+    
+	</div>
+    
+    <a class="read-more" href="/en-us/what-is-fairtrade">What is Fairtrade</a>
+
+
+</div><div id="phmain_0_phcontent_6_pnlContainer" class="promo-panel">
+	
+    
+        
+    
+
+    <h2>Welcome</h2>
+
+   
+    <div id="phmain_0_phcontent_6_pnlShortText" class="rich-text">
+		
+        <p><br />
+</p>
+    
+	</div>
+    
+    
+
+
+</div><div id="phmain_0_phcontent_7_pnlContainer" class="latest-news 99FEA1DFFF704AA4975BDCDAAC50EEBD DB3F2734B5864A18BF3C9EF3222D763A">
+	
+    <h2>
+        
+    </h2>
+
+    
+            <ul>
+        
+                <li>
+                    <div class="image">
+                        <img src="/~/media/fairtrade%20america/images/news/2017/2nd_news_ftc_fellows.jpg?h=90&amp;la=en-US&amp;mw=120&amp;w=120" alt="fellow FTC" width="120" height="90" />
+                    </div>
+                    <div class="desc">
+                        <h3><a id="phmain_0_phcontent_7_rptNews_lnkNews_0" href="/en-us/media-center/news/fair-trade-campaigns-hiring-fellows">Fair Trade Campaigns Hiring 2017-18 Fellows</h3>
+                        </a></h3>
+                        <em>10 Apr 2017</em>
+                    </div>
+                </li>
+        
+                <li>
+                    <div class="image">
+                        <img src="/~/media/fairtrade%20america/images/news/2017/2nd_news_frans_annt.jpg?h=90&amp;la=en-US&amp;mw=120&amp;w=120" alt="Fran&#39;s Almond Gold Bar" width="120" height="90" />
+                    </div>
+                    <div class="desc">
+                        <h3><a id="phmain_0_phcontent_7_rptNews_lnkNews_1" href="/en-us/media-center/news/frans-chocolates-good-food-award">Fran’s Chocolates Receives Prestigious Good Food Award</h3>
+                        </a></h3>
+                        <em>07 Mar 2017</em>
+                    </div>
+                </li>
+        
+            </ul>
+        
+
+    <a id="phmain_0_phcontent_7_lnkMoreNews" class="read-more" href="/en-us/media-center/news">News</a>
+
+</div><div id="phmain_0_phcontent_8_pnlContainer" class="promo-panel DB3F2734B5864A18BF3C9EF3222D763A 99FEA1DFFF704AA4975BDCDAAC50EEBD noinvert">
+	
+    <a href="https://annualreport.fairtradeamerica.org/en/" target="_blank">
+        <img src="/~/media/fairtrade%20america/images/home%20panels/home_panel_annual_report_15-16.png?h=330&amp;la=en-US&amp;mw=400&amp;w=400" alt="Fairtrade Annual Impact Report" width="400" height="330" />
+    </a>
+
+    <h2>Sustainability from the Ground Up</h2>
+
+   
+    <div id="phmain_0_phcontent_8_pnlShortText" class="rich-text">
+		
+        <p>Sales of Fairtrade products that meet the rigorous Fairtrade Standards grew by 33% in 2015. Learn how Fairtrade makes a difference.</p>
+    
+	</div>
+    
+    <a class="read-more" href="https://annualreport.fairtradeamerica.org/en/" target="_blank">Learn about Fairtrade's 2015-16 Impact</a>
+
+
+</div><div id="phmain_0_phcontent_9_pnlContainer" class="content-carousel pink 99FEA1DFFF704AA4975BDCDAAC50EEBD 62FA309ED00D4CE8B257A30AD1AF462D inverted">
+	
+    <h2>
+        Eat-Drink-Buy Fairtrade
+    </h2>
+    
+    <div id="phmain_0_phcontent_9_pnlShortText" class="rich-text">
+		
+        <p>You can buy the best with Fairtrade and make a difference too!</p>
+    
+	</div>
+
+        <div class="cycle-slideshow-wrapper">
+         <div class="cycle-slideshow-custom"
+             data-cycle-fx="scrollHorz"
+            data-cycle-speed="300"
+            data-cycle-timeout="3000"
+            data-cycle-slides="> .cycle-slide"
+            data-cycle-update-view="1"
+            data-cycle-paused="true"
+            data-cycle-pause-on-hover="false" >
+            
+            
+
+            
+                
+                        <div class="cycle-slide">
+                            <div class="slide-content cta" style="background-image:url(/~/media/fairtrade%20global/images/slides/content%20slide%202.jpg?h=288&amp;amp;la=en-US&amp;amp;w=400);"><div class="slider-txt"></div></div>
+                            
+                        </div>
+                
+                
+            
+                
+
+                
+        </div>
+        </div>
+
+
+    <a class="read-more" href="/en-us/fairtrade-products">Fairtrade Products</a>
+
+</div><div id="phmain_0_phcontent_10_pnlContainer" class="content-carousel orange 99FEA1DFFF704AA4975BDCDAAC50EEBD 62FA309ED00D4CE8B257A30AD1AF462D inverted">
+	
+    <h2>
+        Fairtrade is good business
+    </h2>
+    
+    <div id="phmain_0_phcontent_10_pnlShortText" class="rich-text">
+		
+        <p>Reasons for your business to work with Fairtrade<br></p>
+    
+	</div>
+
+        <div class="cycle-slideshow-wrapper">
+         <div class="cycle-slideshow-custom"
+             data-cycle-fx="scrollHorz"
+            data-cycle-speed="500"
+            data-cycle-timeout="3000"
+            data-cycle-slides="> .cycle-slide"
+            data-cycle-update-view="1"
+            data-cycle-paused="false"
+            data-cycle-pause-on-hover="true" >
+            
+            <div id="phmain_0_phcontent_10_CyclePager" class="cycle-pager"></div>
+
+            
+                
+                        <div class="cycle-slide">
+                            <div class="slide-content factoid" style="background-image:url();"><div class="slider-txt"><h2>Over 35,000 products</h2><p>carry the FAIRTRADE Mark worldwide.</p></div></div>
+                            
+                        </div>
+                
+                        <div class="cycle-slide">
+                            <div class="slide-content factoid" style="background-image:url();"><div class="slider-txt"><h2>33% Sales Growth</h2><p>of Fairtrade Products in the USA</p></div></div>
+                            
+                        </div>
+                
+                        <div class="cycle-slide">
+                            <div class="slide-content factoid" style="background-image:url();"><div class="slider-txt"><h2>The most trusted</h2><p>ethical label in the USA</p></div></div>
+                            
+                        </div>
+                
+                
+            
+                <a id="phmain_0_phcontent_10_CyclePrev" class="cycle-prev">
+                    
+                </a>
+
+                <a id="phmain_0_phcontent_10_CycleNext" class="cycle-next">
+                    
+                </a>
+        </div>
+        </div>
+
+
+    <a class="read-more" href="/en-us/for-business">Working with Fairtrade</a>
+
+</div>
+<div id="phmain_0_phcontent_12_pnlContainer" class="promo-panel">
+	
+    
+        
+    
+
+    <h2>Welcome</h2>
+
+   
+    <div id="phmain_0_phcontent_12_pnlShortText" class="rich-text">
+		
+        <p><br />
+</p>
+    
+	</div>
+    
+    
+
+
+</div><div id="phmain_0_phcontent_13_pnlContainer" class="upcoming-events green 99FEA1DFFF704AA4975BDCDAAC50EEBD DB3F2734B5864A18BF3C9EF3222D763A">
+	
+    <h2>
+        What&#39;s going on?
+    </h2>
+
+    
+            <ul>
+        
+                <li>
+                    <span class="calendar">
+                        <span class="calendar-month">Apr</span>
+                        <span class="calendar-day">19</span>
+                    </span>
+                    <div class="desc">
+                        <h3><a id="phmain_0_phcontent_13_rptEvents_lnkEvent_0" href="/en-us/get-involved/events/book-launch-living-wages-around-the-world">Book Launch: Living Wages Around the World</a></h3>
+                        <p class="venue">
+                        <span id="phmain_0_phcontent_13_rptEvents_labelVenueTitle_0">Puck: The Rudin Family Forum for Civic Dialogue</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelAddress1_0">295 Lafayette Street</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelAddress2_0">2nd Floor</span>
+                        
+                        <span id="phmain_0_phcontent_13_rptEvents_labelTown_0">New York</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelRegion_0">NY</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelCountry_0">USA</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelPostcode_0">10012-9604</span>
+                    </p>
+                       
+                    </div>
+                </li>
+        
+                <li>
+                    <span class="calendar">
+                        <span class="calendar-month">Apr</span>
+                        <span class="calendar-day">21</span>
+                    </span>
+                    <div class="desc">
+                        <h3><a id="phmain_0_phcontent_13_rptEvents_lnkEvent_1" href="/en-us/get-involved/events/global-specialty-coffee-expo">Global Specialty Coffee Expo</a></h3>
+                        <p class="venue">
+                        <span id="phmain_0_phcontent_13_rptEvents_labelVenueTitle_1">Washington State Convention Center</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelAddress1_1">800 Convention Place</span>
+                        
+                        
+                        <span id="phmain_0_phcontent_13_rptEvents_labelTown_1">Seattle</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelRegion_1">Washington</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelCountry_1">USA</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelPostcode_1">98101</span>
+                    </p>
+                       
+                    </div>
+                </li>
+        
+                <li>
+                    <span class="calendar">
+                        <span class="calendar-month">Apr</span>
+                        <span class="calendar-day">22</span>
+                    </span>
+                    <div class="desc">
+                        <h3><a id="phmain_0_phcontent_13_rptEvents_lnkEvent_2" href="/en-us/get-involved/events/scaa-fairtrade-cupping">SCAA Fairtrade Cupping</a></h3>
+                        <p class="venue">
+                        <span id="phmain_0_phcontent_13_rptEvents_labelVenueTitle_2">Washington State Convention Center</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelAddress1_2">800 Convention Place</span>
+                        
+                        
+                        <span id="phmain_0_phcontent_13_rptEvents_labelTown_2">Seattle</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelRegion_2">Washington</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelCountry_2">USA</span>
+                        <span id="phmain_0_phcontent_13_rptEvents_labelPostcode_2">98101</span>
+                    </p>
+                       
+                    </div>
+                </li>
+        
+            </ul>
+        
+
+    <a id="phmain_0_phcontent_13_lnkMoreEvents" class="read-more" href="/en-us/get-involved/events">Events</a>
+
+</div><div id="phmain_0_phcontent_14_pnlContainer" class="promo-panel">
+	
+    
+        
+    
+
+    <h2>Welcome</h2>
+
+   
+    <div id="phmain_0_phcontent_14_pnlShortText" class="rich-text">
+		
+        <p><br />
+</p>
+    
+	</div>
+    
+    
+
+
+</div>
+        </div>
+    </div>
+</div>
+<!-- Content ENDS -->
+
+
+<div id="PlPromo">
+    
+</div>
+<!-- Promo Panel ENDS -->
+
+                </div>
+            </div>
+            <!-- Main Content Placeholder ENDS -->
+
+            <div id="Related">
+                <div class="wrapper-inner">
+                    <div class="related-items">
+                        
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Footer BEGINS -->
+            <footer class="footer">
+               
+
+                        
+
+
+<div class="wrapper-inner">
+    <div class="footer-top">
+        
+
+<!-- Address - Wireframe Reference: 1037-GLBL -->
+
+<div class="address-panel">
+
+    <h2>
+        Contact
+    </h2>
+    <address class="vcard">
+        <div class="adr">
+            <p>
+                <span class="street-address">1400 Eye Street NW</span>
+                <span class="street-address">Suite 425</span>
+                <span class="locality">Washington, DC</span>
+                <span class="postal-code">20005</span>
+                <span class="country-name"></span>
+            </p>
+            <ul>
+                <li class="tel">
+                    <em>
+                        T:
+                    </em>
+                    202.391.0525
+                </li>
+                <li class="fax">
+                    <em>
+                        
+                    </em>
+                    
+                    
+                </li>
+                <li class="email">
+                    <em>
+                        E: 
+                    </em>
+                    <a id="ctl07_ctl05_hlEMail" href="mailto:questions@fairtradeamerica.org">questions@fairtradeamerica.org</a>
+                </li>
+            </ul>
+
+
+        </div>
+    </address>
+
+</div>
+
+        <div class="footer-text"><h2>Sign up to our Newsletter!</h2><div class="rich-text"><p>Receive regular updates about Fairtrade America, Fairtrade certified products, events and more!</p>
+<a href="/en-us/get-involved/fairtrade-america-newsletter">Sign up</a></div></div>
+        <div class="social-links"><h2>Connect with us</h2><ul><li><a title="Fairtrade America Facebook" href="http://www.facebook.com/FairtradeMarkUS" target="_blank"><img src="/~/media/fairtrade%20global/images/icons/social%20media/facebook.png?h=30&amp;la=en-US&amp;mh=30&amp;w=31" alt="Facebook Icon" width="31" height="30" /></a></li><li><a title="Fairtrade America Twitter" href="https://twitter.com/fairtrademarkus" target="_blank"><img src="/~/media/fairtrade%20global/images/icons/social%20media/twitter.png?h=30&amp;la=en-US&amp;mh=30&amp;w=31" alt="Twitter" width="31" height="30" /></a></li><li><a title="Fairtrade America Pinterest" href="https://pinterest.com/fairtrademarkus/" target="_blank"><img src="/~/media/fairtrade%20global/images/icons/social%20media/pinterest.png?h=30&amp;la=en-US&amp;mh=30&amp;w=31" alt="Pinterest" width="31" height="30" /></a></li><li><a title="Fairtrade America YouTube" href="https://www.youtube.com/channel/UCB7HpYpLyQGw64ZVHJMjbFA" target="_blank"><img src="/~/media/fairtrade%20global/images/icons/social%20media/youtube.png?h=30&amp;la=en-US&amp;mh=30&amp;w=31" alt="YouTube" width="31" height="30" /></a></li><li><a title="Fairtrade America Instagram" href="http://www.instagram.com/FairtradeMarkUS" target="_blank"><img src="/~/media/fairtrade%20america/images/icon/instagram%20transparent.png?h=30&amp;la=en-US&amp;mh=30&amp;w=30" alt="Instagram" width="30" height="30" /></a></li><li><a title="Fairtrade America Google +" href="https://plus.google.com/b/103685266554399252574/103685266554399252574/posts" target="_blank"><img src="/~/media/fairtrade%20global/images/icons/social%20media/googleplus.png?h=30&amp;la=en-US&amp;mh=30&amp;w=31" alt="Google Plus" width="31" height="30" /></a></li></ul></div>
+    </div>
+</div>
+
+<div class="footer-bottom">
+    <div class="wrapper-inner">
+        
+
+<div class="footer-navigation">
+
+        <ul >
+    
+            <li>
+                <a id="ctl07_ctl06_rptNavigation_lnkNavigation_0" href="/en-us/get-involved/contact-us">Contact us</a>
+            </li>
+    
+            <li>
+                <a id="ctl07_ctl06_rptNavigation_lnkNavigation_1" href="/en-us/sitemap">Sitemap</a>
+            </li>
+    
+            <li>
+                <a id="ctl07_ctl06_rptNavigation_lnkNavigation_2" href="/en-us/terms-of-use">Terms of Use</a>
+            </li>
+    
+            <li>
+                <a id="ctl07_ctl06_rptNavigation_lnkNavigation_3" href="/en-us/privacy-policy">Privacy Policy</a>
+            </li>
+    
+        </ul>
+    
+</div>
+        
+<p class="copyright">
+     © 2015 Fairtrade America 
+</p>
+
+        <div id="ctl07_ctl08_devicePanel" class="device-btn">
+    
+            
+         
+            <a id="ctl07_ctl08_rptDevices_linkDevice_1" href="/en-us?device=Mobile">View mobile site</a>
+         
+</div>
+
+    </div>
+</div>
+
+                        
+                       
+
+               
+            </footer>
+            <!-- Footer ENDS -->
+        </div>
+    </form>
+
+
+    <span class="deploy-version"></span>
+
+    <script type="text/javascript">
+        var JQ = jQuery.noConflict();
+    </script>
+    <script src="/Scripts/Fairtrade/main-js-bundle.min.js"></script>  
+    
+    
+</body>
+</html>
