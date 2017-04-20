@@ -7,6 +7,7 @@ import os
 plotly.tools.set_credentials_file(username='lanen', api_key='MocOzL15cD22AUbwdSSj')
 
 def main () :
+    print("creating plotly graphs...")
     path = "data/"
     item_path = path + "item/"
     file_path = os.path.dirname(item_path)
