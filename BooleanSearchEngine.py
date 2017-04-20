@@ -13,6 +13,8 @@ class BooleanSearchEngine:
 		# self.mode = input("Enter SMART Notation for index: ")
 		# self.query_mode = input("Enter SMART Notation for query: ")
 
+		self.p = PorterStemmer()
+
 		self.mode = "ltc"
 		self.query_mode = "ltc"
 		print("Loading Index ... ")
@@ -97,8 +99,8 @@ class BooleanSearchEngine:
 		total_ltc = 1
 
 		# stem and lower query
-		for i in range(len(query_list)):
-			query_list[i] = p.stem(query_list[i]).lower()
+		# for i in range(len(query_list)):
+		#	query_list[i] = self.p.stem(query_list[i]).lower()
 
 		# Counter creates a dictionary that maps each token in query to # of times it is present
 		# i.e. query = "duck duck goose", query_dict = {duck: 2, goose: 1}
@@ -118,7 +120,7 @@ class BooleanSearchEngine:
 			for doc_id in self.index[token].keys():
 				if doc_id not in self.index[token].keys():
 					continue
-				if doc_id in docid_cosine_dict.keys():
+				elif doc_id in docid_cosine_dict.keys():
 					docid_cosine_dict[doc_id] += query_dict[token] * self.index[token][doc_id][0]
 				else:
 					docid_cosine_dict[doc_id] = query_dict[token] * self.index[token][doc_id][0]
@@ -137,40 +139,51 @@ class BooleanSearchEngine:
 
 		query_list = list()
 
-		# create a list of tuples (item_query_list) for each line in movements.txt
 		item_queries = open("data/item/movements.txt", "r")
 		for query in item_queries.readlines():
-			query = query.strip("\n").split("\t")
+			query = query.strip("\n")
+			query = query.replace('-', " ")
 			query_list.append(query)
+
+
 
 		# while query_raw_input != 'QUIT':
 		while i < len(query_list):
 			query_raw_input = query_list[i]
+			# print(query_raw_input)
+			query_list_for_each_item = query_raw_input.split(' ')
 
-			for each_word in range(len(query_raw_input)):
-				query_list_for_each_item = query_raw_input[each_word].split(' ')
+			for i, each_word in enumerate(query_list_for_each_item):
+				query_list_for_each_item[i] = self.p.stem(each_word).lower()
+
+			print(query_raw_input)
+			print(query_list_for_each_item)
 
 			# cosine_scores is a dictionary with doc_ids mapped to cosine score
 			cosine_scores = self.query_score(query_list_for_each_item, self.query_mode)
-
-			sorted_cosine_scores = sorted(cosine_scores, key=cosine_scores.get, reverse=True)
+			# sorted_cosine_scores = sorted(cosine_scores, key=cosine_scores.get, reverse=True)
 
 			# print("\n URL search results: ")
-			for d in range(len(sorted_cosine_scores)):
-				(url, docType, title) = db.lookupCachedURL_byID(int(sorted_cosine_scores[d]))
-				docs_to_items[sorted_cosine_scores[d]] = str(title).strip("\n")
+			for d in range(len(cosine_scores)):
+				(url, docType, title) = db.lookupCachedURL_byID(d+1)
+				docs_to_items[d+1] = str(title).strip("\n")
+				print(title)
+
 				if title not in item_search_results.keys():
-					item_search_results[title] = cosine_scores.get(sorted_cosine_scores[d])
+					item_search_results[title] = cosine_scores[d]
+					print(cosine_scores[d+1])
+
+					# print(len(item_search_results))
 					# print(db.lookupCachedURL_byID(int(sorted_cosine_scores[d])), "--> cosine:", cosine_scores.get(sorted_cosine_scores[d]))
 				else:
-					item_search_results[title] += cosine_scores.get(sorted_cosine_scores[d])
+					item_search_results[title] += cosine_scores.get(d)
 
 			# sorting most common titles by largest total cosine score
 			top_items = sorted(item_search_results, key=item_search_results.get, reverse=True)
 
-			print("\n Item Search Results: \n")
+			print("\n Item Search Results: ", query_raw_input)
 			# printing top items and their accumulated cosine scores
-			for item in range(len(item_search_results)):
+			for item in range(len(cosine_scores)):
 				print(str(top_items[item].replace("\n", ": ")), item_search_results[top_items[item]], "\n")
 
 			i += 1
@@ -181,6 +194,6 @@ class BooleanSearchEngine:
 
 
 if __name__ == '__main__':
-	p = PorterStemmer()
+	# p = PorterStemmer()
 
 	bse = BooleanSearchEngine()
