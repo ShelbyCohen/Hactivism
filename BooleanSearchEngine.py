@@ -10,8 +10,11 @@ class BooleanSearchEngine:
 	def __init__(self):
 		print("Hello! Welcome to Shelby's awesome search engine!")
 		print("Supported SMART variants: ltc.ltc, nnn.nnn, ltc.nnn")
-		self.mode = input("Enter SMART Notation for index: ")
-		self.query_mode = input("Enter SMART Notation for query: ")
+		# self.mode = input("Enter SMART Notation for index: ")
+		# self.query_mode = input("Enter SMART Notation for query: ")
+
+		self.mode = "ltc"
+		self.query_mode = "ltc"
 		print("Loading Index ... ")
 		self.index = {}
 		self.idf = {}
@@ -125,39 +128,54 @@ class BooleanSearchEngine:
 	def get_results(self):
 		db = WebDB('cache.db')
 
-		query_raw_input = input("Enter Query or 'QUIT': ")
-		while query_raw_input != 'QUIT':
-			item_search_results = {}
-			docs_to_items = {}
+		# query_raw_input = input("Enter Query or 'QUIT': ")
 
-			query_list = list(query_raw_input.split(' '))
+		item_search_results = {}
+		docs_to_items = {}
+		i = 0
+		query_list_for_each_item = list()
+
+		query_list = list()
+
+		# create a list of tuples (item_query_list) for each line in movements.txt
+		item_queries = open("data/item/movements.txt", "r")
+		for query in item_queries.readlines():
+			query = query.strip("\n").split("\t")
+			query_list.append(query)
+
+		# while query_raw_input != 'QUIT':
+		while i < len(query_list):
+			query_raw_input = query_list[i]
+
+			for each_word in range(len(query_raw_input)):
+				query_list_for_each_item = query_raw_input[each_word].split(' ')
 
 			# cosine_scores is a dictionary with doc_ids mapped to cosine score
-			cosine_scores = self.query_score(query_list, self.query_mode)
+			cosine_scores = self.query_score(query_list_for_each_item, self.query_mode)
 
 			sorted_cosine_scores = sorted(cosine_scores, key=cosine_scores.get, reverse=True)
 
-			print("\n URL search results: ")
+			# print("\n URL search results: ")
 			for d in range(len(sorted_cosine_scores)):
 				(url, docType, title) = db.lookupCachedURL_byID(int(sorted_cosine_scores[d]))
 				docs_to_items[sorted_cosine_scores[d]] = str(title).strip("\n")
 				if title not in item_search_results.keys():
 					item_search_results[title] = cosine_scores.get(sorted_cosine_scores[d])
-					print(db.lookupCachedURL_byID(int(sorted_cosine_scores[d])), "--> cosine:", cosine_scores.get(sorted_cosine_scores[d]))
+					# print(db.lookupCachedURL_byID(int(sorted_cosine_scores[d])), "--> cosine:", cosine_scores.get(sorted_cosine_scores[d]))
 				else:
 					item_search_results[title] += cosine_scores.get(sorted_cosine_scores[d])
 
 			# sorting most common titles by largest total cosine score
 			top_items = sorted(item_search_results, key=item_search_results.get, reverse=True)
 
-			# printing top 3 items and their accumulated cosine scores
-			print("\n Item Search Results: \n", str(top_items[0]).replace("\n", ": "), item_search_results[top_items[0]], "\n",
-			      str(top_items[1]).replace("\n", ": "), item_search_results[top_items[1]], "\n",
-			      str(top_items[2]).replace("\n", ": "), item_search_results[top_items[2]], "\n")
+			print("\n Item Search Results: \n")
+			# printing top items and their accumulated cosine scores
+			for item in range(len(item_search_results)):
+				print(str(top_items[item].replace("\n", ": ")), item_search_results[top_items[item]], "\n")
 
-			print("---------------------------------")
+			i += 1
 
-			query_raw_input = input("Enter Another Query or 'QUIT': ")
+			# query_raw_input = input("Enter Another Query or 'QUIT': ")
 
 		return docs_to_items
 
