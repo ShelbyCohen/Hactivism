@@ -32,4 +32,24 @@ def main () :
     plotly.offline.plot(data)
 
 
+
+def make_heatmap (cosine_list):
+    print("creating plotly heatmap...")
+    path = "data/"
+    item_path = path + "item/"
+    file_path = os.path.dirname(item_path)
+
+    movements = []
+    y = []
+
+    for file in os.listdir(file_path):
+        item_file = open(item_path + file, "r")
+        for i, line in enumerate(item_file.readlines()):
+            movements.append(line.strip("\n"))
+
+    trace = go.Heatmap(z=cosine_list,  # lists of z values by row
+                       x=movements, y=movements, colorscale="Jet")
+    data = [trace]
+    plotly.offline.plot(data)
+    return
 main()
