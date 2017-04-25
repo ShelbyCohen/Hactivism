@@ -306,7 +306,7 @@
 
     new Image().src = u + "&ms=" + ms + "&rf=" + encodeURIComponent(document.referrer) + "&cb=" + Math.floor((Math.random() * 899999999) + 100000000);
 </script>
-<link rel="dns-prefetch" href="//static.sfdict.com" /><link rel="dns-prefetch" href="//pixel.quantserve.com" /><link rel="dns-prefetch" href="//partner.googleadservices.com" /><link rel="dns-prefetch" href="//pubads.g.doubleclick.net" /><link rel="dns-prefetch" href="//pagead2.googlesyndication.com" /><link rel="dns-prefetch" href="//pr.ybp.yahoo.com" /><link rel="dns-prefetch" href="//ads.yahoo.com" /><link rel="dns-prefetch" href="//u.openx.net" /><link rel="dns-prefetch" href="//ib.adnxs.com" /><link rel="dns-prefetch" href="//ox-d.bstk.servedbyopenx.com" /><link rel="dns-prefetch" href="https://ad.doubleclick.net" /><script>
+<link rel="dns-prefetch" href="//static.sfdict.com" /><link rel="dns-prefetch" href="//pixel.quantserve.com" /><link rel="dns-prefetch" href="//partner.googleadservices.com" /><link rel="dns-prefetch" href="//pubads.g.doubleclick.net" /><link rel="dns-prefetch" href="//pagead2.googlesyndication.com" /><link rel="dns-prefetch" href="//pr.ybp.yahoo.com" /><link rel="dns-prefetch" href="//ads.yahoo.com" /><link rel="dns-prefetch" href="//u.openx.net" /><link rel="dns-prefetch" href="//ib.adnxs.com" /><link rel="dns-prefetch" href="//ox-d.bstk.servedbyopenx.com" /><link rel="dns-prefetch" href="https://ad.doubleclick.net" /><script type="text/javascript" src="http://static.sfdict.com/app/js/jquery-1.11.3.min-4069b.js" ></script><script>
     /**
      * The module is responsible for setting/incrementing the value of sc cookie which contains "sessionCount,pageviewCount" values.
      *
@@ -623,8 +623,8 @@
     UserController.initHead();
 </script>
 <script type="text/javascript">
-    !function(o){function n(e){if(t[e])return t[e].exports;var i=t[e]={exports:{},id:e,loaded:!1};return o[e].call(i.exports,i,i.exports,n),i.loaded=!0,i.exports}var t={};return n.m=o,n.c=t,n.p="",n(0)}([function(o,n,t){"use strict";function e(o){return o&&o.__esModule?o:{default:o}}function i(){if(!P){P=!0,window._sp_=window._sp_||{},H=window._sp_.config=window._sp_.config||{},window._sp_._networkListenerData=(0,m.default)(),K=H.content_control_callback||window._sp_lock,q=H.account_id||H.client_id||window.sp_cid;for(var o in H)T[o]=H[o]}}function r(o,n,t){function e(t,e){var r=new Image;r.src="//"+L+("/cct?v="+encodeURIComponent(C))+("&ct="+x)+("&cid="+encodeURIComponent(q))+("&l="+encodeURIComponent(o.toString()))+("&rc="+encodeURIComponent(n))+("&d0="+encodeURIComponent(i))+(t?"&d1="+encodeURIComponent(t):"")+(e?"&d2="+encodeURIComponent(e):""),a&&a()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",r=arguments[4],a=arguments[5];if(r){var d=t.lastIndexOf("."),c=t.lastIndexOf("/"),s=d===-1||c>d?t+".png":t.substring(0,d)+".png",u=new Image;u.addEventListener("load",function(){e("1",s)}),u.addEventListener("error",function(){(0,_.default)(s,function(o,n,t){e("0",s+"::"+t)})}),u.src=s}else e()}function a(o,n,t,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},r=arguments.length>5&&void 0!==arguments[5]&&arguments[5],d=function(){return a(o,n,t,e,i,!0)},c=r?t:d;o(n,c,e,i)}function d(o,n,t,e){function i(t,i){n(t,o,i,e.enableImageLoad)}function r(n,i){t(n,o,i,e.enableImageLoad),e.onError&&e.onError(i)}var a=document.createElement("script");a.src=o,a.onload=function(){try{if(window._sp_&&window._sp_.bootstrap===f&&window.spBootstrap===w&&window._sp_.config===H){for(var o in T)if(T[o]!==H[o]){E&&E();break}}else E&&E()}catch(o){E&&E()}e.onLoad&&e.onLoad()},a.onerror=function(){function n(o){return t.indexOf(o)>-1}var t=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();n("mobi")||n("ipad")||n("android")||n("iphone")?r(R):n("exabot")?r(N):n("bingbot")||n("bingpreview")?r(M):n("googlebot")||n("adsbot-google")||n("mediapartners-google")?r(S):n("googleweblight")?r(k):window.location.host===b?r(U):window.location.host.indexOf(h)>-1?r(B):n("msie 10")||n("msie 9")||n("msie 8")?r(D):c(o,i,r)},document.head.appendChild(a),document.querySelector('script[src="'+o+'"]')||window.location.host.indexOf(h)!==-1||i(y,o)}function c(o,n,t){(0,_.default)(o,function(e,i,r,a){var d=e||i?n:t;d(a,o+"::"+r)})}function s(o,n,t,e){return A?void u(j+"::"+o,t):void r(O,o,n,t,e,function(){K&&setTimeout(function(){K()},250)})}function u(o,n,t,e){r(I,o,n,t,e)}function w(o,n){i(),n&&(K=window._sp_lock=n),a(d,o,s,u)}function f(o,n){i(),a(d,o,s,u,n)}var l=t(1),p=e(l),v=t(2),_=e(v),g=t(3),m=e(g),b=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),h=["o","p","t","i","m","i","z","e","l","y","p","r","e","v","i","e","w",".","c","o","m"].join(""),E=void 0;try{E=window._sp_&&window._sp_.config&&window._sp_.config.spid_control_callback}catch(o){}var L=p.default.be.join(""),C=p.default.bv,x=1,I=0,O=1,y="s",R="m",S="g",U="gw",k="gl",D="i",M="b",N="e",j="n",B="o",T={},P=!1,A=!1,H=void 0,K=void 0,q=void 0;window.addEventListener("beforeunload",function(){A=!0});try{window._sp_=window._sp_||{},window._sp_.bootstrap=f,window.spBootstrap=w,window._sp_.bootstrap===f&&window.spBootstrap===w||E&&E()}catch(o){E&&E()}},function(o,n){"use strict";o.exports={be:["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"],bv:"1.7.669"}},function(o,n){"use strict";function t(o,n){function t(o){try{return o&&o.timeStamp?o.timeStamp:window.performance.now()}catch(o){return Date.now()}}var c=document.createElement("a");if(c.href=o,"https:"===window.location.protocol&&c.protocol!==window.location.protocol)return void n(!1,!1,c.protocol,d);var s=new XMLHttpRequest;try{s.open("GET",o)}catch(o){return void n(!0,!1,o.toString(),r,s)}var u=void 0,w=void 0;s.onloadstart=function(o){u=t(o)},s.onreadystatechange=function(o){if(4===this.readyState){w=t(o)-u;var r=0===this.status,a="2"===this.status.toString()[0],d=a?i:e;return void n(r,a,this.status+"::"+w,d,s)}};try{s.send()}catch(o){return void n(!0,!1,o.toString(),a,s)}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=t;var e=n.NETWORK_FAILURE="n",i=n.XHR_SUCCEEDED="nx",r=n.OPEN_BLOCKED="xo",a=n.SEND_BLOCKED="xs",d=n.PROTOCOL_MISMATCH="p"},function(o,n){"use strict";function t(){var o=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,n=[],t=[],i=e.bind(null,n),r=e.bind(null,t);return o.addEventListener("load",i,!0),o.addEventListener("error",r,!0),{load:{events:n,listener:i},error:{events:t,listener:r}}}function e(o,n){if(n.target){var t="string"==typeof n.target.tagName?n.target.tagName.toLowerCase():"",e=n.target.src||"";o.push({tagName:t,src:e})}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=t}]);
-//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/1.7.669/Ym9vdHN0cmFwLmpz.map
+    !function(o){function n(e){if(t[e])return t[e].exports;var i=t[e]={exports:{},id:e,loaded:!1};return o[e].call(i.exports,i,i.exports,n),i.loaded=!0,i.exports}var t={};return n.m=o,n.c=t,n.p="",n(0)}([function(o,n,t){"use strict";function e(o){return o&&o.__esModule?o:{default:o}}function i(){if(!P){P=!0,window._sp_=window._sp_||{},K=window._sp_.config=window._sp_.config||{},window._sp_._networkListenerData=(0,m.default)(),q=K.content_control_callback||window._sp_lock,X=K.account_id||K.client_id||window.sp_cid,K.debug_level&&"OFF"!==K.debug_level.toString().toUpperCase()?H=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(H=!0),H&&h.useDefaults({defaultLevel:h.DEBUG});for(var o in K)A[o]=K[o]}}function r(o,n,t){function e(t,e){var r=new Image;r.src="//"+x+("/cct?v="+encodeURIComponent(y))+("&ct="+O)+("&cid="+encodeURIComponent(X))+("&l="+encodeURIComponent(o.toString()))+("&rc="+encodeURIComponent(n))+("&d0="+encodeURIComponent(i))+(t?"&d1="+encodeURIComponent(t):"")+(e?"&d2="+encodeURIComponent(e):""),b.info("sending beacon: "+r.src),a&&a()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",r=arguments[4],a=arguments[5];if(r){var c=t.lastIndexOf("."),d=t.lastIndexOf("/"),s=c===-1||d>c?t+".png":t.substring(0,c)+".png",u=new Image;u.addEventListener("load",function(){e("1",s)}),u.addEventListener("error",function(){(0,g.default)(s,function(o,n,t){e("0",s+"::"+t)})}),u.src=s}else e()}function a(o,n,t,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},r=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){return a(o,n,t,e,i,!0)},d=r?t:c;o(n,d,e,i)}function c(o,n,t,e){function i(t,i){n(t,o,i,e.enableImageLoad)}function r(n,i){t(n,o,i,e.enableImageLoad),e.onError&&e.onError(i)}var a=document.createElement("script");a.src=o,a.onload=function(){try{if(window._sp_&&window._sp_.bootstrap===f&&window.spBootstrap===l&&window._sp_.config===K){for(var o in A)if(A[o]!==K[o]){C&&C();break}}else C&&C()}catch(o){C&&C()}e.onLoad&&e.onLoad()},a.onerror=function(){function n(o){return t.indexOf(o)>-1}var t=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();n("mobi")||n("ipad")||n("android")||n("iphone")?r(U):n("exabot")?r(j):n("bingbot")||n("bingpreview")?r(N):n("googlebot")||n("adsbot-google")||n("mediapartners-google")?r(D):n("googleweblight")?r(B):window.location.host===E?r(k):window.location.host.indexOf(L)>-1?r(T):n("msie 10")||n("msie 9")||n("msie 8")?r(M):d(o,i,r)},document.head.appendChild(a),document.querySelector('script[src="'+o+'"]')||window.location.host.indexOf(L)!==-1||i(S,o)}function d(o,n,t){(0,g.default)(o,function(e,i,r,a){var c=e||i?n:t;c(a,o+"::"+r)})}function s(o,n,t,e){return G?void u(F+"::"+o,t):void r(R,o,n,t,e,function(){if(q){if(H){b.error("bootstrap locking",R,o,n,t,e);debugger}setTimeout(function(){q()},250)}})}function u(o,n,t,e){r(I,o,n,t,e)}function l(o,n){i(),n&&(q=window._sp_lock=n),a(c,o,s,u)}function f(o,n){i(),b.info("bootstrap called with",o,n),a(c,o,s,u,n)}var w=t(2),p=e(w),v=t(3),g=e(v),_=t(4),m=e(_),b=t(1),h=void 0;h=t(1);var E=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),L=["o","p","t","i","m","i","z","e","l","y","p","r","e","v","i","e","w",".","c","o","m"].join(""),C=void 0;try{C=window._sp_&&window._sp_.config&&window._sp_.config.spid_control_callback}catch(o){}var x=p.default.be.join(""),y=p.default.bv,O=1,I=0,R=1,S="s",U="m",D="g",k="gw",B="gl",M="i",N="b",j="e",F="n",T="o",A={},P=!1,G=!1,H=!1,K=void 0,q=void 0,X=void 0;window.addEventListener("beforeunload",function(){G=!0});try{window._sp_=window._sp_||{},window._sp_.bootstrap=f,window.spBootstrap=l,window._sp_.bootstrap===f&&window.spBootstrap===l||C&&C()}catch(o){C&&C()}},function(o,n){function t(o,n){e&&console[o].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(n)))}var e=!1;o.exports={debug:function(){t("debug",arguments)},info:function(){t("info",arguments)},time:function(){t("time",arguments)},warn:function(){t("warn",arguments)},error:function(){t("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(o,n,t){"use strict";t(1);o.exports={be:["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"],bv:"1.7.682"}},function(o,n,t){"use strict";function e(o,n){function t(o){try{return o&&o.timeStamp?o.timeStamp:window.performance.now()}catch(o){return Date.now()}}var e=document.createElement("a");if(e.href=o,"https:"===window.location.protocol&&e.protocol!==window.location.protocol)return void n(!1,!1,e.protocol,d);var s=new XMLHttpRequest;try{s.open("GET",o)}catch(o){return void n(!0,!1,o.toString(),a,s)}var u=void 0,l=void 0;s.onloadstart=function(o){u=t(o)},s.onreadystatechange=function(o){if(4===this.readyState){l=t(o)-u;var e=0===this.status,a="2"===this.status.toString()[0],c=a?r:i;return void n(e,a,this.status+"::"+l,c,s)}};try{s.send()}catch(o){return void n(!0,!1,o.toString(),c,s)}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=e;var i=(t(1),n.NETWORK_FAILURE="n"),r=n.XHR_SUCCEEDED="nx",a=n.OPEN_BLOCKED="xo",c=n.SEND_BLOCKED="xs",d=n.PROTOCOL_MISMATCH="p"},function(o,n,t){"use strict";function e(){var o=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,n=[],t=[],e=i.bind(null,n),r=i.bind(null,t);return o.addEventListener("load",e,!0),o.addEventListener("error",r,!0),{load:{events:n,listener:e},error:{events:t,listener:r}}}function i(o,n){if(n.target){var t="string"==typeof n.target.tagName?n.target.tagName.toLowerCase():"",e=n.target.src||"";o.push({tagName:t,src:e})}}Object.defineProperty(n,"__esModule",{value:!0}),n.default=e;t(1)}]);
+//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/1.7.682/Ym9vdHN0cmFwLmpz.map
     (function () {
         
 window.DARCI = window.DARCI || {};
@@ -1010,6 +1010,39 @@ if(typeof UserController === "undefined" || !UserController.isUnder13()) {
     <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034776&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
+<script src="//cdn.optimizely.com/js/1517994423.js"></script>
+<script>
+    optimizely.push(['setDimensionValue', 'device', 'Desktop']);
+    optimizely.push(['setDimensionValue', 'mseg', cookiesManager.getCookieValue("mseg") || ""]);
+
+    var experimentObj = window['optimizely'].data.state.activeExperiments,
+        variationMap = window['optimizely'].data.state.variationNamesMap,
+        experimentName=[],
+        variant=[],
+        img = new Image(),
+        url = 'http://track.dictionary.com/main.gif?ev=o&en=%40%40EXPERIMENT_NAME%40%40&vr=%40%40VARIANT%40%40&rf=%40%40REFERRER%40%40&cb=%40%40CACHEBUSTER%40%40&pn=%40%40PAGENAME%40%40&st=dict&ab=&dc=desktop',
+        i = 0;
+
+    for (; i < experimentObj.length; i++) {
+        experimentName.push(
+            typeof window['optimizely'].data.experiments[experimentObj[i]] !== 'undefined'
+                ? encodeURIComponent(window['optimizely'].data.experiments[experimentObj[i]].name) : ''
+        );
+        variant.push(typeof variationMap[experimentObj[i]] !== 'undefined' ? encodeURIComponent(variationMap[experimentObj[i]]) : '');
+    }
+
+    if (experimentName.length > 0 && variant.length > 0) {
+        url = url.replace('%40%40REFERRER%40%40', encodeURIComponent(document.referrer))
+            .replace('%40%40CACHEBUSTER%40%40', Math.floor((Math.random() * 899999999) + 100000000))
+            .replace('%40%40EXPERIMENT_NAME%40%40', experimentName.join(','))
+            .replace('%40%40VARIANT%40%40', variant.join(','))
+            .replace('%40%40PAGENAME%40%40', pageName || '');
+
+        img.src = url;
+    }
+</script>
+
+
     </head>
     <body >
             <script>
@@ -1199,8 +1232,8 @@ if(typeof UserController === "undefined" || !UserController.isUnder13()) {
 </div>        </div>
     </div>
     <div id="fly-out" class="fly-out fly-out-desktop" style="">
-        <a href="http://www.dictionary.com/slideshows/2017-march-new-words?param=flyout"  style="display:block;" data-linkid="arfztk" >            <div class="text">
-                New Words Added            </div>
+        <a href="http://www.dictionary.com/slideshows/sad-words?param=flyout"  style="display:block;" data-linkid="vcgwpy" >            <div class="text">
+                The saddest words            </div>
         </a>
         <button type="button" class="fly-out-close-icon"></button>
     </div>
@@ -1462,39 +1495,39 @@ An Americanism dating back to <span class="dbox-roman">1940-45;</span> <a class=
     <h3>Discover our greatest slideshows</h3>
     <ul class="carousel">
                         <li class="slide">
+                    <a href="http://www.dictionary.com/slideshows/inspirational-quotes">
+                        <img width="130" height="140" id="slideImg1" src="http://static.sfdict.com/assets/7144-9005565-312.jpg" >
+                    </a>
+                    <div class="title-wrapper">
+                        <h3>
+                            <a class="title-link" href="http://www.dictionary.com/slideshows/inspirational-quotes">14 Quotes for Daily Inspiration</a>
+                        </h3>
+                    </div>
+                </li>                <li class="slide">
+                    <a href="http://www.dictionary.com/slideshows/quotes-about-language">
+                        <img width="130" height="140" id="slideImg2" src="http://static.sfdict.com/assets/7142-3428654-293.jpg" >
+                    </a>
+                    <div class="title-wrapper">
+                        <h3>
+                            <a class="title-link" href="http://www.dictionary.com/slideshows/quotes-about-language">15 Powerful Quotes about Language</a>
+                        </h3>
+                    </div>
+                </li>                    <div class="u-clear"></div>                <li class="slide">
+                    <a href="http://www.dictionary.com/slideshows/egg-expressions">
+                        <img width="130" height="140" id="slideImg3" src="http://static.sfdict.com/assets/4082-6785285-18.jpg" >
+                    </a>
+                    <div class="title-wrapper">
+                        <h3>
+                            <a class="title-link" href="http://www.dictionary.com/slideshows/egg-expressions">All in One Basket: 8 Eggcentric...</a>
+                        </h3>
+                    </div>
+                </li>                <li class="slide">
                     <a href="http://www.dictionary.com/slideshows/quotes-for-book-lovers">
-                        <img width="130" height="140" id="slideImg1" src="http://static.sfdict.com/assets/7137-3324426-279.jpg" >
+                        <img width="130" height="140" id="slideImg4" src="http://static.sfdict.com/assets/7137-3324426-279.jpg" >
                     </a>
                     <div class="title-wrapper">
                         <h3>
                             <a class="title-link" href="http://www.dictionary.com/slideshows/quotes-for-book-lovers">12 Quotes Book Lovers Can Relate to</a>
-                        </h3>
-                    </div>
-                </li>                <li class="slide">
-                    <a href="http://www.dictionary.com/slideshows/classic-cocktails">
-                        <img width="130" height="140" id="slideImg2" src="http://static.sfdict.com/assets/7140-6460430-247.jpg" >
-                    </a>
-                    <div class="title-wrapper">
-                        <h3>
-                            <a class="title-link" href="http://www.dictionary.com/slideshows/classic-cocktails">11 Classic Cocktails Everyone...</a>
-                        </h3>
-                    </div>
-                </li>                    <div class="u-clear"></div>                <li class="slide">
-                    <a href="http://www.dictionary.com/slideshows/autocorrect">
-                        <img width="130" height="140" id="slideImg3" src="http://static.sfdict.com/assets/7136-7377149-266.jpg" >
-                    </a>
-                    <div class="title-wrapper">
-                        <h3>
-                            <a class="title-link" href="http://www.dictionary.com/slideshows/autocorrect">Embarrassing Autocorrects (And How...</a>
-                        </h3>
-                    </div>
-                </li>                <li class="slide">
-                    <a href="http://www.dictionary.com/slideshows/march-madness">
-                        <img width="130" height="140" id="slideImg4" src="http://static.sfdict.com/assets/7134-8875638-249.jpg" >
-                    </a>
-                    <div class="title-wrapper">
-                        <h3>
-                            <a class="title-link" href="http://www.dictionary.com/slideshows/march-madness">Bunnies and Basketballs: March...</a>
                         </h3>
                     </div>
                 </li>                    <div class="u-clear"></div>    </ul>
@@ -1964,8 +1997,9 @@ if (typeof UserController === "undefined" || !UserController.isUnder13()) {
     requirejs.config({
             waitSeconds: 60,
             baseUrl: "http://static.sfdict.com/dcom/js",
-            paths: {"appcore":"http:\/\/static.sfdict.com\/app\/js","options":"http:\/\/static.sfdict.com\/app\/js\/options-b826f","facebook":"http:\/\/connect.facebook.net\/en_US\/all","twitter":"https:\/\/platform.twitter.com\/widgets","instagram":"https:\/\/x.instagramfollowbutton.com\/follow","google-plus":"https:\/\/apis.google.com\/js\/platform","jquery":"http:\/\/static.sfdict.com\/app\/js\/jquery-1.11.3.min-4069b","page\/serp\/main":"page\/serp\/main-abe43"},
+            paths: {"appcore":"http:\/\/static.sfdict.com\/app\/js","options":"http:\/\/static.sfdict.com\/app\/js\/options-b826f","facebook":"http:\/\/connect.facebook.net\/en_US\/all","twitter":"https:\/\/platform.twitter.com\/widgets","instagram":"https:\/\/x.instagramfollowbutton.com\/follow","google-plus":"https:\/\/apis.google.com\/js\/platform","page\/serp\/main":"page\/serp\/main-abe43"},
             shim: {"facebook":{"exports":"FB"},"twitter":{"exports":"twttr"},"instagram":[],"google-plus":{"exports":"googleplus"}}        });
+            define('jquery', [], function() { return window.jQuery; });
         define("runtime-options", function() {
         return {"shortSerp":true,"definitionsLimit":5,"definitionsDisplayed":3,"wotdLink":"<a href=\"http:\/\/www.dictionary.com\/wordoftheday\/\"  class=\"word\"  id=\"wotd\" data-linkid=\"rpilnc\" >$$word$$<\/a>","flashAudioPlayerPath":"http:\/\/static.sfdict.com\/app\/flash\/player-d6fab.swf","isFavoriteURL":"http:\/\/app.dictionary.com\/favorites\/api\/getfavorites","addFavoriteURL":"http:\/\/app.dictionary.com\/favorites\/api\/addword","searchTerm":"anti-consumerism","loginPageURL":"http:\/\/app.dictionary.com\/login\/core","clientPlatform":"Desktop","interstitialDashRenderApi":"http:\/\/app.dictionary.com\/api\/dash\/render\/ipadInterstitial\/dict_serp_ipadInterstitial","canonicalURL":"http:\/\/www.dictionary.com\/browse\/anti-consumerism","pageName":"","wotdApiUrl":"http:\/\/restapi.dictionary.com\/api\/wordoftheday","pageType":"serp-short","variant":false,"citeThisSourceAPIURL":"http:\/\/app.dictionary.com\/api\/citethissource.json?app=dictionary","collapseExpandSettings":{"luna":{"container":"#source-luna","types":{"def":{"name":"luna definitions","type":0,"desktop":{"visibleEntries":7,"condition":7},"mobile":{"visibleEntries":2,"condition":2}},"supEntry":{"name":"supplementary notes - entry-based elements","type":0,"desktop":{"visibleEntries":5,"condition":5},"mobile":{"visibleEntries":2,"condition":2}},"supText":{"name":"supplementary notes - textual elements","type":1,"desktop":{"visibleLines":5,"condition":5},"mobile":{"visibleLines":5,"condition":5}},"usgAlert":{"name":"usage alert - textual elements","type":1,"desktop":{"visibleLines":3,"condition":3},"mobile":{"visibleLines":3,"condition":3}}},"specCase":{"name":"special collapse expand for Luna Mobile","type":0,"mobile":{"visibleEntries":4,"condition":5}}},"idioms":{"container":"#source-ahdi2","types":{"cols":{"name":"idioms dictionary 2 cols list and text","type":3,"desktop":{"visibleLines":5,"condition":7}},"list":{"name":"idioms dictionary ordered list","type":4,"desktop":{"visibleLines":5,"condition":7}}}},"slang":{"container":"#source-das","types":{"def":{"name":"slang dictionary text based","type":5,"desktop":{"visibleLines":5,"condition":7}}}},"21century":{"container":"#source-dict21db","types":{"cent21_entry":{"name":"21st Century entry text","type":6,"desktop":{"visibleLines":5,"condition":7}}}},"collins":{"container":"#source-ced2","types":{"collins":{"name":"collins definitions","type":2,"desktop":{"entries":{"visibleEntries":3,"condition":5},"lines":{"visibleLines":10,"condition":12}}}}},"sentences":{"container":"#source-example-sentences","types":{"sentences_list":{"name":"example sentences list","type":8,"desktop":{"visibleList":3,"condition":4},"mobile":{"visibleList":10,"condition":11}}}}},"collapseExpandToggles":{"luna_entry":0,"luna_text":1,"idioms_cols":3,"idioms_list":4,"slang_text":5,"cent21_entry":6,"col_number":2,"sentences_list":8},"CTSParams":{"infix":"","clkpage":"dic","clksite":"dict","clkld":0},"webTrack":{"clickInner":"http:\/\/track.dictionary.com\/main.gif?ev=n&tg=%40%40TARGET%40%40&ar=%40%40ADREFRESH%40%40&ms=%40%40MSEG%40%40&rf=%40%40REFERRER%40%40&cb=%40%40CACHEBUSTER%40%40&pn=%40%40PAGENAME%40%40&st=dict&ab=&dc=desktop","impressions":"http:\/\/track.dictionary.com\/main.gif?ev=i&lk=%40%40IMPRESSIONLINKIDS%40%40&ms=%40%40MSEG%40%40&rf=%40%40REFERRER%40%40&cb=%40%40CACHEBUSTER%40%40&pn=%40%40PAGENAME%40%40&st=dict&ab=&dc=desktop","pageview":"http:\/\/track.dictionary.com\/main.gif?ev=p&ct=%40%40CONTENTTITLE%40%40&ms=%40%40MSEG%40%40&rf=%40%40REFERRER%40%40&cb=%40%40CACHEBUSTER%40%40&pn=%40%40PAGENAME%40%40&st=dict&ab=&dc=desktop","click":"http:\/\/track.dictionary.com\/main.gif?ev=c&cl=%40%40LINKIDS%40%40&ci=%40%40ITEM%40%40&co=%40%40ORDINAL%40%40&ms=%40%40MSEG%40%40&ds=%40%40DESTINATION%40%40&qr=%25%25QUERY%25%25&rf=%40%40REFERRER%40%40&cb=%40%40CACHEBUSTER%40%40&pn=%40%40PAGENAME%40%40&st=dict&ab=&dc=desktop"},"socialEvent":"{\"basePath\":\"http:\\\/\\\/track.dictionary.com\\\/track\\\/social\",\"attributes\":{\"site\":\"dict\",\"pageName\":\"dic\",\"ldid\":0}}"};
     });

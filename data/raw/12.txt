@@ -6,7 +6,7 @@
 
 		<html id="flexTemplate_1-0" class="comp flexTemplate article-html html mntl-layout-html taxlevel-3" data-ab="99,99" data-resource-subdomain="www" data-generic-subdomain="j" data-resource-version="2.4.1" data-mantle-resource-version="3.1.40" data-reference-resource-version="2.4.1">
 <!--
-<globe-environment environment="prod" application="reference" dataCenter="ny" serverName="nyglobe7" />
+<globe-environment environment="prod" application="reference" dataCenter="ny" serverName="nyglobe9" />
 <globe-server version="2.4.1" vendor="" title="reference-server" />
 <globe-resources version="2.4.1"  />
 -->
@@ -98,8 +98,8 @@ Mntl.RTB.setIndexSiteIds({'billboard-300x250' : 190894, 'billboard6-300x250' : 1
 var pageTargeting = {
 rec: 0
 ,tax0: 'tho'
-,rid: 'g15b82982e8e6e79676c6f62653791'
-,sid: 'g15b82982e8e6e79676c6f62653791'
+,rid: 'g15b8d5bd3246e79676c6f62653910d'
+,sid: 'g15b8d5bd3246e79676c6f62653910d'
 }
 ;
 var baseSlotTargeting = {
@@ -167,7 +167,7 @@ environment: {
 environment: "prod",
 application: "reference",
 dataCenter: "ny",
-serverName: "nyglobe7"
+serverName: "nyglobe9"
 },
 server: {
 version: "2.4.1",
@@ -181,7 +181,7 @@ serverUA : "Python-urllib/3.5"
 }
 });
 (function(){
-var pageViewDataAsJSON = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"templateId":"65","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","authorId":"130973","updateDate":"2017-03-08","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15b82982e8e6e79676c6f62653791","internalRequestId":"g15b82982e8e6e79676c6f62653791","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"experienceType":"multipage","currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard"};
+var pageViewDataAsJSON = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","templateId":"65","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"authorId":"130973","fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"experienceType":"multipage","currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15b8d5bd3246e79676c6f62653910d","internalRequestId":"g15b8d5bd3246e79676c6f62653910d","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"updateDate":"2017-03-08"};
 pageViewDataAsJSON.adventureNavDocIds = Ref.utilities.getAdventureNavDocIdsMap([2834606,43426,43472,43463]);
 pageViewDataAsJSON.breakpointName = Ref.utilities.getW();
 Mntl.PageView.init(pageViewDataAsJSON);
@@ -2853,11 +2853,11 @@ Mntl.boomerang = (function(){
 				'templateId': '65',
 				'templateName': 'flexTemplate',
 				'templateView': 'PERSONAL_COMPUTER',
-				'tmog': 'g15b82982e8e6e79676c6f62653791',
-				'mint': 'g15b82982e8e6e79676c6f62653791',
-				'idstamp': 'g15b82982e8e6e79676c6f62653791',
+				'tmog': 'g15b8d5bd3246e79676c6f62653910d',
+				'mint': 'g15b8d5bd3246e79676c6f62653910d',
+				'idstamp': 'g15b8d5bd3246e79676c6f62653910d',
 				'dataCenter': 'ny',
-				'serverName': 'nyglobe7',
+				'serverName': 'nyglobe9',
 				'serverVersion': '2.4.1',
 				'resourceVersion': '2.4.1',
 				'cc': 'US',
@@ -2866,7 +2866,7 @@ Mntl.boomerang = (function(){
 				'lon': '-77.925',
 				'rg': 'NY',
 				'clientTimestamp': new Date().getTime(),
-				'globeTimestamp': 1492544663182,
+				'globeTimestamp': 1492725256996,
 				'referrer': document.referrer,
 				'sessionPc': '1',
 				'userAgent[familyName]': 'Python-urllib',
@@ -2905,7 +2905,7 @@ Mntl.boomerang = (function(){
 })();(function() {
     var article = document.getElementById('article_1-0');
     if (article && !article.gtmPageView) {
-        article.gtmPageView = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"templateId":"65","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","authorId":"130973","updateDate":"2017-03-08","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15b82982e8e6e79676c6f62653791","internalRequestId":"g15b82982e8e6e79676c6f62653791","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"experienceType":"multipage","currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard"};
+        article.gtmPageView = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","templateId":"65","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"authorId":"130973","fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"experienceType":"multipage","currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15b8d5bd3246e79676c6f62653910d","internalRequestId":"g15b8d5bd3246e79676c6f62653910d","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"updateDate":"2017-03-08"};
     }
 }());
 (function() {

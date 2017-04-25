@@ -1,668 +1,898 @@
-	<!DOCTYPE html>
-<html lang="en">
-	<head>
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <!-- BEGIN: writeHead() -->
-        
-		<title>Home - Arab Spring: A Research & Study Guide * الربيع العربي - LibGuides at Cornell University</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="robots" content="noarchive" />
-<!--AUTO GENERATED DUBLIN CORE METADATA-->
-<meta name="DC.Title" content="LibGuides: Arab Spring: A Research & Study Guide * الربيع العربي: Home" />
-<meta name="DC.Creator" content="Ali Houissa" />
-<meta name="DC.Subject" content="Area: Middle East, Government & Public Policy" />
-<meta name="DC.Description" content="This guide lists online and print sources for what has become known as the &quot;Arab Spring,&quot; the popular revolutionary wave in the Middle East and North Africa that started in December 2010." />
-<meta name="DC.Publishers" content="Cornell University" />
-<meta name="DC.Rights" content="Copyright Cornell University 2017" />
-<meta name="DC.Language" content="en" />
-<meta name="DC.Identifier" scheme="URI" content="http://guides.library.cornell.edu/c.php?g=31688&p=200747" />
-<meta name="DC.Date.Created" scheme="ISO8601" content="Sep 22, 2011" />
-<meta name="DC.Date.Modified" scheme="ISO8601" content="Oct 12, 2016" />
+<!DOCTYPE html>
 
-		<meta property="og:title" content="LibGuides: Arab Spring: A Research & Study Guide * الربيع العربي: Home">
-		<meta property="og:description" content="This guide lists online and print sources for what has become known as the "Arab Spring," the popular revolutionary wave in the Middle East and North Africa that started in December 2010.">
-		<meta property="og:type" content="website">
-		<meta property="og:url" content="http://guides.library.cornell.edu/c.php?g=31688&p=200747">
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@springshare">
-        <link rel="stylesheet" href="/web/jquery/css/1.8.24_themes_base_jquery-ui.css" />
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-				<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
-				<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
-            <link rel="stylesheet" href="/web/css1.15.16/lg-public.min.css" />
-        <!--[if lt IE 9]>
-        <link rel="stylesheet" href="/web/css1.15.16/springshare.public.ie8hacks.css" />
-        <![endif]-->
-        <script type="text/javascript" src="/web/jquery/js/1.12.1_jquery.min.js"></script>
-        <script type="text/javascript" src="/web/jquery/js/1.9.2_jquery-ui.min.js"></script>
-            <script type="text/javascript" src="/web/js1.15.16/lg-public.min.js"></script>
-		<style>/* =========================================== */
-                        /* bootstrap overrides */
-                        /* =========================================== */
-                        #s-lg-tabs-container .nav-tabs > li > a,
-                        #s-lg-tabs-container .nav-tabs > li > button,
-                        #s-lg-tabs-container .nav-pills > li > a,
-                        #s-lg-tabs-container .nav-pills > li > button {
-                            border: 1px solid transparent;
-                                -webkit-border-radius: 4px 4px 0 0;
-                                -moz-border-radius: 4px 4px 0 0;
-                                border-radius: 4px 4px 0 0;
-                            background-color: #577CBE;
-                            color: #fff;
-                            font-weight: bold;
-                            padding: 4px 15px;
-                        }
-                        #s-lg-tabs-container .nav-tabs {
-                            border-bottom: 0;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
-                            -webkit-border-radius: 4px 4px 0 0;
-                            -moz-border-radius: 4px 4px 0 0;
-                            border-radius: 4px 4px 0 0;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li > a:hover,
-                        #s-lg-tabs-container .nav-tabs > li > button:hover,
-                        #s-lg-tabs-container .nav-pills > li > a:hover,
-                        #s-lg-tabs-container .nav-pills > li > button:hover {
-                            border: 1px solid transparent;
-                                -webkit-border-radius: 4px 4px 0 0;
-                                -moz-border-radius: 4px 4px 0 0;
-                                border-radius: 4px 4px 0 0;
-                            background-color: #70A1EB;
-                            color: #fff;
-                        }
-                        #s-lg-tabs-container .nav-tabs > .active > a,
-                        #s-lg-tabs-container .nav-tabs > .active > button,
-                        #s-lg-tabs-container .nav-pills > .active > a,
-                        #s-lg-tabs-container .nav-pills > .active > button {
-                            color: #fff;
-                            cursor: default;
-                            background-color: #70A1EB;
-                            border: 1px solid transparent;
-                                -webkit-border-radius: 4px 4px 0 0;
-                                -moz-border-radius: 4px 4px 0 0;
-                                border-radius: 4px 4px 0 0;
-                            border-bottom-color: transparent;
-                            font-weight: bold;
-                        }
-                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
-                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
-                            color: #fff;
-                            cursor: default;
-                            background-color: #70A1EB;
-                            border-bottom-color: transparent;
-                        }
-                        #s-lg-tabs-container .nav-tabs > .active > a:hover,
-                        #s-lg-tabs-container .nav-pills > .active > a:hover,
-                        #s-lg-tabs-container .nav-tabs > .active > button:hover,
-                        #s-lg-tabs-container .nav-pills > .active > button:hover {
-                            color: #fff;
-                            cursor: pointer;
-                            background-color: #70A1EB;
-                            border: 1px solid transparent;
-                                -webkit-border-radius: 4px 4px 0 0;
-                                -moz-border-radius: 4px 4px 0 0;
-                                border-radius: 4px 4px 0 0;
-                            border-bottom-color: transparent;
-                            font-weight: bold;
-                        }
-                        #s-lg-tabs-container .nav .dropdown-toggle .caret {
-                            border-top-color: #e1e1e1;
-                        }
-                        #s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
-                            margin-left: 2px;
-                            margin-top: -3px;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
-                            border-radius: 0 4px 0 0;
-                            padding: 4px 6px 4px 3px;
-                            border-left: 1px solid transparent;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
-                            border-radius: 0 4px 0 0;
-                            padding: 4px 6px 0px 3px;
-                            border-left: 1px solid transparent;
-                            margin-right: 2px;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
-                            border-radius: 0 4px 0 0;
-                            border-left: 1px solid #bbb;
-                            padding: 4px 6px 4px 3px;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
-                            border-radius: 0 4px 0 0;
-                            border-left: 1px solid #bbb;
-                            padding: 4px 6px 0px 3px;
-                        }
-                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
-                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
-                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
-                        #s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
-                            border-radius: 4px 0 0 0;
-                            font-weight: bold;
-                            padding: 4px 5px 4px 10px;
-                        }
-                        .nav-tabs > li > a.s-lg-tab-top-link,
-                        .nav-tabs > li > button.s-lg-tab-top-link {
-                            margin-right: 0px;
-                        }
 
-                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
-                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
-                            border-radius: 0 4px 0 0;
-                            padding: 4px 8px 4px 8px;
-                            border-left: 1px solid transparent;
-                            position: absolute;
-                            right: 0;
-                        }
-                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
-                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
-                            border-radius: 0 4px 0 0;
-                            border-left: 1px solid #bbb;
-                            padding: 4px 8px 4px 8px;
-                        }
-                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
-                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
-                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
-                        #s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
-                            width: 100%;
-                            float: left;
-                            border-radius: 4px 0 0 0;
-                            font-weight: bold;
-                            padding: 4px 15px 4px 15px;
-                        }#s-lg-guide-tabs-title-bar { border-top: 1px solid #70A1EB; }
-                    .s-lib-box {
-                        border-color: #cccccc;
-                        border-width: 1px;
-                        box-shadow: 0 8px 6px -6px #AAAAAA;border-radius: 4px 4px 4px 4px;
-                        background-color: #fff;
-                    }
-                    .s-lib-box-std .s-lib-box-title {
-                        background-color: #f1f1f1;background-image: none;
-                        color: #888;
-                        border-bottom: 1px solid #cccccc;
-                    }
-                    .s-lib-box .s-lib-box-title {
-                        background-color: #f1f1f1;background-image: none;
-                        color: #888;
-                        border-bottom: 1px solid #cccccc;;
-                        border-radius: 3px 3px 0px 0px;
-                    }
-                    .s-lib-box .s-lg-box-footer {
-                    border-radius: 0px 0px 3px 3px;
-                    }</style>
-		<!-- BEGIN: CUSTOM HEAD SYSTEM JS/CSS -->
-		<style>#cu-identity-wrap {	font-family: verdana, arial, helvetica, sans-serif;	font-size: 63.125%;		/* translate 1.0em to 10px, 1.5em to 15px, etc. */	color: #222;	height: 75px;	background: #B31B1B;	}	#cu-identity-content {	position: relative;	margin: 0 auto;	width:90%;	height: 75px;	background: url(http://beta.library.cornell.edu/sites/all/themes/bootstrap_cul7/img/layout/cul-logo-red.gif) no-repeat;	}	#cu-identity-content a {	position: absolute;	display: block;	border: none;	/* hide text link */	text-indent: -1000em;	text-decoration: none;	}	#cu-identity-content img {	display: none;	}#insignia-link {	width: 80px;	height: 75px;	}#unit-signature-links a {	left: 80px;	width: 185px;	}#cornell-link {	height: 35px;	}	#unit-link1 {	top: 35px;	height: 20px;	}	#unit-link2 {	top: 55px;	height: 33px;	}</style>
-		<!-- END: CUSTOM HEAD SYSTEM JS/CSS -->
-		<!-- BEGIN: CUSTOM HEAD GUIDE JS/CSS -->
-		
-		<!-- END: CUSTOM HEAD GUIDE JS/CSS -->
-		<script src="//guides.library.cornell.edu/sa2.php?site_id=45&tsh=libguides-proc.springyaws.com&cms=1"></script>
-		<script>
-			springSpace.Common = springSpace.Common || { };
+<html lang="en"  style>
 
-			springSpace.Common.constant = {
-					PROCESSING: {
-						ACTION_DISPLAY_POLL: 159
-					}
-			};
-			springSpace.Common.baseURL = "http://guides.library.cornell.edu/";
-			/*
-			springSpace.guidePublicObj = new springSpace.guidePublic.GuidePublic({
-				script_name: "/c.php",
-				guide_id: 31688,
-				page_id: 200747,
-				constant: {
-					PROCESSING: {
+<head>
 
-					},
-					CONTENT: {
-						CONTENT_BOOKS: 5
-					}
-				}
-			});
-			*/
-			// Hide guide attributes and subjects/tags if theyre empty.
-			jQuery(function () {
-				//jQuery("#s-lg-guide-header-subjects").hide();
-				//jQuery("#s-lg-guide-header-tags").hide();
-			});
+<meta charset="utf-8" />
+    <link rel="amphtml" href="http://www.al-monitor.com/pulse/en/originals/2017/04/libya-tripoli-art-exhibition-warning.amp.html">
+    <meta name="google-site-verification" content="O_7bp6tzZ5XAWGZe3r0oPd4eKdvWyIRw8vUFwsUzwWU" />
+	<meta name="google-translate-customization" content="a6c52dae826a3932-57177692dab19630-g229afb6dd9a0fdbc-19"></meta>
+    <meta property="fb:pages" content="236829849700741" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta id="viewport" name='viewport'>
+	<script>
+	    (function(doc) {
+	        var viewport = document.getElementById('viewport');
+	        if ( navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) ) {
+	            doc.getElementById("viewport").setAttribute("content", "width=340");
+	        } else if ( navigator.userAgent.match(/iPad/i) ) {
+	            doc.getElementById("viewport").setAttribute("content", "width=1020");
+	        }
+	    }(document));
+	</script>
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm-144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm-114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm-72.png">
+	<link rel="apple-touch-icon-precomposed" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/alm.png">
+	<link rel="shortcut icon" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/images/almonitor2.png">
 
-			handleScroll=function() {
-				var target_elt = "";
-				var anchor = window.location.hash.substring(1);
+	<link id="almCSSCDN01" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/bootstrap.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN02" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/prettify.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN03" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/font-awesome.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN04" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/bootstrap-responsive.min.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN05" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/jquery-ui.min.css" media="screen" type="text/css"/>	
+  
+	<link id="almCSSCDN05x" rel="stylesheet" href="/pulse/modules/alm-bootstrap-templates/css/fonts.css" media="screen" type="text/css">
 
-				if (jQuery.isNumeric(anchor)) {
-					xhr = jQuery.ajax({
-						async: false,
-						url: "/content_process.php",
-						type: "POST",
-						dataType: "json",
-						data: {
-							action: 562,
-							anchor: anchor
-						},
-						success: function(response, textStatus, jqXHR) {
-							if ((response.data.box_id != 0) && jQuery("#s-lg-box-" + response.data.box_id)) {
-								target_elt = "#s-lg-box-" + response.data.box_id;
-							}
-						},
-						error: function (jqXHR, textStatus, errorThrown) {
+	<link id="almCSSCDN06" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/general.css" media="screen" type="text/css"/>
+    <link id="almCSSCDN07" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/sections.x3.min.css" media="screen" type="text/css"/>
+	<link id="almCSSCDN08" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/mobilenav.css" media="screen" type="text/css"/> 
+	<link id="almCSSCDN09" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/css/extras.css" media="screen" type="text/css"/>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-						}
-					});
-				}
-				else if (false) {
-					target_elt = "#s-lg-page-section-200747";
-				}
-
-				if (target_elt != "") {
-					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
-					if (jQuery(this).scrollTop() > 220) {
-						jQuery("#s-lib-scroll-top").fadeIn(750);
-					}
-				}
-			}
-	   </script>
-	   <script>
-			// Enable tooltips.
-			jQuery(function () {
-				try {
-					springSpace.UI.initPopOvers();
-				} catch (e) { }
-			});springSpace.springTrack.init({_st_site_id: '45',_st_guide_id: '31688',_st_page_id: '200747'});
-			jQuery(function() {springSpace.springTrack.trackPage({_st_type_id: '1',_st_group_id: '962',_st_guide_id: '31688',_st_page_id: '200747'});
-			});
-			jQuery(document).ready(function() {
-				handleScroll();
-			});
-	   </script>
-		        <!-- END: writeHead() -->
-        	</head>
-		<body class="s-lg-guide-body">
-		<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to main content</a>                <!-- BEGIN: Page Header -->
-        <div id="cu-identity-wrap">
-	<div id="cu-identity-content">
-		<a id="insignia-link" href="http://www.cornell.edu/"></a>
-		 <div id="unit-signature-links">
-                     <a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a> 
-                     <a id="unit-link1" href="http://www.library.cornell.edu">Library</a>
-                 </div>
-	</div> <!-- cu-identity-content -->
-</div> <!-- cu-identity-wrap -->        <!-- END: Page Header -->
-        <!-- BEGIN: Guide Info Header -->
-        <div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
-            <div id="s-lib-bc">
-                
-			<ol id="s-lib-bc-list" class="breadcrumb">
-				
-					<li id="s-lib-bc-customer">
-						<a title="Cornell"  href="http://www.library.cornell.edu/">Cornell
-						</a>
-					</li>
-					<li id="s-lib-bc-site">
-						<a title="LibGuides"  href="//guides.library.cornell.edu">LibGuides
-						</a>
-					</li>
-					<li id="s-lib-bc-group">
-						<a title="NES: Near Eastern Studies"  href="//guides.library.cornell.edu/NES">NES: Near Eastern Studies
-						</a>
-					</li>
-					<li id="s-lib-bc-guide">
-						<a title="Arab Spring: A Research &amp; Study Guide * الربيع العربي"  href="//guides.library.cornell.edu/arab_spring">Arab Spring: A Research & Study Guide * الربيع العربي
-						</a>
-					</li>
-					<li id="s-lib-bc-page" class="active">Home
-					</li>
-			</ol>            </div>
-			<div class="pull-right">
-				<div id="s-lg-guide-header-search">
-					
-				<div id="s-lg-guide-search-box">
-					<form role="search" id="s-lg-guide-search-form" action="//guides.library.cornell.edu/srch.php" method="GET">
-						<div class="input-group input-group-sm">
-							<input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Search this Guide">
-							<label class="sr-only" for="s-lg-guide-search-terms">Search this Guide</label><input type="hidden" name="guide_id" value="31688" />
-							<span class="input-group-btn">
-								<button class="btn btn-default" type="submit">Search</button>
-							</span>
-						</div>
-					</form>
-				</div>				</div>
-							</div>
-            <div id="s-lg-guide-header-info">
-                <h1 id="s-lg-guide-name">Arab Spring: A Research & Study Guide * الربيع العربي: Home</h1>
-                <div id="s-lg-guide-desc-container">
-                    <span id="s-lg-guide-description">This guide lists online and print sources for what has become known as the "Arab Spring," the popular revolutionary wave in the Middle East and North Africa that started in December 2010.</span>
-                </div>
-            </div>
-        </div>
-        <!-- END: Guide Info Header -->
-        <div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
-            <div id="s-lg-guide-tabs" class="tabs" role="navigation" aria-label="Guide Page Menu">
-                <ul class="nav nav-tabs split-button-nav" role="menu">
-                    
-				<li role="menuitem"  class="active">
-					<a
-						title=""
-						class="active"
-						href="/c.php?g=31688&p=200747" 
-                        aria-label="Navigate to the page: Home"
-					>
-						<span>Home</span>
-                        
-					</a>
-				</li>
-				<li role="menuitem" >
-					<a
-						title=""
-						class=""
-						href="/c.php?g=31688&p=200749" 
-                        aria-label="Navigate to the page: General Background"
-					>
-						<span>General Background</span>
-                        
-					</a>
-				</li>
-				<li role="menuitem" >
-					<a
-						title=""
-						class=""
-						href="/c.php?g=31688&p=200750" 
-                        aria-label="Navigate to the page: Tunisia"
-					>
-						<span>Tunisia</span>
-                        
-					</a>
-				</li>
-					<li role="menuitem"  class="dropdown clearfix" aria-haspopup="true">
-                        <a
-							title=""
-							class="s-lg-tab-top-link  pull-left"
-							href="/c.php?g=31688&p=200748" 
-                            aria-label="Navigate to the page: Egypt"
-						>
-                    		<span>Egypt</span>
-                            
-						</a>
-						<a class="s-lg-tab-drop dropdown-toggle" data-toggle="dropdown" aria-label="Guide sub-page dropdown control" href="javascript:void();">
-                            <span class="caret"></span>
-                            <span class="sr-only">Toggle Dropdown</span>
-                        </a>
-                        <ul  class="s-lg-subtab-ul dropdown-menu" role="menu">
-                            <li role="menuitem" >
-                                <a
-									title=""
-									href="/c.php?g=31688&p=200755" 
-                                    aria-label="Navigate to the page: Egypt in Transition"
-								>Egypt in Transition
-                                    
-								</a>
-                            </li></ul>
-					</li>
-				<li role="menuitem" >
-					<a
-						title=""
-						class=""
-						href="/c.php?g=31688&p=200751" 
-                        aria-label="Navigate to the page: Libya"
-					>
-						<span>Libya</span>
-                        
-					</a>
-				</li>
-				<li role="menuitem" >
-					<a
-						title=""
-						class=""
-						href="/c.php?g=31688&p=200752" 
-                        aria-label="Navigate to the page: Yemen"
-					>
-						<span>Yemen</span>
-                        
-					</a>
-				</li>
-				<li role="menuitem" >
-					<a
-						title=""
-						class=""
-						href="/c.php?g=31688&p=200753" 
-                        aria-label="Navigate to the page: Syria"
-					>
-						<span>Syria</span>
-                        
-					</a>
-				</li>
-				<li role="menuitem" >
-					<a
-						title=""
-						class=""
-						href="/c.php?g=31688&p=200754" 
-                        aria-label="Navigate to the page: Bahrain"
-					>
-						<span>Bahrain</span>
-                        
-					</a>
-				</li>                </ul>
-            </div>
-        </div>
-        <div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
-        <!-- BEGIN: Guide Content -->
-        <div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
-            			
-				<div class="row s-lg-row">
-    <div id="s-lg-col-126" class="col-md-12">
-        <div class="s-lg-col-boxes">
-        </div>
-    </div>
-				
-</div>
-				<div class="row s-lg-row">
-    <div id="s-lg-col-1" class="col-md-9">
-        <div class="s-lg-col-boxes">
-							<div id="s-lg-box-wrapper-703786" class="s-lg-box-wrapper-703786">
-					<div id="s-lg-box-618945-container" class="s-lib-box-container">
-						<div id="s-lg-box-618945" class="s-lib-box s-lib-box-std">
-							<h2 class="s-lib-box-title">Background
-                                </h2>
-							<div id="s-lg-box-collapse-618945" >
-								<div class="s-lib-box-content">
-									
-			<div id="s-lg-content-1162035" class="  clearfix">
-				<p style="text-align: left;"><span style="font-family: times new roman,times;"><span style="font-size: 12pt; line-height: 115%;">Since December 2010 the world has watched as demonstrations and protests spread across countries in North Africa and the Middle East. </span><span style="font-size: 12pt; line-height: 115%;">These pro</span><span style="font-size: 12pt; line-height: 115%;">-</span><span style="font-size: 12pt; line-height: 115%;">democracy movements rose up against the dictatorial regimes and corrupt leaders that had ruled for decades in some cases. </span><span style="font-size: 12pt; line-height: 115%;">Someone called these revolutionary events &ldquo;Arab Spring,&rdquo; and the phrase stuck. </span><span style="font-size: 12pt; line-height: 115%;"></span></span><span style="font-size: 12pt; line-height: 115%; font-family: 'Times New Roman','serif';">The specificity of these Arab revolutions is that they have been popular uprisings, leaderless and uncompromising in demanding total change. </span><span style="font-family: times new roman,times;"><span style="font-size: 12pt; line-height: 115%;">Why have the events in Tunisia, Egypt, Libya, Yemen, Syria, etc. followed such different paths? What are the </span><span style="font-size: 12pt; line-height: 115%;">long-term political, social, and economic ramifications of these revolutions? </span><span style="font-size: 12pt; line-height: 115%;">What are their intended and unintended consequences as countries across the region seek political and social reforms? </span><span style="font-size: 12pt; line-height: 115%;">What's the future of the Arab revolution with regard to the crucial issues of freedom, democracy, fidelity to Islam, secularism, and tribal power? There are a lot of questions and there is much to study in the causes and factors that led to these large-scale movements.&nbsp; </span><span style="font-size: 12pt; line-height: 115%;">This guide will attempt to provide direction to the appropriate source material within the library and beyond.</span></span></p>
-<p style="text-align: left;"><span style="font-family: times new roman,times;"><span style="font-size: 12pt; line-height: 115%;"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://lgimages.s3.amazonaws.com/data/imagemanager/48495/3revol.jpg" /></span></span></p>
-<p style="text-align: center;"><span class="newsarticlefull"><font face="Verdana" size="5"><span lang="AR-SA">إذا الشّعْبُ&nbsp; يَوْمَاً&nbsp; أرَادَ&nbsp;&nbsp; الْحَيَـاةَ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; فَلا&nbsp; بُدَّ&nbsp; أنْ&nbsp; يَسْتَجِيبَ&nbsp;&nbsp; القَـدَر</span></font></span></p>
-<p style="text-align: center;"><span class="newsarticlefull"><font face="Verdana" size="5"><span lang="AR-SA">وَلا بُـدَّ&nbsp; لِلَّيـْلِ أنْ&nbsp; يَنْجَلِــي&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;وَلا&nbsp; بُدَّ&nbsp; للقَيْدِ&nbsp; أَنْ&nbsp;&nbsp; يَـنْكَسِـر</span></font></span></p>
-<p style="text-align: center;"></p>
-<p class="MsoNormal" style="margin-bottom: 12pt; line-height: normal; background: none repeat scroll 0% 0% white; text-align: center;"><span style="font-size: medium; font-family: courier new,courier;"><em><b>If a people one day wills to live --- fate [God] must answer its call</b></em><b><i><br /> <em>And the night must fade ---- and the chain must break</em></i></b></span></p>
-<p class="MsoNormal" style="margin-bottom: 12pt; line-height: normal; background: none repeat scroll 0% 0% white; text-align: center;"><span style="font-size: small; color: #000000; font-family: times new roman,times;">(by</span><span style="font-size: small;"><span style="color: #000000;"><span style="line-height: 115%; font-family: 'Times New Roman','serif';"> Tunisian poet Abou el-Kacem al-Chebbi</span></span><span style="color: #000000;"><span style="line-height: 115%; font-family: 'Times New Roman','serif';">, </span></span></span><span style="font-size: 11pt; line-height: 115%; font-family: 'Calibri','sans-serif';"><span style="font-family: times new roman,times;">b.</span> <span style="font-size: small; font-family: times new roman,times;">February</span><span style="font-size: small;"><span style="font-family: times new roman,times;"> 24</span> ,<span style="font-family: times new roman,times;">1909</span> <span style="font-family: times new roman,times;">- d.</span> <span style="font-family: times new roman,times;">October</span> <span style="font-family: times new roman,times;">9,</span> <span style="font-family: times new roman,times;">1934</span></span></span><span style="font-size: small; color: #000000; font-family: times new roman,times;">)</span></p>
-		   </div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-							</div>
-							<div id="s-lg-box-wrapper-703787" class="s-lg-box-wrapper-703787">
-					<div id="s-lg-box-620038-container" class="s-lib-box-container">
-						<div id="s-lg-box-620038" class="s-lib-box s-lib-box-std">
-							<h2 class="s-lib-box-title">The Seven Steps of the Research Process
-                                </h2>
-							<div id="s-lg-box-collapse-620038" >
-								<div class="s-lib-box-content">
-									
-			<div id="s-lg-content-1162905" class="  clearfix">
-				<p><strong>STEP 1: <a href="http://olinuris.library.cornell.edu/ref/research/topic.html">IDENTIFY AND DEVELOP YOUR TOPIC</a></strong></p>
-<p><strong>STEP 2: <a href="http://olinuris.library.cornell.edu/ref/research/background.html">FIND BACKGROUND INFORMATION</a></strong></p>
-<p><strong>STEP 3: <a href="http://olinuris.library.cornell.edu/ref/research/books.html">USE CATALOGS TO FIND BOOKS AND MEDIA</a></strong></p>
-<p><strong>STEP 4: <a href="http://olinuris.library.cornell.edu/ref/research/periodical.html">USE INDEXES TO FIND PERIODICAL ARTICLES</a></strong></p>
-<p><strong>STEP 5: <a href="http://olinuris.library.cornell.edu/ref/research/wwwguides.html">FIND INTERNET RESOURCES</a></strong></p>
-<p><strong>STEP 6: <a href="http://olinuris.library.cornell.edu/ref/research/evaluate.html">EVALUATE WHAT YOU FIND</a></strong></p>
-<p><strong>STEP 7: CITE WHAT YOU FIND USING A STANDARD FORMAT </strong></p>
-<p style="padding-left: 30px;"><strong>Available online</strong>:</p>
-<p style="padding-left: 30px;"><a href="http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.refworks.com/refworks"><strong>RefWorks</strong></a> is a web-based program that allows you to easily collect, manage, and organize bibliographic references by interfacing with databases. RefWorks also interfaces directly with Word, making it easy to import references and incorporate them into your writing, properly formatted according to the style of your choice.</p>
-<p style="padding-left: 30px;"><a href="http://www.library.cornell.edu/services/citing.html"><strong>See our guide to citation tools and styles</strong></a>.</p>
-<p style="padding-left: 30px;">Format the citations in your bibliography using examples from the following Library help pages: <a href="http://www.library.cornell.edu/resrch/citmanage/mla"><strong>Modern Language Association (MLA) examples</strong></a> and <a href="http://www.library.cornell.edu/resrch/citmanage/apa"><strong>American Psychological Association (APA) examples</strong></a>.</p>
-<p><a href="http://www.library.cornell.edu/ask"><img src="http://olinuris.library.cornell.edu/sites/default/files/imported/ref/research/ask.gif" alt="" border="0" /></a></p>
-		   </div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-							</div>
-							<div id="s-lg-box-wrapper-703788" class="s-lg-box-wrapper-703788">
-					<div id="s-lg-box-619961-container" class="s-lib-box-container">
-						<div id="s-lg-box-619961" class="s-lib-box s-lib-box-std">
-							<h2 class="s-lib-box-title">Evaluation of Web Resources
-                                </h2>
-							<div id="s-lg-box-collapse-619961" >
-								<div class="s-lib-box-content">
-									
-			<div id="s-lg-content-1162839" class="  clearfix">
-				<p><span style="font-family: helvetica; font-size: xx-small;"><a target="_blank" href="http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/Evaluate.html"><strong><font style="font-size: small;" face="verdana,geneva" size="3">Evaluating Web Pages: Questions to Ask &amp; Strategies for Getting the Answers</font></strong></a><font style="font-size: small;" face="verdana,geneva" size="3"> </font></span></p>
-<p></p>
-<p><span style="font-family: helvetica; font-size: xx-small;"><em><font style="font-size: small;" face="verdana,geneva" size="3">Eight-point evaluation checklist from the UC Berkeley Library: </font></em></span></p>
-<p></p>
-<p><span style="font-family: helvetica; font-size: xx-small;"></span></p>
-<p></p>
-<ul>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">What can the URL tell you? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Who wrote the page? Is he, she, or the authoring institution a qualified authority? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Is it dated? Current, timely? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Is information cited authentic? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Does the page have overall integrity and reliability as a source? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">What's the bias? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">Could the page or site be ironic, like a satire or a spoof? </font></span></li>
-<li><span style="font-family: helvetica; font-size: xx-small;"><font style="font-size: small;" face="verdana,geneva" size="3">If you have questions or reservations, how can you satisfy them?</font></span></li>
-</ul>
-		   </div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-							</div>
-        </div>
-    </div>
-    <div id="s-lg-col-2" class="col-md-3">
-        <div class="s-lg-col-boxes">
-							<div id="s-lg-box-wrapper-652470" class="s-lg-box-wrapper-652470">
-					<div id="s-lg-box-576481-container" class="s-lib-box-container">
-						<div id="s-lg-box-576481" class="s-lib-box s-lib-box-std">
-							<h2 class="s-lib-box-title">Middle East Librarian
-                                </h2>
-							<div id="s-lg-box-collapse-576481" >
-								<div class="s-lib-box-content">
-									
-			<div id="s-lib-profile-6506" class="s-lib-profile-container">
-				<div id="s-lib-profile-image-6506" class="s-lib-profile-div s-lib-profile-center s-lib-profile-image"><a href="//guides.library.cornell.edu/prf.php?account_id=9326">						
-					<img src="//libapps.s3.amazonaws.com/accounts/9326/profiles/6506/thumbnail_port.jpg" alt="Ali Houissa" /></a>
-				</div>
-				<div id="s-lib-profile-name-6506" class="s-lib-profile-div s-lib-profile-center s-lib-profile-name">Ali Houissa
-				</div>
-				<div id="s-lib-profile-email-6506" class="s-lib-profile-div s-lib-profile-center s-lib-profile-email"><a title="ah16@cornell.edu" href="mailto:ah16@cornell.edu" class="label label-info" style="font-size:1.6em;">Email Me</a>
-				</div>
-				<div id="s-lib-profile-widget-la-6506" class="s-lib-profile-div s-lib-profile-widget-la">
-					<div class="s-lib-profile-widget"><center>
-<a href="http://vivo.cornell.edu/display/individual22719" target="_top"> <img alt="VIVO" border="1" height="33"src="https://s3.amazonaws.com/libapps/accounts/218/images/vivo.jpg" width="125" /></a> </center>
-					</div>
-				</div>
-				<div id="s-lib-profile-widget-lc-6506" class="s-lib-profile-div s-lib-profile-widget-lc">
-					<div class="s-lib-profile-widget">
-					</div>
-				</div>
-				<div id="s-lib-profile-widget-other-6506" class="s-lib-profile-div s-lib-profile-widget-other">
-					<div class="s-lib-profile-widget">
-					</div>
-				</div>
-				<div id="s-lib-profile-contact-6506" class="s-lib-profile-div s-lib-profile-contact"><strong>Contact:</strong><div>174 Kroch Library <br />
-Cornell University<br />
-Ithaca, NY, 14853<br />
-USA<br />
-Voice: (607) 254-1614  (607) 255-5752<br />
-Fax: 255-6110<br />
-ah16@cornell.edu</div><a title="Website / Blog" href="http://www.library.cornell.edu/colldev/mideast"><i class="fa fa-bookmark fa-lg"><span class="sr-only">Website / Blog Page</span></i></a>
-				</div>
-				<div id="s-lib-profile-social-6506" class="s-lib-profile-div s-lib-profile-social">
-				</div>
-				<div id="s-lib-profile-subjects-6506" class="s-lib-profile-div s-lib-profile-subjects">
-				</div>
-			</div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-							</div>
-        </div>
-    </div>
-				
-</div>
-				<div class="row s-lg-row">
-    <div id="s-lg-col-127" class="col-md-12">
-        <div class="s-lg-col-boxes">
-        </div>
-    </div>
-				
-</div>            
-				<ul id="s-lg-page-prevnext" class="pager s-lib-hide">
-					<li class="previous">
-					
-					</li>
-					<li class="next">
-					<a href="/c.php?g=31688&p=200749"><strong>Next:</strong> General Background &gt;&gt;</a>
-					</li>
-				</ul>        </div>
-        <!-- END: Guide Content -->
-        <!-- BEGIN: Page Footer -->
-        <div id="s-lib-footer-public" class="s-lib-footer footer container  s-lib-side-borders">
-            <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
-                <ul id="s-lg-guide-header-attributes" class="">
-                    <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
-                        <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Oct 12, 2016 1:26 PM</span>                    </li>
-                    <li id="s-lg-guide-header-url" class="s-lg-h-separator">
-                        <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">http://guides.library.cornell.edu/arab_spring</span>                    </li>
-                    <li id="s-lg-guide-print-url">
-                        <a href="javascript: window.print();"><i class="fa fa-print" title="Print Page"></i> Print Page</a>                    </li>
-                </ul>
-                <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
-                    <a href="https://cornell.libapps.com/libapps/login.php?site_id=45&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTMxNjg4JnA9MjAwNzQ3">Login to LibApps</a>                </div>
-            </div>
-            <div class="pad-bottom-sm clearfix">
-                <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
-                     
-                </div>
-                <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
-                    
-                    <span class="s-lg-guide-label">Subjects: </span>
-                    <span class="s-lg-small bold"><a href="//guides.library.cornell.edu/sb.php?subject_id=88068">Area: Middle East</a>, <a href="//guides.library.cornell.edu/sb.php?subject_id=10347">Government & Public Policy</a></span>
-                                    </div>
-                <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
-                    
-                    <span class="s-lg-guide-label">Tags: </span>
-                    <span class="s-lg-small bold"><a href="//guides.library.cornell.edu/srch.php?tag=2011 revolution&default_lg=1">2011 revolution</a>, <a href="//guides.library.cornell.edu/srch.php?tag=arab awakening&default_lg=1">arab awakening</a>, <a href="//guides.library.cornell.edu/srch.php?tag=arab revolutions&default_lg=1">arab revolutions</a>, <a href="//guides.library.cornell.edu/srch.php?tag=arab spring&default_lg=1">arab spring</a>, <a href="//guides.library.cornell.edu/srch.php?tag=bahrain&default_lg=1">bahrain</a>, <a href="//guides.library.cornell.edu/srch.php?tag=egypt&default_lg=1">egypt</a>, <a href="//guides.library.cornell.edu/srch.php?tag=jasmine revolution&default_lg=1">jasmine revolution</a>, <a href="//guides.library.cornell.edu/srch.php?tag=middle east unrest&default_lg=1">middle east unrest</a>, <a href="//guides.library.cornell.edu/srch.php?tag=olin_subject&default_lg=1">olin_subject</a>, <a href="//guides.library.cornell.edu/srch.php?tag=printemps arabe&default_lg=1">printemps arabe</a>, <a href="//guides.library.cornell.edu/srch.php?tag=syria&default_lg=1">syria</a>, <a href="//guides.library.cornell.edu/srch.php?tag=tahrir&default_lg=1">tahrir</a>, <a href="//guides.library.cornell.edu/srch.php?tag=tunisia&default_lg=1">tunisia</a>, <a href="//guides.library.cornell.edu/srch.php?tag=yemen. الثورات العربية‎&default_lg=1">yemen. الثورات العربية‎</a></span>
-                                    </div>
-            </div>
-        </div>
-        <!-- END: Page Footer -->
-        
-			<div id="s-lib-scroll-top">
-				<a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top"
-				aria-hidden="true">
-					<span class="fa-stack fa-lg">
-					  <i class="fa fa-square-o fa-stack-2x"></i>
-					  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
-					</span>
-				</a>
-			</div>        <div id="s-lib-alert" title="">
-                            <div id="s-lib-alert-content"></div>
-                       </div>        
-                <!-- BEGIN: Custom Footer -->
-                
-
-		<!-- END: Custom Footer -->
-	</body>
-	</html>
+    <script id="almJSCDN01" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/modernizr.js"></script>
+	<script id="almJSCDN02" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/browser.js"></script>
+	<script id="almJSCDN03" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/prettify.js"></script>
+	<script id="almJSCDN04" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/lang-css.js"></script>
 	
+
+	<script id="almJSCDN05" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.min.js"></script>
+    <script id="almJSCDN06" type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/submitSelect.js"></script>
+    
+
+
+
+<!-- BEGIN 33Across SiteCTRL Script -->
+<script type='text/javascript'>
+if(document.location.protocol=='http:'){
+var Tynt=Tynt||[];Tynt.push('aoK4SCazar4ONkacwqm_6l');
+
+(function(){var h,s=document.createElement('script');s.src='http://cdn.tynt.com/ti.js';
+h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();}
+</script>
+<!-- END 33Across SiteCTRL Script -->
+
+
+
+<title>Libya art exhibit paints bleak picture of post-Arab Spring society</title>
+<!-- Google Analytics -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-28667400-1', 'auto');
+  ga('send', 'pageview', '/cms/originals/2017/04/libya-tripoli-art-exhibition-warning.html' );
+
+</script>
+<!-- Piwik -->
+
+
+  
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//piwik.al-monitor.com/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 1]);
+      _paq.push(['setCustomVariable',1,'pulse','','page']);
+      _paq.push(['setCustomVariable',2,'language','en','page']);
+      _paq.push(['setCustomVariable',3,'author','danya-hajjaji','page']);
+      _paq.push(['setCustomVariable',4,'secondauthor','','page']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <noscript><p><img src="//piwik.al-monitor.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+
+<!-- End Piwik Code -->
+
+<!-- Publir -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1011927/AlMonitor_Leaderboard_1st', [[320, 50], [300, 250], [728, 90]], 'div-gpt-ad-1485549463683-0').addService(googletag.pubads());
+    googletag.defineSlot('/1011927/AlMonitor_Window_1st', [300, 250], 'div-gpt-ad-1485549463683-1').addService(googletag.pubads());
+    googletag.defineSlot('/1011927/AlMonitor_Window_2nd', [300, 250], 'div-gpt-ad-1485549463683-2').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- Publir -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K9P6N5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K9P6N5');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1814686808798244'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1814686808798244&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+<link id="staticAssetCSS0" rel="stylesheet" href="/pulse/files/live/sites/almonitor/files/bootstrap/css/bootstrap.css" media="screen" type="text/css"/>
+<link id="staticAssetCSS1" rel="stylesheet" href="/pulse/modules/search/css/simplesearchform.css" media="screen" type="text/css"/>
+<!--[if lt IE 9]>
+<script id="staticAssetJavascript0" type="text/javascript" src="/pulse/modules/alm-bootstrap-templates/javascript/html5shiv.js"></script>
+<![endif]-->
+<script id="staticAssetJavascript1" type="text/javascript" src="/pulse/modules/alm-bootstrap-templates/javascript/jquery.min.js"></script>
+<script id="staticAssetJavascript2" type="text/javascript" src="/pulse/modules/assets/javascript/jquery.jahia.min.js"></script>
+<script id="staticAssetJavascript3" type="text/javascript" src="/pulse/modules/bootstrap/javascript/bootstrap-collapse.js"></script>
+
+  <link id="almCSSCDN11" rel="stylesheet" href="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/almcontent/css/print.css" media="print" type="text/css"/>
+
+<link rel="alternate" href="http://www.al-monitor.com/pulse/originals/2017/04/libya-tripoli-art-exhibition-warning.html" hreflang="en" />
+ <meta name="description" content="At an art exhibit in Tripoli, artists displayed haunting works related to their personal experiences in the post-revolution conflicts in Libya and the entire region." /> 
+  <meta name="2017-04-19" content="YYYY-MM-DD" />
+  
+<!-- **XXX**  **XXX** -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@almonitor">
+<meta name="twitter:creator" content="@almonitor">
+<meta name="twitter:url" content="http://www.al-monitor.com/pulse/originals/2017/04/libya-tripoli-art-exhibition-warning.html">
+<meta name="twitter:title" content="Libya art exhibit paints bleak picture of post-Arab Spring society">
+<meta name="twitter:description" content="At an art exhibit in Tripoli, artists displayed haunting works related to their personal experiences in the post-revolution conflicts in Libya and the entire region.">
+<meta name="twitter:image" content="http://images.al-monitor.com/almpics/2017/04/libyaartexhibit.jpg/libyaartexhibit.jpg">
+      <meta name="twitter:image:width" content="870">
+<meta property="fb:admins" content="aaoudi" />
+<meta property="og:url" content="http://www.al-monitor.com/pulse/originals/2017/04/libya-tripoli-art-exhibition-warning.html" />
+<meta property="og:locale" content="en_us" >
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Libya art exhibit paints bleak picture of post-Arab Spring society" />
+<meta property="og:image" content="http://images.al-monitor.com/almpics/2017/04/libyaartexhibit.jpg/libyaartexhibit.jpg" />
+      <meta property="og:image:height" content="471" />
+      <meta property="og:image:width" content="870" />
+<meta property="og:description" content="At an art exhibit in Tripoli, artists displayed haunting works related to their personal experiences in the post-revolution conflicts in Libya and the entire region." />
+<meta property="og:site_name" content="Al-Monitor" />
+<meta property="article:publisher" content="https://www.facebook.com/Al-Monitor" />
+<meta property="article:section" content="Editorial" />
+<meta property="article:published_time" content="2017-04-19T08:18:00+00:00" />
+<meta property="article:modified_time" content="2017-04-20T02:49:08+00:00" />
+<meta property="og:updated_time" content="2017-04-20T02:49:08+00:00" />
+<meta property="fb:app_id" content="115006175316219" />
+<meta name="keywords" content="human rights violations, is, libyan crisis, exhibition, freedom of expression, artistic freedom, art, tripoli" />
+
+
+   <script src="http://d3r7h55ola878c.cloudfront.net/btn/1.0.0/btn.js"></script>
+   <script> 
+     BOOMTRAIN_API_KEY_1 = 'ff714c33d83f48d0f6ee563654548579'; 
+     BOOMTRAIN_API_KEY_2 = '10d8d4d4ba1b40b09fe89823b0d30bff';  _btn.setAPIKeys(BOOMTRAIN_API_KEY_1,BOOMTRAIN_API_KEY_2);
+     _btn.initialize(); 
+   </script>
+   <meta property="bt:id" content="originals201704libya-tripoli-art-exhibition-warning" />  
+   <meta property="bt:author" content="Danya Hajjaji" />
+   <meta property="bt:pulse" content="none" />
+   <meta property="bt:type" content="article_en" />
+
+</head>
+  
+
+  <body onLoad="DoTheCookieStuff();">
+
+
+
+
+<div id="outer-wrap">
+  <div id="inner-wrap">
+  
+    
+    <header id="header">
+      <nav id="navMobile" role="navigation" class="visible-phone">
+  <div class="globe"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/globeMobile.png"></div>
+  <div class="search"><form action="/pulse/search-results.html" method="get" id="testf1">
+ <input type="hidden" name="jcrMethodToCall" value="get"/>
+ <input type="hidden" name="src_originSiteKey" value="almonitor"/>
+ <input type="hidden" name="src_itemsPerPage" value="10"/>
+ <span class="ss-standard magGlass">&#x1F50E;</span>
+ <input id="queryTerm" name="queryTerm" placeholder="Search Al-Monitor" type="text"></input>
+ </form></div>
+  <ul>
+    <li> <a href="/pulse/egypt-pulse">Egypt</a> </li>
+    <li> <a href="/pulse/ar/home/egypt-pulse.html">&#1605;&#1589;&#1585;</a> </li>
+    <li> <a href="/pulse/gulf-pulse">Gulf</a> </li>
+    <li> <a href="/pulse/ar/home/gulf-pulse.html">&#1575;&#1604;&#1582;&#1604;&#1610;&#1580;</a> </li>
+    <li> <a href="/pulse/iran-pulse">Iran</a> </li>
+    <li> <a href="/pulse/fa/home/iran-pulse.html">&#1575;&#1740;&#1585;&#1575;&#1606;</a> </li>
+    <li> <a href="/pulse/iraq-pulse">Iraq</a> </li>
+    <li> <a href="/pulse/ar/home/iraq-pulse.html">&#1575;&#1604;&#1593;&#1585;&#1575;&#1602;</a> </li>
+    <li> <a href="/pulse/israel-pulse">Israel</a> </li>
+    <li> <a href="/pulse/iw/home/israel-pulse.html">&#1497;&#1513;&#1512;&#1488;&#1500;</a> </li>
+    <li> <a href="/pulse/lebanon-pulse">Lebanon</a> </li>
+    <li> <a href="/pulse/ar/home/lebanon-pulse.html">&#1604;&#1576;&#1606;&#1575;&#1606;</a> </li>
+    <li> <a href="/pulse/palestine-pulse">Palestine</a> </li>
+    <li> <a href="/pulse/ar/home/palestine-pulse.html">&#1601;&#1604;&#1587;&#1591;&#1610;&#1606;</a> </li>
+    <li> <a href="/pulse/syria-pulse">Syria</a> </li>
+    <li> <a href="/pulse/ar/home/syria-pulse.html">&#1587;&#1608;&#1585;&#1610;&#1575;</a> </li>
+    <li> <a href="/pulse/turkey-pulse">Turkey</a> </li>
+    <li> <a href="/pulse/tr/home/turkey-pulse.html">T&Uuml;RK&#304;YE</a> </li>
+    <li> <a href="/pulse/back-channel">Back CHANNEL</a> </li>
+    <li> <a href="/pulse/congresspulse">Congress Pulse</a> </li>
+    <li> <a href="/pulse/russia-mideast">Russia / MIDEAST</a> </li>
+    <li> <a href="/pulse/week-in-review">Week In Review</a> </li>
+  </ul>
+</nav>
+
+
+
+
+
+<nav id="navMobileSocial" role="navigation" class="visible-phone">
+  <ul>
+    <li><a href="http://www.facebook.com/share.php?u=http://almon.co/2um2" target="_blank"><span class="socialIcons">&#xF610;</span>Facebook</a></li>
+    <li><a href="https://twitter.com/intent/tweet?text=Libya art exhibit paints bleak picture of post-Arab Spring society http://almon.co/2um2 via @AlMonitor" target="_blank"><span class="socialIcons">&#xF611;</span>Twitter</a></li>
+    <li><a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?title=Libya art exhibit paints bleak picture of post-Arab Spring society&url=' + encodeURIComponent(window.location); return false"><span class="socialIcons">&#xF616;</span>Reddit</a></li>
+    
+    <li><a href="whatsapp://send?text=Libya art exhibit paints bleak picture of post-Arab Spring society - http://almon.co/2um2" data-action="share/whatsapp/share"><span class="socialIcons">&#xF6A2;</span>WhatsApp</a></li>
+    <li><a href="tg://msg?text=Libya art exhibit paints bleak picture of post-Arab Spring society  http://almon.co/2um2"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/icons/telegram_logo_alm2.svg" class="socialIcons" style="width:14px;" /> Telegram</a></li>
+    <li><a href="mailto:?subject=Libya art exhibit paints bleak picture of post-Arab Spring society&body=http://almon.co/2um2%0A%0ARead more at http://www.Al-Monitor.com"><span class="socialIcons">&#x2709;</span>E-Mail</a></li>
+  </ul>
+</nav><div class="clear"></div>
+      <section role="banner" class="container-fluid visible-phone" id="banner">
+        <div class="row-fluid">
+          <a class="nav-btn ss-standard pull-left" id="nav-open-btn" href="#navMobile">&#xE9A1;</a>
+          <a id="nav-open-btn-alt" href="#navMobileSocial" class="mobileShareButton ss-standard pull-right">&#xEE00;</a>
+        </div>
+      </section>
+      
+
+
+<div class="container-fluid">
+    
+
+<div class="row-fluid">
+    
+      <div class="span4 logo">
+            
+
+<style>  .pulseNews .container-fluid .row-fluid:last-child { border-bottom: 0px solid #ffffff; }  </style>
+<a href="/pulse/home.html" ><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/logo.png" /></a><div class="clear"></div><div class="clear"></div>
+        </div>
+    
+      <div class="span3 logoHeadline">
+            
+
+<style>  .pulseNews .container-fluid .row-fluid:last-child { border-bottom: 0px solid #ffffff; }  </style>
+The Pulse of the Middle East<div class="clear"></div>
+        </div>
+    
+      <div class="span2 logo visible-desktop">
+            
+
+<style>  .pulseNews .container-fluid .row-fluid:last-child { border-bottom: 0px solid #ffffff; }  </style>
+<a href="http://ipi.freemedia.at/special-pages/newssview/article/al-monitor-named-free-media-pioneer-award-winner.html" target="_blank"><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/IPI-Button_1.png" /></a><div class="clear"></div><div class="clear"></div>
+        </div>
+    
+      <div class="span3 social search visible-desktop">
+            
+
+<style>  .pulseNews .container-fluid .row-fluid:last-child { border-bottom: 0px solid #ffffff; }  </style>
+
+
+
+
+<form action="/pulse/search-results.html" method="get" id="testf1" style="line-height:90px;margin:0px;">
+ 
+  <span class="ss-standard magGlass" style="top:49px;">&#x1F50E;</span>
+  <input id="queryTerm" name="queryTerm" placeholder="Search Al-Monitor" type="text"></input>
+</form>
+<ul style="margin: -50px 0px -10px 30px;">
+  <li style="width:18%"><a href="https://www.facebook.com/almonitor" target="_blank" title="Connect with us on Facebook!"><span class="socialIconsTop">&#xF610;</span></a></li>
+  <li style="width:18%"><a href="https://twitter.com/almonitor" target="_blank" title="Follow us on Twitter!"><span class="socialIconsTop">&#xF611;</span></a></li>
+  <li style="width:18%"><a href="https://instagram.com/almonitor" target="_blank" title="Check us out on Instagram!"><span class="socialIconsTop">&#xF641;</span></a></li>
+  <li style="width:18%"><a href="mailto:?subject=Al-Monitor: The Pulse of the Middle East&body=http://www.Al-Monitor.com" title="Tell a friend about us!"><span class="socialIconsTop">&#x2709;</span></a></li>
+  <li style="width:18%"><a href="/rss" target="_blank" title="Check out our RSS Feeds!"><span class="socialIconsTop">&#xE310;</span></a></li>
+</ul><div class="clear"></div><div class="clear"></div>
+        </div>
+    
+</div><div class="clear"></div>
+</div>
+
+
+
+<div class="pulses hidden-phone" dir="LTR">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <ul>
+        <div class="pulsesTitle">Pulse of</div><img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/img/elements/pulseFlag.png" class="pulseFlag" />
+        <span><li> <a href="/pulse/egypt-pulse">Egypt</a> <a href="/pulse/ar/home/egypt-pulse.html" class="sub">&#1605;&#1589;&#1585;</a> </li></span>
+        <span><li> <a href="/pulse/gulf-pulse">Gulf</a> <a href="/pulse/ar/home/gulf-pulse.html" class="sub">&#1575;&#1604;&#1582;&#1604;&#1610;&#1580;</a> </li></span>
+        
+        <span><li> <a href="/pulse/iran-pulse">Iran</a> <a href="/pulse/fa/home/iran-pulse.html" class="sub">&#1575;&#1740;&#1585;&#1575;&#1606;</a> </li></span>
+        <span><li> <a href="/pulse/iraq-pulse">Iraq</a> <a href="/pulse/ar/home/iraq-pulse.html" class="sub">&#1575;&#1604;&#1593;&#1585;&#1575;&#1602;</a> </li></span>
+        <span><li> <a href="/pulse/israel-pulse">Israel</a> <a href="/pulse/iw/home/israel-pulse.html" class="sub">&#1497;&#1513;&#1512;&#1488;&#1500;</a> </li></span>
+        <span><li> <a href="/pulse/lebanon-pulse">Lebanon</a> <a href="/pulse/ar/home/lebanon-pulse.html" class="sub">&#1604;&#1576;&#1606;&#1575;&#1606;</a> </li></span>
+        <span><li> <a href="/pulse/palestine-pulse">Palestine</a> <a href="/pulse/ar/home/palestine-pulse.html" class="sub">&#1601;&#1604;&#1587;&#1591;&#1610;&#1606;</a> </li></span>
+        <span><li> <a href="/pulse/syria-pulse">Syria</a> <a href="/pulse/ar/home/syria-pulse.html" class="sub">&#1587;&#1608;&#1585;&#1610;&#1575;</a> </li></span>
+        <span><li> <a href="/pulse/turkey-pulse">Turkey</a> <a href="/pulse/tr/home/turkey-pulse.html" class="sub">T&Uuml;RK&#304;YE</a> </li></span>
+        <span><li style="background-color:#228653;font-weight:bold;border-left-style: solid;border-left-width: 1px;"> <a href="/pulse/back-channel">Back</a> <a href="/pulse/back-channel">Channel</a> </li></span>
+        <span><li style="background-color:#228653;font-weight:bold;border-left-style: solid;border-left-width: 1px;"> <a href="/pulse/congresspulse">Congress</a> <a href="/pulse/congresspulse">Mideast</a> </li></span>
+        <span><li style="background-color:#228653;font-weight:bold;border-left-style: solid;border-left-width: 1px;"> <a href="/pulse/russia-mideast">Russia</a> <a href="/pulse/russia-mideast">Mideast</a> </li></span>
+        <span><li style="background-color:#BF5230;font-weight:bold;border-left-style: solid;border-left-width: 1px;border-right-color: white;border-right-style: solid;border-right-width: 1px;"> <a href="/pulse/week-in-review">Week</a> <a href="/pulse/week-in-review">in Review</a> </li></span>
+      </ul>
+    </div>
+  </div>
+</div><div class="clear"></div>
+    </header>
+  
+
+<nobr><span style="color:darkblue;font-size:9pt;font-weight:bold;text-transform:uppercase;text-decoration:underline;">
+
+<!-- danya-hajjaji - 0 - false -->
+
+
+</span></nobr>
+
+
+
+
+  
+  
+
+<section class="article" id="article" style="background: url('/pulse/modules/almcontent/images/backgrounds/globe.jpg') no-repeat; background-size: 100% auto;">
+  <div class="container-fluid">
+    
+    <div class="row-fluid contentRow">
+      <div class="span8" id="leftcolumn"> <img class="pulseNewsImg span12" src="http://images.al-monitor.com/almpics/2017/04/libyaartexhibit.jpg/libyaartexhibit-570.jpg" id="leadimage" />
+        <p class="caption hidden-phone" id="leadimagecaption">People attend the &#034;Warning&#034; art exhibit in Tripoli, Libya, April 1, 2017.&nbsp;(photo by&nbsp;WaraQ Art Foundation)</p>
+        <div class="info">
+          <h2>Libya art exhibit paints bleak picture of post-Arab Spring society</h2>
+          <p class="noScreen">Author:&nbsp;Danya Hajjaji<span class="span6 dateline" title="April 19, 2017 08:18 UTC"> <span class="title">Posted</span> April 19, 2017 </span> </p>
+          <p class="essay">Libyan artists highlighted the effects of the post-revolution crisis at a local art exhibition in Tripoli in early April. WaraQ Art Foundation, a nongovernmental organization working to resurrect the Libyan art scene through installations and workshops, organized and curated the exhibit titled &ldquo;Warning&quot; that took place&nbsp;April 1-5.&nbsp;
+          <!-- **************** hidesummary2: []****************** -->
+          <!-- **************** hidesummary: [false]****************** -->
+            
+              <div class="stats hidden-phone span6" id="infobox" >
+                
+              <div class="row-fluid" id="summary"> <span class="title">Summary<a href="#" onclick="javascript:window.print(); return false" style="font-family:ss-standard;font-size:120%;color:#000000;float:right;text-decoration:none;" title="Click here to Print this article" >&#x2399; <span style="font-size:60%;color:#333;">Print</span></a></span> At an art exhibit in Tripoli, artists displayed haunting works related to their personal experiences in the post-revolution conflicts in Libya and the entire region. </div>
+                
+                <div class="row-fluid"> <span class="span6"> <span class="title">Author</span> <a href="/pulse/authors/danya-hajjaji.html"><span class="byline-name">Danya Hajjaji</span></a></span><span class="span6 dateline" title="April 19, 2017 08:18 UTC"> <span class="title">Posted</span> April 19, 2017 </span></div>
+                <div class="row-fluid"> <span class="span6"> <nobr><span style="color:darkblue;font-size:9pt;font-weight:bold;text-transform:uppercase;text-decoration:underline;">
+   <a href="" target="_blank" title="Click here to read the original article from" alt="Click here to read the original article from style="color:darkblue;"></a>
+  </span></nobr></span></div>
+              </div>
+            <p>&ldquo;The exhibition is focused on expressing the concept of human rights issues in modern society,&rdquo; Takwa Barnosa, the co-founder of WaraQ, told Al-Monitor.&nbsp;&ldquo;We believe that this is our way to fight back.&rdquo;</p>
+
+<p>Five evenings in a row, crowds shuffled into WaraQ&rsquo;s studio in&nbsp;the center of Tripoli. After making their way past crime scene&nbsp;yellow tape hanging from a doorframe, visitors found themselves in an apocalyptic space. A disorderly setup of wooden stools representing chaotic reconstruction, flanked by computer monitors playing unsettling short films, stood in the middle of the room. Haunting works of&nbsp;art&nbsp;adorned the surrounding walls, as bright red and blue lighting drowned the studio. A soundtrack of eerie, <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2017/01/hifter-libya-gna-russia-military-misrata-tripoli.html">distant warfare</a> echoed through&nbsp;the event space.</p>
+
+<p>&quot;Warning&quot; resembled little of the &quot;light-hearted&quot; art exhibitions that Tripoli had seen in the past.</p>
+
+<p>Artists of various backgrounds showcased their work through different outlets such as paint, digital, video, photography and calligraphy.</p>
+
+<p>IT student Razan al-Naas based her digital production &ldquo;Kidnapped and yet to return&rdquo; on a personal trauma. Last year, a gang abducted her grandfather Suleiman, the elderly man at the forefront of the piece.</p>
+
+<p style="text-align: center;"><jahia:addCacheDependency node="node /sites/almonitor/files/images/almpics/2017/04/kidnapped.jpg" />
+<img src="/pulse/files/live/sites/almonitor/files/images/almpics/2017/04/kidnapped.jpg" style="margin-top: 10px;" />
+<!-- kidnapped.jpg --></p>
+
+<p style="text-align: center;"><em>&quot;Kidnapped and yet to return&quot; by Razan al-Naas</em></p>
+
+<p>&ldquo;I cried my eyes out,&rdquo; Naas told Al-Monitor. &ldquo;It felt like hell, a whole month of staring into my mother&rsquo;s sad eyes as she wept&nbsp;over her father&rsquo;s absence.&rdquo;</p>
+
+<p>The kidnappers kept Naas&rsquo;&nbsp;grandfather captive until her family paid an exorbitant ransom, represented by a background of 10 dinar bills in the showcased piece.</p>
+
+<p>&ldquo;I wanted to share this feeling with everyone,&rdquo; Naas said. &ldquo;The fact that you could wake up one day to find that one of your closest people is kidnapped.&rdquo;</p>
+
+<p>Schoolteacher Faiza Ramadan found inspiration for her painting &ldquo;Protective sequestration&rdquo; in her second-grade classroom. The profile outlines in blue represent Libyan parents speaking too freely about wartime horrors in front of their children, who are encapsulated by the single minimalist face in the middle of the canvas. Ramadan recalls her meeting with an aggressive student&rsquo;s mother, who attributed her daughter&rsquo;s behavior to the child finding out Islamic State (IS) members slaughtered her uncle.</p>
+
+<p>&ldquo;They bring it in&nbsp;the classroom,&rdquo; Ramadan told Al-Monitor. &ldquo;They talk about the war, the kidnappings and they are only 8&nbsp;years old. &hellip; It makes me feel like there is no hope for the younger&nbsp;generation.&rdquo;</p>
+
+<p>Waed Joha, a computer engineering student, handpicked clips from YouTube, Vimeo and TV commercials to create a short film depicting distorted scenes of violence, which a computer monitor at the center of the studio played in a loop. Joha sought to represent unforeseen threats looming over Libyans&rsquo; daily lives. One poignant scene shows a pair of hands covering the bottom half of a Russian doll&rsquo;s face, emulating a niqab. The doll then bleeds, prompting the hands to remove the toy and clean the pool of blood it left behind. The next clip shows the hands closing a water tap.</p>
+
+<p>&ldquo;The little doll with the niqab was supposed to represent how we look at Islam now after IS,&rdquo; Joha told Al-Monitor. &ldquo;She was killed, and then he literally washed his hands like it was nothing.&rdquo;</p>
+
+<p>Digital artist Alla Budabbus, a notable figure in the&nbsp;art scene of Tripoli, produced a haunting series titled &ldquo;Children of war,&rdquo; which represents children&rsquo;s growth in an environment pervaded by violence.</p>
+
+<p style="text-align: center;"><jahia:addCacheDependency node="node /sites/almonitor/files/images/almpics/2017/04/3.jpg" />
+<img src="/pulse/files/live/sites/almonitor/files/images/almpics/2017/04/3.jpg?t=thumbnail870" style="margin-top: 10px;display:block;" />
+<!-- 3.jpg --></p>
+
+<p style="text-align: center;"><em>&quot;Children of war&quot; by Alla Budabbus</em></p>
+
+<p>The first illustration depicts a baby in utero surrounded by words such as &ldquo;war,&rdquo;&nbsp;&ldquo;rape,&rdquo;&nbsp;&ldquo;blood&rdquo; and &ldquo;racism&rdquo; in Arabic.</p>
+
+<p>&ldquo;It is&nbsp;scientifically proven that a baby&nbsp;in the womb&nbsp;is&nbsp;affected by&nbsp;what surrounds the mother,&rdquo; Budabbus told Al-Monitor. &ldquo;So if what surrounds the mother is war and killings and rapes &hellip; that will eventually affect the baby&nbsp;growing inside of her.&rdquo;</p>
+
+<p>The second illustration, a gas mask with a valve replaced by a pacifier, represents failed attempts at filtering out the horrors of war and preserving children&rsquo;s innocence. The third image, wherein a child measures his height next to a Kalashnikov, illustrates the ease with which Libyan children&nbsp;access weapons.</p>
+
+<p>Art student Salem Bahron had&nbsp;five of his digital works on display at the exhibit. &ldquo;Silence&rdquo; is perhaps the most intense, since it features a bloodied face familiar to many. The subject is none other than Omran Daqneesh, the 5-year-old Syrian boy who gained international attention through images taken after an airstrike in Aleppo showing him sitting in the back of an ambulance, injured and stunned.</p>
+
+<p style="text-align: center;"><jahia:addCacheDependency node="node /sites/almonitor/files/images/almpics/2017/04/silence.jpeg" />
+<img src="/pulse/files/live/sites/almonitor/files/images/almpics/2017/04/silence.jpeg" style="margin-top: 10px;" />
+<!-- silence.jpeg --></p>
+
+<p style="text-align: center;"><i>&quot;Silence&quot; by Salem Bahron</i></p>
+
+<p>&ldquo;Paintings express sadness, anger and conflict that one may feel toward&nbsp;his surroundings,&rdquo; Bahron said. &ldquo;I felt the instant need to draw him.&rdquo;</p>
+
+<p>Despite Libya&rsquo;s downfall, the Tripoli art scene is booming. Budabbus said that other Libyan towns, such as <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2017/02/benghazi-libya-blowback-role-iraq-congress-mosul.html">Benghazi</a> and Sebha, also organize&nbsp;exhibitions showcasing local talent.</p>
+
+<p>&ldquo;People have visions, especially the young people,&rdquo; he said. &ldquo;I see the other side of Libya through them.&rdquo;</p>
+
+<p>In some cases, interest in art emerged from Libya&rsquo;s deteriorating living conditions. Ramadan did not fully immerse herself in painting until she experienced a period of unemployment after the revolution. Soon enough, it became more than just a time-filling hobby.</p>
+
+<p>&ldquo;Since we don&rsquo;t have the freedom to express ourselves directly, we can put all our emotions in art,&rdquo; Ramadan said. &ldquo;So art is therapy for me. And for the audience, it is education.&rdquo;</p>
+
+<p>Since the Arab Spring, everyday life in Libya reaches new levels of excruciating difficulty.</p>
+
+<p>The overthrow of Moammar Gadhafi&rsquo;s government in 2011 led to an ongoing power vacuum in the country, where militant groups with different agendas found opportunity. As of 2016, Human Rights Watch reports indiscriminate human rights violations such as torture, abductions and executions carried out by militias, Islamists and military forces of varying loyalties.</p>
+
+<p>At the civilian level, living conditions are near abysmal: Electricity is cut&nbsp;for hours on end, accelerating inflation increases food prices, crimes go without punishment and community efforts striving for normalcy often end up thwarted. Last month, three people were arrested for taking part in an Earth Hour celebration in Benghazi.</p>
+
+<p>Although <a target="_blank" href="http://www.al-monitor.com/pulse/originals/2016/12/libya-government-national-accord-failure-anniversary.html">Libya&rsquo;s current state</a> remains a searing pain for its population, the art world&rsquo;s expansion represents a flickering ray of positive growth.</p>
+
+<p>&ldquo;Art is a way of survival &mdash; that&rsquo;s the major motto of&nbsp;the Libyan art community,&rdquo; Naas concluded. &ldquo;Art gives us hope, it feeds us, it keeps us alive&nbsp;and allows us to go on.&rdquo;</p>
+          <p class="noScreen" style="text-align:left;"> Read More: http://www.al-monitor.com/pulse/originals/2017/04/libya-tripoli-art-exhibition-warning.html</p>
+        </div>
+      </div>
+      <div class="span4" id="sidecolumn">
+        <section class="sideAuthorBox">
+  <div class="row-fluid">
+    
+    <a href="/pulse/authors/danya-hajjaji.html">
+    <div class="author"><img src="/pulse/files/live/sites/almonitor/files/images/authors/2017/danyahajjajibw.jpg" width="117">
+      <div class="authorName">Danya Hajjaji</div>
+      <div class="alegreya">&nbsp;</div>
+    </div>
+    </a>
+    <div style="text-align:justify;"><p>Danya Hajjaji is a Libyan journalist based in New York City. She earned a BA&nbsp;in media and communications from the University of Sussex and is&nbsp;currently completing an MS&nbsp;at Columbia University&rsquo;s Graduate School of Journalism. She&nbsp;has covered politics,&nbsp;race, religion,&nbsp;food and LGBT issues. On Twitter: <a href="http://twitter.com/danyahaj">@danyahaj</a></p></div>
+  </div>
+</section>
+
+          <!-- side info box -->
+        
+
+<div class="row-fluid contentRow" >
+<iframe
+src="//www.facebook.com/plugins/likebox.php?locale=en_US&href=https%3A%2F%2Fwww.facebook.com%2Falmonitor&amp;width=280&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=115006175316219"
+scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:62px; margin-bottom:10px;" allowTransparency="true"></iframe>
+
+<a href="https://twitter.com/AlMonitor" class="twitter-follow-button" data-show-count="true" data-size="large" data-lang="en">Follow @AlMonitor</a>
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+'script', 'twitter-wjs');</script>
+
+<script type="text/javascript">function target_popup(a){window.open("","formpopup","width=400,height=400,resizeable,scrollbars");a.target="formpopup"}</script>
+
+<div class="overlayBar" style="margin-top:10px;">
+
+
+<div >
+<form action="" method="get" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <span style="search">
+ <select name="language">
+  <option value="/pulse/newsletter-registration"  selected>English Newsletter</option>
+  <option value="/pulse/ar/newsletter-registration" >Arabic Newsletter</option>
+  <option value="/pulse/iw/newsletter-registration" >Hebrew Newsletter</option>
+  <option value="/pulse/tr/newsletter-registration" >Turkish Newsletter</option>
+ </select>
+ <input type="email" value="" name="email" class="email" id="email" placeholder="Subscribe to Newsletter" required>
+ </span>
+ <div class="clear" style="display:inline;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="padding: 10px 15px;background: #FFF;color: #0077c0!important;border: solid 1px #20538D;text-shadow: 0 -1px 0 rgba(0,0,0,0.4);-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);box-shadow: inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);-webkit-transition-duration: 0.2s;-moz-transition-duration: 0.2s;transition-duration: 0.2s;width:100px;margin: 0px 0px 10px 10px;line-height: 7px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;" 
+onclick="subm(this.form,this.form.language.options[this.form.language.selectedIndex].value)"></div>
+</form>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:20px;">
+
+  <tr>
+    <td><h4>Translate with Google</h4></td>
+  </tr>
+  <tr>
+    <td><div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,fa,fr,iw,ru,tr', multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></td>
+  </tr>
+</table>
+</div><!-- /1011927/AlMonitor_Window_1st -->
+<div id='div-gpt-ad-1485549463683-1' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485549463683-1'); });
+</script>
+</div><section class="sideArticles hidden-phone" id="side-articles" >
+    <!-- side related articles -->
+    <h3>Related Articles</h3>
+    <div class="row-fluid contentRow">
+          <div class="sideArticle" dir="LTR">
+            
+            <a href="/pulse/originals/2017/04/coptic-church-attacks-islamic-state.html" title="An armed policeman secures the Coptic church that was bombed April 9 in Tanta, Egypt, April 10, 2017. (photo by REUTERS/Mohamed Abd El Ghany)">
+              <img class="span6" src="http://images.al-monitor.com/almpics/2017/04/RTX34WSO.jpg/RTX34WSO-170.jpg"/>
+            </a>
+            
+            <div class="span5">
+              <a href="/pulse/originals/2017/04/coptic-church-attacks-islamic-state.html">
+                <h5>Church bombings leave many Egyptians questioning Sisi's 'war on terror'</h5>
+              </a>
+              <a href="/pulse/originals/2017/04/coptic-church-attacks-islamic-state.html" class="authorName">
+                Aya Nader
+              </a>
+            </div>
+          </div>
+        </div><div class="row-fluid contentRow">
+          <div class="sideArticle" dir="LTR">
+            
+            <a href="/pulse/originals/2017/04/iraq-syria-isis-us-raqqa-mosul-terrorism.html" title="Iraqi army vehicles gather outside a building used by Iraqi security forces to check residents' ID cards in a search for Islamic State fighters in Mosul, Iraq, Feb. 16, 2017. (photo by REUTERS/Khalid al Mousily)">
+              <img class="span6" src="http://images.al-monitor.com/almpics/2017/04/RTSZJN3.jpg/RTSZJN3-170.jpg"/>
+            </a>
+            
+            <div class="span5">
+              <a href="/pulse/originals/2017/04/iraq-syria-isis-us-raqqa-mosul-terrorism.html">
+                <h5>Is Iraq poised for large-scale military involvement in Syria?</h5>
+              </a>
+              <a href="/pulse/originals/2017/04/iraq-syria-isis-us-raqqa-mosul-terrorism.html" class="authorName">
+                Mustafa Saadoun
+              </a>
+            </div>
+          </div>
+        </div><div class="row-fluid contentRow">
+          <div class="sideArticle" dir="LTR">
+            
+            <a href="/pulse/originals/2017/04/gaza-palestinian-women-inmates-work-handmade-society.html" title="The "Glimmer of Hope" exhibition is pictured, Gaza City, Gaza Strip, March 29, 2017. (photo by Majdi Fathi)">
+              <img class="span6" src="http://images.al-monitor.com/almpics/2017/04/GlimmerHope.jpg/GlimmerHope-170.jpg"/>
+            </a>
+            
+            <div class="span5">
+              <a href="/pulse/originals/2017/04/gaza-palestinian-women-inmates-work-handmade-society.html">
+                <h5>How Palestinian female inmates are getting a second chance</h5>
+              </a>
+              <a href="/pulse/originals/2017/04/gaza-palestinian-women-inmates-work-handmade-society.html" class="authorName">
+                Rasha Abou Jalal
+              </a>
+            </div>
+          </div>
+        </div>
+  </section><!-- /1011927/AlMonitor_Window_2nd -->
+<div id='div-gpt-ad-1485549463683-2' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485549463683-2'); });
+</script>
+</div> 
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BEGIN EXCEPTION FOR PODCAST LIST - Get latest Podcast and reference it in place of the bound component -->
+
+<!-- END EXCEPTION FOR PODCAST LIST -->
+
+<section class="originals visible-desktop" id="relatedarticles">
+  <div class="container-fluid"><div class="span8">
+    <div class="row-fluid"><h3>Related Articles</h3></div>
+     <div class="span12">
+      <div class="row-fluid contentRow">
+    
+                <div class="span2">
+                <!-- AuthName2 : Fazel Hawramy -->
+<a href="/pulse/originals/2017/04/iran-islamic-state-kurdistan-recruitment-jihadism-at-home.html">
+  <h6>Regional</h6>
+  <img src="http://images.al-monitor.com/almpics/2017/04/RTR4TTZW.jpg/RTR4TTZW-170.jpg">
+  <h5>How Iran's military strategy against IS may backfire</h5>
+</a> <span class="authorName"> <a href="/pulse/authors/fazel-hawramy.html" class="authorName">Fazel Hawramy</a></span>
+          </div>
+        
+                <div class="span2">
+                <!-- AuthName2 : Week in Review -->
+<a href="/pulse/originals/2017/04/assad-tillerson-hezbollah-sadr-isis-pmu.html">
+  <h6>Russia</h6>
+  <img src="http://images.al-monitor.com/almpics/2017/04/RTX3531H.jpg/RTX3531H-170.jpg">
+  <h5>Assad’s departure still non-starter for Putin</h5>
+</a> <span class="authorName"> <a href="/pulse/authors/al-monitor.html" class="authorName">Week in Review</a></span>
+          </div>
+        
+                <div class="span2">
+                <!-- AuthName2 : Youssra el-Sharkawy -->
+<a href="/pulse/originals/2017/04/terrorism-theater-arts-festival.html">
+  <h6>Pan Arab</h6>
+  <img src="http://images.al-monitor.com/almpics/2017/04/Shaqaf2.jpg/Shaqaf2-170.jpg">
+  <h5>Sinai festival tackles Egyptian issues through theater</h5>
+</a> <span class="authorName"> <a href="/pulse/authors/youssra-el-sharkawy.html" class="authorName">Youssra el-Sharkawy</a></span>
+          </div>
+        
+                <div class="span2">
+                <!-- AuthName2 : Aya Nader -->
+<a href="/pulse/originals/2017/04/coptic-church-attacks-islamic-state.html">
+  <h6>Egypt</h6>
+  <img src="http://images.al-monitor.com/almpics/2017/04/RTX34WSO.jpg/RTX34WSO-170.jpg">
+  <h5>Church bombings leave many Egyptians questioning Sisi's 'war on terror'</h5>
+</a> <span class="authorName"> <a href="/pulse/authors/aya-nader.html" class="authorName">Aya Nader</a></span>
+          </div>
+        
+      </div>
+     </div>
+    </div>
+  </div>
+</section><section class="comments" id="disqus">
+  <div class="container-fluid" id="wow">
+    <div class="row-fluid contentRow">
+    <div class="span8" id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_config = function () { this.language = "en"; };
+        var disqus_shortname = 'almonitor';
+        var disqus_identifier = '9c110e87-2c57-4aeb-948f-c766670a81c4';
+        var disqus_title = 'Libya art exhibit paints bleak picture of post-Arab Spring society';
+        var disqus_url = 'http://www.al-monitor.com/pulse/originals/2017/04/libya-tripoli-art-exhibition-warning.html';
+        var disqus_category_id = '2330716';
+        (function() { 
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+  </div>
+</section><div class="clear"></div>
+
+<footer class="visible-desktop" dir="LTR" id="footer">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span2">
+        <ul>
+          <p>Content</p>
+          <a href="/pulse/galleries"> <li>Galleries</li> </a>
+
+          <a href="/pulse/topics"> <li>Topic Pages</li> </a>
+
+          <a href="/pulse/lobbying"> <li> Middle East Lobbying Series </li> </a>
+          <a href="/pulse/submission-guidelines"> <li> Submission Guidelines </li> </a>
+          <a href="/pulse/opportunities"> <li> Opportunities </li> </a>  
+
+        </ul>
+      </div>
+      <div class="span2">
+        <ul>
+          <p>About Al-Monitor</p>
+          <a href="/pulse/about"> <li>About</li> </a>
+          <a href="/pulse/privacy"> <li>Privacy</li> </a>
+          <a href="/pulse/visitor-agreement"> <li>Visitor Agreement</li> </a>
+          <a href="/pulse/contactus"> <li>Contact Us</li> </a>
+          <a href="/pulse/about/in-the-news"> <li>In The News</li> </a>
+	      <a href="/pulse/newsletter-signup" > <li>Newsletter Sign Up</li> </a>
+        </ul>
+      </div>
+      <div class="span4">
+        <ul>
+          <p>Pulses</p>
+          <a href="/pulse/egypt-pulse"> <li>Egypt</li> </a>
+          <a href="/pulse/gulf-pulse">  <li>Gulf</li>  </a>
+          <a href="/pulse/iraq-pulse">  <li>Iraq</li>  </a>
+          <a href="/pulse/iran-pulse">  <li>Iran</li>  </a>
+        </ul>
+        <ul class="secondary">
+          <a href="/pulse/israel-pulse"> <li>Israel</li> </a>
+          <a href="/pulse/lebanon-pulse"> <li>Lebanon</li> </a>
+          <a href="/pulse/palestine-pulse"> <li>Palestine</li> </a>
+          <a href="/pulse/syria-pulse"> <li>Syria</li> </a>
+        </ul>
+        <ul class="tertiary">
+          <a href="/pulse/turkey-pulse">  <li>Turkey</li> </a>
+          <a href="/pulse/back-channel">  <li>Back Channel</li> </a>
+          <a href="/congresspulse">  <li>Congress</li> </a>
+          <a href="/pulse/russia-mideast">  <li>Russia / Mideast</li> </a>
+        </ul>
+        <ul class="tertiary">
+          <a href="/pulse/week-in-review"> <li>Week In Review</li> </a>
+        </ul>
+      </div>
+      <div class="span3 offset1">
+        <div class="search" ><form action="/pulse/search-results.html" method="get" id="testf2">
+ 
+ <span class="ss-standard magGlassFooter">&#x1F50E;</span>
+ <input id="queryTerm" name="queryTerm" placeholder="Search Al-Monitor" type="text"></input>
+ </form></div>
+        <p style="color:#a8a8a8;">&copy;2017 Al-Monitor. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+<footer class="mobile-footer hidden-desktop" id="footer2">
+  <div class="container-fluid">
+    <div class="row-fluid"> <img src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/mobileFooterLogo.png">
+      <p>&copy;2017 Al-Monitor. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+  
+    <script text="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/mobileNav.js"></script>
+    <script text="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.timeago.js"></script>
+    
+  </div><!-- end div inner-wrap -->
+</div><!-- end div outer-wrap -->
+<!--stop bodywrapper-->
+
+
+<script  id="almJSCDNt15"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/bootstrap.js"></script> 
+<script  id="staticAssetJavascript16"  type="text/javascript" src="/pulse/modules/bootstrap/javascript/bootstrap-collapse.js"></script> 
+<script  id="almJSCDN17"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.fitvids2.js"></script>
+<script  id="almJSCDN17"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.facebook.js"></script>
+<script  id="almJSCDN17"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/lunametrics-youtube.js"></script>
+<script  id="almJSCDN21"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery-ui.js"></script> 
+<script  id="almJSCDN22"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/jquery.scrolldepth.min.js"></script>
+
+
+
+  <script>
+    jQuery(function() {
+      jQuery.scrollDepth();
+    });
+  </script>
+ 
+  <script  id="staticAssetJavascript22"  type="text/javascript" src="http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/javascript/welcome.js"></script>   
+  
+    <script>
+  $(function() {
+    $( "#tabs" ).tabs();
+  });
+  </script>
+  
+  
+
+  <script>
+    $(document).ready(function(){
+      $(".video").fitVids();
+      $('#post').autoResizeFbPost();
+    });
+  
+    $("#ustream").fitVids({ customSelector: "iframe[src^='http://www.ustream.tv']"});
+  </script>
+  
+  <script>
+        $(window).load(function(){
+            var newHeight = $(".ratioImage").height();
+            $(".ratioImageHolder").height(newHeight * 0.75);
+        });
+        $(window).resize(function() {
+            var newHeight = $(".ratioImage").height();
+                    $(".ratioImageHolder").height(newHeight * 0.75);
+        });
+  </script>
+
+
+  <script>
+    $(function(){
+      $( "#accordion1,#accordion2,#accordion3,#accordionsub1,#accordionsub2,#accordionsub3,#accordionsub4,#leadership" ).accordion({
+      active: false,
+      heightStyle: "content",
+      collapsible: true
+      });
+    });
+  </script>  
+
+  
+<style>
+  * {
+  padding:0;
+  margin:0;
+}
+
+#bizzbar{  background:#0077c0;  width:100%;  text-align:center;  color:#fff;  padding:2px;  overflow:hidden;  height:30px;  z-index:1000;  font-family:Georgia;  font-size:14px;  line-height:30px;  position:fixed;  top:0;  left:0;  border-bottom:3px solid rgb(255,255,255);  box-shadow:0 1px 5px rgba(0,0,0,.7)}
+
+#bizzbar button{-webkit-box-shadow:rgba(0,0,0,0.278431) 1px 1px 3px; background:#BF5230;  border-bottom-left-radius:4px;  border-bottom-right-radius:4px;  border-top-left-radius:4px;  border-top-right-radius:4px;  border:none;  box-shadow:rgba(0,0,0,0.278431) 1px 1px 3px;  color:white;  cursor:pointer;  font-size:0.854em;  margin:0px 0px 0px 7px;  outline:none;  padding:2px 10px 1px;  position:relative;  text-decoration:initial}
+
+#bizzbar button:hover{  cursor:pointer;background:#444}
+
+#bizzbar button:active{  top:1px}
+
+close{  width:20px;  height:19px;  bottom:6px;  right:20px;  background:url(http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/sprite-8bit.png) no-repeat 0px -247px;  position:absolute}
+
+  close:hover{  background:url(http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/sprite-8bit.png) no-repeat 0px -228px;  cursor:pointer;  height:19px}
+
+open{-webkit-box-shadow:rgba(0,0,0,0.34902) 0px 0px 5px;background-image:url(http://f3b3b89d02107edb61d7-473d7606d0969355a7d8ed277b8af67d.r77.cf1.rackcdn.com/images/sprite-8bit.png);background-position:0px -8px;background-repeat:no-repeat no-repeat;border-bottom-left-radius:5px;border-bottom-right-radius:5px;border:3px solid rgb(255,255,255);box-shadow:rgba(0,0,0,0.34902) 0px 0px 5px;display:block;height:0px;outline:none;overflow:hidden;padding:80px 0px 0px;position:absolute;right:10px;top:-50px;width:35px;z-index:100;background-color:#eb593c;display:none}
+
+open:hover{ background-color:#BF5230; cursor:pointer}
+  
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px)  and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait) { #bizzbar{ height: 60px!important; }
+    
+}
+</style>
+
+<script>
+$(document).ready(function(){$("open").click(function(){$("#bizzbar").effect("bounce","slow");
+$("open").slideUp()})});
+$(document).ready(function(){$("#bizzbar").effect("bounce","slow");
+$("close").click(function(){$("#bizzbar").slideUp();$("open").slideDown()})});
+</script>
+
+
+
+
+<div id="bizzbar">
+  <p class="bizztext">Get Al-Monitor delivered to your Inbox <button class="bizzbutton" onclick=location.href='/pulse/newsletter-signup'>Sign Up Now</button></p>
+  <close></close>
+</div>
+<style type="text/css">
+#eucookielaw {display:none;font-weight: 400;font-size: 12pt;line-height: 12pt;width: 100%;position: fixed;bottom: 0;color: #222;background: #fff;background: rgba(255,255,255,.9);z-index: 999;text-align: center;box-shadow: 0 0 10px rgba(0,0,0,0.25);transition: all ease .4s;padding-top:10px;}
+#eucookielawinner {margin: 0 15% 0 15%;}
+</style>
+
+<script type="text/javascript">
+  function SetCookie(c_name,value,expiredays)
+  {
+    var exdate=new Date()
+    exdate.setDate(exdate.getDate()+expiredays)
+    document.cookie=c_name+ "=" +escape(value)+";path=/"+((expiredays==null) ? "" : ";expires="+exdate.toUTCString())
+  }
+</script>
+<div id="eucookielaw">
+  <div id="eucookielawinner">
+  <p>Cookies help us deliver our services. By using them you accept our use of cookies. <a href="/pulse/privacy">Learn more...</a>
+  <a href="#" class="close" id="removecookie">X</a>
+    </div>
+  </p>
+</div>
+<script type="text/javascript">
+  if( document.cookie.indexOf("eucookie") ===-1 ){
+    $("#eucookielaw").show();
+    SetCookie('eucookie','eucookie',365*10)
+  }
+  else {
+    $("#eucookielaw").remove();
+  }
+  $("#removecookie").click(function () {
+    SetCookie('eucookie','eucookie',365*10)
+    $("#eucookielaw").remove();
+  });
+</script>
+<div onClick="$('.likeMenu').toggle();" class="shareTag hidden-phone"  id="sharetag" title="">
+  <div class="ss-standard">&#xEE00;</div>
+  <p>Share</p>
+  <ul class="likeMenu" >
+    <a href="http://www.facebook.com/share.php?u=http://almon.co/2um2" target="_blank">
+      <li ><span class="socialIcons">&#xF610;</span>Recommend</li>
+    </a> <a href="https://twitter.com/intent/tweet?text=Libya art exhibit paints bleak picture of post-Arab Spring society http://almon.co/2um2 via @AlMonitor" target="_blank">
+    <li ><span class="socialIcons">&#xF611;</span>Tweet</li>
+    </a> <a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?title=Libya art exhibit paints bleak picture of post-Arab Spring society&url=' + encodeURIComponent(window.location); return false">
+    <li ><span class="socialIcons">&#xF616;</span>Reddit</li>
+    </a> <a href="mailto:?subject=Libya art exhibit paints bleak picture of post-Arab Spring society&body=http://almon.co/2um2%0A%0ARead more at http://www.Al-Monitor.com">
+    <li ><span class="socialIcons">&#x2709;</span>Email</li>
+    </a>
+  </ul>
+</div>
+
+
+ 
+</body>
+</html>

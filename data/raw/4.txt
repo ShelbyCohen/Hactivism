@@ -1,617 +1,414 @@
-	<!doctype html>
-	<!--[if !IE]>
-	<html class="no-js non-ie" lang="en-US"> <![endif]-->
-	<!--[if IE 7 ]>
-	<html class="no-js ie7" lang="en-US"> <![endif]-->
-	<!--[if IE 8 ]>
-	<html class="no-js ie8" lang="en-US"> <![endif]-->
-	<!--[if IE 9 ]>
-	<html class="no-js ie9" lang="en-US"> <![endif]-->
-	<!--[if gt IE 9]><!-->
-<html class="no-js kab" lang="en-US"> <!--<![endif]-->
-	<head>
-	<meta name="test" />
-		<meta charset="UTF-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-				<meta name="google-site-verification" content="sDUM5Gd044tcP4QT73maDtbAP7zw2wsOdFVOpmSqDpo" />
-        		<title>Home | Kids Against Bullying &#124; Kids Against Bullying</title>
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
 
-		<link rel="profile" href="http://gmpg.org/xfn/11"/>
-		<link rel="pingback" href="http://www.pacerkidsagainstbullying.org/xmlrpc.php"/>
-		
-		<!--[if gte IE 9]>
-		  <style type="text/css">
-		    .gradient,
-			.tab .wpProQuiz_button,
-			.tab .wpProQuiz_button:hover,
-			.fancy-select-wrap,
-			.fancy-checkbox-wrap,
-			.fancy-radio-wrap,
-			.sub-nav .menu .btn-activity,
-			.sub-nav .menu .btn-activity:hover,
-			.sub-nav .menu .btn-activity.current,
-			.sub-nav .menu .btn-pill,
-			.sub-nav .menu .btn-pill:hover,
-			.sub-nav .menu .btn-pill.current,
-			.menu a:hover {
-		       filter: none!important;
-		    }
-		  </style>
-		<![endif]-->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width" />
+				
+				<!--link href='http://fonts.googleapis.com/css?family=Exo:300' rel='stylesheet' type='text/css'>
+                <link href='http://fonts.googleapis.com/css?family=Jura' rel='stylesheet' type='text/css'-->
+				<link href='http://fonts.googleapis.com/css?family=Oswald:700|Cabin' rel='stylesheet' type='text/css'>
+                <!--link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"---->
+                
+				<link rel="stylesheet" type="text/css" href="/files/cache/css/STOMP_2016_Oswald/css/0_style.min.css" />
+				<link rel="stylesheet" type="text/css" href="/files/cache/css/STOMP_2016_Oswald/css/0_typography.min.css" />
+                <link rel="stylesheet" type="text/css" href="/files/cache/css/STOMP_2016_Oswald/css/0_home.min.css" />
+                
+				
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>National Bullying Prevention Month | STOMP Out Bullying™</title>
+<meta name="description" content="Join STOMP Out Bullying™ during National Bullying Prevention Month this October to help increase awareness and help prevent bullying and cyberbullying." />
+<meta name="keywords" content="national bullying prevention awareness month, Blue Shirt Day World Day of Bullying Prevention, bullying, October is National Bullying Prevention Awareness Month, teen bullying, bullying help, bullying for kids, bullying news articles, cyber bullying, parent programs, child education programs, stomp out bullying, bullying prevention, cyberbullying prevention, cyberbullying, cyberbullying help, child bullying, hatred, racism, digital abuse, schools, education, facts about bullying, facts about cyberbullying" />
+<meta name="generator" content="concrete5 - 5.6.3.3" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 271;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/updates/concrete5.6.3.3/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://www.stompoutbullying.org";
+var CCM_REL = "";
 
-		<link rel="alternate" type="application/rss+xml" title="Pacer &raquo; Feed" href="http://www.pacerkidsagainstbullying.org/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Pacer &raquo; Comments Feed" href="http://www.pacerkidsagainstbullying.org/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Pacer &raquo; Home | Kids Against Bullying Comments Feed" href="http://www.pacerkidsagainstbullying.org/kab/feed/" />
-<link rel='stylesheet' id='wp-polls-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-polls/polls-css.css?ver=2.63' type='text/css' media='all' />
-<link rel='stylesheet' id='wpProQuiz_front_style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.28' type='text/css' media='all' />
-<link rel='stylesheet' id='responsive-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/css/style.css?ver=1.9.6.3' type='text/css' media='all' />
-<link rel='stylesheet' id='responsive-media-queries-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/css/responsive.css?ver=1.9.6.3' type='text/css' media='all' />
-<link rel='stylesheet' id='kab_css-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/htdocs/css/styles.css?ver=4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='flexslider-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/shared/htdocs/css/flexslider.css?ver=4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='responsive-child-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/style.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='views-table-sorting-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/css/wpv-views-sorting.css?ver=1.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='views-pagination-style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=1.5.1' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/shared/htdocs/js/libs/jquery.gaaware.min.js?ver=1.9.13'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/js/responsive-modernizr.min.js?ver=2.6.1'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pacerkidsagainstbullying.org/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pacerkidsagainstbullying.org/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.0" />
-<link rel='canonical' href='http://www.pacerkidsagainstbullying.org/kab/' />
-<link rel='shortlink' href='http://www.pacerkidsagainstbullying.org/?p=9' />
-<style type="text/css">
-.wp-polls .pollbar {
-	margin: 1px;
-	font-size: 18px;
-	line-height: 20px;
-	height: 20px;
-	background: #ef8100;
-	border: 1px solid #c8c8c8;
-}
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/updates/concrete5.6.3.3/concrete/css/ccm.base.css" />
+<script type="text/javascript" src="/updates/concrete5.6.3.3/concrete/js/jquery.js"></script>
+<script type="text/javascript" src="/updates/concrete5.6.3.3/concrete/js/ccm.base.js"></script>
+<style type="text/css"> 
+#blockStyle1764Sidebarmid545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
+#blockStyle4612Sidebarlower1024 {background-repeat:no-repeat; padding:0 20px 0 0; } 
+#blockStyle8836Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
+#blockStyle6572Main1398 {background-repeat:no-repeat; padding:0 20px 0 20px; } 
+#blockStyle8877Main1746 {background-repeat:no-repeat; } 
+#blockStyle8883Main1749 {background-repeat:no-repeat; } 
+#blockStyle3975Main71 {background-repeat:no-repeat; } 
+#blockStyle3466Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
+#blockStyle3784Main947 {background-repeat:no-repeat; margin:0 0 -10px 0; padding:30px 20px 30px 5px; } 
+#blockStyle8945Main1307 {background-repeat:no-repeat; padding:40px 0 0 0; } 
+#awards_banners {text-align:center; background-repeat:no-repeat; } 
+#blockStyle6195Main1365 {background-repeat:no-repeat; } 
+#blockStyle8559Main1358 {text-align:center; background-repeat:no-repeat; } 
+#blockStyle8899Main1362 {text-align:center; background-repeat:no-repeat; } 
+#blockStyle8596Main1465 {background-repeat:no-repeat; padding:10px 0 0 10px; } 
+#blockStyle5331Main1088 {background-repeat:no-repeat; margin:0 0 10px 0; } 
+#blockStyle5332Main1089 {background-repeat:no-repeat; padding:0 10px 0 0; } 
+#blockStyle3712Main927 {background-repeat:no-repeat; margin:0 -15px 0 0; padding:0 0 20px 0; } 
+#blockStyle5844Main1172 {background-repeat:no-repeat; } 
+#blockStyle6588Main1163 {background-repeat:no-repeat; margin:10px 0 0 0; } 
+#breadcrumb_h1 {text-align:right; background-repeat:no-repeat; margin:0 0 -15px 0; } 
+#blockStyle6372Main1173 {background-repeat:no-repeat; padding:0 0 10px 0; } 
 </style>
-<link href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/shared/htdocs/images/favicon.ico" rel="icon" type="image/x-icon" /><link rel="apple-touch-icon-precomposed"  href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-57x57-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-76x76-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-120x120-precomposed.png" /><link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/images/apple-touch-icon-152x152-precomposed.png" /><!-- We need this for debugging -->
-<!-- Responsive 1.9.6.3 -->
-<!-- Pacer Kids and Teens Against Bullying 1.0.0 -->
-        <script type="text/javascript">
-            var front_ajaxurl = 'http://www.pacerkidsagainstbullying.org/wp-admin/admin-ajax.php';
-            var wpv_calendar_image = 'http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/img/calendar.gif';
-            var wpv_calendar_text = 'Select date';
-        </script>
-    
-    <script type="text/javascript">var gaAware = jQuery(document).gaaware({    UA: "UA-2136885-2"});</script>	</head>
+<link rel="canonical" href="http://www.stompoutbullying.org/campaigns/national-bullying-prevention-awareness-month" />
+<meta property="og:title" content="National Bullying Prevention Awareness Month"/>
+<meta property="og:url" content="http://www.stompoutbullying.org/campaigns/national-bullying-prevention-awareness-month"/>
+<meta property="og:description" content="Join STOMP Out Bullying™ during National Bullying Prevention Month this October to help increase awareness and help prevent bullying and cyberbullying."/>
+<meta property="og:image" content="http://www.stompoutbullying.org/files/1314/1718/6123/SOB_LOGO_MASTER_08012014WEB.png"/>
+<style type="text/css"> 
+#blockStyle4632Main1033 {background-repeat:no-repeat; margin:-5px 0 -10px 0; } 
+</style>
+<style type="text/css"> 
+#blockStyle4633Main1032 {background-repeat:no-repeat; margin:-10px 0 -5px 0; } 
+</style>
+<link rel="stylesheet" type="text/css" href="/blocks/superfish/templates/stomp_2016_nav/css/superfish.css" />
+<style type="text/css"> 
+#blockStyle2866Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
+</style>
+<style type="text/css"> 
+#blockStyle3425Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
+</style>
+<style type="text/css"> 
+#blockStyle3418Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
+</style>
+<style type="text/css"> 
+#blockStyle3426Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
+</style>
+<style type="text/css"> 
+#blockStyle2883Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
+</style>
+<style type="text/css"> 
+#blockStyle2777Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
+</style>
+<style type="text/css"> 
+#blockStyle5291Main1057 {text-align:center; background-repeat:no-repeat; } 
+</style>
+<link rel="stylesheet" type="text/css" href="/packages/superfish/blocks/superfish/css/superfish.css" />
+<script type="text/javascript" src="/packages/superfish/blocks/superfish/js/superfish.js"></script>
+<link rel="stylesheet" type="text/css" href="/updates/concrete5.6.3.3/concrete/blocks/search/view.css" />
+<style type="text/css"> 
+#blockStyle7939Main1632 {background-repeat:no-repeat; padding:0 0 20px 0; } 
+</style>
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-<body class="page page-id-9 page-parent page-template page-template-kids_against_bullyingkab-template-php kab">
+ga('create', 'UA-3163770-2', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
 
-<div id="container" class="hfeed">
+<!-- ********** Pinterest ***********-->
+<meta name="p:domain_verify" content="6f7db2f787b734fe90326992be3e7105"/>
 
-	<div class="skip-container cf">
-		<a class="skip-link screen-reader-text focusable" href="#main">&darr; Skip to Main Content</a>
-	</div><!-- .skip-container -->
-	<header class="content-header gradient">
-	<div  class="cloud-wrapper">
-	<div class="wrapper">
+<!-- ********** RM Support ***********-->
+<script type="text/javascript" language="javascript" src="http://stompoutbullying.org/js/public.js"></script>
+<script type="text/javascript" language="javascript"> dtbaker_public_change_request.include_url=false;dtbaker_public_change_request.init("http://reptilemind.org/external/m.change_request/h.script/i.51/hash."); </script>
+
+<!-- ********** FB App ID ***********-->
+<meta property="fb:app_id" content="1104799639597574"/>
+
+<!-- ********** FB JS Share SDK ***********-->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1104799639597574',
+      xfbml      : true,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>                
+				<!--  /js/scripts.js  -->
+<script type="text/javascript">$(function(){$(window).scroll(function(){if($(this).scrollTop()!==0){$('#toTop').fadeIn();}else{$('#toTop').fadeOut();}});$('#toTop').click(function(){$('body,html').animate({scrollTop:0},800);});});$(function(){$("<select />").appendTo("#navigation");$("<option />",{"selected":"selected","value":"","text":"Go to..."}).appendTo("#navigation select");$("#navigation a").each(function(){var el=$(this);$("<option />",{"value":el.attr("href"),"text":el.text()}).appendTo("#navigation select");});$("#navigation select").change(function(){window.location=$(this).find("option:selected").val();});});jQuery(document).ready(function(){$(".pagelist div:nth-child(3)").css("margin","0px");$(".pagelist4 div:nth-child(4)").css("margin","0px");$(".row ul").addClass('sliding-navigation');$('.c5wrap .sliding-navigation a').hover(function(){$(this).animate({paddingLeft:'+=10'},300);},function(){$(this).animate({paddingLeft:'-=10'},300);});});</script>
 
 		
-					<ul id="menu-kab-utility" class="top-menu"><li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://www.pacerkidsagainstbullying.org/kab/in-the-news/">News</a></li>
-<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://www.pacerkidsagainstbullying.org/kab/contact-us/">Contact</a></li>
-<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.pacerkidsagainstbullying.org/kab/about-us/">About Us</a></li>
-<li id="menu-item-113" class="external menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a target="_blank" href="http://www.pacer.org/bullying/"><span class="external-link">PACER.org/bullying</span></a></li>
-<li id="menu-item-159217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159217"><a href="https://www.instagram.com/pacer_nbpc/"><span class="external-link"><img src="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/teens_against_bullying/htdocs/images/instagramicon_medium.gif" alt="NBPC Instagram width="35" height="35"></span></a></li>
-<li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033"><a title="Fundraising" href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/fundraising/">Fundraise</a></li>
-</ul>		
+				<!--[if lt IE 9]>
+				<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+				<![endif]-->
+
+
+
+<style type="text/css">
+    .l2sidebar {
+        background-image: url(http://www.stompoutbullying.org/files/8414/4918/9106/Locker_mockup2_03_b.png);
+        background-repeat: no-repeat;
+		background-position: center top;
+		border-bottom: 1px solid #F57A16 !important;
 		
-			<div id="logo">
-				<span class="site-name"><a href="http://www.pacerkidsagainstbullying.org/kab/" title="Pacer" rel="home">Pacer</a></span>
-			</div><!-- end of #logo -->
+    } 
+    </style>
+ 
 
-		
 
-				</div>
-	</div><!-- end of #header -->
+ <style type="text/css">
+    .mobile_header {
+        background-image: url(http://stompoutbullying.org/files/9214/5010/8801/stompmobilebanner_1200.jpg);
+        background-repeat: no-repeat;
+		background-position: center top;
+		height:200px;
+		width:100%;
+    }
+    </style>
+</head>
+<body style="background-image: url(http://stompoutbullying.org/files/6614/4889/1551/Header-Banner-2016_a4.jpg);background-repeat: no-repeat;background-position: center top;">
 
-	</header>
-	<div class="main-nav ">
-		<span class="display-none custom-mobile-menu-title">Menu</span>
-		<div class="wrapper clearfix">
-		<ul class="menu">
-	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/">What is Bullying?</a></li>
-<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://www.pacerkidsagainstbullying.org/kab/are-you-a-target/">Are You A Target?</a></li>
-<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://www.pacerkidsagainstbullying.org/kab/do-you-bully/">Do You Bully?</a></li>
-<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.pacerkidsagainstbullying.org/kab/how-can-you-help/">How Can You Help?</a></li>
-<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/">Join the Cause</a></li>
-			<li class="utility nav-hidden">
-			<ul>
-			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://www.pacerkidsagainstbullying.org/kab/in-the-news/">News</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://www.pacerkidsagainstbullying.org/kab/contact-us/">Contact</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://www.pacerkidsagainstbullying.org/kab/about-us/">About Us</a></li>
-<li class="external menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a target="_blank" href="http://www.pacer.org/bullying/"><span class="external-link">PACER.org/bullying</span></a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159217"><a href="https://www.instagram.com/pacer_nbpc/"><span class="external-link"><img src="http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/teens_against_bullying/htdocs/images/instagramicon_medium.gif" alt="NBPC Instagram width="35" height="35"></span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033"><a title="Fundraising" href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/fundraising/">Fundraise</a></li>
-								</ul>
-			</li>
-		</ul>
-		</div>
-		</div>
-		<div class="main-nav-responsive display-none">
-		<ul>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/">What is Bullying?</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://www.pacerkidsagainstbullying.org/kab/are-you-a-target/">Are You A Target?</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://www.pacerkidsagainstbullying.org/kab/do-you-bully/">Do You Bully?</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.pacerkidsagainstbullying.org/kab/how-can-you-help/">How Can You Help?</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/">Join the Cause</a></li>
-  		
-		</ul>
-		</div>
+<!-- ********** The entire site is surrounded by a wrapper so C5 and theme styles do not clash ********** -->
+ 
+<div class="c5wrap">
 
-	<div id="wrapper" class="clearfix">
+<!-- ********** Each area of the theme has an outer and inner area, the outer spans the entire page and acts as a wrapper for the inner class, 
+this allows for multiple backgrounds on a page, and less chance of elements jumping where they are not wanted ********** -->
 
+<div class="border_strip"></div>
+<div id="mobileHeader" class="mobile_header"></div>
+<div class="outer" id="header_outer">
+
+	 <div class="inner headerbanner">
+
+				<div class="FloatLeft, bkg1" id="header_inner_0">
+                
+                <!--- Header Content --->
+      <div class="row">
+	 <section id="leftColumnHead" class="headerLeft"> <!--Logo area -->
+			<div id="blockStyle6572Main1398" class=" ccm-block-styles" >
+<p style="text-align: center;"><span style="font-size: large; color: #c0c0c0;">.</span></p></div>	</section>
+     <section id="centerColumnHead" class="headercenter"> <!--Center area -->
+			<div id="blockStyle8596Main1465" class=" ccm-block-styles" >
+<div style="padding-left: 35px;">
+<div style="float: left;">
+<div style="margin-top: 6px;">
+<h2 style="text-align: left;"><span class="hb-orange" style="font-size: 17.3pt;">NEED HELP?</span></h2>
+</div>
+<div style="margin-top: -12px;">
+<h2 style="text-align: left; font-weight: bold;"><a href="http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/"><span class="hb-purple" style="font-size: 14.4pt;">KIDS &amp; TEENS:</span></a></h2>
+</div>
+<div style="margin-top: -13px;">
+<h2 style="text-align: left; font-weight: bold;"><a href="http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/"><span class="hb-blue" style="font-size: 13.8pt; letter-spacing: 0px;">VISIT OUR NEW</span></a></h2>
+</div>
+<div style="margin-top: -8px;">
+<h2 style="text-align: left;"><span class="hb-orange" style="font-size: 14.7pt; letter-spacing: -1px;">HELPCHAT  LINE</span></h2>
+</div>
+</div>
+<div style="float: left;"><a href="http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/"><img style="max-width: 135px;" onmouseover="this.src='http://www.stompoutbullying.org/files/4214/4917/4761/Support_banner_small_roll_C.png'" onmouseout="this.src='http://www.stompoutbullying.org/files/5014/4925/9391/Support_banner_small_roll_D.png'" src="http://www.stompoutbullying.org/files/5014/4925/9391/Support_banner_small_roll_D.png" alt="" /></a></div>
+</div></div>	</section>
+	<section id="rightColumnHead" class="headerRight"> <!-- Search area -->
+			
+                        	<div id="blockStyle8899Main1362" class=" ccm-block-styles" >
 	
-
-
+<div id="stomp-cabtnsm-orange" class="cabtnblocksm-orange">
+<p><span style="text-align: center;"><a href="https://securedonate.stompoutbullying.org/np/clients/stomp/donation.jsp?campaign=197&amp;">DONATE NOW</a></span></p></div></div>	<div id="blockStyle8559Main1358" class=" ccm-block-styles" >
 	
+<div id="stomp-cabtnsm-blue" class="cabtnblocksm-blue">
+<p><a href="http://www.stompoutbullying.org/index.php/about/contact-us/">CONTACT US</a></p></div></div>	<div id="blockStyle6195Main1365" class=" ccm-block-styles" >
+ 
+
+
+<form action="/index.php/about/search/" method="get" class="ccm-search-block-form">
+
+	<!--?php          if( strlen($title)>0){ ?><h3><-?php         echo $title?></h3><-?php          } ?-->
 	
-
-
-
+		<input name="search_paths[]" type="hidden" value="" />
+		 <div class="BlockSearch">
+	<input name="query" type="text" onfocus="if(this.value=='Search...')this.value=''" onblur="if(this.value=='')this.value='Search...'" value="Search..." class="ccm-search-block-text" />
 	
-	<!-- wpv-loop-start -->
-<div class="main_slides">
-  <ul class="slides">
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px; left:400px" class="poster posterright">
-
-<h1>You are Braver, Stronger and Smarter Than You Think.</h1>
-<a href="https://www.youtube.com/watch?v=R8lUD6BHunE?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
-
-</div></div></div>
-  <div class="image"><img alt="http://www.pacerteensagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Slide.jpg" title="http://www.pacerteensagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Slide.jpg" class="attachment-full" src="http://www.pacerteensagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Slide.jpg" /></div>
-</li>
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px; left:-100px;" class="poster posterleft">
-
-<h1 style="padding-top:10px">Stop That! A Bullying Prevention Anthem</h1>
-<p>Written by Annie Lynn and Chris Arms as a response to bullying experienced by Chris’ daughter and Annie’s son Alex and his friends nine years ago.</p>
-<a href="https://youtu.be/9XNqXR_UDig?rel=0" target="_blank" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
-
-</div></div></div>
-  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2016/11/stopThatSlide.jpg" class="attachment-full" alt="" style="" title="" /></div>
-</li>
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster postercenter">
-
-<h1>Ask Carmen</h1>
-<p>Carmen is a member of the Kids Against Bullying “Club Crew”. She knows a lot about how to prevent bullying and gives great advice to kids.</p>
-<a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/carmens-advice/" class="btn btn-cta gradient pacer_blue" style="margin-top:0px">Read Carmen&#8217;s Advice</a>
-
-</div></div></div>
-  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/askCarmenSlide1.jpg" class="attachment-full" alt="" style="" title="" /></div>
-</li>
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterleft">
-
-<h1 style="padding-top:10px">Turn a Life Around</h1>
-<p>Bullying knocks down thousands of kids every day, but when one person stands, another will stand with them. You can be that person, you can turn a life around.</p>
-<a href="https://www.youtube.com/watch?v=GMwkNLk11LA?rel=0" style="font-size:24px" target="_blank" class="btn btn-cta gradient pacer_blue video_link">Watch video</a>
-
-</div></div></div>
-  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2015/06/turnALifeAroundSlide.jpg" class="attachment-full" alt="" style="" title="" /></div>
-</li>
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterright">
-
-<h1>Pima Rock Band &#8220;Keep Your Eyes Open&#8221; PSA</h1>
-<p>A video with a positive message showing the bystander effect and how you can help others.</p>
-<a href="https://www.youtube.com/watch?v=4hSfD7b-NU8?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
-
-</div></div></div>
-  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/04/PimaRockBandSlide2.jpg" class="attachment-full" alt="" style="" title="" /></div>
-</li>
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterleft">
-
-<h1>&#8220;Play With Me&#8221;</h1>
-<p>Anti-bullying version of Sam Smith&#8217;s &#8220;Stay with Me&#8221; sung by children.</p>
-<a href="https://www.youtube.com/watch?v=bmN2CQ6qhGc?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
-
-</div></div></div>
-  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/kab_playWithMe_slide.jpg" class="attachment-full" alt="" style="" title="" /></div>
-</li>
-		
-          <li class="slide">
-  <div class="content"><div class="slidecontent" data-videofallback=""><div style="position:relative; top:10px;" class="poster posterright">
-
-<h1>&#8220;Stronger&#8221;</h1>
-<p>Anyone can be bullied, including talented musicians. The classical garage band Time for Three offers a unique take on the Kanye West tune.</p>
-<a href="https://www.youtube.com/watch?v=OG3YOa9vIt8#t=110?rel=0" class="video_link btn btn-cta gradient pacer_blue">Watch Video!</a>
-
-</div></div></div>
-  <div class="image"><img width="1800" height="483" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/stronger_slide.jpg" class="attachment-full" alt="" style="" title="" /></div>
-</li>
-		
-  </ul>
+	<input name="submit" type="submit" value="" class="ccm-search-block-submit" />
 </div>
 
-<div class="wrapper">
-	<div class="orange-solid-left"></div>
-  	<div class="orange-cover-left"></div>
-	<div class="orange-cover-right"></div>
-  	<div class="orange-solid-right"></div>
-</div>
 
-	<!-- wpv-loop-end -->
-	
-	
+</form></div>	</section>
+    <div style="clear:both"></div> 	 		<!--- 	CLEAR---->
+    </div> <!-- End of row---->
+						         				
+				</div><!--End of inner 0-->
+	</div> <!-- **********End of Header Banner********** -->
+				
+					
+<div class="inner" id="navigation">
 
+	<div class="non_mobile">
+							<div id="blockStyle8883Main1749" class=" ccm-block-styles" >
 
-
-
-
-
-	
-	<!-- wpv-loop-start -->
-<div class="nav_slides">
-  <ul class="slides">
-		
-         <li class="thumb">
-  <div class="thumb-image"><img width="96" height="96" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2015/10/disneyPSA2015Thumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
-  <div class="thumb-content"><h4>You are Braver, Stronger and Smarter Than You Think</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-         <li class="thumb">
-  <div class="thumb-image"><img width="96" height="96" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2016/11/stopThatThumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
-  <div class="thumb-content"><h4>Stop That! A Bullying Prevention Anthem</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-         <li class="thumb">
-  <div class="thumb-image"><img width="98" height="98" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/askCarmenThumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
-  <div class="thumb-content"><h4>Ask Carmen</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-         <li class="thumb">
-  <div class="thumb-image"><img width="96" height="96" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2015/06/turnALifeAroundThumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
-  <div class="thumb-content"><h4>Turn a Life Around</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-         <li class="thumb">
-  <div class="thumb-image"><img width="98" height="98" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/pima_rockband_thumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
-  <div class="thumb-content"><h4>&#8220;Keep Your Eyes Open&#8221;</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-         <li class="thumb">
-  <div class="thumb-image"><img alt="http://www.pacerteensagainstbullying.org/wp-content/uploads/2014/10/playWithMe_thumb.jpg" title="http://www.pacerteensagainstbullying.org/wp-content/uploads/2014/10/playWithMe_thumb.jpg" class="attachment-full" src="http://www.pacerteensagainstbullying.org/wp-content/uploads/2014/10/playWithMe_thumb.jpg" /></div>
-  <div class="thumb-content"><h4>&#8220;Play With Me&#8221;</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-         <li class="thumb">
-  <div class="thumb-image"><img width="98" height="98" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/10/stronger_thumb.jpg" class="attachment-full" alt="" style="" title="" /></div>
-  <div class="thumb-content"><h4>&#8220;Stronger&#8221;</h4> </div>
-  <div class="indicator"></div>
-</li>
-		
-  </ul>
-</div>
-	<!-- wpv-loop-end -->
-	
-	
+<style>
+#page #header #headerNav, #page #header ul.nav-header { z-index:5 !important }
+ul.sf-menu, ul.sf-menu li, ul.sf-menu ul { z-index: 5 !important }
 
 
-<div class="pacer_contents palegray"><div class="wrapper">
-<h1 style="text-align: center;">Tell Us Why You Care</h1>
-</div></div>
+#sf-menu8883 .sf-menu { float:right }
+#sf-menu8883 .sf-menu li{background-color:#4b4085 !important}
+#sf-menu8883 .sf-menu a:focus, #sf-menu8883 .sf-menu a:hover, #sf-menu8883 a:active{background-color:#f57a16 !important }
+#sf-menu8883 .sf-menu a, #sf-menu8883 .sf-menu a:visited, #sf-menu8883 .sf-menu a:link, #sf-menu8883 .sf-menu a:hover{ color:#ffffff !important }
 
+#sf-menu8883 .sf-menu ul.sf-submenu { width:auto !important; min-width:250px !important; float:left; } 
+#sf-menu8883 .sf-menu ul.sf-submenu li{ width:auto !important; min-width:250px !important; display:block; float:none; position:relative; left:0px; top:0px; height:auto;} 
+#sf-menu8883 .sf-menu ul.sf-submenu li ul { left:100%; position:absolute; top:0px; height:auto; } 
+ 
+/*IE6 needs a border for some reason to calculate width for submenu positioning.  replace with your own color */
+#sf-menu8883 .sf-menu li { border:0px solid #4b4085; border-top:0px solid #fff; border-left:0px solid #fff; border-bottom:0px solid #fff;border-right:0px solid #fff;}
 
-
-
-
-	
-<div class="clearfix full-width-lightgray">
-  <div class="gradient pic-frame-horizontal"></div>
-<ul class="care_because_statements masonry">
-	<!-- wpv-loop-start -->
-		
-          <li class="care_because">
-  I care because this always happens to me and want other people to feel happy about themselves.<br />
-  <span class="care-because-credit"><br />
-     — <em></em><br />
-  </span>
-</li>
-
-		
-          <li class="care_because">
-  we care because bullying can have a big effect on your mental health that is bad! WE CARE<br />
-  <span class="care-because-credit"><br />
-    kimberli and miriama — <em>11</em><br />
-  </span>
-</li>
-
-		
-          <li class="care_because">
-  I care about bullying because i am getting bullied and still til this day for my looks and religion. No one thinks I am kind but I have found friends. I bullied one girl and I guess the karma's back to me<br />
-  <span class="care-because-credit"><br />
-    Halima — <em>10</em><br />
-  </span>
-</li>
-
-		
-          <li class="care_because">
-  Don't bully people because it may not seem like it bothers them but deep down inside it truly hurts them.<br />
-  <span class="care-because-credit"><br />
-    Ava — <em>9</em><br />
-  </span>
-</li>
-
-		
-          <li class="care_because">
-  it makes people feel sad<br />
-  <span class="care-because-credit"><br />
-    pot — <em>4</em><br />
-  </span>
-</li>
-
-		
-          <li class="care_because">
-  i have been bullied before and it does not make you fell good<br />
-  <span class="care-because-credit"><br />
-    adam — <em>11</em><br />
-  </span>
-</li>
-
-		
-	<!-- wpv-loop-end -->
-</ul>
-  <div class="gradient pic-frame-horizontal-bottom"></div>
   
-  <div class="wrapper"><img src="/wp-content/uploads/2014/05/chandra_homepage.png" alt="chandra_homepage" width="335" height="429" class="chandra-homepage" /></div>
-  
-</div>
+/* IE6 Hack #sf-menu8883 .sf-menu ul.sf-submenu li{ -border: 1px solid #fff; }  */
+
+#sf-menu8883 .sf-vertical, #sf-menu8883 .sf-vertical li { width:100%; display:block }  
+#sf-menu8883 .sf-vertical li:hover ul.sf-submenu, 
+#sf-menu8883 .sf-vertical li.sfHover ul.sf-submenu{ left:100%; display:block; position:absolute; top:0px; width:250px; } 
+</style>
+
+<div id='sf-menu8883'><ul class="sf-menu " ><li class="stompli"><a href="/" >Home</a></li><li class="stompli"><a href="/index.php/information-and-resources/" >Get Help Now</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/information-and-resources/helpchat-line/" >HelpChat Line</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/about-bullying-and-cyberbullying/" >About Bullying And Cyberbullying</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/digital-u/" >Digital U.</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/educators-page/" >Educators Page</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/parents-page/" >Parents Page</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="stompli"><a href="/index.php/ways-help/" >Ways to Help</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/ways-help/donate/" >DONATE</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/get-involved/" >Get Involved</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/partner-us/" >Partner With Us</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/participate/" >Participate</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/shop-stomp-out-bullying-merchandise/" >Shop for STOMP Out Bullying™ Merchandise</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/special-offers-stomp-out-bullying-partners/" >Special Offers From STOMP Out Bullying™ Partners</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/why-give-stomp-out-bullying/" >Why Give To STOMP Out Bullying™</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/become-teen-ambassador/" >Become a Teen Ambassador</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/your-dollars-work/" >Your Dollars At Work</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/sign/" >Sign Up</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="nav-selected"><a class="nav-selected" href="/index.php/campaigns/" >Campaigns</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/campaigns/blue-shirt-day-world-day-bullying-prevention/" >Blue Shirt Day® World Day of Bullying Prevention™</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/campaigns/want-participate-blue-shirt-day-world-day-bullying-prevention/" >Want your school, community or business to participate in Blue Shirt Day® World Day Of Bullying Prevention™?</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/campaigns/no-matter-campaign/" >NO MATTER™!</a><div class="ccm-spacer" style="width:250px"></div></li><li class="nav-selected"><a class="nav-selected" href="/index.php/campaigns/national-bullying-prevention-awareness-month/" >National Bullying Prevention Awareness Month</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="stompli"><a href="/index.php/news/" >News</a></li><li class="stompli"><a href="/blog/" target="_blank">Blog</a></li><li class="stompli"><a href="/index.php/events/" >Events</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/events/new-york-jets-host-second-annual-bullying-awareness-day/" >New York Jets Host Second Annual Bullying Awareness Day</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/ny-jets-and-stomp-out-bullying-anti-bullying-symposium/" >NY Jets and STOMP Out Bullying Anti-Bullying Symposium</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-and-javier-munoz-light-empire-state-building-blue/" >STOMP Out Bullying and Javier Munoz Light Empire State Building BLUE</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-teen-ambassadors-educate-boys-girls-club-members-about-bullying/" >STOMP Out Bullying Teen Ambassadors Educate Boys & Girls Club Members About Bullying</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-receives-award-outstanding-organization/" >STOMP Out Bullying Receives Award for “Outstanding Organization”</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-speaks-boys-and-girls-club-la-teen-summit/" >STOMP Out Bullying Speaks at Boys And Girls Club LA Teen Summit</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/ny-jets-new-anti-bullying-school-recognition-program-stomp-out-bullying/" >NY Jets New Anti Bullying School Recognition Program with STOMP Out Bullying</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-10th-anniversary-celebration/" >STOMP Out Bullying 10th Anniversary Celebration</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-and-taye-diggs-light-empire-state-building-blue/" >STOMP Out Bullying and Taye Diggs Light Empire State Building BLUE</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/ny-jets-first-anti-bullying-awareness-day/" >NY JETS FIRST ANTI-BULLYING AWARENESS DAY</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/boys-and-girls-club-collier-county-givingtuesday-event/" >Boys and Girls Club of Collier County #GivingTuesday Event</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/blue-shirt-day-world-day-bullying-prevention-2014-event/" >Blue Shirt Day® World Day of Bullying Prevention 2014 Event</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/10000-join-nerds-unite/" >10,000+ Join “NERDS Unite!™”</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/fashion-cause-benefit-stomp-out-bullying/" >Fashion For A Cause to Benefit STOMP Out Bullying™</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="stompli"><a href="/index.php/about/" >About STOMP Out Bullying™</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/about/celebrity-psas-and-videos/" >Celebrity PSAs And Videos</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/global-ambassadors/" >Global Ambassadors</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/leadership/" >Leadership</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/ross-ellis-national-bullying-and-cyberbullying-prevention-expert/" >EXPERT: Ross Ellis, National Bullying and Cyberbullying Prevention</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/mission/" >Mission</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/manifesto/" >Our Manifesto</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/our-history/" >Our History</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/our-prevention-partners/" >Our Prevention Partners</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/our-supporters/" >Meet Our Supporters</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/teen-ambassadors/" >Teen Ambassadors</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/become-teen-ambassador/" >Become a Teen Ambassador</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/share/article.php" >Share Your Story</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/share/" >Share Your Videos</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/contact-us/" >Contact Us</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/sitemap/" >Sitemap</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li></ul></div>
+<script type="text/javascript">
+// initialise plugins
+$(function(){
+	jQuery('ul.sf-menu').superfish({delay:800});
+});
+</script></div>	<div id="blockStyle8877Main1746" class=" ccm-block-styles" >
+<img border="0" class="ccm-image-block" alt="" src="/files/8714/4579/8141/hilight_purple.png" width="961" height="9" /></div>
+	</div><!-- **********End of non mobile navigation********** -->
+			
+</div><!-- End of inner-->			
+</div><!--End of outer-->
+
+<!-- ********** End of everything in the header area of the site ********** --><div id="pagewrap">
+<div class="outer" id="main_outer"> <!--outer-->
+				<div class="inner"> <!--inner-->
+                 		<div class="main_inner FloatRight background">
+                        		<span style="text-align:right;">
+									<div id="breadcrumb_h1" class=" ccm-block-styles" >
+<div class="stompcathead">
+
+<ul class="nav-header">
+
 	
-	
+	<li class="nav-selected nav-path-selected-nh first">
+		<h1 style="font-size:1em;"><a class="nav-selected nav-path-selected-nh first" href="/index.php/campaigns/national-bullying-prevention-awareness-month/" target="_self"><span style="color:#F57A16;">National Bullying Prevention Awareness Month</span></a></h1>
+	</li>
 
-
-<div class="pacer_contents palegray shadow-inset-bottom"><div class="wrapper">
-<p>&nbsp;</p>
-<p style="text-align: center;"><a class="btn btn-cta gradient pacer_blue" href="/kab/i-care-because/i-care-because-form/">Submit Your Own</a></p>
-<p style="text-align: center;">Or <a href="/kab/i-care-because/">View All</a></p>
-</div></div>
-
-
-
-
-
-	
-	<!-- wpv-loop-start -->
-<div class="crew_slider">
-  <h1>Meet the Crew!</h1>
-	<ul class="slides">
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-brad.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-<audio class="wp-audio-shortcode" id="audio-183-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/BRAD-BIO.mp3?_=1" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/BRAD-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/BRAD-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hey, you. Yeah, you. I’m Brad. Rhymes with bad. You know what my favorite thing is? Making babies like you cry. Don’t even think about telling the teacher I said that. If you do, I’ll give you something to really cry about.</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-carmen.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-196-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CARMEN-BIO.mp3?_=2" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CARMEN-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CARMEN-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>¡Hola! I’m Carmen! Not many people know this, but I have epilepsy. The signals in my brain get mixed up. Sometimes I space out. I take medication so it hardly ever happens anymore. But once it happened at school. Some kids made fun of me. I felt so bad. I don’t want anyone to feel that way.</p>
-<p>When I see kids picking on other kids, it makes me so mad! Usually I just grab some friends and we march right over and say, “stop it!” Together we can stop bullying.</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-chandra.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-197-3" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CHANDRA-BIO.mp3?_=3" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CHANDRA-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/CHANDRA-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hi. I’m Chandra.</p>
-<p>I just moved here with my mom and dad and little brother.  He has autism. I don’t really know many people yet. But I see a lot of things going on. Like kids being picked on because they’re different.</p>
-<p>It’s just wrong. I try to stop it&#8211;even if I feel afraid. Two things I know for sure: Nobody likes bullying, and everyone deserves respect.</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-jay.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-795-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/JAY-BIO.mp3?_=4" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/JAY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/JAY-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hi, I’m Jay.</p>
-<p>Yep, I use sign language. That’s because I’m hard of hearing. My hearing aids help a little, but I don’t hear like most people. When I talk, people have trouble understanding me sometimes. But you know what’s cool? I can read lips! It’s, It&#8217;s like being a super spy!</p>
-<p>Maybe you could come over sometime. We could watch TV! I could show you how closed captioning helps me understand what they’re saying.</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-matt.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-796-5" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MATT-BIO.mp3?_=5" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MATT-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MATT-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>I’m Matt. You got something to say?</p>
-<p>Hey, I’m better at sports than you’ll ever be. Hit a grand slam in Little League last year. I scored the winning run! Bet you couldn’t do that in a million years. I’ll probably do it again this year, if I feel like it. Yeah, I’m the best hitter on the team. On any team. Better’n you, that’s for sure.</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-mickey.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-797-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MICKEY-BIO.mp3?_=6" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MICKEY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MICKEY-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hi! I&#8217;m Mickey. I have Down syndrome. Sometimes when I talk, you might not understand me. But I usually understand you. In school, I am in special ed classes.</p>
-<p>I LOVE baseball. I even won a medal! Cool!</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-molly.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-798-7" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MOLLY-BIO.mp3?_=7" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MOLLY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MOLLY-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>My name is Molly! Want to play with me at recess?</p>
-<p>I like it when kids have fun together. Sometimes I see kids being picked on, and I feel scared. I want to make it stop, but I don’t know what to do. Do you ever feel that way? No one has picked on me yet.  I don’t know what I would do if they did. Usually I try to hang around with my friends, ‘cause together we’re amazing!</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-mrsbridge.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-799-8" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MRS-BRIDGE-BIO.mp3?_=8" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MRS-BRIDGE-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/MRS-BRIDGE-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hi! I’m Mrs. Bridge. I’m so glad you’re here! I hope you have fun and learn a lot about how to stop bullying.</p>
-<p>I have a little secret.  When I was your age, kids picked on me. It’s true! That’s because I had a disability called ADHD. That’s short for “attention deficit hyperactivity disorder.” I even landed in trouble with my teachers. And now I am a teacher!</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-nick.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-800-9" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/NICK-BIO.mp3?_=9" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/NICK-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/NICK-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hi, I’m Nick.</p>
-<p>Am I the only one who isn’t sure what to do when someone’s being bullied?</p>
-<p>I wish people could just get along like me and my friends. Sometimes I see a kid being picked on and I don’t know what to do. I feel really bad. Should I tell? Should I try to stop it? If I do, will the kids doing it come after me? Or will I be blamed? I want to do something, but sometimes I just feel helpless.</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-pip.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-801-10" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/PIP-BIO.mp3?_=10" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/PIP-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/PIP-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>My name is Pipsqueak. You can call me Pip!</p>
-<p>Before I came here, I lived in a pet shop with about a gazillion other hamsters. I was the littlest one.  Boy, did the other hamsters let me know it! They teased me and called me names. Hamsters can be so mean! That’s where I learned something about bullies: They just want you to cry and feel bad so they can feel powerful. Know what I did when I was picked on? I just twitched my nose and said, “Pifflesticks!”</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-sally1.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-48-11" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SALLY-BIO.mp3?_=11" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SALLY-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SALLY-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>Hi, I&#8217;m Sally! I have cerebral palsy. My muscles don’t always do what I want them to do. But I have this cool red wheelchair. I can go just about anywhere and do almost anything. Last summer I even went to camp and went horseback riding! It was so fun.</p>
-<p>Do you like computers? I do. A lot! You should see me surf the Web and play adventure games. I’m awesome!</p>
-</div>
-</li>
-
-		
-         <li class="slide">
-<div class="crew-image"><img width="208" height="308" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/05/crew-shannon.jpg" class="attachment-full" alt="" style="" title="" /></div>
-<div class="crew-audio"><audio class="wp-audio-shortcode" id="audio-802-12" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SHANNON-BIO.mp3?_=12" /><a href="http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SHANNON-BIO.mp3">http://www.pacerkidsagainstbullying.org/wp-content/uploads/2014/07/SHANNON-BIO.mp3</a></audio></div>
-<div class="crew-body"><p>I’m Shannon—but I’m sure you already know that. Don’t you think I’m, like, the coolest girl in school? I do. Do you like my new cell phone? Maybe I’ll use it to take a picture of that new girl. I could post it on the Internet with a message about what a loser she is.</p>
-<p>Good thing my older sister, Marla, and her friends haven’t thought of doing that to me. They are, like, so mean! Marla even told one of my friends that I still suck my thumb at night. I do not!</p>
-</div>
-</li>
-
-		
 </ul>
 </div>
-	<!-- wpv-loop-end -->
+<div class="ccm-spacer">&nbsp;</div>
+</div>                                </span>
+                                <span id="main-body">             
+									<div id="blockStyle8836Main116" class=" ccm-block-styles" >
+<h2><strong>October is National Bullying Prevention Month</strong></h2>
+<p>Every October, schools and organizations across the country join STOMP <em>O</em>ut Bullying™ in observing National Bullying Prevention Month. The goal: encourage communities to work together to stop bullying and cyberbullying by increasing awareness of the prevalence and impact of bullying on all children of all ages.</p>
+<h3>A MONTH OF ANTI-BULLYING ACTIVITIES! <br />A MONTH OF ACTION!<br /><br />Monday, October 3rd</h3>
+<p>Anti-bullying activities include STOMP <em>O</em>ut Bullying™'s signature campaign <strong><a href="http://www.stompoutbullying.org/index.php/campaigns/blue-shirt-day-world-day-bullying-prevention/">Blue Shirt Day® World Day of Bullying Prevention™</a> on the first Monday of every October</strong> -- this year on Monday, October 3rd. Watch for our public service announcements by featured celebrities!</p>
+<h3>The Week of October 10th <sup><br /></sup><span style="font-size: 1.17em; font-weight: normal;"><br />Make friends with someone you don’t know at school </span></h3>
+<p>If you've ever been isolated from others at school or you were new at school and it took time to make friends, you know what it feels like to be left out. Or even if you were never isolated, imagine how it would feel.<br /><br />Make friends with someone at school who you don't know. Invite them to sit at your lunch table or join you in an after school activity. You probably wish someone had done that for you.</p>
+<p>Be a leader. Take action and don't let anyone at school be in isolation.</p>
+<p><strong>Challenge Others To Be Kind</strong><br /><span style="font-size: 15px; font-weight: normal;"><br />Make kindness go viral with an act of kindness and challenge friends and classmates to pay it forward with their acts of kindness. Make a video of everyone doing acts of kindness and </span><span style="font-size: 15px;"><a href="http://www.stompoutbullying.org/share/">submit it.</a> We'll add it tou our website.<br /><br /></span></p>
+<h3>October 11th is National Coming Out Day. <br /><strong><sup>Celebrate coming out as lesbian, gay, bisexual, transgender, LGBTQ questioning or as an ally.</sup></strong></h3>
+<p><strong style="font-size: 1.17em;"><span style="font-size: 1.17em;">The Week of October 17</span><sup style="font-weight: normal;">th</sup></strong></p>
+<p><strong>STAND UP for Others Week</strong></p>
+<p>When you see someone being bullied, be brave and STAND UP for them. Bullies have been known to back off when others stand up for victims.</p>
+<p>If you don't feel safe get the help of an adult immediately. Be part of the solution -- not the problem!<br /><br />It's a time to see everyone's differences and celebrate their similarities: Whether students are LGBT,  African American, Asian, Muslim, AAPI,of Tribal descent or disabled ...make friends. </p>
+<h3>The Week of October 24<sup>th</sup></h3>
+<p><strong>Students can participate by</strong></p>
+<ul>
+<li>Creating positive messages on post-its and handing them out to students at school</li>
+<li>Hold a "kindness" dance at school</li>
+<li>Creating anti-bullying videos and sharing them on the <a href="http://www.stompoutbullying.org/share/">STOMP <em>O</em>ut Bullying site</a></li>
+<li>Sharing inspirational stories on the <a href="http://www.stompoutbullying.org/share/article.php">STOMP <em>O</em>ut Bullying site</a></li>
+<li>Create a kindness dance flash mob at school or in your community. Make a video of it and <a href="http://www.stompoutbullying.org/share/">send it to us</a>. We'll share it on our web site.</li>
+</ul>
+<p><br />We look forward to hearing about your student led activities during National Bullying Prevention Awareness month.</p>
+<p>The more awareness that is created during the month of October -- and all year round, you are one step closer to putting an end to bullying!</p>
+<p> </p></div>                                </span>
+                                
+<div id="HTMLBlock8723" class="HTMLBlock">
+<ul class="share-buttons" style="float:right;">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstompoutbullying.org&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="/images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
+  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fstompoutbullying.org&text=:%20http%3A%2F%2Fstompoutbullying.org" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="/images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
+  <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fstompoutbullying.org" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="/images/social_flat_rounded_rects_svg/Google+.svg"></a></li>
+  <li><a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fstompoutbullying.org&t=&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><img src="/images/social_flat_rounded_rects_svg/Tumblr.svg"></a></li>
+  <li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstompoutbullying.org&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><img src="/images/social_flat_rounded_rects_svg/Pinterest.svg"></a></li>
+  <li><a href="https://getpocket.com/save?url=http%3A%2F%2Fstompoutbullying.org&title=" target="_blank" title="Add to Pocket" onclick="window.open('https://getpocket.com/save?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/images/social_flat_rounded_rects_svg/Pocket.svg"></a></li>
+</ul></div>                                						</div><!-- **********End of main inner********** -->
+                        <div class="sidebar FloatLeft background l2sidebardef l2sidebar ">
+                  
+                                									<div id="blockStyle5844Main1172" class=" ccm-block-styles" >
+<div class="stompcathead">
+
+<ul class="nav-header">
+
 	
+	<li class="nav-home first">
+		<a class="nav-home first" href="/" target="_self">Home</a>
+	</li>
 	
+	<li class="nav-path-selected-nh">
+		<a class="nav-path-selected-nh" href="/index.php/campaigns/" target="_self">Campaigns</a>
+	</li>
 
-<p>&nbsp;</p>
-<p style="text-align: center;"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/learning-with-the-club-crew/" class="btn btn-cta gradient pacer_gray">Learn with the Club Crew!</a></p>
-<p>&nbsp;</p>
-		<!-- end of #featured-image -->
-
-
-	<footer>
-<div class="footer-top">
-	<div class="wrapper">
-		<img src="/wp-content/uploads/2014/05/homepage-teacher.png" alt="teacher" width="88" height="160" class="teacher-homepage" />
-		<div class="left">
-		
-				<div id="text-14" class="widget_text"><div class="widget-title"><h4>Sign The Petition</h4></div>			<div class="textwidget"><p>The end of bullying begins with you! Become a kid against bullying. </p>
-
-<a href="/kab/join-the-cause/sign-the-petition/" class="btn btn-cta gradient pacer_gray">Sign Now</a></div>
-		</div>
-					</div>
-		<div class="center">
-			
-					<div id="text-5" class="widget_text"><div class="widget-title"><h4>Donate</h4></div>			<div class="textwidget"><p>Your support can mean one less student being bullied, one more person speaking out, or one more kid knowing that somebody cares. Thank you for making a difference.</p>
-<a href="https://pacer.ejoinme.org/MyPages/DonateToTheNationalBullyingPreventionCenter/tabid/229451/Default.aspx" class="btn btn-cta gradient pacer_gray" target="_blank">Donate Now</a></div>
-		</div>
-						</div>
-		<div class="right">
-			
-					<div id="text-6" class="widget_text"><div class="widget-title"><h4>For Parents</h4></div>			<div class="textwidget"><p>Parents have an important role in addressing and preventing bullying. Find out how you can help protect your child from bullying.</p>
-<a href="http://www.pacer.org/bullying/"  target="_blank" class="external-link" >PACER.org/bullying</a></div>
-		</div>
-						</div>
-	</div>
+</ul>
 </div>
-<div class="footer-bottom">
-	<div class="wrapper">
-		<div id="footer_logo">
-			<span class="site-name"><a href="http://www.pacerkidsagainstbullying.org/?page_id=9 " title="Pacer" rel="home">Pacer</a></span>
-		</div><!-- end of #footer_logo -->
+<div class="ccm-spacer">&nbsp;</div>
+</div>	<div id="blockStyle6588Main1163" class=" ccm-block-styles" >
+<ul class="nav-1"><li class=""><a href="/index.php/campaigns/blue-shirt-day-world-day-bullying-prevention/" target="_self" class="">Blue Shirt Day® World Day of Bullying Prevention™</a></li><li class=""><a href="/index.php/campaigns/want-participate-blue-shirt-day-world-day-bullying-prevention/" target="_self" class="">Want your school, community or business to participate in Blue Shirt Day® World Day Of Bullying Prevention™?</a></li><li class=""><a href="/index.php/campaigns/no-matter-campaign/" target="_self" class="">NO MATTER™!</a></li><li class="nav-selected nav-path-selected"><a href="/index.php/campaigns/national-bullying-prevention-awareness-month/" target="_self" class="nav-selected nav-path-selected">National Bullying Prevention Awareness Month</a></li></ul><div class="navfix">&nbsp</div></div>								                                	<div id="blockStyle6372Main1173" class=" ccm-block-styles" >
+<div class="stompcathead">
 
-		<div class="left">
-			
-					<div id="nav_menu-2" class="widget_nav_menu"><div class="widget-title"><h4>Explore</h4></div><div class="menu-kab-explore-container"><ul id="menu-kab-explore" class="menu-widget"><li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://www.pacerkidsagainstbullying.org/kab/what-is-bullying/">What is Bullying?</a></li>
-<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="http://www.pacerkidsagainstbullying.org/kab/are-you-a-target/">Are You A Target?</a></li>
-<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.pacerkidsagainstbullying.org/kab/do-you-bully/">Do You Bully?</a></li>
-<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://www.pacerkidsagainstbullying.org/kab/how-can-you-help/">How Can You Help?</a></li>
-<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://www.pacerkidsagainstbullying.org/kab/join-the-cause/">Join the Cause</a></li>
-<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://www.pacerkidsagainstbullying.org/kab/in-the-news/">News</a></li>
-</ul></div></div>
+<ul class="nav-header">
+
+	
+	<li class="nav-selected nav-path-selected-nh first">
+		<a class="nav-selected nav-path-selected-nh first" href="/index.php/campaigns/national-bullying-prevention-awareness-month/" target="_self">National Bullying Prevention Awareness Month</a>
+	</li>
+
+</ul>
+</div>
+<div class="ccm-spacer">&nbsp;</div>
+</div><ul class="nav-1"><li class=""><a href="/index.php/campaigns/national-bullying-prevention-awareness-month/stomp-out-bullying-student-participation-toolkit/" target="_self" class="">STOMP Out Bullying™ Student Participation Toolkit</a></li><li class=""><a href="/index.php/campaigns/national-bullying-prevention-awareness-month/no-matter-campaign/" target="_self" class="">NO MATTER™!</a></li></ul><div class="navfix">&nbsp</div>                                                                
 						</div>
-		<div class="center">
-			
-					<div id="text-2" class="widget_text">			<div class="textwidget"><ul>
-<li><a href="http://www.pacer.org/bullying/"  target="_blank">PACER's National Bullying Prevention Center<span class="icon-external_link"></span></a></li>
-<li><a href="http://www.pacerteensagainstbullying.org/" target="_blank">PACER's Teens Against
-Bullying<span class="icon-external_link"></span></a></li>
-<li><a href="/kab/your-opinion-counts/">Your Opinion Counts</a></li>
-</ul></div>
-		</div>
-						</div>
-		<div class="right">
-					</div>
-	</div>		
-</div>
-<div class="legal text-center">
-<div class="">
-	&copy; 2017 PACER Center. All Rights Reserved
-</div>
+				</div>				<!--End of inner-->
+</div>								<!--End of outer-->
 
-</div>
+<div class="outer" id="footer_outer">
+<div class="row, row3"> <!-- soft footer --> 
+    <section>
+		<img border="0" class="ccm-image-block" alt="" src="/files/5014/4579/8140/hilight_orange.png" width="961" height="9" />	<div id="awards_banners" class=" ccm-block-styles" >
+<a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/7214/7645/8433/greatnonprofits-2016-80.png" width="102" height="79" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/2914/6064/8782/2015_greatnonprofits-opt.png" width="156" height="79" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/5014/6064/8802/2014_greatnonprofits-opt.png" width="156" height="78" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/2414/6064/8826/2013_greatnonprofits-opt.png" width="156" height="78" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/1214/6064/8846/2012_greatnonprofits-opt.png" width="156" height="78" /></a><img border="0" class="ccm-image-block" alt="" src="/files/7714/7645/8872/americaspromiselogo-160.png" width="160" height="68" /></div>	</section>
 
-</footer>
-<link rel='stylesheet' id='JQEB_style-css'  href='http://www.pacerkidsagainstbullying.org/wp-content/plugins/jquery-expanding-box/jquery-dropdown-box.css?ver=4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelement-css'  href='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.15.0' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.0' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/jquery-expanding-box/jquery.dropdown.min.js?ver=1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var pollsL10n = {"ajax_url":"http:\/\/www.pacerkidsagainstbullying.org\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-polls/polls-js.js?ver=2.63'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/htdocs/js/plugins.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/pacer_2014/kids_against_bullying/htdocs/js/scripts.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/js/responsive-scripts.min.js?ver=1.2.6'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/themes/responsive/core/js/jquery.placeholder.min.js?ver=2.0.7'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/comment-reply.min.js?ver=4.0'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/js/views_front_end_utils.js?ver=1.5.1'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=1.5.1'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-content/plugins/wp-views/embedded/res/js/wpv-date-front-end-control.js?ver=1.5.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
-var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
-var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
-var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.15.0'></script>
-<script type='text/javascript' src='http://www.pacerkidsagainstbullying.org/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.0'></script>
+  </div> 
+	<div class="inner" id="footer_inner">
+    <div style="margin-bottom:40px;">
+			<div id="blockStyle8945Main1307" class=" ccm-block-styles" >
+<p style="text-align: center; line-height: 80%;">© STOMP <em>O</em>ut Bullying™ 2007 - 2016  www.STOMP<em>O</em>utBullying.org<br /> <br /><span style="font-size: x-small; color: #53489a;"><img style="margin: 10px; float: right;" src="/files/cache/dafa978b58896cf623bfc4212e519b9e_f311.png" alt="qrcode.14826961.png" width="93" height="93" /></span></p>
+<p style="line-height: 80%; text-align: center;"><span style="font-size: x-small; color: #53489a;">STOMP <em>O</em>ut Bullying™, NO MATTER™ and Blue Shirt Day™ World Day of Bullying </span><span style="font-size: x-small; color: #53489a;">Prevention™ are trademarked names of the organization <span style="font-size: x-small; color: #53489a;">STOMP <em>O</em>ut Bullying™, </span> and m</span><span style="font-size: x-small; color: #53489a;">ay not be used by any other parties. </span><br /><br /><span style="font-size: x-small; color: #53489a;"> Permission to reproduce any information or images contained on this site must be requested in writing and submitted to the attention of <span style="font-size: x-small; color: #53489a;">STOMP <em>O</em>ut Bullying™ </span>Media Relations. Unauthorized usage of these trademarks are considered to be intellectual property infringements.<br /><br />This Web Site Is Generously Hosted By <a href="http://www.solidspace.com" target="_blank"><span style="font-size: x-small; color: #53489a; text-decoration: underline;">Solid Space</span></a><br /><br /><img src="/files/cache/16d6926de7bf1bcd460eda5876290f98_f2204.png" alt="solidspace-logo-2016.png" width="126" height="17" /><br /></span></p>
+<p style="text-align: center; line-height: 80%;"><span style="font-size: x-small; color: #53489a;"> By using this site, you signify your assent to our <span style="text-decoration: underline;"><a href="http://www.stompoutbullying.org/index.php/ways-help/sign/privacy-policy/"><span style="font-size: x-small; color: #53489a; text-decoration: underline;">Terms of Use and Privacy Policy</span></a></span> </span></p></div>	</div>
+
+	</div><!--End of inner-->
+
+<div id="toTop"><p>TOP</p></div>
+
+				
+</div><!--End of outer-->
+
+<div class="mobile_push"></div>
+</div>
+<!-- ********** Everything south of this line will probably kill your site if tampered with, adjust with caution ********** -->
+
+</div><!-- ********** End of the c5wrap class ********** -->
+
+				                
 </body>
 </html>

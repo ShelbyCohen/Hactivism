@@ -52,6 +52,7 @@ class BooleanSearchEngine:
 		for file in sorted(f for f in os.listdir(clean_path)):
 			clean_file = open(clean_path + file, "r")
 			doc_id = str(file).replace(".txt", "")
+			doc_id = int(doc_id)
 			pos_id = 0
 			for token in clean_file.readlines():
 				token = token.strip("\n")
@@ -125,75 +126,123 @@ class BooleanSearchEngine:
 				else:
 					docid_cosine_dict[doc_id] = query_dict[token] * self.index[token][doc_id][0]
 
+		# adding a cosine score of 0.0 to all irrelevant documents
+		all_docs = 17
+		each_doc_id = 1
+		while each_doc_id < all_docs:
+			if each_doc_id not in docid_cosine_dict.keys():
+				docid_cosine_dict[each_doc_id] = 0.0
+			each_doc_id += 1
+
 		return docid_cosine_dict
+
+	def movement_score(self, query_list, query_mode):
+		docid_cosine_list = list()
+		total_ltc = 1
+
+		query_dict = Counter(query_list)
+
+		for token in query_dict.keys():
+			# logic to exit if token is not in self.index.keys():
+			if token not in self.index.keys():
+				continue
+			if query_mode[0] == 'l':
+				query_dict[token] = (1 + math.log(query_dict[token]))
+				query_dict[token] = query_dict[token] * self.idf[token]
+				total_ltc += query_dict[token] ** 2
+			query_dict[token] /= math.sqrt(total_ltc)
+
+		# adding a cosine score of 0.0 to all irrelevant documents
+		all_docs = 19
+		doc_id = 1
+		for token in query_dict.keys():
+			while doc_id < all_docs:
+				if doc_id not in self.index[token].keys():
+					docid_cosine_list.append(0)
+				else:
+					docid_cosine_list.append(query_dict[token] * self.index[token][doc_id][0])
+				doc_id += 1
+
+		return docid_cosine_list
 
 	def get_results(self):
 		db = WebDB('cache.db')
-
-		# query_raw_input = input("Enter Query or 'QUIT': ")
 
 		item_search_results = {}
 		docs_to_items = {}
 		i = 0
 		query_list_for_each_item = list()
-
 		query_list = list()
+		all_query_cosines = list()
+		in_order_cosine = list()
+		cosine_scores = list()
 
 		item_queries = open("data/item/movements.txt", "r")
 		for query in item_queries.readlines():
 			query = query.strip("\n")
 			query = query.replace('-', " ")
+			query = query.replace(',', "")
+			query = query.replace('\'', "")
 			query_list.append(query)
 
-
-
-		# while query_raw_input != 'QUIT':
 		while i < len(query_list):
 			query_raw_input = query_list[i]
-			# print(query_raw_input)
 			query_list_for_each_item = query_raw_input.split(' ')
 
-			for i, each_word in enumerate(query_list_for_each_item):
-				query_list_for_each_item[i] = self.p.stem(each_word).lower()
+			for e, each_word in enumerate(query_list_for_each_item):
+				query_list_for_each_item[e] = self.p.stem(each_word).lower()
 
-			print(query_raw_input)
-			print(query_list_for_each_item)
+			# print(query_raw_input)
 
 			# cosine_scores is a dictionary with doc_ids mapped to cosine score
-			cosine_scores = self.query_score(query_list_for_each_item, self.query_mode)
+			cosine_scores = self.movement_score(query_list_for_each_item, self.query_mode)
 			# sorted_cosine_scores = sorted(cosine_scores, key=cosine_scores.get, reverse=True)
 
-			# print("\n URL search results: ")
-			for d in range(len(cosine_scores)):
-				(url, docType, title) = db.lookupCachedURL_byID(d+1)
-				docs_to_items[d+1] = str(title).strip("\n")
-				print(title)
-
-				if title not in item_search_results.keys():
-					item_search_results[title] = cosine_scores[d]
-					print(cosine_scores[d+1])
-
-					# print(len(item_search_results))
-					# print(db.lookupCachedURL_byID(int(sorted_cosine_scores[d])), "--> cosine:", cosine_scores.get(sorted_cosine_scores[d]))
-				else:
-					item_search_results[title] += cosine_scores.get(d)
-
-			# sorting most common titles by largest total cosine score
-			top_items = sorted(item_search_results, key=item_search_results.get, reverse=True)
-
-			print("\n Item Search Results: ", query_raw_input)
-			# printing top items and their accumulated cosine scores
-			for item in range(len(cosine_scores)):
-				print(str(top_items[item].replace("\n", ": ")), item_search_results[top_items[item]], "\n")
+			all_query_cosines.append(cosine_scores)
 
 			i += 1
 
-			# query_raw_input = input("Enter Another Query or 'QUIT': ")
+		# 	for d in range(1, 18):
+		# 	# for x, each_movement_again in enumerate(query_list):
+		# 		(url, docType, title) = db.lookupCachedURL_byID(d)
+		# 		url_id = db.lookupCachedURL_byURL(url)
+		# 		item = db.lookupItem_ByURLID(url_id)
+		# 		item_id = db.lookupItem(item[0], item[1])
+		# 		title = str(title).strip("\n")
+		# 		title = title.replace('-', " ")
+		# 		title = title.replace(',', "")
+		# 		docs_to_items[item_id] = title
+		#
+		# 		# making the small dict which is each query mapped to a cosine score
+		# 		if title not in item_search_results.keys():
+		# 			item_search_results[title] = cosine_scores[item_id]
+		#
+		# 	# big dictionary which is mapping each query to a dict of each query to cosine score
+		# 	if query_raw_input not in all_query_cosines.keys():
+		# 		all_query_cosines[query_raw_input] = item_search_results
+		#
+		# 	i += 1
+		#
+		# for s, each_query in enumerate(query_list):
+		# 	each_query = each_query.strip("\n")
+		# 	each_query = each_query.replace('-', " ")
+		# 	each_query = each_query.replace(',', "")
+		# 	movement_dict = all_query_cosines.get(each_query)
+		# 	ordered = list()
+		# 	for j, each_movement in enumerate(query_list):
+		# 		each_movement = each_movement.strip("\n")
+		# 		each_movement = each_movement.replace('-', " ")
+		# 		each_movement = each_movement.replace(',', "")
+		# 		ordered.append(movement_dict[each_movement])
+		# 	in_order_cosine.append(ordered)
+		#
+		# print(in_order_cosine)
 
-		return docs_to_items
+		print(all_query_cosines)
+
+		return all_query_cosines
 
 
 if __name__ == '__main__':
-	# p = PorterStemmer()
 
 	bse = BooleanSearchEngine()
