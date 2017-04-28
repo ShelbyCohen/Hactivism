@@ -1,0 +1,502 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<!-- go here http://api.drupal.org/api/globals for available global variables -->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Struggling for the Rule of Law | Middle East Research and Information Project</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/merip_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_e0ca005e1d8965170dcf3fb2fbdb14ca.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_f3f1f2fa15582797d83cb0cd1c820bb5.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?y" />
+<![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_338d1a8dc0e5bd34f9f6e6fe1f6d3a17.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 }, "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function() {$('#back-top').css('right','40px');$('#back-top .icon').css('background-color','#CCCCCC').fadeTo('fast',0.5); $('#back-top .icon').mouseover(function(){ $(this).css({'background-color':'#777777','opacity':'1'}).fadeTo('slow',1);}).mouseout(function(){ $(this).css({'background-color':'#CCCCCC'}).fadeTo('fast',0.5);});});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	    addthis_pub = 'merip';
+	    addthis_logo = 'http://www.addthis.com/images/yourlogo.png';
+	    addthis_logo_background = 'EFEFFF';
+	    addthis_logo_color = '666699';
+	    addthis_brand = 'Middle East Research and Information Project';
+	    addthis_options = 'email, print, facebook, twitter';
+	    addthis_disable_flash = 'false';
+	
+//--><!]]>
+</script>
+  <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=merip"></script>
+</head>
+<body class="not-front not-logged-in node-type-article-public two-sidebars page-mer-mer251-struggling-rule-law section-mer">
+
+	<!-- #page, #page-inner -->
+	<div id="page"><div id="page-inner">
+
+		 <!-- #header, #header-inner -->	
+		<div id="header"><div id="header-inner" class="clear-block">
+            <div id="site-name">Middle East Research and Information Project</div>
+		</div></div> 
+		<!-- /#header-inner, /#header -->
+
+		<!-- #navbar -->
+				<div id="navbar">
+        <div id="block-nice_menus-1" class="block block-nice_menus region-odd even region-count-1 count-10"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-236 menu-path-front first  odd "><a href="/" title="Home Page: Middle East Research and Information Project">Home</a></li>
+<li class="menu-3187 menu-path-about even "><a href="/about">About Us</a></li>
+<li class="menu-237 menuparent menu-path-mer odd "><a href="/mer" title="Middle East Report">Middle East Report</a><ul><li class="menu-262 menu-path-mer-latest first  odd "><a href="/mer/latest" title="">Latest Issue</a></li>
+<li class="menu-2476 menu-path-mer-issues even "><a href="/mer/issues" title="Current and recent back issues of MER">Back Issues</a></li>
+<li class="menu-238 menu-path-authors odd "><a href="/authors" title="Authors for the Middle East Report and Middle East Research and Information Project">Authors</a></li>
+<li class="menu-239 menuparent menu-path-mer-articles even "><a href="/mer/articles" title="">Articles</a><ul><li class="menu-240 menu-path-mer-articles-author first  odd "><a href="/mer/articles/author" title="MER articles by author">By Author</a></li>
+<li class="menu-241 menu-path-mer-articles-subjects even  last "><a href="/mer/articles/subjects" title="MER articles by subject">By Subject</a></li>
+</ul>
+</li>
+<li class="menu-14412 menu-path-node-6399 odd "><a href="/online-access" title="Online Access">Online Access</a></li>
+<li class="menu-235 menu-path-node-23 even "><a href="/writers-guidelines" title="Writers Guidelines">Writers Guidelines</a></li>
+<li class="menu-234 menu-path-node-22 odd  last "><a href="/advertising" title="Advertising">Advertising</a></li>
+</ul>
+</li>
+<li class="menu-2813 menuparent menu-path-mero even "><a href="/mero" title="Middle East Report Online">MER Online</a><ul><li class="menu-14849 menu-path-mero-interventions first  odd  last "><a href="/mero/interventions" title="Middle East Report Online Interventions">Interventions</a></li>
+</ul>
+</li>
+<li class="menu-2963 menu-path-newspaper_opeds odd "><a href="/newspaper_opeds" title="Newspaper Opinion or Editorial pieces">Op-Eds</a></li>
+<li class="menu-14409 menu-path-blog even "><a href="/blog">Blog</a></li>
+<li class="menu-5108 menu-path-node-1070 odd "><a href="/giving" title="Donate to MERIP">Donate</a></li>
+<li class="menu-259 menu-path-contact even "><a href="/contact" title="Contact Us">Contact Us</a></li>
+<li class="menu-2350 menu-path-catalog-81 odd  last "><a href="/catalog/subscriptions" title="">Subscribe</a></li>
+</ul>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+		</div>
+				<!-- /#navbar -->		
+		
+		<!-- #main, #main-inner -->
+		<div id="main"><div id="main-inner" class="clear-block">
+
+			<!-- #content, #content-inner -->
+			<div id="content"><div id="content-inner">
+				<div></div>
+								<!-- #content-header -->
+			  				<!-- /#content-header -->
+
+				<!-- #content-area -->
+								<div id="content-area">
+				<div id="node-131" class="node node-type-article-public"><div class="node-inner clear-left">
+
+    
+  
+    <h2 class="title">
+	 	 Struggling for the Rule of Law	 	</h2>
+	 
+		<div id="article-author">
+	 by <a href="/author/daud-munir">Daud Munir</a>		 	 	 </div>
+	 	 	<div id="article-issue">
+	published in <span id="article-issue"><a href="/mer/mer251">MER251</a></span>
+	</div>
+	 
+	<div class="content">
+	<p>
+	In March 2007, when President (and General) Pervez Musharraf suspended Supreme Court Chief Justice Iftikhar Chaudhry, Pakistani lawyers took to the streets in large numbers. It was a dangerous street where they were met with batons, barbed wire, tear gas, bullets and bombs. If their immediate demand was Chaudhry&rsquo;s return to the bench, the incipient goal of their movement was restoration and respect for the rule of law. Over the last two years, protesting lawyers fundamentally transformed the political landscape in Pakistan.</p>
+<p>	Lawyers -- at least in their capacity as lawyers -- rarely enter the fray of contentious politics by employing disruptive techniques to press for changes in government policy. While lawyers are agents and advocates of political liberalism and the rule of law in most countries, their favored arena of contestation usually has been courts, and their preferred tactics of resistance have been writs and petitions. If we define a &ldquo;lawyers&rsquo; movement&rdquo; as a coherent nationwide struggle by legal professionals, sustained over time and fought primarily in the streets, Pakistan would emerge as the only case.</p>
+<p>	The lawyers&rsquo; bold challenge to Musharraf presented a unique historical opportunity for meaningful political reform in Pakistan. It certainly presented a counter-image of the idea that Pakistan is a &ldquo;failed state,&rdquo; as some US policymakers have claimed, and a contrast to the parallel undemocratic impulse in Pakistan&rsquo;s politics, led by militant movements of tribal Pashtuns seeking to install a radical version of Islam in the country&rsquo;s northwest regions. The broader effects of the lawyers&rsquo; struggle depend on whether this indigenous democratic impulse can flourish and endure in the post-Musharraf era. The problem is that while Western policymakers are ready to extend billions of dollars in military aid to subdue the extremist impulse, they seem unwilling to engage with -- or even to adequately acknowledge -- the secular, reformist impulse in Pakistani society that is represented by the lawyers&rsquo; movement.</p>
+<h2>
+	A Tale of Two Judges</h2>
+<p>
+	Following Pakistan&rsquo;s creation as an independent state in 1947, the project of establishing constitutional governance had an unpromising beginning. In 1954, the Constituent Assembly finally agreed on the governing legal framework. Later that year, as legal experts were busy drafting the text of the constitution, Governor-General Ghulam Muhammad dissolved the Assembly, silencing what he referred to as its &ldquo;parliamentary bickering.&rdquo; Proclaiming in an emergency proclamation that the Assembly had &ldquo;lost the confidence of the people,&rdquo; what really troubled Muhammad was the imminent curtailment of his powers through new legislation.</p>
+<p>	The executive enlisted the support of the military in its bid to preserve its power. In a breach of rules barring members of the military from holding political office, Gen. Ayub Khan, the army chief, was appointed as a minister in the newly formed cabinet. This extra-constitutional action formally paved the way for the military&rsquo;s entry into Pakistan&rsquo;s politics.</p>
+<p>	How did the judiciary respond? The chief court of Sindh accepted a petition submitted by the president of the Assembly and invalidated the actions of the governor-general. On appeal, however, the Federal Court upheld the legality of the Assembly&rsquo;s dissolution. A constitutional crisis ensued, which the court resolved by relying on the &ldquo;doctrine of necessity.&rdquo; According to this controversial principle, extra-constitutional actions can be legally justified under special circumstances. The man behind this legal maneuver was Chief Justice Muhammad Munir, a brilliant legal mind. His majority opinion which, in essence, validated Pakistan&rsquo;s first extra-constitutional coup, was a skillful attempt at bending the law in support of the executive. Munir&rsquo;s ruling endorsing the usurpation of power would prove costly for Pakistan.</p>
+<p>	In 1958, when Gen. Khan suspended the constitution and imposed the first martial law, Justice Munir authored the leading judgment validating this military <em>coup d&rsquo;&eacute;tat</em>. This time the legal maneuver involved mislabeling the coup a &ldquo;revolution&rdquo; by invoking the speculative theory of &ldquo;revolutionary legality&rdquo; developed by the Austrian jurist Hans Kelsen. The court argued that since the &ldquo;revolution&rdquo; satisfied &ldquo;the test of efficacy,&rdquo; it could thereby be deemed legitimate. In other words, the success of the military coup d&rsquo;&eacute;tat automatically furnished the justification for its legality.</p>
+<p>	The jurisprudence of the Munir court set the tone for constitutional reasoning in Pakistan. The doctrine of necessity, in particular, was used repeatedly to legitimate extralegal usurpations of power. The military takeovers of Gens. Zia ul-Haq and Pervez Musharraf, in 1977 and 1999, respectively, were validated using this doctrine. One of the members of the bench who reviewed and endorsed the legality of Musharraf&rsquo;s military <em>coup d&rsquo;&eacute;tat</em> in May 2000 was Justice Iftikhar Chaudhry.</p>
+<p>	When Chaudhry became chief justice in 2005, however, his judicial philosophy underwent a fundamental metamorphosis. Rather than acting as an agent of the power elite, Chaudhry sought to become a guarantor of the fundamental rights of Pakistani citizens. Soon after being sworn in, he established a &ldquo;human rights cell&rdquo; in the Supreme Court. Through this forum, Chaudhry started accepting petitions from the public against infringements of constitutionally guaranteed rights. The cases taken up by the court incrementally tightened the noose of legality around the Musharraf regime.</p>
+<p>	In the first few cases, the court held local town officials accountable for failing to oversee and enforce safety regulations in construction projects. Decisions in another set of cases annulled the leases of two public parks that were handed over to private parties for the development of a mini-golf course and a parking complex. Next in line were cases against corrupt federal ministers involved in illegally controlling the prices of commodities. By successively implicating more powerful state officials, it seemed that Chaudhry was testing the regime&rsquo;s willingness to tolerate his judicial activism.</p>
+<p>	There was a paradigmatic shift in the core function of Pakistan&rsquo;s Supreme Court when decisions started going against senior members of the executive. One of these decisions directly challenged the administrative practices of Prime Minister Shaukat Aziz, who privatized Pakistan Steel Mills, one of the country&rsquo;s largest public-sector enterprises, generating considerable controversy. It was alleged that Aziz, who was also the chair of the Cabinet Committee on Privatization, had agreed to the sale of the corporation at an unduly low price to a consortium he favored. In a landmark judgment, the Chaudhry Court annulled the sale agreement on the grounds that the deal had been done in &ldquo;indecent haste.&rdquo;</p>
+<p>	Soon afterwards, the court shocked the military regime by taking up cases addressing &ldquo;missing persons.&rdquo; Under the pretext of the &ldquo;war on terror,&rdquo; Musharraf&rsquo;s security apparatus had forcibly disappeared a large number of political opponents. In an astoundingly bold move, Chief Justice Chaudhry accepted a case involving 41 missing persons. The court upheld the right to due process for extrajudicially detained individuals and ordered the state agencies to produce them in court. This was an extraordinary contra-authoritarian step in the judicial history of Pakistan. Chaudhry&rsquo;s activism generated immense respect among lawyers and the human rights community, and was widely reported in the burgeoning independent Pakistani media. Emboldened by the positive feedback, Chaudhry accepted another case involving over a hundred forced disappearances on March 8, 2007. The next day would prove fateful for both Chaudhry and the military regime in Pakistan.</p>
+<h2>
+	Chaudhry&rsquo;s Suspension</h2>
+<p>
+	Musharraf invited Chaudhry to his official residence. Dressed in military uniform and accompanied by the prime minster and intelligence chiefs, he sought to pressure the chief justice to resign. Chaudhry refused. An infuriated Musharraf forcibly detained Chaudhry for several hours and then suspended him through a presidential order with immediate effect. An acting chief justice was sworn in.</p>
+<p>	After Chaudhry&rsquo;s suspension, bar associations in several parts of the country began protesting Musharraf&rsquo;s action. Three days after the suspension, as the deposed chief justice left his residence to face the Supreme Court bench hearing his case, a police car was waiting to transport him. Chaudhry, however, believed that he was still the rightful chief justice of Pakistan -- and certainly not a criminal -- and so decided to walk to court rather than ride in the police car. At this point, the security forces pulled him by the hair and forced him into the car. Their actions were captured on film and widely circulated on news channels and reported in the print media.</p>
+<p>	The insult to one of the highest symbols of the legal profession galvanized even habitually apathetic lawyers. Wearing their black coats, lawyers took to the streets in protests across the country demanding Chaudhry&rsquo;s reinstatement. Thus began the lawyers&rsquo; movement, which continued with a boycott of courts and ongoing demonstrations against the regime. Chaudhry traveled around the country, addressing bar associations in order to help keep the movement animated. The media played a critical role by giving live coverage to the events and by debating the legality of Musharraf&rsquo;s action.</p>
+<p>	In July 2007, in the context of public opinion strongly mobilized in favor of the deposed chief justice, the Supreme Court passed a landmark judgment annulling the presidential order and restoring Chaudhry. This was the first judicial ruling in the country&rsquo;s history directly challenging the action of a military dictator.</p>
+<h2>
+	The Struggle Continued</h2>
+<p>
+	The chief justice -- restored to his post as a result of countrywide popular mobilization -- felt emboldened to take up the case of Musharraf&rsquo;s eligibility to run for reelection as president while in military uniform. Sensing an imminent court decision against the constitutionality of his bid for reelection, Musharraf imposed emergency rule in November 2007. He suspended sixty judges of the higher courts in Pakistan, including Chief Justice Chaudhry.</p>
+<p>	Over the next few months, Musharraf&rsquo;s security apparatus launched an offensive against Pakistan&rsquo;s civil society, with special vehemence directed at the rebellious legal community. Although many individuals were brutally attacked, the lawyers&rsquo; movement continued to press the government for the restoration of the judiciary. The boycott of courts and the climate of instability most likely contributed to a rift within the military over how best to respond and control the mobilization. It certainly was a factor in Musharraf&rsquo;s decision to extend his hand to Benazir Bhutto, leader of the Pakistan Peoples Party (PPP), to stave the erosion of his own legitimacy. Under an agreement with Musharraf that granted her blanket immunity for pending corruption charges, Bhutto returned to Pakistan in October 2007. In the buildup to a January 2008 parliamentary election, Bhutto, the leading opposition candidate, was assassinated at a rally in Rawalpindi on December 27, 2007.</p>
+<p>	After being sworn in as president for another five years, Musharraf maintained his refusal to restore the deposed judges. In July 2008, the lawyers&rsquo; movement organized the first &ldquo;long march.&rdquo; Around 50,000 protesters from around the country converged on the capital. Given the erosion of his power during the last year and mounting opposition to his policies, Musharraf resigned in August.</p>
+<p>	A few weeks later, Asif Zardari, Bhutto&rsquo;s widower and co-chair of the PPP, was elected president. One of his campaign promises was to restore the deposed judges. However, several months into his presidency Zardari not only refused to reinstate the judges, but appointed PPP loyalists as judges in higher courts, presumably motivated in part by a desire to curtail corruption cases against him.</p>
+<p>	The lawyers&rsquo; movement had not abated with the end of Musharraf&rsquo;s rule, and new pressure was directed at Zardari to reinstate the judiciary. The lawyers organized a second long march in March 2009, in which opposition parties officially joined. This time, before the hundreds of thousands of protestors reached the capital, the prime minister announced the restoration of the deposed judges. Chief Justice Chaudhry once again resumed office on March 22, 2009.</p>
+<h2>
+	Undermining Authoritarianism</h2>
+<p>
+	Even though &ldquo;Go, Musharraf, go!&rdquo; had been one of the main slogans of the lawyers, it would be erroneous to think that the movement&rsquo;s goal was regime change. In retrospect, the single-issue clarity of the movement&rsquo;s campaign to reinstate the deposed judges arguably made their activism so successful. But the lawyers&rsquo; struggle did prove to be a critical factor in undermining Musharraf&rsquo;s military regime and forcing his resignation. Unlike most other transitions to democracy in which the principal agents of change have been a country&rsquo;s political elites, in Pakistan it was mobilization by the legal community that paved the way.</p>
+<p>	To understand how middle class professionals could upend a military regime as powerful as Musharraf&rsquo;s, it is important to specify the nature of the Pakistan lawyers&rsquo; movement. For one thing, it was not confined to any particular geographical region; lawyers from across the country were actively involved, with Lahore and Karachi registering the highest turnouts at protests. The movement was not dominated by any single ethnic or sectarian group, thus giving it a truly national complexion. And it was not a fa&ccedil;ade for political party activism, although parties occasionally participated -- especially at key events. This movement was initiated, organized and sustained by Pakistani legal professionals who waged their struggle mainly in the streets.</p>
+<p>	Lawyers put their safety and freedom at risk, given Pakistan&rsquo;s history of political violence and regime repression. Thousands were arrested, illegally detained, beaten up and tear-gassed. There were at least two violent events during which more than 50 died. The Musharraf regime had used the draconian Anti-Terrorism Act to detain several lawyers, and amended the Army Act of 1952 to allow civilians to be tried in military courts for vague offenses such as &ldquo;giving statements conducive to public mischief.&rdquo;</p>
+<p>	The erosion of regime legitimacy is rarely sufficient to oust a dictator. What is needed -- and what the Pakistani lawyers&rsquo; movement provided -- was the infliction of tangible costs. By acting as a judicial support network, lawyers propelled the regime into constitutional crises. In many countries, authoritarian regime destabilization is the result of an economic crisis. In Pakistan, the crisis of governability arose first in the legal realm. The mobilization of public opinion in support of the deposed judges, arguably, was critical in the decision of the Supreme Court to annul the presidential order. After the judiciary was restored, the lawyers pressed them to take up the case of Musharraf&rsquo;s eligibility to run for reelection, propelling the regime into a second crisis.</p>
+<p>	Lawyers&rsquo; boycotts of normal court proceedings threatened the workings of the entire judicial system. The public did not blame the lawyers, but rather the regime, for the consequences of the boycott. And since the lawyers mobilized in the streets rather than merely staying home, they baited the regime, which responded with violent repression. This exacted immense reputational costs both at home and internationally, given the extensive live coverage of protest events by the media. The regime&rsquo;s destruction of media company offices and passage of censorship laws backfired, further inflaming anti-regime sentiment. The regime also used tactics such as arranging counter-demonstrations by fake lawyers and organizing a national rally in support of Musharraf. Such obvious desperation both exacerbated and illustrated the regime&rsquo;s loss of power.</p>
+<p>	Finally, the event that most forcefully proved the cost inflicted by the lawyers&rsquo; movement was the regime&rsquo;s imposition of emergency rule. This was a clear instance of the diversion of the regime&rsquo;s energies to fighting civil society rather than focusing on important policy issues or confronting the growing threat of Islamist militancy in Pakistan.</p>
+<h2>
+	A New Vocabulary of Politics</h2>
+<p>
+	Beyond achieving the restoration of the judges to the bench and eroding the jurisprudential foundations of authoritarianism, the lawyers&rsquo; movement has had a deeper structural impact on democratic politics in Pakistan. Historically, party politics has relied on three kinds of allegiances to mobilize people: ethnic, religious and clientelistic. Even a relatively populist leader like Zulfiqar Bhutto, who claimed to champion the dispossessed, offered (clientelistic) &ldquo;bread, cloth and shelter.&rdquo; Until the lawyers&rsquo; movement, no one had offered &ldquo;rule of law&rdquo; to the people.</p>
+<p>	The political dynamic between Pakistan&rsquo;s political parties and the lawyers&rsquo; movement presents a fascinating example of the potential of civil society in newly democratizing countries. Rather than engaging in partisan politics, the lawyers chose to engage in direct mobilization through the bar. This professional autonomy prevented the movement from being subsumed or manipulated by party politics. Conversely, the political parties tried hard to forge an association with the lawyers&rsquo; movement, given its success at mobilization and broad-based legitimacy.</p>
+<p>	The lawyers&rsquo; movement became the principal conduit for democratic change in the political arena. Parties that sought to gain leverage by aligning with the movement had to pay the price of structuring their platforms according to lawyers&rsquo; demands for rule of law. The case of the PPP is illustrative. It initially appropriated the movement to gain access to the political space in Pakistan by promising to restore the judges. But after Zardari failed to honor this PPP campaign promise, the strong public opinion mobilized by the lawyers&rsquo; movement began adversely affecting his party. Realizing this, Nawaz Sharif&rsquo;s Pakistan Muslim League threw its force behind the movement, gaining considerable legitimacy as a result.</p>
+<p>	The lawyers&rsquo; movement had an impact not only on traditionally clientelistic parties, but also on Islamist parties that historically have mobilized supporters for the implementation of shari&lsquo;a law in Pakistan. The Jamaat-e Islami was one of the parties most actively engaged with the lawyers&rsquo; movement, despite the latter&rsquo;s aim of strengthening the secular legal system in the country. (For Jamaat, siding with the lawyers was a means of expressing opposition to Musharraf.) As political parties appropriated the movement, they were forced to employ a variant of universalistic liberal legal rhetoric that cut across ethnic, religious or clientelistic claims.</p>
+<h2>
+	Building the Rule of Law</h2>
+<p>
+	In Pakistan, interludes of democratic rule have brought only nominal improvements in the lives of citizens. As in other emerging democracies, hopes that courts would protect citizens&rsquo; fundamental rights are often derailed when the judiciary proves unable or unwilling to check the power of the regime or elites. Recent events in Pakistan, however, provide an interesting case of courts&rsquo; efforts to protect rights and build the rule of law at the expense of power elites.</p>
+<p>	Support for domestic legal reform from multilateral and foreign institutions such as the World Bank, Asian Development Bank and USAID typically envisions a formalistic legal environment and espouses a model divorced from -- or at least not tailored to -- the social and political forces in the target country. The international record of trying to transplant a one-size-fits-all model of legal reform is unimpressive, not least because it ignores the fact that law is inherently and fundamentally political. The most successful examples of rule of law-building are found in countries where local actors and institutions direct the reforms in ways that accommodate local norms of legal legitimacy.</p>
+<p>	The two-year struggle of the legal community for upholding the rule of law in Pakistan can be thought of as a political project aimed at legal reform. In contrast to legal reform programs of multilateral institutions, this project was not implemented in a top-down manner. Rather, it was an indigenous project, deeply embedded in the country&rsquo;s social and political context. Rather than focusing on strengthening the judicial machinery, the lawyers&rsquo; movement engaged in rule of law-supporting activism through street protests and court boycotts. In the end, it accomplished something that formalistic legal development by multilateral institutions arguably cannot: the widespread legitimacy of judicial institutions among the citizens of Pakistan.</p>
+<p>	Given this strong impulse for reform in Pakistan, it seems odd that the country has often been labeled as the &ldquo;most dangerous place in the world&rdquo; in the Western press. This characterization builds on an exclusive focus on radical movements in Pakistan&rsquo;s northwest. Given its scope and breadth, however, the lawyers&rsquo; movement is arguably more representative of the political aspirations of Pakistanis than is Talibanization. An exclusive focus on the latter, however, by the international community may tilt the balance in the opposite direction.</p>
+	</div>
+	
+		 <div id="post-article-links">
+	 	 <div id="article-links">
+	 <ul class="links inline"><li class="comment_forbidden first"></li>
+<li class="addthis last"><span><div class="addthis_toolbox addthis_default_style">
+        <div class="custom_images">
+          <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_twitter"><img src="http://www.merip.org/sites/all/themes/merip/images/twitter.png" width="16" height="16" alt="Tweet this" /></a>
+          <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_facebook"><img src="http://www.merip.org/sites/all/themes/merip/images/facebook.png" width="16" height="16" alt="Share on Facebook" /></a>
+		  <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_print"><img src="http://www.merip.org/sites/all/themes/merip/images/print_icon.gif" width="16" height="16" alt="Print this" /></a>
+		  <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_email"><img src="http://www.merip.org/sites/all/themes/merip/images/mail_icon.png" width="16" height="16" alt="Email this" /></a>
+        </div>
+      </div>
+      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=merip"></script></span></li>
+</ul>	 </div>
+	 	 	 <div id="article-taxonomy">
+	 <span id="article-taxonomy-label">Filed under: </span>
+	 <div class="terms terms-inline">
+	 <ul class="links inline"><li class="taxonomy_term_57 first last"><a href="/category/mer-subjects/pakistan" rel="tag" title="">Pakistan</a></li>
+</ul>	 </div>
+	 </div>
+	 	 </div>
+	
+</div></div> <!-- /node-inner, /node -->				</div>
+				<!-- /#content-area -->
+
+				<!-- /#content-bottom -->
+								<!-- /#content-bottom -->
+        
+			</div></div> <!-- /#content -->
+
+			<!-- #sidebar-left -->
+						<div id="sidebar-left"><div class="sidebar-left-inner">
+			<div id="block-views-issues-block_3" class="block block-views region-odd odd region-count-1 count-1"><div class="block-inner">
+
+      <h2 class="title">Latest Issue<br /></h2>
+  
+  <div class="content">
+    <div class="view view-issues view-id-issues view-display-id-block_3 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-image-cache-fid">
+                <span class="field-content"><a href="/mer/latest"><img src="http://www.merip.org/sites/default/files/imagecache/product_full/issues/covers/MER 279 cover final.jpg" alt="" title=""  class="imagecache imagecache-product_full imagecache-default imagecache-product_full_default" width="200" height="261" /></a></span>
+  </div>
+  
+  <div class="views-field-field-issue-number-value">
+                <span class="field-content"><a href="/mer/latest">MER 279</a></span>
+  </div>
+  
+  <div class="views-field-field-issue-title-value">
+                <span class="field-content"><a href="/mer/latest">Israel&#039;s War Record in Gaza</a></span>
+  </div>
+  
+  <div class="views-field-field-issue-season-value">
+                <span class="field-content">Summer 2016</span>
+  </div>
+  
+  <div class="views-field-conditionalbuyitnowbutton">
+                <span class="field-content"><form action="/mer/mer251/struggling-rule-law"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-9567">
+<div><input type="hidden" name="nid" id="edit-nid" value="9567"  />
+<input type="submit" name="op" id="edit-submit-9567" value="Purchase"  class="form-submit list-add-to-cart" />
+<input type="hidden" name="form_build_id" id="form-f4c2a81263ea9aada861e56bcd17ffa0" value="form-f4c2a81263ea9aada861e56bcd17ffa0"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-9567" value="uc_catalog_buy_it_now_form_9567"  />
+
+</div></form></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-back_issues-block_1" class="block block-views region-even even region-count-2 count-2"><div class="block-inner">
+
+      <h2 class="title">Back Issues</h2>
+  
+  <div class="content">
+    <div class="view view-back-issues view-id-back_issues view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-1">
+    <thead>
+    <tr>
+              <th class="views-field views-field-nothing">
+                  </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-nothing">
+            <a href="http://www.merip.org/mer/mer278">MER 278 - Life in Exile</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-nothing">
+            <a href="http://www.merip.org/mer/mer277">MER 277 - Iran&#039;s Many Deals</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-nothing">
+            <a href="http://www.merip.org/mer/mer276">MER 276 - ISIS</a>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-nothing">
+            <a href="http://www.merip.org/mer/mer275">MER 275 - Inside the Inside</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/mer/issues">
+    more back issues  </a>
+</div>
+  
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+			</div></div>
+						<!-- /#sidebar-left -->
+			
+			<!-- #sidebar-right -->
+						<div id="sidebar-right"><div class="sidebar-right-inner">
+			<div id="block-search-0" class="block block-search region-odd odd region-count-1 count-3"><div class="block-inner">
+
+  
+  <div class="content">
+    <form action="/mer/mer251/struggling-rule-law"  accept-charset="UTF-8" method="post" id="search-block-form" class="search-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="Search MERIP" title="Enter the terms you wish to search for." class="form-text  custom-search-default-value custom-search-box" />
+</div>
+<fieldset class="custom_search-popup"></fieldset>
+<input type="image" name="op" id="edit-submit"  alt="" class="form-submit custom-search-button" src="/sites/default/files/custom_search/search.PNG" />
+<input type="hidden" name="form_build_id" id="form-79f924cf8a176f0400325952e3ea8c93" value="form-79f924cf8a176f0400325952e3ea8c93"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+<input type="hidden" name="default_text" id="edit-default-text" value="Search MERIP"  class="default-text" />
+</div>
+
+</div></form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-6" class="block block-block region-even even region-count-2 count-4"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="login-links">
+			<span><a href="https://www.merip.org/login">Login</a></span>
+		or
+		<span><a href="/subscribe">Subscribe</a></span>
+	</div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-12" class="block block-block region-odd odd region-count-3 count-5"><div class="block-inner">
+
+  
+  <div class="content">
+    <p class="rtecenter">
+	<a href="http://merip.org/blog"><img alt="" src="http://www.merip.org/sites/default/files/imports/MERIP blog logo small.png" style="width: 144px; height: 161px;" /></a></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-new_blog-block_1" class="block block-views region-even even region-count-4 count-6"><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="view view-new-blog view-id-new_blog view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-1">
+    <thead>
+    <tr>
+              <th class="views-field views-field-title">
+                  </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/subversive-power-grief">The Subversive Power of Grief</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/some-initial-thoughts-chilcot-report">Some Initial Thoughts on the Chilcot Report</a>          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-title">
+            <a href="/letter-un-secretary-general-concerning-saudi-arabias-removal-list-armies-charged-war-crimes">Letter to UN Secretary-General Concerning Saudi Arabia&#039;s Removal from List of Armies Charged with War Crimes</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="more-link"><a href="/blog">more blog posts</a></div>    </div>
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-13" class="block block-block region-odd odd region-count-5 count-7"><div class="block-inner">
+
+      <h2 class="title">Special Publications</h2>
+  
+  <div class="content">
+    <p class="rtecenter"><a href="http://www.merip.org/primer-palestine-israel-arab-israeli-conflict-new" target="_blank"><img alt="" height="187" src="/sites/default/files/Primer_on_Palestine-Israel(MERIP_February2014)cover.jpg" width="143" /></a></p>
+<p class="rtecenter"><a href="http://www.merip.org/primer-palestine-israel-arab-israeli-conflict-new" target="_blank">Primer on Palestine, Israel and the Arab-Israeli Conflict</a></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-special_pubs-block_2" class="block block-views region-even even region-count-6 count-8"><div class="block-inner">
+
+      <h2 class="title">MERIP Books</h2>
+  
+  <div class="content">
+    <div class="view view-special-pubs view-id-special_pubs view-display-id-block_2 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-1">
+    <thead>
+    <tr>
+              <th class="views-field views-field-title">
+                  </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/arabia-incognita">Arabia Incognita</a>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-title">
+            <a href="/arab-revolts">The Arab Revolts</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-11" class="block block-block region-odd odd region-count-7 count-9"><div class="block-inner">
+
+      <h2 class="title">Follow Us</h2>
+  
+  <div class="content">
+    <p class="rtecenter">
+	<a href="http://merip.org/rss.xml"><img alt="" src="http://www.merip.org/sites/default/files/graphics/medium_rssButton_final1.gif" style="width: 41px; height: 41px; " /></a> <a href="http://twitter.com/#!/meriponline"><img alt="" src="/sites/default/files/graphics/twitter_button.png" style="width: 41px; height: 41px;" /></a> <a href="http://www.facebook.com/MERIP1971"><img alt="" src="/sites/default/files/graphics/facebook_button.png" style="width: 41px; height: 41px;" /></a></p>
+<p></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+			</div></div>
+						<!-- /#sidebar-right -->
+
+		</div></div> 
+		<!-- /#main-inner, /#main -->
+
+		<!-- #footer, #footer-inner -->
+				<div id="footer"><div id="footer-inner" class="region region-footer">
+                <div id="footer-message">Copyright &copy; Middle East Research and Information Project.&nbsp; All Rights reserved.</div>
+                <div id="block-block-4" class="block block-block region-odd odd region-count-1 count-11"><div class="block-inner">
+
+  
+  <div class="content">
+    <p>Middle East Research and Information Project<br />
+1344 T St. NW #1<br />
+Washington, DC 20009</p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-1" class="block block-block region-even even region-count-2 count-12"><div class="block-inner">
+
+  
+  <div class="content">
+    <p class="rtecenter">
+	<a href="http://innerfile.com" title="Drupal consulting, development and support in Washington, DC.">Drupal and Ubercart web design in Washington, DC</a> by Inner File Software</p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+		</div></div> 
+				<!-- /#footer-inner, /#footer -->
+
+	</div></div> 
+	<!-- /#page-inner, /#page -->
+
+	<!-- #closure-blocks -->
+		<!-- #closure-blocks -->
+
+	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-26219807-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+</body>
+</html>

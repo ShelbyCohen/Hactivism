@@ -1,2248 +1,442 @@
-<!DOCTYPE html>
-<html lang="en" class="pb-page"  data-request-id="433f0572-b97d-4e0f-93da-62c1477f376d"  
-><head data-pb-dropzone="head"><meta name="pbContext" content=";website:website:hkj-site;wgroup:string:Publication Websites;page:string:Cookie Absent"/><meta data-pb-head="head-widgets-start"/>
-
-
-
-
-
-
-
-<meta charset="UTF-8">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<title></title>
-
-
-
-
-<meta data-pb-head="head-widgets-end"/>
-<link rel="stylesheet" type="text/css" href="/wro/product.css"><link rel="stylesheet" type="text/css" href="/pb/css/t1490802900000-v1490802900000/head_1_7_282.css" id="pb-css" data-pb-css-id="t1490802900000-v1490802900000/head_1_7_282.css"/>
-
-
-<script type="text/javascript">
-    if (window.location.hash && window.location.hash == '#_=_') {
-        window.location.hash = '';
-    }
-</script>
-<script type="text/javascript" src="/wro/product.js"></script>
-
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-
-
-
-
-
-
-
-    
-        
-    
-
-
-
-
-
-
-
-
-    
-</head>
-<body class="pb-ui">
-
-
-
-
-
-
-    
-
-    <div id="pb-page-content" data-ng-non-bindable>
-        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget pageHeader none  widget-none  widget-compact-all" id="875d1c49-f83e-444e-8449-792b6f02cc69"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><header class="page-header">
-    <div data-pb-dropzone="main">
-    
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html alignCenter no-margin hkjHeaderFooter widget-none  widget-compact-horizontal" id="a421f045-1968-4f29-8a01-8f12701373e2"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='HK-Menu-Top'>
-            
-            <div class="widget-body body body-none  body-compact-horizontal"><table style="width:inherit;" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-    <td align="left" valign="middle" width="55"> <a href="http://journals.humankinetics.com"><img  src="/pb-assets/hkj/icons/HK-journals-logo-high.jpg" alt="Human Kinetics Publishers, Inc." title="Human Kinetics Publishers, Inc." height="66" hspace="0" border="0" vspace="0" width="58"></a></td>
-    <td  align="center" valign="middle" > <table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-        <td  align="left" valign="top"><img  src="/pb-assets/hkj/icons/Human_Kinetics_text_small.jpg" alt="Human Kinetics Publishers, Inc." title="Human Kinetics Publishers, Inc."  hspace="0" border="0" vspace="0" > </td></tr><tr>
-        <td  height="7" align="left" bgcolor="#ffffff" valign="top"> </td></tr><tr>
-        <td  height="1" align="left" bgcolor="#666666" valign="top"> </td></tr><tr>
-        <td  height="2" align="left" bgcolor="#ffffff" valign="top"> </td></tr><tr>
-        <td  height="1" align="left" bgcolor="#666666" valign="top"> </td></tr><tr>
-        <td  height="24" align="center" valign="middle"> <table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-            <td  height="24" align="left" valign="middle" width="160"> <div><div><div style="padding:5px;line-height:1;">
-                <style>
-.dropbtn {
-    background-color: white;
-    color: black;
-    padding: ;
-    font-size: 12px;
-    min-width: 160px;
-    border:none;
-    cursor: pointer;
-}
-
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #3c6386;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-.dropdown-content a {
-    color: white;
-    padding: 8px 12px; 
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #3c6386}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown:hover .dropbtn {
-    background-color: #3c6386;
-    color: white;
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>World War I antiwar movement</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.twoColFixLtHdr #sidebar1 { width: 230px; }
 </style>
+<![endif]--><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColFixLtHdr #sidebar1 { padding-top: 5px; }
+.twoColFixLtHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+   <script src="includes/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<!--[if lt IE 7]><style> 
+/* style for IE6 + IE5.5 + IE5.0 */ 
+h1 { height: 0; } 
+</style><![endif]--> 
+  
+<!--[if IE 7]><style> 
+h1 { zoom: 1; } 
+</style><![endif]--> 
+
+<style type="text/css">
+<!--
+.style7 {font-size: x-small}
+.style8 {font-size: 12px}
+.style9 {font-size: 12}
+-->
+</style>
+</head>
+
+<body class="twoColFixLtHdr" id="ww1">
+
+<div id="container">
+   <div id="title" style="width:760px;height:35px;padding-left:20px;font-family:helvetica, arial, sans-serif;filter:alpha(opacity=90);-moz-opacity:.90;opacity:.90;padding-bottom:5px;background-color:#CCC;">
+  <div style="margin-top:5px;font-size:27px;width:760px;position:relative;float:left;"><a href="/antiwar/" style="color:#600;text-decoration:none;"><span style="font-weight:bold;">Antiwar </span><b>and</b><span style="font-weight:bold;"> Radical History Project</span></a> &ndash; Pacific Northwest </div> 
 
 
-<div class="dropdown">
-  <a href="http://www.humankinetics.com/" target="_blank"> <button class="dropbtn">Visit HumanKinetics.com</button></a>
-  <div class="dropdown-content">
-    <a href="http://www.humankinetics.com/Stores" target="_blank">Bookstore</a>
-    <a href="http://www.humankinetics.com/continuing-education" target="_blank">Continuing Education</a>
-    <a href="http://www.humankinetics.com/instructor-and-student-resources" target="_blank">Educational Resources</a>
-    <a href="http://www.humankinetics.com/search#&amp;sSearchWord=&amp;sTopics=,13,5416,56,16,12,176,263" target="_blank">E-Products</a>
-  </div>
-</div></div></div></div></td>
-            <td  height="24" align="center" valign="middle" width="160"> <div id="smPanel48933"></div></td>
-            <td  height="24" align="center" valign="middle" width="150"> <div ></div></td>
-            <td  height="24" align="center" valign="middle" width="250"> <div ></div></td>
-            <td i height="24" align="center" valign="middle" width="190"> <div ><a  href="/page/contact"><div ><div style="padding:5px;line-height:1;">Contact Us</div></div></a></div></td></tr></tbody></table></td></tr><tr>
-        <td height="1" align="left" bgcolor="#666666" valign="top"> </td></tr><tr>
-        <td height="2" align="left" bgcolor="#ffffff" valign="top"> </td></tr><tr>
-        <td height="1" align="left" bgcolor="#666666" valign="top"> </td></tr></tbody></table></td></tr></tbody>
-    </table></div>
-        </div>
-    </div>
-    
 
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget layout-two-columns none no-margin widget-none  widget-compact-all" id="0cee4d54-554c-40bf-9458-6cbbdbc89cdd"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
-    <div class="width_1_2">
-        <div data-pb-dropzone="left" class="pb-autoheight">
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-image alignLeft  widget-none  widget-compact-all" id="ebd45ac6-6255-48de-a88d-8aadbca3183f"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><a href="/"
-title="Human Kinetics Journals"
->
-<img src="/pb-assets/hkj/icons/Human_Kinetics_Journals_text_large.png"
-alt="Human Kinetics Journals"
-/>
-</a></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
-    <div class="width_1_2">
-        <div data-pb-dropzone="right" class="pb-autoheight">
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-            
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumNavigationLoginBar none loginBarCustom widget-none  widget-compact-all widget-border-toggle widget-rounded" id="923167db-8001-48a5-9206-0cd229f54d45"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='LoginBarWidget'>
-            
-            <div class="widget-body body body-none  body-compact-all body-border-toggle body-rounded"><div class="loginBar">
-
-    
-
-    
-            
-            
-
-
-
-
-
-
-    
-
-
-
-<a href="https://journals.humankinetics.com/action/showLogin?uri=%2Faction%2FcookieAbsent">
-    Sign in
-</a>
-
-
-            &nbsp;|&nbsp;
-            
-
-
-
-
-
-    
-
-
-
-        <a href="https://journals.humankinetics.com/action/registration?redirectUri=%2Faction%2FcookieAbsent" class="register-link">
-            Register
-        </a>
-    
-        
-
-    
-
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-            
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-            
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumCartLink none  widget-none  widget-compact-all widget-border-toggle widget-rounded" id="1576d3b3-77a9-4005-98d5-56ecf8579994"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='CartWidget'>
-            
-            <div class="widget-body body body-none  body-compact-all body-border-toggle body-rounded"><a href="https://journals.humankinetics.com/action/showCart">
-        
-        <div class="cartLabel " style="">
-                Cart
-        </div>
-    </a></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumBreadcrumbs none  widget-none  widget-compact-all" id="e1ef0f84-8e13-49be-a35e-6ad098349e3f"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><!-- Service: cookieAbsent -->
-
-
-
-
-    
-            
-        
-
-    
-            
-                    
-                
-        
-
-    
-    
-
-
-
-
-
-
-
-
-<nav>
-    <ul class="breadcrumbs">
-        
-        
-            <li class="">
-
-                
-                    <a href="/">
-                    Human Kinetics Journals
-                    </a>
-                    
-                    
-            </li>
-        
-    </ul>
-</nav></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-                
-                
-                
-            
-        
-    
-        
-            
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget quickSearchWidget none no-margin widget-regular  widget-compact-all widget-border-toggle widget-rounded" id="fa14d125-deeb-4b24-9f4f-7c045275a835"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='QuickSearchWidget'>
-            
-            <div class="widget-body body body-regular  body-compact-all body-border-toggle body-rounded"><div class="quickSearchFormContainer">
-    
-
-    
-
-
-    <form action="/action/doSearch" name="quickSearch" class="quickSearchForm " title="Quick Search" method="get"><span class="simpleSearchBoxContainer">
-                        <input name="AllField"
-               class="searchText magicsuggest main-search-field autocomplete"
-               value=""
-               type="search" id="searchText"
-               title="Type search term here"
-               placeholder="Enter words / phrases / DOI / ISBN / authors / keywords / etc." autocomplete="off"
-               data-history-items-conf="3"
-               data-publication-titles-conf="3"
-               data-topics-conf="3"
-               data-contributors-conf="3"
-               data-auto-complete-target="auto-complete"
-               data-auto-complete-max-words="7"
-               data-auto-complete-max-chars="32"/>
-                </span>
-                
-
-
-
-
-
-<span class="citationSearchBoxContainer hidden">
-    <input name="quickLinkJournal"
-           class="journalName mediumTextInput  autocomplete"
-           value=""
-           type="search"
-           title="Journal or Book Series"
-           placeholder="Journal or Book Series"
-           data-auto-complete-target="Title"
-           autoComplete="off"
-           autoPopulate="true"/>
-
-    <input type="hidden" name="quickLink" value="true" />
-    <input class="year smallTextInput" title="Year" type="search" name="quickLinkYear" value="" autocomplete="false" placeholder="Year" />
-    <input class="volume smallTextInput" title="Volume" type="search" name="quickLinkVolume" value="" autocomplete="false" placeholder="Volume" />
-    <input class="issue smallTextInput" title="Issue" type="search" name="quickLinkIssue" value="" autocomplete="false" placeholder="Issue" />
-    <input class="page smallTextInput" title="Page" type="search" name="quickLinkPage" value="" autocomplete="false" placeholder="Page" />
-</span>
-
-            
-
-        
-
-        
-            
-
-
-
-
-<input class="mainSearchButton searchButtons pointer" title="search" type="submit" value="Search" /></form>
 </div>
 
+  
+ 
+      <div id="sidebar1">
+<span id="mainhl">&nbsp;<a href="/antiwar/">Home</a>&nbsp;</span>|<span id="historyhl">&nbsp;<a href="pnwhistory_home.shtml"> Brief History</a>&nbsp;</span>|<span id="oralhl">&nbsp;<a href="oralhistories.shtml">Oral Histories</a>&nbsp;</span>| <span id="ww1h1">&nbsp;<a href="WW1_intro.shtml">World War I</a>&nbsp;</span>|
+<span id="vietnamhl">&nbsp;<a href="vietnam_intro.shtml">Vietnam War</a>&nbsp;</span>|<span id="nuclearhl">&nbsp;<a href="nuke_intro.shtml">Anti-Nuke</a>&nbsp;</span>|<span id="gihl">&nbsp;<a href="gi_mvmt.shtml">GI Movement</a>&nbsp;</span>|<span id="photohl">&nbsp;<a href="photosdocs.shtml">Photos &amp; Documents</a>&nbsp;</span>
+ </div>
+ 
+<div id="mainsub"> <a href="about.shtml">About</a>  | <a href="sitemap.shtml">Site Map</a> | <a href="http://depts.washington.edu/labhist">PNW Labor and Civil Rights Projects</a></div>
+<div id="historysub"><a href="pnwhistory_wwi.shtml">WWI</a> | <a href="pnwhistory_wwii.shtml">WWII</a> | <a href="pnwhistory_coldwar.shtml">Cold War & Korean War</a> | <a href="pnwhistory_vietnam.shtml">Vietnam War</a> | <a href="pnwhistory_nukes.shtml">1970s/80s</a></div>
+
+<div id="oralsub"></div>
+
+<div id="vietnamsub"><a href="vietnam_intro.shtml">Vietnam Home</a> | <a href="vietnam_student.shtml">Student Activism</a> | <a href="vietnam_draft.shtml">Draft Resistance</a> | <a href="photosdocs.shtml">Photos & Documents</a></div>
+
+<div id="gisub"><a href="gi_mvmt.shtml">GI Home</a> | <a href="gi_history.shtml">History</a> | <a href="oralhistories.shtml">Oral Histories</a> | <a href="gi_papers.shtml">Underground Newspapers</a> | <a href="gi_timeline.shtml">Timeline</a> | <a href="gi_links.shtml">Resources</a></div>
+
+<div id="photosub"><a href="http://depts.washington.edu/antiwar/photosdocs.shtml">Gallery Overview</a> | <a href="photo_gipapers.shtml">GI Papers</a> | <a href="photo_ludwig.shtml">Ludwig Collection</a> | <a href="photo_lonidier.shtml">Lonidier Collection</a> | <a href="photo_sdsnews.shtml">SDS News</a> | <a href="photo_studentvietnam.shtml">UW Students</a> | <a href="photo_strike.shtml">1970 Student Strike</a></div>
 
 
+<div id="nuclearsub"><a href="nuke_intro.shtml">Anti-Nuke Home</a> | <a href="oralhistories.shtml">Oral Histories</a> | <a href="nukes_dundas1.shtml">Ground Zero History</a> | <a href="nukes_casserly.shtml">Bangor Naval History</a></div>
 
-<div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
-    
-        
-        
+<div id="ww1sub"><a href="WW1_intro.shtml">World War I Home</a>| <a href="WW1_reds.shtml">Reds, Labor, and the Great War</a> |<a href="pnwhistory_wwi.shtml">Antiwar radicalism</a>  </div>
 
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none" id="1c7e5bfe-c46f-425b-a8eb-e2df2c64edf5"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><a href="/search/advanced">Advanced Search</a></div>
-        </div>
+     
+  <div id="mainContent">
+  <div id="column2r">
+      <div align="center"> <a href="http://digitalcollections.lib.washington.edu/cdm/singleitem/collection/seattle/id/1906/rec/5" target="_blank"><img src="images/ww1/preparedness 300.jpg" alt="" width="297" height="278" /></a> </div>
+      <div align="center"><span class="style7">As millions died in European trenches, Americans were deeply divided about whether the US should join the fight. This June 10, 1916 preparedness parade through downtown Seattle drew thousands of marchers and supporters. (Courtesy of thethe University pf Washington Librairies) </span>    </div>
+    <h2 align="center">
+      <hr>
+      <a href="images/ww1/Meeting Breakup.jpeg"><img src="images/ww1/Meeting Breakup300.jpeg" alt="" width="301" height="412" /></a> </a></h2>
+      <div align="center"><span class="style7">The Seattle <em>Daily Call</em>, a socialist newspaper, vigorously opposed US intervention and served as the principle communication outlet for the antiwar movement (click to read July 31, 1917 edition)</span></div>
+        <hr>
+<img src="images/ww1/Hulet Wells 200.jpg" alt="" width="300" height="461" />    </h2>
+    <div align="center"><span class="style7">Hulet Wells and Louise Olivereau served long prison terms for speaking and writing against the war. (Courtesy Wikipedia and HistoryLink.org)</span>    </div>
+     
+<img src="images/ww1/Louise Olivereau 200.png" alt="" width="300" height="404" />    </h2>
+    <hr>
+<img src="images/ww1/strong200.jpg" alt="" width="300" height="400" />    </h2>
+    <div align="center"><span class="style7">Anna Louise Strong, socialist and leader of the Seattle chapter of the American Union Against Militarism, had been elected to the Seattle School Board in 1916. In 1918 she was defeated in a special recall election that targetted her for her antiwar statements. (Courtesy Seattle Public Library)</span>    </div>
+      <hr>
+      <a href="images/ww1/War Hysteria.jpg"><img src="images/ww1/War Hysteria.jpg" alt="" width="253" height="394" /></a>    
+      </h2>
+    <div align="center"><span class="style7">The <em>Daily Call</em> warned of  war hysteria in this cartoon <br />
+      (August 1, 1917)</span>    </div>
+      <hr>
+      <a href="images/ww1/June_30_1917 cr.jpg"><img src="images/ww1/June_30_1917%20cr.jpg" alt="" width="300" height="271" /></a>    
+      </h2>
+    <div align="center"><span class="style7">The Industrial Workers of the World said workers would die for capitalist profits if the US went to war. In this June 30, 1917 cartoon published in <em>Solidarity</em>, the IWW advocated class struggle.</span>    </div>
+     <hr>
+     <a href="images/ww1/IWW.Dec29.1.jpg"><img src="images/ww1/IWW.Dec29.1.jpg" alt="" width="300" height="370" /></a>    
+     </h2>
+    <div align="center"><span class="style7">The  <em>Industrial Worker </em>describes the raids and arrests of IWW members in Seattle (December 29, 1917) click to read.</span>    </div>
+     
+      <hr>
+      <a href="images/ww1/sept_1_1917 cr.jpg"><img src="images/ww1/sept_1_1917 cr200.jpg" alt="" width="300" height="365" /></a>    
+     </h2>
+    <div align="center"><span class="style7">Artist Ralph Chaplin's image and slogan (&quot;We are in here for you; you are out there for us&quot;) became an anthem of the IWW as hundreds were imprisoned in 1917 and 1918. (<em>Solidarity,</em> Sept 1., 1917</span>    </div>
+     
     </div>
     
-
+   
     
-</div></div>
-        </div>
+    <h1>Reds, Labor, and the Great War:<br />
+      Antiwar Activism in the Pacific Northwest
+    </h1>
+    <h2>&nbsp;</h2>
+    <h4>by Rutger Ceballos</h4>
+  
+    <div>
+   
+      <p>In September 1917, in a crowded Seattle courtroom, charges of sedition were read to Hulet Wells, Sam Sadler and Joe and Morris Pass. They were accused of conspiring against the government of the United States and interfering with military conscription during a time of war. These men were just a few of the thousands who were charged with sedition or treason in the months after America&rsquo;s entry into World War I. The war pitted citizen against citizen, patriot against radical. </p>
+      <p>The divisions present in the courtroom on that September day mirrored the growing fractions on the streets of nearly every major city in the country. The First World War was America&rsquo;s first debut as a global military power, and although many Americans were swept up in a patriotic call to arms, a small but vocal minority of socialists, anarchists, pacifists and civil libertarians opposed American militarism. The men and women who spoke out against the war faced some of the greatest state repression in the history of the United States.  Their stories are testament to how fragile civil liberties and freedom can be when threatened by militarism and the security state.</p>
+      <p>Although later anti-war movements like those of the Vietnam Era have attracted more scholarly and popular attention, the story of the 20th century&rsquo;s first American anti-war movement is notable for its dramatic organizational and ideological transformation over the course of  World War I. The opposition to World War I began as just another part of the pacifist movement of the early 19th century. Far from a populist mass movement, the anti-war movement of 1914 was initially dominated by upper class intellectuals, prominent businessmen and Progressive establishment politicians.<a href="#_edn1" name="_ednref1" title="" id="_ednref1">[1]</a> </p>
+      <p>At the outbreak of the war, American peace societies counted among its ranks the likes of business tycoon Andrew Carnegie, social reformers Jane Addams and Lillian Wald, several university presidents and future Secretary of War Newton Baker.<a href="#_edn2" name="_ednref2" title="" id="_ednref2">[2]</a> As scholar Roland Marchand explains, the pre-war peace movement was &ldquo;an affluent, prestigious and &lsquo;practical&rsquo; reform [movement];&rdquo; however, this changed in the four short years between 1914 and 1918. <a href="#_edn3" name="_ednref3" title="" id="_ednref3">[3]</a> The small, elite and establishment peace movement of the early war years was overcome by the mass working-class and increasing radical anti-militarist and anti-capitalist movements of the later years. Driven by increasingly dire economic conditions and angered by wartime conscription, the American anti-war movement of 1917 – 1918 rose to near-revolution-like levels before being suppressed by aggressive government repression. This study explores the fundamental and dramatic transformation of this seminal social movement. Nowhere in the country were these economic and ideological shifts clearer or more evident than in Seattle and the Pacific Northwest.</p>
+      <p>In the years preceding the war, the Pacific Northwest was largely isolated from the establishment politics of the East Coast peace societies and lacked any real affiliation with any national peace organizations. However, what the Pacific Northwest lacked in establishment credentials it made up for as a stronghold of radical working-class politics. The Socialist Party, Industrial Workers of the World, and militant labor unions enjoyed significant support throughout the region.<a href="#_edn4" name="_ednref4" title="" id="_ednref4">[4]</a> This radical political base proved critically important over the course of the war. In time, the Pacific Northwest, and Seattle in particular, experienced some of the most incredible radical anti-war activity in the country.<a href="#_edn5" name="_ednref5" title="" id="_ednref5">[5]</a> For these reasons, this paper will focus on the story of how Seattle and Pacific Northwest activists came to embody the mass working-class anti-war politics during the First World War.</p>
+      <p><strong> </strong><strong>The Pre-War Years - Seattle on the Eve of the War</strong></p>
+      <p>To understand Seattle&rsquo;s anti-war activism during the First War World, it is important to first examine the pre-war years that shaped the city&rsquo;s political and economic environment. In the first two decades of the 20th century, Seattle underwent dramatic changes. Throughout the period, the economy of the region was centered on both extractive industries and the maritime trade, namely lumber and commercial shipping. The Alaska Gold Rush in the late 1800s to early 1900s brought a wave of immigrants and settlers, exponentially increasing Seattle&rsquo;s population and economic opportunities.<a href="#_edn6" name="_ednref6" title="" id="_ednref6">[6]</a> However, the bustling new economy and rapid industrialization fundamentally transformed the social conditions in the city. Unemployment, difficult working conditions, low wages, tensions between employers and employees; all threatened to destabilize the delicate political balance of the city.<a href="#_edn7" name="_ednref7" title="" id="_ednref7">[7]</a></p>
+      <p>Seattle was a hotspot for labor militancy and organizing. In the years before the war, the American Federation of Labor (AFL) established a series of increasingly strong locals among skilled white male laborers in Seattle.<a href="#_edn8" name="_ednref8" title="" id="_ednref8">[8]</a> Construction workers, service and retail workers, printers and ironworkers, and dockworkers were all organized into trade unions. By 1915, the main AFL representative body, the Seattle Central Labor Council, boasted 9,000 union members in affiliated locals.<a href="#_edn9" name="_ednref9" title="" id="_ednref9">[9]</a> Together, these AFL locals fought for higher wages, better contracts and established themselves as a powerful political force in Seattle municipal politics. Nonetheless, the AFL-affiliated unions were not perhaps a truly radical force. The AFL-affiliated unions practiced racist and exclusionary membership policies, supported legislation that excluded Chinese, Japanese and black workers from a number of industries.<a href="#_edn10" name="_ednref10" title="" id="_ednref10">[10]</a> Despite drawing from across the political spectrum, including socialists, the craft unions of the AFL remained committed to mostly organizing skilled labor and pursuing &lsquo;bread and butter&rsquo; gains.</p>
+      <p>Competing with the AFL-affiliated unions, were the more radical Industrial Workers of the World (IWW). The Wobblies, as they were known, organized both unskilled and skilled workers into large industrial unions. The IWW gained a large following among timber and agricultural workers.<a href="#_edn11" name="_ednref11" title="" id="_ednref11">[11]</a> Often opposed to the more conservative AFL-affiliated unions, the IWW advocated aggressive direct action strategies such as strikes, slow-downs and industrial sabotage. Additionally, unlike the AFL, the IWW made an effort to create inclusive unions that cut across the deeply entrenched racial and ethnic boundaries that separated Seattle&rsquo;s working-class.<a href="#_edn12" name="_ednref12" title="" id="_ednref12">[12]</a> The radicalism of the IWW often brought it into conflict not only with business officials and the government, but also with the other elements of the labor movement. This made for tension among Pacific Northwest labor organizations – a tension that later proved to be an impediment to solidarity during the campaign of government repression in 1917-1918.</p>
+      <p>Further complicating the pre-war political situation in Seattle was the strong presence of the Socialist Party. The interplay between the AFL trade unions, the IWW and the Socialist Party encompassed the bulk of the radical labor and political activity in the Pacific Northwest. The Socialist Party had made significant gains in the 1910 and 1912 elections, both at the national and regional level. Nationally, the Socialist Party gained two Congressional seats and locally, the Seattle Socialists gained a number of municipal positions.<a href="#_edn13" name="_ednref13" title="" id="_ednref13">[13]</a> In 1913, Washington State claimed 202 Socialist Party locals and 3,330 dues paying members – a significant number given the state&rsquo;s overall population.<a href="#_edn14" name="_ednref14" title="" id="_ednref14">[14]</a>  But many within the party, especially those in the Pacific Northwest, were weary of the Socialists Party&rsquo;s ability to cooperate with the IWW and the AFL. On one hand, in Seattle, a number of socialists in the pre-war era held high-level positions in AFL-affiliated trade unions. For example, Hulet Wells was an avowed socialist who served as president of the AFL&rsquo;s Seattle Central Labor Council.<a href="#_edn15" name="_ednref15" title="" id="_ednref15">[15]</a>As historian Dana Frank states, &ldquo;…the leadership of the labor movement and the Socialist Party were in many cases interchangeable.&rdquo;<a href="#_edn16" name="_ednref16" title="" id="_ednref16">[16]</a> And yet, as pro-socialist as the Seattle AFL-locals may have been in the pre-war era, the Socialist Party was unsure of the Gompers-dominated national AFL organization. As for the IWW and the Socialist Party, an uneasy peace between the two organizations existed.<a href="#_edn17" name="_ednref17" title="" id="_ednref17">[17]</a> For a while, the socialists seemed comfortable playing the role of ideological middleman between the more conservative trade unions and the more revolutionary IWW. United by their common enemy in the form of the capitalist employers and anti-labor politicians, the Pacific Northwest Left was able to remain precariously aligned during the pre-war years.</p>
+      <p>The political and economic climate of pre-war Seattle was strongly influenced by radical politics and organized labor. As long as the IWW stuck to organizing unskilled workers while the AFL focused on skilled labor, a truce among the labor organizations was maintained. As for the Socialist Party, although far from being a powerful national force, key electoral victories and support from ranking members in Seattle&rsquo;s trade unions, meant that left-wing politics had a strong foothold in the Pacific Northwest.<a href="#_edn18" name="_ednref18" title="" id="_ednref18">[18]</a> Apart from the radical socialist and syndicalist elements, there also existed a large presence of progressives, liberals and pacifist church groups. If sustained radical activism was going to manifest itself anywhere in the U.S., it would be in the Pacific Northwest with Seattle as the epicenter.</p>
+      <p><strong>A Foreign War – Europe in Flames, 1914</strong></p>
+      <p>On June 28th, 1914, gunshots rang out through the streets of Sarajevo, Serbia. A Serbian assassin had killed the Crown Prince of the Austro-Hungarian Empire and ignited a chain reaction that swept through Europe. In less than two months, all of Europe was at war.<a href="#_edn19" name="_ednref19" title="" id="_ednref19">[19]</a> Almost immediately, the European Left was forced into a difficult position – stick to their ideological framework and oppose the war effort as an imperialist and capitalistic fight, or support the war effort in order to appear patriotic. Within days of the war, nearly every established Socialist Party in Europe voted in favor of the war.<a href="#_edn20" name="_ednref20" title="" id="_ednref20">[20]</a> On the other side of the Atlantic however, the reaction to the war was very different.</p>
+      <p>In the U.S., opposition to the European war cut across political and class lines. In 1914, nearly every sector of American society advocated for a policy of neutrality. Early on, President Woodrow Wilson declared, &ldquo;There is such a thing as a nation too proud to fight.&rdquo;<a href="#_edn21" name="_ednref21" title="" id="_ednref21">[21]</a> Prominent pacifist and liberal organizations soon rushed to echo the call for U.S. neutrality. The establishment peace societies centered in the Midwest and East Coast rushed to form new organizations to spread a message of amity. The most important and largest organization for this cause was the American Union against Militarism (AUAM). The AUAM grew out of the Henry Street Peace Committee - prominent pacifist group made up of elite social reformers.<a href="#_edn22" name="_ednref22" title="" id="_ednref22">[22]</a>   The new secretary of the AUAM, Roger Nash Baldwin, the prominent social worker and noted Progressive, remarked that AUAM&rsquo;s membership at the beginning of the war was &ldquo;so much more prominent nationally than [those] in any other peace organizations.&rdquo;<a href="#_edn23" name="_ednref23" title="" id="_ednref23">[23]</a> From the beginning, the  was meant to be a big tent organization that brought together Progressive liberals, trade unions, and church groups in opposition to U.S. involvement in the war.</p>
+      <p>Although the early efforts of anti-war organizations such as the AUAM introduced the possibility of a united coalition of peace activists, the rhetoric and diversity of the anti-war activists was clear at both the national and local level. Even though the various political factions in the country were largely united in favor of U.S. neutrality, the arguments against the war differed widely between establishment groups and left-wing radicals. For national peace organizations like the AUAM, opposition to the war centered on &ldquo;pacifist and civil libertarian principles.&rdquo;<a href="#_edn24" name="_ednref24" title="" id="_ednref24">[24]</a> But for more radical, left wing organizations which included the Socialist Party and IWW, opposition to the war was grounded in Marxist and class-conscious principles of anti-militarism.<a href="#_edn25" name="_ednref25" title="" id="_ednref25">[25]</a> Beginning in 1914, the Socialist Party was the political force most consistently expressing opposition to the war. Eugene Debs and the socialist Congressmen Meyer London and Victor Berger, all spoke out against the war and in favor of U.S. neutrality.</p>
+      <p> The split between national anti-war moderates in the AUAM, on one hand, and radicals on the other, was reproduced in the rhetoric of early anti-war activity in the Pacific Northwest. In Seattle, the socialist locals, IWW unions and militant farmer organizations all expressed their opposition to the war in class-based terms. Unlike national organizations, radical opposition to the war was viewed as a fight against capitalist exploitation and oppression of the working-class. Local socialists included Hulet Wells, James Duncan and several other members of the Seattle Central Labor Council (SCLC), repeatedly spoke out against the war in union meetings. Numerous union hall resolutions and party declarations were drafted and passed in the Pacific Northwest. In a statement drafted by Hulet Wells in 1914, the SCLC stated, &ldquo;…we pledge our efforts against any attempt to draw our own country into a foreign war.&rdquo;<a href="#_edn26" name="_ednref26" title="" id="_ednref26">[26]</a> In Everett, a socialist local declared that &ldquo;…we, the Socialists of the United States do hereby agree: That we shall allow the said capitalists to patriotically do all the fighting and dying for THEIR country.&rdquo;<a href="#_edn27" name="_ednref27" title="" id="_ednref27">[27]</a> The argument made by socialists in the Pacific Northwest was defiantly anti-capitalist, anti-militarist and anti-imperialist. In Everett, a Socialist local declared that &ldquo;…we, the Socialists of the United States do hereby agree: That we shall allow the said capitalists to patriotically do all the fighting and dying for THEIR country;&rdquo;<a href="#_edn28" name="_ednref28" title="" id="_ednref28">[28]</a> Labor and radical newspapers ran socialist critiques of the war as a capitalist struggle. For example, the <em>Seattle Herald</em> published an article in September 1915, entitled &ldquo;You workers must end war, or war will end you.&rdquo; It challenged the American working-class to oppose the war and described the war as the &ldquo;greatest calamity to ever befall the human race.&rdquo;<a href="#_edn29" name="_ednref29" title="" id="_ednref29">[29]</a> At the beginning of the war, even the more moderate and conservative papers like the <em>Seattle Star</em> and <em>Seattle Times</em> maintained a neutral stance.<a href="#_edn30" name="_ednref30" title="" id="_ednref30">[30]</a>Overall, in 1914, the climate in Seattle and the Pacific Northwest was more concerned with the struggles between organized labor and employers, than it was with a war that was perceived as a European affair.</p>
+      <p><strong>War Clouds Gather – The Militarization of the Nation, 1915-1916</strong></p>
+      <p>As the war entered its second year, calls for a &ldquo;Preparedness Campaign&rdquo; were telegraphed across the country. Although since 1914 the calls for national rearmament and &ldquo;military preparedness&rdquo; had been advocated by war hawks, such as former President Theodore Roosevelt; the rearmament was not seriously considered until 1915.<a href="#_edn31" name="_ednref31" title="" id="_ednref31">[31]</a> The expansion of unrestricted submarine warfare by the Germans had angered Americans and pushed national sentiments toward a more bellicose mood. In November 1915, President Wilson called for massive increases to the size of U.S armed forces, reversing his previously pacifist positions.<a href="#_edn32" name="_ednref32" title="" id="_ednref32">[32]</a>What followed was a war drive unprecedented both in size and speed in the nation&rsquo;s history. Hundreds of pro-preparedness campaigns were stages in cities throughout the country. This marked a decisive shift in the mainstream, public discourse. Nationally, the push toward war was beginning to seem inevitable.</p>
+      <p>This renewed populist militarism disturbed the socialist and IWW&rsquo;s national leadership. The calls for preparedness were met with a flurry of anti-war and anti-capitalist denouncements from the American left. The Socialist Party released a statement declaring &ldquo;We proclaim NOT ONE DOLLAR FOR MILITARISM AND MURDER!&rdquo;<a href="#_edn33" name="_ednref33" title="" id="_ednref33">[33]</a> The opposition from the left was clear and united. The Socialist Party inserted strong anti-war language into nearly every aspect of their party platform and constitution. For example, during the Socialist Party&rsquo;s elections of 1916, historian Philip Foner explains, &ldquo;the platform pledge[d] the party&rsquo;s opposition to both appropriations for war and militarism, and called for the repeal of laws that provided for increased funds for the armed forces.&rdquo;<a href="#_edn34" name="_ednref34" title="" id="_ednref34">[34]</a> The Party&rsquo;s stance differed from the AUAM which increasingly adopted what Baldwin referred to as a national platform focused on &ldquo;a defensive role.&rdquo;<a href="#_edn35" name="_ednref35" title="" id="_ednref35">[35]</a> Furthermore, the Socialist Party was the single most active national organization opposed to not only U.S. entry into the First World War, but also to militarism and imperialism writ large.</p>
+      <p>Starting in 1915 and continuing into 1916, the established peace societies were beginning to focus less on preventing war and more on containing the impact of militarism. These years marked the start of a radical transformation within the anti-war movement. Nationally, the liberal, upper-class and reform-minded peace societies had begun to side with Wilson&rsquo;s Administration and big business rather than pursue militant anti-war activities. The established pacifists and social reformers seemed unwilling to sacrifice years of respectability and prestige in opposing U.S. militarism. This left a significant vacuum in the national anti-war movement – a space that became increasingly filled by the socialists, IWW and other radical organizations.</p>
+      <p>Parallel to these political transformations, 1915 and 1916 witnessed a shift in the anti-war activities of organized labor. Initially, Samuel Gompers and the national AFL leadership had advocated U.S. neutrality in the war, along with the Wilson Administration. But as the call for military preparedness was sounded, Gompers&rsquo; seized the opportunity to insure that he and the AFL leadership had a role in planning the war effort. With the creation of the National Council of Defense in 1916, Gompers secured his place as a member of the Committee on Labor.<a href="#_edn36" name="_ednref36" title="" id="_ednref36">[36]</a> For Gompers and much of the AFL leadership, their most important objective was to secure union jobs for white, skilled labor and protect the gains of the AFL over the previous decades. This meant that far from being committed to a strong anti-war policy, Gompers was motivated to maintain friendly relations with Wilson&rsquo;s Administration in hopes of carving out economic gains for organized labor. War with Germany would mean unprecedented industrial mobilization and Gompers wanted a piece of that economic transformation.</p>
+      <p>However, even as Gompers and the national AFL leadership backed militarism and preparedness, their radical rivals, the Industrial Workers of the World remained strangely ambiguous on their anti-war activities. For the IWW, war was a product of the capitalist system and class struggle. As an anti-militarist organization, the IWW saw no need to go out of their way to try to prevent war. As long as the fundamental capitalist economic relationships remained in place, war was inevitable. Although the IWW denounced patriotism and militarism as products of bourgeois society, the IWW never created a national strategy to combat militarism or protested the U.S. entrance into the war. In a sense, a strange form of fatalism overtook much of the IWW leadership. As early as 1916, the IWW told their membership to focus on solely on class struggle and give up anti-war activities.<a href="#_edn37" name="_ednref37" title="" id="_ednref37">[37]</a> However, despite the lack of a national IWW plan to address American militarism, many individual IWW members were at the forefront of local anti-war activities. Evidence of local IWW activities, especially in the Pacific Northwest, reveal that far from remaining silent, syndicalist and other IWW radicals were highly active in the anti-war movement.</p>
+      <p>As 1916 drew to a close and war with Germany grew increasingly more likely, the peace movement in America was at a crossroads. Nationally, organizations like the AUAM were losing support among their once loyal, establishment followers. Government officials, big business, liberal social reformers and organized labor were all capitulating to the war drive – thinking it was better to keep their positions in the seats of power than challenge the U.S. government and major corporations. Over the next three years, the anti-war movement began to increasingly rely on the support of radicals, especially in militant strongholds like Seattle and the Pacific Northwest, to form the bulwark of anti-war opposition.</p>
+      <p><strong>Seattle&rsquo;s Opposition to Military Preparedness, 1915 – 1916</strong></p>
+      <p>As the national discourse shifted toward favoring the war and military preparedness, the Pacific Northwest region took on a unique and growing radical dimension. Unlike the earlier, national anti-war organizations, local activism was generally working-class and propelled more by fears of conscription then by an inherent adherence to pacifist principles. This brand of working-class anti-militarism was especially pronounced in Seattle and the Pacific Northwest. Far removed from the pre-war peace organizations based out of New York, Boston and Chicago, the anti-war movement in Seattle only started to gain traction after the beginning of the preparedness campaigns. The evidence of an emerging anti-war movement came primarily from the activities by the Seattle Central Labor Council, socialist locals, radical labor press and individual anti-militarism activists throughout the city. Starting in the spring of 1916, a large, class conscious and radical anti-war movement was building in the streets and union halls of Seattle.</p>
+      <p>In December 1915, President Wilson, still ostensibly opposed to U.S. entry into the war, nevertheless called on Congress to immediately expand military forces in order to strengthen national defense.<a href="#_edn38" name="_ednref38" title="" id="_ednref38">[38]</a> This set a wave of Americanization and Preparedness parades throughout the U.S. In Seattle, business interests and the jingoistic establishment press were eager to jump onto the war bandwagon. Beginning in early 1916, the two largest papers in the city, the <em>Seattle Times</em> and <em>Seattle Post-Intelligencer, </em>both aggressively pushed for the militarization of the city.<a href="#_edn39" name="_ednref39" title="" id="_ednref39">[39]</a> The pro-war factions in the city pursued preparedness through two primary venues in Seattle – the schools and patriotic leagues. Compulsory military training was established at high schools and the University of Washington. This resulted in a major backlash from the city&rsquo;s pacifists, radicals and organized labor. A leading representative of the anti-militarist opposition in the schools was a young radical, Anna Louise Strong. As the daughter of prominent pacifist minister Sydney Strong, Anna Louise Strong was popular with city&rsquo;s liberal middle class and the more radical working-class. Building off of this base of support, Strong gained a seat on the Seattle School Board. Together with fellow socialist board member Richard Winsor, Strong fought repeated attempts to introduce military training into the school system.<a href="#_edn40" name="_ednref40" title="" id="_ednref40">[40]</a> Winsor and Strong drew upon the support of women&rsquo;s clubs, organized labor and the Washington State Parents-Teacher Association (PTA) in their struggle against militarism. During a meeting of the Seattle Central Labor Council on May 10th, 1916, Strong spoke to the union members and presented her case against militarism and the push towards war. Supported by the President of the SCLC Hulet Wells and Secretary James Duncan, Strong&rsquo;s argument against the war was carried unanimously by all the union members present.<a href="#_edn41" name="_ednref41" title="" id="_ednref41">[41]</a> This vote, coupled with previous votes in the SCLC opposing the war, indicate a strong anti-war commitment among organized labor in the Seattle.</p>
+      <p>Nonetheless, labor&rsquo;s anti-war stance was not only motivated by pacifism or opposition to war solely on principle; Seattle largest employer&rsquo;s associations were all backing preparedness and using the rhetoric of patriotism to denounce radical and union activities. Even before war was declared, Washington business interests leveled charges of treason against workers and organizations that attempted to organize labor. Economic interests and class warfare became reframed in the language of patriotism and preparedness.<a href="#_edn42" name="_ednref42" title="" id="_ednref42">[42]</a> To be pro-business and anti-union was associated with Americanism and patriotic duty and alternatively, to be anti-capitalist and pro-union was tantamount to pro-Germanism and treason.</p>
+      <p>The mapping of class conflicts over the issue of the war and American militarism, led to increasingly militant stances on both sides of the war question. Perhaps the first dramatic illustrations of this wartime class divide were the events during the Preparedness Parade on June 10th, 1916.<a href="#_edn43" name="_ednref43" title="" id="_ednref43">[43]</a> Seattle&rsquo;s veterans, newly formed patriotic business groups and pro-war newspapers all called for &ldquo;Americans to show their Stars and Strips&rdquo; during the planned June parade. But this call to arms did not go without opposition. On May 28th, over 3,000 anti-war activists gathered at Dreamland Rink to protest the planned Preparedness Parade and form an anti-war platform. The mass protest was heavily advertised by several pacifist church groups as along with the SCLC.</p>
+      <p>During a May 24th gathering, the SCLC issued a call for the mass anti-militarism meeting to protest preparedness. At this meeting, union locals including the electrical workers, molders and carpenters all pledged to support the Council&rsquo;s anti-war stance.<a href="#_edn44" name="_ednref44" title="" id="_ednref44">[44]</a> In addition to working with other local organizations to protest preparedness, the SCLC drafted a statement to be wired to President Wilson and Congress, denouncing the Army Reorganization Bill. The following Sunday, May 28th, members of the SCLC and several other anti-militarist groups meet.<a href="#_edn45" name="_ednref45" title="" id="_ednref45">[45]</a> Although the <em>Seattle Times</em> reported the meeting in its typical anti-radical derisive tone, it is clear that the May 28th meeting included many of the labor, pacifist and radical leaders in the city. The protestors drafted a resolution rejecting the militaristic program of preparedness and endorsing a series of policy recommendations for Congress to adopt. Among the policies included in the resolution were women&rsquo;s suffrage, federal child labor legislation, unemployment insurance, higher wages, legislation to prevent the use of militia during strikes, and government ownership of the munitions industries.<a href="#_edn46" name="_ednref46" title="" id="_ednref46">[46]</a> This was a notably broad and ambitious platform. The seemingly disparate nature of the resolution reflected the diversity of the anti-militarist protestors. For many in the Seattle anti-war movement, the criticism and rejection of militarism was deeply tied to questions of worker&rsquo;s rights, class, civil liberties and gender equality. However, though the comprehensiveness of the early anti-war movement reflected its strength, a lack of cohesion and disagreement among the various elements later proved disastrous when facing government repression.</p>
+      <p>Ultimately, the actions of the anti-preparedness protestors were largely in vain. On June 10th, 1917 nearly 50,000 people participated in the Preparedness Day Parade.<a href="#_edn47" name="_ednref47" title="" id="_ednref47">[47]</a> The anti-militarism resolutions passed through the SCLC and activism on the School Board by Winsor and Strong had done little to push back the tide of war. If anything, protests from the socialists, pacifists and labor organizers had only served to further unite the government and business interests in favor of the war. Thus, the local resistance to the war mirrored the national discourse – with much of the middle classes and establishment liberals progressively seeing the futility of the anti-war cause, the radicals and anti-militarist labor organizations saw themselves increasingly isolated and vulnerable. The next two years saw some of the most devastating acts of government repression in the history of the U.S.</p>
+      <p><strong>America Goes to War - Nationalism and Conscription, 1917 – 1918</strong></p>
+      <p>The U.S. officially declared war on April 6th, 1917. Despite having campaigned on the slogan, &ldquo;He kept us out of the war;&rdquo; the recently reelected President Wilson broke his promise and plunged America into war just four months after his second inauguration. Wilson&rsquo;s betrayal of neutrality was met with little popular outrage. For a number of Americans the combination of the preparedness campaigns, patriotic fervor and a jingoistic press had convinced them that the war was necessary and just. As the hyper-patriotic <em>Seattle Star</em> wrote, &ldquo;War between the United States and Germany would spell peace for the world.&rdquo;<a href="#_edn48" name="_ednref48" title="" id="_ednref48">[48]</a> The war soon helped to justify the imprisonment, silencing and deportation of thousands of dissenters was sold as a fight to preserve freedom and democracy. </p>
+      <p>The general public was not alone in moving away from a once-solid stance for neutrality. Nationally, Samuel Gompers and the AFL leadership enthusiastically endorsed the war and encouraged locals from all over the country to send letters of support to President Wilson.<a href="#_edn49" name="_ednref49" title="" id="_ednref49">[49]</a> Much of organized labor now saw the war as an opportunity to leverage their industrial weight in return for better wages, more jobs and a more secure seat at the negotiating table. Organized labor saw a chance for advancement and they seized it. However, every AFL local did not follow the dramatic reversal by Gompers and the AFL leadership in support of the war. The labor movement was now increasingly torn by the war. Conservative, skilled labor unions were siding with Wilson and Gompers in favor of the war, while the more radical immigrant unions remained staunchly anti-war.<a href="#_edn50" name="_ednref50" title="" id="_ednref50">[50]</a> This undermined labor&rsquo;s national solidarity during the war and weakened whatever bargaining power Gompers&rsquo; had hoped to gain by siding with Wilson and the government.</p>
+      <p>In addition to the AFL abandonment of the anti-war movement, many of the national pacifist organizations collapsed with the U.S. declaration of war. Historian Robert Marchand explains that &ldquo;as the nation became absorbed in the process of mobilizing for war, they [peace activists and social workers] often found that the circumstances of national emergency offered opportunities for unprecedented advances in many of their social programs.&rdquo;<a href="#_edn51" name="_ednref51" title="" id="_ednref51">[51]</a> The establishment peace activists who had pushed for neutrality just a few years earlier, now found themselves unwilling to lose their prestige and position. Many of the most outspoken and successful anti-war advocates were quickly co-opted into the war drive. Lillian Wald, Florence Kelley, Grace Abbott and several other national anti-war figures were placed on committees of the Council of National Defense.<a href="#_edn52" name="_ednref52" title="" id="_ednref52">[52]</a> The loss of such prominent pacifist figures devastated the established peace organizations like the American Union Against Militarism. Having lost many of their most influential members, the AUAM turned from trying to prevent the war to simply minimizing its effects. Yet, under the leadership of Roger Baldwin, the AUAM also seemed more willing to reach out to radicals and pursue a much more militant anti-war program. The rise of the newly radicalized AUAM in April - May 1917, also coincided with the formation of revolutionary and radical anti-militarist organizations of the war.<a href="#_edn53" name="_ednref53" title="" id="_ednref53">[53]</a></p>
+      <p>The Socialist Party and radical labor&rsquo;s response to the declaration of war was far different than most of the anti-war establishment. Instead of backing down or changing their position, the Socialists doubled down on their radicalism. The Socialists had never been satisfied by the mainstream peace societies&rsquo; moralistic objections to war. For Socialists, the most powerful anti-war argument was that war was a product of the capitalist system. They charged that the working class fights and dies so that industry can profit. On April 7th, 1917, just one day after the U.S. officially declared war, the Socialist Party held an emergency convention in St. Louis. Far from shying away from their previous anti-war resolutions, the delegates including Kate Sadler of Washington State decided to continue active resistance of the war effort and conscription. Members were called on to agitate openly and en masse. Socialists were told to organize coalitions of radicals to oppose the war effort and disrupt military conscription. Over the next few months, Socialist locals printed anti-conscription pamphlets and staged mass meetings denouncing the evils of war. But while individual Socialists may have had an impact locally, world events were further reshaping the American radical anti-war movement.</p>
+      <p>Rounding out the newly formed coalition, radical anti-war movement groups included the People&rsquo;s Council of America for Peace and Democracy. The People&rsquo;s Council was formed in May 1917, partially as an American response to the Russian Revolution. The Council incorporated existing peace organizations, as well as bringing in more radical immigrant influences. Baldwin&rsquo;s AUAM sent delegates to the initial meeting of the People&rsquo;s Council in New York and began to transform itself into the civil liberties defense arm of the emerging radical movement. However, despite the participation of several notable liberals and the AUAM, the People&rsquo;s Council was mostly a mixed of various revolutionary Socialists.<a href="#_edn54" name="_ednref54" title="" id="_ednref54">[54]</a> Over the next few months the AUAM and the People&rsquo;s Council would play the dual roles of defending the civil liberties of those who spoke out against the war while at the same time protesting conscription. Together these organizations would carry the anti-war movement through its final stages of the war.</p>
+      <p><strong>&ldquo;Resist! Refuse!&rdquo; – Repression and Resistance in Seattle, 1917-1918</strong></p>
+      <p>In a letter dated April 26th, 1917, Roger Baldwin wrote to Anna Louise Strong congratulating her for establishing the Seattle headquarters of the AUAM. In his letter, he asks Strong for a list of labor unions and farmers&rsquo; organizations supporting the anti-militarist movement. Baldwin also inquires as to the state of the Socialist locals and expresses hope that the AUAM headquarters in Washington D.C. could continue to provide information from Congress.<a href="#_edn55" name="_ednref55" title="" id="_ednref55">[55]</a> This letter indicates that Anna Louise Strong as well as her father, Sydney Strong, remained the leading representatives of the AUAM after the declaration of war. But this letter was only the tip of Seattle&rsquo;s organized anti-militarist resistance.        </p>
+      <p>For their part, Seattle&rsquo;s organized labor continued to play a major role in opposition to the war. Meeting notes for April show that despite Gompers&rsquo; support for the war, the AFL-affiliated Seattle Central Labor Council urgently wired Congress and President Wilson to stop the push toward war. In the first month after the declaration, the SCLC also sent several letters expressing opposition to anti-war Senators and Congressmen.<a href="#_edn56" name="_ednref56" title="" id="_ednref56">[56]</a> Supporting resolutions protesting the war and conscription poured in for throughout the state – Tacoma, Spokane and associated labor unions all called the war effort into question. But the war question was now decided and in a reply letter from Senator Wesley Jones to the SCLC, the senator urged &ldquo;loyalty&rdquo; to the war cause. The war climate had already begun to demand open displays of patriotism. Even in their agitation, the SCLC was becoming increasingly aware of the risks of appearing un-American. At the April 11th meeting, the union council made time for a flag demonstration and the singing of &lsquo;patriotic&rsquo; hymns.<a href="#_edn57" name="_ednref57" title="" id="_ednref57">[57]</a></p>
+      <p>The climate of fear and anti-radicalism was now even more pronounced than during the Preparedness campaigns. Once again, the pro-war <em>Seattle Times</em> and <em>Seattle Star </em>pushed for the marginalization and persecution of any anti-war radicals. In a story run only days after the declaration of war, the <em>Seattle Star</em> wrote, &ldquo;Today, in this land of ours, there are only two classes of people. One class consists of Americans. These will stand solidly behind President Wilson. All others are TRAITORS.&rdquo;<a href="#_edn58" name="_ednref58" title="" id="_ednref58">[58]</a> And by June 1917, the language of traitors was not just rhetorical. Congress passed the Espionage Act that essentially criminalized anti-war protests. The Sedition Act later strengthened the wartime repression in 1918.<a href="#_edn59" name="_ednref59" title="" id="_ednref59">[59]</a> Together these pieces of legislation legalized the violent crushing of any organization or individuals that opposed the U.S. war effort. In Seattle, government repression and wartime patriotic mob violence decimated the local radical resistance to the war.</p>
+      <p>Despite the threat of detention and violence from pro-war and government forces, the anti-militarist community of Socialists, pacifists, teachers, preachers and IWW members issued pamphlets, held town hall meetings and organized legal funds to support the defense of anti-war dissidents.<a href="#_edn60" name="_ednref60" title="" id="_ednref60">[60]</a> The Seattle anti-war activists included the former President of the SCLC Hulet Wells, socialist Kate Sadler, AUAM organizer Anna Louise Strong and self-proclaimed anarchist Louise Olivereau. One of the first, and perhaps the most famous case of anti-war activism during this period, was Hulet Wells&rsquo; anti-war pamphlet. Written by a fellow socialist and Spanish American War veteran, Bruce Rogers, the flyer titled &ldquo;No Conscription! No Involuntary Service!&rdquo; was an open protest against the then pending draft bill.<a href="#_edn61" name="_ednref61" title="" id="_ednref61">[61]</a> It read:</p>
+      <p>Resist! Refuse! Don&rsquo;t yield the first step toward conscription. Better to be imprisoned then to renounce your freedom of conscience… seek out those who are subject to the first draft. Tell them that we are refusing to register or be conscripted and to stand with us like men, and say to the masters: &ldquo;thou shall not Prussianize America!&rdquo;</p>
+      <p>We are less concerned with autocracy that is abroad and remote than that which is immediate, imminent and at home. If we are to fight an autocracy the place to begin is where we first encounter it. If we are to break anybody's chains we must first break our own in the forging. If we must fight and die it is better that we do it upon soil that is dear to us against our masters, then for them where foreign shores will drink our blood. Better mutiny, defiance and the death of brave men with the light of morning upon our brows, than the ignominy of slaves and death with the mark of Cain and our hand spattered with the blood of those we have no reason to hate.<a href="#_edn62" name="_ednref62" title="" id="_ednref62">[62]</a></p>
+      <p> For their role in helping to publish and distribute the flyer, Hulet Wells, Sam Sadler, and Joe and Morris Pass were charged with sedition. On September 13th, 1917, the trial of Wells and his co-conspirators began. The famous labor attorney George Vanderveer represented the defendants against the prosecutor Allen Clay.<a href="#_edn63" name="_ednref63" title="" id="_ednref63">[63]</a> During the trial evidence was presented that revealed local police had been used throughout the anti-war period to spy on labor and left-wing organizations, and gathered evidence of &ldquo;anti-patriotic&rdquo; activities. This confirmed the atmosphere of fear by the left – the agents of business and government had infiltrated many of the union locals and left-wing organizations. Despite several unsuccessful efforts by Vanderveer to have the case thrown out and an impassioned speech by Wells, the first trial ended with a split jury.<a href="#_edn64" name="_ednref64" title="" id="_ednref64">[64]</a> However, this setback did not stop the state prosecutor from holding a second trial on February 1918. This time, the same judge extolled the jury to perform their patriotic duties and stated, &ldquo;There are only two sides to the war. One side is in favor of this country; the other is against it.&rdquo;<a href="#_edn65" name="_ednref65" title="" id="_ednref65">[65]</a> After a short trial, Wells and his co-conspirators were convicted of sedition and sentenced to two years.</p>
+      <p>The trial of Wells and his co-conspirators became a rallying point for Seattle&rsquo;s anti-war leftists and was closely covered by the SCLC owned <em>Seattle Union Record</em> and the newly published <em>Seattle Daily Call</em>. The <em>Daily Call</em> itself was a product of the anti-war movement.<a href="#_edn66" name="_ednref66" title="" id="_ednref66">[66]</a> In a time of radical retreat the <em>Daily Call</em> was unabashedly socialist and perhaps, featured some of the strongest anti-war critiques in the country. When the first issue ran on July 28th, 1917, the paper was the most openly &ldquo;Red&rdquo; publication in the city. The editorial line was strongly anti-capitalist and anti-militarist. Thorwald G. Mauritzen, the new editor, hired Anna Louise Strong to cover the Wells trial and other anti-war activity for the paper. The front-page story of the first edition ran a story of &ldquo;Pawnbroker&rsquo;s Patriotism&rdquo; which denounced the Washington Employers Association for using the war as cover to attack organized labor and the SCLC.<a href="#_edn67" name="_ednref67" title="" id="_ednref67">[67]</a> Despite being chronically underfunded and forced to pay commercial postage rates after being denied government second-class status, the <em>Daily Call </em>gained a following of 15,000 readers at its peak circulation. Mostly concentrated among the socialist locals and IWW workers in the shipyards and logging camps, the readership itself was a testament to the size of the anti-war movement in Seattle.<a href="#_edn68" name="_ednref68" title="" id="_ednref68">[68]</a> Furthermore, it seemed the readership could be mobilized to protest the war. In addition to anti-war editorials, the <em>Daily Call </em>prompted mass meetings against conscription. An early and notable incident reported by the <em>Daily Call </em>occurred on July 30th, 1917, when the Seattle branch of the People&rsquo;s Council invited socialist, James H. Maurer, to give a lecture on the state of the national anti-war movement and resistance to conscription. His lecture titled, &ldquo;Is Conscription Constitutional,&rdquo; was promoted by the <em>Daily Call </em>in every issue leading up to mass meeting.<a href="#_edn69" name="_ednref69" title="" id="_ednref69">[69]</a> The events on that night of the lecture came to typify the growing government violence and pro-war repression.</p>
+      <p>The night of the lecture, about fifteen minutes after Maurer began his talk soldiers and pro-war students from the University of Washington reportedly rushed the podium and broke up the talk. The chaos alarmed the nearly 5,000 people in attendance. The following day, July 31st, the <em>Daily Call</em> ran a furious headline: &ldquo;SOLDIERS BREAK UP PEACE MEETING IN SEATTLE – 5,000 CITIZENS INSULTED&rdquo;.<a href="#_edn70" name="_ednref70" title="" id="_ednref70">[70]</a> The article that followed was a devastating critique of the war, militarism and the capitalist system.</p>
+      <p>The meeting was called by the Seattle branch of the People&rsquo;s Council of America, and was not to hinder the government in efforts to raise an army, but to urge upon the people to make strenuous efforts to preserve their liberty from the threatened militarism, a sample of which was shown last night by the very tactics to be feared.<a href="#_edn71" name="_ednref71" title="" id="_ednref71">[71]</a></p>
+      <p> This set the tone for the rest of the <em>Daily Call&rsquo;s </em>issues. The paper was the only consistent anti-war publication in the city until the end of the war. Later issues continued to denounce the war hysteria by publishing cartoons and articles critical of the war effort. Still, the <em>Daily Call&rsquo;s </em>outspoken and radical stance eventually attracted the wrath of the Minute Men. On the night of January 5th, 1918, the <em>Daily Call&rsquo;s</em> print shop was attacked by a mob of pro-war militants who smashed the printing equipment and destroyed the cases of moveable type, ultimately causing $15,000 in damage.<a href="#_edn72" name="_ednref72" title="" id="_ednref72">[72]</a> Although the SCLC condemned the action and a number of anti-war activist sympathized with the <em>Daily Call</em>, little was done to address this type of violence against the left in Seattle.</p>
+      <p>As the political persecution increased, anti-war activities were contained as leading activists were arrested, deported or fired from their jobs. Kate Sadler, the city&rsquo;s leading socialist was repeatedly arrested, as was her husband Sam Sadler.<a href="#_edn73" name="_ednref73" title="" id="_ednref73">[73]</a> Anna Louise Strong faced a recall election in March 1918 after the Minute Men collected signatures opposing her radical policies as part of the Seattle School Board. The recall election served as a referendum to demonstrate the division of the city – Strong was only narrowly defeated with 21,447 against 27,167 votes.<a href="#_edn74" name="_ednref74" title="" id="_ednref74">[74]</a> Strong was supported by organized labor and socialists while the opposition brought together business interest and Seattle&rsquo;s establishment to defeat Strong.</p>
+      <p>In addition to Wells, Sadler and Strong, other activists were persecuted during this period including IWW member and anarchist – Louise Olivereau. She had been active in drafting and distributing anti-draft pamphlets which encouraged young men to refuse to serve in the war. A typist and possibly a schoolteacher, Olivereau led a rather unremarkable life before the war. However, in September 1917, during a local raid of an IWW meeting hall which was also part of a nationwide effort, police discovered anti-war pamphlets belonging to Olivereau.<a href="#_edn75" name="_ednref75" title="" id="_ednref75">[75]</a> Instead of denying that the pamphlets were hers, Olivereau declared them to be her private property. What followed was a courtroom drama rarely seen since. Olivereau refused to denounce her radical beliefs and openly declared that she was anti-war and an anarchist. &ldquo;The rights of free speech, free assemblage, and free press, are guaranteed to the people of this nation in its Constitution;&rdquo; Olivereau declared, &ldquo;but we have never had really free speech, nor a really free press, nor a really freedom of assemblage; it has always been limited to &lsquo;freedom within the law,&rsquo; which is not freedom at all.&rdquo;<a href="#_edn76" name="_ednref76" title="" id="_ednref76">[76]</a> This rousing defense of radicalism and freedom did little to help sway the jury. Sentenced to serve 10 years in federal prison, Olivereau quickly became recognized as one of the &ldquo;class-war&rdquo; prisoners of anti-war movement.<a href="#_edn77" name="_ednref77" title="" id="_ednref77">[77]</a></p>
+      <p>Olivereau was just one of the hundreds of Wobblies eventually jailed or deported. Although the IWW leadership had advised their members not to agitate against the war and to turn all of their energies toward class struggle, many formed an important part of the anti-war left in Seattle. However, regardless of the IWW&rsquo;s involvement in anti-war activities, they were not able to avoid controversy. The government and business interests had planned to use the war to destroy the IWW, the primary subversive target under the Sedition and Espionage Acts.<a href="#_edn78" name="_ednref78" title="" id="_ednref78">[78]</a></p>
+      <p>This led to an unprecedented level of wartime repression of the IWW. In Seattle and the Pacific Northwest, meeting halls were destroyed, leaders imprisoned and foreign-born IWW members deported. This wartime repression of the IWW is chronicled in Albert Gunn&rsquo;s book, <em>Civil Liberties in Crisis: The Pacific Northwest, 1917-1940. </em>In his study of IWW repression during the war, Gunn finds that during a six-month period from May 1st to November 1st 1918, the IWW was prosecuted more often than any other organization.<a href="#_edn79" name="_ednref79" title="" id="_ednref79">[79]</a> The Seattle division of the American Protective League, a pro-war patriotic organization, brought 1,198 cases to trial on charges of &ldquo;IWW agitation.&rdquo;<a href="#_edn80" name="_ednref80" title="" id="_ednref80">[80]</a> In Seattle, the effort to use the anti-radical wartime powers to eliminate the IWW involved nearly every part of city and state government, as well as vigilante organizations like the Minute Men. In the spring of 1918, the Minute Men assisted in arresting over 200 Wobblies who were then marked for deportation. Unlike the socialists or other radical groups targeted during the war, the Wobblies were systematical rooted out and targeted with exceptional charges. The result of these charges was often deportation and the dismantling of IWW meeting halls.<a href="#_edn81" name="_ednref81" title="" id="_ednref81">[81]</a> As a result of such concentrated repression, the IWW emerged from the World War I irreparably damaged both as an organization and ideologically.</p>
+      <p> <strong>World War I in Perspective – America&rsquo;s First Working Class Anti-War Movement</strong></p>
+      <p>The American anti-war movement during the First World War must be remembered as much for its successes as its failures. History recalls the opposition to the American entry into the war as a stemming from the work of a few radicals and social activists<strong>. </strong>The civil libertarian principles of Roger Baldwin and his National Civil Liberties Bureau live on the in the work of the ACLU. Jane Addams&rsquo; pacifist stance and push for social reform helped pave the way for contemporary social workers. Eugene V. Debs&rsquo; now famous Canton, Ohio speech is held as a masterpiece of American civil disobedience. But this narrative of history, this cataloging of great leaders of the anti-war movement, ignores the everyday heroics of ordinary people in resisting American militarism. The working-class movement that opposed the war during the most repressive and dangerous times articulated a vision to not just stop the war, but to fundamentally restructure American society. The radical anti-militarist movement of 1917 to 1919, especially in Seattle, is arguably the closest the U.S. has come to mass, left wing revolution in the 20th century. In a time when the nation finds itself struggling find an end to the Global War on Terror and a growing military-industrial complex, it may be time to once again recall  that old headline from a socialist daily – &ldquo;You workers must end war, or war will end you.&rdquo;</p>
+      <p>           <span style="mso-element: footnote-list"><br clear="all" />
+      <strong>Copyright (c) 2014 Rutger Ceballos<br />
+      HSTAA 498 Fall 2013; HSTAA 499 Spring 2014
+      </strong></span></p>
+      <p>           </p>
     </div>
-    
+    <div><br clear="all" />
+      <hr align="left" size="1" width="33%" />
+      <div id="edn1">
+        <p><a href="#_ednref1" name="_edn1" title="" id="_edn1">[1]</a> C. Roland Marchand, <em>The American Peace Movement and Social Reform: 1898-1918</em> (Princeton (N.Y.): Princeton University Press, 1972), 10-11.</p>
+      </div>
+      <div id="edn2">
+        <p><a href="#_ednref2" name="_edn2" title="" id="_edn2">[2]</a> Ibid, pg. 260</p>
+      </div>
+      <div id="edn3">
+        <p><a href="#_ednref3" name="_edn3" title="" id="_edn3">[3]</a> Ibid, pg. 181</p>
+      </div>
+      <div id="edn4">
+        <p><a href="#_ednref4" name="_edn4" title="" id="_edn4">[4]</a> Jeffrey A. Johnson, <em>&quot;They Are All Red out Here&quot;: Socialist Politics in the Pacific Northwest, 1895-1925</em> (Norman: University of Oklahoma Press, 2008), 117 - 118. </p>
+      </div>
+      <div id="edn5">
+        <p><a href="#_ednref5" name="_edn5" title="" id="_edn5">[5]</a> Ibid, pg. 144</p>
+      </div>
+      <div id="edn6">
+        <p><a href="#_ednref6" name="_edn6" title="" id="_edn6">[6]</a> Richard C. Berner, <em>Seattle 1900-1920: From Boomtown, Urban Turbulence, to Restoration</em> (Seattle, WA: Charles Press, 1991), 6.</p>
+      </div>
+      <div id="edn7">
+        <p><a href="#_ednref7" name="_edn7" title="" id="_edn7">[7]</a> Ibid, pg. 4-5</p>
+      </div>
+      <div id="edn8">
+        <p><a href="#_ednref8" name="_edn8" title="" id="_edn8">[8]</a> Dana Frank, <em>Purchasing Power: Consumer Organizing, Gender, and the Seattle Labor Movement, 1919-1929</em> (Cambridge: Cambridge University Press, 1994), 19.</p>
+      </div>
+      <div id="edn9">
+        <p><a href="#_ednref9" name="_edn9" title="" id="_edn9">[9]</a> Ibid.</p>
+      </div>
+      <div id="edn10">
+        <p><a href="#_ednref10" name="_edn10" title="" id="_edn10">[10]</a> Ibid, pg. 20</p>
+      </div>
+      <div id="edn11">
+        <p><a href="#_ednref11" name="_edn11" title="" id="_edn11">[11]</a> Ibid.</p>
+      </div>
+      <div id="edn12">
+        <p><a href="#_ednref12" name="_edn12" title="" id="_edn12">[12]</a> Ibid.</p>
+      </div>
+      <div id="edn13">
+        <p><a href="#_ednref13" name="_edn13" title="" id="_edn13">[13]</a> Johnson, pg. 90-91</p>
+      </div>
+      <div id="edn14">
+        <p><a href="#_ednref14" name="_edn14" title="" id="_edn14">[14]</a> Johnson, pg. 118</p>
+      </div>
+      <div id="edn15">
+        <p><a href="#_ednref15" name="_edn15" title="" id="_edn15">[15]</a> Wells, Hulet, &ldquo;I Wanted to Work&rdquo;, (unpublished manuscript) Accession 422-4, University of Washington Libraries, Special Collections Division, Box 2, Folder 5, pg. 181 </p>
+      </div>
+      <div id="edn16">
+        <p><a href="#_ednref16" name="_edn16" title="" id="_edn16">[16]</a> Frank, pg. 20</p>
+      </div>
+      <div id="edn17">
+        <p><a href="#_ednref17" name="_edn17" title="" id="_edn17">[17]</a> Johnson, pg. 67</p>
+      </div>
+      <div id="edn18">
+        <p><a href="#_ednref18" name="_edn18" title="" id="_edn18">[18]</a> Berner, pg.160</p>
+      </div>
+      <div id="edn19">
+        <p><a href="#_ednref19" name="_edn19" title="" id="_edn19">[19]</a> Philip S. Foner, <em>Labor and World War I: 1914-1918</em>, vol. 7, History of the Labor  Movement in the United States (New York: International Publ., 1987), 1. </p>
+      </div>
+      <div id="edn20">
+        <p><a href="#_ednref20" name="_edn20" title="" id="_edn20">[20]</a> Ibid, pg. 3</p>
+      </div>
+      <div id="edn21">
+        <p><a href="#_ednref21" name="_edn21" title="" id="_edn21">[21]</a> Howard Zinn, <em>A People's History of the United States: 1492 to Present</em> (New York: Harper Perennial, 1995), 361.</p>
+      </div>
+      <div id="edn22">
+        <p><a href="#_ednref22" name="_edn22" title="" id="_edn22">[22]</a> Robert C. Cottrell, &quot;Roger Nash Baldwin, the National Civil Liberties Bureau, and Military Intelligence During World War I,&quot; <em>The Historian</em> 60, no. 1 (1997): 89.</p>
+      </div>
+      <div id="edn23">
+        <p><a href="#_ednref23" name="_edn23" title="" id="_edn23">[23]</a> Ibid, pg. 90<strong></strong></p>
+      </div>
+      <div id="edn24">
+        <p><a href="#_ednref24" name="_edn24" title="" id="_edn24">[24]</a> Ibid.</p>
+      </div>
+      <div id="edn25">
+        <p><a href="#_ednref25" name="_edn25" title="" id="_edn25">[25]</a> Johnson, pg. 143</p>
+      </div>
+      <div id="edn26">
+        <p><a href="#_ednref26" name="_edn26" title="" id="_edn26">[26]</a> Wells, pg. 180</p>
+      </div>
+      <div id="edn27">
+        <p><a href="#_ednref27" name="_edn27" title="" id="_edn27">[27]</a> Harvey O'Connor, <em>Revolution in Seattle, a Memoir</em> (New York: Monthly Review Press, 1964), 81. </p>
+      </div>
+      <div id="edn28">
+        <p><a href="#_ednref28" name="_edn28" title="" id="_edn28">[28]</a> Quoted by O&rsquo;Connor, pg. 81</p>
+      </div>
+      <div id="edn29">
+        <p><a href="#_ednref29" name="_edn29" title="" id="_edn29">[29]</a> Labor Press Project, <em>The Socialist Herald</em>, (September 3, 1915, p.1) </p>
+      </div>
+      <div id="edn30">
+        <p><a href="#_ednref30" name="_edn30" title="" id="_edn30">[30]</a> Roger Sale, &quot;Seattle's Crisis 1914-1919,&quot; <em>American Studies</em> 14, no. 1 (April 01, 1973): 32, accessed March 14, 2014, JSTOR.</p>
+      </div>
+      <div id="edn31">
+        <p><a href="#_ednref31" name="_edn31" title="" id="_edn31">[31]</a> Foner, pg. 13</p>
+      </div>
+      <div id="edn32">
+        <p><a href="#_ednref32" name="_edn32" title="" id="_edn32">[32]</a> Ibid.</p>
+      </div>
+      <div id="edn33">
+        <p><a href="#_ednref33" name="_edn33" title="" id="_edn33">[33]</a> Ibid.</p>
+      </div>
+      <div id="edn34">
+        <p><a href="#_ednref34" name="_edn34" title="" id="_edn34">[34]</a> Ibid, pg. 17</p>
+      </div>
+      <div id="edn35">
+        <p><a href="#_ednref35" name="_edn35" title="" id="_edn35">[35]</a> Cottrell, pg. 90</p>
+      </div>
+      <div id="edn36">
+        <p><a href="#_ednref36" name="_edn36" title="" id="_edn36">[36]</a> Foner, pg. 99</p>
+      </div>
+      <div id="edn37">
+        <p><a href="#_ednref37" name="_edn37" title="" id="_edn37">[37]</a> O&rsquo;Connor, pg. 86-87</p>
+      </div>
+      <div id="edn38">
+        <p><a href="#_ednref38" name="_edn38" title="" id="_edn38">[38]</a> Foner, pg. 64</p>
+      </div>
+      <div id="edn39">
+        <p><a href="#_ednref39" name="_edn39" title="" id="_edn39">[39]</a> Albert F. Gunns, <em>Civil Liberties in Crisis: The Pacific Northwest, 1917-1940</em> (New York: Garland Pub., 1983), 3.</p>
+      </div>
+      <div id="edn40">
+        <p><a href="#_ednref40" name="_edn40" title="" id="_edn40">[40]</a> Berner, pg. 229 – 230</p>
+      </div>
+      <div id="edn41">
+        <p><a href="#_ednref41" name="_edn41" title="" id="_edn41">[41]</a> King County Central Labor Council, &ldquo;Meeting Minutes&rdquo;, May 10th, 1916. Accession no. 1940-001, University of Washington Libraries, Special Collections Division, Box 17, pg. 106</p>
+      </div>
+      <div id="edn42">
+        <p><a href="#_ednref42" name="_edn42" title="" id="_edn42">[42]</a> Gunn, pg. 4</p>
+      </div>
+      <div id="edn43">
+        <p><a href="#_ednref43" name="_edn43" title="" id="_edn43">[43]</a> <em>Seattle Times</em>, May 27th, 1916</p>
+      </div>
+      <div id="edn44">
+        <p><a href="#_ednref44" name="_edn44" title="" id="_edn44">[44]</a> SCLC, &ldquo;Meeting Notes&rdquo;, May 24th, 1916</p>
+      </div>
+      <div id="edn45">
+        <p><a href="#_ednref45" name="_edn45" title="" id="_edn45">[45]</a> O&rsquo;Connor, pg. 83</p>
+      </div>
+      <div id="edn46">
+        <p><a href="#_ednref46" name="_edn46" title="" id="_edn46">[46]</a> <em>Seattle Times</em>, May 29th, 1916</p>
+      </div>
+      <div id="edn47">
+        <p><a href="#_ednref47" name="_edn47" title="" id="_edn47">[47]</a> Seattle Times, June 11th, 1916</p>
+      </div>
+      <div id="edn48">
+        <p><a href="#_ednref48" name="_edn48" title="" id="_edn48">[48]</a> Sales, pg. 33</p>
+      </div>
+      <div id="edn49">
+        <p><a href="#_ednref49" name="_edn49" title="" id="_edn49">[49]</a> Foner, pg. 108</p>
+      </div>
+      <div id="edn50">
+        <p><a href="#_ednref50" name="_edn50" title="" id="_edn50">[50]</a> Ibid.</p>
+      </div>
+      <div id="edn51">
+        <p><a href="#_ednref51" name="_edn51" title="" id="_edn51">[51]</a> Marchand, pg. 261</p>
+      </div>
+      <div id="edn52">
+        <p><a href="#_ednref52" name="_edn52" title="" id="_edn52">[52]</a> Ibid, pg. 262-263</p>
+      </div>
+      <div id="edn53">
+        <p><a href="#_ednref53" name="_edn53" title="" id="_edn53">[53]</a> Ibid, pg. 266</p>
+      </div>
+      <div id="edn54">
+        <p><a href="#_ednref54" name="_edn54" title="" id="_edn54">[54]</a> Ibid, pg. 295-296</p>
+      </div>
+      <div id="edn55">
+        <p><a href="#_ednref55" name="_edn55" title="" id="_edn55">[55]</a> Anna Louise Strong Papers, &ldquo;Baldwin to Strong&rdquo;, April 26th, 1917. Accession no. 1309-1, University of Washington Libraries, Special Collections Division, Box 1, Folder 17.</p>
+      </div>
+      <div id="edn56">
+        <p><a href="#_ednref56" name="_edn56" title="" id="_edn56">[56]</a> SCLC, &ldquo;Meeting Notes&rdquo;, April, 1917</p>
+      </div>
+      <div id="edn57">
+        <p><a href="#_ednref57" name="_edn57" title="" id="_edn57">[57]</a> Ibid, April 11th, 1917</p>
+      </div>
+      <div id="edn58">
+        <p><a href="#_ednref58" name="_edn58" title="" id="_edn58">[58]</a> Sales, pg. 33</p>
+      </div>
+      <div id="edn59">
+        <p><a href="#_ednref59" name="_edn59" title="" id="_edn59">[59]</a> Foner, pg. 296 - 297</p>
+      </div>
+      <div id="edn60">
+        <p><a href="#_ednref60" name="_edn60" title="" id="_edn60">[60]</a> Wells, pg. 198</p>
+      </div>
+      <div id="edn61">
+        <p><a href="#_ednref61" name="_edn61" title="" id="_edn61">[61]</a> Ibid</p>
+      </div>
+      <div id="edn62">
+        <p><a href="#_ednref62" name="_edn62" title="" id="_edn62">[62]</a> Gunn, pg. 7</p>
+      </div>
+      <div id="edn63">
+        <p><a href="#_ednref63" name="_edn63" title="" id="_edn63">[63]</a> Wells, pg. 198-199</p>
+      </div>
+      <div id="edn64">
+        <p><a href="#_ednref64" name="_edn64" title="" id="_edn64">[64]</a> Wells, pg. 200</p>
+      </div>
+      <div id="edn65">
+        <p><a href="#_ednref65" name="_edn65" title="" id="_edn65">[65]</a> Wells, pg. 202</p>
+      </div>
+      <div id="edn66">
+        <p><a href="#_ednref66" name="_edn66" title="" id="_edn66">[66]</a> O&rsquo;Connor, pg. 89</p>
+      </div>
+      <div id="edn67">
+        <p><a href="#_ednref67" name="_edn67" title="" id="_edn67">[67]</a> Seattle Daily Call, &ldquo;Pawnbroker&rsquo;s Patriotism&rdquo;, pg. 1, July 28th 1917.</p>
+      </div>
+      <div id="edn68">
+        <p><a href="#_ednref68" name="_edn68" title="" id="_edn68">[68]</a> O&rsquo;Connor, pg. 92</p>
+      </div>
+      <div id="edn69">
+        <p><a href="#_ednref69" name="_edn69" title="" id="_edn69">[69]</a> Seattle Daily Call, &ldquo;Pawnbroker&rsquo;s Patriotism&rdquo;, pg. 2, July 28th 1917.</p>
+      </div>
+      <div id="edn70">
+        <p><a href="#_ednref70" name="_edn70" title="" id="_edn70">[70]</a> Seattle Daily Call, July 31st, 1917</p>
+      </div>
+      <div id="edn71">
+        <p><a href="#_ednref71" name="_edn71" title="" id="_edn71">[71]</a> Ibid.</p>
+      </div>
+      <div id="edn72">
+        <p><a href="#_ednref72" name="_edn72" title="" id="_edn72">[72]</a> <em>Seattle Daily Call</em>, January 7th, 1918</p>
+      </div>
+      <div id="edn73">
+        <p><a href="#_ednref73" name="_edn73" title="" id="_edn73">[73]</a> O&rsquo;Connor, pg. 96</p>
+      </div>
+      <div id="edn74">
+        <p><a href="#_ednref74" name="_edn74" title="" id="_edn74">[74]</a> Berner, pg. 231</p>
+      </div>
+      <div id="edn75">
+        <p><a href="#_ednref75" name="_edn75" title="" id="_edn75">[75]</a> Parkhurst, <em>Louise Olivereau</em>, p. 13</p>
+      </div>
+      <div id="edn76">
+        <p><a href="#_ednref76" name="_edn76" title="" id="_edn76">[76]</a> Ibid, pg. 23 -24</p>
+      </div>
+      <div id="edn77">
+        <p><a href="#_ednref77" name="_edn77" title="" id="_edn77">[77]</a> <em>Seattle Daily Call</em>, October 15th, 1917</p>
+      </div>
+      <div id="edn78">
+        <p><a href="#_ednref78" name="_edn78" title="" id="_edn78">[78]</a> Foner, pg. 293</p>
+      </div>
+      <div id="edn79">
+        <p><a href="#_ednref79" name="_edn79" title="" id="_edn79">[79]</a> Gunn, pg. 15</p>
+      </div>
+      <div id="edn80">
+        <p><a href="#_ednref80" name="_edn80" title="" id="_edn80">[80]</a> Ibid.</p>
+      </div>
+      <div id="edn81">
+        <p><a href="#_ednref81" name="_edn81" title="" id="_edn81">[81]</a> Gunn, pg. 17 -19</p>
+      </div>
     </div>
-</header></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget pageBody none no-margin widget-none  widget-compact-all" id="f1e3800b-faee-4429-98d1-0653d2475ce9"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><!--begin pagefulltext-->
-<div class="page-body pagefulltext">
-    <div data-pb-dropzone="main">
-    
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget layout-two-columns none no-margin widget-none  widget-compact-all" id="e8eff46b-a64f-4a3f-a1c1-1a1c9ab924bc"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='MainTwoColumns'>
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
-    <div class="width_1_4">
-        <div data-pb-dropzone="left" class="pb-autoheight">
-        </div>
-    </div>
-    <div class="width_3_4">
-        <div data-pb-dropzone="right" class="pb-autoheight">
-        </div>
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-    </div>
-</div><!--end pagefulltext--></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget pageFooter none emphasized-bg-color hkjHeaderFooter widget-none  widget-compact-all" id="fe812320-6567-442a-9c2f-bda7e859fb50"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><footer class="page-footer">
-    <div data-pb-dropzone="main">
-    
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget layout-one-column none  widget-none  widget-compact-all" id="31ee5644-6635-4810-ae81-4f13eda08650"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid">
-    <div class="width_1_1">
-        <div data-pb-dropzone="center">
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="f51af0a4-84c7-4d57-bd86-9f1492d685b9"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><table style="width:100%;" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td id="dc_44492" align="center"  bgcolor="#3c6386" valign="middle" > <span class="WYSEdit N161"><span style=" color:#ffffff; "><p><span style="font-family: arial, helvetica, sans-serif; font-size: 12.5pt;">Learn more about Human Kinetics by connecting with us below! </span></p></span></span> </td>
-	</tr></tbody></table><br></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget layout-two-columns none  widget-none  widget-compact-all" id="5eb96fea-188e-4145-8088-f5e956b54c18"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
-    <div class="width_5_8">
-        <div data-pb-dropzone="left" class="pb-autoheight">
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="942cdf1b-c7c6-4c9a-9529-0834a27dba9e"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='HK-Menu-Bottom'>
-            
-            <div class="widget-body body body-none  body-compact-all"><table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td id="dc_44517" align="left" valign="top" width="140"> <table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td id="dc_44296" height="22" align="left" valign="top"> <span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  font-weight:bold; color:#333333; "><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #333333;">About Our Products</span></span></span> </td></tr><tr>
-	<td id="dc_44297" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/excerpts/excerpts" target="_blank"><span class="WYSEdit N161"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Book Excerpts</span></span></a> </td></tr><tr>
-	<td id="dc_44298" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/catalogs" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Catalogs </span></span></a> </td></tr><tr>
-	<td id="dc_44299" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/news-and-excerpts" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> News and Articles </span></span></a> </td></tr><tr>
-	<td id="dc_44301" height="10" align="left" valign="top"> </td></tr><tr>
-	<td id="dc_44302" height="22" align="left" valign="top"> <a href="http://www.humankinetics.com/AboutUs" target="_blank"><span class="WYSEdit N161"><span style="font-size:10pt;  font-weight:bold; color:#333333; "> <span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">About Us</span> </span></span></a> </td></tr><tr>
-	<td id="dc_44303" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/careers" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Career Opportunities </span></span></a> </td></tr><tr>
-	<td id="dc_44306" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/businesstobusiness" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Business to Business </span></span></a> </td></tr><tr>
-	<td id="dc_47424" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/author-center-writing-for-human-kinetics" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Book Author Center </span></span></a> </td></tr><tr>
-</tr></tbody></table></td>
-	<td id="dc_44518" align="left" bgcolor="#FFFFFF" valign="top" width="50"> </td>
-	<td id="dc_44519" align="left" valign="top" width="160"> <table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td id="dc_44307" height="22" align="left" valign="top"> <a href="http://www.humankinetics.com/Home" target="_blank"><span class="WYSEdit N161"><span style="font-size:10pt;  font-weight:bold; color:#333333; "> <span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">Services</span> </span></span></a> </td></tr><tr>
-	<td id="dc_44308" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/exam-desk-copy-request-form" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Exam/Desk Copies </span></span></a> </td></tr><tr>
-	<td id="dc_44309" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/translationrights" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Language Rights Translation </span></span></a> </td></tr><tr>
-	<td id="dc_44310" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/business-to-business/association-management1" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Association Management </span></span></a> </td></tr><tr>
-	<td id="dc_44311" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/associate-program" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Associate Program </span></span></a> </td></tr><tr>
-	<td id="dc_44312" height="15" align="left" valign="top"> <a href="http://www.humankinetics.com/hksupportperms" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Rights and Permissions </span></span></a> </td></tr></tbody></table></td>
-	<td id="dc_44520" align="left" bgcolor="#FFFFFF" valign="top" width="50"> </td>
-	<td id="dc_44521" align="left" valign="top" width="180"> <table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td id="dc_44313" height="22" align="left" valign="top"> <a><span class="WYSEdit N161"><span style="font-size:10pt;  font-weight:bold; color:#333333; "> <span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Featured Programs</span> </span></span></a> </td></tr><tr>
-	<td id="dc_44314" height="15" align="left" valign="top"> <a href="http://www.asep.com/" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Human Kinetics Coach Education </span></span></a> </td></tr><tr>
-	<td id="dc_44315" height="15" align="left" valign="top"> <a href="http://www.fitnessgram.net" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> <span>Fitnessgram</span> </span></span></a> </td></tr><tr>
-	<td id="dc_44316" height="15" align="left" valign="top"> <a href="http://www.fitnessforlife.org/" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Fitness for Life </span></span></a> </td></tr><tr>
-	<td id="dc_44317" height="15" align="left" valign="top"> <a href="http://www.activeliving.info/" target="_blank"><span class="WYSEdit N161"><span style="font-family:Arial; font-size:10pt;  "> Active Living Every Day </span></span></a> </td></tr></tbody></table></td>
-	<td id="dc_44522" align="left" bgcolor="#FFFFFF" valign="top" width="50"> </td>
-	</tr></tbody></table></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
-    <div class="width_3_8">
-        <div data-pb-dropzone="right" class="pb-autoheight">
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="d3f00bbf-8e23-4e15-b88e-3776fb775213"  >
-        
-        
-            
-        
-
-        <div class="wrapped " id='HKJ-Social'>
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="bs">
-
-
-              <div class="pull-right links" >
-                   <a href="http://pinterest.com/humankinetics/" target="_blank" class="sm-icon pin"></a>
-                </div>
-                <div class="pull-right links">
-                 <a href="http://humankinetics.tumblr.com/" target="_blank" class="sm-icon tumblr"></a>
-                </div>
-            <div class="pull-right links">
-                    <a href="http://www.youtube.com/user/HumanKineticsUSA/featured" target="_blank" class="sm-icon youtube"></a>
-                </div> 
-<div class="pull-right links">
-              <a href="https://plus.google.com/+HumanKineticsUSA/posts" target="_blank" class="sm-icon gp"></a>
-            </div>
-            <div class="pull-right links">
-                <a href="https://twitter.com/human_kinetics" target="_blank" class="sm-icon twitter"></a>
-            </div>
-            <div class="pull-right links">
-                <a href="https://www.facebook.com/HumanKinetics" target="_blank" class="sm-icon fb"></a>
-            </div>
-        </div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html alignCenter  widget-none" id="7472a419-c512-4d65-a46a-b49a3df2355d"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><table style="width:inherit;" cellpadding="0" cellspacing="0"><tbody><tr>
-    <td id="dc_44341" align="center" valign="top" > <a href="http://www.humankinetics.com/terms-and-conditions" target="_blank"><span class="WYSEdit N161"><span style="font-size:9pt;  ">Terms &amp; Conditions</span></span></a> </td>
-    <td id="dc_44342" align="right" bgcolor="#FFFFFF" valign="top" width="4"> </td>
-    <td id="dc_44343" align="center" valign="top" width="4"> <span class="WYSEdit N161"><span style="font-size:9pt;  color:#999999; ">/</span></span> </td>
-    <td id="dc_44344" align="right" bgcolor="#FFFFFF" valign="top" width="4"> </td>
-    <td id="dc_44345" align="center" valign="top" > <a href="http://www.humankinetics.com/privacy-policy" target="_blank"><span class="WYSEdit N161">Privacy Policy</span></a> </td>
-    <td id="dc_44346" align="right" bgcolor="#FFFFFF" valign="top" width="4"> </td>
-    <td id="dc_44347" align="center" valign="top" width="4"> <span class="WYSEdit N161"><span style="font-size:9pt;  color:#999999; ">/</span></span> </td>
-    <td id="dc_44348" align="right" bgcolor="#FFFFFF" valign="top" width="4"> </td>
-    <td id="dc_44349" align="center" valign="top" > <a href="http://www.humankinetics.com/safe-harbor" target="_blank"><span class="WYSEdit N161"><span style="font-size:9pt;  ">Safe Harbor</span></span></a> </td></tr></tbody></table></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html alignCenter  widget-none" id="78578d4b-2718-41dc-90cd-3acbe9ed9d38"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none ">Powered by <a href="http://www.atypon.com/" target="new">Atypon® Literatum</a></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none" id="572f898a-b80d-4f54-b57e-c0ec32276ba1"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><br></div>
-        </div>
-    </div>
-    
-    </div>
-</footer></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
+    <p>&nbsp;</p>
+   
+  <!-- end #mainContent --></div>
+  
+  <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+  <div id="footer">
+   &copy;2009-present&nbsp; | &nbsp;<a href="about.shtml" style="color:black;text-decoration:none;">About project</a>&nbsp; |&nbsp;<a href="http://depts.washington.edu/labhist/copyright.shtml" style="color:black;text-decoration:none;">How to cite and copyright information</a> &nbsp;|&nbsp;<a href="http://depts.washington.edu/labhist/" style="color:black;text-decoration:none;">Pacific Northwest Labor and Civil Rights Projects | University of Washington</a>&nbsp;
+  </div>
+<!-- end #container --></div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
 </body>
 </html>

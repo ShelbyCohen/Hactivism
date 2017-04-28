@@ -1,0 +1,676 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7]>
+<html id="ie7" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<![endif]-->
+<!--[if (gt IE 7) | (!IE)]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<!--<![endif]-->
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nineteenth Century Free Love and the Politics of Location, a Historiography | Polywog</title>
+
+	<style type="text/css" media="screen">
+		@import url( https://s0.wp.com/wp-content/themes/pub/rubric/style.css );
+	</style>
+
+	<link rel="pingback" href="https://polywog.wordpress.com/xmlrpc.php" />
+	<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Polywog &raquo; Feed" href="https://polywog.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Polywog &raquo; Comments Feed" href="https://polywog.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Polywog &raquo; Nineteenth Century Free Love and the Politics of Location, a&nbsp;Historiography Comments Feed" href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJx9j1tuAyEMRTcU4lbKqx9V1wLEYZzYGAGjKLsPk2fbRPyge9E5NsAxGa+xYqwgo0k8BooFjsmrmCLEePrX5r6UGbzXmA5YYI81WX8wl9bDvWZs95JsnQjBLVlklIb1NEmruzXFoe3qrrk+37mUsRTTTqFRTB3aoptHELVSU8sj9AYGVMPqbSWNf4rZsaXcUzM61tBigEb9qj3J+mm4s/mZXvDrd2BYQGB1lifgR74/F18f681quVnuz7vwt88=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://polywog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/" />
+<link rel='shortlink' href='http://wp.me/P8sAi-2Y' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fpolywog.wordpress.com%2Fnineteenth-century-free-love-and-the-politics-of-location-a-historiography%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fpolywog.wordpress.com%2Fnineteenth-century-free-love-and-the-politics-of-location-a-historiography%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Nineteenth Century Free Love and the Politics of Location, a Historiography" />
+<meta property="og:url" content="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/" />
+<meta property="og:description" content="&nbsp; The free love movement of the late nineteenth and early twentieth century contributes precious insights to the history of American radicalism. Historians have understood the movement to enco…" />
+<meta property="article:published_time" content="2008-03-06T05:35:03+00:00" />
+<meta property="article:modified_time" content="2008-03-06T05:37:17+00:00" />
+<meta property="og:site_name" content="Polywog" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://polywog.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://polywog.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://polywog.wordpress.com/osd.xml" title="Polywog" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style id="wpcom-hotfix-masterbar-style">
+			@media screen and (min-width: 783px) {
+				#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img {
+					margin-top: 5px;
+				}
+			}
+		</style>
+		<meta name="application-name" content="Polywog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://polywog.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Nineteenth Century Free Love and the Politics of Location, a&nbsp;Historiography | Polywog on WordPress.com" />
+<meta name="description" content="&nbsp; The free love movement of the late nineteenth and early twentieth century contributes precious insights to the history of American radicalism. Historians have understood the movement to encompass a mosaic of characteristics: it was a radical critique of marriage; a movement against marital rape; an upsurge of radical male and female feminists; a rejection&hellip;" />
+<style type="text/css">
+#header{
+	background: url(https://s0.wp.com/wp-content/themes/pub/rubric/images/rubric/pen-sm.jpg) no-repeat top right;
+}
+#header a {
+	color:#B54141;
+}
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="page-template-default page page-id-184 mp6 customizer-styles-applied highlander-enabled highlander-light">
+<div id="rap">
+<h1 id="header"><a href="https://polywog.wordpress.com/">Polywog</a></h1>
+
+<div id="content">
+<!-- end header -->
+
+
+<div class="post post-184 page type-page status-publish hentry" id="post-184">
+	 <h3 class="storytitle"><a href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/" rel="bookmark">Nineteenth Century Free Love and the Politics of Location, a&nbsp;Historiography</a></h3>
+	<div class="meta"></div>
+
+	<div class="storycontent">
+		<p style="text-align:center;margin:0 0 0.0001pt;" align="center"><b><br />
+</b></p>
+<p style="text-align:center;margin:0 0 0.0001pt;" align="center">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">The free love movement of the late nineteenth and early twentieth century contributes precious insights to the history of American radicalism. <span> </span>Historians have understood the movement to encompass a mosaic of characteristics: it was a radical critique of marriage; a movement against marital rape; an upsurge of radical male and female feminists; a rejection of public and private authority; and a movement for women to claim agency and ownership of their bodies. The movement was connected to dress reform, divorce reform, health reform, spiritualism, feminism, anarchism, and environmental conservation.<span>  </span>Radical for their time and in some ways still radical for ours, free lovers from disparate backgrounds across the continent engaged in national and international discourses which unfolded new and empowering ways of knowing, living, and loving.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">This essay explores the politics of social and geographical location in several histories of the 19<sup>th</sup> century American and Pacific Northwest free love movements. <span> </span>Contemporary scholarship on free love houses significant rifts and contradictions which expose the pitfalls of loose generalizations. <span> </span>Each history, written between 1977 and 2005, disservices the movement by ignoring the politics of two important locations: place and gender.<span>  </span></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Historians’ inattentiveness to the politics of location obscures the many permutations of the free love movement.<span>  </span>Feminist theorist Chandra Mohanty defines the politics of location as “the historical, geographical, cultural, psychic, and imaginative boundaries that provide the ground for political definition and self-definition for contemporary U.S. feminists.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn1" title="_ftnref1" name="_ftnref1"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[1]</span></span><!--[endif]--></span></span></a> <span> </span>Mohanty asks how the politics of location “determine and produce experience and difference as analytical and political categories.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn2" title="_ftnref2" name="_ftnref2"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[2]</span></span><!--[endif]--></span></span></a> <span> </span>This essay illustrates how historians have selectively attended to or ignored the politics of location to determine and produce free love histories substantially differing from one another. <span> </span>Arguing for engagement rather than transcendence of difference, Mohanty replaces problematic universal categories with a call for historic specificity.<span>  </span>This lens is useful for reading historians of free love, whose universalities tend to arise from transcendence of difference, rather than engagement with varying experiences. <span> </span>The histories of the 19<sup>th</sup> century free love movement form messy yet productive unions, simultaneously disrupting hegemonies while creating their own problematic universalizations.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">A field guide to the paper is as follows: the first part of the essay addresses historians’ definitions of free love. These definitions both determine and reflect the politics of place and gender.<span>  </span>Parts two and three explore place and gender in the free love histories separately, showing that historians have been only selectively attentive to these interlocking locations. <span> </span>When historians re-place free lovers and their theories to the geographic and social locations within which they were historically situated, free love history might be further grounded and contextualized in place-based, experience-based lives.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">This is not a historiography of failure. Each history brings a unique knowledge to the forefront, and each history in some way bolsters, corrects, contests, or contradicts another history. <span> </span>The goal of this essay is to expose how differing perceptions can emerge from the past based on each historian’s choices in relationship to the politics of location. <span> </span>While in some moments inattentiveness to social location borders on flaw, more often the histories complement one another, creating a mosaic and a constant reminder that no social movement is rooted in a singular place or identity.<span>  </span>Rather, it is the interplay between these differences which makes the movement so rich and powerful.<span>  </span>This essay is an attempt to lend power to the politics of location, and to explore the historian’s role in locating knowledge, putting memory on the map.</p>
+<p class="MsoNormal" style="text-align:center;text-indent:0.5in;" align="center"><b><i>*Part One: Definitions*</i></b></p>
+<p class="MsoNormal" style="text-indent:0.5in;">Definitions locate basic understandings of free love at the same time they locate historians’ particular leanings and motives in their studies.<span>  </span>Historians of the 19<sup>th</sup> century free love movement agree that free love at least meant love and sexual relations without any type of coercion.<span>  </span>Hal Sears, who’s 1977 <i>The Sex Radicals: Free Love in High Victorian America</i> was the first major study of the 19<sup>th</sup> century free love movement, stated that “free love simply allowed no coercion in sexual relations, whether from the legally prescribed duties of marriage or from the unrestricted urgings of libido.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn3" title="_ftnref3" name="_ftnref3"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[3]</span></span><!--[endif]--></span></span></a><span>  </span>Similarly, Pam McAllister stated in her introduction to Lois Waisbrooker’s <i>A Sex Revolution</i> that “‘free love,’ during the Victorian era, referred not to unrestrained lustful pursuits, but to the belief that love and sexual relations should be free of coercion from church, state, or hedonistic urgings.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn4" title="_ftnref4" name="_ftnref4"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[4]</span></span><!--[endif]--></span></span></a><span>  </span>Beyond this, historians diverge.</p>
+<p class="MsoNormal" style="text-indent:0.5in;">Joanne Passet, in her 2003 feminist analysis of the free love movement, offered a more complex assessment of free love:</p>
+<p style="margin:0 0 0.0001pt 0.5in;">‘Free love’ is a problematic term because of its contradictory meanings. Mainstream newspaper editors and clergy, free love’s most vocal critics, called anyone who deviated from customary ideals of proper behavior a ‘free lover.’ Nineteenth century sex radicals further confused matters because they could not agree on the term’s application in daily life: for some it meant a lifelong and monogamous commitment to a member of the opposite sex, others envisioned it as serial monogamy, a few advocated chaste heterosexual relationships except when children were mutually desired, and a smaller number defined it as variety (multiple partners, simultaneously) in sexual relationships…. No matter what their practical interpretation of free love, they shared two core convictions: opposition to the idea of coercion in sexual relationships and advocacy of a woman’s right to determine the uses of her body.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn5" title="_ftnref5" name="_ftnref5"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[5]</span></span><!--[endif]--></span></span></a></p>
+<p style="margin:0 0 0.0001pt 0.5in;">&nbsp;</p>
+<p style="margin:0 0 0.0001pt;">That Passet added a second tenet—women’s rights to their bodies—to free love’s core convictions reveals her larger argument, that previous historians have not done justice to women in the movement.<span>  </span>In a 2005 critical discourse analysis of two free love periodicals, sociologist Sandra Schroer similarly found that no common “unified understanding of Free Love and its principles existed.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn6" title="_ftnref6" name="_ftnref6"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[6]</span></span><!--[endif]--></span></span></a><span>  </span>Furthermore, Schroer found that male free love authors in particular “implied that it did exist and avoided addressing the fact that it did not.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn7" title="_ftnref7" name="_ftnref7"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[7]</span></span><!--[endif]--></span></span></a><span>  </span>Importantly, Schroer’s critique of the male free lovers also applies to the male historians whose histories came before Passet’s and her own.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Passet responds to the ambiguity of ‘free love’ by replacing it with an even broader term, “sex radical,” for which she offers no background and no discussion of the term’s meaning or consistency among individuals of the movement.<span>  </span>Hal Sears’s study includes references to both “free love” and “sex radicals,” even in the title (<i>The Sex Radicals: Free Love in High Victorian America</i>), without offering a definition or reference to the meaning of the latter term within the movement.<span>  </span>Dora Forster’s 1905 book, <i>The Sex Radicals as Seen by an Emancipated Woman of the New Time</i> gives some clues as to the meaning of the term when she uses it interchangeably with “sex reformers.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn8" title="_ftnref8" name="_ftnref8"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[8]</span></span><!--[endif]--></span></span></a><span>  </span>However, Passet makes an important distinction between two types of sex reformers: social purity reformers and sex radicals.<span>  </span>Although they shared many goals, their methods were quite opposite:</p>
+<p style="margin:0 0 0.0001pt 0.5in;">Advocates of social purity reform also believed that imposition of their standards of sexual behavior would solve many of society’s problems.<span>  </span>Thus, they determined ‘to achieve a set of controls over sexuality’ that would protect women from sexual danger because they were ‘structured through the family’ and ‘enforced through law and/or social morality.’<span>  </span>Initially, social purity reformers and sex radicals shared some core convictions, for instance, the importance of consensual sex for women.<span>  </span>But over time the social purity campaign’s repressive tendencies ‘overwhelmed its liberatory aspects’ for [sex radical] women.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn9" title="_ftnref9" name="_ftnref9"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[9]</span></span><!--[endif]--></span></span></a></p>
+<p style="margin:0 0 0.0001pt 0.5in;">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Sex reformers, then, might be seen in the largest sense, with sex radicals and social purists divided by tactics (liberation versus repression), and free love might be seen interchangeably with sex radical, or perhaps with a more radical connotation.<i><span>  </span></i>Free love may have been the term of choice for those who were against the sex radical cause, but all who wielded it agreed on its potential to radically alter the foundation of society.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-align:center;text-indent:0.5in;margin:0 0 0.0001pt;" align="center"><b><i>*Part Two: Place*</i></b></p>
+<p style="text-align:center;text-indent:0.5in;margin:0 0 0.0001pt;" align="center">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Many histories of the 19<sup>th</sup> century free love movement have purported to be illustrative of the movement in general when they are actually geographically and thus culturally specific.<span>  </span>Chandra Mohanty’s critique of universality is useful here.<span>  </span>Mohanty problematizes the concepts of universal sisterhood and transcendence of difference because these means of forging solidarity often rely on “specific assumptions about women as a cross-culturally singular, homogenous group with the same interests, perspectives, and goals and similar experiences.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn10" title="_ftnref10" name="_ftnref10"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[10]</span></span><!--[endif]--></span></span></a><span>  </span>Many free love historians have made similar assumptions.<span>  </span>Like the feminists Mohanty critiques, they rely on a few perspectives to speak for all.<span>  </span></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Inattentiveness to place generates trans-geographic generalizations and a false sense of homogeneity within the movement.<span>  </span>Free love histories that are more successful in their attentiveness to place reveal that place-based experiences fostered specific, place-based motives for advocating free love.<span>  </span>Joanne Passet and several historians of the Pacific Northwest have exposed a tension around the politics of physical location: the relationship between knowledge, place, and experience.<span>  </span>As Mohanty writes, “a place on the map (New York City) is, after all, also a locatable place in history.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn11" title="_ftnref11" name="_ftnref11"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[11]</span></span><!--[endif]--></span></span></a></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Sandra Schroer’s 2005 sociohistorical analysis of gender in the free love movement ignores physical location by comparing men and women as two homogeneous groups.<span>  </span>Rather than making the more common assumption that free love was in and of urban elite spaces, Schroer limited her analysis to two rural locations: the Berlin Heights community in Ohio and the Home community in Home, Washington.<span>  </span>Schroer strives toward objectivity in her study by offering the reader a list of supposedly all the publications which advocated free love between 1850 and 1902, but she forgot Benjamin Tucker’s well known <i>Liberty</i> based in New York. <span> </span>She then limited her sources by four criteria, the first of which that the journals had to be from utopian communities only.<span>  </span>This criterion limited her analysis to three publications, two of which came from the same location and were edited by the same person.<span>  </span>Moreover, although Schroer purports to use the three periodicals, she only uses the two from the Berlin Heights community.<span>  </span>The limitations of her study were submerged in an analytical, objective tone, creating an allusion of universality for the reader.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Schroer’s work describes how rural midwestern women and men (and perhaps a few others who contributed to the publications from elsewhere) wrote about free love; she does not consider how a rural perspective may have shaped and informed her subjects’ writings. <span> </span>Neither does she consider the history or politics of the utopian community in which her study is situated.<span>  </span>While successful in showing that men and women wrote about free love differently, the study would have been much more provocative had she looked at differences among women (including geographic differences), rather than simply between women and men, assuming that the experiences of one community could speak for the entirety of the movement.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Although Schroer writes that “no existing study has examined the writings of female and male Free Lovers to compare their issues,”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn12" title="_ftnref12" name="_ftnref12"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[12]</span></span><!--[endif]--></span></span></a> Passet’s 2003 <i>Sex Radicals and the Quest for Women’s Equality</i> does just that.<span>  </span>Passet’s attentiveness to physical location elucidates important differences between women.<span>  </span>The politics of location set Passet’s history apart from its predecessors: “Earlier accounts, in which such female sex radicals as Mary Gove Nichols and Victoria Woodhull appear as members of an urban avant-garde, obscure the fact that similar discussions about sexuality, marriage, and women’s freedom occurred among non-elite women—midwestern and western women….”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn13" title="_ftnref13" name="_ftnref13"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[13]</span></span><!--[endif]--></span></span></a><span>  </span>Passet’s groundbreaking research privileges many voices from diverse locations, rather than focusing on an elite, urban few.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">But urban bias is not simply an issue of representation.<span>  </span>Passet argues that rural sex radicals who moved to urban places “remained informed by the idea of agrarian individualism.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn14" title="_ftnref14" name="_ftnref14"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[14]</span></span><!--[endif]--></span></span></a><span>  </span>Contradictory to earlier studies, Passet suggests that rural sentiments informed urban free lovers as much as urban and rural utopian newspapers informed those in more isolated rural areas.<span>  </span>Where Schroer ignores geographic differences between free lovers, Passet describes a mutually influencing relationship between urban and rural radicals and differentiates the many rural sex radical women throughout the west from the few big named women who had heretofore consumed historical imagination.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Neither Schroer, Passet, nor Hal Sears, author of the aforementioned <i>The Sex Radicals: Free Love in High Victorian America</i>, do justice to an important site of free love, the Pacific Northwest.<span>  </span>Passet compares rural and urban free lovers but largely ignores the Pacific Northwest periodicals or comparative regionalism.<span>  </span>Instead of examining their own forums, Passet chooses to focus on geographically disparate women’s contributions to Kansas and New York newspapers.<span>  </span>Hal Sears purports that the Kansas periodical <i>Lucifer, the Light Bearer,</i> was “virtually the only free love periodical,” then sites a few Northeast names and leaves out important Northwest periodicals altogether.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn15" title="_ftnref15" name="_ftnref15"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[15]</span></span><!--[endif]--></span></span></a><span>  </span>This neglect leaves out an important space of meaning-making in the free love movement, thus obscuring their studies.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Historians have illustrated that Pacific Northwest free lovers had different motivations for participating in the movement than people of other regions.<span>  </span>This disjunction is most acute when historians consider the relationship of free love to industrialism.<span>  </span>While authors unanimously agree that industrialization played an important role in the creation of free love as a movement, they do not agree on the nature of industrialization’s role.<span>  </span></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">For Sears, free love is firmly rooted in 1850’s New York, a movement to keep humans up to the pace of industrial progress: “Although such rapid development through the incursion of the machine exacerbated social anxieties, it was less the nature of Americans to find fault with progress itself than to mask misgivings in exultation.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn16" title="_ftnref16" name="_ftnref16"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[16]</span></span><!--[endif]--></span></span></a><span>  </span>To the mid-nineteenth century New Yorker, free love was a human development that paralleled, even reinforced industrialization.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Western historian Carlos Schwantes, on the other hand, found that to Portland, Oregon anarchists, the lush nature of the undeveloped Pacific Northwest offered “one last opportunity to create a workable alternative to the dehumanizing industrial system so much a feature of life in the commercial and manufacturing centers of the eastern United States and Europe.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn17" title="_ftnref17" name="_ftnref17"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[17]</span></span><!--[endif]--></span></span></a><span>  </span>Free love was part of the <i>alternative</i> to industrialization for many Northwesterners, rather than an exultation of it.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Sandra Schroer finds in her critical discourse analysis that the nature conservation movement had an influence on many free lovers—women in particular.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn18" title="_ftnref18" name="_ftnref18"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[18]</span></span><!--[endif]--></span></span></a><span>  </span>In Schroer’s study, women differed from men in their focuses on motherhood, nature, and spirituality.<span>  </span>Unfortunately, the lack of comparative analysis in Schroer’s book makes it impossible to tell whether this emphasis on nature was unique to the Berlin Hights community of her study, or if it was in fact more general to free love discourse.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Brigitte Koenig’s research on the Home Colony shows that rural radicalism did not simply mirror urban radicalism; rather, “Home’s founders believed that their colony offered the means through which they could put anarchist principals into practice.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn19" title="_ftnref19" name="_ftnref19"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[19]</span></span><!--[endif]--></span></span></a><span>  </span>Home’s radicalism was based in the participants’ ability to put theory to practice, growing vegetables and not inflicting one another’s freedom among their higher priorities.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Passet stresses that the economic depressions accommodating industrialization particularly affected rural women: “Recurring drought and economic depression in the 1880s and 1890s not only heightened rural interest in individualist anarchism but also influenced the development of sex radical theories about the role of the state in regulating private life.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn20" title="_ftnref20" name="_ftnref20"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[20]</span></span><!--[endif]--></span></span></a><span>  </span>For rural radicals and Northwesterners, free love was not an accommodation to industrialism, not parallel human “progress,” but a reaction to it and a stance against it, as well as the church, the state, or controlling husbands, taking any agency from their lives.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">In contrast to Sears’s depiction of free love as parallel to industrialization and his characterization of Americans as naturally non-judgmental, many Pacific Northwest free love advocates did find fault with industrialization and saw freedom, land, and love as wrapped together in many of their anarchist projects.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Ignoring physical location in history affects how we understand other locations, such as gender and ideology.<span>  </span>As glossing over geographical differences contributes to homogenous perceptions of men and women, it also contributes to erroneous perceptions of free lovers’ relationships to the changing environmental and political landscapes of their time. <span> </span>Clearly, intersectionality is inherent in experience.<span>  </span>The locations which historians choose to focus on, and those which they choose to ignore, affect the larger meaning of free love.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-align:center;text-indent:0.5in;margin:0 0 0.0001pt;" align="center"><b><i>*Part Three: Gender*</i></b></p>
+<p style="text-align:center;text-indent:0.5in;margin:0 0 0.0001pt;" align="center">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Gender is an especially important social location in free love history because women had so much at stake in the free love movement. <span> </span>But even free love historians manage to write women into the background. <span> </span>Passet’s <i>Sex Radicals and the Quest for Women’s Equality </i>is vitally important in the historiography of free love because it is, as Passet writes “the first to provide a gendered analysis of the nineteenth century sex radical movement.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn21" title="_ftnref21" name="_ftnref21"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[21]</span></span><!--[endif]--></span></span></a><i><span>  </span></i>Previous to Passet’s work, men had written every book length history of the 19<sup>th</sup> century free love movement.<span>  </span>According to Passet, “Previous works have portrayed sex radicals as unified in support of relatively static beliefs.<span>  </span>But when gender is taken into account a more complex and nuanced understanding of the movement emerges.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn22" title="_ftnref22" name="_ftnref22"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[22]</span></span><!--[endif]--></span></span></a><span>  </span>While all historians agree on the important implications the movement had for women, many disagree on the politics of gender and feminism within the movement.<span>  </span>Among their disagreements are whether the movement was inherently feminist, whether a controversial non-feminist sex reformer John Humphrey Noyes was or was not a free lover, and whether women’s voices and participation were worth including at all.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">The relationship of free love to feminism is no settled fact in the historiography of the 19<sup>th</sup> century free love movement.<span>  </span>Sears’s 1977 and Passet’s 2005 histories offer two contradictory explanations of feminism’s place in the free love movement.<span>  </span>Sears’s groundbreaking study, which focused primarily on the Kansas free love circle and the publication <i>Lucifer, the Light Bearer</i>, downplays the importance of feminism by more than omission.<span>  </span>Passet briefly critiqued Sears’s work for minimizing “the reach and impact of its feminist message by arguing that ‘Victoria Woodhull’s free-love agitation in the early seventies marked the end of the serious and widespread discussion of sexual alternatives in nineteenth-century America.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn23" title="_ftnref23" name="_ftnref23"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[23]</span></span><!--[endif]--></span></span></a><span>  </span>Indeed, Sears’s work gave scant attention to important free love women.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">But Passet lets Sears off the hook quite easily.<span>  </span>Beyond downplaying women’s influence and participation, Sears also downplays the significance of feminism as an ideological component of the movement.<span>  </span>Minimizing feminism to its most formal and conservative definition, Sears writes that the feminist movement “opted for conventional morality and discrete political goals and forsook the revolutionizing of domestic relations.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn24" title="_ftnref24" name="_ftnref24"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[24]</span></span><!--[endif]--></span></span></a><span>  </span>This definition of feminism ignores the important reality that no movement, including feminism and free love, is singular or static.<span>  </span>By defining feminism in its least radical form, Sears occludes any possibility for overlap between the two movements.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Contrarily, Passet describes free love as inextricably linked to nineteenth century feminism.<span>  </span>Passet understands free love to be a “dimension of the nineteenth-century movement for women’s rights” and “at its core a feminist movement.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn25" title="_ftnref25" name="_ftnref25"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[25]</span></span><!--[endif]--></span></span></a><span>  </span>Historian Taylor Stoehr similarly links feminism and free love in his 1979 documentary history of free love in America: “Women in particular stood to gain from some new sexual dispensation, and thus it is not surprising that every militant free lover, male or female, was also a feminist.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn26" title="_ftnref26" name="_ftnref26"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[26]</span></span><!--[endif]--></span></span></a><span>  </span>Stoehr is quick to explain that female free lovers “more than outshone their male counterparts.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn27" title="_ftnref27" name="_ftnref27"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[27]</span></span><!--[endif]--></span></span></a><span>  </span>To feminist historians, other influences of the time—health reform, individualism, the shifting economy, religious revivals, and abolition—took lesser roles in the formation of the free love movement.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Differing understandings of the relationship between free love and feminism extend to differences in who they include in the movement history. <span> </span>Hal Sears offers 19<sup>th </sup>century utopian colonist John Humphrey Noyes the important position of first quoted “free lover” in his book. <span> </span>Passet, however, wrote him out of the free love movement entirely: “In contrast to Noyes, sex radicals embraced… [that] a woman should have the right to determine when and with whom she had children.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn28" title="_ftnref28" name="_ftnref28"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[28]</span></span><!--[endif]--></span></span></a><span>  </span>Because Noyes “placed sexuality and reproduction under communal control,” he was not a free lover.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn29" title="_ftnref29" name="_ftnref29"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[29]</span></span><!--[endif]--></span></span></a><span>  </span>The primacy of women’s rights was more significant to Passet and many of the female free lovers of her work than to Sears and many of the male leaders of his work.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Important differences in historians’ representations of gender emerge from the foundation of their scholarship, in their choice of sources.<span>  </span>Hal Sears and Angus McLaren, author of “Sex Radicalism in the Canadian Pacific Northwest, 1890-1920” both obscure the free love movement by largely ignoring the spaces where women’s voices most often emerge: in letters to journals.<span>  </span>Less often did women publish directly in journals, especially under their real names, and even less often did they participate on the editorial level.<span>  </span>Although free love journals encouraged women’s participation more than other journals of the time, women most often participated in the free love movement through correspondences rather than publications.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn30" title="_ftnref30" name="_ftnref30"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[30]</span></span><!--[endif]--></span></span></a><span>  </span>Passet’s work distinguishes itself from Sears’s and McLaren’s in that she pays keen attention to women’s correspondences to free love journals.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Sears and McLaren make a significant miscalculation of the movement’s relationship to eugenics by tending to primarily focus on men’s opinions and the women who supported them.<span>  </span>Both historians describe the free love movement’s late 19<sup>th</sup> century involvement with eugenics as a benevolent and uncontested shift, as opposed to Passet’s findings, that eugenics caused a controversial and gendered split within the movement.<span>  </span></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Hal Sears is careful to distinguish the earlier liberatory eugenics of free love advocates from state sanctioned, repressive eugenics of the Progressive Era: “Not to be confused with the later prescriptive eugenics of the Progressive Era, anarchistic eugenics held that enslaved, male-dominated mothers could only perpetuate a race of slavish humans.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn31" title="_ftnref31" name="_ftnref31"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[31]</span></span><!--[endif]--></span></span></a><span>  </span>Sears also makes sure to name several women who advocated anarchist eugenics, including Lois Waisbrooker and Angela Heywood, while only citing one woman, Lillie White, who opposed it.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn32" title="_ftnref32" name="_ftnref32"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[32]</span></span><!--[endif]--></span></span></a></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">In his study of Canadian Pacific Northwest sex radicals Robert Kerr and Dora Forster, McLaren is also quick to distinguish the sex radical strand of eugenics from coercive eugenics.<span>  </span>McLaren, however, did point out the tensions embedded in Kerr’s work: “[Kerr] declared himself in favor of the absolute sexual freedom of women; he also stated that everyone did not have the right to bear children”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn33" title="_ftnref33" name="_ftnref33"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[33]</span></span><!--[endif]--></span></span></a><span>  </span>Kerr also contended that “The women contributors to <i>Lucifer</i> were not all convinced” by his eugenic arguments.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn34" title="_ftnref34" name="_ftnref34"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[34]</span></span><!--[endif]--></span></span></a><span>  </span>Angus, like Sears, cited three women against eugenics, one being Lillie White who Sears also quoted, followed by three women who did support Kerr’s work.<span>  </span>This use of sources obscures what Passet has argued was a major gendered divide within the movement.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Passet makes clear that the late century convergence of free love discourse with eugenics created a significant divide in the movement along gender lines: “For several decades, sex radical men and women did share a commitment to women’s reproductive autonomy, but… significant gender and generational differences developed by the late 1890s.”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn35" title="_ftnref35" name="_ftnref35"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[35]</span></span><!--[endif]--></span></span></a><span>  </span>These differences developed as eugenics became “a means to retain patriarchal privilege” within sex reform.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn36" title="_ftnref36" name="_ftnref36"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[36]</span></span><!--[endif]--></span></span></a><span>  </span>Passet repeatedly holds men responsible for eugenic thought, and places women in uniform opposition to it.<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn37" title="_ftnref37" name="_ftnref37"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[37]</span></span><!--[endif]--></span></span></a><span>  </span>Passet quoted a myriad of voices that came out against Kerr, and furthermore selected quotes from Kerr’s writings which put the women’s anger in context.<span>  </span>Characterizing the debate as a “highly gendered contest for power,”<a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftn38" title="_ftnref38" name="_ftnref38"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:12pt;font-family:'Times New Roman';">[38]</span></span><!--[endif]--></span></span></a> Passet cast a very different picture of Kerr and his eugenic beliefs than did McLaren.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Sears’s and McLaren’s gendered analysis of the free love movement emphasized men’s voices and downplayed feminism.<span>  </span>The invisible social location of maleness in their works created a hegemony over meaning within the free love movement, a unity where there was none.<span>  </span>Feminist historians Passet and Schroer, on the other hand, successfully write histories which disrupt a sense of unity in the movement, revealing that women’s voices were also contentious voices with agendas that did not necessarily coincide with their male counterparts.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-align:center;text-indent:0.5in;margin:0 0 0.0001pt;" align="center"><b><i>*Conclusion*</i></b></p>
+<p style="text-align:center;text-indent:0.5in;margin:0 0 0.0001pt;" align="center">&nbsp;</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">Historians have presented widely differing analyses of gender and place in the 19<sup>th</sup> century free love movement.<span>  </span>Contested moments in free love history are rooted in the universalization of experience.<span>  </span>To universalize the experiences of a single social or geographical location means to ignore the politics of location.<span>  </span>To ignore the politics of location often means to defer to the perspectives of those who already have a hegemony in meaning-making, and imbue the entire movement with only a partial truth.<span>  </span>As recent scholars have shown, the richness and depth of a movement does not come from its sameness or unity, but from its diversity, its contention, and its multiplicity.</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;"><span></span></p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;">&nbsp;</p>
+<p style="text-align:center;margin:0 0 0.0001pt;" align="center"><b>*Bibliography*</b></p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Blatt, Martin. <i>Free Love and Anarchism: The Biography of Ezra Heywood.</i> Urbana and Chicago: University  of Illinois Press, 1989.</p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Forster, Dora. <i>Sex Radicalism as Seen by an Emancipated Woman of the New Time.</i> Chicago: M. Harman, 1905.</p>
+<p class="MsoFootnoteText" style="margin-left:0.5in;text-indent:-0.5in;"><span style="font-size:12pt;">Koenig, Brigitte. “Law and Disorder at Home: Free Love, Free Speech, and the Search for an Anarchist Utopia.” <i>Labor History</i> 45, no. 2 (2004): 199-223.</span></p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">McLaren, Angus. “Sex Radicalism in the Canadian Pacific Northwest, 1890-1920.” <i>Journal of the History of Sexuality</i> 2, no. 4 (1992): 527-546.</p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Mohanty, Chandra. <i>Feminism Without Borders: Decolonizing Theory, Practicing Solidarity.</i> Durham and London: Duke University Press, 2003</p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Passet, Joanne. <i>Sex Radicals and the Quest for Women’s Equality.</i> Urbana and Chicago: University  of Illinois Press, 2003.</p>
+<p class="MsoFootnoteText" style="margin-left:0.5in;text-indent:-0.5in;"><span style="font-size:12pt;">Sears, Hal. <i>The Sex Radicals: Free Love in High Victorian </i></span><i><span style="font-size:12pt;">America</span></i><i><span style="font-size:12pt;">. </span></i><span style="font-size:12pt;">Kansas</span><span style="font-size:12pt;">: The Regents Press of </span><span style="font-size:12pt;">Kansas</span><span style="font-size:12pt;">, 1977.</span></p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Schroer, Sandra. <i>State of ‘the </i><i>Union</i><i>’: Marriage and Free Love in the Late 1800s.</i> New York and London: Routledge, 2005.</p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Schwantes, Carlos. “Free Love and Free Speech on the Pacific Northwest Frontier.” <i>Oregon</i><i> Historical Quarterly</i> 82 (1981): 271-293.</p>
+<p class="MsoFootnoteText" style="margin-left:0.5in;text-indent:-0.5in;"><span style="font-size:12pt;">Stoehr, Taylor. <i>Free Love in </i></span><i><span style="font-size:12pt;">America</span></i><i><span style="font-size:12pt;">: A Documentary History.</span></i><span style="font-size:12pt;"> </span><span style="font-size:12pt;">New York</span><span style="font-size:12pt;">: AMS Press, 1979.</span></p>
+<p style="text-indent:-0.5in;margin:0 0 0.0001pt 0.5in;">Waisbrooker, Lois.  <i>A Sex Revolution</i>. Philadelphia: New Society Publishers, 1985.</p>
+<p><!--[if !supportFootnotes]--></p>
+<hr align="left" size="1" width="33%" />  <!--[endif]--></p>
+<p class="MsoFootnoteText" style="text-indent:30pt;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref1" title="_ftn1" name="_ftn1"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"></span></span></span></a></p>
+<p><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref1" title="_ftn1" name="_ftn1"><span class="MsoFootnoteReference"><span><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[1]</span></span><!--[endif]--></span></span></a> Chandra Mohanty, <i>Feminism Without Borders: Decolonizing Theory, Practicing Solidarity</i> (Durham and London: Duke University Press, 2003), 106</p>
+<p class="MsoFootnoteText" style="text-indent:30pt;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref2" title="_ftn2" name="_ftn2"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[2]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref3" title="_ftn3" name="_ftn3"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[3]</span></span><!--[endif]--></span></span></a> Hal Sears, <i>The Sex Radicals: Free Love in High Victorian </i><i>America</i><i> </i>(Kansas: The Regents Press of Kansas, 1977), 4</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref4" title="_ftn4" name="_ftn4"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[4]</span></span><!--[endif]--></span></span></a> Lois Waisbrooker, <i>A Sex Revolution</i> (Philadelphia: New Society Publishers, 1985), 3</p>
+<p style="text-indent:0.5in;margin:0 0 0.0001pt;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref5" title="_ftn5" name="_ftn5"><span class="MsoFootnoteReference"><span style="font-size:10pt;"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[5]</span></span><!--[endif]--></span></span></span></a><span style="font-size:10pt;"> Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (</span><span style="font-size:10pt;">Urbana</span><span style="font-size:10pt;"> and </span><span style="font-size:10pt;">Chicago</span><span style="font-size:10pt;">: </span><span style="font-size:10pt;">University</span><span style="font-size:10pt;"> of </span><span style="font-size:10pt;">Illinois Press</span><span style="font-size:10pt;">, 2003), 2</span></p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref6" title="_ftn6" name="_ftn6"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[6]</span></span><!--[endif]--></span></span></a> Sandra Schroer, <i>State of ‘the </i><i>Union</i><i>’: Marriage and Free Love in the Late 1800s</i> (New   York and London: Routledge, 2005), 89</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref7" title="_ftn7" name="_ftn7"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[7]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref8" title="_ftn8" name="_ftn8"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[8]</span></span><!--[endif]--></span></span></a> Dora Forster, <i>Sex Radicalism as Seen by an Emancipated Woman of the New Time</i> (Chicago: M. Harman, 1905), 7</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref9" title="_ftn9" name="_ftn9"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[9]</span></span><!--[endif]--></span></span></a> Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (Urbana and Chicago: University  of Illinois Press, 2003), 94</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref10" title="_ftn10" name="_ftn10"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[10]</span></span><!--[endif]--></span></span></a> Chandra Mohanty, <i>Feminism Without Borders: Decolonizing Theory, Practicing Solidarity</i> (Durham and London: Duke University Press, 2003), 110</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref11" title="_ftn11" name="_ftn11"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[11]</span></span><!--[endif]--></span></span></a> Chandra Mohanty, <i>Feminism Without Borders: Decolonizing Theory, Practicing Solidarity</i> (Durham and London: Duke University Press, 2003), 111</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref12" title="_ftn12" name="_ftn12"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[12]</span></span><!--[endif]--></span></span></a> Sandra Schroer, <i>State of ‘the </i><i>Union</i><i>’: Marriage and Free Love in the Late 1800s</i> (New   York and London: Routledge, 2005), 3</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref13" title="_ftn13" name="_ftn13"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[13]</span></span><!--[endif]--></span></span></a> Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (Urbana and Chicago: University  of Illinois Press, 2003), 5</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref14" title="_ftn14" name="_ftn14"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[14]</span></span><!--[endif]--></span></span></a> Ibid</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref15" title="_ftn15" name="_ftn15"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[15]</span></span><!--[endif]--></span></span></a> Hal Sears, <i>The Sex Radicals: Free Love in High Victorian </i><i>America</i><i> </i>(Kansas: The Regents Press of Kansas, 1977), 28</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref16" title="_ftn16" name="_ftn16"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[16]</span></span><!--[endif]--></span></span></a> Ibid., 11<span>  </span></p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref17" title="_ftn17" name="_ftn17"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[17]</span></span><!--[endif]--></span></span></a> Carlos Schwantes “Free Love and Free Speech on the Pacific Northwest Frontier,” <i>Oregon</i><i> Historical Quarterly</i> 82 (1981): 273</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref18" title="_ftn18" name="_ftn18"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[18]</span></span><!--[endif]--></span></span></a> Sandra Schroer, <i>State of ‘the </i><i>Union</i><i>’: Marriage and Free Love in the Late 1800s</i> (New   York and London: Routledge, 2005), 70</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref19" title="_ftn19" name="_ftn19"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[19]</span></span><!--[endif]--></span></span></a> Brigitte Koenig, “Law and Disorder at Home: Free Love, Free Speech, and the Search for an Anarchist Utopia,” <i>Labor History</i> 45, no. 2 (2004):201</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref20" title="_ftn20" name="_ftn20"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[20]</span></span><!--[endif]--></span></span></a> Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (Urbana and Chicago: University  of Illinois Press, 2003), 17</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref21" title="_ftn21" name="_ftn21"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[21]</span></span><!--[endif]--></span></span></a> Ibid., 4</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref22" title="_ftn22" name="_ftn22"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[22]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref23" title="_ftn23" name="_ftn23"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[23]</span></span><!--[endif]--></span></span></a> Ibid., 3</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref24" title="_ftn24" name="_ftn24"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[24]</span></span><!--[endif]--></span></span></a> Hal Sears, <i>The Sex Radicals: Free Love in High Victorian </i><i>America</i><i> </i>(Kansas: The Regents Press of Kansas, 1977), 8</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref25" title="_ftn25" name="_ftn25"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[25]</span></span><!--[endif]--></span></span></a> Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (Urbana and Chicago: University  of Illinois Press, 2003), 1</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref26" title="_ftn26" name="_ftn26"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[26]</span></span><!--[endif]--></span></span></a> Taylor Stoehr, <i>Free Love in </i><i>America</i><i>: A Documentary History</i> (New York: AMS Press, 1979), 3</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref27" title="_ftn27" name="_ftn27"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[27]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref28" title="_ftn28" name="_ftn28"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[28]</span></span><!--[endif]--></span></span></a> Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (Urbana and Chicago: University  of Illinois Press, 2003), 10</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref29" title="_ftn29" name="_ftn29"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[29]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref30" title="_ftn30" name="_ftn30"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[30]</span></span><!--[endif]--></span></span></a> Ibid., 40</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref31" title="_ftn31" name="_ftn31"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[31]</span></span><!--[endif]--></span></span></a> Hal Sears, <i>The Sex Radicals: Free Love in High Victorian </i><i>America</i><i> </i>(Kansas: The Regents Press of Kansas, 1977), 121</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref32" title="_ftn32" name="_ftn32"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[32]</span></span><!--[endif]--></span></span></a> Ibid., 239</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref33" title="_ftn33" name="_ftn33"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[33]</span></span><!--[endif]--></span></span></a> Angus McLaren, “Sex Radicalism in the Canadian Pacific Northwest, 1890-1920,” <i>Journal of the History of Sexuality</i> 2, no. 4 (1992): 536</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref34" title="_ftn34" name="_ftn34"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[34]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref35" title="_ftn35" name="_ftn35"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[35]</span></span><!--[endif]--></span></span></a>Joanne Passet, <i>Sex Radicals and the Quest for Women’s Equality</i> (Urbana and Chicago: University of Illinois   Press, 2003), 4</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref36" title="_ftn36" name="_ftn36"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[36]</span></span><!--[endif]--></span></span></a> Ibid., 151</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref37" title="_ftn37" name="_ftn37"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[37]</span></span><!--[endif]--></span></span></a> Ibid.</p>
+<p class="MsoFootnoteText" style="text-indent:0.5in;"><a href="https://polywog.wordpress.com/2007/12/12/free-love-and-the-politics-of-location-a-historiography/#_ftnref38" title="_ftn38" name="_ftn38"><span class="MsoFootnoteReference"><span><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-size:10pt;font-family:'Times New Roman';">[38]</span></span><!--[endif]--></span></span></a> Ibid.,170</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-2016506-184-58ffc60faf41f' data-src='//widgets.wp.com/likes/#blog_id=2016506&amp;post_id=184&amp;origin=polywog.wordpress.com&amp;obj_id=2016506-184-58ffc60faf41f' data-name='like-post-frame-2016506-184-58ffc60faf41f'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>	</div>
+
+	<div class="feedback">
+                        <a href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/#respond">Leave a Comment</a>	</div>
+
+</div>
+
+
+<h2 id="comments">Leave a Comment	<a href="#postcomment" title="Leave a comment">&raquo;</a>
+</h2>
+
+	<p>No comments yet.</p>
+
+	<p><a href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed for comments on this post.</a>	<a href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/trackback/" rel="trackback">TrackBack <abbr title="Uniform Resource Identifier">URI</abbr></a>
+</p>
+
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://polywog.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="2858fafc7a" /><input type="hidden" name="_wp_http_referer" value="/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+			<iframe id="googleplus-sign-in" name="googleplus-sign-in" src="https://public-api.wordpress.com/connect/?googleplus-sign-in=https%3A%2F%2Fpolywog.wordpress.com" width="24" height="24" scrolling="no" allowtransparency="true" seamless="seamless" frameborder="0"></iframe>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='184' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="eeac1da2e2" /></p>
+<input type="hidden" name="genseq" value="1493157391" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="141"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+
+
+<!-- begin footer -->
+</div>
+
+
+<!-- begin sidebar -->
+<div id="menu">
+
+<ul>
+
+	<li class="pagenav">Pages<ul><li class="page_item page-item-2"><a href="https://polywog.wordpress.com/about/">About Me</a></li>
+<li class="page_item page-item-187"><a href="https://polywog.wordpress.com/against-patriarchy-bottom-lines/">Against Patriarchy: Bottom&nbsp;Lines</a></li>
+<li class="page_item page-item-185"><a href="https://polywog.wordpress.com/captivity-gender-and-the-traumatic-narrative/">Captivity, Gender, and the Traumatic&nbsp;Narrative</a></li>
+<li class="page_item page-item-182"><a href="https://polywog.wordpress.com/papers/">Faeries in the Forest: Queering Environmental&nbsp;Activism</a></li>
+<li class="page_item page-item-186"><a href="https://polywog.wordpress.com/forest-defense-and-the-%e2%80%9cwoman%e2%80%9d-in-activist-discourse/">Forest Defense and the “Woman” in Activist&nbsp;Discourse</a></li>
+<li class="page_item page-item-422"><a href="https://polywog.wordpress.com/journal-from-a-first-conference-march-2008/">Journal from a First Conference, March&nbsp;2008</a></li>
+<li class="page_item page-item-183"><a href="https://polywog.wordpress.com/lifting-as-we-climb-racial-uplift-and-gender-in-historical-accounts-of-black-women-in-america/">Lifting As We Climb: Racial Uplift and Gender in Historical Accounts of Black Women in&nbsp;America</a></li>
+<li class="page_item page-item-405"><a href="https://polywog.wordpress.com/luisa-capetillo-and-charles-erskine-scott-wood-free-love-and-the-state-at-the-turn-of-the-twentieth-century/">Luisa Capetillo and Charles Erskine Scott Wood: Free Love and the State at the Turn of the Twentieth&nbsp;Century</a></li>
+<li class="page_item page-item-184 current_page_item"><a href="https://polywog.wordpress.com/nineteenth-century-free-love-and-the-politics-of-location-a-historiography/">Nineteenth Century Free Love and the Politics of Location, a&nbsp;Historiography</a></li>
+<li class="page_item page-item-174"><a href="https://polywog.wordpress.com/poetry/">Poetry</a></li>
+</ul></li>	<li id="linkcat-1356" class="linkcat"><h2>Blogroll</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://seattlepi.nwsource.com/getaways/032196/clim21_top.html">1996 seattle rock climbing article (I was 10)</a></li>
+<li><a href="http://againstpatriarchy07.wordpress.com/">Againt Patriarchy</a></li>
+<li><a href="http://www.akpress.org/">ak press</a></li>
+<li><a href="http://www.williamhuckleberry.blogspot.com/">baby huck</a></li>
+<li><a href="http://techforpeople.net/~catalystproject/index.php" title="white anti-racist organizing">Catalyst Project</a></li>
+<li><a href="http://cris223.wordpress.com" rel="friend met sweetheart">Christian</a></li>
+<li><a href="http://www.couchsurfing.com/">Couch Surfing</a></li>
+<li><a href="http://eugalive.blogspot.com/">Eugene&#8217;s blog</a></li>
+<li><a href="http://www.csmonitor.com/2006/1127/p20s01-alsp.html" title="(if you choose to read this article, it&#8217;s very important that you disregard the reference to me as a follower.  Utterly Offensive&#8211;but the article is great)">Eugene&#8217;s unicycle article</a></li>
+<li><a href="http://www.gleantheplanet.com/links.html">Glean the Planet!</a></li>
+<li><a href="http://greentheoryandpraxis.csufresno.edu/main.asp">Green Theory and Praxis</a></li>
+<li><a href="http://www.historyisaweapon.org/" target="_blank">History is a Weapon</a></li>
+<li><a href="http://www.incite-national.org/">INCITE! Women of Color Against Violence</a></li>
+<li><a href="http://www.anarchiststudies.org/">Institute for Anarchist Studies</a></li>
+<li><a href="http://jadecricket.wordpress.com">Jade Cricket</a></li>
+<li><a href="http://www.microcosmpublishing.com/">Microcosm Publishing</a></li>
+<li><a href="http://www.nymaa.org/">New York Metro Alliance of Anarchists</a></li>
+<li><a href="http://pabloarbolayjr.wordpress.com/">Pablo</a></li>
+<li><a href="http://rpp.english.ucsb.edu/">Race and Pedagogy Project</a></li>
+<li><a href="http://radicalsurvivorasheville.blogspot.com/">Radical Survivor Asheville</a></li>
+<li><a href="http://www.revolutionaryenvironmentalism.blogspot.com/">Revolutionary Environmentalism!</a></li>
+<li><a href="http://www.safe2pee.org/beta/">Safe 2 Pee</a></li>
+<li><a href="http://www.anarcha.org/sallydarity/index.php">Sallydarity</a></li>
+<li><a href="http://sfbookfair.wordpress.com/">San Francisco Anarchist Bookfair</a></li>
+<li><a href="http://www.sarahlawrence.edu/womens-history/index.php">Sarah Lawrence College, Women&#8217;s History</a></li>
+<li><a href="http://stuffwhitepeoplelike.wordpress.com/">stuffwhitepeoplelike</a></li>
+<li><a href="http://sundeepsood.wordpress.com/">Sundeep</a></li>
+<li><a href="http://nodesignation.wordpress.com/">Tobi</a></li>
+<li><a href="http://www.newformulation.org/3yamin.htm">Towards an Anti-Authoritarian Critique of Marriage!!</a></li>
+<li><a href="http://mtnmercantile.blogspot.com/">Willamette Mountain Mercantile</a></li>
+<li><a href="http://www.youtube.com/watch?v=jpj3KAyEEjc">Youtube video of Natty Gann</a></li>
+
+	</ul>
+</li>
+ <li id="categories">Categories:	<ul>
+		<li class="cat-item cat-item-31779"><a href="https://polywog.wordpress.com/category/accountability/" >accountability</a>
+</li>
+	<li class="cat-item cat-item-43783"><a href="https://polywog.wordpress.com/category/anarchism/" >anarchism</a>
+</li>
+	<li class="cat-item cat-item-3202104"><a href="https://polywog.wordpress.com/category/anti-assimilation/" >anti-assimilation</a>
+</li>
+	<li class="cat-item cat-item-3268"><a href="https://polywog.wordpress.com/category/civilization/" >civilization</a>
+</li>
+	<li class="cat-item cat-item-289111"><a href="https://polywog.wordpress.com/category/ecofeminism/" >Ecofeminism</a>
+</li>
+	<li class="cat-item cat-item-553"><a href="https://polywog.wordpress.com/category/feminism/" >feminism</a>
+</li>
+	<li class="cat-item cat-item-2788557"><a href="https://polywog.wordpress.com/category/free-love-radical-love/" >free love/ radical love</a>
+</li>
+	<li class="cat-item cat-item-22297"><a href="https://polywog.wordpress.com/category/happiness/" >happiness</a>
+</li>
+	<li class="cat-item cat-item-1099"><a href="https://polywog.wordpress.com/category/nature/" >nature</a>
+</li>
+	<li class="cat-item cat-item-835"><a href="https://polywog.wordpress.com/category/pictures/" >pictures</a>
+</li>
+	<li class="cat-item cat-item-422"><a href="https://polywog.wordpress.com/category/poetry/" >Poetry</a>
+</li>
+	<li class="cat-item cat-item-3840537"><a href="https://polywog.wordpress.com/category/queer-activismtheory/" >Queer activism/theory</a>
+</li>
+	<li class="cat-item cat-item-11798"><a href="https://polywog.wordpress.com/category/race/" >race</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://polywog.wordpress.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-97077"><a href="https://polywog.wordpress.com/category/womens-history/" >women&#039;s history</a>
+</li>
+	</ul>
+ </li>
+ <li id="search">
+   <label for="s">Search:</label>
+   <form id="searchform" method="get" action="https://polywog.wordpress.com/">
+	<div>
+		<input type="text" name="s" id="s" size="15" /><br />
+		<input type="submit" value="Search" />
+	</div>
+	</form>
+ </li>
+ <li id="archives">Archives: 	<ul>
+	 	<li><a href='https://polywog.wordpress.com/2009/02/'>February 2009</a></li>
+	<li><a href='https://polywog.wordpress.com/2009/01/'>January 2009</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/12/'>December 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/11/'>November 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/10/'>October 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/08/'>August 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/07/'>July 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/06/'>June 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/05/'>May 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/04/'>April 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/03/'>March 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/02/'>February 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2008/01/'>January 2008</a></li>
+	<li><a href='https://polywog.wordpress.com/2007/12/'>December 2007</a></li>
+	<li><a href='https://polywog.wordpress.com/2007/11/'>November 2007</a></li>
+	<li><a href='https://polywog.wordpress.com/2007/10/'>October 2007</a></li>
+ 	</ul>
+ </li>
+ <li id="meta">Meta: 	<ul>
+		<li><a href="https://wordpress.com/start?ref=wplogin">Register</a></li>		<li><a href="https://polywog.wordpress.com/wp-login.php">Log in</a></li>
+		<li><a href="https://polywog.wordpress.com/feed/" title="Syndicate this site using RSS"><abbr title="Really Simple Syndication">RSS</abbr></a></li>
+		<li><a href="https://polywog.wordpress.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+		<li><a href="http://gmpg.org/xfn/"><abbr title="XHTML Friends Network">XFN</abbr></a></li>
+		<li><a href="https://wordpress.com/">WordPress.com</a></li>
+			</ul>
+ </li>
+
+</ul>
+
+</div>
+<!-- end sidebar -->
+
+<p class="credit"><cite> <a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a></cite></p>
+
+</div>
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201717y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/polywog.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/polywog.wordpress.com\/wp-login.php?action=logout&_wpnonce=17ced4743a","homeURL":"https:\/\/polywog.wordpress.com\/","postID":"184","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"2016506","siteName":"Polywog","siteURL":"http:\/\/polywog.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/rubric","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/polywog.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpolywog.wordpress.com%2Fnineteenth-century-free-love-and-the-politics-of-location-a-historiography%2F","themeURL":"","xhrURL":"https:\/\/polywog.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"4ea55a3bb0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"25de216634\" \/>","referer":"https:\/\/polywog.wordpress.com\/nineteenth-century-free-love-and-the-politics-of-location-a-historiography\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/polywog.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fpolywog.wordpress.com%2Fnineteenth-century-free-love-and-the-politics-of-location-a-historiography%2F","postID":"184","shortlink":"http:\/\/wp.me\/P8sAi-2Y","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/polywog.wordpress.com\/184","statsLink":"https:\/\/wordpress.com\/stats\/post\/184\/polywog.wordpress.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Rubric","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/polywog.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fpolywog.wordpress.com%2Fnineteenth-century-free-love-and-the-politics-of-location-a-historiography%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJx9jEEOwjAMBD9E6rZCIA6It4TEApfECU5S4Pe4BypOva12dgde2bjEFbnCVMDjTA7zu5vKDv5QbCaHdiMuEOiBBZ4NG94t+4DyGxO70LxCFbkUox6NYA6fLhJvGK1Xbq5WINpSUTSZNKMILbK12zK4SokXw5p0fYnnYX8a+/4wjMfpC4WNVtA='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "polywog.wordpress.com";
+	</script>
+	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'2016506','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'2016506','v':'wpcom','tz':'-5','user_id':'0','post':'184','subd':'polywog'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhzVndTdktBX0ddJnpXRjVaOTd6fj1YMX4ydzR6MmRCYnxkNmdHbHh+bV1KZWlpMHosQW9hL2otX2w4fmoveDJtbHZpL3pvVlV4fC1mKzFSSEd0di9wZms2JTdsRHB3VHo/YmdrdnMzJjlbRDRpd0pjWUgvazVjT09FLXR3ZnptViYyQmxjNzNKVTNrbHFQLkw1Zy1yQyUvNFkwQkQmbzNnfk9FMlslK1g2cHkyWGRISHx8TF18aTQyJkFFSD1oOUo3aWVV'}]);
+_stq.push([ 'clickTrackerInit', '2016506', '184' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

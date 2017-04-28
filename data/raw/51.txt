@@ -1,0 +1,643 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.ushrnetwork.org/sites/all/themes/ushrn/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="apple-touch-icon" href="/touch-icon-ipad.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="/touch-icon-iphone4.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="/touch-icon-iphone.png" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.ushrnetwork.org/" />
+<link rel="shortlink" href="https://www.ushrnetwork.org/" />
+<meta property="og:site_name" content="US Human Rights Network" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.ushrnetwork.org/" />
+<meta property="og:title" content="US Human Rights Network" />
+<meta property="og:description" content="Building a People-Centered Movement" />
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="https://www.ushrnetwork.org/sites/all/themes/ushrn/js/selectivizr-min.js"></script><![endif]-->
+  <title>US Human Rights Network | Building a People-Centered Movement</title>  
+  <link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_tXrA4Vm5yv_XHD_Qo27OCjTXLAxGbCwnga5nSv5C9uY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_dHVt94PzIE5jGJjZRfRIDKE_R4RlnLbgzIJWKNaPis0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_1Yq1ZwqEEw16zvcgOVO3k9iwYwt01WlPm1TMK1yGz4A.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_avOWOddkJQn3JesZGxlp2VlWGmO2sKwh0AN46iDUnTM.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_J8w9SBncIEK37DYNylWCFZgLEhBKnJBoz42007kixTw.css" media="all" />
+<!--<![endif]-->
+
+<!--[if (gte IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/css/css_9l2ODYWe8q7sEYFEgeQPTk-MZvhOCVMcLoFn_kpELMM.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/js/js_obFUyTbqtcoGQtszVI46l1_oD927PzlDtlr_ilpYBqE.js"></script>
+<script type="text/javascript" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/js/js_9DN5rHEBH5MR6I6XcBhZpduC1NAT7xe5FWO1kxaydG4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-36438870-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/js/js_oibLK4QIqQPyzh8PQBLrUaoeFOml37Vu92iJeeVTwes.js"></script>
+<script type="text/javascript" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/js/js_QXP2IcQ5wtuSwHXV37dZF1hKBHrqJ2BJMEFIUajF18Y.js"></script>
+<script type="text/javascript" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/js/js_Z8e-73qEtYE3ch90c7PIQMyR81Y_9SMS3oMvG2YCjN4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ushrn","theme_token":"yv9Yhz6-no2tqOmpOFDDSDK97YQWqtjZ7HKEfooB4c0","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/ushrn\/js\/filters.js":1,"sites\/all\/themes\/ushrn\/js\/jquery.splitter.js":1,"sites\/all\/themes\/ushrn\/js\/relations.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/ushrn\/js\/mobileMenu.js":1,"sites\/all\/themes\/ushrn\/js\/touch-slider.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/ushrn\/css\/filters.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/ushrn\/css\/global.css":1,"sites\/all\/themes\/ushrn\/css\/mobileMenu.css":1,"ie::normal::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default.css":1,"ie::normal::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default.css":1,"narrow::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default.css":1,"normal::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default.css":1,"wide::sites\/all\/themes\/ushrn\/css\/ushrn-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1,"sites\/all\/themes\/ushrn\/css\/alpha-default-gte-ie9.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"viewsSlideshow":{"homepage_slideshow-page_2":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"homepage_slideshow-page_2":{"bottom":{"type":"viewsSlideshowPagerFields"}}},"viewsSlideshowPagerFields":{"homepage_slideshow-page_2":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_homepage_slideshow-page_2":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"homepage_slideshow-page_2","effect":"fade","transition_advanced":1,"timeout":3500,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"better_exposed_filters":{"views":{"homepage_slideshow":{"displays":{"page_2":{"filters":[]}}},"home_promoted_content":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]},"block_2":{"filters":[]}}},"initiatives":{"displays":{"block_2":{"filters":[]},"block_3":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":false,"bgiframe":false}}},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in page-home i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-7 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+      </div>
+</div><div class="grid-5 region region-user-second" id="region-user-second">
+  <div class="region-inner region-user-second-inner">
+      </div>
+</div>  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-6 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="" class="active"><img src="https://www.ushrnetwork.org/sites/all/themes/ushrn/logo.png" alt="US Human Rights Network" id="logo" /></a>      </div>
+                </div>
+          </div>
+</div><div class="grid-6 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <div class="block block-block block-8 block-block-8 odd block-without-title" id="block-block-8">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="mobile-menu" class="mobile-only">
+<img src="/sites/all/themes/ushrn/images/menu-icon.png" alt="Menu" />
+</div>    </div>
+  </div>
+</div><div class="block block-search block-form block-search-form even block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form--Wy-pNWjg6cTVuKJXGKfcJ51JyjS29sSuaIF30CRVlI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-6 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-menu-block block-13 block-menu-block-13 odd block-without-title" id="block-menu-block-13">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-13 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-851"><a href="/our-work" title="Issues, Projects, Convenings, and Workshops">Our Work</a></li>
+<li class="leaf has-children menu-mlid-780"><a href="/about-us" title="About US Human Rights Network">About Us</a></li>
+<li class="last leaf has-children menu-mlid-852"><a href="/members" title="Member Organizations of the US Human Rights Network">Members</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-superfish block-1 block-superfish-1 even block-without-title" id="block-superfish-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-3 sf-parent-items-3 sf-single-items-0"><li id="menu-851-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent"><a href="/our-work" title="Issues, Projects, Convenings, and Workshops" class="sf-depth-1 menuparent">Our Work</a><ul><li id="menu-857-1" class="first odd sf-item-1 sf-depth-2"><a href="/our-work/projects-campaigns" title="Projects and campaigns of the US Human Rights Network" class="sf-depth-2">Projects and Campaigns</a></li><li id="menu-859-1" class="last even sf-item-2 sf-depth-2"><a href="/our-work/conferences-convenings" title="US Human Rights Network Conferences and Convenings" class="sf-depth-2">Conferences and Convenings</a></li></ul></li><li id="menu-780-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/about-us" title="About US Human Rights Network" class="sf-depth-1 menuparent">About Us</a><ul><li id="menu-853-1" class="first odd sf-item-1 sf-depth-2"><a href="/about-us/what-we-do" title="The work, principles and history of the US Human Rights Network" class="sf-depth-2">What We Do</a></li><li id="menu-854-1" class="middle even sf-item-2 sf-depth-2"><a href="/about-us/who-we-are" title="Staff, Board, and Member organizations of the US Human Rights Network" class="sf-depth-2">Who We Are</a></li><li id="menu-855-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about-us/how-we-work" title="Member working groups" class="sf-depth-2">How We Work</a></li><li id="menu-856-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/about-us/work-with-us" title="Jobs, internships, and volunteer opportunities at US Human Rights Network" class="sf-depth-2">Work With Us</a></li></ul></li><li id="menu-852-1" class="last odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-1 sf-single-children-2 menuparent"><a href="/members" title="Member Organizations of the US Human Rights Network" class="sf-depth-1 menuparent">Members</a><ul><li id="menu-1113-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/members/member-organizations" title="Organizations that are members of the US Human Rights Network" class="sf-depth-2">Member Organizations</a></li><li id="menu-1101-1" class="middle even sf-item-2 sf-depth-2"><a href="/members/member-structures" title="Member Initiated Action Teams, Member Committees, and Task-forces of USHRN" class="sf-depth-2">Member Structures</a></li><li id="menu-1238-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/join-movement" class="sf-depth-2">Become a Member</a></li></ul></li></ul>    </div>
+  </div>
+</div><div class="block block-menu-block block-2 block-menu-block-2 odd block-without-title" id="block-menu-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-2 menu-name-menu-top-banner-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1234"><a href="/news-updates" title="News and blog posts from member organizations and the US Human Rights Network">News &amp; Updates</a></li>
+<li class="leaf menu-mlid-1236"><a href="/take-action">Take Action</a></li>
+<li class="leaf has-children menu-mlid-863"><a href="/upcoming-events" title="Upcoming events from member organizations and the US Human Rights Network">Events</a></li>
+<li class="last leaf has-children menu-mlid-1237"><a href="/resources-media">Resources &amp; Media</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu-block block-3 block-menu-block-3 even block-without-title" id="block-menu-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-3 menu-name-menu--home-contact parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf active menu-mlid-870"><a href="/" title="US Human Rights Network [home]" class="active">Home</a></li>
+<li class="last leaf menu-mlid-1036"><a href="/contact-ushrn">Contact USHRN</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu-block block-4 block-menu-block-4 odd block-without-title" id="block-menu-block-4">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-4 menu-name-menu-join-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last leaf has-children menu-mlid-867"><a href="/join-movement" title="Become a member of the US Human Rights Network">Join the Movement</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu block-menu-follow-us-menu block-menu-menu-follow-us-menu even block-without-title" id="block-menu-menu-follow-us-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf menu-mlid-1032"><a href="http://twitter.com/ushrn" rel="nofollow" target="_blank">Twitter</a></li>
+<li class="leaf menu-mlid-1033"><a href="http://www.facebook.com/ushrnetwork" rel="nofollow" target="_blank">Facebook</a></li>
+<li class="leaf menu-mlid-1034"><a href="http://www.youtube.com/user/ushrn" rel="nofollow" target="_blank">YouTube</a></li>
+<li class="leaf menu-mlid-934"><a href="/ushrn-podcasts" title="Dare to Struggle, Dare to Win monthly podcast" rel="nofollow" target="_blank">Podcast</a></li>
+<li class="last leaf menu-mlid-1035"><a href="/rss.xml" rel="nofollow" target="_blank">RSS Feed</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-block block-9 block-block-9 odd block-without-title" id="block-block-9">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="mobile-only menu"><li><a href="/search/node">Search</a></li></ul>    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Homepage Slideshow</h1>
+                        <div class="block block-system block-main block-system-main even block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-homepage-slideshow view-id-homepage_slideshow view-display-id-page_2 view-dom-id-a7582db1b47ec8f91222882becbeecb6">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_homepage_slideshow-page_2" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_homepage_slideshow-page_2" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_homepage_slideshow-page_2_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.ushrnetwork.org/news-updates/february-2017-ed-message"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/homepage_slideshow/public/ed_message_feb_2017_slideshow.jpg?itok=UFfYihNC" /></a></div>  </div>  
+  <div class="views-field views-field-field-slideshow-caption">        <div class="field-content"><a href="https://www.ushrnetwork.org/news-updates/february-2017-ed-message">Check out Colette's ED message for February 2017!... More &raquo;&raquo;</a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slideshow-page_2_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+    
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.ushrnetwork.org/resources-media/resist-defend-human-rights"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/homepage_slideshow/public/resist_and_defend_human_rights_slideshow_0.jpg?itok=oPXRlmeb" alt="Resist &amp; Defend Human Rights - Final" /></a></div>  </div>  
+  <div class="views-field views-field-field-slideshow-caption">        <div class="field-content"><a href="https://www.ushrnetwork.org/resources-media/resist-defend-human-rights">Download &amp; share USHRN's "Resist! Defend Human Rights" Graphics... More &raquo;&raquo;</a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slideshow-page_2_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+    
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.ushrnetwork.org/events/2017-ushrn-member-calls"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/homepage_slideshow/public/2017_ushrn_national_member_call_slideshow.png?itok=CQ1E8sHY" /></a></div>  </div>  
+  <div class="views-field views-field-field-slideshow-caption">        <div class="field-content"><a href="https://www.ushrnetwork.org/events/2017-ushrn-member-calls">Join us for our 2017 National Member Calls More &raquo;&raquo;</a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slideshow-page_2_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even views-row-last">
+    
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://www.ushrnetwork.org/resources-media/2016-advancing-human-rights-report"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/homepage_slideshow/public/ushrn_report_2016_slideshow.jpg?itok=cwQL6KzB" alt="Read and Share the USHRN Human Rights Report today!" /></a></div>  </div>  
+  <div class="views-field views-field-field-slideshow-caption">        <div class="field-content"><a href="https://www.ushrnetwork.org/resources-media/2016-advancing-human-rights-report">Click here to download the our 2016 report! More &raquo;&raquo;</a></div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_homepage_slideshow-page_2" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_homepage_slideshow-page_2_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    1  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_homepage_slideshow-page_2_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    2  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_homepage_slideshow-page_2_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    3  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_homepage_slideshow-page_2_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even views-row-last">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    4  </div>
+</div>
+</div>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div><div class="block block-block block-3 block-block-3 odd block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="mission-block"><h3>Mission</h3><p>The US Human Rights Network is a national network of organizations and individuals working to build and strengthen a people-centered human rights movement in the United States, where leadership is centered on those most directly affected by human rights violations, and the full range of diversity within communities is respected and embraced. <a href="/about-us">MORE »»</a></p></div>    </div>
+  </div>
+</div><div class="block block-block block-6 block-block-6 even block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="join-banner"><div id="join-banner-inner"><h3>Join The Movement</h3> <a href="https://salsa3.salsalabs.com/o/50876/donate_page/donate" class="join-donate"><span class="join-donate-inner">Donate Now</span></a> <a href="http://salsa3.salsalabs.com/o/50876/signup_page/email-updates" class="join-email"><span>Get Email Updates</span></a> <a href="/take-action" class="join-action"><span>Take Action</span></a> <a href="/join-movement" class="join-today"><span>Join Today</span></a></div></div>    </div>
+  </div>
+</div><div class="block block-block block-5 block-block-5 odd block-without-title" id="block-block-5">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="homepage-mission-block-row">
+<div class="our-work-block"><h3>Our Work</h3><p><a href="/our-work">The US Human Rights Network works to build a broad-based and vibrant domestic human rights movement. <img src="/sites/all/themes/ushrn/images/green-more.png" /></a></p></div><div class="about-us-block"><h3>About Us</h3><p><a href="/about-us">We are made up of members across the U.S. working to ensure that all peoples rights are protected and fulfilled. <img src="/sites/all/themes/ushrn/images/blue-more.png" /></a></p></div><div class="members-block"><h3>Members</h3><p><a href="/members">We are a Network of groups active in their local communities, national organizations, and individual activists. <img src="/sites/all/themes/ushrn/images/purple-more.png" /></a></p></div></div>    </div>
+  </div>
+</div><section class="block block-c4 block-home-promoted-block block-c4-home-promoted-block even" id="block-c4-home-promoted-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title"><none></h2>
+            
+    <div class="content clearfix">
+      <div id="block-c4-home-promoted"><div id="block-c4-home-promoted-inner"><section class="block block-views block-home-promoted-content-block block-views-home-promoted-content-block odd" id="block-views-home-promoted-content-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">News from the Field</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-home-promoted-content view-id-home_promoted_content view-display-id-block view-dom-id-c8639ec9e800fa6f0f305ef853a2975c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-2086" class="node node-event node-promoted node-teaser teaser clearfix" about="/events/2nd-international-gathering-social-movements-water" typeof="sioc:Item foaf:Document" class="node node-event node-promoted node-teaser node-published node-not-sticky author-jess-st-louis odd clearfix" id="node-event-2086">
+    					<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/events/2nd-international-gathering-social-movements-water"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/teaser/public/detroitintlgathering.png?itok=fPyoSfRL" /></a></div>
+      </div>
+</div>
+</div>
+					<div class="teaser-content">	
+			<div class="field field-name-field-event-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Convening</div></div></div>				
+										<h2 class="node-title"><a href="/events/2nd-international-gathering-social-movements-water">2nd International Gathering of Social Movements on Water</a></h2>
+						<span property="dc:title" content="2nd International Gathering of Social Movements on Water" class="rdf-meta element-hidden"></span>			   
+			<div class="field field-name-field-short-summary field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">Meet up with other water warriors &amp; human rights defenders in Detroit!</div>
+      </div>
+</div>
+<a href="/events/2nd-international-gathering-social-movements-water" class="node-readmore">More<span class="element-invisible"> about 2nd International Gathering of Social Movements on Water</span><span class="element-flair">&nbsp;&raquo;&raquo;</span></a>		
+	</div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-2080" class="node node-news node-promoted feature_mini_teaser clearfix" about="/news-updates/new-protest-restrictions-mean-human-rights-violations-us" typeof="sioc:Item foaf:Document" class="node node-news node-promoted node-published node-not-sticky author-jess-st-louis even clearfix" id="node-news-2080">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/news-updates/new-protest-restrictions-mean-human-rights-violations-us"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/2017-01-20_12.29.52.jpg?itok=0EGqwFPs" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-update-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">News</div></div></div>	
+							<h2 class="node-title"><a href="/news-updates/new-protest-restrictions-mean-human-rights-violations-us">New Protest Restrictions Mean Human Rights Violations by U.S.</a></h2>
+				<span property="dc:title" content="New Protest Restrictions Mean Human Rights Violations by U.S." class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-2072" class="node node-event node-promoted feature_mini_teaser clearfix" about="/events/un-special-rapporteur-rights-indigenous-peoples-visit-us" typeof="sioc:Item foaf:Document" class="node node-event node-promoted node-published node-not-sticky author-rebecca-landy odd clearfix" id="node-event-2072">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/events/un-special-rapporteur-rights-indigenous-peoples-visit-us"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/unsr_rights_of_indigenous_peoples_us_visit_flyer.jpg?itok=9MMNL6oQ" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-event-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Convening</div></div></div>	
+							<h2 class="node-title"><a href="/events/un-special-rapporteur-rights-indigenous-peoples-visit-us"> UN Special Rapporteur on the Rights of Indigenous Peoples Visit to the U.S.</a></h2>
+				<span property="dc:title" content=" UN Special Rapporteur on the Rights of Indigenous Peoples Visit to the U.S." class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    <div id="node-2071" class="node node-news node-promoted feature_mini_teaser clearfix" about="/news-updates/landfill-drops-defamation-lawsuit-against-bbc" typeof="sioc:Item foaf:Document" class="node node-news node-promoted node-published node-not-sticky author-jess-st-louis even clearfix" id="node-news-2071">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/news-updates/landfill-drops-defamation-lawsuit-against-bbc"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/dsc_4721_0.jpg?itok=D_b_jCgj" alt="Esther Calhoun on the Community Tour" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-update-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">News</div></div></div>	
+							<h2 class="node-title"><a href="/news-updates/landfill-drops-defamation-lawsuit-against-bbc">Landfill Drops Defamation Lawsuit Against the BBC!</a></h2>
+				<span property="dc:title" content="Landfill Drops Defamation Lawsuit Against the BBC!" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section><section class="block block-views block-home-promoted-content-block-1 block-views-home-promoted-content-block-1 even" id="block-views-home-promoted-content-block-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">USHRN Latest</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-home-promoted-content view-id-home_promoted_content view-display-id-block_1 view-dom-id-4b73ea15e495a3df568b7d38e3e850bd">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-2082" class="node node-resource node-promoted node-sticky node-teaser teaser clearfix" about="/resources-media/text-ushrn-video-statement-unwgepad-civil-society-consultation" typeof="sioc:Item foaf:Document" class="node node-resource node-promoted node-sticky node-teaser node-published author-jess-st-louis odd clearfix" id="node-resource-2082">
+    					<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/resources-media/text-ushrn-video-statement-unwgepad-civil-society-consultation"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/teaser/public/dc-end_of_visit_0.jpg?itok=X-W-GVX_" /></a></div>
+      </div>
+</div>
+</div>
+					<div class="teaser-content">	
+			<div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Statement/Press Release</div></div></div>				
+										<h2 class="node-title"><a href="/resources-media/text-ushrn-video-statement-unwgepad-civil-society-consultation">USHRN Statement for UNWGEPAD 20th Session</a></h2>
+						<span property="dc:title" content="Text of USHRN Video Statement for UNWGEPAD Civil Society Consultation" class="rdf-meta element-hidden"></span>			   
+			<div class="field field-name-field-short-summary field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">The text of USHRN&#039;s video statement for the 20th Session of the UNWGEPAD</div>
+      </div>
+</div>
+<a href="/resources-media/text-ushrn-video-statement-unwgepad-civil-society-consultation" class="node-readmore">More<span class="element-invisible"> about USHRN Statement for UNWGEPAD 20th Session</span><span class="element-flair">&nbsp;&raquo;&raquo;</span></a>		
+	</div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-2081" class="node node-resource node-promoted node-sticky feature_mini_teaser clearfix" about="/resources-media/us-working-group-statement-unwgepad-20th-session" typeof="sioc:Item foaf:Document" class="node node-resource node-promoted node-sticky node-published author-jess-st-louis even clearfix" id="node-resource-2081">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/resources-media/us-working-group-statement-unwgepad-20th-session"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/international-decade1.png?itok=h2WUa5lN" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Statement/Press Release</div></div></div>	
+							<h2 class="node-title"><a href="/resources-media/us-working-group-statement-unwgepad-20th-session">US Working Group Statement for UNWGEPAD 20th Session</a></h2>
+				<span property="dc:title" content="US Working Group Statement for UNWGEPAD 20th Session" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-2079" class="node node-news node-promoted node-sticky feature_mini_teaser clearfix" about="/news-updates/3-ways-say-waterisahumanright-world-water-day" typeof="sioc:Item foaf:Document" class="node node-news node-promoted node-sticky node-published author-jess-st-louis odd clearfix" id="node-news-2079">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/news-updates/3-ways-say-waterisahumanright-world-water-day"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/water_-_resist_defend_banner.jpg?itok=OBED5sl6" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-update-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">News</div></div></div>	
+							<h2 class="node-title"><a href="/news-updates/3-ways-say-waterisahumanright-world-water-day">3 Ways to Say #WaterIsAHumanRight On World WaterDay!</a></h2>
+				<span property="dc:title" content="3 Ways to Say #WaterIsAHumanRight On World Water Day!" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    <div id="node-2076" class="node node-event node-promoted node-sticky feature_mini_teaser clearfix" about="/events/changing-climatechanging-work-women-leaders-economic-empowerment-human-right-water" typeof="sioc:Item foaf:Document" class="node node-event node-promoted node-sticky node-published author-jess-st-louis even clearfix" id="node-event-2076">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/events/changing-climatechanging-work-women-leaders-economic-empowerment-human-right-water"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/2017_csw_event_final_1.jpg?itok=SoV1LlCF" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-event-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Convening</div></div></div>	
+							<h2 class="node-title"><a href="/events/changing-climatechanging-work-women-leaders-economic-empowerment-human-right-water">USHRN CSW61 Side Event: Changing Climate/Changing Work</a></h2>
+				<span property="dc:title" content="Changing Climate/Changing Work: Women Leaders on Economic Empowerment &amp; the Human Right to Water" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section><section class="block block-views block-home-promoted-content-block-2 block-views-home-promoted-content-block-2 odd" id="block-views-home-promoted-content-block-2">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Resources and Media</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-home-promoted-content view-id-home_promoted_content view-display-id-block_2 view-dom-id-3d47e741d06a213f1a33fef13deaea3c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-2064" class="node node-resource node-promoted node-teaser teaser clearfix" about="/resources-media/us-6th-periodic-report-list-issues-prior-reporting-cat" typeof="sioc:Item foaf:Document" class="node node-resource node-promoted node-teaser node-published node-not-sticky author-rebecca-landy odd clearfix" id="node-resource-2064">
+    					<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/resources-media/us-6th-periodic-report-list-issues-prior-reporting-cat"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/teaser/public/cat_loipr_6th_report_12_16_jpg.jpg?itok=-temEnqy" /></a></div>
+      </div>
+</div>
+</div>
+					<div class="teaser-content">	
+			<div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Publication</div></div></div>				
+										<h2 class="node-title"><a href="/resources-media/us-6th-periodic-report-list-issues-prior-reporting-cat">US 6th Periodic Report List of Issues Prior to Reporting for CAT</a></h2>
+						<span property="dc:title" content="US 6th Periodic Report List of Issues Prior to Reporting for CAT" class="rdf-meta element-hidden"></span>			   
+			<div class="field field-name-field-short-summary field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">These are the issues the Committee Against Torture will be looking at in 2018</div>
+      </div>
+</div>
+<a href="/resources-media/us-6th-periodic-report-list-issues-prior-reporting-cat" class="node-readmore">More<span class="element-invisible"> about US 6th Periodic Report List of Issues Prior to Reporting for CAT</span><span class="element-flair">&nbsp;&raquo;&raquo;</span></a>		
+	</div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-2030" class="node node-resource node-promoted feature_mini_teaser clearfix" about="/resources-media/final-country-visit-report-unwgepad" typeof="sioc:Item foaf:Document" class="node node-resource node-promoted node-published node-not-sticky author-rebecca-landy even clearfix" id="node-resource-2030">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/resources-media/final-country-visit-report-unwgepad"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/unwgepad_press_release.jpg?itok=2Qdchf1o" alt="UN WGEPAD Press Release Photo" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+		
+							<h2 class="node-title"><a href="/resources-media/final-country-visit-report-unwgepad">Final Country Visit Report from the UNWGEPAD</a></h2>
+				<span property="dc:title" content="Final Country Visit Report from the UNWGEPAD" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-2027" class="node node-resource node-promoted feature_mini_teaser clearfix" about="/resources-media/un-committee-against-torture-1-year-follow-letter" typeof="sioc:Item foaf:Document" class="node node-resource node-promoted node-published node-not-sticky author-jess-st-louis odd clearfix" id="node-resource-2027">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/resources-media/un-committee-against-torture-1-year-follow-letter"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/endtorture_0.jpg?itok=8TIP-3Rj" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-media-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Document</div></div></div>	
+							<h2 class="node-title"><a href="/resources-media/un-committee-against-torture-1-year-follow-letter">UN CAT 1-year Follow-up Letter</a></h2>
+				<span property="dc:title" content="UN Committee Against Torture 1-year Follow-Up Letter" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    <div id="node-2019" class="node node-resource node-promoted feature_mini_teaser clearfix" about="/resources-media/statement-ushrn-working-group-equality-non-discrimination" typeof="sioc:Item foaf:Document" class="node node-resource node-promoted node-published node-not-sticky author-jess-st-louis even clearfix" id="node-resource-2019">
+		<div class="teaser-image"><div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/resources-media/statement-ushrn-working-group-equality-non-discrimination"><img typeof="foaf:Image" src="https://www.ushrnetwork.org/sites/ushrnetwork.org/files/styles/feature_mini_teaser/public/ushrn_logo_square.jpeg?itok=1FsbOMm-" /></a></div>
+      </div>
+</div>
+</div>
+		<div class="teaser-content">
+	<div class="field field-name-field-resource-type field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Statement/Press Release</div></div></div>	
+							<h2 class="node-title"><a href="/resources-media/statement-ushrn-working-group-equality-non-discrimination">Statement from our Working Group on Equality and Non Discrimination</a></h2>
+				<span property="dc:title" content="Statement from USHRN Working Group on Equality and Non Discrimination" class="rdf-meta element-hidden"></span>			</div>
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link"><a href="/resources-media">View all&nbsp;<span class="element-flair">&raquo;&raquo;</span></a></div>
+  
+  
+  
+</div>    </div>
+  </div>
+</section></div></div>    </div>
+  </div>
+</section>      </div>
+</div>      </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix container-12"><div id="zone-postscript-inner" class="zone zone-postscript-inner clearfix container-12">
+    <div class="grid-8 region region-postscript-first" id="region-postscript-first">
+  <div class="region-inner region-postscript-first-inner">
+    <div class="block block-menu-block block-5 block-menu-block-5 odd block-without-title" id="block-menu-block-5">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-851"><a href="/our-work" title="Issues, Projects, Convenings, and Workshops">Our Work</a></li>
+<li class="leaf has-children menu-mlid-780"><a href="/about-us" title="About US Human Rights Network">About Us</a></li>
+<li class="last leaf has-children menu-mlid-852"><a href="/members" title="Member Organizations of the US Human Rights Network">Members</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu-block block-6 block-menu-block-6 even block-without-title" id="block-menu-block-6">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-6 menu-name-menu-top-banner-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1234"><a href="/news-updates" title="News and blog posts from member organizations and the US Human Rights Network">News &amp; Updates</a></li>
+<li class="leaf menu-mlid-1236"><a href="/take-action">Take Action</a></li>
+<li class="leaf has-children menu-mlid-863"><a href="/upcoming-events" title="Upcoming events from member organizations and the US Human Rights Network">Events</a></li>
+<li class="last leaf has-children menu-mlid-1237"><a href="/resources-media">Resources &amp; Media</a></li>
+</ul></div>
+    </div>
+  </div>
+</div><div class="block block-menu block-menu-home-contact-join-footer-me block-menu-menu-home-contact-join-footer-me odd block-without-title" id="block-menu-menu-home-contact-join-footer-me">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/" title="" class="active">Home</a></li>
+<li class="leaf"><a href="/contact-ushrn">Contact USHRN</a></li>
+<li class="last leaf"><a href="/join-movement">Join the Movement</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-4 region region-postscript-second" id="region-postscript-second">
+  <div class="region-inner region-postscript-second-inner">
+    <section class="block block-menu-block block-8 block-menu-block-8 odd" id="block-menu-block-8">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Follow us</h2>
+            
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-8 menu-name-menu-follow-us-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1032 menu-mlid-1032"><a href="http://twitter.com/ushrn" rel="nofollow" target="_blank">Twitter</a></li>
+<li class="leaf menu-mlid-1033 menu-mlid-1033"><a href="http://www.facebook.com/ushrnetwork" rel="nofollow" target="_blank">Facebook</a></li>
+<li class="leaf menu-mlid-1034 menu-mlid-1034"><a href="http://www.youtube.com/user/ushrn" rel="nofollow" target="_blank">YouTube</a></li>
+<li class="leaf menu-mlid-934 menu-mlid-934"><a href="/ushrn-podcasts" title="Dare to Struggle, Dare to Win monthly podcast" rel="nofollow" target="_blank">Podcast</a></li>
+<li class="last leaf menu-mlid-1035 menu-mlid-1035"><a href="/rss.xml" rel="nofollow" target="_blank">RSS Feed</a></li>
+</ul></div>
+    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div></div><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-block block-1 block-block-1 odd block-without-title" id="block-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>&copy; 2017 US Human Rights Network. <span>All rights reserved.</span></p>
+<p>250 Georgia Avenue SE, Suite 330, <span>Atlanta GA 30312</span></p> 
+<p>Telephone: 404-588-9761 <span>Fax: 404-588-9763</span> <span>Email: <a href="mailto:info@ushrnetwork.org">info@ushrnetwork.org</a></span></p>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  </body>
+</html>

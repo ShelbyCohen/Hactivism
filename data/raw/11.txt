@@ -1,174 +1,332 @@
-     <!
-c:/zbs/webdocs/art/decart/artcraft/artcraft.htm
->
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://cujah.org/xmlrpc.php">
 
-<html><head> 
+	<script type="text/javascript">
+		WebFontConfig = {
+			google: {
+				families: [ 'Noto+Sans:400,700,400italic,700italic:latin,latin-ext', 'Martel:400,300,700,900:latin,latin-ext' ]
+			},
+			active: function() {
+				document.dispatchEvent( new Event( 'resize' ) );
+			}
+		};
 
-<title>The Arts and Crafts Movement</title>
-<script>
-function yup ()
-{
-if (parent.menu)
-{
-parent.menu.location="../../../TOC.html#dec";
+		( function() {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.jsdelivr.net/webfontloader/1.6.15/webfontloader.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		} )();
+	</script>
+<title>Feminism and the Art of &#8220;Craftivism&#8221;: Knitting for Social Change under the Principles of the Arts and Crafts Movement &#8211; CUJAH</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CUJAH &raquo; Feed" href="http://cujah.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CUJAH &raquo; Comments Feed" href="http://cujah.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cujah.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-}
+</style>
+<link rel='stylesheet' id='dcwp_plugin_admin_dcscf_css-css'  href='http://cujah.org/wp-content/plugins/slick-contact-forms/css/admin.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mk_posts_pages_style-css'  href='http://cujah.org/wp-content/plugins/mk-post-and-page-excerpts-widgets/css/styles.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://cujah.org/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox.css-css'  href='http://cujah.org/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://cujah.org/wp-includes/css/dashicons.min.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://cujah.org/wp-includes/js/thickbox/thickbox.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='briar-style-css'  href='http://cujah.org/wp-content/themes/briar/css/style.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='briar-style-red-css'  href='http://cujah.org/wp-content/themes/briar/css/style-red.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://cujah.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gpp_shortcodes-css'  href='http://cujah.org/wp-content/plugins/gpp-shortcodes/gpp-shortcodes.css?ver=4.6.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://cujah.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://cujah.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://cujah.org/wp-content/plugins/slick-contact-forms/js/jquery.slick.contact.1.3.2.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://cujah.org/wp-content/plugins/spider-event-calendar/elements/calendar.js?ver=1.5.35'></script>
+<script type='text/javascript' src='http://cujah.org/wp-content/plugins/spider-event-calendar/elements/calendar-setup.js?ver=1.5.35'></script>
+<script type='text/javascript' src='http://cujah.org/wp-content/plugins/spider-event-calendar/elements/calendar_function.js?ver=1.5.35'></script>
+<link rel='https://api.w.org/' href='http://cujah.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cujah.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cujah.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.5" />
+<link rel="canonical" href="http://cujah.org/past-volumes/volume-v/essay3-volume5/" />
+<link rel='shortlink' href='http://wp.me/P2R4SB-fQ' />
+<link rel="alternate" type="application/json+oembed" href="http://cujah.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcujah.org%2Fpast-volumes%2Fvolume-v%2Fessay3-volume5%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://cujah.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcujah.org%2Fpast-volumes%2Fvolume-v%2Fessay3-volume5%2F&#038;format=xml" />
+  <script>
+    var xx_cal_xx = '&';
+  </script>
+  
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Feminism and the Art of &#8220;Craftivism&#8221;: Knitting for Social Change under the Principles of the Arts and Crafts Movement" />
+<meta property="og:url" content="http://cujah.org/past-volumes/volume-v/essay3-volume5/" />
+<meta property="og:description" content="Micaela Hardy-Moffat The Arts and Crafts movement of the 1860s, established by William Morris in the United Kingdom, is a reemerging movement due to the phenomenon of “craftivism”. This phenomenon …" />
+<meta property="article:published_time" content="2012-11-17T03:42:24+00:00" />
+<meta property="article:modified_time" content="2012-11-17T03:42:24+00:00" />
+<meta property="og:site_name" content="CUJAH" />
+<meta property="og:image" content="http://cujah.org/wp-content/uploads/114-150x150.jpg" />
+<meta property="og:image:secure_url" content="https://i2.wp.com/cujah.org/wp-content/uploads/114-150x150.jpg" />
+<meta property="og:image" content="http://cujah.org/wp-content/uploads/25-150x150.jpg" />
+<meta property="og:image:secure_url" content="https://i1.wp.com/cujah.org/wp-content/uploads/25-150x150.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image" content="http://cujah.org/wp-content/uploads/114-150x150.jpg?w=1400" />
+<meta name="twitter:card" content="summary_large_image" />
+</head>
+
+<body class="page page-id-982 page-child parent-pageid-26 page-template-default">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header class="header header--borders" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="header__inner">
+									<h1 class="header__logo"><a href="http://cujah.org/" class="header__logo-link btn--transition btn--logo site-title">CUJAH</a></h1>
+				
+						<button class="dropdown-nav__toggle btn--transition" data-nav="#main-nav">
+							<span></span>
+						</button>
+
+						<nav role="navigation" id="main-nav" class="main-nav">
+							<ul id="menu-volumes" class="dropdown-nav animated bounceOut"><li id="menu-item-1355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1355 dropdown-nav__item"><a href="http://cujah.org/about/" class="dropdown-nav__link">About CUJAH</a>
+<ul class="sub-menu">
+	<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1915 dropdown-nav__item"><a href="http://cujah.org/about/volume-xi-team/" class="dropdown-nav__link">Volume XII Team</a></li>
+	<li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810 dropdown-nav__item"><a href="http://cujah.org/contact-us/" class="dropdown-nav__link">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-122 dropdown-nav__item"><a href="http://cujah.org/past-volumes/" class="dropdown-nav__link">Volumes</a>
+<ul class="sub-menu">
+	<li id="menu-item-3608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3608 dropdown-nav__item"><a href="http://cujah.org/vol-xiii/" class="dropdown-nav__link">Volume XII</a></li>
+	<li id="menu-item-3288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3288 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-xi/" class="dropdown-nav__link">Volume XI</a></li>
+	<li id="menu-item-2590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2590 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-x/" class="dropdown-nav__link">Volume X</a></li>
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-ix/" class="dropdown-nav__link">Volume IX</a></li>
+	<li id="menu-item-809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-viii/" class="dropdown-nav__link">Volume VIII</a></li>
+	<li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-vii/" class="dropdown-nav__link">Volume VII</a></li>
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-vi/" class="dropdown-nav__link">Volume VI</a></li>
+	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-194 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-v/" class="dropdown-nav__link">Volume V</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-iv/" class="dropdown-nav__link">Volume IV</a></li>
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-iii/" class="dropdown-nav__link">Volume III</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-ii/" class="dropdown-nav__link">Volume II</a></li>
+	<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190 dropdown-nav__item"><a href="http://cujah.org/past-volumes/volume-i/" class="dropdown-nav__link">Volume I</a></li>
+</ul>
+</li>
+<li id="menu-item-1903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1903 dropdown-nav__item"><a href="http://cujah.org/conferencepage/" class="dropdown-nav__link">Conference</a></li>
+<li id="menu-item-2882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2882 dropdown-nav__item"><a href="http://cujah.org/events/" class="dropdown-nav__link">Events</a></li>
+<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-188 dropdown-nav__item"><a href="http://cujah.org/submissions-info/" class="dropdown-nav__link">Submissions</a>
+<ul class="sub-menu">
+	<li id="menu-item-3451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3451 dropdown-nav__item"><a href="http://cujah.org/submit/" class="dropdown-nav__link">Submit</a></li>
+	<li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243 dropdown-nav__item"><a href="http://cujah.org/submissions-info/submission-guidelines/" class="dropdown-nav__link">Submission Guidelines</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					</div><!-- /.header inner -->
+				</div><!-- /.col -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</header>
+
+	
+		<div class="page-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-push-4">
+
+					
+<div class="post-item clearfix post-982 page type-page status-publish hentry">
+	<h1 class="post-item__title">Feminism and the Art of &#8220;Craftivism&#8221;: Knitting for Social Change under the Principles of the Arts and Crafts Movement</h1>
+	<p><strong>Micaela Hardy-Moffat</strong></p>
+<p>The Arts and Crafts movement of the 1860s, established by William Morris in the United Kingdom, is a reemerging movement due to the phenomenon of “craftivism”. This phenomenon has appropriated the use of craft and fibre arts (particularly knitting) often playing upon the juxtaposition of common household materials for the use of political and social causes, in the hopes of promoting positive social change. As the craft arts have so frequently been relegated to the field of “women’s hobbies”, much of the contemporary craftivist movements have been influenced and driven by Western feminist theory and practice, playing on the irony of familiar stereotypes.</p>
+<p>Examining the history of the Arts and Crafts movement as it was first developed by Morris, it may be noted that his four founding principles – unity in design, joy in labour, individualism, and regionalism – were brought to North America and adopted by the Canadian Handicrafts Guild; a Canadian, female-led association based on the promotion of craft art. Such principles have been carried forth over the years, being of influence during the mid to late 1900s as feminist collectives, such as ‘Voice of Women’, used knitting and handicrafts in order to educate the masses and encourage social ideals during times of international turbulence.</p>
+<p>In Canada today, knitting continues to be used as a craftivist medium, and is being employed by such groups as the ‘Revolutionary Knitting Circle’ and ‘Blankets for Canada Society Inc.’, as well as by Canadian artists like Janet Morton and Barb Hunt. The craftivist movement, an offshoot of the Arts and Crafts movement, coincides with established Western feminist thought, thus empowering the craft realm and forcing knitting to be understood by the greater public as more than a mere “craft hobby”, but as a medium to both promote social change and improve Western society at large.</p>
+<p>William Morris, a well-known textile designer in the UK[1] established the movement as a reaction against the industrial revolution in the hopes of returning society to a simpler way of life.[2] By determining four main principles with regard to the arts and crafts, Morris made clear the way in which he believed people should interact with art, each other, and the world. The first of these principles, unity in design, spoke directly to the aesthetic of the arts, stating that the surface beauty of the object should correspond to the object’s function and utility.[3] The second principle, joy in labour, served to minimize the division of labour imposed by the industrial revolution and give equal credit to both the designer and the maker of the textile. During Morris’ time, the male designers were often paid total recognition for the making of a textile piece, despite the fact that the makers, who were generally women, were heavily involved in the hands-on production of the work.[4] F.B. Singleton, author of the essay <em>Nature, Art &amp; Industrialism</em> (1984) features a portion of Morris’ writings with regard to the division of labour caused by industrialism. Morris states, “it is not only the labour that is divided, sub-divided and portioned out betwixt divers [sic] men: it is the man himself who is cut up, and metamorphosed into the automatic spring of an exclusive operation”.[5] The third principle, individualism, referred to the importance of uniqueness and originality, in contrast to the multitude of mass-produced, poor quality goods being pumped out by the factories that emerged during the industrial revolution.[6] Finally, the notion of regionalism dictated the requirement for a wholesome and harmonious relationship with the surrounding environment, encouraging the use of local materials derived from natural sources for the creation of art.[7] Kathlyn L. Reed and Sharon Nelson Sanderson, authors of the 1999 <em>Concepts of Occupational Therapy</em>, explain that Morris developed four further principles with regard to the Arts and Crafts movement. It can be said, though, that these added principles – social responsibility, consistency and order, simplicity, and home and hearth – were in fact developed as the proposed outcomes, should society agree to the support of Morris’ unity in design, joy in labour, individualism, and regionalism.[8]</p>
+<p>By the late eighteenth century, the Arts and Crafts movement that had taken hold in Britain began to have an influence in Canada as well. Ellen E. McLeod, author of <em>In Good Hands: The Women of the Canadian Handicrafts Guild </em>(1999) writes, “Many Canadians were cognizant of the renaissance of crafts in Britain, and of the subsequent crafts movement in the United States. By the turn of the century, the fields of applied arts, crafts, and traditional handicrafts were an artistic arena in which privileged British and American women had been able to participate and, in some cases, even lead”.[9] The same can be said of Canadian women, who began to form a number of groups and guilds, which quickly gained significance in the public sphere due to the philanthropic causes that the associations would assume.[10] Many of the female-led clubs were formed specifically for the promotion of arts and crafts, which, during the late 1800s, was understood to be an acceptable female past time, as “women&#8217;s ability to do embroidery was assumed to be part of a feminine identity, and the connection was seen as entirely ‘natural’”.[11] McLeod attributes the development of the Arts and Crafts movement in Canada to the leadership of the co-founders of the Canadian Handicrafts Guild, Alice Peck and Mary (May) Phillips.[12] These women, adhering to the same principles first established by William Morris, hoped to promote the production of arts and crafts amongst “needy farm women”[13] in order for these destitute families to receive some extra income, thus giving the wives economic independence along with a valued sense of autonomy. And so the first traces of feminist craftivism may be recognized.</p>
+<p>Alice Peck grew up in a wealthy family, allowing her to study abroad in the UK during her youth; these studies abroad maintained influence over her stylistic approach to the arts throughout her life.[14] Despite the unforeseen death of her husband, which left her to single-handedly run his business and tend to their seven children, Peck found time to take on the consuming endeavor of establishing the Canadian Handicrafts Guild in the late 19<sup>th</sup> and early 20<sup>th</sup> centuries.[15] May Phillips, principal of the School of Art and Applied Design in Montreal, had studied art in New York City, gaining a respectable reputation which she carried with her upon her return to Montreal.[16] According to McLeod, both women were dedicated members of the National Council of Women of Canada and the Women&#8217;s Art Association of Canada, giving them the base they would need to begin the Handicrafts Guild. Like Morris, Peck and Phillips hoped to support “good design, natural colours, fine workmanship, and originality”[17] in the realm of arts and crafts. They also recognized that the industrial revolution was depleting the nation of wholesome handmade goods, and feared that the traditions of First Nations art, as well as the time-honored crafts introduced by immigrants new to Canada, would die out as a result of the surge in production of mass-produced commodities.[18] In 1906, the Canadian Handicrafts Guild was officially recognized and “incorporated nationally”, continuing its efforts to encourage the arts and crafts culture over the next thirty years.[19] One of the first associations to develop the idea of craftivism, it can be stated that its founders not only established the guild of handicrafts, but laid down the brickwork for the road to social activism through the means of handmade craft.</p>
+<p>The use of craft for social and political cause only became more critical as the years continued. During the First and Second World Wars, handmade goods became increasingly valued as the rationing of material goods became important commodities to aid in the war effort. Canadian women, along with their American and British counterparts, were enlisted to knit for the soldiers fighting in Europe, solidifying the art of knitting as a craftivist activity. McMaster University’s on-line database discusses an archived leaflet dated between 1914 and 1918, which was released to the Canadian public during the First World War. The leaflet offers thanks to the women who worked tirelessly to knit socks and clothing for the soldiers, and encourages the women to continue their contributions to the war effort. The leaflet begins, “the work done by Canadian women in order that this war may come to a successful ending – peace with victory – is nothing short of amazing…Socks by the millions of pairs…comforts without stint makes a record of devotion and faithfulness never before equaled…for four years the work has gone on and somehow the hands have not lost their cunning nor the hearts their love for freedom and right and the flag”.[20] The writing continues, “even those women whose earthly pilgrimage seems almost completed have sent in their hundreds of pairs of socks which their dear old fingers have knit in order that the torch of liberty shall not be extinguished”.[21] This emphasizes the significance of the contribution women’s knitting had on the war effort, arming the soldiers with national pride and identity. Standardized knitting patterns were mailed out by the Red Cross to women across the country, in the hopes that they would knit in their spare hours to produce articles to ship overseas.[22] Linda J. Quiney, in her article <em>&#8220;Bravely and Loyally They Answered the Call&#8221;: St. John Ambulance, the Red Cross, and the Patriotic Service of Canadian Women During the Great War </em>(2005), explains that the thousands of Canadian women knitting for the Red Cross during the First World War were not limited to any one class in particular, but instead were women of all backgrounds who participated without hesitation.[23]</p>
+<p>By the Second World War, female knitters were back in action, ready once again to make donations by means of the handmade. The Oakville Ontario war website, an online version of the 1999 exhibit <em>Shadows of War: Not So Long Ago in the 20th Century</em> featured at the Oakville Museum at Erchless Estate, boasts “one and one-half tons of wool knitted into sweaters, socks, and other woolen items. 26,000 hand-sewn and knitted articles, including 420 pieces of clothing for war refugees completed in only six days”[24] – all this accomplished by the Oakville Women’s War Service League by 1940, only one year after the war had officially been declared.</p>
+<p>The efforts of women fighting for peace did not end with the World Wars, nor did the use of knitting as a form of peace activism stop. The Canadian group ‘Voice of Women’ (VOW), created in July 1960 as a reaction against the Cold War, garnered ten thousand members by 1961 – just twelve months after having been first established.[25] Barbara Roberts’ essay, <em>Women’s Peace Activism in Canada</em>, featured in Kealey and Sangster’s <em>Beyond the Vote: Canadian Women and Politics (1989)</em>, explains the way in which VOW became a prominent feminist and peace activist group during the years of the Cold War, despite being founded at a time when “feminists were cranks” and “socialists were commies”.[26] The group took on the initiative of knitting thousands of camouflage baby clothes to be shipped to Vietnam so as to protect children and their families from the US air strikes.[27] This bold action made a loud statement to the Canadian people, and despite not being well received by much of the public, VOW continued to protest the Cold War.</p>
+<p>Craftivist initiatives continue today, with contemporary artists taking the lead by loading their work with political messages. Just as feminist thought has expanded over the generations, so too has the variety and gender of the participants using knitting as a form of activism. The Revolutionary Knitting Circle, which has branches across Canada, as well as a number of connections in the United States, writes in their manifesto that “the Revolutionary Knitting Circle calls upon people everywhere to take up the struggle through the tools of local production. We shall bring forth not only our voices raised for global justice, but we shall rise together, with the tools to liberate local communities from the shackles of global corporatism”.[28] Traces of the original principles established during the Arts and Crafts movement can be found in the manifesto. The members of the Revolutionary Knitting Circle view knitting as a powerful tool – or weapon, if you will – for a “constructive revolution”[29]; a revolution that they hope will bring people together into peaceful, wholesome communities despite the immorality that weighs so heavily upon society. As well as featuring work by various knit artists across North America (as seen in figure 1), the group’s website specifies that people of all ages, ethnicities, classes, and genders are welcome to participate, articulating the significance of inclusiveness that craftivism upholds.[30] The notion of such inclusiveness parallels much of contemporary feminist thought, as the systematic structures of race, class, and gender are being deconstructed and critiqued under the feminist lens in the hopes of developing cohesive, equitable, and functional societies.[31]</p>
+<p>The Blankets for Canada Society, founded in 1998 by Nancy Panting of Lethbridge, Alberta, is another Canadian group using knitting for positive social cause. The blankets, knit by the various chapters located in every province and territory in Canada, are donated to those who find themselves homeless and in need of warmth during harsh Canadian winters. According to the Society’s website, which displays images of some of the donated blankets, approximately 20, 000 volunteer hours are contributed every month to the knitting of blankets for Blankets for Canada.[32] The handmade blankets often include labels that read “Compliments of Blankets for Canada; NOT FOR SALE”[33]; a clear message indicating the importance of the selfless act of giving upon which the Society is structured.</p>
+<p>Individual artists, too, are using knitting as not only a form of art, but as a form of political activism. Janet Morton is a Canadian artist who has used knitting as a means of creating politically charged artwork. Morton, who tends to create grand-scale pieces through the use of “domestic craft” – knitting, crocheting, and sewing – has created a number of works that deal with views on life, the home, and, of course, society. Her piece, <em>Cozy</em>, displayed in Toronto in 1999, included over 800 recycled knit sweaters and was installed in a park known to attract great numbers of homeless people. Of this work, she states, “the idea came from my thinking about home and homelessness”, once again playing on the ironies and excesses of human behavior.[34] Another well-known piece by Morton, <em>Femmebomb </em>(see figure 2), a giant pink crocheted façade for the University of Wisconsin’s economics building displayed in 2004 was, for Morton, a response to the “paranoia” surrounding the war: “there was so much paranoia and patriotism around the war. My idea was that there are many ways to fight against that, and this was one of them”.[35]</p>
+<p>Barb Hunt, a Newfoundland-based artist who received her MFA from Concordia University,[36] is recognized for her 2001 series entitled, <em>Antipersonnel</em>, which includes dozens of hand-knit replicas of land mines. Hunt’s replicas, in contrast to actual mines, appear soft and harmless, fashioned with cushiony wool in shades of pink. The inspiration for this work came from her attendance at the annual Paris protest, “The Pyramid of Shoes”, a demonstration to denounce the use of land mines and draw attention to the horrific impact such weapons have on innocent civilians.[37] Of this work, Hunt states, “There is a close association of knitting with caring for the body. Bandages for soldiers were once hand-knitted, and women still knit socks for soldiers overseas, and for the homeless. Thus knitting functions as a metaphor for recuperation, protection, and healing. In <em>Antipersonnel</em>, I use these associations to contradict the abuse of power and the use of violence, by transforming a destructive object into one that can do no harm”.[38] On her website Hunt mentions, “I am particularly drawn to feminism&#8217;s acceptance of domestic activities as a valid approach to contemporary art practice”.[39] This sentiment is clearly applied in the <em>Antipersonnel</em> series, as it is Hunt’s precise and overt sense of wit that drives the message so fervently home.</p>
+<p>The history of craftivist art lies in the foundations first established by the Arts and Crafts movement in the UK. The idea of ethical interactions and relationships between the artist and his or her environment as a whole has carried through the generations. Female-led efforts to promote craft industries in Canada during the late 19<sup>th</sup>century have also influenced today’s craftivist undertakings by implanting the trend with feminist values and ethics. Craft artists and social action groups are thus driven to create their art in conjunction with a framework dedicated to political change and constructive protest. Through the manipulation and exploitation of stereotypes that lie in the assumed innocence of knitted artwork, the familiarity and gentleness of craft art has become a tool for assertive social action.</p>
+<p><strong>LIST OF ILLUSTRATIONS</strong></p>
+<div id='gallery-6' class='gallery galleryid-982 gallery-columns-2 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='http://cujah.org/past-volumes/volume-v/essay3-volume5/1-5/'><img width="150" height="150" src="http://cujah.org/wp-content/uploads/114-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Fig. 1. Artists unspecified, &quot;Peace Banner for the End the Occupation of Iraq Protest March&quot;, March 2004, yarn, Calgary, Alberta" aria-describedby="gallery-6-983" srcset="http://cujah.org/wp-content/uploads/114-150x150.jpg 150w, http://cujah.org/wp-content/uploads/114-184x184.jpg 184w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-6-983'>
+				Fig. 1. Artists unspecified, &#8220;Peace Banner for the End the Occupation of Iraq Protest March&#8221;, March 2004, yarn, Calgary, Alberta 
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='http://cujah.org/past-volumes/volume-v/essay3-volume5/2-5/'><img width="150" height="150" src="http://cujah.org/wp-content/uploads/25-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Fig. 2. Janet Morton, &quot;Femmebomb&quot;, 2004, recyled materials knit, sewn, and crocheted together, Madison,  Wisconsin" aria-describedby="gallery-6-984" srcset="http://cujah.org/wp-content/uploads/25-150x150.jpg 150w, http://cujah.org/wp-content/uploads/25-184x184.jpg 184w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-6-984'>
+				Fig. 2. Janet Morton, &#8220;Femmebomb&#8221;, 2004, recyled materials knit, sewn, and crocheted together, Madison,  Wisconsin  
+				</figcaption></figure>
+		</div>
+
+<p><strong>BIBLIOGRAPHY</strong></p>
+<p>“About Jane Morton: Visual Artist”. <em>The University of Wisconsin – Madison</em>. 2008. 1 December 2008 &lt;http://www.arts.wisc.edu/artsinstitute/IAR/morton/about.html&gt;.</p>
+<p>Burton, J. Penney. “Women of the Arts and Crafts Movement”. <em>History of Canadian Fibre Art.</em> Class Notes, Concordia University. 15 September 2008.</p>
+<p>Burton, J. Penney. “Women of the Arts and Crafts Movement”. <em>History of Canadian Fibre Art.</em> Class Notes, Concordia University. 29 September 2008.</p>
+<p>Hunt, Barb. “Barb Hunt”. 2008. 1 December 2008. &lt;http://www.barbhunt.com/index.htm&gt;.</p>
+<p>McGonagle, Declan, et al., comps. <em>William Morris Today</em>. London: I C A/Institute of Contemporary Arts, 1984.</p>
+<p>McLeod, Ellen E. <em>In Good Hands: The Women of the Canadian Handicrafts Guild.</em> New York: McGill-Queen&#8217;s University Press, 1999.</p>
+<p>Neufeld, Grant. “Revolutionary Knitting Circle”. <em>Revolutionary Knitting Circle</em>. 2008. 1 December 2008 &lt;http://knitting.activist.ca/&gt;.</p>
+<p>“Oakville at War”. <em>Government of Ontario</em>. 2008. 30 November 2008 &lt;http://oakvilleatwar.opl.on.ca/women.php&gt;.</p>
+<p>Obniski, Monica. “The Arts and Crafts Movement in America”, <em>The Metropolitan Museum of Art</em>. 2008. 30 Nov. 2008 &lt;http://www.metmuseum.org/toah/hd/acam/hd_acam.htm&gt;.</p>
+<p>Panting, Nancy. &#8220;Blankets for Canada Society: &#8220;Warming Canadians&#8221;.<em>Blankets for Canada Society</em>. 27 Mar. 2008. 30 Oct. 2008 &lt;http://www.blankets4canada.ca/&gt;.</p>
+<p>Quiney, Linda J. “&#8221;Bravely and Loyally They Answered the Call&#8221;: St. John Ambulance, the Red Cross, and the Patriotic Service of Canadian Women During the Great War”. <em>University of Calgary.</em> 2005. 30 November 2008 &lt;http://www.ucalgary.ca/hic/issues/vol5/1&gt;.</p>
+<p>Reed, Kathlyn L., Sharon Nelson Sanderson. <em>Concepts of Occupational Therapy.</em> Lippincott Williams &amp; Wilkins, 1999.</p>
+<p>Roberts, Barbara “Women’s Peace Activism in Canada”, <em>Beyond the Vote : Canadian Women and Politics,</em>Eds. Linda Kealey and Joan Sangster. New York: University of Toronto Press, 1989. 276-308.</p>
+<p>Sandals, Leah. “Q+A: Janet Morton”. <em>NOW Magazine</em>, Vol. 27 No. 4. 2007. 1 December 2008 &lt;http://www.nowtoronto.com/art/story.cfm?content=159950&amp;archive=27,4,200&gt;.</p>
+<p>Scott, Joan W. “The Conundrum of Equality”. <em>Occasional Papers of the School of Social Science, Institute for Advanced Study, Princeton, NJ</em>. March 1999, Paper number 2: 1-13.</p>
+<p>“Women and War”. <em>McMaster University</em>. 2008. 30 November 2008 &lt;digitalcollections.mcmaster.ca/ tag/Women+and+War&gt;.</p>
+<p><strong>ADDITIONAL SOURCES</strong></p>
+<p>Adamson, Glenn. &#8220;Wack! Art and the Feminist Revolution.&#8221; <em>Crafts </em>208 (2007): 75-75.</p>
+<p>Callen, Anthea. &#8220;Sexual Division of Labor in the Arts and Crafts Movement.&#8221; <em>Woman&#8217;s Art Journal</em> 5 (1985): 1-6.</p>
+<p>Cunningham, Peter. &#8220;Feministische Kunst Internationaal: A Review.&#8221; <em>Oxford Art Journal</em> 3 (1980): 83-84.</p>
+<p>Elliott, Bridget, and Janice Helland. <em>Women Artists and the Decorative Arts, 1880-1935 : The Gender of Ornament</em>. Grand Rapids: Ashgate, Limited, 2002.</p>
+<p>Gschwandtner, Sabrina. &#8220;Knitknit: Home.&#8221; <em>Knitknit</em>. 2002. 30 Oct. 2008 &lt;http://www.knitknit.net/&gt;.</p>
+<p>Winter, Robert W. &#8220;The Arts and Crafts as a Social Movement.&#8221; <em>Record of the Art Museum, Princeton University</em> 34 (1975): 36-40.</p>
+<p><strong>Endnotes</strong></p>
+<p>[1] Monica Obniski, “The Arts and Crafts Movement in America”, 2008, <em>The Metropolitan Museum of Art</em>, 30 Nov. 2008 &lt;http://www.metmuseum.org/toah/hd/acam/hd_acam.htm&gt;.</p>
+<p>[2] Kathlyn L. Reed, Sharon Nelson Sanderson, <em>Concepts of Occupational Therapy</em> (Lippincott Williams &amp; Wilkins, 1999) 19</p>
+<p>[3] Reed &amp; Sanderson 19</p>
+<p>[4] Ellen E. McLeod, <em>In Good Hands : The Women of the Canadian Handicrafts Guild</em> (New York: McGill-Queen&#8217;s UP, 1999) 52</p>
+<p>[5] Declan McGonagle et al., comps. <em>William Morris Today</em> (London: I C A/Institute of Contemporary Arts, 1984) 58</p>
+<p>[6] Reed &amp; Sanderson 19</p>
+<p>[7] Reed &amp; Sanderson 19</p>
+<p>[8] Reed &amp; Sanderson 19</p>
+<p>[9] McLeod 58</p>
+<p>[10] McLeod 53, 61</p>
+<p>[11] McLeod 53</p>
+<p>[12] McLeod 1</p>
+<p>[13] McLeod 1</p>
+<p>[14] McLeod 1</p>
+<p>[15]Class Notes, 29 September 2008</p>
+<p>[16] McLeod 1</p>
+<p>[17] McLeod 2</p>
+<p>[18] McLeod 2</p>
+<p>[19] McLeod 2</p>
+<p>[20]“Women and War”, 2008, McMaster University, 30 November 2008 &lt;digitalcollections.mcmaster.ca/ tag/Women+and+War&gt;</p>
+<p>[21] “Women and War”, 2008, McMaster University</p>
+<p>[22] “Women and War”, 2008, McMaster University</p>
+<p>[23] Linda J. Quiney, “&#8221;Bravely and Loyally They Answered the Call&#8221;: St. John Ambulance, the Red Cross, and the Patriotic Service of Canadian Women During the Great War”, 2005, University of Calgary, 30 November 2008 &lt;http://www.ucalgary.ca/hic/issues/vol5/1&gt;</p>
+<p>[24] “Oakville at War”, 2008, Government of Ontario, 30 November 2008 &lt;http://oakvilleatwar.opl.on.ca/women.php&gt;</p>
+<p>[25] Barbara Roberts, “Women’s Peace Activism in Canada”, <em>Beyond the Vote : Canadian Women and Politics</em>, Eds. Linda Kealey and Joan Sangster (New York: University of Toronto P, 1989) 297</p>
+<p>[26] Roberts 293</p>
+<p>[27] Roberts 297</p>
+<p>[28] Grant Neufeld, “Manifesto”, 2008, Revolutionary Knitting Circle, 1 December 2008 &lt;http://knitting.activist.ca/manifesto.html&gt;</p>
+<p>[29] Neufeld, “Manifesto”, 2008, Revolutionary Knitting Circle</p>
+<p>[30] Grant Neufeld, “Revolutionary Knitting Circle”, 2008, Revolutionary Knitting Circle, 1 December 2008 &lt;http://knitting.activist.ca/&gt;</p>
+<p>[31] Joan W. Scott, “The Conundrum of Equality”, <em>Occasional Papers of the School of Social Science, Institute for Advanced Study </em>(Princeton, NJ. March 1999) 3</p>
+<p>[32] Nancy Panting, “Blankets for Canada Society”, 2008, Blankets for Canada, 1 December 2008 &lt;http://www.blankets4canada.ca/&gt;</p>
+<p>[33] Panting, “Blankets for Canada Society”, 2008, Blankets for Canada</p>
+<p>[34] “About Jane Morton: Visual Artist”, 2008, The University of Wisconsin – Madison, 1 December 2008 &lt;http://www.arts.wisc.edu/artsinstitute/IAR/morton/about.html&gt;</p>
+<p>[35] Leah Sandals, “Q+A: Janet Morton”, 2007, NOW Magazine, Vol. 27 No. 4, 1 December 2008 &lt;http://www.nowtoronto.com/art/story.cfm?content=159950&amp;archive=27,4,2007&gt;</p>
+<p>[36] Barb Hunt, “Bio”, 2008, Barb Hunt, 1 December 2008 &lt;http://www.barbhunt.com/&gt;</p>
+<p>[37] Barb Hunt, “Antipersonnel”, 2008, Barb Hunt, 1 December 2008 &lt;http://www.barbhunt.com/index.htm&gt;</p>
+<p>[38] Hunt, “Antipersonnel”, 2008, Barb Hunt</p>
+<p>[39] Barb Hunt, “Steel Dresses”, 2008, Barb Hunt, 1 December 2008 &lt;http://www.barbhunt.com/index.htm&gt;</p>
+</div><!-- /.post-item -->
+
+					
+									</div>
+
+							</div>
+		</div>
+	</div>
+
+	
+	<div class="fixed-footer animated fadeIn active">
+		<div class="fixed-footer__avatar" style="background-image: url(http://0.gravatar.com/avatar/c98093f8b9fbbfe80c7b17085ca1e7f3?s=35&#038;d=blank&#038;r=g);"></div><!-- /.avatar -->
+
+		<div class="fixed-footer__content">
+					<p>
+			<a href="http://cujah.org/author/thecujah/">CUJAH</a> on <time datetime="2012-11-16T22:42:24+00:00">11/16/2012</time>		</p>
+		
+					</div><!-- /.content -->
+
+		<a href="http://cujah.org/" class="fixed-footer__btn hidden-sm hidden-xs hidden-md">Back to homepage</a>
+
+			</div><!-- /.fixed footer -->
+
+	
+ 	<footer class="footer" id="footer" role="contentinfo">
+		<div class="container">
+			<div class="row">
+							<div class="col-md-6">
+					<ul class="social-nav">
+						<li class="facebook-ico social-nav__item btn--transition">
+				<a class="social-nav__link" href="#" title="Facebook" target="_blank">
+					<i class="fa fa-facebook"></i>
+				</a>
+			</li>
+						<li class="twitter-ico social-nav__item btn--transition">
+				<a class="social-nav__link" href="#" title="Twitter" target="_blank">
+					<i class="fa fa-twitter"></i>
+				</a>
+			</li>
+						<li class="linkedin-ico social-nav__item btn--transition">
+				<a class="social-nav__link" href="#" title="LinkedIn" target="_blank">
+					<i class="fa fa-linkedin"></i>
+				</a>
+			</li>
+					</ul>
+						</div>
+
+				<div class="col-md-6">
+								<div class="footer__copyright">
+						<p>CUJAH @ Copyright 2017. - Created by <a href="http://slicejack.com" title="WordPress Development Agency" rel="designer">SliceJack</a></p>
+					</div><!-- /.copyright -->
+				</div><!-- /.col -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</footer>
+
+		<div style="display:none">
+	</div>
+<link rel='stylesheet' id='Css-css'  href='http://cujah.org/wp-content/plugins/spider-event-calendar/elements/calendar-jos.css?ver=1.5.35' type='text/css' media='' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='http://cujah.org/wp-admin/css/color-picker.min.css?ver=4.6.5' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/cujah.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
 </script>
-</head><BODY onLoad="yup ()" BACKGROUND="../../../Weave.gif" text="#000000" link="cc6633" vlink="993366" alink="ffffff">
-<center>
-  <img src="../../../langban.gif" width="460" height="110">
-<hr width=45%></center>
+<script type='text/javascript' src='http://cujah.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201717'></script>
+<script type='text/javascript' src='http://cujah.org/wp-content/themes/briar/js/scripts.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://cujah.org/wp-content/themes/briar/js/skip-link-focus-fix.js?ver=20150610'></script>
+<script type='text/javascript' src='http://cujah.org/wp-includes/js/wp-embed.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201717.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.7',blog:'42202817',post:'982',tz:'-4',srv:'cujah.org'} ]);
+	_stq.push([ 'clickTrackerInit', '42202817', '982' ]);
+</script>
 
-<h1 align=center>The Arts and Crafts Movement </h1>
-
-The Arts and Crafts movement initially developed in England during the
-latter half of the 19th century. Subsequently this style was taken up by
-American designers, with somewhat different results. In the United States, the
-Arts and Crafts style was also known as Mission style.
-<p> <a href="chilab.gif"><img align=left src="chilabtn.gif" width="98" height="144"></a> 
-  This movement, which challenged the tastes of the Victorian era, was inspired 
-  by the social reform concerns of thinkers such as Walter Crane and 
-<a href=" http://www.visitcumbria.com/ruskin.htm">John 
-  Ruskin</a>, together with the ideals of reformer and designer,
-<a href="http://morris.artpassions.net/">William 
-  Morris.  </a> 
- (This link will take you to a less visual site that provides 
-<a href="http://www.victorianweb.org/victorian/authors/morris/wmsocialm.html">William 
-  Morris historical background).  </a><p> 
-Their notions of good design were linked to their notions of 
-  a good society. This was a vision of a society in which the worker was not brutalized 
-  by the working conditions found in factories, but rather could take pride in 
-  his craftsmanship and skill. The rise of a consumer class coincided with the 
-  rise of manufactured consumer goods. In this period, manufactured goods were 
-  often poor in design and quality. <a href="craft.gif"><img align=right src="crafttn.gif" width="193" height="126"> 
-  </a> Ruskin, Morris, and others proposed that it would be better for all if 
-  individual craftsmanship could be revived-- the worker could then produce beautiful 
-  objects that exhibited the result of fine craftsmanship, as opposed to the shoddy 
-  products of mass production. Thus the goal was to create design that was... 
-  " for the people and by the people, and a source of pleasure to the maker and 
-  the user." Workers could produce beautiful objects that would enhance the lives 
-  of ordinary people, and at the same time provide decent employment for the craftsman. 
-<p> <a href="jones.gif"><img align=left src="jonestn.gif" width="96" height="144"></a> 
-  Medieval Guilds provided a model for the ideal craft production system. Aesthetic 
-  ideas were also borrowed from Medieval European and Islamic sources. Japanese 
-  ideas were also incorporated early Arts and Crafts forms. The
-<a href="http://www.vam.ac.uk/vastatic/microsites/british_galleries/bg_styles/Style09a/objects/objects_home.html"> 
-  forms of Arts and Crafts style </a> were typically rectilinear and angular, 
-  with stylized decorative motifs remeniscent of medieval and Islamic design. 
-  In addition to <a href=" http://www.burrows.com/morris.html ">William Morris, 
-  </a> <a href=" http://www.burrows.com/voysey.html ">Charles Voysey </a> was 
-  another important innovator in this style. One designer of this period, Owen 
-  Jones, published a book entitled
-<a href="http://books.google.com/books?id=V-ExGuD_Q28C&pg=PT102&lpg=PT102&dq=owen+jones+the+grammar+of+ornament&source=web&ots=dmn9B74Hl3&sig=o91JIyi66VnD_ub_dwflhEtp9Og#PPT20,M1"> 
-<i>The Grammar of Ornament</i></a>, which was a 
-  sourcebook of historic decorative design elements, largely taken from medieval 
-  and Islamic sources. This work in turn inspired the use of such historic sources 
-  by other designers. 
-<p> <a href="morris.gif"><img align=right src="morristn.gif" width="97" height="144"></a> 
-  However,in time the English Arts and Crafts movement came to stress craftsmanship 
-  at the expense of mass market pricing. The result was exquisitely made and decorated 
-  pieces that could only be afforded by the very wealthy. Thus the idea of art 
-  <i>for</i> the people was lost, and only relatively few craftsman could be employed 
-  making these fine pieces. This evolved English Arts and Crafts style came to 
-  be known as <strong>"Aesthetic Style."</strong> It shared some characteristics 
-  with the French/Belgian Art Nouveau movement, to be discussed below. 
-<p><br><br>
-However<a href=" http://www.geocities.com/SiliconValley/Orchard/8642/#00"> in the United States, the Arts and Crafts ideal </a> of design for the
-masses was more fully realized, though at the expense of the fine
-individualized craftsmanship typical of the English style.  In New York,
- <a href= "http://en.wikipedia.org/wiki/Gustav_Stickley"> Gustav
-Stickley </a> was trying to serve a burgeoning market of middle class consumers who
-wanted affordable, decent looking furniture. By using factory methods to
-produce basic components, and utilizing craftsmen to finish and assemble, he
-was able to produce sturdy, serviceable furniture which was sold in vast
-quantities, and still survives. The rectilinear, simpler
-<a href=" http://www.arts-crafts.com/archive/rsimages.shtml"> 
-American Arts and Crafts forms </a> came to dominate American architecture, interiors, 
-and furnishings in the late nineteenth and early twentieth century.
-<p> <a href="stkley.gif"><img align=left src="stkleytn.gif" width="197" height="126"></a>
- 
-  Today Stickley's furniture is prized by collectors, and the
- <a href="http://www.stickley.com/"> 
-  Stickley Company </a>
-  still exists, producing reproductions of the original Stickley designs. 
-<p><br><br><br><br><br>
-  <a href="missn.gif"><img align=right src="missntn.gif" width="156" height="126"></a> 
-  The term <strong>Mission style</strong> was also used to describe Arts and Crafts 
-  Furniture and design in the United States. The use of this term reflects the 
-  influence of traditional furnishings and interiors from the American Southwest, 
-  which had many features in common with the earlier British Arts and Crafts forms. 
-  <a href="http://www-bcf.usc.edu/~bosley/exhibits.html">Charles and Henry Greene 
-  </a> were important Mission style architects working in California. Southwestern 
-  style also incorporated Hispanic elements associated with the early Mission 
-  and Spanish architecture, and Native American design. The result was a blending 
-  of the arts and crafts rectilinear forms with traditional Spanish colonial architecture 
-  and furnishings. Mission Style interiors were often embellished with Native 
-  American patterns, or actual Southwestern Native American artifacts such as 
-  rugs, pottery, and baskets. The collecting of Southwestern artifacts became 
-  very popular in the first quarter of the twentieth century. 
-<p>
-
-
-
-<A NAME="nouveau"></A>
-<h1 align=center>Art Nouveau </h1>
-<a href="nouvea.gif"><img align=left src="nouveatn.gif" width="137" height="144"></a> 
-This style, which was more or less concurrent with the Arts and Crafts style, 
-was not at all concerned with the social reform movements of the day. Instead, 
-it addressed the clutter and eclecticism of mid-19th century European taste. Originating 
-in Belgium and France, this movement advocated nature as the true source of all 
-good design. Art Nouveau designers objected to the borrowing of design ideas from 
-the past, and even from other cultures, although the Japanese approach to nature 
-was much admired and emulated. 
-<p><br>
-  <a href="vase.gif"><img align=right src="vasetn.gif" width="99" height="144"></a> 
-  The characteristics of the style included above all the use of the sinuous curved 
-  line, together with asymmetrical arrangement of forms and patterns. The forms 
-  from nature most popular with Art Nouveau designers were characterized by flowing 
-  curves-- grasses, lilies, vines, and the like. Other, more unusual natural forms 
-  were also used, such as peacock feathers, butterflies, and insects. 
-<p><br><br>
-Architects and designers who contributed to the development of this style
-included <a href="http://19thcentury.wordpress.com/2007/11/18/victor-horta-architect-of-the-art-nouveau/">Victor Horta
-</a>,  
-<a href="http://www.geocities.com/hectorguimard/files/html/start.html">Hector Guimard</a> (Click on Buildings and Subway in TOC on left),
- and <a href="http://www.henry-van-de-velde.com">
-Henry van de Velde.</a> 
-The <a href="http://www.deco1925.com/gallery.html">
-glass </a>  and
-<a http://www.encyclopedia.netnz.com/Laliqueglass.html"> jewelry design of Lalique</a>, 
-as well as the stained glass and other designs of
-<a href=" http://www.metmuseum.org/explore/tiffany/release.htm">Louis Comfort Tiffany </a>  
-and <a href="http://translate.google.com/translate?hl=en&sl=fr&u=http://www.lemondedesarts.com/DossierGalle.htm&ei=rUmyStDpMMqZlAe68pWADw&sa=X&oi=translate&resnum=1&ct=result&prev=/search%3Fq%3DDossierGalle%26hl%3Den%26rlz%3D1T4RNWI_enUS237US237/">
-Emile Galle </a> (nice video at bottom of page) 
-were important examples of Art Nouveau style.
-<p> <a href="letter.gif"><img align=left src="lettertn.gif" width="113" height="144"></a> 
-  A distinctive graphic design style developed, which included typography styles 
-  as well as a distinctive manner of drawing the female figure. The prints of 
-  <a href=" http://www.glyphs.com/art/beardsley/">Aubrey Beardsley </a> 
-<a href="http://www.bpib.com/illustrat/mucha.htm">and 
-  Alphonse Mucha </a> are typical of this style.<br>
-  <br><br><br>
-
-For additional 
-<a href="http://en.wikipedia.org/wiki/Art_Nouveau">
-Art Nouveau </a> images and information, try this link.
-<p>
-
-<hr>
-<center>This web site Copyright &copy; 1995 by <a href="mailto: caj7@cornell.edu">Charlotte Jirousek</a></center>
-<center>Questions or comments? Let us know at <a href="mailto:caj7@cornell.edu">caj7@cornell.edu.</a></center>
-<hr> 
-<CENTER>
-  <TABLE COLSPEC="L20 L20" BORDER=5 >
-    <!CELLPADDING=20 CELLSPACING=5> 
-    <TR> 
-      <TD><A HREF="../decart.htm"><img align=left src="../../../back.gif" width="48" height="80"> 
-        </a> </TD>
-      <TD><A HREF="../artdeco/artdeco.htm"><img src="../../../next.gif" width="48" height="80"> 
-        </a> </TD>
-      <TD><A HREF="../../../first.htm"><img src="../../../menu.gif" width="55" height="80"></a></TD>
-    </TR>
-  </table>
-</center>
-</body></html>
+</body>
+</html>

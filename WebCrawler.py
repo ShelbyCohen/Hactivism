@@ -77,7 +77,7 @@ if __name__ == '__main__':
 		for line in item_file.readlines():
 			count += 1
 			valid_pages = 0
-			url_list = search(str(line))
+			url_list = search(str(line) + " activism movement")
 			for url in list(url_list):
 				try:
 					if valid_pages < 10:

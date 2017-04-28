@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if (gt IE 7) | (!IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<title>Social Movements: How People Make History | Mobilizing Ideas</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://mobilizingideas.wordpress.com/xmlrpc.php" />
+<script type="text/javascript">
+  WebFontConfig = {"typekit":{"id":"gzj6wlv"}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active #site-title a{font-weight:700;font-style:normal;font-weight:700;font-family:"liberation-serif-1","liberation-serif-2",serif}.wf-active body, .wf-active input, .wf-active textarea{font-family:"liberation-sans-1","liberation-sans-2",sans-serif}@media print{.wf-active body{font-family:"liberation-sans-1","liberation-sans-2",sans-serif}}.wf-active #content-box h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6, .wf-active th{font-style:normal;font-weight:700;font-family:"liberation-serif-1","liberation-serif-2",serif}.wf-active .page-title{font-style:normal;font-weight:700}.wf-active .page-title span{font-style:normal;font-weight:700}.wf-active .entry-title{font-style:normal;font-weight:700}.wf-active .entry-content h1{font-weight:700;font-style:normal}.wf-active .entry-content h2{font-style:normal;font-weight:700}.wf-active .entry-content h3{font-style:normal;font-weight:700}.wf-active .entry-content h4{font-style:normal;font-weight:700}.wf-active .entry-content h5, .wf-active .entry-content h6{font-weight:700;font-style:normal}.wf-active .entry-content h6{font-style:normal;font-weight:700}.wf-active .widget-title{font-style:normal;font-weight:700}.wf-active .sidebar-list h2{font-style:normal;font-weight:700}.wf-active #comments-title{font-style:normal;font-weight:700}.wf-active #reply-title{font-style:normal;font-weight:700}</style>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Mobilizing Ideas &raquo; Feed" href="https://mobilizingideas.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mobilizing Ideas &raquo; Comments Feed" href="https://mobilizingideas.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mobilizing Ideas &raquo; Social Movements: How People Make&nbsp;History Comments Feed" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJyNUtFuwyAM/KExlK7a1Idp32KIR2hNjDBp1L8fLO2athvaC/jQnY8z6Dkqy2PGMeswqUiT86PoOVoOSoInPN2hZyvypH+XkT+g6D3mCPagvtED3RC7qw+nHnrRjtgA/Y8bPdnEszpuWldJSJCxV5El36GWzHLCch4i5MoI2HtAwlBoLVmIrxdVLYcSv2mzTNSYmFBElTX4Kag8FKNH3XKs42Qu2bXkE2HTwPcOS/DM8TyClcTrkbMvKvkpWr0csiK2kD2PN0B9EvjUfoX6hKV0urBWsCUCW5sbSNeqRa/xlptoGSBVr/PeUglbD1SiOL4Ff41/2K5+6Ud477a7bveyeet2+y/Hxztc' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj9EKwjAMRX/IrE4m7kX8ltnFktqmtWkd+vV2oA/qUAiE3JxcbtQUgVi7MqIoW+tSMN2erbGyUr8A8GTSkLHxxC9YB87IeWZ9OJJDKIJpMFWrRqewwMUg2aNIhRa275GIr4TTX8xijoM+Q0Kh+5erLxBdMcSiErr6wAhzho+pXh38vu363aZvt93aPgArrnBz'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mobilizingideas.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Hit and Miss: Making Connections in the Social Movements&nbsp;Classroom' href='https://mobilizingideas.wordpress.com/2012/08/01/hit-and-miss-making-connections-in-the-social-movements-classroom/' />
+<link rel='next' title='August Essay Dialogue: Pedagogy of Social&nbsp;Movements' href='https://mobilizingideas.wordpress.com/2012/08/01/august-essay-dialogue-pedagogy-of-social-movements/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/" />
+<link rel='shortlink' href='http://wp.me/p1Nb6O-U9' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fmobilizingideas.wordpress.com%2F2012%2F08%2F01%2Fsocial-movements-how-people-make-history%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fmobilizingideas.wordpress.com%2F2012%2F08%2F01%2Fsocial-movements-how-people-make-history%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Social Movements: How People Make History" />
+<meta property="og:url" content="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/" />
+<meta property="og:description" content="By Peter Dreier Back in 1900, people who called for women&#8217;s suffrage, laws protecting the environment and consumers, an end to lynching, the right of workers to form unions, a progressive inc…" />
+<meta property="article:published_time" content="2012-08-01T11:00:36+00:00" />
+<meta property="article:modified_time" content="2012-08-10T13:36:13+00:00" />
+<meta property="og:site_name" content="Mobilizing Ideas" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@mobilizingideas" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@mobilizingideas" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://mobilizingideas.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://mobilizingideas.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://mobilizingideas.wordpress.com/osd.xml" title="Mobilizing Ideas" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Mobilizing Ideas" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Activists and Scholars Debate Social Movements and Social Change" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://mobilizingideas.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Social Movements: How People Make&nbsp;History | Mobilizing Ideas on WordPress.com" />
+<meta name="description" content="By Peter Dreier Back in 1900, people who called for women&#039;s suffrage, laws protecting the environment and consumers, an end to lynching, the right of workers to form unions, a progressive income tax, a federal minimum wage, old-age insurance, dismantling of Jim Crow laws, the eight-hour workday, and government-subsidized health care and housing were considered&hellip;" />
+	<style type="text/css">
+			#site-title a {
+			color: #828282;
+		}
+		</style>
+	 		<script type="text/javascript">
+		var _ipw_custom = {
+				wordAds: '0',
+				adSafe: '1',
+				domain: 'mobilizingideas.wordpress.com',
+				pageURL: 'https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/'
+			};
+		</script>
+		<script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+ 		<script type="text/javascript" src="//s.pubmine.com/head.js"></script>
+		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><link rel="amphtml" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=1Nb6O&#038;cscache=6&#038;csrev=9" />
+		<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-3481 single-format-standard mp6 customizer-styles-applied two-column content-sidebar color-light highlander-enabled highlander-light">
+<div id="container" class="hfeed">
+	<div id="page" class="blog">
+		<div id="header">
+						<div id="site-title">
+				<span>
+					<a href="https://mobilizingideas.wordpress.com/" title="Mobilizing Ideas" rel="home">Mobilizing Ideas</a>
+				</span>
+			</div>
+
+			<div id="nav" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-default-menu" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-46"><a href="https://mobilizingideas.wordpress.com/">Home</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-192"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/">Essay Dialogues</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a title="Read the daily filter blog" href="https://mobilizingideas.wordpress.com/category/daily-disruption/">Daily Disruption</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a title="Our purpose, editors and more" href="https://mobilizingideas.wordpress.com/about/">About</a></li>
+</ul></div>			</div><!-- #nav -->
+
+			<div id="pic">
+				<a href="https://mobilizingideas.wordpress.com/" rel="home">
+										<img src="https://mobilizingideas.files.wordpress.com/2011/10/cropped-731618117_49f8d77f01_b2.jpg" width="770" height="200" alt="" />
+								</a>
+			</div><!-- #pic -->
+		</div><!-- #header -->
+
+		<div id="content-box">
+
+<div id="content-container">
+	<div id="content" role="main">
+
+	
+<div id="nav-above" class="navigation">
+	<div class="nav-previous"><a href="https://mobilizingideas.wordpress.com/2012/08/01/hit-and-miss-making-connections-in-the-social-movements-classroom/" rel="prev"><span class="meta-nav">&larr;</span> Hit and Miss: Making Connections in the Social Movements&nbsp;Classroom</a></div>
+	<div class="nav-next"><a href="https://mobilizingideas.wordpress.com/2012/08/01/august-essay-dialogue-pedagogy-of-social-movements/" rel="next">August Essay Dialogue: Pedagogy of Social&nbsp;Movements <span class="meta-nav">&rarr;</span></a></div>
+</div><!-- #nav-above -->
+
+<div id="post-3481" class="post-3481 post type-post status-publish format-standard hentry category-essay-dialogues category-pedagogy-of-social-movements tag-great-activists tag-pedagogy tag-structure-and-agency">
+	<div class="entry-meta">
+
+		<span class="by-author"><span class="sep">by</span> <span class="author vcard"><a class="url fn n" href="https://mobilizingideas.wordpress.com/author/mobilizingideas/" title="View all posts by Mobilizing Ideas" rel="author">Mobilizing Ideas</a></span> | </span>August 1, 2012 &middot; 7:00 AM	</div><!-- .entry-meta -->
+
+		<div class="jump"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comments"><span class="meta-nav">&darr; </span>Jump to Comments</a></div>
+	<h1 class="entry-title"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/" rel="bookmark">Social Movements: How People Make&nbsp;History</a></h1>
+	<div class="entry entry-content">
+		<h3>By <a href="https://mobilizingideas.wordpress.com/peter-dreier">Peter Dreier</a></h3>
+<p>Back in 1900, people who called for women&#8217;s suffrage, laws protecting the environment and consumers, an end to lynching, the right of workers to form unions, a progressive income tax, a federal minimum wage, old-age insurance, dismantling of Jim Crow laws, the eight-hour workday, and government-subsidized health care and housing were considered impractical idealists, utopian dreamers, or dangerous socialists. Now we take these ideas for granted. The radical ideas of one generation have become the common sense of the next.</p>
+<p>How did this happen?</p>
+<p>Social movements transformed these (and many other) radical ideas from the margins to the mainstream, and from polemics to policy.   The 20th century is a remarkable story of progressive accomplishments against overwhelming odds. But it is not a tale of steady progress. <span id="more-3481"></span>At best, it is a chronicle of taking two steps forward, then one step backward, then two more steps forward. The successful battles and social improvements came about in fits and starts. When pathbreaking laws are passed&#8211;such as the Nineteenth Amendment (which granted women suffrage in 1920), the Fair Labor Standards Act of 1938 (which created the minimum wage), the Civil Rights Act of 1964 (which outlawed many forms of racial discrimination), and the Clean Air Act of 1970&#8211;we often forget that those milestones took decades of work by activists, thinkers, and politicians.</p>
+<p>Each generation of Americans faces a different set of economic, political, and social conditions. There are no easy formulas for challenging injustice and promoting democracy. But unless we know this history, we will have little understanding of how far we have come, how we got here, and what still needs to change to make America (and the rest of the world) more livable, humane, and democratic.</p>
+<p>I’ve been teaching about social movements, as well as  about community organizing, for over 30 years.  My movements course explores the history, sociology, and politics of America’s struggles for social justice. The organizing class puts more emphasis on “how to” aspects of fighting for social change. The bottom line for both courses is to encourage students to see themselves as potential history-makers, by learning from the past and learning the skills and analytic tools to help mobilize people for action now and in the future. In terms of whether to be “value free,” I follow C. Wright Mills’ dictum:  <em>“I have tried to be objective,” </em>he wrote.<em> “I do not claim to be detached.”</em></p>
+<p>Frederick Douglass, the great abolitionist, once said:</p>
+<blockquote><p><em>Let me give you a word of the philosophy of reform. The whole history of the progress of human liberty shows that all concessions yet made to her august claims have been born of earnest struggle. The conflict has been exciting, agitating, all-absorbing, and for the time being, putting all other tumults to silence. It must do this or it does nothing. If there is no struggle there is no progress. Those who profess to favor freedom and yet deprecate agitation are men who want crops without plowing up the ground; they want rain without thunder and lightning. They want the ocean without the awful roar of its many waters.</em></p>
+<p><em>This struggle may be a moral one, or it may be a physical one, and it may be both moral and physical, but it must be a struggle. Power concedes nothing without a demand. It never did and it never will. Find out just what any people will quietly submit to and you have found out the exact measure of injustice and wrong which will be imposed upon them, and these will continue till they are resisted with either words or blows, or with both. The limits of tyrants are prescribed by the endurance of those whom they oppress.</em></p></blockquote>
+<p>Douglass’ words articulate the basic theme of my movements class.  Throughout human history, people have organized social movements to try to improve their lives and the society in which they lived. Powerful groups and institutions have generally resisted these efforts in order to maintain their own privilege, although there are always people from privileged backgrounds who join forces with the oppressed. How did these movements come about?  What did they do to force society’s elites to compromise and enact reforms? What did these movements accomplish in terms of improving people’s day-to-day lives?</p>
+<p>Most sociologists believe that structural conditions make movements more or less likely.  They argue, in everyday parlance, that sometimes the “time was ripe” for movements to emerge, to grow, and to bring about change. That’s what Carl Oglesby, a leader of Students for a Democratic Society in the 1960s, meant when he observed,  “<em>It isn’t the rebels who cause the troubles of the world; it’s the troubles that cause the rebels.”</em></p>
+<p>But it is also true, as Oglesby and all other activists understand, that human beings are actors in their own history. They don’t wait for the time to be ripe. Instead, they “ripen the time.”</p>
+<p>That’s what  Karl Marx meant when he wrote:</p>
+<blockquote><p><em>Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances existing already, given and transmitted from the past.</em>  (<span style="text-decoration:underline;">The Eighteenth Brumaire of Louis Bonaparte</span>, 1852).</p></blockquote>
+<p>My movements course focuses on the connection between social conditions and human agency.  It looks specifically at 20<sup>th</sup> century America, although I always bring the course up-to-date with readings, films, and discussions about contemporary struggles for justice.  Students always seem to be more excited about the course – and receptive to seeing themselves as activists and history-makers – when there are vibrant movements in the news.  The 2008 Obama campaign, the recent campus-based anti-sweatshop crusades,  the battles in California and elsewhere over same-sex marriage, and the Occupy movement help students link past and present.</p>
+<p>Most students come to college woefully uninformed or miseducated about American history.  So it is always necessary to provide students with the historical context in order to understand why and how protest movements emerged. My course looks at the Populist (farmers) revolt, the labor movement, the women&#8217;s suffrage movement and later waves of feminism, the civil rights movement (starting in the early 1900s), movements against militarism and war, student activism, the environmental movement, the gay rights movement, the consumer movement, and various strands of community organizing, beginning with the settlement house, through Alinskyism, and more recent activism by groups like ACORN and National Peoples Action.  After a quick overview of some key concepts – like leadership, mobilization, and strategy – the course proceeds chronologically, looking at the key movements in each major period of the 20<sup>th</sup> century.</p>
+<p>For each movement, we examine the major social, economic, and political conditions that led people to feel oppressed, angry, frustrated, and/or hopeful enough to try to bring about change.  I want students to consider why, as Frederick Douglas understood, people often endure a great deal of suffering and humiliation before they resist and rebel. Do they think that their situation is inevitable and thus not worth trying to change?  Do they fear reprisal for any hint of resistance (for example, getting fired if they participate in a union organizing campaign)? Do they lack the knowledge to understand what changes are possible or lack the skills to identify and challenge those who have power over them?</p>
+<p>Then, something happens to alter these calculations. What was happening in the society that catalyzed a significant number of people to change their daily routines and participate in some form of activism?  What specific events triggered people to organize?</p>
+<p>But finding the will to organize doesn’t guarantee that they will do so successfully. So we also ask: What sources of power are available to disadvantaged people? What strategies and tactics do movements employ? How important are strikes, boycotts, demonstrations, sit-ins, music, and the mass media? What is the relationship of protest movements to conventional politics &#8212; elections, political parties, voting, lobbying, and so on?  How do activists and movements balance the tension between being outsiders and insiders? That was a question that Martin Luther King explored in his famous  “Letter from Birmingham Jail,” one of the readings I always incorporate into my course.</p>
+<p>Social movements are about mobilizing people for action, so the course examines the internal dynamics of movements. To get at this question, we explore the different ways that people are recruited to action and how they participate in movements.  Every movement has a division of labor. There are organizers, leaders, and rank-and-file activists as well as the many kinds of supporters and allies – writers, journalists, musicians and singers, artists, intellectuals, clergy, lawyers, politicians, and others. How does this happen?</p>
+<p>All successful movements require organizations, large and small,  to carry out that division of labor.  So we look at specific groups &#8212; such as the International Ladies Garment Workers Union, Hull House, the National Consumers League, the Highlander Center, the NAACP, the Catholic Worker,  United Auto Workers, the Women’s Trade Union League, the Student Nonviolent Coordinating Committee, the Mattachine Society, the Sierra Club, the War Resisters League, the Women’s Party, and the Fellowship of Reconciliation – to explore what roles they played in different movements.</p>
+<p>But how do these organization emerge and sustain themselves?  To answer that question,  we look at  how movement groups (particularly movements among poor people) find the resources to keep going &#8212; to pay staff and rent, produce leaflets and newsletters, attend national meetings, find lawyers to file law suits, hire researchers to do studies, etc.?</p>
+<p>Ultimately, movements are about real people making choices about how to use their time, talents, and resources.  To get at that human dimension, we read short biographies of different movement participants, particularly the most important leaders and activists during the 20<sup>th</sup> century.  We explore their “life and times” – not only who they were as people, what motivated them, and how they expressed their commitment to social change, but also the roles they played in the great movements and organizations that made this a better society.</p>
+<p>Like all collections of human beings, people engaged in movement-building don’t always agree about what to do. What happens when different organizations or groups within the same social movement disagree over strategy, tactics, or goals? When are such differences useful and when do they undermine a movement’s effectiveness? Every movement faces this dilemma.</p>
+<p>I ask students to put themselves in the shoes of movement activists who had to deal with real dilemmas. For example, if they were in Robert Moses’ or Fannie Lou Hamer’s shoes in Atlantic City in 1964, would they &#8212; as leaders of the integrated Mississippi Freedom Democratic Party &#8212; have accepted the compromise offered by President Johnson (and supported by Martin Luther King and Walter Reuther) to get two seats in the otherwise segregated Mississippi delegation?  Would they have seen this as a stepping stone victory that they could build on in the future, or would they see it as a  sell-out, a crumb from the Democratic establishment to co-opt the civil rights movement?</p>
+<p>Understanding social movements requires an analysis of the battle over interests and ideas. All movements face opposition from political and/or corporate elites, grassroots counter-movements, or both. Movements win victories when they can take advantage of their opposition’s weaknesses.  So, like movement organizers and strategists, we spend time in the course evaluating what resources the opposition had, how cohesive it was, and where it was vulnerable to challenge – at least vulnerable enough to have to negotiate and compromise.</p>
+<p>Movements are usually more successful when they can persuade a significant slice of the public that their cause is just and should be supported.  Thus, they have to engage in the battle of ideas to influence public opinion.  I ask students to consider each movement’s key ideas and think about how activists sought to appeal to a wider audience – how, in contemporary parlance, movements “framed” their goals and demands to gain the moral high ground.</p>
+<p>The course also explores each movement&#8217;s internal culture &#8212; music, leaflets, speakers, religion, slogans, and other elements. How do they get people to participate in efforts that may not succeed and/or may take a long time to win?</p>
+<p>We also examine the age-old question: reform or revolution? (Or, more pragmatically, what Andre Gorz called “non-reformist reforms”). How important is &#8220;reform&#8221; &#8212; pressing for short-term gains (such as the Equal Rights Amendment or a shutdown of a nuclear power plant) &#8212; in achieving longer-run changes?</p>
+<p>Finally, what does &#8220;success&#8221; mean for a protest movement? For example, was the antiwar movement &#8220;successful&#8221; when the VietNam war ended, even though the degree of U.S. militarism did not significantly decline? Why are some movements successful and others not? How important are such factors as: the numbers of people; use of violent or non-violent tactics; the scope of goals (it is easier to win if you don&#8217;t ask for much); the strength of the opposition? How do people&#8217;s everyday lives and routines change as they participate in social movements? How do people&#8217;s lives change when (and if) movements are successful? In other words, do social protest movements <span style="text-decoration:underline;">really </span>make a difference in achieving more social justice?</p>
+<p>I never teach the course exactly the same way twice, but I always add a weekly film series (both documentaries and Hollywood films), shown at night and open  to the wider community, as well as the twice-a-week class sessions. For readings, I pull together lots of articles from books, journals, magazines, and newspapers and rely on a variety of different books.  Old stand-bys include Piven and Cloward’s <em><span style="text-decoration:underline;">Poor People’s Movements</span></em>, Zinn’s <em><span style="text-decoration:underline;">People’s History of the United States</span></em>, and Morais and Boyer’s <em><span style="text-decoration:underline;">Labor’s Untold Story</span></em>.  Students also have to read two biographies or autobiographies of American radicals and reformers. I usually give them a list of about 100 books to choose from.  And I occasionally use novels – like Upton Sinclair’s <em><span style="text-decoration:underline;">The Jungle</span></em>, Jack London’s <em><span style="text-decoration:underline;">Iron Heal</span></em>, Meredith Tax’s <em><span style="text-decoration:underline;">Union Square</span></em>, and Rosellen Brown’s <em><span style="text-decoration:underline;">Civil Wars</span></em>.</p>
+<p>This year, for the first time, I’m using my own book.  After teaching this course for more than three decades, I decided that students needed to know more about the great leaders who propelled the major movements of the past century.  Toward that end, I wrote <a href="http://100greatestamericans.org"><em><span style="text-decoration:underline;">The 100 Greatest Americans of the 20<sup>th</sup> Century: A Social Justice Hall of Fame</span></em></a> (Nation Books, 2012) to celebrate achievements of the people and movements that have made America a more humane, inclusive, and democratic country.  I also wanted to provoke debate and controversy by encouraging readers to think about how progressive movements often beat the odds and bring about significant and lasting change.</p>
+<p>We stand on the shoulders of earlier generations of reformers, radicals, and idealists who challenged the status quo of their day. They helped change America by organizing movements, pushing for radical reforms, popularizing progressive ideas, and spurring others to action.  The book includes an historical introduction, a timeline, and profiles of 100 people, including such figures as Eugene Debs, Jane Addams, Florence Kelly, Robert La Follette, Charlotte Perkins Gilman,  John Dewey, Big Bill Haywood, Rose Schneiderman, W.E.B. DuBois,  Frances Perkins, Lewis Hine, A.J. Muste,  Alice Paul, A. Philip Randolph, Dorothy Day, FDR, Eleanor Roosevelt, Langston Hughes, Theodor Geisel (Dr. Seuss),  Fiorello LaGuardia, Henry Wallace, Myles Horton, Rachel Carson,  Walter Reuther, Thurgood Marshall, Bayard Rustin, Woody Guthrie, Cesar Chavez,  Barry Commoner, Ella Baker,  Jackie Robinson, Bella Abzug,  Malcolm X,  Michael Harrington, Pete Seeger,  Martin Luther King, Harvey Milk,  Ralph Nader, Gloria Steinem, Tom Hayden, John Lewis,  Billie Jean King, Bruce Springsteen, Barbara Ehrenreich, and Michael Moore.</p>
+<p>Of course, the story doesn&#8217;t end in 2000. In the last dozen years, grassroots movements have continued to push and pull America in a positive direction, often against difficult odds. The story of progressive change is a continuing one. That&#8217;s why my book – and my course &#8212; includes final segment that introduces a few young activists who are strong candidates to make the Social Justice Hall of Fame for the 21st century.</p>
+		<div class="wpcnt">
+			<div class="wpa wpmrec">
+				<span class="wpa-about">Advertisements</span>
+				<div class="u">
+								<script type='text/javascript'>
+				(function(g){if("undefined"!=typeof g.__ATA){g.__ATA.initAd({sectionId:26942, width:300, height:250});}})(window);
+			</script>
+				</div>
+				        <div id="crt-1299692540" style="width:300px;height:250px;"></div>
+        <script type="text/javascript">
+        var o = document.getElementById('crt-1299692540');
+        if ("undefined"!=typeof Criteo) {
+            var p = o.parentNode;
+            p.style.setProperty('display', 'inline-block', 'important');
+            o.style.setProperty('display', 'block', 'important');
+            Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-1299692540",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-1299692540'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); }
+        });
+        } else {
+            o.style.setProperty('display', 'none', 'important');
+            o.style.setProperty('visibility', 'hidden', 'important');
+        }
+        </script>
+			</div>
+		</div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-3481" class="share-facebook sd-button share-icon" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?share=email" target="_blank" title="Click to email"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-3481" class="share-twitter sd-button share-icon" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-26497114-3481-58ffc804a945b' data-src='//widgets.wp.com/likes/#blog_id=26497114&amp;post_id=3481&amp;origin=mobilizingideas.wordpress.com&amp;obj_id=26497114-3481-58ffc804a945b' data-name='like-post-frame-26497114-3481-58ffc804a945b'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>	</div><!-- .entry-content -->
+
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comments">16 Comments</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/" rel="category tag">Essay Dialogues</a>, <a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/pedagogy-of-social-movements/" rel="category tag">Pedagogy of Social Movements</a></p>
+			<p class="entry-tags tagged">Tagged as <a href="https://mobilizingideas.wordpress.com/tag/great-activists/" rel="tag">great activists</a>, <a href="https://mobilizingideas.wordpress.com/tag/pedagogy/" rel="tag">Pedagogy</a>, <a href="https://mobilizingideas.wordpress.com/tag/structure-and-agency/" rel="tag">structure and agency</a><br /></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+<div id="nav-below" class="navigation">
+	<div class="nav-previous"><a href="https://mobilizingideas.wordpress.com/2012/08/01/hit-and-miss-making-connections-in-the-social-movements-classroom/" rel="prev"><span class="meta-nav">&larr;</span> Hit and Miss: Making Connections in the Social Movements&nbsp;Classroom</a></div>
+	<div class="nav-next"><a href="https://mobilizingideas.wordpress.com/2012/08/01/august-essay-dialogue-pedagogy-of-social-movements/" rel="next">August Essay Dialogue: Pedagogy of Social&nbsp;Movements <span class="meta-nav">&rarr;</span></a></div>
+</div><!-- #nav-below -->
+
+
+<div id="comments">
+
+			<h3 id="comments-title" class="comment-head">
+			16 responses to &ldquo;<em>Social Movements: How People Make&nbsp;History</em>&rdquo;		</h3>
+
+		
+		<ol class="comment-list">
+			
+		<li class="post pingback">
+			<p>Pingback: <a href='http://gfbertini.wordpress.com/2013/10/10/social-movements-how-people-make-history/' rel='external nofollow' class='url'>Social Movements: How People Make History | Learning Change</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='http://politicsstudent14.wordpress.com/2014/05/25/action-for-change-i-social-movements-2/' rel='external nofollow' class='url'>Action for Change I: Social Movements | politicsstudent14</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-11753">
+			<div id="comment-11753" class="comment-container">
+				<div class="comment-author vcard">
+					<img alt='' src='https://1.gravatar.com/avatar/a1ec5637eb61ec5d4c6939ac3ef74ce7?s=48&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">calvin kangara</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comment-11753">
+					August 31, 2014 at 4:04 PM</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>how can i join your course.</p>
+</div>
+
+				<div class="reply">
+					<a rel='nofollow' class='comment-reply-link' href='https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?replytocom=11753#respond' onclick='return addComment.moveForm( "comment-11753", "11753", "respond", "3481" )' aria-label='Reply to calvin kangara'>Reply</a>				</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='http://losmuchoscaminos.wordpress.com/2014/11/12/about-change-and-why-it-is-possible/' rel='external nofollow' class='url'>About change and why it is possible&#8230; | Los muchos caminos</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='http://bitacorascubanas.com/about-change-and-why-it-is-possible/' rel='external nofollow' class='url'>About change and why it is possible… | Bitácoras Cubanas</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='http://www.iynf.org/2015/04/how-many-cops-do-we-need-to-find-a-solution/' rel='external nofollow' class='url'>How many COP’s do we need to find a solution? - IYNF &#8211; International Young Naturefriends</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-13763">
+			<div id="comment-13763" class="comment-container">
+				<div class="comment-author vcard">
+					<img alt='' src='https://0.gravatar.com/avatar/39d9ae9471bb7743cf66190c96760494?s=48&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='http://gravatar.com/word712' rel='external nofollow' class='url'>word712</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comment-13763">
+					April 27, 2015 at 12:26 PM</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>One</p>
+</div>
+
+				<div class="reply">
+					<a rel='nofollow' class='comment-reply-link' href='https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?replytocom=13763#respond' onclick='return addComment.moveForm( "comment-13763", "13763", "respond", "3481" )' aria-label='Reply to word712'>Reply</a>				</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='http://www.iynf.org/2015/10/cop21-climate-bus-registrations-are-open/' rel='external nofollow' class='url'>COP21: CLIMATE BUS - Registrations are open! - IYNF - International Young Naturefriends - IYNF &#8211; International Young Naturefriends</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='https://ellawilliamson97.wordpress.com/2015/11/01/social-movements-do-people-make-history/' rel='external nofollow' class='url'>Social Movements: Do People Make History? | ellawilliamson97</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-16531">
+			<div id="comment-16531" class="comment-container">
+				<div class="comment-author vcard">
+					<img alt='' src='https://0.gravatar.com/avatar/c4df34f34a6bf5b43a5837fea84638bb?s=48&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">David Pantalone</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comment-16531">
+					January 27, 2016 at 10:35 AM</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>This article could be the basis of an update that talks about the current Democratic Presidential Campaign between Sanders and Clinton and the associated debate about what kind of a leader (President) would be most successful in the long run in producing the kind of social change that Sanders talks about.</p>
+</div>
+
+				<div class="reply">
+					<a rel='nofollow' class='comment-reply-link' href='https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?replytocom=16531#respond' onclick='return addComment.moveForm( "comment-16531", "16531", "respond", "3481" )' aria-label='Reply to David Pantalone'>Reply</a>				</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-16657">
+			<div id="comment-16657" class="comment-container">
+				<div class="comment-author vcard">
+					<img alt='' src='https://2.gravatar.com/avatar/2da44dbed1f1ea1b325beebbb42b4939?s=48&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">larry</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comment-16657">
+					February 18, 2016 at 5:13 PM</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>YOU IDIOT ***</p>
+</div>
+
+				<div class="reply">
+					<a rel='nofollow' class='comment-reply-link' href='https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?replytocom=16657#respond' onclick='return addComment.moveForm( "comment-16657", "16657", "respond", "3481" )' aria-label='Reply to larry'>Reply</a>				</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='https://displacedbythestate.wordpress.com/2016/03/30/part-5-call-to-action/' rel='external nofollow' class='url'>Part 5: Call to Action &#8211; displaced by the state</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='http://developments.myacpa.org/mobilize/' rel='external nofollow' class='url'>Mobilize | Developments</a></p>
+
+	</li><!-- #comment-## -->
+
+		<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-17825">
+			<div id="comment-17825" class="comment-container">
+				<div class="comment-author vcard">
+					<img alt='' src='https://2.gravatar.com/avatar/82f3bc95e7b049ccf43a6285edb91b4f?s=48&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=PG' class='avatar avatar-48' height='48' width='48' />					<cite class="fn">E</cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comment-17825">
+					November 27, 2016 at 11:49 AM</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>One of the great social movements that peaked during the late 19th century was started by the American newspaper editor and political economist Henry George. Beginning in 1997 I began a project to document the history of this movement and established an online research and educational project: the School of Cooperative Individualism (www.cooperative-individualism.org). A section of the project is a &#8220;Biographical History of the Georgist Movement&#8221; which provides biographical information on thousands of people who in some way were involved with this social movement. Persons are grouped by their country of residence, listed alphabetically. Many of their writings have been resurrected from movement periodicals and other sources.</p>
+</div>
+
+				<div class="reply">
+					<a rel='nofollow' class='comment-reply-link' href='https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?replytocom=17825#respond' onclick='return addComment.moveForm( "comment-17825", "17825", "respond", "3481" )' aria-label='Reply to E'>Reply</a>				</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-17826">
+			<div id="comment-17826" class="comment-container">
+				<div class="comment-author vcard">
+					<img alt='' src='https://i0.wp.com/graph.facebook.com/v2.2/100002074367800/picture?q=type%3Dlarge%26_md5%3D7450438fb38da031160420b645a944f3&#038;resize=48%2C48' class='avatar avatar-48' height='48' width='48' />					<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/100002074367800/' rel='external nofollow' class='url'>Edward Dodson</a></cite>				</div><!-- .comment-author .vcard -->
+
+				
+				<div class="comment-meta commentmetadata"><a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/#comment-17826">
+					November 27, 2016 at 11:51 AM</a>				</div><!-- .comment-meta .commentmetadata -->
+
+				<div class="comment-body"><p>One of the great social movements that peaked during the late 19th century was started by the American newspaper editor and political economist Henry George. Beginning in 1997 I began a project to document the history of this movement and established an online research and educational project: the School of Cooperative Individualism (www.cooperative-individualism.org). A section of the project is a &#8220;Biographical History of the Georgist Movement&#8221; which provides biographical information on thousands of people who in some way were involved with this social movement. Persons are grouped by their country of residence, listed alphabetically. Many of their writings have been resurrected from movement periodicals and other sources.</p>
+</div>
+
+				<div class="reply">
+					<a rel='nofollow' class='comment-reply-link' href='https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/?replytocom=17826#respond' onclick='return addComment.moveForm( "comment-17826", "17826", "respond", "3481" )' aria-label='Reply to Edward Dodson'>Reply</a>				</div><!-- .reply -->
+			</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+
+		<li class="post pingback">
+			<p>Pingback: <a href='https://protestsinamerica.wordpress.com/2017/02/24/blog-2/' rel='external nofollow' class='url'>Blog #2 &#8211; Resistance Strategies in American History</a></p>
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2012/08/01/social-movements-how-people-make-history/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://mobilizingideas.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="2858fafc7a" /><input type="hidden" name="_wp_http_referer" value="/2012/08/01/social-movements-how-people-make-history/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+			<iframe id="googleplus-sign-in" name="googleplus-sign-in" src="https://public-api.wordpress.com/connect/?googleplus-sign-in=https%3A%2F%2Fmobilizingideas.wordpress.com" width="24" height="24" scrolling="no" allowtransparency="true" seamless="seamless" frameborder="0"></iframe>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://s0.wp.com/i/mu.gif" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://s0.wp.com/i/mu.gif" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://s0.wp.com/i/mu.gif" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://s0.wp.com/i/mu.gif" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://s0.wp.com/i/mu.gif" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3481' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1360edd38f" /></p>
+<input type="hidden" name="genseq" value="1493157892" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="206"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+
+	</div><!-- #content -->
+</div><!-- #container -->
+
+
+	<div id="sidebar" class="widget-area" role="complementary">
+				<ul class="xoxo sidebar-list">
+
+			<li id="text-5" class="widget widget_text">			<div class="textwidget"><p>
+<font size="4" face="liberation sans" color="#585858">
+<a href="https://mobilizingideas.wordpress.com/" target="_blank">Mobilizing Ideas</a> is a production of:<br> <a href="http://cssm.nd.edu/" target="_blank">The Center for the Study of Social Movements at the University of Notre Dame</a>, editorial home of the journal <a href="http://www.mobilization.sdsu.edu/" target="_blank">Mobilization</a>.
+</font>
+</p>
+
+<hr size="4" width="200" align="left"></div>
+		</li><li id="search-3" class="widget widget_search"><h3 class="widget-title">Search</h3><form role="search" method="get" id="searchform" class="searchform" action="https://mobilizingideas.wordpress.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="blog_subscription-3" class="widget widget_blog_subscription"><h3 class="widget-title"><label for="subscribe-field">Follow Mobilizing Ideas via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="26497114"/>
+						<input type="hidden" name="source" value="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="8c79c38a27" />						<input type="submit" value="Follow" />
+					</p>
+				</form>
+			
+</li><li id="text-6" class="widget widget_text">			<div class="textwidget"><hr size="4" width="200" align="left"></div>
+		</li><li id="text-4" class="widget widget_text"><h3 class="widget-title">Dialogues and Disruptions</h3>			<div class="textwidget"><BR>
+The content of Mobilizing Ideas occurs in two threads. The <a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/">Essay Dialogue</a> is a monthly exchange on a salient topic, featuring insights from scholars and activists. The <a href="https://mobilizingideas.wordpress.com/category/daily-disruption/">Daily Disruption</a> is a filter blog of interesting facts, links, news and more. Use the menu at the top or the links below to access either of these full threads.
+
+<hr size="4" width="200" align="left"></div>
+		</li><li id="categories-4" class="widget widget_categories"><h3 class="widget-title">Links to Dialogue Topics and the Daily Disruption</h3>		<ul>
+	<li class="cat-item cat-item-5489925"><a href="https://mobilizingideas.wordpress.com/category/5-year-anniversary/" >5 Year Anniversary</a> (4)
+</li>
+	<li class="cat-item cat-item-534502515"><a href="https://mobilizingideas.wordpress.com/category/activism-in-latin-america/" >Activism in Latin America</a> (8)
+</li>
+	<li class="cat-item cat-item-63172981"><a href="https://mobilizingideas.wordpress.com/category/daily-disruption/" >Daily Disruption</a> (312)
+</li>
+	<li class="cat-item cat-item-63306367"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/" >Essay Dialogues</a> (471)
+<ul class='children'>
+	<li class="cat-item cat-item-170930520"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/art-music-and-movements/" >Art, Music, and Movements</a> (12)
+</li>
+	<li class="cat-item cat-item-454944388"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/civil-wars-and-contentious-politics/" >Civil Wars and Contentious Politics</a> (10)
+</li>
+	<li class="cat-item cat-item-474641"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/coalition-building/" >Coalition Building</a> (13)
+</li>
+	<li class="cat-item cat-item-68883071"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/digital-media-in-activism/" title="This essay dialogue features the reactions of scholars and activists to Jennifer Earl and Katrina Kimport&#039;s recent book, &quot;Digitally Enabled Social Change: Activism in the Internet Age&quot; (MIT Press, 2011).">Digital Media in Activism</a> (9)
+</li>
+	<li class="cat-item cat-item-282244843"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/emerging-stars-in-social-movement-research/" >Emerging Stars in Social Movement Research</a> (25)
+</li>
+	<li class="cat-item cat-item-6993239"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/emotion-in-motion/" >Emotion in Motion</a> (10)
+</li>
+	<li class="cat-item cat-item-329163866"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/global-climate-movement/" >Global Climate Movement</a> (6)
+</li>
+	<li class="cat-item cat-item-93301186"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/great-books-for-summer-reading/" title="This essay dialogue aims to give readers a healthy selection of great books for their summer reading lists.  We invited contributors to  choose their favorite social movements/protest-related book of the past couple years, whether scholarly, activist, or fiction, and  write a short review. Although mainstream academic social movements texts were welcome, we encouraged contributors to consider books that most readers might not know about, such as non-scholarly books that don&#039;t get reviewed in academic journals.  We include scholars from a wide range of disciplines as well as a variety of activists in an effort to give our readers a broad list of selections. ">Great Books for Summer Reading</a> (12)
+</li>
+	<li class="cat-item cat-item-165775037"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/great-books-for-summer-reading-2013/" >Great Books for Summer Reading 2013</a> (8)
+</li>
+	<li class="cat-item cat-item-235033572"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/great-books-for-summer-reading-2014/" >Great Books for Summer Reading 2014</a> (10)
+</li>
+	<li class="cat-item cat-item-358082700"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/great-books-for-summer-reading-2015/" >Great Books for Summer Reading 2015</a> (2)
+</li>
+	<li class="cat-item cat-item-503805475"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/great-books-for-summer-reading-2016/" >Great Books for Summer Reading 2016</a> (14)
+</li>
+	<li class="cat-item cat-item-109376181"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/ground-wars-and-the-2012-elections/" >Ground Wars and the 2012 Elections</a> (10)
+</li>
+	<li class="cat-item cat-item-179632550"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/hackers-freedom-fighters-or-danger-to-society/" >Hackers: Freedom Fighters or Danger to Society</a> (8)
+</li>
+	<li class="cat-item cat-item-262122600"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/how-organizations-develop-activists/" >How Organizations Develop Activists</a> (13)
+</li>
+	<li class="cat-item cat-item-15561552"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/immigrants-and-refugees/" >Immigrants and Refugees</a> (14)
+</li>
+	<li class="cat-item cat-item-405868873"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/informing-activists/" >Informing Activists</a> (25)
+</li>
+	<li class="cat-item cat-item-82814100"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/is-terrorism-a-form-of-activism/" title="Contributors to this essay dialogue were asked to evaluate the relationship between terrorism and social movements.  Is terrorism an expression/tactic/tool of social movements? Are suicide bombing, mass suicides, and other tactics commonly associated with terrorism forms of activism/contentious action? If so, do our theoretical tools for analyzing social movements work well for understanding terrorism and its contentious forms of action? If not, why not, and what might some alternative perspectives be? ">Is Terrorism a Form of Activism?</a> (12)
+</li>
+	<li class="cat-item cat-item-188948512"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/latin-american-movements/" >Latin American Movements</a> (12)
+</li>
+	<li class="cat-item cat-item-80767654"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/lgbt-activism-has-the-tide-turned/" title="In light of recent developments like the legalization of same-sex marriage in New York and the relative absence of debate over LGBT issues during the 2012 Republican primaries, we asked essay contributors to evaluate whether or not the “tide has turned.” Is the LGBT movement experiencing increased success in bringing about desired cultural and policy changes? If something is, in fact, changing how has the change come about and what are some of the long-term implications?">LGBT Activism: Has the Tide Turned?</a> (7)
+</li>
+	<li class="cat-item cat-item-141664508"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/movements-and-the-courts/" >Movements and the Courts</a> (12)
+</li>
+	<li class="cat-item cat-item-307895270"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/movements-in-east-and-southeast-asia/" >Movements in East and Southeast Asia</a> (12)
+</li>
+	<li class="cat-item cat-item-382064360"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/new-ways-to-define-activism/" >New Ways to Define Activism</a> (14)
+</li>
+	<li class="cat-item cat-item-116342139"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/organizational-theory-and-social-movements/" >Organizational Theory and Social Movements</a> (8)
+</li>
+	<li class="cat-item cat-item-255872934"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/origins-of-social-movements/" >Origins of Social Movements</a> (14)
+</li>
+	<li class="cat-item cat-item-72528383"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/outcomes-of-ows/" title="Contributors to this dialogue were asked to write  about the potential outcomes of the Occupy Movement.  Both analysis of actual incidents of impact and speculation on future outcomes are discussed.  ">Outcomes of OWS</a> (13)
+</li>
+	<li class="cat-item cat-item-104359540"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/pedagogy-of-social-movements/" >Pedagogy of Social Movements</a> (11)
+</li>
+	<li class="cat-item cat-item-284782"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/politics-of-science/" >Politics of Science</a> (9)
+</li>
+	<li class="cat-item cat-item-481577053"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/populist-mobilization-and-the-election/" >Populist Mobilization and the Election</a> (4)
+</li>
+	<li class="cat-item cat-item-364399772"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/protestors-and-their-targets/" >Protestors and their Targets</a> (11)
+</li>
+	<li class="cat-item cat-item-195704536"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/racist-and-racial-justice-movements/" >Racist and Racial Justice Movements</a> (18)
+</li>
+	<li class="cat-item cat-item-121751102"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/religion-and-activism/" >Religion and Activism</a> (10)
+</li>
+	<li class="cat-item cat-item-138101401"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/roe-at-40/" >Roe at 40</a> (15)
+</li>
+	<li class="cat-item cat-item-334867634"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/social-movement-data/" >Social Movement Data</a> (12)
+</li>
+	<li class="cat-item cat-item-202946132"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/social-movement-failure/" >Social Movement Failure</a> (11)
+</li>
+	<li class="cat-item cat-item-540632939"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/social-movements-and-elections/" >Social Movements and Elections</a> (10)
+</li>
+	<li class="cat-item cat-item-212391788"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/social-trauma-and-activism/" >Social Trauma and Activism</a> (9)
+</li>
+	<li class="cat-item cat-item-89796131"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/student-activism-in-social-movements/" title="This dialogue explores the role of student activism in social movements.  Contributors were asked to draw on research experience, interests, and even personal experiences in activism to shed light on the potential that student activism holds for producing significant social change in the U.S. and throughout the world - concentrating on what it is, specifically, about student activism that distinguishes it from other bases of activism.  ">Student Activism in Social Movements</a> (11)
+</li>
+	<li class="cat-item cat-item-76783688"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/tea-party-and-the-primaries/" title="The March essay dialogue focuses on the role of the Tea Party movement in the 2012 Republican Primaries.  Contributors were asked to address such questions as: How has the Tea Party approached the primaries?  And, What impact, if any, is the Tea Party likely to have on the outcome of the Republican contest?">Tea Party and the Primaries</a> (8)
+</li>
+	<li class="cat-item cat-item-563309053"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/the-arab-spring-six-years-later/" >The Arab Spring Six Years Later</a> (9)
+</li>
+	<li class="cat-item cat-item-98532766"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/the-iraq-war-protests-10-years-later/" title="This dialogue focuses on the anti-war movement that began 10 years ago this coming fall.  We asked contributors to discuss such questions as, how has the anti-war movement changed over the past 10 years?  How has it differed from past anti-war movements?  In what ways has it succeeded/failed in reaching intended outcomes?  Has it had any unintended consequences?  What can this movement teach us about issues like coalition-building, activist burnout, and movement trajectories?  ">The Iraq War Protests: 10 Years Later</a> (10)
+</li>
+	<li class="cat-item cat-item-220600736"><a href="https://mobilizingideas.wordpress.com/category/essay-dialogues/violent-state-repression/" >Violent State Repression</a> (9)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://mobilizingideas.wordpress.com/category/uncategorized/" >Uncategorized</a> (69)
+</li>
+		</ul>
+</li>		<li id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Dialogue and DD Posts</h3>		<ul>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/04/19/race-gender-and-the-study-of-far-right-social-movements-an-interview-with-kathleen-blee/">Race, Gender, and the Study of Far Right Social Movements: An Interview with Kathleen&nbsp;Blee</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/29/new-documentary-film-the-activists-war-peace-and-politics-in-the-streets/">New Documentary Film – The Activists: War, Peace, and Politics in the&nbsp;Streets</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/27/the-arab-spring-sixth-years-on-part-2/">The Arab Spring Sixth Years On: Part&nbsp;2</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/27/from-the-arab-spring-to-the-muslim-ban-diaspora-activists-oppose-authoritarianism-at-home-and-abroad/">From the Arab Spring to the Muslim Ban: Diaspora Activists Oppose Authoritarianism at Home and&nbsp;Abroad</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/27/on-the-prospects-of-a-second-arab-spring/">On the Prospects of a Second Arab&nbsp;Spring</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/27/v-for-vendetta-recalling-memories-of-arab-spring-in-the-context-of-collective-memory/">V for Vendetta: Recalling Memories of Arab Spring in the Context of Collective&nbsp;Memory</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/17/informing-activists-what-can-activists-in-the-west-learn-from-the-arab-spring/">Informing Activists: What can activists in the West learn from the Arab&nbsp;Spring?</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/04/crises-of-capital-populist-politics/">Crises of Capital, Populist&nbsp;Politics</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/03/the-fast-and-the-furious-protest-impact/">The Fast and The Furious: protest&nbsp;impact</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/01/the-arab-spring-six-years-on/">The Arab Spring Six Years&nbsp;On</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/01/was-the-arab-spring-worth-it/">Was the Arab Spring Worth&nbsp;It?</a>
+						</li>
+					<li>
+				<a href="https://mobilizingideas.wordpress.com/2017/03/01/three-lessons-for-social-movement-research-from-the-egyptian-revolution/">Three Lessons For Social Movement Research From the Egyptian&nbsp;Revolution</a>
+						</li>
+				</ul>
+		</li>		<li id="top-posts-2" class="widget widget_top-posts"><h3 class="widget-title">Top Posts &amp; Pages</h3><ul>				<li>
+										<a href="https://mobilizingideas.wordpress.com/2012/08/01/social-movements-how-people-make-history/" class="bump-view" data-bump-view="tp">
+						Social Movements: How People Make History					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2013/06/03/the-role-of-the-arts-in-political-protest/" class="bump-view" data-bump-view="tp">
+						The Role of the Arts in Political Protest					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2013/06/03/music-matters-to-social-movements-and-in-a-number-of-ways-but-can-we-use-it-to-advance-our-understanding-of-emotions-and-the-body/" class="bump-view" data-bump-view="tp">
+						Music matters to social movements and in a number of ways, but can we use it to advance our understanding of emotions and the body?					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2014/01/01/failed-movements-and-movement-failures/" class="bump-view" data-bump-view="tp">
+						Failed Movements and Movement Failures					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2015/12/03/the-immigrant-rights-movement-then-and-now/" class="bump-view" data-bump-view="tp">
+						The Immigrant Rights Movement: Then and Now					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2015/01/05/the-unseen-effectiveness-of-social-movements-and-protests/" class="bump-view" data-bump-view="tp">
+						The Unseen Effectiveness of Social Movements and Protests					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2017/04/19/race-gender-and-the-study-of-far-right-social-movements-an-interview-with-kathleen-blee/" class="bump-view" data-bump-view="tp">
+						Race, Gender, and the Study of Far Right Social Movements: An Interview with Kathleen Blee					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2015/11/13/informing-activists/" class="bump-view" data-bump-view="tp">
+						Informing Activists					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2013/02/18/law-and-social-movements-its-more-than-just-litigation-and-courts/" class="bump-view" data-bump-view="tp">
+						Law and Social Movements: It’s More than Just Litigation and Courts					</a>
+									</li>
+							<li>
+										<a href="https://mobilizingideas.wordpress.com/2014/08/04/what-have-we-learned-from-the-civil-rights-movement/" class="bump-view" data-bump-view="tp">
+						What Have We Learned from the Civil Rights Movement?					</a>
+									</li>
+			</ul></li>		</ul>
+	</div><!-- #sidebar .widget-area -->
+
+	
+		</div><!-- #content-box -->
+
+		<div id="footer" role="contentinfo">
+			<div id="colophon">
+
+				
+				<div id="site-info">
+					<a href="https://mobilizingideas.wordpress.com/" title="Mobilizing Ideas" rel="home">Mobilizing Ideas</a> &middot; Activists and Scholars Debate Social Movements and Social Change				</div><!-- #site-info -->
+
+				<div id="site-generator">
+									</div><!-- #site-generator -->
+
+			</div><!-- #colophon -->
+		</div><!-- #footer -->
+	</div><!-- #page .blog -->
+</div><!-- #container -->
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201717y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-a1ec5637eb61ec5d4c6939ac3ef74ce7">
+	</div>
+	<div class="grofile-hash-map-39d9ae9471bb7743cf66190c96760494">
+	</div>
+	<div class="grofile-hash-map-c4df34f34a6bf5b43a5837fea84638bb">
+	</div>
+	<div class="grofile-hash-map-2da44dbed1f1ea1b325beebbb42b4939">
+	</div>
+	<div class="grofile-hash-map-82f3bc95e7b049ccf43a6285edb91b4f">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/mobilizingideas.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/mobilizingideas.wordpress.com\/wp-login.php?action=logout&_wpnonce=17ced4743a","homeURL":"https:\/\/mobilizingideas.wordpress.com\/","postID":"3481","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/mobilizingideas.wordpress.com\/2012\/08\/01\/social-movements-how-people-make-history\/":3481};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2012/08/01/social-movements-how-people-make-history/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"26497114","siteName":"Mobilizing Ideas","siteURL":"http:\/\/mobilizingideas.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/pilcrow","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/mobilizingideas.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmobilizingideas.wordpress.com%2F2012%2F08%2F01%2Fsocial-movements-how-people-make-history%2F","themeURL":"","xhrURL":"https:\/\/mobilizingideas.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"4ea55a3bb0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"8c79c38a27\" \/>","referer":"https:\/\/mobilizingideas.wordpress.com\/2012\/08\/01\/social-movements-how-people-make-history\/","canFollow":"","statusMessage":"","customizeLink":"https:\/\/mobilizingideas.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fmobilizingideas.wordpress.com%2F2012%2F08%2F01%2Fsocial-movements-how-people-make-history%2F","postID":"3481","shortlink":"http:\/\/wp.me\/p1Nb6O-U9","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/mobilizingideas.wordpress.com\/3481","statsLink":"https:\/\/wordpress.com\/stats\/post\/3481\/mobilizingideas.wordpress.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Pilcrow","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 946 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/mobilizingideas.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmobilizingideas.wordpress.com%2F2012%2F08%2F01%2Fsocial-movements-how-people-make-history%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJx9jEESgjAMRS9kCTCOjgvHs9Q2QrBNa9qi3t6ygHHFKn/y/n/wjsoEzsgZpgQWZzIYP82UDvCHfFHRlYE4gaMnJngVLDhqtg5lLRMbV2yFVWSC93WoBKP7Np54x6ht5equBbxOGaUmFWYUoUW2/fYMJlPgxbClnXYMKauH0ySQRi3Ew3rr6Oav3fHSt+2p68/TD/62aus='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "mobilizingideas.wordpress.com";
+	</script>
+	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'26497114','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'26497114','v':'wpcom','tz':'-4','user_id':'0','post':'3481','subd':'mobilizingideas'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWpYP2xZaVBVeHZiOUhkaixZNmFQbHJlenxESDRhV0ZifFlLMHBxWUsmSjZ8dnFpLSVuTVExLVNibUJIOG4xWn5CUWwvazFiM3V2Jj1ofkQ0U2I3Yj9kdCVWfD1meHJTVXxiZz1tZXphLkFaZSZnUyVPb3paSTRdRzN+VTI3bEpvc0NifEMtdk1NPzlqLiVuUXVFLGFTcU1wOUZUMi15Ti1yQyVdVENTVy1hVj8/Y0xmXXNhalgtQi1xNFZBcnJISVIvS3NIJXNBXVFoZHolY0V6UC96Lj95X00ucit6P0ZDeklkT2NmdTd2QWRNXU51dm1BPVFOQ3hFSGZlY1FnbDNOZ0osK2pvJls0TkJYaVI5RmFsTA=='}]);
+_stq.push([ 'clickTrackerInit', '26497114', '3481' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

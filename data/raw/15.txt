@@ -1,164 +1,973 @@
-<html>
-<head>
-<title>In Search of African America:  One Collector's Experience. An exhibit at the Herbert Hoover Presidential Museum.</title>
-<link rev="made" href="mailto:hoover.webmaster@nara.gov">
-<meta name="owner" content="National Archives and Records Administration (NARA)">
-<meta name="DESCRIPTION" content="The Herbert Hoover Presidential Library-Museum 
-preserves the records of Herbert Hoover, the 31st President of the United States">
-<meta name="KEYWORDS" content="African American history, exhibits, black history, James Hicks, Iowa history, black memorabilia, african american memorabilia">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!-- This begins the Survey trigger -->
-     <!--//#include virtual="/menus/survey.html" -->
-<!-- Begin Survey Trigger  9/2008-->
-<script language="JavaScript" src="/scripts/triggerParams.js"></script> 
-<script language ="JavaScript" SRC="/scripts/stdLauncher.js"></script>
-<script type="text/javascript">triggerParms["cpp_5"]="site:HH";
-Poll();</script>
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="title" content="Black power movement facts, information, pictures | Encyclopedia.com articles about Black power movement" />
+<meta name="description" content="Get information, facts, and pictures about Black power movement at Encyclopedia.com. Make research projects and school reports about Black power movement easy with credible articles from our FREE, online encyclopedia and dictionary." />
+<meta name="abstract" content="Encyclopedia.com – Online dictionary and encyclopedia with pictures, facts, and videos. Get information and homework help with millions of articles in our FREE, online library." />
+<meta name="keywords" content="Get information, facts, and pictures, about Black power movement, at Encyclopedia.com, Make, research, projects, and school reports, about Black power movement, easy, with credible, articles, from our FREE, online encyclopedia and dictionary" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/social-sciences-and-law/sociology-and-social-reform/social-reform/black-power-movement" />
+<link rel="shortlink" href="/node/1255772" />
+<link rel="revision" href="/social-sciences-and-law/sociology-and-social-reform/social-reform/black-power-movement" />
 
-<script type="text/javascript" id="_fed_an_ua_tag" src="/includes/javascript/federated-analytics/Universal-Federated-Analytics.1.0.js?agency=NARA&subagency=HCH"></script><!-- This ends the Survey trigger  -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <title>Black power movement facts, information, pictures | Encyclopedia.com articles about Black power movement</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_kPMtNduWUKQI-NsU4-KVKke3FpoE8ePQVShWw0fk40M.css?ook4mz" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_HqCXZM_cX3UmKJRchtZsElYioMBDjvH4h24VdDriBIw.css?ook4mz" media="all" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" media="all" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_bsgAeYN5wH7X1ZWH-ngSt1zQna_MlW6PdT4WXqB7NWI.css?ook4mz" media="all" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/video.js/5.16.0/video-js.min.css" media="all" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/videojs.vast.vpaid.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_MaTI0mBvy-ehlu1RN_Y9Fsri7NXZ35339atNH7X3U9M.css?ook4mz" media="all" />
 
-  ga('create', 'UA-56396821-1', 'auto');
-  ga('send', 'pageview');
 
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64847704-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+        <script>
+      window.showAds = false;
+    </script>
+    <script src="/sites/default/files/js/ads.js?qawtfhahaok"></script>
+    <script>
+    if (window.showAds) {
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'User Interaction',
+        eventAction: 'Adblock',
+        eventLabel: 'Not Detected',
+        nonInteraction: true
+      });
+    } else {
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'User Interaction',
+        eventAction: 'Adblock',
+        eventLabel: 'Enabled',
+        nonInteraction: true
+      });
+    }
+    </script>
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_AzOPBAE9NKA4CKW4x7G4ztR3RWtTTWIns7TIKO_1-tA.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.2/lodash.min.js"></script>
+<script src="/sites/default/files/js/js_BwcL-IFmE1ggmtYg4h94TxaLHryo_WbBAC3ohZaQbyo.js"></script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="/sites/default/files/js/js_CvHgg3cWLveO0GncJWv3MaCgGk1dy_xG5_1Vv2HMnjo.js"></script>
+
+    <script>
+      var _reportClientErrors = false;
+      var nodeType = "topic",
+          rootPath = "node";
+
+      var dataLayer = [{
+                  pageType : 'topic'
+                                              }];
+    </script>
+  </head>
+  <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNC4D8"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+(function(w,d,s,l,i){
+
+  w[l]=w[l]||[];
+  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+  var f=d.getElementsByTagName(s)[0];
+  var j=d.createElement(s);
+  var dl=l!='dataLayer'?'&l='+l:'';
+  j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+  j.type='text/javascript';
+  j.async=true;
+  f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-KNC4D8');
 </script>
-</head>
+<!-- End Google Tag Manager -->
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+  <div id="header">
+    <header>
+      <div class="container clearfix">
+          <div>
+    <div id="block-encyclopedia-branding" class="site-branding">
+  
+    
+      <div id="logo">
+    <a id="imagelink" href="/" title="Home" rel="home" class="site-branding__logo">
+      <img src="/themes/custom/encyclopedia/images/header-logo.jpg" alt="Home" />
+    </a>
+	</div>
+    </div>
 
-<body bgcolor="#FFFFFF" text="#000000" background="../images/backgraytaupe.gif" link="#000000" vlink="#993333">
-<p><img src="../images/titletaupesmall.gif" width="425" height="49" alt="In Search of African America:  One Collector's Experience January 17-March 21, 2004"></p>
-<table width="100%" border="0" cellspacing="2">
-  <tr> 
-    <td width="60%" valign="top" rowspan="7"> 
-      <p> <font face="Arial, Helvetica, sans-serif"><b>The progress made by African 
-        Americans in the 1950s and early 1960s at achieving their civil rights 
-        was compromised by violence. Frankly, many young blacks rejected the courage 
-        and patience displayed by Dr. Martin Luther King in his non-violent response 
-        to injustice in American society.</b></font></p>
-      <p><font face="Arial, Helvetica, sans-serif"><b>The epitome of the Black 
-        Power Movement was the Black Panther Party. Founded by Huey P. Newton, 
-        Bobby Seale and others, this party justified the use of violence in the 
-        accomplishment of black justice. Newton and Seale were harassed by police 
-        and Newton was convicted of killing a policeman.</b></font></p>
-      <p><font face="Arial, Helvetica, sans-serif"><b>The movement stimulated 
-        a number of other blacks to speak out. In 1968, Black Panther Eldridge 
-        Cleaver wrote his best selling autobiography, Soul on Ice and the poet 
-        Amira Baraka published an anthology of protest writing called Black Fire. 
-        And in 1970, Stokely Carmichael and Charles Hamilton wrote Black Power, 
-        the book that defined the movement.</b></font></p>
-      <p><font face="Arial, Helvetica, sans-serif"><b>Protest during these years 
-        extended to sports as well as writing. In 1967, Heavyweight champion Muhammad 
-        Ali refused induction into the armed forces on both religious and political 
-        grounds. The next year, John Carlos and Tommie Smith raised their gloved 
-        fists in a black power salute from the victory stand at the Olympic Games 
-        in Mexico City. And two years after that, Curt Flood challenged the reserve 
-        clause in professional baseball eventually changing the nature of the 
-        sport.</b></font></p>
-      <p><font face="Arial, Helvetica, sans-serif"><b>A new generation of black 
-        political figures emerged during the 1970s. Congresswoman Shirley Chisholm 
-        ran for president in 1972 and Congresswoman Barbara Jordan spoke with 
-        eloquence during the Watergate hearings</b></font></p>
-      <p><font face="Arial, Helvetica, sans-serif"><b>Benjamin Hooks replaced 
-        Roy Wilkins as the head of the NAACP and Andrew Young is elected mayor 
-        of Atlanta. Finally, in 1983, the Reverend Jesse Jackson announced his 
-        intention to make the first serious attempt by an African American to 
-        win the Democratic nomination for president. The torch had been passed 
-        to a new generation of leaders. <br>
-        </b></font> </p>
-      </td>
-    <td colspan="2" height="18"> 
-      <h1 align="center"><font face="Arial, Helvetica, sans-serif" color="#996600">The 
-        Black Power Movement<br>
-        1968-1980</font></h1>
-    </td>
-  </tr>
-  <tr> 
-    <td width="12%">&nbsp;</td>
-    <td width="28%" valign="top"><font face="Arial, Helvetica, sans-serif" color="#996600"></font></td>
-  </tr>
-  <tr> 
-    <td colspan="2" valign="top"><img src="images/blackpowerphototn.jpg" alt="Black Power Movement exhibit section" width="250" height="188" border="0" align="left"> 
-      <p><b><font face="Arial, Helvetica, sans-serif" size="2">In this photo:</font></b><font face="Arial, Helvetica, sans-serif" size="2"><br>
-    --Black Power Movement section</font></p>      <p>&nbsp;</p></td>
-  </tr>
-  <tr> 
-    <td valign="top" colspan="2" height="2"> 
-      <div align="center"> </div>
-    </td>
-  </tr>
-  <tr> 
-    <td valign="top" colspan="2" height="14">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td valign="top" bgcolor="#996600" colspan="2" height="14"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" color="#000000"><b><font color="#FFFFFF">This 
-        exhibit is divided into 10 sections<br>
-        </font></b></font></div>
-    </td>
-  </tr>
-  <tr> 
-    <td valign="top" colspan="2" height="14" bgcolor="#996600"> 
-      <div align="left">
-        <table width="300" border="0" cellspacing="2" background="../images/collage4.jpg" align="center" bordercolor="#996600">
-          <tr>
-            <td height="39" valign="top">
-              <p><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font size="2"><b><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font size="2"><b><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font color="#996600"></font></b></font></b></font></b></font></b></font></b></font></b></font></b></font></b></font></b></font></b></font></b></font></b></font><font color="#996600"><a href="../introduction/index.html">1. Introduction <br>
-        --The James Hicks Collection</a></font></b></font></b></font></p></td>
-          </tr>
-          <tr>
-            <td height="22"><p><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> </font><font size="2" face="Arial, Helvetica, sans-serif"><a href="../antebellum/index.html">2. The Burden of Slavery, 1619-1861</a></font> </b></p></td>
-          </tr>
-          <tr>
-            <td height="24"><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><a href="../civilwar/index.html"> </a>&nbsp;</font><a href="../civilwar/index.html"><font face="Arial, Helvetica, sans-serif" size="2">3. The Civil War, 1861-1865</font></a> </b></td>
-          </tr>
-          <tr>
-            <td><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> <a href="../reconstruction/index.html">4</a></font></b><a href="../reconstruction/index.html"><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><font size="3"><strong><font size="2">. </font></strong></font></font><font size="2"><strong><font face="Arial, Helvetica, sans-serif">The Price of Freedom: Reconstruction, 1865-1877</font></strong></font></a></td>
-          </tr>
-          <tr>
-            <td height="32"><p><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> <a href="../jimcrow/index.html">5. Say Hello To Jim Crow, 1878-1897 </a></font></b></p></td>
-          </tr>
-          <tr>
-            <td height="41"><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> </font><font face="Arial, Helvetica, sans-serif" size="2"><a href="../selfhelp/index.html">6. Up From Slavery: The Self Help Period 1898-1919</a></font> </b></td>
-          </tr>
-          <tr>
-            <td height="24"><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> </font><font face="Arial, Helvetica, sans-serif" size="2"><a href="../harlemren/index.html">7. The Harlem Renaissance, 1920-1946</a> </font></b></td>
-          </tr>
-          <tr>
-            <td height="24"><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> <font color="#996600"><a href="../civilrights/index.html">8. The Civil Rights Era, 1947-1968</a></font> </font><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b></b></font></b></font></b></td>
-          </tr>
-          <tr>
-            <td><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> <font color="#996600">9. The Black Power Movement, 1968-1980 </font></font><font color="#996600" size="2"><b><font face="Arial, Helvetica, sans-serif"><b>(</b></font></b></font><font size="2"><b><font face="Arial, Helvetica, sans-serif"><b><font color="#996600">you are here)</font></b></font></b></font></b></td>
-          </tr>
-          <tr>
-            <td><b><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"> <a href="../turncentury/index.html">10. The Turn of the Century, 1981-2004 </a></font></b></td>
-          </tr>
-          <tr>
-            <td height="23">
-            <div align="center"><font color="#000000" size="2"><b><font face="Arial, Helvetica, sans-serif">Return to the <a href="../../index.html">Exhibits Main Page</a></font></b></font></div></td>
-          </tr>
-          <tr>
-            <td>
-              <div align="center"><font color="#000000" face="Arial, Helvetica, sans-serif" size="2"><b>Return to the <a href="../../../index.html">Hoover Library Main Page</a></b></font></div></td>
-          </tr>
-        </table>
+  </div>
+
+        <div class="hdr-r clearfix">
+          <div>
+    <form action="/search" method="get" id="searchForm">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+    <label for="edit-keys" class="visually-hidden">Search</label>
+    <input title="Enter the terms you wish to search for." class="searchbox form-search" placeholder="Search" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+    <span class="field-suffix">
+      <i class="fa fa-search clickable"></i>
+    </span>
+  </div>
+  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+    <input class="hidden button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="GO!" />
+  </div>
+</form>
+<span class="mobile-search-icon"><i class="fa fa-search"></i></span>
+
+  
+
+<div class="hdr-categories-container">
+	<a id="rcLink" class="rc-link" onclick="toggleFlyout()">
+						
+		<span class="text" id="block-encyclopedia-main-menu-menu">Research categories</span>
+		
+		<i class="fa fa-bars"></i>
+	</a>
+	<div class="rc-flyout" id="rcFlyout">
+		<i onclick="closeOverlays();" class="fa fa-close"></i>
+		<div class="categories">
+			<span class="title">Research categories</span>
+			 
+			   			  				
+              <ul block="block-encyclopedia-main-menu">
+              <li>
+        <a href="/earth-and-environment" data-drupal-link-system-path="taxonomy/term/66206">Earth and Environment</a>
+              </li>
+          <li>
+        <a href="/history" data-drupal-link-system-path="taxonomy/term/66213">History</a>
+              </li>
+          <li>
+        <a href="/literature-and-arts" data-drupal-link-system-path="taxonomy/term/66208">Literature and the Arts</a>
+              </li>
+          <li>
+        <a href="/medicine" data-drupal-link-system-path="taxonomy/term/66205">Medicine</a>
+              </li>
+          <li>
+        <a href="/people" data-drupal-link-system-path="taxonomy/term/66211">People</a>
+              </li>
+          <li>
+        <a href="/philosophy-and-religion" data-drupal-link-system-path="taxonomy/term/66209">Philosophy and Religion</a>
+              </li>
+          <li>
+        <a href="/places" data-drupal-link-system-path="taxonomy/term/66214">Places</a>
+              </li>
+          <li>
+        <a href="/plants-and-animals" data-drupal-link-system-path="taxonomy/term/66210">Plants and Animals</a>
+              </li>
+          <li>
+        <a href="/science-and-technology" data-drupal-link-system-path="taxonomy/term/66204">Science and Technology</a>
+              </li>
+          <li>
+        <a href="/social-sciences-and-law" data-drupal-link-system-path="taxonomy/term/66207">Social Sciences and the Law</a>
+              </li>
+          <li>
+        <a href="/sports-and-everyday-life" data-drupal-link-system-path="taxonomy/term/66212">Sports and Everyday Life</a>
+              </li>
+          <li>
+        <a href="/references" data-drupal-link-system-path="references">Additional References</a>
+              </li>
+        </ul>
+  
+
+
+			  
+			  
+		</div>
+	   
+	</div>
+</div>
+  </div>
+        
+        </div>
+        <div class="overlay" onclick="closeOverlays();"></div>
       </div>
-      </td>
-  </tr>
-</table>
+    </header>
+  </div>
+  <div class="print-logo">
+      <div>
+    <div id="block-printlogo">
+  
+    
+      
+            <div><img src="/themes/custom/encyclopedia/images/header-logo.jpg" alt="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" /></div>
+      
+  </div>
 
-<!-- Begin Statistics Footer -->
-      <!--//#include virtual="/menus/footer.html" -->
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2006 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2006/03/01 12:51:54 $ -->
-<!--<script type="text/javascript"src="/scripts/dcs_wtid.js"></script>
-<script type="text/javascript"src="/scripts/dcs_tag.js"></script>
-<noscript>
-<img alt="" name="DCSIMG" width="1" height="1" src="http://wbtdcs.nara.gov/dcs5w0txb10000wocrvqy1nqm_6n1p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
-</noscript>-->
-<!-- END OF SmartSource Data Collector TAG --><!-- End Statistics Footer -->
-</body>
+  </div>
+
+  </div>
+
+  <div id="wrapper">       
+    <div id="shell">
+      <div id="center-container">
+        <a id="main-content" tabindex="-1"></a>        
+        
+
+
+<div id="topic_wrap" class="clearfix topic-wrapper">
+
+		<div id='gpt-ad-header' style="text-align:center; margin-bottom: 10px;">
+    <script>
+      googletag.cmd.push(function() { googletag.display('gpt-ad-header'); });
+    </script>
+  </div>
+
+	<div class="main-section">
+		<div class="toparea">
+			  <div>
+    <div id="block-encyclopedia-breadcrumbs">
+  
+    
+      <div id="expapand_breadcrumb_expanded">
+	<div class="breadcrumb">
+                      <a href="/">Home</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      <a href="/social-sciences-and-law">Social Sciences and the Law</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      <a href="/social-sciences-and-law/sociology-and-social-reform">Sociology and Social Reform</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      <a href="/social-sciences-and-law/sociology-and-social-reform/social-reform">Social Reform</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      Black power movement
+        						
+					
+    	</div>
+</div>
+
+  </div>
+
+  </div>
+
+		</div>
+        <label class="source-select-label">Select source:</label>
+        <div id="articleSelectWrapper"></div>
+		  <div>
+    <div id="block-topcontentad">
+  
+    
+      
+  </div>
+<div class="views-element-container" id="block-views-block-subcategories-for-category-block-2">
+  
+    
+      <div block="block-views-block-subcategories-for-category-block-2"><div class="js-view-dom-id-d2f1b4f72b20b9853a9232bad01dde4179ae310ba29dda2ff6ba081827f26b4c">
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-encyclopedia-content">
+  
+    
+      <article role="article" about="/social-sciences-and-law/sociology-and-social-reform/social-reform/black-power-movement">
+
+  
+    
+
+  
+  <div>
+    
+  </div>
+
+</article>
+
+  </div>
+<div class="views-element-container" id="block-views-block-article-topic-articles-block">
+  
+    
+      <div block="block-views-block-article-topic-articles-block"><div class="js-view-dom-id-3d2a0c847d900c64a343a4ee9165a22f405c5912d74321e64af8f6b318889840">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="articleWrapper" id="articleWrapper-715021">
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<span class="document-id" data-val="1G23045300203"></span>
+<h2 class="doctitle">Black Power
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publisher" data-pub="2785"></span><span class="publication">International Encyclopedia of the Social Sciences</span> <br />
+COPYRIGHT 2008 Thomson Gale</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper">
+
+
+<h1>Black Power</h1>
+
+<p><a href="#A">BIBLIOGRAPHY</a></p>
+
+<p>The Black Power movement is one of the most misunderstood and understudied protest movements in American history (Jeffries 2006). Many whites believed that Black Power was synonymous with violence and black racism. Some black leaders viewed the movement as separatist, following a similar path to that of such earlier movements as Marcus Garvey<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s (1887<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1940) Universal Negro Improvement Association (UNIA), the National Movement for the Establishment of the Forty-ninth State, the Peace Movement of <a data-topic="1222124" href="/places/africa/ethiopia-political-geography/ethiopia">Ethiopia</a>, and the National Union for People of African Descent.</p>
+<p>The Black Power movement emerged at a time when the modern civil rights movement was in its final stage as a viable movement for social, political, and economic change. While some contend that the civil rights and Black Power movements were vastly different endeavors, the latter was indeed a logical extension of the former. In fact, many have maintained that Willie Ricks, a civil rights activist, introduced the Black Power slogan during a march in 1966. In 1968 Kwame Ture (then Stokely Carmichael, 1941<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1998) defined Black Power as <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>the ability of black people to politically get together and organize themselves so that they can speak from a position of strength rather than a position of weakness<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> (quoted in Ladner 1967, p. 8). It is apparent though, that while the Black Power movement was a continuation of the struggle waged by the civil rights movement, it was distinct in many ways.</p>
+<p>Black Power organizations such as the Black Panther Party, US, the Republic of New Africa, the League of Revolutionary Black Workers, the Revolutionary Action Movement, and others saw themselves as the heirs to <a data-topic="1208779" href="/people/philosophy-and-religion/islam-biographies/malcolm-x">Malcolm X</a> (1925<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1965). Malcolm had argued that the nonviolent tactics of Dr. <a data-topic="1207899" href="/people/social-sciences-and-law/social-reformers/martin-luther-king-jr">Martin Luther King Jr</a>. (1929<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1968) were not a viable option for black people. Malcolm viewed integration as a surrender to white supremacy, for its aims of total assimilation into white society implied that African Americans had little that was worth preserving.</p>
+<p>Malcolm<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s candid and fiery rhetoric appealed to many urban blacks, and his autobiography was devoured by Black Power advocates. Nat Turner (1800<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1831), Che Guevara (1928<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1967), Frantz Fanon (1925<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1961), Am<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xED;</span></span></span></span></span></span></span></span></span>lcar Cabral (1924<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1973), Kwame Nkrumah (1909<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1972), Patrice Lumumba (1925<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1961), S<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xE9;</span></span></span></span></span></span></span></span></span>kou Tour<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xE9;</span></span></span></span></span></span></span></span></span> (1922<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1984), and Toussaint Louverture (1743<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1803) were also held in high regard. Black Power advocates were inspired by the struggle for African independence.</p>
+<p>For many in the Black Power movement, Fanon<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s <i>The Wretched of the <a data-topic="1207885" href="/earth-and-environment/geology-and-oceanography/geology-and-oceanography/earth">Earth</a></i> (1961) was considered a blueprint for revolution in America. <i>The Wretched of the Earth</i> distilled the lessons of the Algerian war for anticolonial movements everywhere. In terms of organization building, Garvey<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s UNIA served as a model for many Black Power advocates.</p>
+<p>The 1965 assassination of Malcolm X coupled with the urban uprisings of 1964 and 1965 ignited the Black Power movement. Some young black activists committed themselves to continuing the unfinished work of Malcolm X<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s Organization of Afro-American Unity by forming their own organizations. During the summer of 1965, the predominantly black Watts district in <a data-topic="1215160" href="/places/united-states-and-canada/us-political-geography/los-angeles">Los Angeles</a> reached its boiling point and erupted in violence in response to the mistreatment of a black motorist by members of the California Highway Patrol. This uprising was arguably the most catastrophic of its era; it signaled to America that some blacks were willing to lash out against the establishment in a violent way when consistently denied the most basic of human rights. Ironically, this rebellion occurred just a few days after the passing of the Voting Rights Act of 1965. Consequently, for many blacks it was clear that oppression was too deeply entrenched in America<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s institutions to be overcome by civil rights legislation that addressed the symptoms and symbols of black inequality rather than the root causes.</p>
+<p>By 1968 the Black Power movement was in full gear. Thousands of blacks all over the country took to the streets in response to the killing of Dr. King. Months later, black athletes staged protests at the <a data-topic="1211594" href="/sports-and-everyday-life/sports/sports/olympic-games">Olympic Games</a> in Mexico City as a way of bringing attention to the plight of African Americans in the <a data-topic="1208998" href="/places/united-states-and-canada/us-political-geography/united-states">United States</a>.</p>
+<p>The Black Power movement was dispersed throughout the United States. The civil rights movement, on the other hand, was to a large extent a southern-based movement. Unlike the civil rights movement, whites were prohibited from joining any of the Black Power organizations. With the exception of the Black Panther Party, Black Power organizations did not form alliances with white groups. Black Powerites sought to be free of any white influence or interference.</p>
+<p><div id='gpt-ad-inline-1' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-1');
+          });
+        </script>
+      </div><p>While all of the Black Power organizations believed in black control of their communities, they were not monolithic in their approach to that end. The civil rights movement sought to dismantle desegregation in public accommodations and to exercise the right of black Americans to vote. For many Black Powerites, integration was a nonissue and nonviolence was out of the question. The political philosophy of the organizations that comprised the Black Power movement ran the gamut. Some were black nationalist, others were cultural nationalist, while still others considered themselves Marxist-Leninist.</p>
+<p>The Black Power movement was preoccupied with increasing black people<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s level of consciousness. Black people began calling themselves <i>black</i> instead of <i>negro</i>. Congressman Adam Clayton Powell (1908<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1972) of <a data-topic="1215767" href="/places/united-states-and-canada/us-political-geography/new-york">New York</a> spoke of Black Power at a rally in 1965 in <a data-topic="1208119" href="/places/united-states-and-canada/us-political-geography/chicago">Chicago</a> and elaborated on it in his Howard University commencement speech the following year. He exclaimed that Black Power was <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>a working philosophy for a new breed of cats <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2026;</span></span></span></span></span></span></span></span></span> who categorically refuse to compromise or negotiate any longer for their rights <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2026;</span></span></span></span></span></span></span></span></span> who reject the old-line established white financed, white controlled, white washed Negro leadership<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> (quoted in Muse 1970, p. 242).</p>
+<p>The Black Power movement not only represented a change in tactical strategy, but also a change in mind-set. For instance, the black music industry, with its roots in gospel and rhythm and blues became nationalist in an extraordinary way. Songs like James Brown<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>Say It Loud, I<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>m Black and I<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>m Proud<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> (1968), the Temptations<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span> <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>Message to a Black Man,<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> (1969) and the Impressions<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span> <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>We<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>re a Winner<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> (1967) established a distinctive sound that became the preferred expression for a generation of politically conscious young black Americans. Some blacks chose to don African garb and adopt African names. Some chose to wear their hair in ways that were more distinctively nonwhite. In the fall of 1966, Howard University students elected as homecoming queen a woman who ran on a Black Power platform and wore the emerging Afro hairstyle. <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>Black Is Beautiful<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> became the mantra among Black Powerites.</p>
+<p>Young black activists from Cornell University in Ithaca, New York, to the University of <a data-topic="1211661" href="/places/united-states-and-canada/us-political-geography/california">California</a> at Berkeley established black student unions and demanded black studies programs, more black faculty, and proactive recruitment and admissions policies. Black Power advocates claimed that most African Americans knew little about their history. Carter G. Woodson (1875<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1950) had made the same point years earlier: <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>The Negro knows practically nothing of his history and his <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2018;</span></span></span></span></span></span></span></span></span>friends<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span> are not permitting him to learn it.<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2026;</span></span></span></span></span></span></span></span></span> And if a race has no history, if it has no worth-while tradition, it becomes a negligible factor in the thought of the world, and it stands in danger of extermination<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> (Wiggins 1987, p. 45; Young 1982, p. 100).</p>
+<p>Black Power advocates felt little need to prove to whites that they were deserving of the same rights. From their standpoint, to whom were whites to be equal? They believed that their time would be better spent educating the community, building institutions, and meeting the daily needs of the people by providing protection, food, shelter, and clothing.</p>
+<p>The Black Power movement did not grow out of a vacuum; it was firmly rooted in the rich tradition of black protest. Like the slave rebellions and the Garvey movement, it was extensively organized. Its use of the written word, art, and culture to heighten the consciousness of the black community also linked the movement to the Harlem Renaissance (or the New Negro Renaissance), which relied heavily on these black expressive endeavors.</p>
+<p>The Black Power movement also heightened the consciousness of other oppressed peoples throughout the world and greatly influenced the direction of their movements. The Black Power movement had a profound impact, for example, on the struggle for equality in the Caribbean, where freedom fighters started the Afro-Caribbean movement, activists in Barbados formed the People<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s Progressive Movement, and grassroots organizers in <a data-topic="1213156" href="/places/latin-america-and-caribbean/caribbean-political-geography/bermuda">Bermuda</a> launched the Black Beret group (Jeffries 2006).</p>
+<p>By the mid-1970s, the Black Power movement was for all intents and purposes over. Government repression, which included assassinations of Black Panthers Mark Clark and Fred Hampton in Chicago, and Carl Hampton of <a data-topic="1214848" href="/places/united-states-and-canada/us-political-geography/houston">Houston</a>, raids, arrests, and harassment of many of the movement<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2019;</span></span></span></span></span></span></span></span></span>s members, gets much of the credit for the decline of the Black Power movement. In addition to repression, by 1973 African American activists had begun to concentrate their efforts on getting blacks and progressive whites elected to public office. Some saw the electoral process as a significantly less dangerous undertaking. Intragroup squabbles and government programs such as welfare (which underwent a loosening of eligibility requirements) also worked to dampen militant activism. While a few Black Power organizations remained active well into the mid-1970s, by the time of the election of President <a data-topic="1215905" href="/people/history/us-history-biographies/jimmy-carter">Jimmy Carter</a> in November 1976, the Black Power movement was dead.</p>
+
+<p><b>SEE ALSO</b>   <i>Black Panthers; Civil Rights Movement, U.S.; Congress of Racial Equality; Student Nonviolent Coordinating Committee</i> </p>
+
+
+<h2><a id="A">BIBLIOGRAPHY</a></h2>
+<p><div id='gpt-ad-inline-2' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-2');
+          });
+        </script>
+      </div><p>Jeffries, Judson L., ed. 2006. <i>Black Power in the Belly of the Beast</i>. Urbana: University of Illinois Press.</p>
+<p>Ladner, Joyce. 1967. What <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201C;</span></span></span></span></span></span></span></span></span>Black Power<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x201D;</span></span></span></span></span></span></span></span></span> Means to Negroes in Mississippi. <i>Transaction</i> (November): 7<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>15.</p>
+<p>Muse, Benjamin. 1970. <i>The American Negro Revolution: From Nonviolence to Black Power, 1963<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1967</i>. New York: Citadel.</p>
+<p>Ogbar, Jeffrey O. G. 2004. <i>Black Power: Radical Politics and African American Identity</i>. Baltimore, MD: Johns Hopkins University Press.</p>
+<p>Van DeBurg, William L. 1992. <i>New Day in Babylon: The Black Power Movement and American Culture, 1965<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>1975</i>. Chicago: University of Chicago Press.</p>
+<p>Wiggins, William H. 1987. <i>O Freedom! Afro-American Emancipation Celebrations</i>. Knoxville: University of Tennessee Press.</p>
+<p>Young, Alfred. 1982. The Historical Origin and Significance of the Afro-American History Month Observance. <i>Negro History Bulletin</i> 45: 100<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>101.</p>
+<p><b><i>Judson L. Jeffries</i> </b>  </p>
+
+
+
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs715021">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
+                    </div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
+                    </div>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/social-sciences/applied-and-social-sciences-magazines/black-power">Black Power.</a>"
+                        <u>
+                            International Encyclopedia of the Social Sciences</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        24 Apr. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "Black Power." <u>
+                            International Encyclopedia of the Social Sciences</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (April 24, 2017). <a href="/social-sciences/applied-and-social-sciences-magazines/black-power">
+                            http://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/black-power</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "Black Power." <u>
+                            International Encyclopedia of the Social Sciences</u>.
+                        
+                        . Retrieved
+                        April 24, 2017
+                        from Encyclopedia.com: <a href="/social-sciences/applied-and-social-sciences-magazines/black-power">
+                            http://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/black-power</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
+
+
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-715021">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+	<div class="box" id="LearnCitationsContainer">
+		
+	</div>
+</div>
+</div>
+  </div>
+    <div class="articleWrapper" id="articleWrapper-470749">
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<span class="document-id" data-val="1G23437700553"></span>
+<h2 class="doctitle">Black Power Movement
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publisher" data-pub="2785"></span><span class="publication">West&#039;s Encyclopedia of American Law</span> <br />
+COPYRIGHT 2005 The Gale Group, Inc.</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper"><h1>BLACK POWER MOVEMENT</h1><p>The Black Power movement grew out of the civil rights movement that had steadily gained momentum through the 1950s and 1960s. Although not a formal movement, the Black Power movement marked a turning point in black-white relations in the United States and also in how blacks saw themselves. The movement was hailed by some as a positive and proactive force aimed at helping blacks achieve full equality with whites, but it was reviled by others as a militant, sometimes violent faction whose primary goal was to drive a wedge between whites and blacks. In truth, the Black Power movement was a complex event that took place at a time when society and culture was being transformed throughout the United States, and its legacy reflects that complexity.</p><p>In the 1950s and early 1960s, groups such as the National Association for the Advancement of Colored People (naacp) and the southern christian leadership conference (SCLC) worked with blacks and whites to create a desegregated society and eliminate racial discrimination. Their efforts generated positive responses from a broad spectrum of people across the country. Rev. martin luther king jr., who headed the SCLC, made significant headway with his adherence to nonviolent tactics. In 1964, President lyndon b. johnson signed the civil rights act and a year later he signed the voting rights act.</p><p>civil rights legislation was an earnest and effective step toward eliminating inequality between blacks and whites. Even with the obvious progress, however, the reality was that prejudice could not be legislated away. Blacks still faced lower wages than whites, higher crime rates in their neighborhoods, and unspoken but palpable racial discrimination. Young blacks in particular saw the civil rights movement as too mainstream to generate real social change. What they wanted was something that would accelerate the process and give blacks the same opportunities as whites, not just socially but also economically and politically. Perhaps more important, they felt that the civil rights movement was based more on white perceptions of civil rights than black perceptions.</p><p>Not all blacks had been equally impressed with the civil rights movement. malcolm x and the nation of islam, for example, felt that racial self-determination was a critical and neglected element of true equality. By the mid-1960s, dissatisfaction with the pace of change was growing among blacks. The term "black power" had been around since the 1950s, but it was stokely carmichael, head of the student nonviolent coordinating committee (SNCC), who popularized the term in 1966.</p><p>Carmichael led a push to transform SNCC from a multiracial community activist organization into an all-black social change organization. Late in 1966, two young men, huey newton and bobby seale, formed the black panther party for self-defense (BPP), initially as a group to track incidents of police violence. Within a short time groups such as SNCC and BPP gained momentum, and by the late 1960s the Black Power movement had made a definite mark on American culture and society.</p><p>The Black Power movement instilled a sense of racial pride and self-esteem in blacks. Blacks were told that it was up to them to improve their lives. Black Power advocates encouraged blacks to form or join all-black political parties that could provide a formidable power base and offer a foundation for real socioeconomic progress. For years, the movement's leaders said, blacks had been trying to aspire to white ideals of what they should be. Now it was time for blacks to set their own agenda, putting their needs and aspirations first. An early step, in fact, was the replacement of the word "Negro" (a word associated with the years of slavery) with "black."</p><p>The movement generated a number of positive developments. Probably the most noteworthy of these was its influence on black culture. For the first time, blacks in the United States were encouraged to acknowledge their African heritage. colleges and universities established black studies programs and black studies departments. Blacks who had grown up believing that they were descended from a backwards people now found out that African culture was as rich and diverse as any other, and they were encouraged to take pride in that heritage. The Black Arts movement, seen by some as connected to the Black Power movement flourished in the 1960s and 1970s. Young black poets, authors, and visual artists found their voices and shared those voices with others. Unlike earlier black arts movements such as the Harlem Renaissance, the new movement primarily sought out a black audience.</p><p>The same spirit of racial unity and pride that made the Black Power movement so dynamic also made it problematic—and to some, dangerous. Many whites, and a number of blacks, saw the movement as a black separatist organization bent on segregating blacks and whites and undoing the important work of the civil rights movement. There is no question that Black Power advocates had valid and pressing concerns. Blacks were still victims of racism, whether they were being charged a higher rate for a mortgage, getting paid less than a white coworker doing the same work, or facing violence at the hands of white racists. But the solutions that some Black Power leaders advocated seemed only to create new problems. Some, for example, suggested that blacks receive paramilitary training and carry guns to protect themselves. Though these individuals insisted this device was solely a means of self-defense and not a call to violence, it was still unnerving to think of armed civilians walking the streets.</p><p>Also, because the Black Power movement was never a formally organized movement, it had no central leadership, which meant that different organizations with divergent agendas often could not agree on the best course of action. The more radical groups accused the more mainstream groups of capitulating to whites, and the more mainstream accused the more radical of becoming too ready to use violence. By the 1970s, most of the formal organizations that had come into prominence with the Black Power movement, such as the SNCC and the Black Panthers, had all but disappeared.</p><p>The Black Power movement did not succeed in getting blacks to break away from white society and create a separate society. Nor did it help end discrimination or racism. It did, however, help provide some of the elements that were ultimately necessary for blacks and whites to gain a fuller understanding of each other.</p><h2>further readings</h2><p>Carmichael, Stokely, and Charles V. Hamilton. 1967. <i>Black Power: The Politics of Liberation in America.</i> New York: Vintage Books.</p><p>Cross, Theorore. 1984. <i>The Black Power Imperative.</i> New York: Faulkner.</p><p>Van Deburg, William, L. 1992. <i>New Day in Babylon: The Black Power Movement and American Culture.</i> Chicago: Univ. of Chicago Press.</p><h2>cross-references</h2><p><a data-article="470745" href="/law/encyclopedias-almanacs-transcripts-and-maps/black-panther-party">Black Panther Party</a>; <a data-article="479297" href="/people/social-sciences-and-law/social-reformers/stokely-carmichael#1G23437700717">Carmichael, Stokely</a>; <a data-article="485348" href="/social-sciences-and-law/law/law/civil-rights-act-1871#1G23437700850">Civil Rights Acts</a>; <a data-article="555268" href="/people/philosophy-and-religion/islam-biographies/malcolm-x#1G23437702799">Malcolm X</a>; <a data-article="567218" href="/philosophy-and-religion/islam/islam/nation-islam#1G23437703027">Nation of Islam</a>; <a data-article="566533" href="/social-sciences-and-law/sociology-and-social-reform/social-reform/national-association-advancement#1G23437703019">NAACP</a>; <a data-article="610974" href="/social-sciences-and-law/sociology-and-social-reform/social-reform/southern-christian-leadership#1G23437704093">Southern Christian Leadership Conference</a>; <a data-article="634007" href="/history/united-states-and-canada/us-history/voting-rights-act#1G23437704614">Voting Rights Act of 1965</a>.</p>
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs470749">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
+                    </div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
+                    </div>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/law/encyclopedias-almanacs-transcripts-and-maps/black-power-movement">Black Power Movement.</a>"
+                        <u>
+                            West&#039;s Encyclopedia of American Law</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        24 Apr. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "Black Power Movement." <u>
+                            West&#039;s Encyclopedia of American Law</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (April 24, 2017). <a href="/law/encyclopedias-almanacs-transcripts-and-maps/black-power-movement">
+                            http://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/black-power-movement</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "Black Power Movement." <u>
+                            West&#039;s Encyclopedia of American Law</u>.
+                        
+                        . Retrieved
+                        April 24, 2017
+                        from Encyclopedia.com: <a href="/law/encyclopedias-almanacs-transcripts-and-maps/black-power-movement">
+                            http://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/black-power-movement</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
+
+
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-470749">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+	<div class="box" id="LearnCitationsContainer">
+		
+	</div>
+</div>
+</div>
+  </div>
+    <div class="articleWrapper" id="articleWrapper-294930">
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<span class="document-id" data-val="1G23401800474"></span>
+<h2 class="doctitle">Black Power
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publisher" data-pub="2781"></span><span class="publication">Dictionary of American History</span> <br />
+COPYRIGHT 2003 The Gale Group Inc.</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper"><h1>BLACK POWER</h1><p><b>BLACK POWER</b>   encompasses a political belief in self-determination, anti-racism, and racial consciousness among African Americans. The term became prominently known when, in June 1966 during a protest march in the South, Stokely Carmichael (later Kwame Turé) and Willie Ricks of the Student Nonviolent Coordinating Committee used the phrase as a rallying cry. The ambiguity of the term led to many different interpretations. The media and some mainstream civil rights organizations saw Black Power as negative because of its perceived anti-white and separatist tone. But others, ranging from black intellectuals to political activists, saw Black Power as a positive expression of cultural nationalism. Over time, it became another means by which black Americans united themselves to achieve equality, freedom, and dignity.</p><h2>BIBLIOGRAPHY</h2><p>Carmichael, Stokely, and Charles V. Hamilton. <i>Black Power: The Politics of Liberation in America.</i> London: Cape, 1968.</p><p>Gates, Henry Louis, Jr., and Kwame Anthony Appiah, eds. "Black Power." In <i>Africana: The Encyclopedia of the African and African American Experience.</i> New York: Basic Civitas Books, 1999.</p><p><i>Charles Pete</i><i>Banner-Haley</i></p><p><i>See also</i><a data-article="684385" href="/history/united-states-and-canada/us-history/african-americans#1G23401800053"><b>African Americans</b>  </a>; <a data-article="401121" href="/history/dictionaries-thesauruses-pictures-and-press-releases/radicals-and-radicalism"><b>Radicals and Radicalism</b>  </a>; <i>and</i><i>vol. 9:</i><b>Black Power Speech</b>  ; <i>and</i><i>picture (overleaf)</i>.</p><hr />
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs294930">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
+                    </div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
+                    </div>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/history/dictionaries-thesauruses-pictures-and-press-releases/black-power">Black Power.</a>"
+                        <u>
+                            Dictionary of American History</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        24 Apr. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "Black Power." <u>
+                            Dictionary of American History</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (April 24, 2017). <a href="/history/dictionaries-thesauruses-pictures-and-press-releases/black-power">
+                            http://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/black-power</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "Black Power." <u>
+                            Dictionary of American History</u>.
+                        
+                        . Retrieved
+                        April 24, 2017
+                        from Encyclopedia.com: <a href="/history/dictionaries-thesauruses-pictures-and-press-releases/black-power">
+                            http://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/black-power</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
+
+
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-294930">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+	<div class="box" id="LearnCitationsContainer">
+		
+	</div>
+</div>
+</div>
+  </div>
+
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-bottomcontentad">
+  
+    
+      <!-- OUTBRAIN FOOTER -->
+<div class="OUTBRAIN" data-widget-id= "TF_1" data-ob-template="encyclopedia.com" ></div>
+
+<!-- NATIVE FOOTER -->
+<!-- <script src="//widget.recrev.co/web-clients/bootloaders/iYsqxhDmzYKqn1U4QQ5GRL/bootloader.js" async="true" data-version="3" data-url="" data-zone="footer" ></script> -->
+  </div>
+
+  </div>
+
+		
+		  <div>
+    
+
+  </div>
+
+
+	</div>
+	<div class="sidebar">
+				<div id='gpt-ad-rail-atf'>
+	    <script>
+	      googletag.cmd.push(function() { googletag.display('gpt-ad-rail-atf'); });
+	    </script>
+	  </div>
+
+					<aside class="layout-sidebar-first" role="complementary">
+			  <div>
+      <div class="clearfix">
+    
+    <div class="trending-topic-tools">
+        <a id="socialMediaFacebook" href="javascript:;">
+            <i class="fa fa-social-fb" title="Share this article on Facebook"></i>
+        </a>
+        <a id="socialMediaTwitter" href="javascript:;">
+            <i class="fa fa-social-twit" title="Twitter"></i>
+        </a><a id="socialMediaReddit" href="javascript:;">
+            <i class="fa fa-social-rddt" title="Submit this article to Reddit"></i>
+        </a>
+        <a id="socialMediaStumbleUpon" href="javascript:;">
+            <i class="fa fa-social-su" title="Give this article a thumbs-up on StumbleUpon"></i>
+        </a>
+    </div>
+  </div>
+  <script>
+    //var socialMediaPageUrl = "http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fStephen_Watts_Kearny.aspx";
+    var socialMediaPageName = "Topic";
+    var socialMediaFacebookUrl = "http://www.facebook.com/sharer.php?u=";
+    var socialMediaTwitterUrl = "http://twitter.com/home?status=Check out @encyclopediacom's coverage of Stephen Watts Kearny at ";
+    var socialMediaRedditUrl = "http://reddit.com/submit?title=Stephen+Watts+Kearny&amp;url=";
+    var socialMediaStumbleUponUrl = "http://www.stumbleupon.com/submit?title=Stephen+Watts+Kearny&amp;url=";
+  </script>    
+<div id="block-media">
+  
+    
+      
+
+
+  </div>
+<div id="block-rightcolumntopad">
+  
+    
+      <!-- /62541793/enc_rightcolumnatf -->
+<div id='div-gpt-ad-rightcolumnatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-rightcolumnatf'); });
+</script>
+</div>
+  </div>
+<div class="views-element-container" id="block-related-combined-links-block">
+  
+    
+      <div block="block-related-combined-links-block"><div class="links-view js-view-dom-id-13fdac6405403450502f8a269ee88f771bff3e1fbe87fd6216caef6b791cdd6d">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="no-bullet-list">
+
+          <li><h4>
+</h4></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-rightcolumnmiddlead">
+  
+    
+      
+  </div>
+<div id="block-rightcolumnbottomad">
+  
+    
+      <!-- /62541793/enc_rightcolumnbtf -->
+<div id='div-gpt-ad-rightcolumnbtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-rightcolumnbtf'); });
+</script>
+</div>
+  </div>
+<div id="block-trendingtopics">
+  
+    	<div>
+	  	</div>
+  </div>
+<div id="block-facebooklikebox">
+  
+    
+      
+            <div><p><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fencyclopediacom&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=80"></iframe></p>
+</div>
+      
+  </div>
+
+  </div>
+
+			</aside>
+		
+		
+				<div id='gpt-ad-rail-btf'>
+	    <script>
+	      googletag.cmd.push(function() { googletag.display('gpt-ad-rail-btf'); });
+	    </script>
+	  </div>
+	</div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  
+
+    <div id='gpt-ad-footer' style="text-align: center; margin-bottom: 20px">
+    <script>
+      googletag.cmd.push(function() { googletag.display('gpt-ad-footer'); });
+    </script>
+  </div>
+
+    <div id="footer">
+    <footer>
+        <div>
+    <div id="block-footerad">
+  
+    
+      <script>
+  var fullScreenTargeting = window.innerWidth > 500 ? 'screenshift_full' :
+    Math.floor(Math.random()*10) < 6 ? 'mobile_int' : 'screenshift_full';
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting('fullscreen', fullScreenTargeting);
+  });
+</script>
+
+<!-- Screen Shift Full Screen Ad Unit -->
+<div id='div-gpt-ad-screenshift-full'>
+  <script>
+    googletag.cmd.push(function() {
+      googletag.display('div-gpt-ad-screenshift-full');
+      googletag.pubads().display('/62541793/screenshift_full', [1, 1], 'div-gpt-ad-screenshift-full');
+    });
+  </script>
+</div>
+
+
+<!-- Mobile Interstitial -->
+<div id='div-gpt-ad-mobile-interstitial'>
+  <script>
+    googletag.cmd.push(function() {
+      googletag.display('div-gpt-ad-mobile-interstitial');
+      googletag.pubads().display('/62541793/sticky_mobile', [1, 1], 'div-gpt-ad-mobile-interstitial');
+    });
+  </script>
+</div>
+  </div>
+<div id="block-sociallinks">
+  
+    
+      
+            <div><nav class="social"><a href="https://www.facebook.com/encyclopediacom" target="_blank" title="Facebook"><i class="fa fa-social-fb"></i></a> <a href="https://twitter.com/encyclopediacom" target="_blank" title="Twitter"><i class="fa fa-social-twit"></i></a> <a href="https://instagram.com/encyclopediacom" target="_blank" title="Instagram"><i class="fa fa-social-insta"></i></a></nav></div>
+      
+  </div>
+<nav role="navigation" aria-labelledby="block-encyclopedia-footer-menu" id="block-encyclopedia-footer">
+            
+  <h2 class="visually-hidden" id="block-encyclopedia-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul block="block-encyclopedia-footer">
+              <li>
+        <a href="/" rel="nofollow" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+          <li>
+        <a href="/about" rel="nofollow" data-drupal-link-system-path="node/1319859">About Us</a>
+              </li>
+          <li>
+        <a href="/faq" rel="nofollow" data-drupal-link-system-path="node/1319856">Help</a>
+              </li>
+          <li>
+        <a href="/emailus" rel="nofollow" data-drupal-link-system-path="contact/feedback">Site Feedback</a>
+              </li>
+          <li>
+        <a href="/privacy" rel="nofollow" data-drupal-link-system-path="node/1319857">Privacy Policy</a>
+              </li>
+          <li>
+        <a href="/termsofservice" rel="nofollow" data-drupal-link-system-path="node/1319858">Terms and Conditions</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-copyright">
+  
+    
+      
+            <div><p>
+        <span>© 2016 Encyclopedia.com | All rights reserved.</span>
+     </p></div>
+      
+  </div>
+
+  </div>
+
+    </footer>
+  </div>
+  
+  <i class="fa fa-angle-up back-to-top"></i>
+  
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="//ajax.microsoft.com/ajax/4.0/1/MicrosoftAjax.js"></script>
+<script src="/sites/default/files/js/js_aj-hARLRdtghl6LpmA_GDwXiGIVmIgc941ga5esh6kk.js"></script>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="//widgets.outbrain.com/outbrain.js"></script>
+<script src="/sites/default/files/js/js_wczeYq0_r1lJ3V-oh7SGzZJ9NreVEkXwKYCDyYrkdMw.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/video.js/5.16.0/video.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/videojs_5.vast.vpaid.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/ie8fix.min.js"></script>
+<script src="/sites/default/files/js/js_X-82uyPA2A9f3xnn_AOlFNG9IRYowygtQifose-WilM.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"944b4b637b","applicationID":"30464058","transactionName":"NVFXZEACDxcFVUdcDQwbdFNGCg4KS3JBQBIDWGlzXREEOClTXUA+JlFTUUcPFSkBWEZ5CwxfYUJXBiwFCl9DQA4DQFpCQU5fAwFYVkcDFlF8XlYGGSUKUmBaEBY=","queueTime":0,"applicationTime":1171,"atts":"GRZUEggYHBk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

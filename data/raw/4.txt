@@ -1,414 +1,1128 @@
-<!doctype html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en">
+<![endif]-->
+<!--[if IE 9]>
+<html id="ie9" lang="en">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) | !(IE9) ]><!-->
+<html lang="en">
+<!--<![endif]-->
 <head>
-
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width" />
-				
-				<!--link href='http://fonts.googleapis.com/css?family=Exo:300' rel='stylesheet' type='text/css'>
-                <link href='http://fonts.googleapis.com/css?family=Jura' rel='stylesheet' type='text/css'-->
-				<link href='http://fonts.googleapis.com/css?family=Oswald:700|Cabin' rel='stylesheet' type='text/css'>
-                <!--link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"---->
-                
-				<link rel="stylesheet" type="text/css" href="/files/cache/css/STOMP_2016_Oswald/css/0_style.min.css" />
-				<link rel="stylesheet" type="text/css" href="/files/cache/css/STOMP_2016_Oswald/css/0_typography.min.css" />
-                <link rel="stylesheet" type="text/css" href="/files/cache/css/STOMP_2016_Oswald/css/0_home.min.css" />
-                
-				
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<title>National Bullying Prevention Month | STOMP Out Bullying™</title>
-<meta name="description" content="Join STOMP Out Bullying™ during National Bullying Prevention Month this October to help increase awareness and help prevent bullying and cyberbullying." />
-<meta name="keywords" content="national bullying prevention awareness month, Blue Shirt Day World Day of Bullying Prevention, bullying, October is National Bullying Prevention Awareness Month, teen bullying, bullying help, bullying for kids, bullying news articles, cyber bullying, parent programs, child education programs, stomp out bullying, bullying prevention, cyberbullying prevention, cyberbullying, cyberbullying help, child bullying, hatred, racism, digital abuse, schools, education, facts about bullying, facts about cyberbullying" />
-<meta name="generator" content="concrete5 - 5.6.3.3" />
-<script type="text/javascript">
-var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 271;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/updates/concrete5.6.3.3/concrete/images";
-var CCM_TOOLS_PATH = "/index.php/tools/required";
-var CCM_BASE_URL = "http://www.stompoutbullying.org";
-var CCM_REL = "";
-
-</script>
-
-
-<link rel="stylesheet" type="text/css" href="/updates/concrete5.6.3.3/concrete/css/ccm.base.css" />
-<script type="text/javascript" src="/updates/concrete5.6.3.3/concrete/js/jquery.js"></script>
-<script type="text/javascript" src="/updates/concrete5.6.3.3/concrete/js/ccm.base.js"></script>
-<style type="text/css"> 
-#blockStyle1764Sidebarmid545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
-#blockStyle4612Sidebarlower1024 {background-repeat:no-repeat; padding:0 20px 0 0; } 
-#blockStyle8836Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
-#blockStyle6572Main1398 {background-repeat:no-repeat; padding:0 20px 0 20px; } 
-#blockStyle8877Main1746 {background-repeat:no-repeat; } 
-#blockStyle8883Main1749 {background-repeat:no-repeat; } 
-#blockStyle3975Main71 {background-repeat:no-repeat; } 
-#blockStyle3466Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
-#blockStyle3784Main947 {background-repeat:no-repeat; margin:0 0 -10px 0; padding:30px 20px 30px 5px; } 
-#blockStyle8945Main1307 {background-repeat:no-repeat; padding:40px 0 0 0; } 
-#awards_banners {text-align:center; background-repeat:no-repeat; } 
-#blockStyle6195Main1365 {background-repeat:no-repeat; } 
-#blockStyle8559Main1358 {text-align:center; background-repeat:no-repeat; } 
-#blockStyle8899Main1362 {text-align:center; background-repeat:no-repeat; } 
-#blockStyle8596Main1465 {background-repeat:no-repeat; padding:10px 0 0 10px; } 
-#blockStyle5331Main1088 {background-repeat:no-repeat; margin:0 0 10px 0; } 
-#blockStyle5332Main1089 {background-repeat:no-repeat; padding:0 10px 0 0; } 
-#blockStyle3712Main927 {background-repeat:no-repeat; margin:0 -15px 0 0; padding:0 0 20px 0; } 
-#blockStyle5844Main1172 {background-repeat:no-repeat; } 
-#blockStyle6588Main1163 {background-repeat:no-repeat; margin:10px 0 0 0; } 
-#breadcrumb_h1 {text-align:right; background-repeat:no-repeat; margin:0 0 -15px 0; } 
-#blockStyle6372Main1173 {background-repeat:no-repeat; padding:0 0 10px 0; } 
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Keyboard activism: Three ways to support the workplace anti-bullying movement &laquo; Minding the Workplace</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://newworkplace.wordpress.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://s0.wp.com/wp-content/themes/premium/elemin/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Minding the Workplace &raquo; Feed" href="https://newworkplace.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Minding the Workplace &raquo; Comments Feed" href="https://newworkplace.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Minding the Workplace &raquo; Keyboard activism: Three ways to support the workplace anti-bullying&nbsp;movement Comments Feed" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
 </style>
-<link rel="canonical" href="http://www.stompoutbullying.org/campaigns/national-bullying-prevention-awareness-month" />
-<meta property="og:title" content="National Bullying Prevention Awareness Month"/>
-<meta property="og:url" content="http://www.stompoutbullying.org/campaigns/national-bullying-prevention-awareness-month"/>
-<meta property="og:description" content="Join STOMP Out Bullying™ during National Bullying Prevention Month this October to help increase awareness and help prevent bullying and cyberbullying."/>
-<meta property="og:image" content="http://www.stompoutbullying.org/files/1314/1718/6123/SOB_LOGO_MASTER_08012014WEB.png"/>
-<style type="text/css"> 
-#blockStyle4632Main1033 {background-repeat:no-repeat; margin:-5px 0 -10px 0; } 
-</style>
-<style type="text/css"> 
-#blockStyle4633Main1032 {background-repeat:no-repeat; margin:-10px 0 -5px 0; } 
-</style>
-<link rel="stylesheet" type="text/css" href="/blocks/superfish/templates/stomp_2016_nav/css/superfish.css" />
-<style type="text/css"> 
-#blockStyle2866Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
-</style>
-<style type="text/css"> 
-#blockStyle3425Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
-</style>
-<style type="text/css"> 
-#blockStyle3418Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
-</style>
-<style type="text/css"> 
-#blockStyle3426Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
-</style>
-<style type="text/css"> 
-#blockStyle2883Main116 {color:#4c4085; font-size:15px; line-height:17px; background-repeat:repeat-y; padding:10px 20px 0 20px;   -moz-border-radius: 10px;   border-radius: 10px;} 
-</style>
-<style type="text/css"> 
-#blockStyle2777Main545 {background-repeat:no-repeat; padding:0 30px 20px 10px; } 
-</style>
-<style type="text/css"> 
-#blockStyle5291Main1057 {text-align:center; background-repeat:no-repeat; } 
-</style>
-<link rel="stylesheet" type="text/css" href="/packages/superfish/blocks/superfish/css/superfish.css" />
-<script type="text/javascript" src="/packages/superfish/blocks/superfish/js/superfish.js"></script>
-<link rel="stylesheet" type="text/css" href="/updates/concrete5.6.3.3/concrete/blocks/search/view.css" />
-<style type="text/css"> 
-#blockStyle7939Main1632 {background-repeat:no-repeat; padding:0 0 20px 0; } 
-</style>
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJx9j9EOgjAMRX/IOTEGeDF+yxiNDNatoSWEv3cTfUGzl6a3OSdt9UrKxiAQROOiyC9PF1ivZCMqRudhO6SzZT7p/5p3E7AeQcjYSb1TCZ/BG4FeUWQ5pJJm4wxpjmQkEwi9M+ABE1bSkOqvldshnVhcs3/ddTQDs0oV3YJKhrTo19vH+kPpfI4LmmXzkNkH3qtbe22bS1014wuY3ovU' type='text/css' media='all' />
+<link rel='stylesheet' id='sorts-mill-goudy-css'  href='https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy%3Aregular%2Citalic&#038;ver=20120821' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9i8sKgCAQAH8oWwSjOkTfYmLLhrrig34/u0Rdus3ADBAELmQ45Ad6k3MHZxRNig0FfBXRVaTWoGXh2OhCHD4idqcp/a3Jbo6xIUKrXnpPq1+kGmalplGq4wKxyTcd' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFj9EOgjAMRX/IMTEYeTF+C0LFznWb6wbRr7ck8iASTZrctD29udVjUOhamztgbaTuGeLjLYXhjf4FKMI+NgkKQjfDrXcJXJpY8me0oDJDbHqZidHFr3DBcyJgFmhl+xkJ3YAw/sUMpNC0NxWB8fnlSlkFm3t0rCNYeaBTU4ZFt7xKV5CUOkQgzKTBiro5v8AnOpZVfdjV5b7amhfJR4F1'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newworkplace.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='What is academic&nbsp;tenure?' href='https://newworkplace.wordpress.com/2011/08/22/what-is-academic-tenure/' />
+<link rel='next' title='A hotel housekeeper&#8217;s cart' href='https://newworkplace.wordpress.com/2011/08/23/a-hotel-housekeepers-cart/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/" />
+<link rel='shortlink' href='http://wp.me/poKbk-2jl' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fnewworkplace.wordpress.com%2F2011%2F08%2F23%2Fkeyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fnewworkplace.wordpress.com%2F2011%2F08%2F23%2Fkeyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Keyboard activism: Three ways to support the workplace anti-bullying movement" />
+<meta property="og:url" content="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/" />
+<meta property="og:description" content="The Workplace Bullying Institute has started a neat little Facebook awareness initiative using Labor Day as a way of calling attention to workplace bullying. I&#8217;d like to build on that by sugg…" />
+<meta property="article:published_time" content="2011-08-23T04:00:41+00:00" />
+<meta property="article:modified_time" content="2011-09-05T14:15:57+00:00" />
+<meta property="og:site_name" content="Minding the Workplace" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://newworkplace.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://newworkplace.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://newworkplace.wordpress.com/osd.xml" title="Minding the Workplace" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
 
-ga('create', 'UA-3163770-2', 'auto');
-ga('send', 'pageview');
-</script>
-<!-- End Google Analytics -->
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
 
-<!-- ********** Pinterest ***********-->
-<meta name="p:domain_verify" content="6f7db2f787b734fe90326992be3e7105"/>
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
 
-<!-- ********** RM Support ***********-->
-<script type="text/javascript" language="javascript" src="http://stompoutbullying.org/js/public.js"></script>
-<script type="text/javascript" language="javascript"> dtbaker_public_change_request.include_url=false;dtbaker_public_change_request.init("http://reptilemind.org/external/m.change_request/h.script/i.51/hash."); </script>
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
 
-<!-- ********** FB App ID ***********-->
-<meta property="fb:app_id" content="1104799639597574"/>
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
 
-<!-- ********** FB JS Share SDK ***********-->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '1104799639597574',
-      xfbml      : true,
-      version    : 'v2.7'
-    });
-  };
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>                
-				<!--  /js/scripts.js  -->
-<script type="text/javascript">$(function(){$(window).scroll(function(){if($(this).scrollTop()!==0){$('#toTop').fadeIn();}else{$('#toTop').fadeOut();}});$('#toTop').click(function(){$('body,html').animate({scrollTop:0},800);});});$(function(){$("<select />").appendTo("#navigation");$("<option />",{"selected":"selected","value":"","text":"Go to..."}).appendTo("#navigation select");$("#navigation a").each(function(){var el=$(this);$("<option />",{"value":el.attr("href"),"text":el.text()}).appendTo("#navigation select");});$("#navigation select").change(function(){window.location=$(this).find("option:selected").val();});});jQuery(document).ready(function(){$(".pagelist div:nth-child(3)").css("margin","0px");$(".pagelist4 div:nth-child(4)").css("margin","0px");$(".row ul").addClass('sliding-navigation');$('.c5wrap .sliding-navigation a').hover(function(){$(this).animate({paddingLeft:'+=10'},300);},function(){$(this).animate({paddingLeft:'-=10'},300);});});</script>
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
 
-		
-				<!--[if lt IE 9]>
-				<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-				<![endif]-->
-
-
-
-<style type="text/css">
-    .l2sidebar {
-        background-image: url(http://www.stompoutbullying.org/files/8414/4918/9106/Locker_mockup2_03_b.png);
-        background-repeat: no-repeat;
-		background-position: center top;
-		border-bottom: 1px solid #F57A16 !important;
-		
-    } 
-    </style>
- 
-
-
- <style type="text/css">
-    .mobile_header {
-        background-image: url(http://stompoutbullying.org/files/9214/5010/8801/stompmobilebanner_1200.jpg);
-        background-repeat: no-repeat;
-		background-position: center top;
-		height:200px;
-		width:100%;
-    }
-    </style>
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Minding the Workplace" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="The New Workplace Institute Blog, hosted by David Yamada" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://newworkplace.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Keyboard activism: Three ways to support the workplace anti-bullying&nbsp;movement | Minding the Workplace on WordPress.com" />
+<meta name="description" content="The Workplace Bullying Institute has started a neat little Facebook awareness initiative using Labor Day as a way of calling attention to workplace bullying. I&#039;d like to build on that by suggesting three ways in which people can support this effort without leaving their keyboards: 1. American readers, urge your legislators to support the Healthy Workplace&hellip;" />
+<link rel="amphtml" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
 </head>
-<body style="background-image: url(http://stompoutbullying.org/files/6614/4889/1551/Header-Banner-2016_a4.jpg);background-repeat: no-repeat;background-position: center top;">
 
-<!-- ********** The entire site is surrounded by a wrapper so C5 and theme styles do not clash ********** -->
- 
-<div class="c5wrap">
+<body class="post-template-default single single-post postid-8887 single-format-standard mp6 customizer-styles-applied content-sidebar elemin-columns-one highlander-enabled highlander-light">
 
-<!-- ********** Each area of the theme has an outer and inner area, the outer spans the entire page and acts as a wrapper for the inner class, 
-this allows for multiple backgrounds on a page, and less chance of elements jumping where they are not wanted ********** -->
 
-<div class="border_strip"></div>
-<div id="mobileHeader" class="mobile_header"></div>
-<div class="outer" id="header_outer">
+<div id="page" class="hfeed one-col-posts">
+		<header id="branding" role="banner">
 
-	 <div class="inner headerbanner">
+		<div class="header-search-form">	<form method="get" id="searchform" action="https://newworkplace.wordpress.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</div>
 
-				<div class="FloatLeft, bkg1" id="header_inner_0">
-                
-                <!--- Header Content --->
-      <div class="row">
-	 <section id="leftColumnHead" class="headerLeft"> <!--Logo area -->
-			<div id="blockStyle6572Main1398" class=" ccm-block-styles" >
-<p style="text-align: center;"><span style="font-size: large; color: #c0c0c0;">.</span></p></div>	</section>
-     <section id="centerColumnHead" class="headercenter"> <!--Center area -->
-			<div id="blockStyle8596Main1465" class=" ccm-block-styles" >
-<div style="padding-left: 35px;">
-<div style="float: left;">
-<div style="margin-top: 6px;">
-<h2 style="text-align: left;"><span class="hb-orange" style="font-size: 17.3pt;">NEED HELP?</span></h2>
-</div>
-<div style="margin-top: -12px;">
-<h2 style="text-align: left; font-weight: bold;"><a href="http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/"><span class="hb-purple" style="font-size: 14.4pt;">KIDS &amp; TEENS:</span></a></h2>
-</div>
-<div style="margin-top: -13px;">
-<h2 style="text-align: left; font-weight: bold;"><a href="http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/"><span class="hb-blue" style="font-size: 13.8pt; letter-spacing: 0px;">VISIT OUR NEW</span></a></h2>
-</div>
-<div style="margin-top: -8px;">
-<h2 style="text-align: left;"><span class="hb-orange" style="font-size: 14.7pt; letter-spacing: -1px;">HELPCHAT  LINE</span></h2>
-</div>
-</div>
-<div style="float: left;"><a href="http://www.stompoutbullying.org/index.php/information-and-resources/helpchat-line/"><img style="max-width: 135px;" onmouseover="this.src='http://www.stompoutbullying.org/files/4214/4917/4761/Support_banner_small_roll_C.png'" onmouseout="this.src='http://www.stompoutbullying.org/files/5014/4925/9391/Support_banner_small_roll_D.png'" src="http://www.stompoutbullying.org/files/5014/4925/9391/Support_banner_small_roll_D.png" alt="" /></a></div>
-</div></div>	</section>
-	<section id="rightColumnHead" class="headerRight"> <!-- Search area -->
+		
+		<hgroup>
+			<h1 id="site-title"><a href="https://newworkplace.wordpress.com/" title="Minding the Workplace" rel="home">Minding the Workplace</a></h1>
+			<h2 id="site-description">The New Workplace Institute Blog, hosted by David Yamada</h2>
+		</hgroup>
+
+		<nav id="access" class="clearfix" role="navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+			<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+			<div id="primary-menu" class="menu"><ul>
+<li ><a href="https://newworkplace.wordpress.com/">Home</a></li><li class="page_item page-item-2"><a href="https://newworkplace.wordpress.com/about/">About this Blog and&nbsp;NWI</a></li>
+<li class="page_item page-item-17206"><a href="https://newworkplace.wordpress.com/events/">Events</a></li>
+<li class="page_item page-item-2192"><a href="https://newworkplace.wordpress.com/free-articles/">Free Articles</a></li>
+<li class="page_item page-item-4194"><a href="https://newworkplace.wordpress.com/need-help/">Need Help?</a></li>
+<li class="page_item page-item-196"><a href="https://newworkplace.wordpress.com/popular-notable-posts/">Popular and Notable&nbsp;Posts</a></li>
+</ul></div>
+		</nav><!-- #access -->
+	</header><!-- #branding -->
+
+	<div id="main" class="clearfix">
+
+		<div id="primary">
+			<div id="content" role="main">
+
 			
-                        	<div id="blockStyle8899Main1362" class=" ccm-block-styles" >
-	
-<div id="stomp-cabtnsm-orange" class="cabtnblocksm-orange">
-<p><span style="text-align: center;"><a href="https://securedonate.stompoutbullying.org/np/clients/stomp/donation.jsp?campaign=197&amp;">DONATE NOW</a></span></p></div></div>	<div id="blockStyle8559Main1358" class=" ccm-block-styles" >
-	
-<div id="stomp-cabtnsm-blue" class="cabtnblocksm-blue">
-<p><a href="http://www.stompoutbullying.org/index.php/about/contact-us/">CONTACT US</a></p></div></div>	<div id="blockStyle6195Main1365" class=" ccm-block-styles" >
- 
+				
+<article id="post-8887" class="clearfix post-8887 post type-post status-publish format-standard hentry category-strategies-for-change category-workplace-bullying-mobbing-and-abuse tag-strategies-for-change tag-workplace-bullying-mobbing-and-abuse">
 
+	<header class="entry-header">
+		<div class="post-format-icon"><a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/" title="Permalink to Keyboard activism: Three ways to support the workplace anti-bullying&nbsp;movement" rel="bookmark"></a></div>
+					<h1 class="entry-title">Keyboard activism: Three ways to support the workplace anti-bullying&nbsp;movement</h1>
+			</header><!-- .entry-header -->
 
-<form action="/index.php/about/search/" method="get" class="ccm-search-block-form">
+	<div class="entry-meta">
+		<span class="entry-date"><a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/" title="August 23, 2011" rel="bookmark">August 23, 2011</a></span> <span class="byline"> <span class="sep"> By </span> <span class="author vcard"><a class="url fn n" href="https://newworkplace.wordpress.com/author/dcy1959/" title="View all posts by David Yamada" rel="author">David Yamada</a></span></span> <span class="entry-categories">in <a href="https://newworkplace.wordpress.com/category/strategies-for-change/" rel="category tag">strategies for change</a>, <a href="https://newworkplace.wordpress.com/category/workplace-bullying-mobbing-and-abuse/" rel="category tag">workplace bullying, mobbing, and abuse</a></span> <span class="entry-tags">Tags: <a href="https://newworkplace.wordpress.com/tag/strategies-for-change/" rel="tag">strategies for change</a>, <a href="https://newworkplace.wordpress.com/tag/workplace-bullying-mobbing-and-abuse/" rel="tag">workplace bullying, mobbing, and abuse</a></span>				<span class="comments-link"><a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#comments">4 Comments</a></span>
+					</div><!-- #entry-meta -->
 
-	<!--?php          if( strlen($title)>0){ ?><h3><-?php         echo $title?></h3><-?php          } ?-->
+	<div class="post-content">
+		<div class="entry-content">
+						<p>The <a href="http://www.workplacebullying.org/" target="_blank">Workplace Bullying Institute</a> has started a neat little <a href="https://www.facebook.com/event.php?eid=267069049971658" target="_blank">Facebook awareness initiative</a> using Labor Day as a way of calling attention to workplace bullying. I&#8217;d like to build on that by suggesting three ways in which people can support this effort without leaving their keyboards:</p>
+<p><strong>1. American readers, urge your legislators to support the Healthy Workplace Bill</strong></p>
+<p>As many readers know, the Healthy Workplace Bill (HWB) is proposed legislation I&#8217;ve authored that provides targets of severe workplace bullying with a legal claim for damages and creates incentives for employers to prevent workplace bullying. If you&#8217;d like to see this bill become law, the most important thing you can do is to contact your state legislators and urge them to sponsor/co-sponsor/support the HWB.</p>
+<p>For more information, go to the <a href="http://www.healthyworkplacebill.org/">Healthy Workplace Bill website</a>. Versions of the bill are active in about a dozen states as of this writing. We have Healthy Workplace Advocates groups in states across the country. You can become active as time and interest permit. But contacting your state legislators is Step One &#8212; no other form of legislative advocacy is as effective as direct contact with your elected officials.</p>
+<p><strong>2. Post online comments to articles about workplace bullying</strong></p>
+<p>Be an online &#8220;bird dog.&#8221; When articles about workplace bullying appear online, post a supportive comment that reinforces the seriousness of this destructive behavior and identifies ways to prevent and respond to it.</p>
+<p>Do not underestimate the usefulness of this form of dialog and commentary. Many people read these online comments, and their impressions of a given subject often will be shaped as much by the tenor of the comments as by the articles themselves.</p>
+<p><strong>3. Spread the word within your online social networks</strong></p>
+<p>Facebook, LinkedIn, and other social networks are excellent places to spread the word about workplace bullying. Take a minute to post or share a relevant news item or blog post with friends and colleagues on your online networks.</p>
+<p>If you&#8217;ve ever clicked a link to someone&#8217;s Facebook post, you know that this is an easy and effective way to share information. It is one of the most time and cost effective methods of public education.</p>
+<p style="text-align:center;">***</p>
+<p style="text-align:left;">If you have been doing these things or otherwise participating in this grassroots social movement, thank you for being a part of the solution. Your work is helping people and making a difference in our workplaces.</p>
+<p style="text-align:left;">***</p>
+<p style="text-align:left;"><em>Disclosure note: I am the author of the Healthy Workplace Bill, variations of which are being considered by state legislatures across the country. The HWB provides targets of severe workplace bullying with a legal claim for damages and creates legal incentives for employers to act preventively and responsively toward bullying behaviors. For more information, go to the <a href="http://www.healthyworkplacebill.org/" target="_blank">Healthy Workplace Bill website</a>.</em></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-8887" class="share-facebook sd-button share-icon" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-8887" class="share-linkedin sd-button share-icon" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-8887" class="share-twitter sd-button share-icon" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?share=email" target="_blank" title="Click to email"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-5897398-8887-58ffc41f930f7' data-src='//widgets.wp.com/likes/#blog_id=5897398&amp;post_id=8887&amp;origin=newworkplace.wordpress.com&amp;obj_id=5897398-8887-58ffc41f930f7' data-name='like-post-frame-5897398-8887-58ffc41f930f7'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>					</div><!-- .entry-content -->
+	</div><!-- .post-content -->
+
+</article><!-- #post-8887 -->
+					<nav id="nav-below" class="clearfix">
+		<h1 class="assistive-text section-heading">Post navigation</h1>
+
 	
-		<input name="search_paths[]" type="hidden" value="" />
-		 <div class="BlockSearch">
-	<input name="query" type="text" onfocus="if(this.value=='Search...')this.value=''" onblur="if(this.value=='')this.value='Search...'" value="Search..." class="ccm-search-block-text" />
+		<div class="nav-previous"><a href="https://newworkplace.wordpress.com/2011/08/22/what-is-academic-tenure/" rel="prev"><span class="meta-nav">&laquo;</span> What is academic&nbsp;tenure?</a></div>		<div class="nav-next"><a href="https://newworkplace.wordpress.com/2011/08/23/a-hotel-housekeepers-cart/" rel="next">A hotel housekeeper&#8217;s cart <span class="meta-nav">&raquo;</span></a></div>
 	
-	<input name="submit" type="submit" value="" class="ccm-search-block-submit" />
+	</nav><!-- #nav-below -->
+	
+					<div id="comments">
+	
+	
+			<h3 id="comments-title">
+			4 responses		</h3>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-5404">
+		<article id="comment-5404" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://2.gravatar.com/avatar/2c32bbe1d6a942ced45f8b7b28dad2f5?s=60&#038;d=identicon&#038;r=G' class='avatar avatar-60' height='60' width='60' />					<cite class="fn"><a href='http://www.facebook.com/gsorozan' rel='external nofollow' class='url'>Greg Sorozan</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#comment-5404"><time pubdate datetime="2011-08-23T08:59:29+00:00">
+					August 23, 2011 at 8:59 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>Sage advice, David.</p>
 </div>
 
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?replytocom=5404#respond' onclick='return addComment.moveForm( "comment-5404", "5404", "respond", "8887" )' aria-label='Reply to Greg Sorozan'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
 
-</form></div>	</section>
-    <div style="clear:both"></div> 	 		<!--- 	CLEAR---->
-    </div> <!-- End of row---->
-						         				
-				</div><!--End of inner 0-->
-	</div> <!-- **********End of Header Banner********** -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-5405">
+		<article id="comment-5405" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://1.gravatar.com/avatar/dbc97d61a456c7a2764d1c2f25b9dea0?s=60&#038;d=identicon&#038;r=G' class='avatar avatar-60' height='60' width='60' />					<cite class="fn"><a href='http://www.TheChiefPeopleOfficer.com' rel='external nofollow' class='url'>Kevin Kennemer</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
 				
-					
-<div class="inner" id="navigation">
+				<div class="comment-meta commentmetadata">
+					<a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#comment-5405"><time pubdate datetime="2011-08-23T09:37:33+00:00">
+					August 23, 2011 at 9:37 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
 
-	<div class="non_mobile">
-							<div id="blockStyle8883Main1749" class=" ccm-block-styles" >
+			<div class="comment-content"><p>Dave, </p>
+<p>I greatly appreciate activists for the anti-bullying movement who have never been bullied. This shows true character and concern for humankind. In my HR career, I had worked to eliminate toxic managers in the company but it was not until personally dealing with a bully that I saw the light.  Bullying in the workplace is&#8230;. a crime against human decency, psychological terrorism, workplace abuse.  I am thankful for the Internet because it allows us to shine the light on these individuals  My hope is there will be nowhere to hide.  If it requires legal action to stop it, toxic leaders who run toxic companies will be to blame.</p>
+<p>Kevin Kennemer<br />
+The Chief People Officer</p>
+</div>
 
-<style>
-#page #header #headerNav, #page #header ul.nav-header { z-index:5 !important }
-ul.sf-menu, ul.sf-menu li, ul.sf-menu ul { z-index: 5 !important }
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?replytocom=5405#respond' onclick='return addComment.moveForm( "comment-5405", "5405", "respond", "8887" )' aria-label='Reply to Kevin Kennemer'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-5406">
+		<article id="comment-5406" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://i2.wp.com/graph.facebook.com/772918012/picture?q=type%3Dlarge%26_md5%3D36fd42aebafa78368071713dc186099b&#038;resize=60%2C60' class='avatar avatar-60' height='60' width='60' />					<cite class="fn"><a href='http://www.facebook.com/profile.php?id=772918012' rel='external nofollow' class='url'>Angela Francis</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#comment-5406"><time pubdate datetime="2011-08-23T10:52:02+00:00">
+					August 23, 2011 at 10:52 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>It is important that we all know and understand what Workplace Bullying is. It is no different than school yard bullying except in the work environment it is there are no rules to protect yourself or your friends or family! How long should we put up with this type of instability?</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?replytocom=5406#respond' onclick='return addComment.moveForm( "comment-5406", "5406", "respond", "8887" )' aria-label='Reply to Angela Francis'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-5421">
+		<article id="comment-5421" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='https://1.gravatar.com/avatar/a1293b05eda5cd79325d56ac118e4b42?s=60&#038;d=identicon&#038;r=G' class='avatar avatar-60' height='60' width='60' />					<cite class="fn">Lisa</cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#comment-5421"><time pubdate datetime="2011-08-25T10:29:06+00:00">
+					August 25, 2011 at 10:29 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+			</footer>
+
+			<div class="comment-content"><p>It&#8217;s easy to feel helpless in the face of overwhelming bad news. David, thank you for reminding us that everybody can be part of a grassroots solution. Any one of us might make the comment or link or show of support that edges us closer to the &#8220;critical mass&#8221; point, the point at which suddenly &#8220;everbody gets it&#8221; and things start to change. When it all seems too much some days, it&#8217;s a healthy reminder that every step DOES count.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/?replytocom=5421#respond' onclick='return addComment.moveForm( "comment-5421", "5421", "respond", "8887" )' aria-label='Reply to Lisa'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://newworkplace.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="2858fafc7a" /><input type="hidden" name="_wp_http_referer" value="/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+			<iframe id="googleplus-sign-in" name="googleplus-sign-in" src="https://public-api.wordpress.com/connect/?googleplus-sign-in=https%3A%2F%2Fnewworkplace.wordpress.com" width="24" height="24" scrolling="no" allowtransparency="true" seamless="seamless" frameborder="0"></iframe>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
 
 
-#sf-menu8883 .sf-menu { float:right }
-#sf-menu8883 .sf-menu li{background-color:#4b4085 !important}
-#sf-menu8883 .sf-menu a:focus, #sf-menu8883 .sf-menu a:hover, #sf-menu8883 a:active{background-color:#f57a16 !important }
-#sf-menu8883 .sf-menu a, #sf-menu8883 .sf-menu a:visited, #sf-menu8883 .sf-menu a:link, #sf-menu8883 .sf-menu a:hover{ color:#ffffff !important }
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
 
-#sf-menu8883 .sf-menu ul.sf-submenu { width:auto !important; min-width:250px !important; float:left; } 
-#sf-menu8883 .sf-menu ul.sf-submenu li{ width:auto !important; min-width:250px !important; display:block; float:none; position:relative; left:0px; top:0px; height:auto;} 
-#sf-menu8883 .sf-menu ul.sf-submenu li ul { left:100%; position:absolute; top:0px; height:auto; } 
- 
-/*IE6 needs a border for some reason to calculate width for submenu positioning.  replace with your own color */
-#sf-menu8883 .sf-menu li { border:0px solid #4b4085; border-top:0px solid #fff; border-left:0px solid #fff; border-bottom:0px solid #fff;border-right:0px solid #fff;}
+</div>
 
-  
-/* IE6 Hack #sf-menu8883 .sf-menu ul.sf-submenu li{ -border: 1px solid #fff; }  */
-
-#sf-menu8883 .sf-vertical, #sf-menu8883 .sf-vertical li { width:100%; display:block }  
-#sf-menu8883 .sf-vertical li:hover ul.sf-submenu, 
-#sf-menu8883 .sf-vertical li.sfHover ul.sf-submenu{ left:100%; display:block; position:absolute; top:0px; width:250px; } 
-</style>
-
-<div id='sf-menu8883'><ul class="sf-menu " ><li class="stompli"><a href="/" >Home</a></li><li class="stompli"><a href="/index.php/information-and-resources/" >Get Help Now</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/information-and-resources/helpchat-line/" >HelpChat Line</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/about-bullying-and-cyberbullying/" >About Bullying And Cyberbullying</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/digital-u/" >Digital U.</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/educators-page/" >Educators Page</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/information-and-resources/parents-page/" >Parents Page</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="stompli"><a href="/index.php/ways-help/" >Ways to Help</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/ways-help/donate/" >DONATE</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/get-involved/" >Get Involved</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/partner-us/" >Partner With Us</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/participate/" >Participate</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/shop-stomp-out-bullying-merchandise/" >Shop for STOMP Out Bullying™ Merchandise</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/special-offers-stomp-out-bullying-partners/" >Special Offers From STOMP Out Bullying™ Partners</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/why-give-stomp-out-bullying/" >Why Give To STOMP Out Bullying™</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/become-teen-ambassador/" >Become a Teen Ambassador</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/your-dollars-work/" >Your Dollars At Work</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/ways-help/sign/" >Sign Up</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="nav-selected"><a class="nav-selected" href="/index.php/campaigns/" >Campaigns</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/campaigns/blue-shirt-day-world-day-bullying-prevention/" >Blue Shirt Day® World Day of Bullying Prevention™</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/campaigns/want-participate-blue-shirt-day-world-day-bullying-prevention/" >Want your school, community or business to participate in Blue Shirt Day® World Day Of Bullying Prevention™?</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/campaigns/no-matter-campaign/" >NO MATTER™!</a><div class="ccm-spacer" style="width:250px"></div></li><li class="nav-selected"><a class="nav-selected" href="/index.php/campaigns/national-bullying-prevention-awareness-month/" >National Bullying Prevention Awareness Month</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="stompli"><a href="/index.php/news/" >News</a></li><li class="stompli"><a href="/blog/" target="_blank">Blog</a></li><li class="stompli"><a href="/index.php/events/" >Events</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/events/new-york-jets-host-second-annual-bullying-awareness-day/" >New York Jets Host Second Annual Bullying Awareness Day</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/ny-jets-and-stomp-out-bullying-anti-bullying-symposium/" >NY Jets and STOMP Out Bullying Anti-Bullying Symposium</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-and-javier-munoz-light-empire-state-building-blue/" >STOMP Out Bullying and Javier Munoz Light Empire State Building BLUE</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-teen-ambassadors-educate-boys-girls-club-members-about-bullying/" >STOMP Out Bullying Teen Ambassadors Educate Boys & Girls Club Members About Bullying</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-receives-award-outstanding-organization/" >STOMP Out Bullying Receives Award for “Outstanding Organization”</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-speaks-boys-and-girls-club-la-teen-summit/" >STOMP Out Bullying Speaks at Boys And Girls Club LA Teen Summit</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/ny-jets-new-anti-bullying-school-recognition-program-stomp-out-bullying/" >NY Jets New Anti Bullying School Recognition Program with STOMP Out Bullying</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-10th-anniversary-celebration/" >STOMP Out Bullying 10th Anniversary Celebration</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/stomp-out-bullying-and-taye-diggs-light-empire-state-building-blue/" >STOMP Out Bullying and Taye Diggs Light Empire State Building BLUE</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/ny-jets-first-anti-bullying-awareness-day/" >NY JETS FIRST ANTI-BULLYING AWARENESS DAY</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/boys-and-girls-club-collier-county-givingtuesday-event/" >Boys and Girls Club of Collier County #GivingTuesday Event</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/blue-shirt-day-world-day-bullying-prevention-2014-event/" >Blue Shirt Day® World Day of Bullying Prevention 2014 Event</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/10000-join-nerds-unite/" >10,000+ Join “NERDS Unite!™”</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/events/fashion-cause-benefit-stomp-out-bullying/" >Fashion For A Cause to Benefit STOMP Out Bullying™</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li><li class="stompli"><a href="/index.php/about/" >About STOMP Out Bullying™</a><ul id='sful' class='sf-submenu'><li class="stompli"><a href="/index.php/about/celebrity-psas-and-videos/" >Celebrity PSAs And Videos</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/global-ambassadors/" >Global Ambassadors</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/leadership/" >Leadership</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/ross-ellis-national-bullying-and-cyberbullying-prevention-expert/" >EXPERT: Ross Ellis, National Bullying and Cyberbullying Prevention</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/mission/" >Mission</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/manifesto/" >Our Manifesto</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/our-history/" >Our History</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/our-prevention-partners/" >Our Prevention Partners</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/our-supporters/" >Meet Our Supporters</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/teen-ambassadors/" >Teen Ambassadors</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/become-teen-ambassador/" >Become a Teen Ambassador</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/share/article.php" >Share Your Story</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/share/" >Share Your Videos</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/contact-us/" >Contact Us</a><div class="ccm-spacer" style="width:250px"></div></li><li class="stompli"><a href="/index.php/about/sitemap/" >Sitemap</a><div class="ccm-spacer" style="width:250px"></div></li></ul></li></ul></div>
 <script type="text/javascript">
-// initialise plugins
-$(function(){
-	jQuery('ul.sf-menu').superfish({delay:800});
-});
-</script></div>	<div id="blockStyle8877Main1746" class=" ccm-block-styles" >
-<img border="0" class="ccm-image-block" alt="" src="/files/8714/4579/8141/hilight_purple.png" width="961" height="9" /></div>
-	</div><!-- **********End of non mobile navigation********** -->
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='8887' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1ee9781375" /></p>
+<input type="hidden" name="genseq" value="1493156895" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="87"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+
 			
-</div><!-- End of inner-->			
-</div><!--End of outer-->
+			</div><!-- #content -->
+		</div><!-- #primary -->
 
-<!-- ********** End of everything in the header area of the site ********** --><div id="pagewrap">
-<div class="outer" id="main_outer"> <!--outer-->
-				<div class="inner"> <!--inner-->
-                 		<div class="main_inner FloatRight background">
-                        		<span style="text-align:right;">
-									<div id="breadcrumb_h1" class=" ccm-block-styles" >
-<div class="stompcathead">
 
-<ul class="nav-header">
+		<div id="secondary" class="widget-area" role="complementary">
+						<aside id="blog_subscription-3" class="widget widget_blog_subscription"><h1 class="widget-title"><label for="subscribe-field">Email Subscription</label></h1>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+<p>Join 1,502 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="5897398"/>
+						<input type="hidden" name="source" value="https://newworkplace.wordpress.com/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="2da8798a96" />						<input type="submit" value="Sign me up!" />
+					</p>
+				</form>
+			
+</aside><aside id="blog-stats-2" class="widget widget_blog-stats"><h1 class="widget-title">Blog Stats</h1>		<ul>
+			<li>937,962 hits</li>
+		</ul>
+		</aside><aside id="pages-2" class="widget widget_pages"><h1 class="widget-title">Pages</h1>		<ul>
+			<li class="page_item page-item-2"><a href="https://newworkplace.wordpress.com/about/">About this Blog and&nbsp;NWI</a></li>
+<li class="page_item page-item-17206"><a href="https://newworkplace.wordpress.com/events/">Events</a></li>
+<li class="page_item page-item-2192"><a href="https://newworkplace.wordpress.com/free-articles/">Free Articles</a></li>
+<li class="page_item page-item-4194"><a href="https://newworkplace.wordpress.com/need-help/">Need Help?</a></li>
+<li class="page_item page-item-196"><a href="https://newworkplace.wordpress.com/popular-notable-posts/">Popular and Notable&nbsp;Posts</a></li>
+		</ul>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/25/workplace-bullying-blitzkrieg-edition/">Workplace bullying: Blitzkrieg&nbsp;edition</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/22/the-privilege-of-thinking-abstractly-and-the-obligation-to-pay-it-forward/">The privilege of thinking abstractly and the obligation to pay it&nbsp;forward</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/19/harvard-study-the-key-to-living-a-meaningful-and-happy-life/">Harvard study: The key to living a meaningful and happy&nbsp;life</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/14/workplace-bullying-acknowledging-grief/">Workplace bullying: Acknowledging&nbsp;grief</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/10/disposable-workers/">Disposable workers</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/06/ma-state-house-hearing-for-healthy-workplace-bill/">MA State House hearing for Healthy Workplace&nbsp;Bill</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/04/thinking-big-thoughts-about-our-lives-and-our-work/">Thinking big thoughts about our lives and our&nbsp;work</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/04/03/how-insights-on-abusive-relationships-inform-our-understanding-of-workplace-bullying-and-mobbing/">How insights on abusive relationships inform our understanding of workplace bullying and&nbsp;mobbing</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/03/31/timothy-snyder-on-standing-out/">Timothy Snyder on standing&nbsp;out</a>
+						</li>
+					<li>
+				<a href="https://newworkplace.wordpress.com/2017/03/29/even-shakespeare-had-a-writing-circle/">Even Shakespeare had a writing&nbsp;circle</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget widget_recent_comments"><h1 class="widget-title">Recent Comments</h1>				<ul id="recentcomments">
+											<li class="recentcomments">
+							<a href='http://gravatar.com/jrapril' rel='external nofollow' class='url'>Saundra Raynorl</a> on <a href="https://newworkplace.wordpress.com/2017/04/25/workplace-bullying-blitzkrieg-edition/#comment-24247">Workplace bullying: Blitzkrieg&nbsp;edition</a>						</li>
 
+												<li class="recentcomments">
+							<a href='http://gravatar.com/jrapril' rel='external nofollow' class='url'>Saundra Raynorl</a> on <a href="https://newworkplace.wordpress.com/2017/04/25/workplace-bullying-blitzkrieg-edition/#comment-24246">Workplace bullying: Blitzkrieg&nbsp;edition</a>						</li>
+
+												<li class="recentcomments">
+							Mary Lou Conca on <a href="https://newworkplace.wordpress.com/2017/04/25/workplace-bullying-blitzkrieg-edition/#comment-24245">Workplace bullying: Blitzkrieg&nbsp;edition</a>						</li>
+
+												<li class="recentcomments">
+							<a href='https://www.facebook.com/app_scoped_user_id/100000295170224/' rel='external nofollow' class='url'>Thomas Panetta</a> on <a href="https://newworkplace.wordpress.com/2017/04/25/workplace-bullying-blitzkrieg-edition/#comment-24244">Workplace bullying: Blitzkrieg&nbsp;edition</a>						</li>
+
+												<li class="recentcomments">
+							<a href='http://the20somethingexistentialcrisis.wordpress.com' rel='external nofollow' class='url'>the20somethingexistentialcrisis</a> on <a href="https://newworkplace.wordpress.com/2017/04/25/workplace-bullying-blitzkrieg-edition/#comment-24243">Workplace bullying: Blitzkrieg&nbsp;edition</a>						</li>
+
+										</ul>
+				</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+			<li><a href='https://newworkplace.wordpress.com/2017/04/'>April 2017</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2017/03/'>March 2017</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2017/02/'>February 2017</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2017/01/'>January 2017</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/12/'>December 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/11/'>November 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/10/'>October 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/09/'>September 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/08/'>August 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/07/'>July 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/06/'>June 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/05/'>May 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/04/'>April 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/03/'>March 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/02/'>February 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2016/01/'>January 2016</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/12/'>December 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/11/'>November 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/10/'>October 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/09/'>September 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/08/'>August 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/07/'>July 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/06/'>June 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/05/'>May 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/04/'>April 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/03/'>March 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/02/'>February 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2015/01/'>January 2015</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/12/'>December 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/11/'>November 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/10/'>October 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/09/'>September 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/08/'>August 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/07/'>July 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/06/'>June 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/05/'>May 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/04/'>April 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/03/'>March 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/02/'>February 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2014/01/'>January 2014</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/12/'>December 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/11/'>November 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/10/'>October 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/09/'>September 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/08/'>August 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/07/'>July 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/06/'>June 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/05/'>May 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/04/'>April 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/03/'>March 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/02/'>February 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2013/01/'>January 2013</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/12/'>December 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/11/'>November 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/10/'>October 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/09/'>September 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/08/'>August 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/07/'>July 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/06/'>June 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/05/'>May 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/04/'>April 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/03/'>March 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/02/'>February 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2012/01/'>January 2012</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/12/'>December 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/11/'>November 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/10/'>October 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/09/'>September 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/08/'>August 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/07/'>July 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/06/'>June 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/05/'>May 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/04/'>April 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/03/'>March 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/02/'>February 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2011/01/'>January 2011</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/12/'>December 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/11/'>November 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/10/'>October 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/09/'>September 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/08/'>August 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/07/'>July 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/06/'>June 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/05/'>May 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/04/'>April 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/03/'>March 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/02/'>February 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2010/01/'>January 2010</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/12/'>December 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/11/'>November 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/10/'>October 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/09/'>September 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/08/'>August 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/07/'>July 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/06/'>June 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/05/'>May 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/04/'>April 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/03/'>March 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/02/'>February 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2009/01/'>January 2009</a></li>
+	<li><a href='https://newworkplace.wordpress.com/2008/12/'>December 2008</a></li>
+		</ul>
+		</aside><aside id="categories-308345831" class="widget widget_categories"><h1 class="widget-title">Categories</h1>		<ul>
+	<li class="cat-item cat-item-73557386"><a href="https://newworkplace.wordpress.com/category/3-question-interviews/" >3 Question Interviews</a>
+</li>
+	<li class="cat-item cat-item-14972010"><a href="https://newworkplace.wordpress.com/category/a-note-from-your-host/" >A Note from Your Host</a>
+</li>
+	<li class="cat-item cat-item-20254125"><a href="https://newworkplace.wordpress.com/category/academic-workplaces/" >academic workplaces</a>
+</li>
+	<li class="cat-item cat-item-33118"><a href="https://newworkplace.wordpress.com/category/advertising-and-marketing/" >advertising and marketing</a>
+</li>
+	<li class="cat-item cat-item-490"><a href="https://newworkplace.wordpress.com/category/animals/" >animals</a>
+</li>
+	<li class="cat-item cat-item-222951"><a href="https://newworkplace.wordpress.com/category/avocations/" >avocations</a>
+</li>
+	<li class="cat-item cat-item-87943"><a href="https://newworkplace.wordpress.com/category/business-ethics/" >Business Ethics</a>
+</li>
+	<li class="cat-item cat-item-54749"><a href="https://newworkplace.wordpress.com/category/career-planning/" >career planning</a>
+</li>
+	<li class="cat-item cat-item-13926"><a href="https://newworkplace.wordpress.com/category/coaching/" >coaching</a>
+</li>
+	<li class="cat-item cat-item-26023"><a href="https://newworkplace.wordpress.com/category/compensation/" >compensation</a>
+</li>
+	<li class="cat-item cat-item-16719158"><a href="https://newworkplace.wordpress.com/category/creating-good-jobs/" >Creating Good Jobs</a>
+</li>
+	<li class="cat-item cat-item-33262"><a href="https://newworkplace.wordpress.com/category/creativity-and-innovation/" >creativity and innovation</a>
+</li>
+	<li class="cat-item cat-item-5290806"><a href="https://newworkplace.wordpress.com/category/dignity-at-work/" >Dignity at Work</a>
+</li>
+	<li class="cat-item cat-item-170632"><a href="https://newworkplace.wordpress.com/category/dispute-resolution/" >dispute resolution</a>
+</li>
+	<li class="cat-item cat-item-280488219"><a href="https://newworkplace.wordpress.com/category/diversity-and-discrimination/" >diversity and discrimination</a>
+</li>
+	<li class="cat-item cat-item-24640780"><a href="https://newworkplace.wordpress.com/category/domestic-violence-and-abuse/" >domestic violence and abuse</a>
+</li>
+	<li class="cat-item cat-item-657"><a href="https://newworkplace.wordpress.com/category/economics/" >economics</a>
+</li>
+	<li class="cat-item cat-item-548746"><a href="https://newworkplace.wordpress.com/category/education-and-learning/" >education and learning</a>
+</li>
+	<li class="cat-item cat-item-113290"><a href="https://newworkplace.wordpress.com/category/employee-benefits/" >employee benefits</a>
+</li>
+	<li class="cat-item cat-item-11582469"><a href="https://newworkplace.wordpress.com/category/employment-and-labor-law/" >employment and labor law</a>
+</li>
+	<li class="cat-item cat-item-183"><a href="https://newworkplace.wordpress.com/category/entrepreneurship/" >entrepreneurship</a>
+</li>
+	<li class="cat-item cat-item-15054520"><a href="https://newworkplace.wordpress.com/category/essay-posts/" >Essay Posts</a>
+</li>
+	<li class="cat-item cat-item-17586439"><a href="https://newworkplace.wordpress.com/category/experience-of-work/" >experience of work</a>
+</li>
+	<li class="cat-item cat-item-222901"><a href="https://newworkplace.wordpress.com/category/faith-and-religion/" >faith and religion</a>
+</li>
+	<li class="cat-item cat-item-5239"><a href="https://newworkplace.wordpress.com/category/food-and-drink/" >food and drink</a>
+</li>
+	<li class="cat-item cat-item-14676"><a href="https://newworkplace.wordpress.com/category/freedom-of-speech/" >freedom of speech</a>
+</li>
+	<li class="cat-item cat-item-15739351"><a href="https://newworkplace.wordpress.com/category/from-the-webs-archives/" >from the web&#039;s archives</a>
+</li>
+	<li class="cat-item cat-item-15103593"><a href="https://newworkplace.wordpress.com/category/future-of-the-workplace/" >Future of the workplace</a>
+</li>
+	<li class="cat-item cat-item-14984004"><a href="https://newworkplace.wordpress.com/category/global-work-issues/" >global work issues</a>
+</li>
+	<li class="cat-item cat-item-14801427"><a href="https://newworkplace.wordpress.com/category/goodbad-bosses/" >Good/Bad Bosses</a>
+</li>
+	<li class="cat-item cat-item-22297"><a href="https://newworkplace.wordpress.com/category/happiness/" >happiness</a>
+</li>
+	<li class="cat-item cat-item-20052"><a href="https://newworkplace.wordpress.com/category/health-care/" >health care</a>
+</li>
+	<li class="cat-item cat-item-37610"><a href="https://newworkplace.wordpress.com/category/heroes/" >heroes</a>
+</li>
+	<li class="cat-item cat-item-3281"><a href="https://newworkplace.wordpress.com/category/hobbies/" >hobbies</a>
+</li>
+	<li class="cat-item cat-item-4325"><a href="https://newworkplace.wordpress.com/category/holidays/" >holidays</a>
+</li>
+	<li class="cat-item cat-item-15581"><a href="https://newworkplace.wordpress.com/category/human-resources/" >human resources</a>
+</li>
+	<li class="cat-item cat-item-376"><a href="https://newworkplace.wordpress.com/category/humor/" >humor</a>
+</li>
+	<li class="cat-item cat-item-181058756"><a href="https://newworkplace.wordpress.com/category/intelligences-and-work/" >intelligences and work</a>
+</li>
+	<li class="cat-item cat-item-95902"><a href="https://newworkplace.wordpress.com/category/internships/" >internships</a>
+</li>
+	<li class="cat-item cat-item-10570317"><a href="https://newworkplace.wordpress.com/category/labor-education/" >Labor Education</a>
+</li>
+	<li class="cat-item cat-item-308854"><a href="https://newworkplace.wordpress.com/category/labor-market/" >labor market</a>
+</li>
+	<li class="cat-item cat-item-322826"><a href="https://newworkplace.wordpress.com/category/labor-unions/" >Labor Unions</a>
+</li>
+	<li class="cat-item cat-item-2954343"><a href="https://newworkplace.wordpress.com/category/labors-of-love/" >labors of love</a>
+</li>
+	<li class="cat-item cat-item-7885"><a href="https://newworkplace.wordpress.com/category/leadership/" >leadership</a>
+</li>
+	<li class="cat-item cat-item-15710152"><a href="https://newworkplace.wordpress.com/category/learning-about-work/" >learning about work</a>
+</li>
+	<li class="cat-item cat-item-333222"><a href="https://newworkplace.wordpress.com/category/legal-profession/" >legal profession</a>
+</li>
+	<li class="cat-item cat-item-48091142"><a href="https://newworkplace.wordpress.com/category/lifespan-issues/" >lifespan issues</a>
+</li>
+	<li class="cat-item cat-item-603266"><a href="https://newworkplace.wordpress.com/category/management-practices/" >management practices</a>
+</li>
+	<li class="cat-item cat-item-30251530"><a href="https://newworkplace.wordpress.com/category/massachusetts-workplace-bullying-info/" >Massachusetts workplace bullying info</a>
+</li>
+	<li class="cat-item cat-item-283748"><a href="https://newworkplace.wordpress.com/category/meaningful-work/" >meaningful work</a>
+</li>
+	<li class="cat-item cat-item-292"><a href="https://newworkplace.wordpress.com/category/media/" >media</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://newworkplace.wordpress.com/category/music/" >music</a>
+</li>
+	<li class="cat-item cat-item-1072159"><a href="https://newworkplace.wordpress.com/category/non-profit-sector/" >non-profit sector</a>
+</li>
+	<li class="cat-item cat-item-1995898"><a href="https://newworkplace.wordpress.com/category/notable-books/" >notable books</a>
+</li>
+	<li class="cat-item cat-item-17239259"><a href="https://newworkplace.wordpress.com/category/organizational-justice/" >organizational justice</a>
+</li>
+	<li class="cat-item cat-item-114047"><a href="https://newworkplace.wordpress.com/category/psychology-and-work/personal-finances/" >personal finances</a>
+</li>
+	<li class="cat-item cat-item-195"><a href="https://newworkplace.wordpress.com/category/philanthropy/" >philanthropy</a>
+</li>
+	<li class="cat-item cat-item-80600"><a href="https://newworkplace.wordpress.com/category/plutocracy/" >plutocracy</a>
+</li>
+	<li class="cat-item cat-item-15995527"><a href="https://newworkplace.wordpress.com/category/podcast-series/" >podcast series</a>
+</li>
+	<li class="cat-item cat-item-398"><a href="https://newworkplace.wordpress.com/category/politics/" >politics</a>
+</li>
+	<li class="cat-item cat-item-9379"><a href="https://newworkplace.wordpress.com/category/poverty/" >poverty</a>
+</li>
+	<li class="cat-item cat-item-4908"><a href="https://newworkplace.wordpress.com/category/power/" >power</a>
+</li>
+	<li class="cat-item cat-item-33363366"><a href="https://newworkplace.wordpress.com/category/power-abuse-in-society/" >power &amp; abuse in society</a>
+</li>
+	<li class="cat-item cat-item-4777437"><a href="https://newworkplace.wordpress.com/category/psychology-and-work/" >psychology and work</a>
+</li>
+	<li class="cat-item cat-item-28006"><a href="https://newworkplace.wordpress.com/category/public-health/" >public health</a>
+</li>
+	<li class="cat-item cat-item-42976"><a href="https://newworkplace.wordpress.com/category/recycling/" >Recycling</a>
+</li>
+	<li class="cat-item cat-item-24161"><a href="https://newworkplace.wordpress.com/category/retirement/" >retirement</a>
+</li>
+	<li class="cat-item cat-item-1062424"><a href="https://newworkplace.wordpress.com/category/school-bullying/" >school bullying</a>
+</li>
+	<li class="cat-item cat-item-173"><a href="https://newworkplace.wordpress.com/category/science/" >science</a>
+</li>
+	<li class="cat-item cat-item-83846"><a href="https://newworkplace.wordpress.com/category/social-responsibility/" >social responsibility</a>
+</li>
+	<li class="cat-item cat-item-620"><a href="https://newworkplace.wordpress.com/category/society/" >society</a>
+</li>
+	<li class="cat-item cat-item-15088654"><a href="https://newworkplace.wordpress.com/category/strategies-for-change/" >strategies for change</a>
+</li>
+	<li class="cat-item cat-item-2300"><a href="https://newworkplace.wordpress.com/category/terrorism/" >terrorism</a>
+</li>
+	<li class="cat-item cat-item-17069899"><a href="https://newworkplace.wordpress.com/category/therapeutic-jurisprudence/" >therapeutic jurisprudence</a>
+</li>
+	<li class="cat-item cat-item-200"><a href="https://newworkplace.wordpress.com/category/travel/" >travel</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://newworkplace.wordpress.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-1149"><a href="https://newworkplace.wordpress.com/category/videos/" >Videos</a>
+</li>
+	<li class="cat-item cat-item-4167977"><a href="https://newworkplace.wordpress.com/category/voluntarism/" >voluntarism</a>
+</li>
+	<li class="cat-item cat-item-48399019"><a href="https://newworkplace.wordpress.com/category/weather-and-work/" >weather and work</a>
+</li>
+	<li class="cat-item cat-item-768586"><a href="https://newworkplace.wordpress.com/category/websites-of-the-week/" >Website(s) of the Week</a>
+</li>
+	<li class="cat-item cat-item-530444"><a href="https://newworkplace.wordpress.com/category/whistleblowing/" >whistleblowing</a>
+</li>
+	<li class="cat-item cat-item-17773881"><a href="https://newworkplace.wordpress.com/category/work-and-technology/" >work and technology</a>
+</li>
+	<li class="cat-item cat-item-14803888"><a href="https://newworkplace.wordpress.com/category/work-on-tv/" >Work on TV</a>
+</li>
+	<li class="cat-item cat-item-136119"><a href="https://newworkplace.wordpress.com/category/work-life-balance/" >work-life balance</a>
+</li>
+	<li class="cat-item cat-item-25814"><a href="https://newworkplace.wordpress.com/category/workers-compensation/" >workers compensation</a>
+</li>
+	<li class="cat-item cat-item-610250"><a href="https://newworkplace.wordpress.com/category/working-notes/" >working notes</a>
+</li>
+	<li class="cat-item cat-item-85260492"><a href="https://newworkplace.wordpress.com/category/workplace-bullying-2-0/" >workplace bullying 2.0</a>
+</li>
+	<li class="cat-item cat-item-509043844"><a href="https://newworkplace.wordpress.com/category/workplace-bullying-mobbing-and-abuse/" >workplace bullying, mobbing, and abuse</a>
+</li>
+	<li class="cat-item cat-item-6371062"><a href="https://newworkplace.wordpress.com/category/workplace-health-and-safety/" >workplace health and safety</a>
+</li>
+	<li class="cat-item cat-item-23025118"><a href="https://newworkplace.wordpress.com/category/workplace-incivility/" >workplace incivility</a>
+</li>
+	<li class="cat-item cat-item-212385"><a href="https://newworkplace.wordpress.com/category/workplace-violence/" >workplace violence</a>
+</li>
+	<li class="cat-item cat-item-349"><a href="https://newworkplace.wordpress.com/category/writing/" >writing</a>
+</li>
+		</ul>
+</aside><aside id="linkcat-1356" class="widget widget_links"><h1 class="widget-title">Blogroll</h1>
+	<ul class='xoxo blogroll'>
+<li><a href="http://allaboutwork.org/">All About Work</a></li>
+<li><a href="http://www.apaexcellence.org/resources/goodcompany/blog/">APA Good Company blog</a></li>
+<li><a href="http://bulliedacademics.blogspot.com/">Bullying of Academics</a></li>
+<li><a href="http://thepeoplegroupllc.com/blog/">Chief People Officer</a></li>
+<li><a href="http://www.ctemploymentlawblog.com">Connecticut Employment Law Blog</a></li>
+<li><a href="http://www.psychologytoday.com/blog/cutting-edge-leadership">Cutting-Edge Leadership</a></li>
+<li><a href="http://www.delawareemploymentlawblog.com/">Delaware Employment Law Blog</a></li>
+<li><a href="http://lawofwork.ca/">Doorey&#039;s Law of Work Blog</a></li>
+<li><a href="http://intentionalworkplace.com/">Intentional Workplace</a></li>
+<li><a href="http://eden-therapy.com/coaching.aspx">Jessi Eden Brown Coaching</a></li>
+<li><a href="http://employerslawyer.blogspot.com/">Jottings by an Employer&#8217;s Lawyer</a></li>
+<li><a href="http://mahealthyworkplace.wordpress.com/">Massachusetts Healthy Workplace Advocates blog</a></li>
+<li><a href="http://www.noworkplacebullies.blogspot.com/">No Workplace Bullies</a></li>
+<li><a href="http://ohioemploymentlaw.blogspot.com/">Ohio Employer&#039;s Law Blog</a></li>
+<li><a href="http://southwerk.wordpress.com/">Pilant&#039;s Business Ethics Blog</a></li>
+<li><a href="http://positivepsychologynews.com/">Positive Psychology News Daily</a></li>
+<li><a href="http://www.problematwork.com/">Problems at Work</a></li>
+<li><a href="http://stopworkplacebullies.wordpress.com/">Stop Workplace Bullies&#8230;Now!</a></li>
+<li><a href="http://www.teamsblog.biz/">Teams Blog</a></li>
+<li><a href="http://www.todaysworkplace.org/">Today&#8217;s Workplace</a></li>
+<li><a href="http://www.usworkerscomp.com/workers-compensation-blog/">U.S. Workers&#039; Compensation Blog</a></li>
+<li><a href="http://womensrightsny.com/blog/">Women&#039;s Rights Employment Blog</a></li>
+<li><a href="http://www.workplacebullying.org/news/">Workplace Bullying Institute Blog</a></li>
+<li><a href="http://workplacediva.blogspot.com/">Workplace Diva</a></li>
+<li><a href="http://lawprofessors.typepad.com/laborprof_blog/">Workplace Prof Blog</a></li>
+<li><a href="http://workplaceviolencenews.com/">Workplace Violence News</a></li>
+
+	</ul>
+</aside>
+		</div><!-- #secondary .widget-area -->
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+		
+		<div id="footer-info">
+			<h3 id="footer-title">
+				<a href="https://newworkplace.wordpress.com/" title="Minding the Workplace" rel="home">Minding the Workplace</a>
+			</h3>
+
+			<nav id="access-footer" class="clearfix" role="navigation">
+				<h1 class="assistive-text section-heading">Footer menu</h1>
+				<div class="menu"><ul>
+<li ><a href="https://newworkplace.wordpress.com/">Home</a></li><li class="page_item page-item-2"><a href="https://newworkplace.wordpress.com/about/">About this Blog and&nbsp;NWI</a></li>
+<li class="page_item page-item-17206"><a href="https://newworkplace.wordpress.com/events/">Events</a></li>
+<li class="page_item page-item-2192"><a href="https://newworkplace.wordpress.com/free-articles/">Free Articles</a></li>
+<li class="page_item page-item-4194"><a href="https://newworkplace.wordpress.com/need-help/">Need Help?</a></li>
+<li class="page_item page-item-196"><a href="https://newworkplace.wordpress.com/popular-notable-posts/">Popular and Notable&nbsp;Posts</a></li>
+</ul></div>
+			</nav><!-- #access -->
+		</div><!-- #footer-info -->
+
+		<div id="site-generator">
+			<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>		</div>
+
+		<div id="top-link">
+			<a href="#page">&uarr;</a>
+		</div><!-- .top-link -->
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201717y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-2c32bbe1d6a942ced45f8b7b28dad2f5">
+	</div>
+	<div class="grofile-hash-map-dbc97d61a456c7a2764d1c2f25b9dea0">
+	</div>
+	<div class="grofile-hash-map-cbcb6ac4a59bfebbe3f9d5ac24555d96">
+	</div>
+	<div class="grofile-hash-map-a1293b05eda5cd79325d56ac118e4b42">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/newworkplace.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/newworkplace.wordpress.com\/wp-login.php?action=logout&_wpnonce=17ced4743a","homeURL":"https:\/\/newworkplace.wordpress.com\/","postID":"8887","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/newworkplace.wordpress.com\/2011\/08\/23\/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement\/":8887};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2011/08/23/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"5897398","siteName":"Minding the Workplace","siteURL":"http:\/\/newworkplace.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/elemin","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/newworkplace.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fnewworkplace.wordpress.com%2F2011%2F08%2F23%2Fkeyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement%2F","themeURL":"https:\/\/wordpress.com\/theme\/elemin\/","xhrURL":"https:\/\/newworkplace.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"4ea55a3bb0","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"2da8798a96\" \/>","referer":"https:\/\/newworkplace.wordpress.com\/2011\/08\/23\/keyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/newworkplace.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fnewworkplace.wordpress.com%2F2011%2F08%2F23%2Fkeyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement%2F","postID":"8887","shortlink":"http:\/\/wp.me\/poKbk-2jl","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/newworkplace.wordpress.com\/8887","statsLink":"https:\/\/wordpress.com\/stats\/post\/8887\/newworkplace.wordpress.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Elemin","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 1,502 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/newworkplace.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fnewworkplace.wordpress.com%2F2011%2F08%2F23%2Fkeyboard-activism-three-ways-to-support-the-workplace-anti-bullying-movement%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJx9jsEOwjAMQ3+IEjYhEAfEt5QubBltWtJ2wN+THYYQh51ixfaT4ZmMi1yQC4wZOpzIYXptx7yBHytUk3ztiTN4umOGR8WKg+XOo/yHy4BBI0kwUA2AXi/PdLYT9bZQ5KVC7HztNKyuiyFo3Qgm/95qZWWE7dQ3VysQbC4oqkycUIRm2Pe3RnDzjpnwVSvpFHMxN29JIA9WiPvlaukSzs3+1O52h6Y9jh+2YH5X'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'5897398','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'5897398','v':'wpcom','tz':'-4','user_id':'0','post':'8887','subd':'newworkplace'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlNU1DQ1YxbDBNdGUzaTliUEZ+bGgrW216VGVkJkRqLmxnXU9MU2txT2hBcmR+P1htRjJxJlB3LW55cnklLF0vYV9PSzJnUixqeDhqW2ZaYWNRSmVIaUc4dC5kSXM/JXVCL1hqM2lVbGhCdnxrSlV3Ny9haU5Nc1JWak5nK3VRRURCQkFwc29vX29dMmx+NU1Dbkt8U3o0S0hSWGdaMlsmK005VWNwbCVBTlsvSVZaM0pmL004THFEenhxQXcyX0lhbS54a25jWVlEeC13WFtuNVFoZ11aP3ZES01yRSVDL25DK35uSWtmSjhPY3VRRXZbekw='}]);
+_stq.push([ 'clickTrackerInit', '5897398', '8887' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
 	
-	<li class="nav-selected nav-path-selected-nh first">
-		<h1 style="font-size:1em;"><a class="nav-selected nav-path-selected-nh first" href="/index.php/campaigns/national-bullying-prevention-awareness-month/" target="_self"><span style="color:#F57A16;">National Bullying Prevention Awareness Month</span></a></h1>
-	</li>
-
-</ul>
-</div>
-<div class="ccm-spacer">&nbsp;</div>
-</div>                                </span>
-                                <span id="main-body">             
-									<div id="blockStyle8836Main116" class=" ccm-block-styles" >
-<h2><strong>October is National Bullying Prevention Month</strong></h2>
-<p>Every October, schools and organizations across the country join STOMP <em>O</em>ut Bullying™ in observing National Bullying Prevention Month. The goal: encourage communities to work together to stop bullying and cyberbullying by increasing awareness of the prevalence and impact of bullying on all children of all ages.</p>
-<h3>A MONTH OF ANTI-BULLYING ACTIVITIES! <br />A MONTH OF ACTION!<br /><br />Monday, October 3rd</h3>
-<p>Anti-bullying activities include STOMP <em>O</em>ut Bullying™'s signature campaign <strong><a href="http://www.stompoutbullying.org/index.php/campaigns/blue-shirt-day-world-day-bullying-prevention/">Blue Shirt Day® World Day of Bullying Prevention™</a> on the first Monday of every October</strong> -- this year on Monday, October 3rd. Watch for our public service announcements by featured celebrities!</p>
-<h3>The Week of October 10th <sup><br /></sup><span style="font-size: 1.17em; font-weight: normal;"><br />Make friends with someone you don’t know at school </span></h3>
-<p>If you've ever been isolated from others at school or you were new at school and it took time to make friends, you know what it feels like to be left out. Or even if you were never isolated, imagine how it would feel.<br /><br />Make friends with someone at school who you don't know. Invite them to sit at your lunch table or join you in an after school activity. You probably wish someone had done that for you.</p>
-<p>Be a leader. Take action and don't let anyone at school be in isolation.</p>
-<p><strong>Challenge Others To Be Kind</strong><br /><span style="font-size: 15px; font-weight: normal;"><br />Make kindness go viral with an act of kindness and challenge friends and classmates to pay it forward with their acts of kindness. Make a video of everyone doing acts of kindness and </span><span style="font-size: 15px;"><a href="http://www.stompoutbullying.org/share/">submit it.</a> We'll add it tou our website.<br /><br /></span></p>
-<h3>October 11th is National Coming Out Day. <br /><strong><sup>Celebrate coming out as lesbian, gay, bisexual, transgender, LGBTQ questioning or as an ally.</sup></strong></h3>
-<p><strong style="font-size: 1.17em;"><span style="font-size: 1.17em;">The Week of October 17</span><sup style="font-weight: normal;">th</sup></strong></p>
-<p><strong>STAND UP for Others Week</strong></p>
-<p>When you see someone being bullied, be brave and STAND UP for them. Bullies have been known to back off when others stand up for victims.</p>
-<p>If you don't feel safe get the help of an adult immediately. Be part of the solution -- not the problem!<br /><br />It's a time to see everyone's differences and celebrate their similarities: Whether students are LGBT,  African American, Asian, Muslim, AAPI,of Tribal descent or disabled ...make friends. </p>
-<h3>The Week of October 24<sup>th</sup></h3>
-<p><strong>Students can participate by</strong></p>
-<ul>
-<li>Creating positive messages on post-its and handing them out to students at school</li>
-<li>Hold a "kindness" dance at school</li>
-<li>Creating anti-bullying videos and sharing them on the <a href="http://www.stompoutbullying.org/share/">STOMP <em>O</em>ut Bullying site</a></li>
-<li>Sharing inspirational stories on the <a href="http://www.stompoutbullying.org/share/article.php">STOMP <em>O</em>ut Bullying site</a></li>
-<li>Create a kindness dance flash mob at school or in your community. Make a video of it and <a href="http://www.stompoutbullying.org/share/">send it to us</a>. We'll share it on our web site.</li>
-</ul>
-<p><br />We look forward to hearing about your student led activities during National Bullying Prevention Awareness month.</p>
-<p>The more awareness that is created during the month of October -- and all year round, you are one step closer to putting an end to bullying!</p>
-<p> </p></div>                                </span>
-                                
-<div id="HTMLBlock8723" class="HTMLBlock">
-<ul class="share-buttons" style="float:right;">
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstompoutbullying.org&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="/images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
-  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fstompoutbullying.org&text=:%20http%3A%2F%2Fstompoutbullying.org" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="/images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
-  <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fstompoutbullying.org" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="/images/social_flat_rounded_rects_svg/Google+.svg"></a></li>
-  <li><a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fstompoutbullying.org&t=&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><img src="/images/social_flat_rounded_rects_svg/Tumblr.svg"></a></li>
-  <li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstompoutbullying.org&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><img src="/images/social_flat_rounded_rects_svg/Pinterest.svg"></a></li>
-  <li><a href="https://getpocket.com/save?url=http%3A%2F%2Fstompoutbullying.org&title=" target="_blank" title="Add to Pocket" onclick="window.open('https://getpocket.com/save?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/images/social_flat_rounded_rects_svg/Pocket.svg"></a></li>
-</ul></div>                                						</div><!-- **********End of main inner********** -->
-                        <div class="sidebar FloatLeft background l2sidebardef l2sidebar ">
-                  
-                                									<div id="blockStyle5844Main1172" class=" ccm-block-styles" >
-<div class="stompcathead">
-
-<ul class="nav-header">
-
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
 	
-	<li class="nav-home first">
-		<a class="nav-home first" href="/" target="_self">Home</a>
-	</li>
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
 	
-	<li class="nav-path-selected-nh">
-		<a class="nav-path-selected-nh" href="/index.php/campaigns/" target="_self">Campaigns</a>
-	</li>
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 
-</ul>
-</div>
-<div class="ccm-spacer">&nbsp;</div>
-</div>	<div id="blockStyle6588Main1163" class=" ccm-block-styles" >
-<ul class="nav-1"><li class=""><a href="/index.php/campaigns/blue-shirt-day-world-day-bullying-prevention/" target="_self" class="">Blue Shirt Day® World Day of Bullying Prevention™</a></li><li class=""><a href="/index.php/campaigns/want-participate-blue-shirt-day-world-day-bullying-prevention/" target="_self" class="">Want your school, community or business to participate in Blue Shirt Day® World Day Of Bullying Prevention™?</a></li><li class=""><a href="/index.php/campaigns/no-matter-campaign/" target="_self" class="">NO MATTER™!</a></li><li class="nav-selected nav-path-selected"><a href="/index.php/campaigns/national-bullying-prevention-awareness-month/" target="_self" class="nav-selected nav-path-selected">National Bullying Prevention Awareness Month</a></li></ul><div class="navfix">&nbsp</div></div>								                                	<div id="blockStyle6372Main1173" class=" ccm-block-styles" >
-<div class="stompcathead">
-
-<ul class="nav-header">
-
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
 	
-	<li class="nav-selected nav-path-selected-nh first">
-		<a class="nav-selected nav-path-selected-nh first" href="/index.php/campaigns/national-bullying-prevention-awareness-month/" target="_self">National Bullying Prevention Awareness Month</a>
-	</li>
-
-</ul>
-</div>
-<div class="ccm-spacer">&nbsp;</div>
-</div><ul class="nav-1"><li class=""><a href="/index.php/campaigns/national-bullying-prevention-awareness-month/stomp-out-bullying-student-participation-toolkit/" target="_self" class="">STOMP Out Bullying™ Student Participation Toolkit</a></li><li class=""><a href="/index.php/campaigns/national-bullying-prevention-awareness-month/no-matter-campaign/" target="_self" class="">NO MATTER™!</a></li></ul><div class="navfix">&nbsp</div>                                                                
-						</div>
-				</div>				<!--End of inner-->
-</div>								<!--End of outer-->
-
-<div class="outer" id="footer_outer">
-<div class="row, row3"> <!-- soft footer --> 
-    <section>
-		<img border="0" class="ccm-image-block" alt="" src="/files/5014/4579/8140/hilight_orange.png" width="961" height="9" />	<div id="awards_banners" class=" ccm-block-styles" >
-<a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/7214/7645/8433/greatnonprofits-2016-80.png" width="102" height="79" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/2914/6064/8782/2015_greatnonprofits-opt.png" width="156" height="79" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/5014/6064/8802/2014_greatnonprofits-opt.png" width="156" height="78" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/2414/6064/8826/2013_greatnonprofits-opt.png" width="156" height="78" /></a><a href="http://greatnonprofits.org/org/stomp-out-bullying-love-our-children-usa"><img border="0" class="ccm-image-block" alt="" src="/files/1214/6064/8846/2012_greatnonprofits-opt.png" width="156" height="78" /></a><img border="0" class="ccm-image-block" alt="" src="/files/7714/7645/8872/americaspromiselogo-160.png" width="160" height="68" /></div>	</section>
-
-  </div> 
-	<div class="inner" id="footer_inner">
-    <div style="margin-bottom:40px;">
-			<div id="blockStyle8945Main1307" class=" ccm-block-styles" >
-<p style="text-align: center; line-height: 80%;">© STOMP <em>O</em>ut Bullying™ 2007 - 2016  www.STOMP<em>O</em>utBullying.org<br /> <br /><span style="font-size: x-small; color: #53489a;"><img style="margin: 10px; float: right;" src="/files/cache/dafa978b58896cf623bfc4212e519b9e_f311.png" alt="qrcode.14826961.png" width="93" height="93" /></span></p>
-<p style="line-height: 80%; text-align: center;"><span style="font-size: x-small; color: #53489a;">STOMP <em>O</em>ut Bullying™, NO MATTER™ and Blue Shirt Day™ World Day of Bullying </span><span style="font-size: x-small; color: #53489a;">Prevention™ are trademarked names of the organization <span style="font-size: x-small; color: #53489a;">STOMP <em>O</em>ut Bullying™, </span> and m</span><span style="font-size: x-small; color: #53489a;">ay not be used by any other parties. </span><br /><br /><span style="font-size: x-small; color: #53489a;"> Permission to reproduce any information or images contained on this site must be requested in writing and submitted to the attention of <span style="font-size: x-small; color: #53489a;">STOMP <em>O</em>ut Bullying™ </span>Media Relations. Unauthorized usage of these trademarks are considered to be intellectual property infringements.<br /><br />This Web Site Is Generously Hosted By <a href="http://www.solidspace.com" target="_blank"><span style="font-size: x-small; color: #53489a; text-decoration: underline;">Solid Space</span></a><br /><br /><img src="/files/cache/16d6926de7bf1bcd460eda5876290f98_f2204.png" alt="solidspace-logo-2016.png" width="126" height="17" /><br /></span></p>
-<p style="text-align: center; line-height: 80%;"><span style="font-size: x-small; color: #53489a;"> By using this site, you signify your assent to our <span style="text-decoration: underline;"><a href="http://www.stompoutbullying.org/index.php/ways-help/sign/privacy-policy/"><span style="font-size: x-small; color: #53489a; text-decoration: underline;">Terms of Use and Privacy Policy</span></a></span> </span></p></div>	</div>
-
-	</div><!--End of inner-->
-
-<div id="toTop"><p>TOP</p></div>
-
-				
-</div><!--End of outer-->
-
-<div class="mobile_push"></div>
-</div>
-<!-- ********** Everything south of this line will probably kill your site if tampered with, adjust with caution ********** -->
-
-</div><!-- ********** End of the c5wrap class ********** -->
-
-				                
+}
+</script>
 </body>
 </html>

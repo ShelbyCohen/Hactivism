@@ -1,0 +1,1181 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="title" content="Environmental Movement facts, information, pictures | Encyclopedia.com articles about Environmental Movement" />
+<meta name="description" content="Get information, facts, and pictures about Environmental Movement at Encyclopedia.com. Make research projects and school reports about Environmental Movement easy with credible articles from our FREE, online encyclopedia and dictionary." />
+<meta name="abstract" content="Encyclopedia.com – Online dictionary and encyclopedia with pictures, facts, and videos. Get information and homework help with millions of articles in our FREE, online library." />
+<meta name="keywords" content="Get information, facts, and pictures, about Environmental Movement, at Encyclopedia.com, Make, research, projects, and school reports, about Environmental Movement, easy, with credible, articles, from our FREE, online encyclopedia and dictionary" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/earth-and-environment/ecology-and-environmentalism/environmental-studies/environmental-movement" />
+<link rel="shortlink" href="/node/1282060" />
+<link rel="revision" href="/earth-and-environment/ecology-and-environmentalism/environmental-studies/environmental-movement" />
+
+    <title>Environmental Movement facts, information, pictures | Encyclopedia.com articles about Environmental Movement</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_kPMtNduWUKQI-NsU4-KVKke3FpoE8ePQVShWw0fk40M.css?ook4mz" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_HqCXZM_cX3UmKJRchtZsElYioMBDjvH4h24VdDriBIw.css?ook4mz" media="all" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" media="all" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_bsgAeYN5wH7X1ZWH-ngSt1zQna_MlW6PdT4WXqB7NWI.css?ook4mz" media="all" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/video.js/5.16.0/video-js.min.css" media="all" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/videojs.vast.vpaid.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_MaTI0mBvy-ehlu1RN_Y9Fsri7NXZ35339atNH7X3U9M.css?ook4mz" media="all" />
+
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64847704-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+        <script>
+      window.showAds = false;
+    </script>
+    <script src="/sites/default/files/js/ads.js?qawtfhahaok"></script>
+    <script>
+    if (window.showAds) {
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'User Interaction',
+        eventAction: 'Adblock',
+        eventLabel: 'Not Detected',
+        nonInteraction: true
+      });
+    } else {
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'User Interaction',
+        eventAction: 'Adblock',
+        eventLabel: 'Enabled',
+        nonInteraction: true
+      });
+    }
+    </script>
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_AzOPBAE9NKA4CKW4x7G4ztR3RWtTTWIns7TIKO_1-tA.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.2/lodash.min.js"></script>
+<script src="/sites/default/files/js/js_BwcL-IFmE1ggmtYg4h94TxaLHryo_WbBAC3ohZaQbyo.js"></script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="/sites/default/files/js/js_CvHgg3cWLveO0GncJWv3MaCgGk1dy_xG5_1Vv2HMnjo.js"></script>
+
+    <script>
+      var _reportClientErrors = false;
+      var nodeType = "topic",
+          rootPath = "node";
+
+      var dataLayer = [{
+                  pageType : 'topic'
+                                              }];
+    </script>
+  </head>
+  <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNC4D8"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+(function(w,d,s,l,i){
+
+  w[l]=w[l]||[];
+  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+  var f=d.getElementsByTagName(s)[0];
+  var j=d.createElement(s);
+  var dl=l!='dataLayer'?'&l='+l:'';
+  j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+  j.type='text/javascript';
+  j.async=true;
+  f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-KNC4D8');
+</script>
+<!-- End Google Tag Manager -->
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+  <div id="header">
+    <header>
+      <div class="container clearfix">
+          <div>
+    <div id="block-encyclopedia-branding" class="site-branding">
+  
+    
+      <div id="logo">
+    <a id="imagelink" href="/" title="Home" rel="home" class="site-branding__logo">
+      <img src="/themes/custom/encyclopedia/images/header-logo.jpg" alt="Home" />
+    </a>
+	</div>
+    </div>
+
+  </div>
+
+        <div class="hdr-r clearfix">
+          <div>
+    <form action="/search" method="get" id="searchForm">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+    <label for="edit-keys" class="visually-hidden">Search</label>
+    <input title="Enter the terms you wish to search for." class="searchbox form-search" placeholder="Search" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+    <span class="field-suffix">
+      <i class="fa fa-search clickable"></i>
+    </span>
+  </div>
+  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+    <input class="hidden button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="GO!" />
+  </div>
+</form>
+<span class="mobile-search-icon"><i class="fa fa-search"></i></span>
+
+  
+
+<div class="hdr-categories-container">
+	<a id="rcLink" class="rc-link" onclick="toggleFlyout()">
+						
+		<span class="text" id="block-encyclopedia-main-menu-menu">Research categories</span>
+		
+		<i class="fa fa-bars"></i>
+	</a>
+	<div class="rc-flyout" id="rcFlyout">
+		<i onclick="closeOverlays();" class="fa fa-close"></i>
+		<div class="categories">
+			<span class="title">Research categories</span>
+			 
+			   			  				
+              <ul block="block-encyclopedia-main-menu">
+              <li>
+        <a href="/earth-and-environment" data-drupal-link-system-path="taxonomy/term/66206">Earth and Environment</a>
+              </li>
+          <li>
+        <a href="/history" data-drupal-link-system-path="taxonomy/term/66213">History</a>
+              </li>
+          <li>
+        <a href="/literature-and-arts" data-drupal-link-system-path="taxonomy/term/66208">Literature and the Arts</a>
+              </li>
+          <li>
+        <a href="/medicine" data-drupal-link-system-path="taxonomy/term/66205">Medicine</a>
+              </li>
+          <li>
+        <a href="/people" data-drupal-link-system-path="taxonomy/term/66211">People</a>
+              </li>
+          <li>
+        <a href="/philosophy-and-religion" data-drupal-link-system-path="taxonomy/term/66209">Philosophy and Religion</a>
+              </li>
+          <li>
+        <a href="/places" data-drupal-link-system-path="taxonomy/term/66214">Places</a>
+              </li>
+          <li>
+        <a href="/plants-and-animals" data-drupal-link-system-path="taxonomy/term/66210">Plants and Animals</a>
+              </li>
+          <li>
+        <a href="/science-and-technology" data-drupal-link-system-path="taxonomy/term/66204">Science and Technology</a>
+              </li>
+          <li>
+        <a href="/social-sciences-and-law" data-drupal-link-system-path="taxonomy/term/66207">Social Sciences and the Law</a>
+              </li>
+          <li>
+        <a href="/sports-and-everyday-life" data-drupal-link-system-path="taxonomy/term/66212">Sports and Everyday Life</a>
+              </li>
+          <li>
+        <a href="/references" data-drupal-link-system-path="references">Additional References</a>
+              </li>
+        </ul>
+  
+
+
+			  
+			  
+		</div>
+	   
+	</div>
+</div>
+  </div>
+        
+        </div>
+        <div class="overlay" onclick="closeOverlays();"></div>
+      </div>
+    </header>
+  </div>
+  <div class="print-logo">
+      <div>
+    <div id="block-printlogo">
+  
+    
+      
+            <div><img src="/themes/custom/encyclopedia/images/header-logo.jpg" alt="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" /></div>
+      
+  </div>
+
+  </div>
+
+  </div>
+
+  <div id="wrapper">       
+    <div id="shell">
+      <div id="center-container">
+        <a id="main-content" tabindex="-1"></a>        
+        
+
+
+<div id="topic_wrap" class="clearfix topic-wrapper">
+
+		<div id='gpt-ad-header' style="text-align:center; margin-bottom: 10px;">
+    <script>
+      googletag.cmd.push(function() { googletag.display('gpt-ad-header'); });
+    </script>
+  </div>
+
+	<div class="main-section">
+		<div class="toparea">
+			  <div>
+    <div id="block-encyclopedia-breadcrumbs">
+  
+    
+      <div id="expapand_breadcrumb_expanded">
+	<div class="breadcrumb">
+                      <a href="/">Home</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      <a href="/earth-and-environment">Earth and the Environment</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      <a href="/earth-and-environment/ecology-and-environmentalism">Ecology and Environmentalism</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      <a href="/earth-and-environment/ecology-and-environmentalism/environmental-studies">Environmental Studies</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      Environmental Movement
+        						
+					
+    	</div>
+</div>
+
+  </div>
+
+  </div>
+
+		</div>
+        <label class="source-select-label">Select source:</label>
+        <div id="articleSelectWrapper"></div>
+		  <div>
+    <div id="block-topcontentad">
+  
+    
+      
+  </div>
+<div class="views-element-container" id="block-views-block-subcategories-for-category-block-2">
+  
+    
+      <div block="block-views-block-subcategories-for-category-block-2"><div class="js-view-dom-id-de3c25168fb17c3ea8d5f690021a5cd7df69f5145e93fc35f50e2350fdf6e324">
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-encyclopedia-content">
+  
+    
+      <article role="article" about="/earth-and-environment/ecology-and-environmentalism/environmental-studies/environmental-movement">
+
+  
+    
+
+  
+  <div>
+    
+  </div>
+
+</article>
+
+  </div>
+<div class="views-element-container" id="block-views-block-article-topic-articles-block">
+  
+    
+      <div block="block-views-block-article-topic-articles-block"><div class="js-view-dom-id-05f94235696d140c17cc645c7761ef7c89ee7f8adfd9fcb38caf1981ae56f0ab">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="articleWrapper" id="articleWrapper-351391">
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<span class="document-id" data-val="1G23401801397"></span>
+<h2 class="doctitle">Environmental Movement
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publisher" data-pub="2781"></span><span class="publication">Dictionary of American History</span> <br />
+COPYRIGHT 2003 The Gale Group Inc.</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper">
+  <h1>ENVIRONMENTAL MOVEMENT</h1>
+<p><b>ENVIRONMENTAL MOVEMENT.</b>   The modern environmental movement differed from an early form of environmentalism that flourished in the first decades of the twentieth century, usually called conservationism. Led by such figures as <a data-topic="1230586" href="/people/history/us-history-biographies/theodore-roosevelt">Theodore Roosevelt</a> and Gifford Pinchot, the conservationists focused on the wise and efficient use of natural resources. Modern environmentalism arose not out of a productionist concern for managing natural resources for future development, but as a consumer movement that demanded a clean, safe, and beautiful environment as part of a higher standard of living. The expanding post<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2012;</span></span></span></span></span></span></span></span><a data-topic="1208027" href="/history/modern-europe/wars-and-battles/world-war-ii">World War II</a> economy raised consciousness about the environmental costs of economic progress, but it also led increasingly affluent Americans to insist upon a better quality of life. Since the demand for a cleaner, safer, and more beautiful environment that would enhance the quality of life could not be satisfied by the free market, environmentalists turned toward political action as the means to protect the <a data-topic="1207885" href="/earth-and-environment/geology-and-oceanography/geology-and-oceanography/earth">earth</a>. Still, the preservationist strand of the conservationist movement was an important precursor to the modern environmental movement. As represented by such figures as John Muir of the Sierra Club and Aldo Leopold of the Wilderness Society, the preservationists argued that natural spaces such as forests and rivers were not just raw materials for economic development, but also aesthetic resources. Thus, they stated that the government needed to protect beautiful natural spaces from development through such measures as establishing national parks. In the post<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2012;</span></span></span></span></span></span></span></span>World War II era, many more Americans gained the resources to pursue outdoor recreational activities and travel to national parks. Thus, preservationist ideas came to enjoy widespread popularity. No longer simply the province of small groups led by pioneers such as Muir and Leopold, preservationism became part of a mass movement.</p> <p>Yet while preservationism was an important part of the environmentalism's goals, the movement's agenda was much broader and more diverse. While preservationism focused on protecting specially designated nonresidential areas, environmentalists shifted attention to the effects of the environment on daily life. In the 1960s and 1970s, the environmental movement focused its attention on pollution and successfully pressured Congress to pass measures to promote cleaner air and water. In the late 1970s, the movement increasingly addressed environmental threats created by the disposal of toxic waste. Toward the end of the century, the environmental agenda also included such worldwide problems as ozone depletion and global warming.</p> <p>Environmentalism was based on the spread of an ecological consciousness that viewed the natural world as a biological and geological system that is an interacting whole. Ecologists emphasized human responsibility for the impact of their daily living on a wider natural world, fearing that human disruption of the earth's ecosystem threatened the survival of the planet. The spread of ecological consciousness from the scientific world to the general public was reflected in popular metaphors of the planet as Spaceship <a data-topic="1207885" href="/earth-and-environment/geology-and-oceanography/geology-and-oceanography/earth">Earth</a> or Mother Earth. An ecological consciousness was evident even in works of popular culture. For instance, in his 1971 hit song "Mercy Mercy Me (The Ecology)," Marvin Gaye sang:</p> <pre>
+Poison is the wind that blows from the north and south and east<br/>Radiation underground and in the sky, animals and birds who live near by all die<br/>What about this overcrowded land<br/>How much more abuse from man can she stand?
+</pre>
+<h2>Growth of the Environmental Movement in the 1960s and 1970s</h2> <p>Many historians find the publication of Rachel Carson's <i>Silent Spring</i> in 1962 to be a convenient marker for the beginning of the modern American environmental movement. <i>Silent Spring,</i> which spent thirty-one weeks on the <i>New York Times</i> best-seller list, alerted Americans to the negative environmental effects of DDT, a potent insecticide that had been used in American agriculture starting in World War II. The concern about the use of DDT that the book raised led John F. Kennedy to establish a presidential advisory panel on pesticides. More significantly, however, <i>Silent Spring</i> raised concerns that the unchecked growth of industry would threaten human health and destroy animal life<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>the title of the work referred to Carson's fear that the continued destruction of the environment would eventually make the birds who sang outside her window extinct. Thus, <i>Silent Spring</i> conveyed the ecological message that humans were endangering their natural environment, and needed to find some way of protecting themselves from the hazards of industrial society. Along with the problem of nuclear war, Carson stated, "The central problem of our age has <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2026;</span></span></span></span></span></span></span></span> become the contamination of man's total environment with <span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2026;</span></span></span></span></span></span></span></span> substances of incredible potential for harm."</p> <p>The 1960s was a period of growth for the environmental movement. The movement began with a newfound interest in preservationist issues. In that decade, membership in former conservationist organizations like the Wilderness Society and the Sierra Club skyrocketed from 123,000 in 1960 to 819,000 in 1970. President Lyndon Johnson also took an interest in preservationist issues. Between 1963 and 1968, he signed into law almost three hundred conservation and beautification measures, supported by more than $12 billion in authorized funds. Among these laws, the most significant was the Wilderness Act of 1964, which permanently set aside certain federal lands from commercial economic development in order to preserve them in their natural state. The federal government also took a new interest in controlling pollution. Congress passed laws that served as significant precedents for future legislative action on pollution issues<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>for instance, the Clean Air Acts of 1963 and 1967, the Clean Water Act of 1960, and the Water Quality Act of 1965.</p> <p>During the 1960s, environmentalism became a mass social movement. Drawing on a culture of political activism inspired in part by the civil rights and antiwar movements, thousands of citizens, particularly young middle-class white men and women, became involved with environmental politics. The popularity of the environmental agenda was apparent by 1970. In that year, the first Earth Day was organized on 22 April to focus the public's attention on threats to the environment. In New York City, 100,000 people thronged Fifth Avenue to show their support for protecting the earth. Organizers estimated that fifteen hundred colleges and ten thousand schools took part in Earth Day, and <i>Time</i> magazine estimated that about twenty million Americans participated in the event in some fashion.</p> <p>Earth Day was organized by <a data-topic="1209739" href="/places/united-states-and-canada/us-political-geography/wisconsin">Wisconsin</a> senator Gaylord Nelson, who wanted to send "a big message to the politicians<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>a message to tell them to wake up and do something." Thanks to widespread public support for environmental goals, the 1970s became a critical decade for the passage of federal legislation. In 1970, President <a data-topic="1208974" href="/people/history/us-history-biographies/richard-milhous-nixon">Richard Nixon</a> signed into law the National Environmental Policy Act (NEPA), which required an Environmental Impact Statement (EIS) for all "major federal actions significantly affecting the quality of the human environment." During the 1970s, twelve thousand such statements were prepared.</p> <p>Along with the growth of the environmental movement, a series of well-publicized environmental crises in the late 1960s focused the nation's attention on the need to control pollution. Examples include the 1969 blowout of an oil well platform off the coast of Santa Barbara, which contaminated scenic <a data-topic="1211661" href="/places/united-states-and-canada/us-political-geography/california">California</a> beaches with oil, and in the same year the bursting into flames of the Cuyahoga River near <a data-topic="1209389" href="/places/united-states-and-canada/us-political-geography/cleveland">Cleveland</a>, <a data-topic="1210235" href="/places/united-states-and-canada/us-political-geography/ohio">Ohio</a>, because of toxic contamination. In the 1970s, Congress passed important legislation to control pollution. The most significant of these new laws included the Clear Air Act of 1970, the Pesticide Control Act of 1972, the Ocean Dumping Act of 1972, the Federal Water Pollution Control Act Amendments of 1972, the Clean Air Act of 1974, the Safe Drinking Water Act of 1974, and the Toxic Substance Control Act of 1976. These laws established national environmental quality standards to be enforced by a federally dominated regulatory process known as command and control. The Clean Air Act, for instance, established national air quality standards for major pollutants that were enforced by a federal agency.</p> <p>Other significant environmental legislation passed in the 1970s included the preservationist measures of the Endangered Species Act of 1973 and the Federal Land Policy and Management Act of 1976. Another significant piece of legislation, the Comprehensive Environmental Response Compensation and Liability Act, or Superfund Act, was passed in 1980. Designed to help control toxic hazards, the act established federal "superfund" money for the cleanup of contaminated waste sites and spills.</p> <p><div id='gpt-ad-inline-1' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-1');
+          });
+        </script>
+      </div><p>To enforce federal regulations, the Environmental Protection Agency (EPA) was created in 1970. An independent federal agency, the EPA was given consolidated responsibility for regulating and enforcing federal programs on air and water pollution, environmental radiation, pesticides, and solid waste. In response to the flurry of environmental regulation passed by Congress in the 1970s, the EPA expanded its operations: it began with a staff of eight thousand and a budget of $455 million and by 1981 had a staff of nearly thirteen thousand and a budget of $1.35 billion. Enforcing environmental regulations proved to be a difficult and complex task, particularly as new legislation overburdened the agency with responsibilities. The enforcement process required the gathering of various types of information<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>scientific, economic, engineering, and political<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>and the agency needed to contend with vigorous adversarial efforts from industry and environmental organizations.</p> <p>The flurry of federal environmental regulation resulted in part from the rise of a powerful environmental lobby. Environmental organizations continued to expand their ranks in the 1970s. Membership in the Sierra Club, for instance, rose from 113,000 in 1970 to 180,000 in 1980. During the 1970s, mainstream environmental organizations established sophisticated operations in Washington, D.C. Besides advocating new environmental legislation, these groups served a watchdog function, ensuring that environmental regulations were properly enforced by the EPA and other federal agencies. While these organizations focused on their own specific issues and employed their own individual strategies, a Group of Ten organizations met regularly to discuss political strategy. This group consisted of the National Audubon Society, Defenders of Wildlife, the Environmental Defense Fund, the Environmental Policy Institute, the Izaak Walton League, the National Wildlife Federation, the National Resources Defense Council, the National Parks Conservation Association, the Sierra Club, and the Wilderness Society. During this decade, mainstream environmental organizations became increasingly professionalized, hiring more full-time staff. They hired lobbyists to advocate for environmental legislation, lawyers to enforce environmental standards through the courts, and scientists to prove the need for environmental regulation and counter the claims of industry scientists.</p> <p>In the late 1960s and early 1970s, a number of critics obtained an audience by asserting that the ecosystem placed limits on economic development and often giving a bleak outlook for the earth's future. For instance, Paul Ehrlich's 1968 work, <i>The Population Bomb,</i> which brought the issue of global overpopulation to the nation's attention, apocalyptically claimed that "the battle to feed all of humanity is over" and made a number of dire predictions that turned out to be false. The Club of <a data-topic="1211235" href="/places/spain-portugal-italy-greece-and-balkans/italian-political-geography/rome">Rome</a>'s best selling <i>The Limits of Growth</i> (1972), written by a team of MIT researchers, offered a melancholy prediction of environmental degradation resulting from population pressure, resource depletion, and pollution. But while such critics reached an audience for a short period of time, their calls to address long-term threats to the earth's ecosystem, such as world population growth, went unheeded.</p> <h2>The 1980s: Environmental Backlash and Radical Environmentalism</h2> <p>In the 1970s, environmental goals enjoyed a broad bipartisan consensus in Washington. The election of Ronald Reagan in 1980 changed that. Espousing a conservative, pro-business ideology, Reagan sought to free American corporations from an expanding regulatory apparatus. Reagan capitalized on the late 1970s Sagebrush Rebellion</p>     <hr/> <p>of westerners who sought to have federal land transferred to the states in order to avoid federal environmental regulations. Reagan appointed a leader of the Sagebrush Rebellion, James Watt, as secretary of the Interior. Watt took a strong pro-development stand hostile to the traditional resource preservation orientation of the Interior Department. He used his post to portray all environmentalists as radicals outside the American mainstream. Reagan also appointed as EPA head Anne Burford, a person committed to curtailing the agency's enforcement of environmental regulations. Between 1980 and 1983, the EPA lost one-third of its budget and one-fifth of its staff. Underfunded and understaffed, these cuts had a lasting effect on the agency, leaving it without the resources to fulfill all of its functions.</p> <p>Yet while Reagan was able to stalemate the environmental agenda, his anti-environmentalist posture proved unpopular. The American public still overwhelmingly supported environmental goals. Environmentalist organizations were able to expand their membership in response to Reagan's policies. Between 1980 and 1990, the Sierra Club's membership multiplied from 180,000 to 630,000, while the Wilderness Society's membership soared from 45,000 to 350,000. In 1983, Reagan was forced to replace Watt and Buford with more moderate administrators. In the mid-1980s, a number of new environmental laws were passed, including the Resource Conservation and Recovery Act Amendments of 1984, the Safe Drinking Water Act Amendments of 1986, and the Superfund Amendments and Reauthorization Act of 1986. As a testament to the continuing popularity of environmental goals, Reagan's <a data-topic="1212839" href="/social-sciences-and-law/political-science-and-government/political-parties-and-movements/republican">Republican</a> vice president, George Bush Sr., declared himself an "environmentalist" in his 1988 campaign for president. On Earth Day 1990, President Bush stated that "Every day is Earth Day" and even major industries that were the target of environmental regulation, such as oil and gas, took out advertisements in major newspapers stating, "Every day is Earth Day for us."</p> <p>The 1980s saw a splintering of the environmental movement. A number of radical environmentalist groups challenged the mainstream environmental organizations, claiming that they had become centralized bureaucracies out of touch with the grassroots and were too willing to compromise the environmental agenda. One of the groups to make this challenge was Earth First!, which appeared on the national scene in 1981 espousing the slogan, "No compromise in the defense of Mother Earth." Earth First! employed a variety of radical tactics, including direct action, civil disobedience, guerilla theater, and "ecotage," the sabotage of equipment used for clear cutting, road-building, and dam construction. Two other radical environmentalist organizations were Friends of the Earth and Greenpeace<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>each was a global organization formed in the 1970s that had significant support in the <a data-topic="1208998" href="/places/united-states-and-canada/us-political-geography/united-states">United States</a>. Friends of the Earth was founded by the former Sierra Club director, David Brower. It pursued activist strategies and argued that protection of the environment required fundamental political and social change. Greenpeace's aggressive campaigns against nuclear testing, whaling, sealing, nuclear power, and radioactive waste disposal received increasing attention during the 1980s. In addition, some radical environmentalists showed a new interest in deep ecology, which challenged the traditional anthropomorphism of the environmental movement.</p> <p>The 1980s also saw the growth of grassroots organizations that organized to oppose threats to their local environment: a contaminated waste site, a polluting factory, or the construction of a new facility deemed to be harmful. Because their concerns were locally oriented and generally consisted of the removal of a specific environmental threat, they were referred to as NIMBY (Not in My Backyard) organizations. The threat of contaminated waste sites raised concerns throughout the country, particularly after the publicity surrounding the evacuation of Love Canal, <a data-topic="1215767" href="/places/united-states-and-canada/us-political-geography/new-york">New York</a>, in the late 1970s after it was revealed that the town had been built on contaminated soil. National organizations arose to support local efforts, including the Citizen's Clearinghouse for Hazardous Waste, founded by former Love Canal resident Lois Gibbs, and the National Toxics Campaign. Grassroots environmental groups continued to form throughout the 1980s. While Citizen's Clearinghouse worked with 600 groups in 1984, by 1988 it was working with over 4,500. NIMBYism often limited the impact of these groups, since they frequently disbanded once their particular issue of concern was resolved. Yet participation in these organizations often raised the consciousness of participants to larger environmental issues.</p> <p>The late 1980s saw the growth of the environmental justice movement, which argued that all people have a right to a safe and healthy environment. Those concerned with environmental justice argued that poor and minority Americans are subjected to disproportionate environmental risks. It concentrated on such issues as urban air pollution, lead paint, and transfer stations for municipal garbage and hazardous waste. Environmental justice organizations widened the support base for environmentalism, which had traditionally relied upon the educated white middle class. The success of the environmental justice movement in bringing the racial and class dimension of environmental dangers to the nation's attention was reflected in the creation of the Office of Environmental Justice by the EPA in 1992.</p> <h2>The Global Environment and the 1990s</h2> <p><div id='gpt-ad-inline-2' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-2');
+          });
+        </script>
+      </div><p>By the end of the 1980s, the environmental movement had increasingly come to focus its attention on global issues that could only be resolved through international diplomacy. Issues such as global warming, acid rain, ozone depletion, biodiversity, marine mammals, and rain forests could not be dealt with merely on the national level. As residents in the world's largest economy, and consequently the world's largest polluter, consumer of energy, and generator of waste, American environmentalists felt a special responsibility to ensure their country's participation in international agreements to protect the earth.</p> <p>While the United States was a reluctant participant in international efforts to address environmental concerns compared with other industrial nations, the federal government did take steps to address the global nature of the environmental issue. In 1987, the United States joined with 139 other nations to sign the Montreal Protocol on Substances that Deplete the Ozone Layer. The protocol pledged the signees to eliminate the production of chlorofluorocarbons, which cause destruction to the ozone layer. In 1992, representatives from 179 nations, including the United States, met in <a data-topic="1209135" href="/places/latin-america-and-caribbean/south-american-political-geography/brazil">Brazil</a> at the Conference on Environment and Development, where they drafted a document that proclaimed twenty-eight guiding principles to strengthen global environmental governance. Responding to criticism that the North American Free Trade Agreement (NAFTA) was likely to harm the North American environment, President <a data-topic="1210712" href="/people/history/us-history-biographies/bill-clinton">Bill Clinton</a> in 1993 negotiated a supplemental environmental agreement with Mexico and <a data-topic="1209363" href="/places/united-states-and-canada/canadian-political-geography/canada">Canada</a> to go along with NAFTA. While some environmental organizations endorsed that agreement, others claimed that it did not go far enough in countering the negative environmental effects of NAFTA. In 1997, Clinton committed the United States to the Kyoto Protocol, which set forth timetables and emission targets for the reduction of greenhouse gases that cause global warming. President George W. Bush, however, rescinded this commitment when he took office in 2001.</p> <p>Environmentalists were an important part of an "antiglobalization" coalition that coalesced at the end of the 1990s. It argued that the expansion of the global economy was occurring without proper environmental and labor standards in place. In 1999, globalization critics gained international attention by taking to the streets of <a data-topic="1236596" href="/places/united-states-and-canada/us-political-geography/seattle">Seattle</a> to protest a meeting of the World Trade Organization.</p> <p>In 1996, environmentalists critical of mainstream politics formed a national Green Party, believing that a challenge to the two-party system was needed to push through needed environmental change. In 1996 and 2000, the Green Party ran Ralph Nader as its presidential candidate. In 2000, Nader received 2.8 million votes, or 2.7 percent of the vote. The party elected a number of candidates to local office, particularly in the western states.</p> <h2>Achievements and Challenges</h2> <p>As the twentieth century ended, American environmentalists could point to a number of significant accomplishments. The goal of protecting the planet remained a popular one among the general public. In 2000, Americans celebrated the thirty-first Earth Day. In a poll taken that day, 83 percent of Americans expressed broad agreement with the environmental movement's goals and 16 percent reported that they were active in environmental organizations. In 2000, the thirty largest environmental organizations had close to twenty million members. Meanwhile, the country had committed significant resources to environmental control. In 1996, the U.S. spent $120 billion on environmental control<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>approximately 2 percent of its gross domestic product.</p> <p>Environmental regulations put in place in the 1960s and 1970s had led to cleaner air and water. In 1997, the EPA reported that the air was the cleanest it had been since the EPA began record keeping in 1970; the emissions of six major pollutants were down by 31 percent. In 2000, the EPA reported that releases of toxic materials into the environment had declined 42 percent since 1988. The EPA also estimated that 70 percent of major lakes, rivers, and streams were safe for swimming and fishing<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span></span></span></span>twice the figure for 1970. The dramatic cleanup of formerly contaminated rivers such as the Cuyahoga and the Potomac was further evidence that antipollution efforts were having their desired effects.</p> <p>Yet many environmentalists remained pessimistic about the state of the planet. Despite the nation's progress in reducing pollution, at the end of the 1990s sixty-two million Americans lived in places that did not meet federal standards for either clean air or clean water. The Super-fund program to clean up toxic areas had proven both costly and ineffective. In the mid-1990s, of the thirteen hundred "priority sites of contamination" that had been identified by the EPA under the program, only seventy-nine had been cleaned up. The political stalemate on environmental legislation that persisted for much of the 1980s and 1990s stymied efforts to update outdated pollution control efforts. In addition, a number of media sources in the late 1990s reported that America's national parks were underfunded and overcrowded because of cuts in the federal budget.</p> <p>A more serious problem was related to do the nation's unwillingness to address long-term threats to the environment such as global warming, population growth, and the exhaustion of fossil fuel resources. Global warming threatened to raise ocean levels and generate violent and unpredictable weather, affecting all ecosystems; unrestrained world population growth would put greater pressure on the earth's limited natural resources; and the eventual exhaustion of fossil fuel resources would require the development of new forms of energy. The administration of George W. Bush represented the United States' lack of attention to these issues: not only did Bush pull the nation out of the Kyoto Protocol designed to control global warming, but his energy policy consisted of an aggressive exploitation of existing fossil fuel resources without significant efforts to find alternate sources of energy.</p> <p>By the end of the twentieth century, many environmentalists showed a new concern with the goal of sustainable development, which sought long-term planning to integrate environmental goals with social and economic ones. Yet even as environmental organizations addressed global issues such as global warming, population growth, and the exhaustion of fossil fuel resources, the American public remained more concerned with more tangible issues such as air and water pollution. Indeed, the environmental movement had been successful because it had promised a tangible increase in the everyday quality of life for Americans through a cleaner, safer, and more beautiful environment. Mobilizing popular support to combat more abstract and long-term ecological threats thus presented environmentalists with a challenge. If they proved unable to prevent future degradation of the earth's environment from these long-term threats, few environmentalists would consider their movement a real success.</p> 
+ <h2>BIBLIOGRAPHY</h2> <p><div id='gpt-ad-inline-3' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-3');
+          });
+        </script>
+      </div><p>Dunlap, Riley E., and Angela G. Mertig. <i>American Environmentalism: The U.S. Environmental Movement, 1970<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2012;</span></span></span></span></span></span></span></span>1990.</i> Philadelphia: Taylor and Francis, 1992.</p> <p>Graham, Otis L., Jr., ed. <i>Environmental Politics and Policy, 1960s<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2012;</span></span></span></span></span></span></span></span>1990s.</i> University Park: Pennsylvania State University Press, 2000.</p> <p>Hays, Samuel P., and Barbara D. Hays. <i>Beauty, Health, and Permanence: Environmental Politics in the United States, 1955<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2012;</span></span></span></span></span></span></span></span>1985.</i> New York: Cambridge University Press, 1987.</p> <p>McCormick, John. <i>Reclaiming Paradise: The Global Environmental Movement.</i> Bloomington: Indiana University Press, 1989.</p> <p>Rosenbaum, Walter A. <i>Environmental Politics and Policy.</i> 5th ed. Washington, D.C.: CQ Press, 2002.</p> <p>Rothman, Hal K. <i>Saving the Planet: The American Response to the Environment in the Twentieth Century.</i> <a data-topic="1208119" href="/places/united-states-and-canada/us-political-geography/chicago">Chicago</a>: Ivan R. Dee, 2000.</p> <p>Sale, Kirkpatrick. <i>The Green Revolution: The American Environmental Movement, 1962<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2012;</span></span></span></span></span></span></span></span>1992.</i> New York: Hill and Wang, 1993.</p> <p>Szasz, Andrew. <i>Eco Populism: Toxic Waste and the Movement for Environmental Justice.</i> <a data-topic="1219347" href="/places/united-states-and-canada/us-political-geography/minneapolis">Minneapolis</a>: University of Minnesota Press, 1994.</p> <p>Worster, Donald. <i>Nature's Economy: A History of Ecological Ideas.</i> 2d ed. New York: Cambridge University Press, 1994.</p> 
+ <p><i>Daniel</i> <i>Geary</i> </p> <p><i>See also</i> <b>Air Pollution</b>  ; <b>Audubon Society</b>  ; <b>Demography and Demographic Trends</b>  ; <b>Earth Day</b>  ; <b>Endangered Species</b>  ; <b>Environmental Protection Agency</b>  ; <b>Global Warming</b>  ; <b>Love Canal</b>  ; <b>Ozone Depletion</b>  ; <b>Sanitation, Environmental</b>  ; <b>Sierra Club</b>  ; <b><i>Silent Spring</i> </b>  ; <b>Superfund</b>  ; <b>Toxic Substance Control Act</b>  ; <b>Water Pollution</b>  .</p> 
+
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs351391">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
+                    </div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
+                    </div>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/history/dictionaries-thesauruses-pictures-and-press-releases/environmental-movement">Environmental Movement.</a>"
+                        <u>
+                            Dictionary of American History</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        24 Apr. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "Environmental Movement." <u>
+                            Dictionary of American History</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (April 24, 2017). <a href="/history/dictionaries-thesauruses-pictures-and-press-releases/environmental-movement">
+                            http://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/environmental-movement</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "Environmental Movement." <u>
+                            Dictionary of American History</u>.
+                        
+                        . Retrieved
+                        April 24, 2017
+                        from Encyclopedia.com: <a href="/history/dictionaries-thesauruses-pictures-and-press-releases/environmental-movement">
+                            http://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/environmental-movement</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
+
+
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-351391">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+	<div class="box" id="LearnCitationsContainer">
+		
+	</div>
+</div>
+</div>
+  </div>
+    <div class="articleWrapper" id="articleWrapper-684489">
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<span class="document-id" data-val="1G23408100094"></span>
+<h2 class="doctitle">Environmental Movement
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publisher" data-pub="2785"></span><span class="publication">Pollution A to Z</span> <br />
+COPYRIGHT 2004 The Gale Group Inc.</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper">
+
+
+<h1>Environmental Movement</h1><hr/>
+<p>History is marked by movements that challenge the dominant political ideology in ways that cannot go unnoticed. Civil rights, women's rights<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span>such movements are often rooted in small beginnings, the passion of few, which becomes the cause of many. Born from late-nineteenth-century concern over resource exploitation, the environmental movement has become an overarching term for the growing public interest in protecting <a data-topic="1207885" href="/earth-and-environment/geology-and-oceanography/geology-and-oceanography/earth">Earth</a> and its natural resources.</p>
+<p>Naturalists like John Muir, in the late 1800s and early 1900s, and forester Aldo Leopold, in the 1930s and 1940s, invested their time and spirit extolling the virtues of the U.S. wilderness. Both men shared a common vision for protecting the dynamic landscape of mountains and grasslands that was a distinguishing characteristic of the <a data-topic="1208998" href="/places/united-states-and-canada/us-political-geography/united-states">United States</a>. The ensuing battles over damming rivers and logging forests helped shape the modern environmental ethic.</p> <br/>
+
+
+
+
+<h2>A Crusade for Reform</h2>
+<p>As the nation grew, the gap between people and the natural environment was widening. The introduction of railroads, telegraphs, and stockyards, helped transform cities into major industrial centers. Populations within cities increased, as immigrants flocked to them seeking employment. The resulting noise, grit, and industrial waste compelled women in the cities to take action. In <a data-topic="1208119" href="/places/united-states-and-canada/us-political-geography/chicago">Chicago</a>, social worker Jane Addams was prepared to do just that. Coupled with the efforts of Alice Hamilton and Mary McDowell, Hull House was formed in 1888.</p>
+<p>The creation of Hull House helped mark what is known as the Settlement House era. Across the United States, settlement houses sought to reform communities by raising public awareness about problems to find resolutions. Working-class neighborhoods were in the most dire straits, with overcrowding and poor sanitation. Hull House was concerned with the need for solid waste and sewage management in poor working neighborhoods. To remedy this, Addams became trash inspector for her Chicago ward. Likewise, McDowell motivated people to consider reduction, and pressured industries to take responsibility for their trash and sewage disposal.</p>
+<p>The crusade for reforming working-class neighborhoods continued as McDowell opened a new settlement house in the meat-packing section of Chicago. Between the polluted waters of the Chicago River and the fields of slaughterhouse waste, McDowell began to make a strong connection between the conditions of work and daily life. Most people working in the industrial sections of the city couldn't afford to live anywhere else. Industrial byproducts that contaminated the city's air and water were unregulated, and industries weren't compelled to address the problem. Under Teddy Roosevelt, reformers
+
+
+
+like Addams were drawn to the Progressive Party. Joining the political ranks, reformers provided greater visibility to the problems of pollution and social injustice. Consequently, leagues representing women and consumer interests gained popularity. In the 1920s the National Consumer's League exposed the use of dangerous chemicals in the watch industry, and the Gauley Bridge deaths put the national spotlight on the role played by industry in the health of its employees.</p> <br/>
+
+
+
+
+<h2>An Age of Abundance</h2>
+<p>At the end of <a data-topic="1208027" href="/history/modern-europe/wars-and-battles/world-war-ii">World War II</a>, the United States underwent rapid economic growth. The postwar abundance could be easily pinpointed by the mass consumption of everything from energy and detergents to plastics and pesticides. Goods were created and marketed to provide convenience, and amenities were plentiful. As Samuel Hays observed, a "greater distance between consumption and its environmental consequences increasingly depersonalized the links between the two" (Hays, p. 16). If people couldn't see an immediate environmental impact, society could ignore it.</p>
+<p>The postwar impact on the environment was difficult to ignore. Within ten years, three major bouts of air pollution paralyzed the United States and <a data-topic="1208026" href="/places/oceans-continents-and-polar-regions/oceans-and-continents/europe">Europe</a>. In 1943 a thick smog trapped residents of <a data-topic="1215160" href="/places/united-states-and-canada/us-political-geography/los-angeles">Los Angeles</a> in an unhealthy shroud of air pollution that came to be known as Black Monday. Five years later, in the <a data-topic="1233875" href="/places/united-states-and-canada/us-political-geography/pennsylvania">Pennsylvania</a> town of Donora, another deadly smog hung over the Monongahela Valley leaving six thousand people ill and twenty dead. In perhaps the worst case of air pollution, a deadly fog descended on London in 1952, killing several thousand. Yet in spite of these and other environmental problems, the general public and policymakers remained relatively unconcerned.</p>
+<p>What did finally awaken the public was the growth of an antinuclear movement in the early 1950s. As the United States performed aboveground testing of nuclear weapons, the implications for human life were startling. Protest efforts in neighboring <a data-topic="1209132" href="/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/great-britain">Great Britain</a> and the aftermath of Bikini Atoll created widespread fear about the risk of radioactive fallout from nuclear testing. Housewives and high school and college students mobilized against testing, and communities protested. Everyone, it seemed, had a stake in the debate.</p> <br/>
+
+
+
+
+<h2>The Power of Activism</h2>
+<p>By the time the Nuclear Test Ban Treaty between the United States and the <a data-topic="1213150" href="/places/commonwealth-independent-states-and-baltic-nations/cis-and-baltic-political-geography/union">Soviet Union</a> was signed in 1963, citizens were learning about chemical fallout right in their own backyards. In 1962 Rachel Carson's <i>Silent Spring</i> introduced a public dialogue about the impacts of toxic chemicals, specifically DDT, on wildlife and the environment. C<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xE9;</span></span></span></span></span>sar E. Ch<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xE1;</span></span></span></span></span>vez, leader of the United Farm Worker's Union, raised awareness of the diseases farmworkers suffered due to chemical exposure. Eventually farmworkers were able to use public awareness as a bargaining tool in their work contracts, calling for a national boycott on grapes.</p>
+<p><div id='gpt-ad-inline-1' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-1');
+          });
+        </script>
+      </div><p>Carson, like the reformers before her, felt an explicit need to make information accessible to the public, and many other scientists agreed. Paul Ehrlich's <i>Population Bomb,</i> published in 1968, sounded the alarm about over-population and the environmental damage that would inevitably result from a population too large for Earth to support. Garrett Hardin's "The Tragedy of the Commons," also published in 1968, explored the concept of the environment as a common area, subject to misuse in the absence of regulation. The proliferation of publications and community protests sent the message to state and national government that the pollution problem needed to appear on their agendas.</p>
+<p>Environmental issues were swept up in a time of great social unrest. Marked by counterculture ethics and the tool of protest, citizen groups began to make connections between technological progress and pollution. Traditional wilderness preservation environmental groups dating back to the turn of the twentieth century, like the Sierra Club and the National Audubon Society, were now working alongside a new breed of antipollution activists. Protesters considered quality-of-life issues to be environmental issues. If the industries supporting their lifestyles were also degrading their neighborhoods, change needed to occur. Among the organic farms, counterculture communes, and underground publications, society was seeking to reestablish a connection with the environment.</p> <br/>
+
+
+
+
+<h2>The New National Agenda</h2>
+<p>If the 1960s arrived with a compelling or infamous start, it exited in the same fashion. In 1967 an oil tanker off of Great Britain ran aground, spilling 40,000 tons of oil. Attempts to contain the accident and salvage the remaining oil were useless. The tanker spilled another 77,000 tons of oil that washed
+
+
+
+
+up onto British and French shores. Americans were assured that such a tragedy could never occur in their waters, but two years later, in 1969, the Union Oil Company's Platform A leaked over 200,000 gallons of crude oil that spread across forty miles of Pacific coastline. The beaches in Santa Barbara, <a data-topic="1211661" href="/places/united-states-and-canada/us-political-geography/california">California</a>, were soaked with oil, choking thousands of birds and mammals. Less than five months later, the Cuyahoga River in <a data-topic="1210235" href="/places/united-states-and-canada/us-political-geography/ohio">Ohio</a> caught on fire from chemical and sewage pollution. The relationship between industries, communities, and the environment was far from harmonious.</p>
+<p>In 1969, in response to the public's demand for action after the Storm King case on the <a data-topic="1226818" href="/places/united-states-and-canada/us-physical-geography/hudson-river">Hudson River</a>, President Nixon signed the National Environmental Policy Act (NEPA). With NEPA, the national government was taking a stand for the first time to integrate public concerns into the national environmental agenda. NEPA gave the national government the responsibility to help eliminate environmental destruction and seek a balance between the needs of industry and the environment. The Council on Environmental Quality was created to help advance this cause.</p>
+<p>The 1970s are noted by many as the doomsday decade. Nixon's enactment of NEPA was a first step. Interest in environmental issues had remained strong from the debate over nuclear testing in the 1950s to the uninhibited use of DDT and the devastating effects of pollution on aquatic ecosystems. Environmental issues had been tied into larger social movements, but as the United States moved into a new decade, concern for the environment became a stand-alone issue. Urban pollution issues, both air and water, were tied into social interests/human health before gaining acknowledgement as purely environmental issues that had consequences for life other than humans. The intrinsic value of nature, with the exception of the wilderness preservation movement at the turn of the twentieth century, was not truly addressed until this time.</p>
+
+
+
+<h2>The Advent of Pollution Policies</h2>
+<p>The public's environmental agenda and steady pressure to create national pollution laws led U.S. Senator Gaylord Nelson to make a bold move. He had an idea for a national teach-in on environmental issues. A task force calling itself Environmental Action was formed to develop the idea. By seeking official support, avoiding confrontation, and scattering events across the United States, the committee hoped to involve the entire society. Many established environmental groups refused to participate, cautious of the activism that typified the era. Many of the older environmental organizations worked from a much more traditional standpoint<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span>within political and social parameters. They believed the extremism of groups like EarthFirst! and Greenpeace threatened the progress they had made thus far and would alienate mainstream public support. Despite their hesitancy, the day met with great success. In the end, more than twenty million Americans participated in the nation's first Earth Day events on April 22, 1970.</p>
+<p>Shortly after the Earth Day celebration demonstrated public concern about environmental problems, Barry Commoner, a notable scientist and professor, published <i>The Closing Circle: Nature, Man, and Technology.</i> Commoner wrote about the need for humans to return to a state of equilibrium with nature.</p>
+<p>Citizen action groups like the Group Against Smog and Pollution (GASP) and the Campaign Against Pollution (CAP) lobbied their local governments for change. In <a data-topic="1234327" href="/places/united-states-and-canada/us-political-geography/pittsburgh">Pittsburgh</a>, GASP activists brought attention to pollution by selling cans of clean air and opening their own complaint department. The League of Conservation Voters published lists of top-polluting industries and rated politicians based on their environmental voting record.</p>
+<p>The national government responded and took steps towards regaining the balance discussed by Commoner and those before him. The existing Clean Air Act and Clean Water Act were amended to better address the causes and effects of pollution, and regulatory measures were put into place. Between 1972 and 1976, several new federal acts were also passed, regulating ocean dumping, pesticides, and the transportation of waste. The pressure of local groups, acting independently of larger mainstream groups, paid off. Several pieces of environmental legislation were passed, addressing the transportation and cleanup of chemicals and waste.</p> <br/>
+
+
+
+
+<h2>Legal Support for Environmentalists</h2>
+<p><div id='gpt-ad-inline-2' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-2');
+          });
+        </script>
+      </div><p>Special-tactic groups began to emerge to accommodate the transition of environmental issues onto the national agenda. One such group was the Natural Resources Defense Council (NRDC). A generous grant from the Ford Company led to the creation of the NRDC, a science-based initiative dealing with the new legal aspects of the movement. Even local citizen groups began to focus their interests. The Brookhaven Town Natural Resources Committee (BTNRC), a coalition of scientists and residents of <a data-topic="1230278" href="/places/united-states-and-canada/us-political-geography/long-island">Long Island</a>, <a data-topic="1215767" href="/places/united-states-and-canada/us-political-geography/new-york">New York</a>, was a leading antipollution group. Compelled to push for the litigation of chemical use, especially pesticides, they reestablished themselves as the Environmental Defense Fund (EDF). Throughout the 1970s the EDF, also with the help of Ford, gained notoriety for its success in waging the war on pollution in court.</p>
+<p>The legal and scientific services offered by groups like the NRDC and EDF became important assets to the environmental movement during the 1970s. From 1976 to 1978, communities were finding themselves more widely exposed to pollution than they had first realized. Hazardous chemicals were being dumped in Virginia, the Hudson River was heavily contaminated with PCBs, and cows in upper <a data-topic="1219891" href="/places/united-states-and-canada/us-political-geography/michigan">Michigan</a> were poisoned by polybrominated biphenyls (PBB). In Love Canal, New York, where many homes had been built on a chemical waste dump, Lois Gibbs worked endlessly to rectify the situation, lobbying polluters, politicians, and attorneys for support. In 1978 President <a data-topic="1215905" href="/people/history/us-history-biographies/jimmy-carter">Jimmy Carter</a> declared a state of emergency. Gibbs later formed the Citizens Clearinghouse for Hazardous Wastes (CCHW), which helped other communities with toxic waste problems, while calling for greater toxics controls. Love Canal led directly to the passage of the Superfund law.</p> <br/>
+
+
+
+
+<h2>The International Movement</h2>
+<p>Europeans were struggling with their own environmental disasters. Swedish scientists had been studying the connection between common air pollutants like sulfur and nitrogen dioxides and high levels of acidity in many of their waters. Documenting an overall decline in the biological diversity of <a data-topic="1219729" href="/places/germany-scandinavia-and-central-europe/scandinavian-political-geography/scandinavia">Scandinavia</a>, the scientists hoped to capture international attention. The 1972 U.N. Conference on the Human Environment, hosted by <a data-topic="1211379" href="/places/germany-scandinavia-and-central-europe/scandinavian-political-geography/sweden">Sweden</a>, was the perfect place to present their findings. Air pollutants transported by precipitation and deposited across the land came to be known as acid rain. The idea that pollution did not remain a local problem but could be carried long distances alarmed the international community. By 1979 thirty-five countries signed the first international air-pollution agreement, the Geneva Convention on Long-Range Transboundary Air Pollution.</p>
+<p>During the course of the 1970s, the face of environmentalism had shifted to civil action. Just as it seemed that environmental policies were effectively in place, the political climate was about to make a complete turn<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span>but not before the fear of nuclear power reared its head again. In 1978 a partial meltdown at the nuclear plant in Three Mile Island, Pennsylvania, generated a ripple of fear and uncertainty throughout the public. Residents were evacuated, and radiation-contaminated water was released in the nearby Susquehanna
+
+
+
+River. One year after the enactment of the Comprehensive Environmental Response Compensation Liability Act, also known as Superfund, a national law dealing with the cleanup of contaminated areas, the alarms sounded again. This time it was exposure to toxins in Times Beach, <a data-topic="1228629" href="/places/united-states-and-canada/us-political-geography/missouri">Missouri</a>. Over 2,000 residents were evacuated when the roads were contaminated with oil-containing dioxin. The government spent around $40 million buying back homes from residents, and the cleanup efforts under Superfund ensued. As of 2003, the town remains vacant.</p> <br/>
+
+
+
+
+<h2>A Renewed Sense of Commitment</h2>
+<p>Environmentalists were rallying for more stringent enforcement of environmental policies, but the Reagan administration failed to express the same level of enthusiasm and support that had characterized the Nixon and Carter presidencies. Economic and political decisions that once involved environmental organizations now seemed to undermine the very spirit and intent of NEPA by sidelining environmental efforts. The membership ranks of environmental groups grew in response to these political threats, and a new environmental agenda focused on acid rain, ozone depletion, and global warming.</p>
+<p>Without the willing support of the national government, environmental groups began to take matters into their own hands. Organizations like Greenpeace and Friends of the Earth, which had always encouraged direct action, had an ally with the radical Earth First!, which used similar tactics. Often referred to as direct-action groups, their methods embraced the prevention of nuclear testing, whaling, and logging through physical means. Their actions met with mixed reviews. Some felt that the movement had out-grown this type of action and that such efforts undermined the legislative progress that had been established. But activists felt that national legislation was being relied on too heavily to provide all the answers. Reintroducing the activism of the earlier movement seemed to be one of the few methods that educated the public about hazards of pollution and kept the debate alive.</p>
+<p>With greater access to information, increasing numbers of antitoxics groups, and pressure from the international community, the pollution problem was not going to disappear. An incident in <a data-topic="1213303" href="/places/asia/indian-political-geography/bhopal">Bhopal</a>, <a data-topic="1210396" href="/places/asia/indian-political-geography/india">India</a>, in 1984 prompted much debate about the need for uniform environmental standards and it brought a dire problem into the spotlight that had for years been ignored: environmental injustice. In Bhopal over 2,000 people died and nearly 250,000 others suffered lung and eye damage when a poorly maintained chemical storage tank overheated. The Union Carbide Company, which operated the plant internationally, was not abiding by the same regulations that applied to its <a data-topic="1219612" href="/places/united-states-and-canada/us-political-geography/west-virginia">West Virginia</a> branch. The accident echoed eerily of the Gauley Bridge deaths in the late 1920s, when Union Carbide knowingly exposed hundreds of African-American miners to dangerous silica deposits.</p>
+<p>The environmental movement expanded throughout the 1990s, becoming more international in its efforts. In 1992 the Earth Summit in Rio de Janeiro was attended by over 142 heads of state. Environmental organizations joined the proceedings with hopes of influencing the outcome. Five years later, organizations reconvened to assess the progress that had been made since the Earth Summit. Bound by the underlying desire to improve the environment, grassroots actions, national organizations, and legal proceedings have combined to present a positive force for change. NGOs were excluded from the 1992 Earth Summit. A satellite conference was established instead. The result was that the NGOs drafted their own alternative plans, put together daily news on their conference and delivered it to the hotels of those attending the main conference, and essentially<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span>not much was truly accomplished at the first Earth Summit. However, the satellite conference put NGOs on the board as the key players in the environmental movement. They were perceived as more knowledgeable and could network more easily in the absence of red tape that government parties encountered.</p>
+<p>The movement represents an amalgamation of issues, from species protection and land conservation to pollution. It has also propelled itself by employing a variety of tactics to attract attention, from petitions and protests to publications and organizations. The prospect of danger to human life in the form of pollutants has motivated people from all classes and walks of life to engage in the movement to improve the quality of life. The ability to relate the causes of pollution back to human industry gave communities a sense of empowerment. Witnessing the perils of pollution in several different forms, the public has been moved to respond. The issue of pollution has compelled nations to consider the wider implications of their decisions and actions. It has shaped the course of the environmental movement, as the realization has grown that the environment extends beyond a county sign or a border patrol<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2014;</span></span></span></span></span>and that the issue of pollution is about the shared responsibilities of consumers, manufacturers, and all residents of the larger, global community.</p>
+
+
+<p><div id='gpt-ad-inline-3' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-3');
+          });
+        </script>
+      </div><p>see also 
+Activism; 
+Addams, Jane; 
+Agenda 21; 
+Antinuclear Movement; 
+Brower, David; 
+Carson, Rachel; 
+Ch<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xC1;</span></span></span></span></span>vez, C<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xC9;</span></span></span></span></span>sar E.; 
+Citizen Suits; 
+Commoner, Barry; 
+Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA); 
+Dioxin; 
+Disasters: Chemical Accidents and Spills; 
+Disasters: Environmental Mining Accidents; 
+Disasters: Natural; 
+Disasters: Nuclear Accidents; 
+Disasters: Oil Spills; 
+Dioxin; 
+Donora, Pennsylvania; 
+Earth Day; 
+EarthFirst!; 
+Earth Summit; 
+Ehrlich, Paul; 
+Environmental Racism; 
+Gauley Bridge, West Virginia; 
+Gibbs, Lois; 
+Government; 
+Green Party; 
+Greenpeace; 
+Hamilton, Alice; 
+LaDuke, Winona; 
+Nader, Ralph; 
+National Environmental Policy Act (NEPA); 
+National Toxics Campaign; 
+New Left; 
+Politics; 
+President's Council on Environmental Quality; 
+Progressive Movement; 
+Property Rights Movement; 
+Public Interest Research Groups (PIRGs); 
+Public Participation; 
+Public Policy Decision Making; 
+Right to Know; 
+Settlement House Movement; 
+Smart Growth; 
+Snow, John; 
+Times Beach, Missouri; 
+Tragedy of the Commons; 
+Treaties and Conferences; 
+Union of Concerned Scientists; 
+Wise Use Movement; 
+Zero Population Growth.</p>
+
+
+
+
+<h2>Bibliography</h2>
+<p>Allen, Thomas B. (1987). <i>Guardian of the Wild: The Story of the National Wildlife Federation, 1936<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span>1986.</i> Bloomington: Indiana University Press.</p>
+<p>Brandon, Ruth. (1987). <i>The Burning Question: The Anti-Nuclear Movement Since 1945.</i> London: Heinemann.</p>
+<p>Buck, Susan J. (1991). <i>Understanding Environmental Administration and Law.</i> Washington, DC: Island Press.</p>
+<p>Carson, Rachel. (1962). <i>Silent Spring.</i> Boston: Houghton Mifflin Co.</p>
+<p>Chiras, Daniel D. (1991). <i>Environmental Science.</i> Redwood City, CA: Benjamin/Cummings.</p>
+<p>Commoner, Barry. (1971). <i>The Closing Circle: Nature, Man, and Technology.</i> New York: Knopf.</p>
+
+
+<p>de Steiguer, J. E. (1997). <i>The Age of Environmentalism.</i> New York: McGraw-Hill.</p>
+<p>de Villiers, Marq. (2000). <i>Water.</i> Boston: Houghton Mifflin Co.</p>
+<p><div id='gpt-ad-inline-4' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-4');
+          });
+        </script>
+      </div><p>Ehrlich, Paul. (1968). <i>The Population Bomb.</i> New York: Ballantine Books.</p>
+<p>Gottlieb, Robert. (1993). <i>Forcing the Spring: The Transformation of the American Environmental Movement.</i> Washington, DC: Island Press.</p>
+<p>Gottlieb, Robert. (2001). <i>Environmentalism Unbound.</i> Cambridge, MA: MIT Press.</p>
+<p>Grossman, Mark. (1994). <i>The ABC-CLIO Companion to the Environmental Movement.</i> San Francisco: ABC-CLIO.</p>
+<p>Guha, Ramachandra. (2000). <i>Environmentalism: A Global History.</i> New York: Longman.</p>
+<p>Hardin, Garrett. (1968). "The Tragedy of the Commons." In <i>Science</i> 162:1243<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span>1248.</p>
+<p>Hays, Samuel P. (2000). <i>A History of Environmental Politics Since 1945.</i> Pittsburgh, PA: University of Pittsburgh Press.</p>
+<p>Kline, Benjamin. (1997). <i>First along the River.</i> San Francisco: Acada Books.</p>
+<p>Markham, Adam. (1994). <i>A Brief History of Pollution.</i> New York: St. Martin's Press.</p>
+<p><div id='gpt-ad-inline-5' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-5');
+          });
+        </script>
+      </div><p>Nash, Roderick. (1982). <i>Wilderness and the American Mind.</i> New Haven, CT: Yale University Press.</p>
+<p>Nicholson, Max. (1987). <i>The New Environmental Age.</i> Cambridge, U.K.: Cambridge University Press.</p>
+<p>Papadakis, Elim. (1998). <i>Historical Dictionary of the Green Movement.</i> Lanham, MD: Scarecrow Press.</p>
+<p>Rubin, Charles. (1994). <i>The Green Crusade.</i> New York: Macmillan.</p>
+<p>Willets, Peter. (1982). <i>Pressure Groups in the Global System.</i> London: St. Martin's Press.</p> <br/>
+
+
+
+
+<h3>Other Resources</h3>
+<p>Citizen's Campaign. "Coalitions and Affiliations." Available from <a href="http://www.citizenscampaign.org">http://www.citizenscampaign.org</a>.</p>
+<p>Environmental Defense Fund. "Notable Victories." Available from <a href="http://www.environmentaldefense.org">http://www.environmentaldefense.org</a>.</p>
+<p>Natural Resources Defense Council. "Environmental Legislation." Available from <a href="http://www.nrdc.org">http://www.nrdc.org</a>.</p>
+<p>United Nations. (1997). "UN Conference on Environment and Development (1992)." Available from <a href="http://www.un.org/geninfo/bp/enviro.html">http://www.un.org/geninfo/bp/enviro.html</a>.</p>
+<p>Worldwatch Institute. "WTO Confrontation Shows Growing Power of Activist Groups." Available from <a href="http://www.worldwatch.org">http://www.worldwatch.org</a>.</p>
+
+
+<p><i>Christine M. Whitney</i> </p>
+
+
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs684489">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
+                    </div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
+                    </div>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/environment/educational-magazines/environmental-movement">Environmental Movement.</a>"
+                        <u>
+                            Pollution A to Z</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        24 Apr. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "Environmental Movement." <u>
+                            Pollution A to Z</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (April 24, 2017). <a href="/environment/educational-magazines/environmental-movement">
+                            http://www.encyclopedia.com/environment/educational-magazines/environmental-movement</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "Environmental Movement." <u>
+                            Pollution A to Z</u>.
+                        
+                        . Retrieved
+                        April 24, 2017
+                        from Encyclopedia.com: <a href="/environment/educational-magazines/environmental-movement">
+                            http://www.encyclopedia.com/environment/educational-magazines/environmental-movement</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
+
+
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-684489">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+	<div class="box" id="LearnCitationsContainer">
+		
+	</div>
+</div>
+</div>
+  </div>
+    <div class="articleWrapper" id="articleWrapper-352973">
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<span class="document-id" data-val="1G23404000307"></span>
+<h2 class="doctitle">Environmental Movement
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publisher" data-pub="2785"></span><span class="publication">Encyclopedia of Public Health</span> <br />
+COPYRIGHT 2002 The Gale Group Inc.</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper">
+
+
+
+<h1>ENVIRONMENTAL MOVEMENT</h1>
+<p>The environmental movement in the <a data-topic="1208998" href="/places/united-states-and-canada/us-political-geography/united-states">United States</a> is often dated to the 1962 publication of Rachel Carson's book <i>Silent Spring</i>. This seminal description by an articulate scientist on the dangers of the chemical era to the environment and to human health struck a responsive chord with the general public and among opinion leaders. It tapped into a perhaps inbred human belief of the sanctity of air, water and soil, as well as an atavistic human concern about insidious and unknown poisons. The widespread success of the first "Earth Day," in 1969, revealed the environment to be a potent political issue as well. This led to the formation of the U.S. Environmental Protection Agency, in 1969, and to a wide range of laws to control existing and potential threats to the environment.</p>
+<p>There are many parallels between the environmental movement and the Sanitary movement of the nineteenth century. The Sanitary movement was characterized by a broad concern among all segments of society with poor sanitary conditions and their perceived linkages to ill health, and by a recognition that advocacy was necessary to achieve societal changes. In many ways both of these movements preceded the scientific discoveries upon which effective public policy was eventually built.</p>
+<p>The environmental movement in the United States has its roots not only in public health but also in longstanding public support for conservation that led, for example, to our National Park system. The wide range of environmental organizations reflect this duality of approach. The success of these environmental advocacy organizations also reflects the expectations of more from the environment than can be expressed solely in health or economic terms. This transcendent aspect continues to fuel the environmental movement despite highly significant gains in air and water quality and in wilderness preservation in recent decades.</p>
+
+
+<p>Bernard D. Goldstein</p>
+<p>(see also: <i>Ecosystems; Environmental Determinants of Health; Environmental Impact Statement; Environmental Justice</i> )</p>
+
+
+<h2>Bibliography</h2>
+<p>Carson, R. (1962). <i>Silent Spring.</i> New York: Fawcett World Library.</p>
+
+
+<p>Cassell, E. J. (1972). "Nineteenth and Twentieth Century Environmental Movements." <i>Archive of Environmental Health</i> 22:35<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#x2013;</span></span></span></span></span></span></span></span></span>40.</p>
+<p>Dubos, R. (1990). <i>The World of Ren<span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;"><span style="font-family:Lucida Sans Unicode;">&#xE9;</span></span></span></span></span></span></span></span></span> Dubos: A Collection from His Writings,</i> ed. G. Piel and O. Segerberg, Jr. New York: Henry Holt.</p>
+<p>Leopold, A. (1953). <i>A Sand County Almanac with Essays on Conservation from Round River.</i> New York: Oxford University Press.</p>
+
+
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs352973">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
+                    </div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
+                    </div>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/education/encyclopedias-almanacs-transcripts-and-maps/environmental-movement">Environmental Movement.</a>"
+                        <u>
+                            Encyclopedia of Public Health</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        24 Apr. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "Environmental Movement." <u>
+                            Encyclopedia of Public Health</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (April 24, 2017). <a href="/education/encyclopedias-almanacs-transcripts-and-maps/environmental-movement">
+                            http://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/environmental-movement</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "Environmental Movement." <u>
+                            Encyclopedia of Public Health</u>.
+                        
+                        . Retrieved
+                        April 24, 2017
+                        from Encyclopedia.com: <a href="/education/encyclopedias-almanacs-transcripts-and-maps/environmental-movement">
+                            http://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/environmental-movement</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
+
+
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-352973">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+	<div class="box" id="LearnCitationsContainer">
+		
+	</div>
+</div>
+</div>
+  </div>
+
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-bottomcontentad">
+  
+    
+      <!-- OUTBRAIN FOOTER -->
+<div class="OUTBRAIN" data-widget-id= "TF_1" data-ob-template="encyclopedia.com" ></div>
+
+<!-- NATIVE FOOTER -->
+<!-- <script src="//widget.recrev.co/web-clients/bootloaders/iYsqxhDmzYKqn1U4QQ5GRL/bootloader.js" async="true" data-version="3" data-url="" data-zone="footer" ></script> -->
+  </div>
+
+  </div>
+
+		
+		  <div>
+    
+
+  </div>
+
+
+	</div>
+	<div class="sidebar">
+				<div id='gpt-ad-rail-atf'>
+	    <script>
+	      googletag.cmd.push(function() { googletag.display('gpt-ad-rail-atf'); });
+	    </script>
+	  </div>
+
+					<aside class="layout-sidebar-first" role="complementary">
+			  <div>
+      <div class="clearfix">
+    
+    <div class="trending-topic-tools">
+        <a id="socialMediaFacebook" href="javascript:;">
+            <i class="fa fa-social-fb" title="Share this article on Facebook"></i>
+        </a>
+        <a id="socialMediaTwitter" href="javascript:;">
+            <i class="fa fa-social-twit" title="Twitter"></i>
+        </a><a id="socialMediaReddit" href="javascript:;">
+            <i class="fa fa-social-rddt" title="Submit this article to Reddit"></i>
+        </a>
+        <a id="socialMediaStumbleUpon" href="javascript:;">
+            <i class="fa fa-social-su" title="Give this article a thumbs-up on StumbleUpon"></i>
+        </a>
+    </div>
+  </div>
+  <script>
+    //var socialMediaPageUrl = "http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fStephen_Watts_Kearny.aspx";
+    var socialMediaPageName = "Topic";
+    var socialMediaFacebookUrl = "http://www.facebook.com/sharer.php?u=";
+    var socialMediaTwitterUrl = "http://twitter.com/home?status=Check out @encyclopediacom's coverage of Stephen Watts Kearny at ";
+    var socialMediaRedditUrl = "http://reddit.com/submit?title=Stephen+Watts+Kearny&amp;url=";
+    var socialMediaStumbleUponUrl = "http://www.stumbleupon.com/submit?title=Stephen+Watts+Kearny&amp;url=";
+  </script>    
+<div id="block-media">
+  
+    
+      
+
+
+  </div>
+<div id="block-rightcolumntopad">
+  
+    
+      <!-- /62541793/enc_rightcolumnatf -->
+<div id='div-gpt-ad-rightcolumnatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-rightcolumnatf'); });
+</script>
+</div>
+  </div>
+<div class="views-element-container" id="block-related-combined-links-block">
+  
+    
+      <div block="block-related-combined-links-block"><div class="links-view js-view-dom-id-e6f91c771c4a52c8a0fc4558c8363a2c82e66eb808275904726c5d04dc5626da">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="no-bullet-list">
+
+          <li><h4>
+</h4></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-rightcolumnmiddlead">
+  
+    
+      
+  </div>
+<div id="block-rightcolumnbottomad">
+  
+    
+      <!-- /62541793/enc_rightcolumnbtf -->
+<div id='div-gpt-ad-rightcolumnbtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-rightcolumnbtf'); });
+</script>
+</div>
+  </div>
+<div id="block-trendingtopics">
+  
+    	<div>
+	  	</div>
+  </div>
+<div id="block-facebooklikebox">
+  
+    
+      
+            <div><p><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fencyclopediacom&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=80"></iframe></p>
+</div>
+      
+  </div>
+
+  </div>
+
+			</aside>
+		
+		
+				<div id='gpt-ad-rail-btf'>
+	    <script>
+	      googletag.cmd.push(function() { googletag.display('gpt-ad-rail-btf'); });
+	    </script>
+	  </div>
+	</div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  
+
+    <div id='gpt-ad-footer' style="text-align: center; margin-bottom: 20px">
+    <script>
+      googletag.cmd.push(function() { googletag.display('gpt-ad-footer'); });
+    </script>
+  </div>
+
+    <div id="footer">
+    <footer>
+        <div>
+    <div id="block-footerad">
+  
+    
+      <script>
+  var fullScreenTargeting = window.innerWidth > 500 ? 'screenshift_full' :
+    Math.floor(Math.random()*10) < 6 ? 'mobile_int' : 'screenshift_full';
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting('fullscreen', fullScreenTargeting);
+  });
+</script>
+
+<!-- Screen Shift Full Screen Ad Unit -->
+<div id='div-gpt-ad-screenshift-full'>
+  <script>
+    googletag.cmd.push(function() {
+      googletag.display('div-gpt-ad-screenshift-full');
+      googletag.pubads().display('/62541793/screenshift_full', [1, 1], 'div-gpt-ad-screenshift-full');
+    });
+  </script>
+</div>
+
+
+<!-- Mobile Interstitial -->
+<div id='div-gpt-ad-mobile-interstitial'>
+  <script>
+    googletag.cmd.push(function() {
+      googletag.display('div-gpt-ad-mobile-interstitial');
+      googletag.pubads().display('/62541793/sticky_mobile', [1, 1], 'div-gpt-ad-mobile-interstitial');
+    });
+  </script>
+</div>
+  </div>
+<div id="block-sociallinks">
+  
+    
+      
+            <div><nav class="social"><a href="https://www.facebook.com/encyclopediacom" target="_blank" title="Facebook"><i class="fa fa-social-fb"></i></a> <a href="https://twitter.com/encyclopediacom" target="_blank" title="Twitter"><i class="fa fa-social-twit"></i></a> <a href="https://instagram.com/encyclopediacom" target="_blank" title="Instagram"><i class="fa fa-social-insta"></i></a></nav></div>
+      
+  </div>
+<nav role="navigation" aria-labelledby="block-encyclopedia-footer-menu" id="block-encyclopedia-footer">
+            
+  <h2 class="visually-hidden" id="block-encyclopedia-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul block="block-encyclopedia-footer">
+              <li>
+        <a href="/" rel="nofollow" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+          <li>
+        <a href="/about" rel="nofollow" data-drupal-link-system-path="node/1319859">About Us</a>
+              </li>
+          <li>
+        <a href="/faq" rel="nofollow" data-drupal-link-system-path="node/1319856">Help</a>
+              </li>
+          <li>
+        <a href="/emailus" rel="nofollow" data-drupal-link-system-path="contact/feedback">Site Feedback</a>
+              </li>
+          <li>
+        <a href="/privacy" rel="nofollow" data-drupal-link-system-path="node/1319857">Privacy Policy</a>
+              </li>
+          <li>
+        <a href="/termsofservice" rel="nofollow" data-drupal-link-system-path="node/1319858">Terms and Conditions</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-copyright">
+  
+    
+      
+            <div><p>
+        <span>© 2016 Encyclopedia.com | All rights reserved.</span>
+     </p></div>
+      
+  </div>
+
+  </div>
+
+    </footer>
+  </div>
+  
+  <i class="fa fa-angle-up back-to-top"></i>
+  
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="//ajax.microsoft.com/ajax/4.0/1/MicrosoftAjax.js"></script>
+<script src="/sites/default/files/js/js_aj-hARLRdtghl6LpmA_GDwXiGIVmIgc941ga5esh6kk.js"></script>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="//widgets.outbrain.com/outbrain.js"></script>
+<script src="/sites/default/files/js/js_wczeYq0_r1lJ3V-oh7SGzZJ9NreVEkXwKYCDyYrkdMw.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/video.js/5.16.0/video.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/videojs_5.vast.vpaid.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/ie8fix.min.js"></script>
+<script src="/sites/default/files/js/js_X-82uyPA2A9f3xnn_AOlFNG9IRYowygtQifose-WilM.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"944b4b637b","applicationID":"30464058","transactionName":"NVFXZEACDxcFVUdcDQwbdFNGCg4KS3JBQBIDWGlzXREEOClTXUA+JlFTUUcPFSkBWEZ5CwxfYUJXBiwFCl9DQA4DQFpCQU5fAwFYVkcDFlF8XlYGGSUKUmBaEBY=","queueTime":0,"applicationTime":1074,"atts":"GRZUEggYHBk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

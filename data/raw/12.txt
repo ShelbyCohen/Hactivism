@@ -4,11 +4,11 @@
 
 
 
-		<html id="flexTemplate_1-0" class="comp flexTemplate article-html html mntl-layout-html taxlevel-3" data-ab="99,99" data-resource-subdomain="www" data-generic-subdomain="j" data-resource-version="2.4.1" data-mantle-resource-version="3.1.40" data-reference-resource-version="2.4.1">
+		<html id="flexTemplate_1-0" class="comp flexTemplate article-html html mntl-layout-html taxlevel-3" data-ab="99,99" data-resource-subdomain="www" data-generic-subdomain="j" data-resource-version="2.5.0" data-mantle-resource-version="3.1.47" data-reference-resource-version="2.5.0">
 <!--
-<globe-environment environment="prod" application="reference" dataCenter="ny" serverName="nyglobe9" />
-<globe-server version="2.4.1" vendor="" title="reference-server" />
-<globe-resources version="2.4.1"  />
+<globe-environment environment="prod" application="reference" dataCenter="ny" serverName="nyglobe7" />
+<globe-server version="2.5.0" vendor="" title="reference-server" />
+<globe-resources version="2.5.0"  />
 -->
 		<head class="loc head">
 <script type="text/javascript"></script><script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js" async></script>        <meta name="lotame:tax3" content="tho_african-history"/>
@@ -17,18 +17,18 @@
         <meta name="lotame:tax0" content="tho"/>
 
 <script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script>
-<link rel="shortcut icon" href="/static/2.4.1/icons/favicons/favicon.ico">
-<link rel="icon" type="image/x-icon" href="/static/2.4.1/icons/favicons/favicon.ico">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/2.4.1/icons/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/2.4.1/icons/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/2.4.1/icons/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/2.4.1/icons/favicons/apple-touch-icon-152x152.png">
+<link rel="shortcut icon" href="/static/2.5.0/icons/favicons/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/static/2.5.0/icons/favicons/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/2.5.0/icons/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/2.5.0/icons/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/2.5.0/icons/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/2.5.0/icons/favicons/apple-touch-icon-152x152.png">
 <meta name="msapplication-TileColor" content="#F4F4F4"/>
-<meta name="msapplication-TileImage" content="/static/2.4.1/icons/favicons/mstile-144x144.png">
-<meta name="msapplication-square70x70logo" content="/static/2.4.1/icons/favicons/mstile-70x70.png">
-<meta name="msapplication-square150x150logo" content="/static/2.4.1/icons/favicons/mstile-150x150.png">
-<meta name="msapplication-square310x310logo" content="/static/2.4.1/icons/favicons/mstile-310x310.png">
-<meta name="msapplication-wide310x150logo" content="/static/2.4.1/icons/favicons/mstile-310x150.png"><meta charset="utf-8">
+<meta name="msapplication-TileImage" content="/static/2.5.0/icons/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="/static/2.5.0/icons/favicons/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="/static/2.5.0/icons/favicons/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="/static/2.5.0/icons/favicons/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="/static/2.5.0/icons/favicons/mstile-310x150.png"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="robots" content="NOODP, NOYDIR" />
@@ -88,24 +88,25 @@
 }
 ]
 }
-</script><link type="text/css" rel="stylesheet" data-glb-css href="https://www.thoughtco.com/static/2.4.1/cache/eNqtVFGSgyAMvdA63GFvghgxs0Acgu309hvRbrWL2O7sRwkvvkfhQaI46YRGGWblNYYPdU-QHylASKx0l3-lTx461AoNBV7GEsk6arVTA-gO4hoqPEeW8lDi9BS9MCFA1K5h0NEMT7AkC_qCVpIUVD85xyYChEayT_BE20bZvImTb3k7f6jERYfhq3HI6chKlw1oSceu4kJPlMStJZR4rSPzxYrJoBw9ox04di_AlR0kWbdhtGEaf2dOfFj_pyfn6LpHJ8oxotfxlq3fzM_uLLvQzNbyDlQMNDTeItohPWbFG4mScHCPL1AaeedJPqj5ktXRTS-V0aOdIqyhRLtiZ0HiBTugZnT6Jpc-P6Nt4p1NZd1_qF-RrSW9hRjsM66de307PGixKTehkARusi-ryyJZcsSA6TOFP5zIQ9I7UFujvcmbvIfats1AYx6KdT2lNLfTeeczp1kSZ9TsW5HPu4o_7A0MZq61n-PkHrYDVZXXTEGKOau2oFgc75CNNMo8VLrg0v5m0jdIRqAI.min.css"></link>
-<script type="text/javascript" data-glb-js src="https://www.thoughtco.com/static/2.4.1/cache/eNp1UF1uwyAMvtAId9jLXqspFyDGpV4AM2NadacfkaKOVekb_v7MZ1vVKYH9qnYRdGthylrf7B98xexZbGKPkulHHhxwKpyxy-3CN5QO8EpYTTftz9fa74ZyryqUg_VUdQTG7U0pko5RHRQ8o2AGNIf0x2l-Gk-xBcpHtfQirBrxf3wnG87iYH36zu6CVpWT2XQ60p_z-1Fl5-vGhqKvD7IwJxSXg_HnMlN6HKaPU3dOkUNAmcDBBf24tLiA5kp4OwoPmjYNRILV6N7oF_6Tva0.min.js"></script>
+</script><link type="text/css" rel="stylesheet" data-glb-css href="https://www.thoughtco.com/static/2.5.0/cache/eNqtVFGSgyAMvdA63GFvghgxs0Acgu309hvRbrWL2O7sRwkvvkfhQaI46YRGGWblNYYPdU-QHylASKx0l3-lTx461AoNBV7GEsk6arVTA-gO4hoqPEeW8lDi9BS9MCFA1K5h0NEMT7AkC_qCVpIUVD85xyYChEayT_BE20bZvImTb3k7f6jERYfhq3HI6chKlw1oSceu4kJPlMStJZR4rSPzxYrJoBw9ox04di_AlR0kWbdhtGEaf2dOfFj_pyfn6LpHJ8oxotfxlq3fzM_uLLvQzNbyDlQMNDTeItohPWbFG4mScHCPL1AaeedJPqj5ktXRTS-V0aOdIqyhRLtiZ0HiBTugZnT6Jpc-P6Nt4p1NZd1_qF-RrSW9hRjsM66de307PGixKTehkARusi-ryyJZcsSA6TOFP5zIQ9I7UFujvcmbvIfats1AYx6KdT2lNLfTeeczp1kSZ9TsW5HPu4o_7A0MZq61n-PkHrYDVZXXTEGKOau2oFgc75CNNMo8VLrg0v5m0jdIRqAI.min.css"></link>
+<script type="text/javascript" data-glb-js src="https://www.thoughtco.com/static/2.5.0/cache/eNp1UF1uwyAMvtAId9jLXqspFyDGpV4AM2NadacfkaKOVekb_v7MZ1vVKYH9qnYRdGthylrf7B98xexZbGKPkulHHhxwKpyxy-3CN5QO8EpYTTftz9fa74ZyryqUg_VUdQTG7U0pko5RHRQ8o2AGNIf0x2l-Gk-xBcpHtfQirBrxf3wnG87iYH36zu6CVpWT2XQ60p_z-1Fl5-vGhqKvD7IwJxSXg_HnMlN6HKaPU3dOkUNAmcDBBf24tLiA5kp4OwoPmjYNRILV6N7oF_6Tva0.min.js"></script>
 <script type="text/javascript">var Mntl = window.Mntl || {};
 Mntl.RTB = Mntl.RTB || {};
 Mntl.RTB.setTimeoutLength(500);
-Mntl.RTB.setRtbConfig([{amazon : '3222'}, {index : '16626'}]);
+Mntl.RTB.setRtbConfig([{amazon: '3222'},{index: '16626'}]);
 Mntl.RTB.setIndexSiteIds({'billboard-300x250' : 190894, 'billboard6-300x250' : 190912, 'leaderboardfooter2-728x90' : 190932, 'dynamicinline-728x90' : 190924, 'leaderboard-728x90' : 190900, 'leaderboard3-728x90' : 190915, 'leaderboard2-728x90' : 190925, 'leaderboard4-728x90' : 190927, 'leaderboard3-728x91' : 190883, 'leaderboard-970x250' : 190901, 'billboard3-300x250' : 190896, 'billboard7-300x250' : 190913, 'billboard2-300x250' : 190895, 'billboard-160x600' : 190933, 'billboard5-300x600' : 190910, 'leaderboard6-728x90' : 190929, 'billboard-300x600' : 190898, 'billboard-300x1050' : 190899, 'billboard4-300x250' : 190897, 'leaderboardfooter-728x90' : 190930, 'leaderboardfooter-970x250' : 190931, 'billboard5-300x250' : 190911, 'billboard3-300x600' : 190935});(function(){
 var pageTargeting = {
 rec: 0
 ,tax0: 'tho'
-,rid: 'g15b8d5bd3246e79676c6f62653910d'
-,sid: 'g15b8d5bd3246e79676c6f62653910d'
+,rid: 'g15ba7176e3d6e79676c6f626537e9'
+,sid: 'g15ba7176e3d6e79676c6f626537e9'
 }
 ;
 var baseSlotTargeting = {
 inf: '0'
 ,entryType: 'direct'
 ,leaid: '130973'
+,docId: '43431'
 ,ptax: 'tho_african-history'
 ,vid: '0'
 ,tax1: 'tho_humanities'
@@ -167,10 +168,10 @@ environment: {
 environment: "prod",
 application: "reference",
 dataCenter: "ny",
-serverName: "nyglobe9"
+serverName: "nyglobe7"
 },
 server: {
-version: "2.4.1",
+version: "2.5.0",
 vendor: "",
 title: "reference-server"
 },
@@ -181,7 +182,7 @@ serverUA : "Python-urllib/3.5"
 }
 });
 (function(){
-var pageViewDataAsJSON = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","templateId":"65","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"authorId":"130973","fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"experienceType":"multipage","currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15b8d5bd3246e79676c6f62653910d","internalRequestId":"g15b8d5bd3246e79676c6f62653910d","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"updateDate":"2017-03-08"};
+var pageViewDataAsJSON = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"templateId":"65","authorId":"130973","fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15ba7176e3d6e79676c6f626537e9","internalRequestId":"g15ba7176e3d6e79676c6f626537e9","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"experienceType":"multipage","updateDate":"2017-03-08"};
 pageViewDataAsJSON.adventureNavDocIds = Ref.utilities.getAdventureNavDocIdsMap([2834606,43426,43472,43463]);
 pageViewDataAsJSON.breakpointName = Ref.utilities.getW();
 Mntl.PageView.init(pageViewDataAsJSON);
@@ -672,7 +673,7 @@ class="text-btn"
 <a
 href="https://www.thoughtco.com/sciences-math-4132465"
 > Science, Tech, Math
-<img id="image_1-0" class="comp image fullscreen-nav-list-icon science fullscreen-nav-list-icon science" src="https://www.thoughtco.com/static/2.4.1/image/fullscreen-nav-science.png" alt="Science, Tech, Math">
+<img id="image_1-0" class="comp image fullscreen-nav-list-icon science fullscreen-nav-list-icon science" src="https://www.thoughtco.com/static/2.5.0/image/fullscreen-nav-science.png" alt="Science, Tech, Math">
 </img>
 </a>                </h4>
                 <ul class="fullscreen-nav-sub">
@@ -698,7 +699,7 @@ href="https://www.thoughtco.com/animals-and-nature-4133421"
 <a
 href="https://www.thoughtco.com/humanities-4133358"
 > Humanities
-<img id="image_2-0" class="comp image fullscreen-nav-list-icon humanities fullscreen-nav-list-icon humanities" src="https://www.thoughtco.com/static/2.4.1/image/fullscreen-nav-humanities.png" alt="Humanities">
+<img id="image_2-0" class="comp image fullscreen-nav-list-icon humanities fullscreen-nav-list-icon humanities" src="https://www.thoughtco.com/static/2.5.0/image/fullscreen-nav-humanities.png" alt="Humanities">
 </img>
 </a>                </h4>
                 <ul class="fullscreen-nav-sub">
@@ -730,7 +731,7 @@ href="https://www.thoughtco.com/issues-4133022"
 <a
 href="https://www.thoughtco.com/arts-music-recreation-4132958"
 > Arts, Music, Recreation
-<img id="image_3-0" class="comp image fullscreen-nav-list-icon arts fullscreen-nav-list-icon arts" src="https://www.thoughtco.com/static/2.4.1/image/fullscreen-nav-arts.png" alt="Arts, Music, Recreation">
+<img id="image_3-0" class="comp image fullscreen-nav-list-icon arts fullscreen-nav-list-icon arts" src="https://www.thoughtco.com/static/2.5.0/image/fullscreen-nav-arts.png" alt="Arts, Music, Recreation">
 </img>
 </a>                </h4>
                 <ul class="fullscreen-nav-sub">
@@ -765,7 +766,7 @@ href="https://www.thoughtco.com/whimsy-4132614"
 <a
 href="https://www.thoughtco.com/resources-4132590"
 > Resources
-<img id="image_4-0" class="comp image fullscreen-nav-list-icon resources fullscreen-nav-list-icon resources" src="https://www.thoughtco.com/static/2.4.1/image/fullscreen-nav-resources.png" alt="Resources">
+<img id="image_4-0" class="comp image fullscreen-nav-list-icon resources fullscreen-nav-list-icon resources" src="https://www.thoughtco.com/static/2.5.0/image/fullscreen-nav-resources.png" alt="Resources">
 </img>
 </a>                </h4>
                 <ul class="fullscreen-nav-sub">
@@ -885,7 +886,7 @@ Voice of Anti-Apartheid Movement in South Africa		</h2>
 srcset="https://fthmb.tqn.com/FTqe6Xt_sgAl4s_P_Iu5BJSrRB4=/300x0/filters:no_upscale()/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg 300w, https://fthmb.tqn.com/vlVKuqhnjMHgRw6hc4hICfW8x1c=/417x0/filters:no_upscale()/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg 417w, https://fthmb.tqn.com/oXk5Uvn32-7w8igQaRyM9BWIRcU=/534x0/filters:no_upscale()/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg 534w, https://fthmb.tqn.com/xu5gzAxL_eWjFwMSBt9r3Hqfr34=/768x0/filters:no_upscale()/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg 768w"
 src="https://fthmb.tqn.com/xu5gzAxL_eWjFwMSBt9r3Hqfr34=/768x0/filters:no_upscale()/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg"
 alt="Biko Family Defiant &copy; Hulton Archive / Getty Images"
-src="/static/2.4.1/image/placeholder.png" data-expand="300"
+src="/static/2.5.0/image/placeholder.png" data-expand="300"
 />
  
 
@@ -1361,9 +1362,8 @@ type="button"
 data-src="https://fthmb.tqn.com/PdIddXTnr-0CEkXXZKDclQqksl4=/400x0/filters:no_upscale()/about/ApartheidMuseum-57ee8d7f3df78c690fe8111b.jpg"
 alt="Entrance to Apartheid Museum"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.506" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">Race Relations</div>
-        </div>
+data-dim-ratio="1.506" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1372,20 +1372,12 @@ data-dim-ratio="1.506" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">Race Relations</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>The Facts About South African Apartheid</span></h2>
-        <p class="card-excerpt">Get the facts on South African apartheid with this summary of the racially stratified system. Compare this form of segregation to Jim Crow in the U.S.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1414,9 +1406,8 @@ data-dim-ratio="1.506" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/1xp9jkgZkwli2jC2O6Ji7icQEA8=/400x0/filters:no_upscale()/about/Soweto-Uprising01-June-76-569fdca85f9b58eba4ad82ed.jpg"
 alt="Aerial view of Soweto Uprising - June 1976 &copy; Hulton Archive / Getty Images"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.266" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.266" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1425,20 +1416,12 @@ data-dim-ratio="1.266" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Soweto Uprising 1976 Image Gallery</span></h2>
-        <p class="card-excerpt">A gallery of images of the 16 June 1975 Soweto Uprising.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1468,20 +1451,12 @@ data-dim-ratio="1.266" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Soweto Student Uprising, pt 2: Students organize a protest</span></h2>
-        <p class="card-excerpt">On 16 June 1976 high-school students in Soweto, South Africa, protested for better education. Police fired teargas and live bullets into the marching students. Part 2: Students organize a protest.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1511,20 +1486,12 @@ data-dim-ratio="1.266" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>What is Pan-Africanism?</span></h2>
-        <p class="card-excerpt">How has Pan-Africanism developed over the last couple of centuries into a socio-political movement? See its history and where it is going now.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1552,9 +1519,8 @@ data-dim-ratio="1.266" src="/static/2.4.1/image/placeholder.png" data-expand="30
 <img
 data-src="https://fthmb.tqn.com/mXZTsx1_vqpSXY2e-wBzgxCGKyU=/400x0/filters:no_upscale()/about/Bantustans_in_South_Africa.svg-5895b7da3df78caebca1b297.png"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.141" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.141" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1563,20 +1529,12 @@ data-dim-ratio="1.141" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>How did the 1913 Natives Land Act contribute to Apartheid?</span></h2>
-        <p class="card-excerpt">The Natives (or Black) Land Act stripped black South Africans of their ability to own, or even rent, land outside of limited reserves.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1605,9 +1563,8 @@ data-dim-ratio="1.141" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/kaAffp1FOpzJNv5xkaMtMfAGKoo=/400x0/filters:no_upscale()/about/GettyImages-95646429-57a3f7613df78cf4599583c5.jpg"
 alt="South African Apartheid-era sign"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.534" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.534" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1616,20 +1573,12 @@ data-dim-ratio="1.534" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>The Basics of South Africa's Apartheid Era</span></h2>
-        <p class="card-excerpt">Find the answers to your questions about the era of apartheid in South African history in this FAQ.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1657,9 +1606,8 @@ data-dim-ratio="1.534" src="/static/2.4.1/image/placeholder.png" data-expand="30
 <img
 data-src="https://fthmb.tqn.com/ZMZqk3HG3Sw-804fYYAu3mshGhY=/400x0/filters:no_upscale()/about/Natal-Uni-5895b7eb3df78caebca1c7b3.png"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.327" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.327" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1668,20 +1616,12 @@ data-dim-ratio="1.327" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>The Extension of University Education Act in South Africa</span></h2>
-        <p class="card-excerpt">The Expansion of University Education Act segregated Apartheid universities by race and ethnicity, ensuring non-white students received limited educations.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1710,9 +1650,8 @@ data-dim-ratio="1.327" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/HZp7NvOTyPhCmY6bIXEromIhJ4w=/400x0/filters:no_upscale()/about/mandela-56a48e055f9b58b7d0d7835a.jpg"
 alt="Nelson Mandela in 2009."
 class="lazyload card-img js-justified"
-data-dim-ratio="1.5" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">The 20th Century</div>
-        </div>
+data-dim-ratio="1.5" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1721,20 +1660,12 @@ data-dim-ratio="1.5" src="/static/2.4.1/image/placeholder.png" data-expand="300"
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">The 20th Century</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>The Amazing Life of Nelson Mandela</span></h2>
-        <p class="card-excerpt">Nelson Mandela, an anti-apartheid activist, spent 27 years in prison. Only four years after his release, Mandela became South Africa's first black president.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1780,9 +1711,8 @@ data-dim-ratio="1.5" src="/static/2.4.1/image/placeholder.png" data-expand="300"
 data-src="https://fthmb.tqn.com/At9yg3ra7Am85Yrr4YqczHqkqKw=/400x400/filters:no_upscale()/about/mandelamovie-58b8a3495f9b58af5c4323ee.jpg"
 alt="mandelamovie.jpg"
 class="lazyload card-img js-justified"
-data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">Movies</div>
-        </div>
+data-dim-ratio="1" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1791,20 +1721,12 @@ data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">Movies</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Six Feature Films About Apartheid</span></h2>
-        <p class="card-excerpt">Learn more about South African apartheid with this list of feature films about the topic.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1833,9 +1755,8 @@ data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
 data-src="https://fthmb.tqn.com/Dwtz2oZ2j4ak7LOV3sPNDuoeDzw=/400x0/filters:no_upscale()/about/White-Area500-5895b7ce5f9b5874eee2685b.jpg"
 alt="White Area -- 1976 &copy; Hulton Archive / Getty Images"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.232" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.232" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1844,20 +1765,12 @@ data-dim-ratio="1.232" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>A Definition of Grand Apartheid</span></h2>
-        <p class="card-excerpt">Under Apartheid, the South African government built on discriminatory laws segregating populations &amp; denying black South Africans political rights.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1886,9 +1799,8 @@ data-dim-ratio="1.232" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/cvVeRKF3Sjl4iVhUZHBZO-aTIKU=/400x0/filters:no_upscale()/about/fidelcastro-583e7da03df78c6f6ae88498.jpg"
 alt="Fidel Castro"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.299" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">Race Relations</div>
-        </div>
+data-dim-ratio="1.299" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1897,20 +1809,12 @@ data-dim-ratio="1.299" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">Race Relations</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Why Blacks Worldwide Had Complex Relationship With Fidel Castro</span></h2>
-        <p class="card-excerpt">Fidel Castro&rsquo;s death revealed that blacks in and out of Cuba didn&rsquo;t necessarily view him as an evil dictator but as an ally. Here&rsquo;s why.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1939,9 +1843,8 @@ data-dim-ratio="1.299" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/zdSGykQXVmVEB8xlOVM5_RVASoU=/400x0/filters:no_upscale()/about/GettyImages-531511101-589b66755f9b58819c87cf64.jpg"
 alt="Harold Macmillan"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.007" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.007" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -1950,20 +1853,12 @@ data-dim-ratio="1.007" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Macmillan's "Wind of Change" speech 1960</span></h2>
-        <p class="card-excerpt">The "Wind of Change" speech was made by the British Prime Minister whilst addressing the South African Parliament during his tour of Africa.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -1992,9 +1887,8 @@ data-dim-ratio="1.007" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/W81PzymJauDvCL08kRi987Sdoxo=/400x400/filters:no_upscale()/about/98284807-5895c0cf3df78caebcaa7104.jpg"
 alt="98284807.jpg"
 class="lazyload card-img js-justified"
-data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African American History</div>
-        </div>
+data-dim-ratio="1" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -2003,20 +1897,12 @@ data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African American History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Why did Huey P. Newton and Bobby Seale establish the Black Panther Party?</span></h2>
-        <p class="card-excerpt">Who were prominent members of the Black Panther Party? What role did they play in the organization?</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -2044,9 +1930,8 @@ data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
 <img
 data-src="https://fthmb.tqn.com/mbdatNuYdMDYl4VQJezP-5wQuiE=/400x0/filters:no_upscale()/about/18ixp01xq5krijpg-56a8a1575f9b58b7d0f3c3c5.jpg"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.776" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">Sociology</div>
-        </div>
+data-dim-ratio="1.776" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -2055,20 +1940,12 @@ data-dim-ratio="1.776" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">Sociology</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>What is White Supremacy?</span></h2>
-        <p class="card-excerpt">Far from a thing of the past or the strict purview of Neo-Nazi and white power groups, white supremacy is part of the very fabric of U.S. society.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -2097,9 +1974,8 @@ data-dim-ratio="1.776" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/Un_0G3wxxrdARUkChpXvnfgtjOY=/400x0/filters:no_upscale()/about/5773057878_a5749007c7_o-5793c1ed5f9b58173bb4feaf.jpg"
 alt="Steve Biko"
 class="lazyload card-img js-justified"
-data-dim-ratio="1.253" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1.253" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -2108,20 +1984,12 @@ data-dim-ratio="1.253" src="/static/2.4.1/image/placeholder.png" data-expand="30
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>11 Memorable Quotes by Stephen Bantu Biko</span></h2>
-        <p class="card-excerpt">A selection of quotes by Steve Biko, one of South Africa's most significant political activists &amp; a founder of South Africa's Black Consciousness Movement.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -2150,9 +2018,8 @@ data-dim-ratio="1.253" src="/static/2.4.1/image/placeholder.png" data-expand="30
 data-src="https://fthmb.tqn.com/idWFZdaIw5Iw331z104uImkFItQ=/400x400/filters:no_upscale()/about/GettyImages-72489734-589a2afe5f9b5874ee997057.jpg"
 alt="HF. Verwoerd"
 class="lazyload card-img js-justified"
-data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
+data-dim-ratio="1" src="/static/2.5.0/image/placeholder.png" data-expand="300"
+/>        </div>
 
     
     <div class="card-content">
@@ -2161,20 +2028,12 @@ data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
             
         </div>
 
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
 
         <h2 class="card-title"><span>Biography of South African Leader Hendrik Frensch Verwoerd</span></h2>
-        <p class="card-excerpt">Prime Minister of South Africa from 1958 until his assassination in 1966, Hendrik Frensch Verwoerd was the chief architect of 'Grand Apartheid'.</p>
+        
 
     </div>
 
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
 
 
 		</a>
@@ -2190,419 +2049,6 @@ data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
 		<div id="leaderboard2-deferred-footer_1-0" class="comp leaderboard2-deferred-footer leaderboard-deferred-footer ad-deferred mntl-gpt-dynamic-adunit mntl-gpt-adunit ad-deferred gpt leaderboard dynamic">
 	<div id="leaderboardfooter2" class="wrapper" data-type="leaderboard" data-pos="ft2" data-priority="4" data-sizes="[[728, 90], [728, 99], [970, 250], [970, 259], [1, 10]]" data-rtb="true"></div>
 		</div>
-
-	
-
-
-
-
-		<ul id="masonry-list3_1-0" class="comp masonry-list3 masonry-list mntl-masonry-list masonry-grid g--masonry-1-to4-up">
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0" class="comp card mntl-card card " data-doc-id="44560" href="https://www.thoughtco.com/nontsikelelo-albertina-sisulu-44560" data-ordinal="1">
-
-
-
-        <div class="card-media">
-<img
-data-src="https://fthmb.tqn.com/OviMYmB1gBHU43E47viJTZ7MhmQ=/400x0/filters:no_upscale()/about/GettyImages-635928491-589cad353df78c4758187e83.jpg"
-alt="Albertina Sisulu"
-class="lazyload card-img js-justified"
-data-dim-ratio="1.471" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>Biography of Nontsikelelo Albertina Sisulu</span></h2>
-        <p class="card-excerpt">Biography of Albertina Sisulu. Prominent leader in the African National Congress and 'Mother of the Nation'.</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-2" class="comp card mntl-card card " data-doc-id="3026215" href="https://www.thoughtco.com/the-black-civil-rights-movement-is-back-3026215" data-ordinal="2">
-
-
-
-        <div class="card-media">
-<img
-data-src="https://fthmb.tqn.com/u7MuKKedCqvWPOGXBz6hn5jzk1o=/400x0/filters:no_upscale()/about/460430314-58b887713df78c353cbf140f.jpg"
-alt="460430314.jpg"
-class="lazyload card-img js-justified"
-data-dim-ratio="1.5" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">Sociology</div>
-        </div>
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">Sociology</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>The Black Civil Rights Movement is Back</span></h2>
-        <p class="card-excerpt">Though fragmented since the late 1960s, the Black Civil Rights Movement now appears to be back.</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-3" class="comp card mntl-card card " data-doc-id="43436" href="https://www.thoughtco.com/apartheid-quotes-bantu-education-43436" data-ordinal="3">
-
-
-
-        <div class="card-media">
-<img
-data-src="https://fthmb.tqn.com/pytryNdQRQzf8UzpUjZ99HVddFQ=/400x0/filters:no_upscale()/about/Soweto-Uprising03-June-76-569fdca85f9b58eba4ad82e7.jpg"
-alt="Demonstrators at Soweto Uprising - June 1976 &copy; Hulton Archive / Getty Images"
-class="lazyload card-img js-justified"
-data-dim-ratio="1.288" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>South African, Apartheid Era, Bantu Education Quotes</span></h2>
-        <p class="card-excerpt">Important quotes regarding Bantu Education, the separate and limited experience encountered by non-whites in South Africa when pursuing an education.</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-4" class="comp card mntl-card card " data-doc-id="43464" href="https://www.thoughtco.com/prohibition-of-mixed-marriages-act-43464" data-ordinal="4">
-
-
-
-        <div class="card-media">
-<img
-data-src="https://fthmb.tqn.com/Vq_L2nYQXtZlP-769ZY0pZMNmwo=/400x0/filters:no_upscale()/about/European-Mothers500-5895b7e15f9b5874eee27f92.jpg"
-alt="Exclusive Use of European Mothers -- 1971 &copy; Hulton Archive / Getty Images"
-class="lazyload card-img js-justified"
-data-dim-ratio="1.269" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">African History</div>
-        </div>
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>The Prohibition of Mixed Marriages Act</span></h2>
-        <p class="card-excerpt">The Prohibition of Mixed Marriages Act (1949) forbade marriage between white and non-white people in South Africa as one of the first apartheid laws.</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-5" class="comp card mntl-card card no-image js-justified" data-doc-id="43589" href="https://www.thoughtco.com/julius-kambarage-nyerere-43589" data-ordinal="5">
-
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>Who Was the Father of Tanzania?</span></h2>
-        <p class="card-excerpt">A biography of Julius Kambarage Nyerere, the father of Tanzania. He was the first president and architect of ujamaa, an African socialist philosophy</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-6" class="comp card mntl-card card " data-doc-id="1779856" href="https://www.thoughtco.com/least-known-facts-of-black-history-1779856" data-ordinal="6">
-
-
-
-        <div class="card-media">
-<img
-data-src="https://fthmb.tqn.com/Pxwb9IEzitVm-rhnRrQWlb0SK-M=/400x400/filters:no_upscale()/about/Dagote-56a48dd45f9b58b7d0d782f7.jpg"
-alt="Aliko Dangote"
-class="lazyload card-img js-justified"
-data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">The 20th Century</div>
-        </div>
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">The 20th Century</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>14 Least Known Facts of Black History</span></h2>
-        <p class="card-excerpt">You may know about Martin Luther King Jr. and Malcolm X, but do you know what's the oldest black neighborhood? Or who Betty Boop was based upon? Here are 14 interesting facts about black history.</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-7" class="comp card mntl-card card no-image js-justified" data-doc-id="43476" href="https://www.thoughtco.com/group-areas-act-43476" data-ordinal="7">
-
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">Article</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">African History</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>Understanding the Group Areas Act No. 41 of 1950</span></h2>
-        <p class="card-excerpt">The Group Areas Act No 41 of 1950 forced physical separation between races by creating different residential areas for different races.</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-
-
-
-            <li class="g-item masonry-list-item">
-
-
-
-
-	
-
-
-
-
-		<a id="card_3-0-8" class="comp card mntl-card card " data-doc-id="4088099" href="https://www.thoughtco.com/what-is-a-black-comedy-movie-4088099" data-ordinal="8">
-
-
-
-        <div class="card-media">
-<img
-data-src="https://fthmb.tqn.com/OSYIseX9DeHGrK0bS8ViKgvydz0=/400x400/filters:no_upscale()/about/DrStrangelove-572ab47d3df78c038e6e754a.jpg"
-alt="Dr. Strangelove"
-class="lazyload card-img js-justified"
-data-dim-ratio="1" src="/static/2.4.1/image/placeholder.png" data-expand="300"
-/>                <div class="card-img-tag">Movies</div>
-        </div>
-
-    
-    <div class="card-content">
-        <div class="card-content-header">
-            <span class="card-kicker">List</span>
-            
-        </div>
-
-            <div class="card-tag-wrapper">
-                <span class="card-tag-before"></span>
-                <span class="card-tag">Movies</span>
-                <span class="card-tag-after"></span>
-            </div>  
-
-        <h2 class="card-title"><span>What is a "Black Comedy" Movie?</span></h2>
-        <p class="card-excerpt">Explains what "black comedy" or "dark comedy" means and includes examples like Dr. Strangelove, World's Greatest Dad, Heathers and Delicatessen</p>
-
-    </div>
-
-        <div class="card-label">
-            <span class="card-label-action">Read</span>
-        </div>
-
-
-		</a>
-
-            </li>
-
-		</ul>
 		</div>
 		</section>
 		</div>
@@ -2804,7 +2250,7 @@ data-source="footerLinks"
 		</p>
 		</div>
 		</footer>
-<script type="text/javascript" data-glb-js src="https://www.thoughtco.com/static/2.4.1/cache/eNqVVFFy4yAMvVApZ2hn9gDdnkAB2VGCJS_CTZ3TL5imdRvsmf5Y6KGHpIew1QSJnHUyjMLISe1BLhjt6d-Ecf4wD3YrLMB1Vrqifq0-g09qB07h1UUJoXUEccLIEKzHrqTUuojotxM6VYMBhwyZUhvl1Bqd_Ysl-SuySvw9-0_FXiq0zR_JpSliRyEXTZrWwLrvMcBsYPIkrbNggKuwgS7TCBKaBH1fBahbT7edFhvfq2q5XROIz1p4d2CL2Qc5ZLWPCD5nq6YV10kccjQyRghGEaI7_nBbNIY36jMobLspBHURkU1Gf7hroUqtuWBNTZ380ltYCj0IRL9dLeNFA6asglHqeRrvkRb5Qr7HbN_Io5hybfUe1v4ezx1lXD7NmZlSEl56KCGm-tvTpRk9z-ZM6ePdPX4he_qIOz_nAVwU0p1AiBkP-LQRVHdvdq9rFUdlFI4QsRy89r89A2JKz2mn5dOUW-wIvXESpoHLRBzu0dYBA6hwnJfp-ebsKHD7v2QJ_gMYROss.min.js"></script>
+<script type="text/javascript" data-glb-js src="https://www.thoughtco.com/static/2.5.0/cache/eNqVVFFy4yAMvVApZ2hn9gDdnkAB2VGCJS_CTZ3TL5imdRvsmf5Y6KGHpIew1QSJnHUyjMLISe1BLhjt6d-Ecf4wD3YrLMB1Vrqifq0-g09qB07h1UUJoXUEccLIEKzHrqTUuojotxM6VYMBhwyZUhvl1Bqd_Ysl-SuySvw9-0_FXiq0zR_JpSliRyEXTZrWwLrvMcBsYPIkrbNggKuwgS7TCBKaBH1fBahbT7edFhvfq2q5XROIz1p4d2CL2Qc5ZLWPCD5nq6YV10kccjQyRghGEaI7_nBbNIY36jMobLspBHURkU1Gf7hroUqtuWBNTZ380ltYCj0IRL9dLeNFA6asglHqeRrvkRb5Qr7HbN_Io5hybfUe1v4ezx1lXD7NmZlSEl56KCGm-tvTpRk9z-ZM6ePdPX4he_qIOz_nAVwU0p1AiBkP-LQRVHdvdq9rFUdlFI4QsRy89r89A2JKz2mn5dOUW-wIvXESpoHLRBzu0dYBA6hwnJfp-ebsKHD7v2QJ_gMYROss.min.js"></script>
 <script type="text/javascript">window.Mntl.amazonAffiliate.init("aboutcom02thoughtco-20", "43,431", true);window.Mntl.externalizeLinks.addPlugin(Mntl.amazonAffiliate);
 window.Mntl.externalizeLinks.init();var Mntl = Mntl || {};
 
@@ -2853,20 +2299,20 @@ Mntl.boomerang = (function(){
 				'templateId': '65',
 				'templateName': 'flexTemplate',
 				'templateView': 'PERSONAL_COMPUTER',
-				'tmog': 'g15b8d5bd3246e79676c6f62653910d',
-				'mint': 'g15b8d5bd3246e79676c6f62653910d',
-				'idstamp': 'g15b8d5bd3246e79676c6f62653910d',
+				'tmog': 'g15ba7176e3d6e79676c6f626537e9',
+				'mint': 'g15ba7176e3d6e79676c6f626537e9',
+				'idstamp': 'g15ba7176e3d6e79676c6f626537e9',
 				'dataCenter': 'ny',
-				'serverName': 'nyglobe9',
-				'serverVersion': '2.4.1',
-				'resourceVersion': '2.4.1',
+				'serverName': 'nyglobe7',
+				'serverVersion': '2.5.0',
+				'resourceVersion': '2.5.0',
 				'cc': 'US',
 				'city': 'Brockport',
 				'lat': '43.251',
 				'lon': '-77.925',
 				'rg': 'NY',
 				'clientTimestamp': new Date().getTime(),
-				'globeTimestamp': 1492725256996,
+				'globeTimestamp': 1493156982333,
 				'referrer': document.referrer,
 				'sessionPc': '1',
 				'userAgent[familyName]': 'Python-urllib',
@@ -2905,7 +2351,7 @@ Mntl.boomerang = (function(){
 })();(function() {
     var article = document.getElementById('article_1-0');
     if (article && !article.gtmPageView) {
-        article.gtmPageView = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","templateId":"65","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"authorId":"130973","fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"experienceType":"multipage","currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15b8d5bd3246e79676c6f62653910d","internalRequestId":"g15b8d5bd3246e79676c6f62653910d","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"updateDate":"2017-03-08"};
+        article.gtmPageView = {"adventureNavOrdinal":"","description":"The Black Consciousness Movement started as a student movement and became the voice and spirit of anti-Apartheid resistance in 1970s South Africa.","title":"What Was the Black Consciousness Movement?" || document.title || '',"errorType":"","contentGroup":"Articles","documentId":43431,"socialTitle":"What Was the Black Consciousness Movement?","lastEditingAuthorId":"130973","lastEditingUserId":"148122552371372","characterCount":3267,"templateId":"65","authorId":"130973","fullUrl":"https://www.thoughtco.com/black-consciousness-movement-43431" + location.hash,"currentPageOrdinal":1,"previousPageOrdinal":"","entryType":"direct","pageviewType":"standard","templateVariation":"","publishDate":"2015-06-30","numOfImages":1,"numOfPages":1,"numOfArticleWords":"","numOfInlineLinks":"","excludeFromComscore":false,"socialImage":"https://fthmb.tqn.com/zBOyqBg95zq7PZuQKyD7_oQyLiU=/735x0/about/Biko-Family-Defiant-800px-5895b8245f9b5874eee2c8b5.jpg","numOfMapLabels":"","isErrorPage":false,"instartLogicDelivered":false,"internalSessionId":"g15ba7176e3d6e79676c6f626537e9","internalRequestId":"g15ba7176e3d6e79676c6f626537e9","taxonomyNodes":[[{"documentId":4122478,"shortName":"ThoughtCo"},{"documentId":4133358,"shortName":"Humanities"},{"documentId":4133356,"shortName":"History & Culture"},{"documentId":4133338,"shortName":"African History"}]],"experienceType":"multipage","updateDate":"2017-03-08"};
     }
 }());
 (function() {
@@ -2921,15 +2367,6 @@ Mntl.boomerang = (function(){
 
     var justifyConfig = {stretch: '.js-justified'};
     var $element = $('#masonry-list2_1-0');
-
-    Mntl.utilities.readyAndDeferred(function($container){
-        Mntl.MasonryList.init($container, $element, justifyConfig);
-    });
-
-})();(function() {
-
-    var justifyConfig = {stretch: '.js-justified'};
-    var $element = $('#masonry-list3_1-0');
 
     Mntl.utilities.readyAndDeferred(function($container){
         Mntl.MasonryList.init($container, $element, justifyConfig);

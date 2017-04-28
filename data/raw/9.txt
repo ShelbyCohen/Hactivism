@@ -1,65 +1,718 @@
-<!doctype html><!--[if lt IE 7]>	<html id="ng-app" class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" ng-app="forbesApp"> <![endif]--><!--[if IE 7]>		<html id="ng-app" class="no-js lt-ie10 lt-ie9 lt-ie8" ng-app="forbesApp"> <![endif]--><!--[if IE 8]>		<html id="ng-app"  class="no-js lt-ie10 lt-ie9" ng-app="forbesApp"> <![endif]--><!--[if IE 9]>		<html id="ng-app"  class="no-js lt-ie10" ng-app="forbesApp"> <![endif]--><!--[if gt IE 9]<!--><html id="ng-app" class="no-js app-uninitialized" ng-app="forbesApp"><!--<![endif]--><head ng-controller="MetaController"><meta charset="utf-8"><meta name="referrer" content="origin-when-cross-origin"><title itemprop="headline">Placing The &#39;Anti-Globalization&#39; Bet</title><meta name="description" itemprop="description" content="Another way to think of global markets in the Trump era." ng-attr-content="{{meta.description}}"><meta name="keywords" itemprop="keywords" content="" ng-attr-content="{{meta.keywords}}"><meta name="author" itemprop="author" content="Kenneth Rapoza" ng-attr-content="{{meta.author}}"><link rel="canonical" itemprop="url" href="https://www.forbes.com/sites/kenrapoza/2016/11/17/placing-the-anti-globalization-bet/" ng-href="{{meta.canonical}}"><link rel="shortlink" href="" ng-href="{{meta.shortUri}}"><link rel="alternate" type="application/rss+xml" title="Placing The &#39;Anti-Globalization&#39; Bet - RSS" href="http://www.forbes.com/sites/kenrapoza/feed/"> <link rel="amphtml" href="https://www.forbes.com/sites/kenrapoza/2016/11/17/placing-the-anti-globalization-bet/amp/"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta name="prerender-status-code" content="{{meta.code}}" ng-if="meta.code === 404"><meta name="apple-itunes-app" content="app-id=588647136"><meta property="og:title" content="Placing The &#39;Anti-Globalization&#39; Bet" ng-attr-content="{{meta.title}}"><meta property="og:site_name" content="Forbes"><meta property="og:type" content="" ng-attr-content="{{meta.type}}"><meta property="og:url" content="https://www.forbes.com/sites/kenrapoza/2016/11/17/placing-the-anti-globalization-bet/" ng-attr-content="{{meta.canonical}}"><meta property="og:image" content="https://specials-images.forbesimg.com/imageserve/515400844/640x434.jpg?fit=scale" ng-attr-content="{{meta.image}}"><meta property="og:image:type" content="image/jpeg,image/gif,image/png"><meta property="og:image:width" content="" ng-attr-content="{{meta.image_width}}"><meta property="og:image:height" content="" ng-attr-content="{{meta.image_height}}"><meta property="og:description" content="Another way to think of global markets in the Trump era." ng-attr-content="{{meta.description}}"><meta property="og:updated_time" content="2016-11-17T08:55:02-05:00"><meta property="article:publisher" content="https://www.facebook.com/forbes"><meta property="article:author" content=""><meta property="fb:app_id" content="123694841080850"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@forbes"><meta name="twitter:title" content="Placing The &#39;Anti-Globalization&#39; Bet" ng-attr-content="{{meta.title}}"><meta name="twitter:description" content="Another way to think of global markets in the Trump era." ng-attr-content="{{meta.description}}"><meta name="twitter:image" itemprop="image" content="https://specials-images.forbesimg.com/imageserve/515400844/640x434.jpg?fit=scale" ng-attr-content="{{meta.image}}"><meta name="twitter:image:width" content="" ng-attr-content="{{meta.image_width}}"><meta name="twitter:image:height" content="" ng-attr-content="{{meta.image_height}}"><meta property="og:type" content="article"><meta name="news_keywords" itemprop="keywords" content="" ng-attr-content="{{meta.keywords}}"><meta property="article:section" itemprop="articleSection" content="Investing"><meta property="article:section_url" content="//www.forbes.com/investing"><meta property="article:id" content="blogAndPostId/blog/post/1383-49884"><meta property="article:published" itemprop="datePublished" content="2016-11-17"><meta property="article:modified" itemprop="dateModified" content="2016-11-17"><meta name="twitter:creator" content="@BRICBreaker" ng-attr-content="{{meta.twitterHandle}}"><link rel="shortcut icon" href="//i.forbesimg.com/favicon.ico"><link rel="apple-touch-icon" href="//i.forbesimg.com/media/assets/appicons/forbes-app-icon_57x57.png"><link rel="apple-touch-icon" sizes="72x72" href="//i.forbesimg.com/media/assets/appicons/forbes-app-icon_72x72.png"><link rel="apple-touch-icon" sizes="114x114" href="//i.forbesimg.com/media/assets/appicons/forbes-app-icon_114x114.png"><link rel="apple-touch-icon" sizes="144x144" href="//i.forbesimg.com/media/assets/appicons/forbes-app-icon_144x144.png"><base href="/sites"><link rel="stylesheet" href="//i.forbesimg.com/forbes/styles/0229bccd.main.css"><!--[if lte IE 9]>
-		<link rel="stylesheet" href="//i.forbesimg.com/forbes/styles/d9996d20.ie_main.css"/>
-		<![endif]--><!--[if lte IE 9]>
-		<link rel="stylesheet" href="//i.forbesimg.com/forbes/styles/ee5d686f.article.css"/>
-		<![endif]--><!--[if lte IE 9]>
-		<link rel="stylesheet" href="//i.forbesimg.com/forbes/styles/b60111d2.csf.css"/>
-		<![endif]--><!--[if lte IE 9]>
-		<link rel="stylesheet" href="//i.forbesimg.com/forbes/styles/64306710.gallery.css"/>
-		<![endif]--><!--[if lte IE 9]>
-		<link rel="stylesheet" href="//i.forbesimg.com/forbes/styles/368e9df5.search.css"/>
-		<![endif]--><!--[if lte IE 9]>
-		<script src="//i.forbesimg.com/forbes/scripts/fb471d66.ie_scripts.js"></script>
-		<![endif]--><!--[if lt IE 9]>
-		<script src="//i.forbesimg.com/forbes/scripts/21ef3912.ie_vendor.js"></script>
-		<![endif]--><script>function isIe(a){var a=a||navigator.userAgent,b=a.match(/(MSIE|Trident\/7\.)/);return b?"MSIE":!1}!function(){var a=window,b=a.performance||{},c=b.now?b:Date;c.now||(c.now=function(){return(new Date).getTime()});var d=c.now(),e=Date.now(),f=document,g=(1e20*Math.random()).toString(16).substr(0,12),h=window.ft=function(a,b){h.L(a,b)};h.p=g,h.I=0,h.Q=[],h.L=function(a,b){var d=a+"~"+Math.round(c.now());b&&(d+="~"+b.join("~")),h.Q.push(d)},h.F=function(){h.D("p="+g+"&v=1&i="+h.I+"&t="+Math.round(c.now())+"&e=!"+h.Q.join("!")+"!"),h.I++,h.Q=[]};var i=function(){h.F()};h.D=function(a){var b=f.createElement("script");b.async=!0,b.src=("https://www.forbes.com/t/t.js?"+a).substr(0,2e3),f.head.appendChild(b)},(a.googletag=a.googletag||{cmd:[]}).cmd.push(function(){h(42);var b=a.googletag.pubads(),c=function(a,c){b.addEventListener(a,function(a){var b=[a.slot.getSlotElementId(),a.inViewPercentage];44==c&&b.push(a.advertiserId,a.campaignId,a.creativeId,a.isEmpty,a.lineItemId,a.serviceName,a.size,a.sourceAgnosticCreativeId,a.sourceAgnosticLineItemId),h(c,b)})};c("slotOnload",43),c("slotRenderEnded",44),c("slotVisibilityChanged",45),c("impressionViewable",46)});var j=[Math.round(d),e,a.innerHeight,a.innerWidth],k=b.timing;if(k){var l=k.navigationStart;j.push(l,k.domainLookupStart-l,k.domainLookupEnd-l,k.connectStart-l,k.connectEnd-l,k.requestStart-l,k.responseStart-l,k.redirectStart-l,k.redirectEnd-l,k.unloadEventStart-l,k.unloadEventEnd-l,k.secureConnectionStart-l)}h(40,j);var m=function(){h(41,[(f.visibilityState||"u").charAt(0)])};m(),f.addEventListener("visibilitychange",m),a.addEventListener("pagehide",function(){h(47),i()}),a.addEventListener("unload",function(){h(48),i()}),h.V=setInterval(i,1e3),i()}();var dataLayer=dataLayer||[],fbs_settings={domain_base:"http://www.forbes.com",blogs_base:"//blogs.forbes.com",tool_js:"",blogs_image_base:"",mobile:"false",is_tablet:null!==navigator.userAgent.match(/android/i)||null!==navigator.userAgent.match(/iPad/i),isSSL:"https:"==document.location.protocol,logged_in:"false",type:"article"},globalUtils={getExternalAsset:function(a){return a?(("string"==typeof a||a.src)&&(a=[a]),void(a||[]).forEach(function(a){"string"==typeof a&&(a={src:a});var b,c=a.src,d=a.attrs||{},e=fbs_settings.isSSL||"https:"==document.location.protocol,f=/^https?:\/\//i.test(c)?"":e?"https:":"http:";c.match(/\.css($|\?|#)/)?(b=document.createElement("link"),b.rel="stylesheet",b.type="text/css",b.media="all",b.href=f+c):(b=document.createElement("script"),b.type="text/javascript",b.src=f+c),b.async=!(a.async===!1),a.onload&&(b.onload=a.onload);for(key in d)b.setAttribute(key,d[key]);if(a.parent_element){var g=document.querySelector(a.parent_element);g&&g.appendChild(b),g=null}else{var h=document.getElementsByTagName("script")[0];h.parentNode.insertBefore(b,h),h=null}})):!1}};"$"===fbs_settings.mobile.charAt(0)&&navigator.userAgent.match(/mobile/i)&&!navigator.userAgent.match(/iPad/i)&&(fbs_settings.mobile="true",fbs_settings.is_tablet=!1),window.displayedChannel="investing",window.displayedSection="kenrapozablog",function(){var a=["//native.sharethrough.com/assets/sfp.js"];if("true"!==fbs_settings.mobile){var b=["//contextual.media.net/dmedianet.js?cid=8CU2T3HV4"+(fbs_settings.isSSL?"&https=1":""),"//consent.truste.com/notice?domain=forbes.com&amp;c=teconsent"];window._mNHandle=window._mNHandle||{},window._mNHandle.queue=window._mNHandle.queue||[],medianet_versionId="121199",a=a.concat(b)}if(globalUtils.getExternalAsset(a),window.history&&window.history.pushState){var c=window.onload,d=function(){window._sf_endpt=(new Date).getTime();var a=[],b="";if(fbs_settings.content){if(fbs_settings.content.displayChannel?a.push(fbs_settings.content.displayChannel.substring(0,62)):fbs_settings.content.omnitureChannel&&a.push(fbs_settings.content.omnitureChannel.substring(0,62)),!fbs_settings.content.swimLane)if(fbs_settings.content.specialSlot&&"false"!==fbs_settings.content.specialSlot&&"0"!==fbs_settings.content.specialSlot)b=fbs_settings.content.specialSlot.replace(/-\d+$/,"").substring(0,62),a.push(b);else if(fbs_settings.content.authors&&fbs_settings.content.authors[1]){var c=fbs_settings.content.authors[1]||{};c.specialSlot&&"false"!==c.specialSlot&&"0"!==c.specialSlot&&(b=c.specialSlot.replace(/-\d+$/,"").substring(0,62),a.push(b))}fbs_settings.content.editorialSlot&&fbs_settings.content.editorialSlot!==b&&a.push(fbs_settings.content.editorialSlot.substring(0,62))}_sf_async_config.sections=a.join().length>124?a.pop().join():a.join(),globalUtils.getExternalAsset("//static.chartbeat.com/js/chartbeat.js")};window._sf_startpt=(new Date).getTime(),window._sf_async_config={uid:17493,domain:"forbes.com",authors:"Kenneth Rapoza",useCanonical:!0,sections:window.displayedChannel},window.onload="function"!=typeof window.onload?d:function(){c(),d()}}window.twttr=function(){var a=window.twttr||{},b={src:"https://platform.twitter.com/widgets.js",attrs:{id:"twitter-wjs"}};if(!document.getElementById(b.attrs.id))return globalUtils.getExternalAsset(b),a._e=[],a.ready=function(b){a._e.push(b)},a}()}(),window.blockab=function(a){window.uabfunc={detected:a}},window.onunload=function(){window.scrollTo(0,0)};</script><script>try {
-		fbs_settings.content = {"id":"content_582a5f7564aaf93de4c2bd62","naturalId":"blogAndPostId/blog/post/1383-49884","generatedId":"eglg45hmllh","source":"blogs","author":"Kenneth Rapoza","title":"Placing The 'Anti-Globalization' Bet","date":1479390900000,"timestamp":1479390902521,"body":"<p>[caption id=\"attachment_515400844\" align=\"\" width=\"960\"]<img class=\"dam-image shutterstock wp-image-515400844 size-large\" src=\"http://specials-images.forbesimg.com/imageserve/515400844/960x0.jpg?fit=scale\" data-height=\"617\" data-width=\"960\"> Some investment ideas as globalization takes on heavy fire. (Shutterstock)[/caption]\r\n\r\nInvestors should not &ldquo;obsess about the wave of anti-globalization&rdquo; projected by many politicians across the western world, says Nigel Green, the founder and chief executive of deVere Group, a U.K. based financial advisory.\r\n\r\n&ldquo;Populism is an increasingly important force in global politics.&nbsp; Understandably, people are worrying about their jobs, their wages, and stagnating economic growth...and are seeking alternatives,\" he says.\r\n\r\nThe phenomen is most obviously evidenced by two high profile votes: Brexit and the election of Donald Trump on Tuesday. What's next? Looking at the stock market, the Russell 2000 Index has gained 8.6% since Trump's election, beating the S&amp;P 500's 1.2% gain. MSCI World is up 1.7% while the MSCI Emerging Markets is taking it on the chin, down 8.46% in expectations for higher rates in the U.S. and an America First economic policy that likely means a stronger dollar. If Trump can get tax laws passed that lower the corporate tax rate and bring in billions of off-shore capital being held by U.S. multinationals headquartered in fiscal paradises, inflows could easily strengthen the dollar, raise inflation, and increase interest rates. Money will leave the low rate investment grade markets (Europe and Japan) and go to the U.S.\r\n\r\nConsider that a hint of what's to come.\r\n\r\nTrump has made several proposals that could benefit the U.S. economy, notes Richard Barkham, global chief economist of real estate firm CBRE. These include increased defense and infrastructure spending; lower taxes for businesses; reduced business regulations; repealing and replacing Obamacare; tighter border security and one of the scariest ones for the market -- the imposition of trade tariffs and the uncertainty of existing trade deals.\r\n\r\nBoth Mexico and Canada have signalled that they were willing to look at the North American Free Trade Agreement again, and revise some of its rules.\r\n\r\nWith Republicans leading Congress, Trump \"can bring his agenda up for votes and use procedural maneuvering to further it along\" says Barkham. This bodes well for a lot of his ideas to pass, though many in the markets doubt that he will get anywhere near a tariff on Made in China and can scapegoat Republicans for that. \"Trump's proposals are likely to be tempered as they move through Congress.\"\r\n<!--nextpage-->\nFor investors who think that lower U.S. corporate taxes, and a stranglehold on offshore headquarters for big U.S. firms like Apple means both more offshore money into the U.S. and higher taxes for Apple, then small and mid-cap U.S. stocks look fantastic. For those who believe bond yields are going higher investors will either chase yield and cut their losses on their existing bonds, or put money to work in higher yielding emerging market debt, particularly local currency debt that may benefit further down the road when the dollar has lost some of its muscle.\r\n\r\nFor now, the market is liking the prospects for the U.S.\r\n\r\nGiven that both the House and the Senate belong to the Republicans, the odds are a lot better for a possibility of further fiscal stimulating policies in the coming days. If the new government invests in infrastructure as planned, this will have an impact on inflation. The recent rise in yields and the dollar is due mainly to these expectations, says forex expert Naeem Aslam, chief market strategist for ThinkForex.\r\n\r\nFor regime change loving hedge funds and big macro traders, Trump's victory is vital for the Middle East. It most likely means better relations with Russia, which is great for the Market Vectors Russia (RSX) ETF. HSBC said on Monday that Russia and India were the two bright spots today in emerging market bonds.\r\n\r\n[caption id=\"attachment_49886\" align=\"\" width=\"700\"]<a href=\"http://blogs-images.forbes.com/kenrapoza/files/2016/11/RUT-overbought.png\" target=\"_blank\"><img class=\"size-full wp-image-49886\" src=\"http://blogs-images.forbes.com/kenrapoza/files/2016/11/RUT-overbought.jpg?width=960\" alt=\"Russell 2000: looking overbought. \" data-height=\"530\" data-width=\"700\"></a> Russell 2000: looking overbought.[/caption]\r\n\r\n[caption id=\"attachment_49888\" align=\"\" width=\"700\"]<a href=\"http://blogs-images.forbes.com/kenrapoza/files/2016/11/EEM-OVERSOLD-1.png\" target=\"_blank\"><img class=\"size-full wp-image-49888\" src=\"http://blogs-images.forbes.com/kenrapoza/files/2016/11/EEM-OVERSOLD-1.jpg?width=960\" alt=\"And MSCI Emerging Markets looking way oversold. \" data-height=\"530\" data-width=\"700\"></a> And MSCI Emerging Markets looking way oversold.[/caption]\r\n\r\nAlso with Trump in office it will be important to see how he treats the U.S. shale oil industry. \"We anticipate that he is going to have very little concern for the environment and he will provision more drilling across the country,\" says Aslam. \"This could add further to the supply glut on the market. Given that the OPEC cartel has failed to materialize any sort of supply cut, or even show a united front, Trump could actually take advantage of this situation and make America's position stronger by aiding the U.S.'s controversial shale oil industry.\"\r\n\r\nOPEC members cannot agree on supply cutbacks, mainly because Iran has just entered the market and is competing with the Saudis, their sworn enemies. Stock piles have come down considerably, but that will change overnight if the U.S. revs up production. The question now is whether the Saudis, under the spotlight due to their budget deficit thanks to oil under $50 a barrel all year, will remain pegged to the dollar.\r\n<!--nextpage-->\n\"The idea of breaking the peg has floated before,\" says Aslam. \"The country could let its currency float and by doing this it would give them more room to tackle the situation. They could always use the Chinese currency for the exchange of oil and before we know it, the Chinese yuan could emerge as an alternative to the dollar if you want to trade oil.\"\r\n\r\nU.S. fund managers expect volatility to last at least until February. That's only a few weeks after the inauguration and ample time for markets to assess what is going to happen at the Federal Reserve. Will Janet Yellen be kept on as chairwoman? Who will replace some of the outgoing board members and will they be more hawkish than the existing board members?\r\n\r\nOutside of the U.S., some countries are worse positioned than others. Mexico is case in point. It is in the cross hairs of a NAFTA re-write.\r\n\r\n\"We&rsquo;re concerned about the rise of protectionism in the United States and Europe, but are encouraged about the longer-term trajectory of Latin America,\" says Michael Hasenstab, a manager for Franklin Templeton's global macro funds. \"I think we learned a lot from the post-election market reaction. We learned which markets are vulnerable, which were oversold, and by and large, saw some market dislocations present longer-term investment opportunities. We expect rising inflation in the United States, rising Treasury yields, depreciations of the Japanese yen and euro, and currency appreciations across a select set of emerging markets,\" he says without naming names. \r\n\r\nOne name being tossed around is the Brazilian real. But investors may want to watch it move a little bit more to get a sense of the volatility there. Others like the Mexican peso, believe it or not, as a long if it starts to hit 22 and above.\r\n\r\nMeanwhile, Trump's more extreme approaches are likely give way, to some extent at least, to pragmatism and geopolitical and economic realities, says Green in London. \"The world is becoming ever smaller, we&rsquo;re all more interdependent, and globalization is happening whether we like it or not. There is indeed a ground swell of anger within huge swathes of the electorate in many countries and sentiments are changing. There will be winners and losers in the shake up.\"\r\n\r\nIn the U.S., the banking sector is likely to do well due to the lifting of regulations which means less paperwork and less contracting third parties to explain to them how these regulations work. Mining and oil stocks, again in the U.S., might get a boost if some environmental laws or relaxed. But those remain a moving target due to external factors like OPEC and China demand. Healthcare and pharma stocks could rally should Obama's Affordable Healthcare Act be scrapped or modified.\r\n\r\nThere is money to be made. Investors should not try to time entry points.\r\n\r\n&ldquo;Changing sentiment will take time to play out,\" says Green. \"Investors who get ahead of the curve and are vigilant will be able to build and maximize their wealth.&rdquo;</p>","description":"Another way to think of global markets in the Trump era.","image":"http://specials-images.forbesimg.com/imageserve/515400844/960x0.jpg?fit=scale","type":"blog","storyType":"post","uri":"http://www.forbes.com/sites/kenrapoza/2016/11/17/placing-the-anti-globalization-bet/","comments":[],"visible":true,"blogId":"1383","authors":[{"naturalId":"blogAuthorId/blog/author/20560","name":"Kenneth Rapoza","avatars":[{"size":40,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg"},{"size":62,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},{"size":136,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg"},{"size":400,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg"}],"url":"http://www.forbes.com/sites/kenrapoza/","primaryChannel":{"id":"channel_2","channelId":"channel_2","channelName":"Investing","url":"/investing","shortName":"Investing","displayName":"Investing"},"type":"Contributor","profileUrl":"/sites/kenrapoza/","twitterName":"BRICBreaker","authorType":"individual","linkedIn":"https://www.linkedin.com/profile/view?id=16936483&trk=spm_pic","email":"bricbreaker@igc.org","blog":false,"numFollowers":0,"shortBio":"I cover business and investing in emerging markets.","timestamp":1488390409122,"description":"I've written about Brazil pre-Lula and post-Lula and spent the last five years covering all aspects of the country for the Wall Street Journal and Dow Jones. Meanwhile, for an undetermined amount of time, and with a little help from my friends, I will be parachuting primarily into Brazil, Russia, India and China. But will also be on the look out for interesting business stories and investing ideas throughout the emerging markets.","recentFlag":false,"blogName":"BRIC Breaker","primaryBlogNaturalId":"blogAuthorId/blog/author/blog-1383","topics":["investing","international","stocks","business","markets","washington","advisor-network","etfs","lifestyle","real-estate","asia-outlook","commodities-currencies","powering-productivity"],"recentActivityCount":0,"latestActivityDate":1447771380000,"dailyActivityCount":0,"displayChannel":"investing","displaySection":"kenrapozablog","shortUri":"http://onforb.es/12liUla","slug":"kenrapoza","contributorSince":1299187805000,"showNoVestPocket":false,"embargo":false,"enableContribContact":false,"sigfile":"Find me on Twitter at <a href=\"https://twitter.com/BRICBreaker\" target=\"_blank\">@BRICBreaker</a>","enableTwitterFeed":false,"forbesTwitterProfile":{"screenName":"BRICBreaker","name":"Kenneth Rapoza","profileImageUrl":"http://pbs.twimg.com/profile_images/737345805183520768/HIkfQwku.jpg","description":"Twitter account for Forbes' daily emerging markets coverage, namely #Brazil #Russia #India #China. Jet-lagged journalist allowed to opine. Ex-WSJ in Sao Paulo.","createdDate":1314068497000,"location":"New York, NY","url":"https://t.co/pckxoQvX8t","expandedUrl":"http://www.forbes.com/sites/kenrapoza/#24918a2e7d9e","displayUrl":"forbes.com/sites/kenrapoz…","verified":false},"disableCanonical":false,"disableDigest":false,"inactive":false,"largeAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg","largerAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","largestAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","smallAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg","mediumAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},{"naturalId":"blogAuthorId/blog/author/blog-1383","name":"BRIC Breaker","avatars":[{"size":0},{"size":0},{"size":0},{"size":0}],"url":"http://www.forbes.com/sites/kenrapoza/","primaryChannel":{"id":"channel_2","channelId":"channel_2","channelName":"Investing","url":"/investing","shortName":"Investing","displayName":"Investing"},"profileUrl":"http://blogs.forbes.com/kenrapoza/profile/","twitterName":"BRICBreaker","authorType":"individual","blog":true,"numFollowers":0,"timestamp":1488390240184,"recentFlag":false,"primaryBlogNaturalId":"blogAuthorId/blog/author/blog-1383","primaryContributor":"blogAuthorId/blog/author/20560","primaryContributorData":{"naturalId":"blogAuthorId/blog/author/20560","name":"Kenneth Rapoza","avatars":[{"size":136,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg"},{"size":40,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg"},{"size":400,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg"},{"size":62,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"}],"blog":false,"numFollowers":0,"shortBio":"I cover business and investing in emerging markets.","description":"I've written about Brazil pre-Lula and post-Lula and spent the last five years covering all aspects of the country for the Wall Street Journal and Dow Jones. Meanwhile, for an undetermined amount of time, and with a little help from my friends, I will be parachuting primarily into Brazil, Russia, India and China. But will also be on the look out for interesting business stories and investing ideas throughout the emerging markets.","inactive":false,"largeAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg","largerAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","largestAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","smallAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg","mediumAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},"topics":["investing","international","business","washington","advisor-network","stocks","etfs","lifestyle","real-estate","asia-outlook","commodities-currencies","powering-productivity"],"recentActivityCount":29,"latestActivityDate":1447771380000,"dailyActivityCount":7,"displayChannel":"investing","displaySection":"kenrapozablog","shortUri":"http://onforb.es/12liUla","slug":"kenrapoza","contributorSince":1299169887000,"showNoVestPocket":false,"embargo":false,"enableContribContact":false,"enableTwitterFeed":false,"forbesTwitterProfile":{"screenName":"BRICBreaker","name":"Kenneth Rapoza","profileImageUrl":"http://pbs.twimg.com/profile_images/737345805183520768/HIkfQwku.jpg","description":"Twitter account for Forbes' daily emerging markets coverage, namely #Brazil #Russia #India #China. Jet-lagged journalist allowed to opine. Ex-WSJ in Sao Paulo.","createdDate":1314068497000,"location":"New York, NY","url":"https://t.co/pckxoQvX8t","expandedUrl":"http://www.forbes.com/sites/kenrapoza/#24918a2e7d9e","displayUrl":"forbes.com/sites/kenrapoz…","verified":false},"disableCanonical":false,"disableDigest":false,"inactive":false}],"channelSection":[{"channelId":"channel_2"},{"channelId":"channel_2","sectionId":"section_66"},{"channelId":"channel_2","sectionId":"section_8"}],"slug":"BRIC Breaker","blogType":"individual","sitePage":"forbes.com/investing/blogs/kenrapoza/index.html","displayChannel":"investing","primaryChannelId":"channel_2","vestPocketList":[{"id":"581530c064aaf93de4c26a8c","naturalId":"blogAndPostId/blog/post/2711-4635","type":"blog","uri":"http://www.forbes.com/sites/berlinschoolofcreativeleadership/2016/11/10/free-lancers-and-technology-are-leading-the-workforce-revolution/","image":"http://blogs-images.forbes.com/berlinschoolofcreativeleadership/files/2016/11/Workforce-300x170.png","imageExists":false,"title":"Free-Lancers And Technology Are Leading The Workforce Revolution","contentType":"blog","position":0,"authorName":"The Berlin School Of Creative Leadership","authorImage":"http://2.gravatar.com/avatar/835986da65036b436e22a5313fbab8c0?s=40&d=mm&r=g","authorUrl":"http://www.forbes.com/sites/berlinschoolofcreativeleadership/","authorType":"Contributor"},{"id":"57ea95b764aaf93de4c1c15a","naturalId":"blogAndPostId/blog/post/2517-948","type":"blog","uri":"http://www.forbes.com/sites/emsi/2016/09/27/three-jobs-that-are-growing-because-of-globalization/","image":"http://blogs-images.forbes.com/emsi/files/2016/09/Globalization-640px1.jpg","imageExists":false,"title":"Three Jobs That Are Growing Because of Globalization","contentType":"blog","position":1,"authorName":"Rob Sentz","authorImage":"http://blogs-images.forbes.com/emsi/files/2016/09/Rob-Sentz_avatar_1474913504-40x40.png","authorUrl":"http://www.forbes.com/sites/emsi/","authorType":"Contributor"},{"id":"57ff87fb64aaf93de4c214b5","naturalId":"blogAndPostId/blog/post/2609-2820","type":"blog","uri":"http://www.forbes.com/sites/stratfor/2016/10/13/is-globalization-sowing-the-seeds-of-its-own-undoing/","image":"http://specials-images.forbesimg.com/imageserve/614269356/960x0.jpg?fit=scale","imageExists":false,"title":"Is Globalization Sowing The Seeds Of Its Own Undoing?","contentType":"blog","position":2,"authorName":"Stratfor","authorImage":"http://2.gravatar.com/avatar/84455c089db8c3a742072f3ef74f4fb7?s=40&d=mm&r=g","authorUrl":"http://www.forbes.com/sites/stratfor/","authorType":"Contributor"},{"id":"5825b24a64aaf93de4c2ac6f","naturalId":"blogAndPostId/blog/post/3555-728","type":"blog","uri":"http://www.forbes.com/sites/stevekeen/2016/11/11/trumps-truthful-heresy-on-globalization-and-free-trade/","image":"http://specials-images.forbesimg.com/imageserve/617297728/960x0.jpg?fit=scale","imageExists":false,"title":"Trump's Truthful Heresy On Globalization And Free Trade","contentType":"blog","position":3,"authorName":"Steve Keen","authorImage":"http://blogs-images.forbes.com/stevekeen/files/2015/01/stevekeen_avatar_1421100294-40x40.jpg","authorUrl":"http://www.forbes.com/sites/stevekeen/","authorType":"Contributor"},{"naturalId":"blogAndSlideId/blog/slide/2282-2741","type":"slide","uri":"https://www.forbes.com/pictures/fflf45fkhe/the-richest-person-in-ev/","image":"http://specials-images.forbesimg.com/imageserve/573f24e431358e68498f8775/","imageExists":false,"title":"The Richest Person In Every State","count":95131,"reason":"MP-G"},{"naturalId":"blogAndPostId/blog/post/3453-13918","type":"blog","uri":"https://www.forbes.com/sites/olliebarder/2017/04/18/radwimps-on-how-they-scored-the_music-for-the-anime-blockbuster-your-name/","image":"http://blogs-images.forbes.com/olliebarder/files/2017/04/radwimps_banda-1200x675.jpg","imageExists":false,"title":"RADWIMPS On How They Scored The Music For The Anime Blockbuster 'Your Name'","count":0,"reason":"FB"},{"naturalId":"blogAndSlideId/blog/slide/986-6336","type":"slide","uri":"https://www.forbes.com/pictures/mlj45jggj/1-detroit/","image":"http://specials-images.forbesimg.com/imageserve/026M72T8ElbzS/","imageExists":false,"title":"The 10 Most Dangerous U.S. Cities","count":57781,"reason":"MP-G"},{"type":"video","uri":"https://www.forbes.com/video/5194688673001/","image":"http://i.forbesimg.com/media/video/2016/11/03/5194688673001_still.jpg","imageExists":false,"title":"Stan Lee Introduces Augmented Reality For His Kids Universe","count":118650,"reason":"MP-V"}],"vestPocketPosition":6,"manualDescription":"Another way to think of global markets in the Trump era.","preview":false,"showComments":true,"commentCount":0,"calledOutCommentCount":0,"siteSlug":"kenrapoza","showNoVestPocket":false,"templateType":"standard","enableSigfile":true,"primaryChannel":{"id":"channel_2","channelId":"channel_2","channelName":"Investing","url":"/investing","shortName":"Investing","displayName":"Investing"},"pages":["<div id=\"attachment_515400844\" class=\"wp-caption alignnone\"> \n <img class=\"dam-image shutterstock wp-image-515400844 size-large\" src=\"//specials-images.forbesimg.com/imageserve/515400844/960x0.jpg?fit=scale\" data-height=\"617\" data-width=\"960\" /> \n <div article-image-caption=\"\"> \n  <div class=\"caption-container\" ng-class=\"caption_state\"> \n   <p class=\"wp-caption-text\">Some investment ideas as globalization takes on heavy fire. (Shutterstock)</p> \n   <span class=\"article-expand-caption\" ng-click=\"toggleCaption();\"></span> \n  </div> \n </div> \n</div>\n<p>Investors should not “obsess about the wave of anti-globalization” projected by many politicians across the western world, says Nigel Green, the founder and chief executive of deVere Group, a U.K. based financial advisory.</p>\n<p>“Populism is an increasingly important force in global politics.&nbsp; Understandably, people are worrying about their jobs, their wages, and stagnating economic growth...and are seeking alternatives,&quot; he says.</p>\n<p>The phenomen is most obviously evidenced by two high profile votes: Brexit and the election of Donald Trump on Tuesday. What's next? Looking at the stock market, the Russell 2000 Index has gained 8.6% since Trump's election, beating the S&amp;P 500's 1.2% gain. MSCI World is up 1.7% while the MSCI Emerging Markets is taking it on the chin, down 8.46% in expectations for higher rates in the U.S. and an America First economic policy that likely means a stronger dollar. If Trump can get tax laws passed that lower the corporate tax rate and bring in billions of off-shore capital being held by U.S. multinationals headquartered in fiscal paradises, inflows could easily strengthen the dollar, raise inflation, and increase interest rates. Money will leave the low rate investment grade markets (Europe and Japan) and go to the U.S.</p>\n<div id=\"inread\" article-ad-inbody=\"inread\" class=\"inread\"></div>\n<p>Consider that a hint of what's to come.</p>\n<p>Trump has made several proposals that could benefit the U.S. economy, notes Richard Barkham, global chief economist of real estate firm CBRE. These include increased defense and infrastructure spending; lower taxes for businesses; reduced business regulations; repealing and replacing Obamacare; tighter border security and one of the scariest ones for the market -- the imposition of trade tariffs and the uncertainty of existing trade deals.</p>\n<p>Both Mexico and Canada have signalled that they were willing to look at the North American Free Trade Agreement again, and revise some of its rules.</p>\n<p>With Republicans leading Congress, Trump &quot;can bring his agenda up for votes and use procedural maneuvering to further it along&quot; says Barkham. This bodes well for a lot of his ideas to pass, though many in the markets doubt that he will get anywhere near a tariff on Made in China and can scapegoat Republicans for that. &quot;Trump's proposals are likely to be tempered as they move through Congress.&quot;</p>\n<div class=\"vestpocket\" vest-pocket=\"\"></div>","<p>For investors who think that lower U.S. corporate taxes, and a stranglehold on offshore headquarters for big U.S. firms like Apple means both more offshore money into the U.S. and higher taxes for Apple, then small and mid-cap U.S. stocks look fantastic. For those who believe bond yields are going higher investors will either chase yield and cut their losses on their existing bonds, or put money to work in higher yielding emerging market debt, particularly local currency debt that may benefit further down the road when the dollar has lost some of its muscle.</p>\n<p>For now, the market is liking the prospects for the U.S.</p>\n<p>Given that both the House and the Senate belong to the Republicans, the odds are a lot better for a possibility of further fiscal stimulating policies in the coming days. If the new government invests in infrastructure as planned, this will have an impact on inflation. The recent rise in yields and the dollar is due mainly to these expectations, says forex expert Naeem Aslam, chief market strategist for ThinkForex.</p>\n<p>For regime change loving hedge funds and big macro traders, Trump's victory is vital for the Middle East. It most likely means better relations with Russia, which is great for the Market Vectors Russia (RSX) ETF. HSBC said on Monday that Russia and India were the two bright spots today in emerging market bonds.</p>\n<div id=\"attachment_49886\" class=\"wp-caption alignnone\"> \n <a href=\"http://blogs-images.forbes.com/kenrapoza/files/2016/11/RUT-overbought.png\"><img class=\"size-full wp-image-49886\" src=\"//blogs-images.forbes.com/kenrapoza/files/2016/11/RUT-overbought.jpg?width=960\" alt=\"Russell 2000: looking overbought. \" data-height=\"530\" data-width=\"700\" /></a> \n <div article-image-caption=\"\"> \n  <div class=\"caption-container\" ng-class=\"caption_state\"> \n   <p class=\"wp-caption-text\">Russell 2000: looking overbought.</p> \n   <span class=\"article-expand-caption\" ng-click=\"toggleCaption();\"></span> \n  </div> \n </div> \n</div>\n<div id=\"inread\" article-ad-inbody=\"inread\" class=\"inread\"></div>\n<div id=\"attachment_49888\" class=\"wp-caption alignnone\"> \n <a href=\"http://blogs-images.forbes.com/kenrapoza/files/2016/11/EEM-OVERSOLD-1.png\"><img class=\"size-full wp-image-49888\" src=\"//blogs-images.forbes.com/kenrapoza/files/2016/11/EEM-OVERSOLD-1.jpg?width=960\" alt=\"And MSCI Emerging Markets looking way oversold. \" data-height=\"530\" data-width=\"700\" /></a> \n <div article-image-caption=\"\"> \n  <div class=\"caption-container\" ng-class=\"caption_state\"> \n   <p class=\"wp-caption-text\">And MSCI Emerging Markets looking way oversold.</p> \n   <span class=\"article-expand-caption\" ng-click=\"toggleCaption();\"></span> \n  </div> \n </div> \n</div>\n<p>Also with Trump in office it will be important to see how he treats the U.S. shale oil industry. &quot;We anticipate that he is going to have very little concern for the environment and he will provision more drilling across the country,&quot; says Aslam. &quot;This could add further to the supply glut on the market. Given that the OPEC cartel has failed to materialize any sort of supply cut, or even show a united front, Trump could actually take advantage of this situation and make America's position stronger by aiding the U.S.'s controversial shale oil industry.&quot;</p>\n<div class=\"vestpocket\" vest-pocket=\"\"></div>\n<p>OPEC members cannot agree on supply cutbacks, mainly because Iran has just entered the market and is competing with the Saudis, their sworn enemies. Stock piles have come down considerably, but that will change overnight if the U.S. revs up production. The question now is whether the Saudis, under the spotlight due to their budget deficit thanks to oil under $50 a barrel all year, will remain pegged to the dollar.</p>","<p>&quot;The idea of breaking the peg has floated before,&quot; says Aslam. &quot;The country could let its currency float and by doing this it would give them more room to tackle the situation. They could always use the Chinese currency for the exchange of oil and before we know it, the Chinese yuan could emerge as an alternative to the dollar if you want to trade oil.&quot;</p>\n<p>U.S. fund managers expect volatility to last at least until February. That's only a few weeks after the inauguration and ample time for markets to assess what is going to happen at the Federal Reserve. Will Janet Yellen be kept on as chairwoman? Who will replace some of the outgoing board members and will they be more hawkish than the existing board members?</p>\n<p>Outside of the U.S., some countries are worse positioned than others. Mexico is case in point. It is in the cross hairs of a NAFTA re-write.</p>\n<p>&quot;We’re concerned about the rise of protectionism in the United States and Europe, but are encouraged about the longer-term trajectory of Latin America,&quot; says Michael Hasenstab, a manager for Franklin Templeton's global macro funds. &quot;I think we learned a lot from the post-election market reaction. We learned which markets are vulnerable, which were oversold, and by and large, saw some market dislocations present longer-term investment opportunities. We expect rising inflation in the United States, rising Treasury yields, depreciations of the Japanese yen and euro, and currency appreciations across a select set of emerging markets,&quot; he says without naming names.</p>\n<p>One name being tossed around is the Brazilian real. But investors may want to watch it move a little bit more to get a sense of the volatility there. Others like the Mexican peso, believe it or not, as a long if it starts to hit 22 and above.</p>\n<div id=\"inread\" article-ad-inbody=\"inread\" class=\"inread\"></div>\n<p>Meanwhile, Trump's more extreme approaches are likely give way, to some extent at least, to pragmatism and geopolitical and economic realities, says Green in London. &quot;The world is becoming ever smaller, we’re all more interdependent, and globalization is happening whether we like it or not. There is indeed a ground swell of anger within huge swathes of the electorate in many countries and sentiments are changing. There will be winners and losers in the shake up.&quot;</p>\n<p>In the U.S., the banking sector is likely to do well due to the lifting of regulations which means less paperwork and less contracting third parties to explain to them how these regulations work. Mining and oil stocks, again in the U.S., might get a boost if some environmental laws or relaxed. But those remain a moving target due to external factors like OPEC and China demand. Healthcare and pharma stocks could rally should Obama's Affordable Healthcare Act be scrapped or modified.</p>\n<div class=\"vestpocket\" vest-pocket=\"\"></div>\n<p>There is money to be made. Investors should not try to time entry points.</p>\n<p>“Changing sentiment will take time to play out,&quot; says Green. &quot;Investors who get ahead of the curve and are vigilant will be able to build and maximize their wealth.”</p>"],"disableDigest":false,"writtenByForbesStaff":false,"doNotPaginate":false,"channelSectionMappings":[{"id":"channel_2","channelName":"Investing","url":"/investing","displayName":"Investing"},{"id":"channel_2section_66","channelName":"Investing","sectionName":"International","url":"/international","displayName":"International"},{"id":"channel_2section_8","channelName":"Investing","sectionName":"Bonds","url":"/bonds","displayName":"Bonds"}],"pTagCount":24,"hashtags":["MarketMoves"],"editorsPick":false,"numberOfImages":3,"relativeVideos":[{"videoId":"5248344040001","title":"Fed Hikes Rates For Second Time In A Decade, Indicates More To Come In 2017","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5388332475001","title":"Grab A Retirement Saver's Tax Credit","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5222174090001","title":"Expiring Tax Provisions","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5258870319001","title":"The Biggest Hedge Fund Paydays Of 2016, From Charter Communications To Natural Gas","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5249886157001","title":"Yahoo Slides As News Of 2013 Hack Stirs Doubts Over Verizon Deal","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5279623947001","title":"Here's Why 2017 Could Be The Best Year In Wall Street History","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5401274125001","title":"Use A Side Gig To Fund Retirement","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5249975000001","title":"Wall Street's Top Winners 2016","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5380836832001","title":"Why You Should Open A Roth IRA Today","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5229928603001","title":"OPEC Surrenders And Makes A Rebound Year For Energy Stocks Much Better","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true},{"videoId":"5232439423001","title":"The Week Ahead On Wall Street","playerId":"S1EBSbDn","keyValues":"displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing","autoPlay":true}],"brandVoiceTitle":"Placing The 'Anti-Globalization' Bet","digestDisabled":false,"groupAuthor":{"naturalId":"blogAuthorId/blog/author/blog-1383","name":"BRIC Breaker","avatars":[{"size":0},{"size":0},{"size":0},{"size":0}],"url":"http://www.forbes.com/sites/kenrapoza/","primaryChannel":{"id":"channel_2","channelId":"channel_2","channelName":"Investing","url":"/investing","shortName":"Investing","displayName":"Investing"},"profileUrl":"http://blogs.forbes.com/kenrapoza/profile/","twitterName":"BRICBreaker","authorType":"individual","blog":true,"numFollowers":0,"timestamp":1488390240184,"recentFlag":false,"primaryBlogNaturalId":"blogAuthorId/blog/author/blog-1383","primaryContributor":"blogAuthorId/blog/author/20560","primaryContributorData":{"naturalId":"blogAuthorId/blog/author/20560","name":"Kenneth Rapoza","avatars":[{"size":40,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg"},{"size":62,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},{"size":136,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg"},{"size":400,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg"}],"blog":false,"numFollowers":0,"shortBio":"I cover business and investing in emerging markets.","description":"I've written about Brazil pre-Lula and post-Lula and spent the last five years covering all aspects of the country for the Wall Street Journal and Dow Jones. Meanwhile, for an undetermined amount of time, and with a little help from my friends, I will be parachuting primarily into Brazil, Russia, India and China. But will also be on the look out for interesting business stories and investing ideas throughout the emerging markets.","inactive":false,"largeAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg","largerAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","largestAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","smallAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg","mediumAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},"topics":["investing","international","business","washington","advisor-network","stocks","etfs","lifestyle","real-estate","asia-outlook","commodities-currencies","powering-productivity"],"recentActivityCount":29,"latestActivityDate":1447771380000,"dailyActivityCount":7,"displayChannel":"investing","displaySection":"kenrapozablog","shortUri":"http://onforb.es/12liUla","slug":"kenrapoza","contributorSince":1299169887000,"showNoVestPocket":false,"embargo":false,"enableContribContact":false,"enableTwitterFeed":false,"forbesTwitterProfile":{"screenName":"BRICBreaker","name":"Kenneth Rapoza","profileImageUrl":"http://pbs.twimg.com/profile_images/737345805183520768/HIkfQwku.jpg","description":"Twitter account for Forbes' daily emerging markets coverage, namely #Brazil #Russia #India #China. Jet-lagged journalist allowed to opine. Ex-WSJ in Sao Paulo.","createdDate":1314068497000,"location":"New York, NY","url":"https://t.co/pckxoQvX8t","expandedUrl":"http://www.forbes.com/sites/kenrapoza/#24918a2e7d9e","displayUrl":"forbes.com/sites/kenrapoz…","verified":false},"disableCanonical":false,"disableDigest":false,"inactive":false},"individualAuthor":{"naturalId":"blogAuthorId/blog/author/20560","name":"Kenneth Rapoza","avatars":[{"size":40,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg"},{"size":62,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},{"size":136,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg"},{"size":400,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg"}],"url":"http://www.forbes.com/sites/kenrapoza/","primaryChannel":{"id":"channel_2","channelId":"channel_2","channelName":"Investing","url":"/investing","shortName":"Investing","displayName":"Investing"},"type":"Contributor","profileUrl":"/sites/kenrapoza/","twitterName":"BRICBreaker","authorType":"individual","linkedIn":"https://www.linkedin.com/profile/view?id=16936483&trk=spm_pic","email":"bricbreaker@igc.org","blog":false,"numFollowers":0,"shortBio":"I cover business and investing in emerging markets.","timestamp":1488390409122,"description":"I've written about Brazil pre-Lula and post-Lula and spent the last five years covering all aspects of the country for the Wall Street Journal and Dow Jones. Meanwhile, for an undetermined amount of time, and with a little help from my friends, I will be parachuting primarily into Brazil, Russia, India and China. But will also be on the look out for interesting business stories and investing ideas throughout the emerging markets.","recentFlag":false,"blogName":"BRIC Breaker","primaryBlogNaturalId":"blogAuthorId/blog/author/blog-1383","topics":["investing","international","stocks","business","markets","washington","advisor-network","etfs","lifestyle","real-estate","asia-outlook","commodities-currencies","powering-productivity"],"recentActivityCount":0,"latestActivityDate":1447771380000,"dailyActivityCount":0,"displayChannel":"investing","displaySection":"kenrapozablog","shortUri":"http://onforb.es/12liUla","slug":"kenrapoza","contributorSince":1299187805000,"showNoVestPocket":false,"embargo":false,"enableContribContact":false,"sigfile":"Find me on Twitter at <a href=\"https://twitter.com/BRICBreaker\" target=\"_blank\">@BRICBreaker</a>","enableTwitterFeed":false,"forbesTwitterProfile":{"screenName":"BRICBreaker","name":"Kenneth Rapoza","profileImageUrl":"http://pbs.twimg.com/profile_images/737345805183520768/HIkfQwku.jpg","description":"Twitter account for Forbes' daily emerging markets coverage, namely #Brazil #Russia #India #China. Jet-lagged journalist allowed to opine. Ex-WSJ in Sao Paulo.","createdDate":1314068497000,"location":"New York, NY","url":"https://t.co/pckxoQvX8t","expandedUrl":"http://www.forbes.com/sites/kenrapoza/#24918a2e7d9e","displayUrl":"forbes.com/sites/kenrapoz…","verified":false},"disableCanonical":false,"disableDigest":false,"inactive":false,"largeAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg","largerAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","largestAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","smallAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg","mediumAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},"authorType":"Contributor","allIndividualAuthors":[{"naturalId":"blogAuthorId/blog/author/20560","name":"Kenneth Rapoza","avatars":[{"size":40,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg"},{"size":62,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"},{"size":136,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg"},{"size":400,"image":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg"}],"url":"http://www.forbes.com/sites/kenrapoza/","primaryChannel":{"id":"channel_2","channelId":"channel_2","channelName":"Investing","url":"/investing","shortName":"Investing","displayName":"Investing"},"type":"Contributor","profileUrl":"/sites/kenrapoza/","twitterName":"BRICBreaker","authorType":"individual","linkedIn":"https://www.linkedin.com/profile/view?id=16936483&trk=spm_pic","email":"bricbreaker@igc.org","blog":false,"numFollowers":0,"shortBio":"I cover business and investing in emerging markets.","timestamp":1488390409122,"description":"I've written about Brazil pre-Lula and post-Lula and spent the last five years covering all aspects of the country for the Wall Street Journal and Dow Jones. Meanwhile, for an undetermined amount of time, and with a little help from my friends, I will be parachuting primarily into Brazil, Russia, India and China. But will also be on the look out for interesting business stories and investing ideas throughout the emerging markets.","recentFlag":false,"blogName":"BRIC Breaker","primaryBlogNaturalId":"blogAuthorId/blog/author/blog-1383","topics":["investing","international","stocks","business","markets","washington","advisor-network","etfs","lifestyle","real-estate","asia-outlook","commodities-currencies","powering-productivity"],"recentActivityCount":0,"latestActivityDate":1447771380000,"dailyActivityCount":0,"displayChannel":"investing","displaySection":"kenrapozablog","shortUri":"http://onforb.es/12liUla","slug":"kenrapoza","contributorSince":1299187805000,"showNoVestPocket":false,"embargo":false,"enableContribContact":false,"sigfile":"Find me on Twitter at <a href=\"https://twitter.com/BRICBreaker\" target=\"_blank\">@BRICBreaker</a>","enableTwitterFeed":false,"forbesTwitterProfile":{"screenName":"BRICBreaker","name":"Kenneth Rapoza","profileImageUrl":"http://pbs.twimg.com/profile_images/737345805183520768/HIkfQwku.jpg","description":"Twitter account for Forbes' daily emerging markets coverage, namely #Brazil #Russia #India #China. Jet-lagged journalist allowed to opine. Ex-WSJ in Sao Paulo.","createdDate":1314068497000,"location":"New York, NY","url":"https://t.co/pckxoQvX8t","expandedUrl":"http://www.forbes.com/sites/kenrapoza/#24918a2e7d9e","displayUrl":"forbes.com/sites/kenrapoz…","verified":false},"disableCanonical":false,"disableDigest":false,"inactive":false,"largeAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-136x136.jpg","largerAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","largestAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg","smallAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-40x40.jpg","mediumAvatar":"http://blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654-62x62.jpg"}],"authorString":"Kenneth Rapoza, Contributor"};
-		} catch(err) {
-		fbs_settings.content = null;
-		}</script><script>try {
-		fbs_settings.ads = {"site":"fdc.forbes","zone":"article-d"};
-		window.external_services = window.external_services || {};
-		window.external_services.site = fbs_settings.ads.site;
-		window.external_services.zone = fbs_settings.ads.zone;
-		} catch(err) {
-		fbs_settings.ads = null;
-		}</script><script>try {
-		fbs_settings.promoted_content = {};
-		} catch(err) {
-		fbs_settings.promoted_content = null;
-		}</script><script>try {
-		fbs_settings.blocked_classes = ["ad-ticker","iframeAd","ad_top_2","RelatedAds","ml-adverts-sidebar-bottom-3","ad-slot-sidebar","advertise-list","advert300x440","ad_new_box02","featuredBoxAD","adnet_area","insertad","AdsBoxBottom","adv_2","lb-ad","r_ad_1","adslot-mpu","adv__container--728x90","panel__row--with-vc-advert","advert_wrapper","br-ad","catfish_ad","ads-leaderboard","advertisement-dashed","ads-290","mvAdHdr","ad-medrect","admain","ad-mrect","ml-adverts-sidebar-1"];
-		} catch(err) {
-		fbs_settings.blocked_classes = null;
-		}</script><body class="js-contrib" ng-class="{'pinterest-sidebar-open': article_sidebar}"><script type="text/javascript">if (isIe() && isIe() === 'MSIE') {
-				document.getElementsByTagName("body")[0].setAttribute('class', 'js-contrib ie');
-			}</script> <!--[if lt IE 7]>
-		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-		<![endif]--><div id="main-content" class="preload-hidden" fbs-breakpoint-monitor="" module-resolver=""><div fbs-modal=""></div><div class="article-page scroll" fbs-track="fastpixel,ga,comscore,reach" article-render-ended-dispatch="" ng-class="{'mobile':is_mobile}"><!-- Expanded sidebar section --><aside class="article-search-panel {{sidebar_state}}" ng-controller="ArticleSearchController" ng-include="article_search_template"></aside><div class="page-main {{sidebar_state}}" ng-controller="ArticlePageController"><!-- Page Sidebar --><header class="article-top-navigation article-sidebar slash-background {{sidebar_state}} {{vertical_class}}" ng-controller="ArticleSidebarController" ng-include="template_path" article-sidebar-visibility=""></header><!-- Navigation section --><nav class="article-sidebar-panel article-nav-panel {{sidebar_state}}" ng-controller="ArticleNavController" ng-include="template_path"></nav><!-- Comments section --><aside class="article-sidebar-panel article-comments-panel {{sidebar_state}}" ng-controller="ArticleCommentsController" ng-include="template_path"></aside><!-- Expanded sidebar section --><aside class="article-sidebar-panel article-trending-panel default-expanded {{sidebar_state}}" ng-class="{'default-expanded' : sidebar_state === '' || sidebar_state === 'search-expanded'}" ng-controller="ArticleTrendingController" ng-include="template_path"></aside><!-- Main section --><section id="article-page" class="article-container default-expanded {{sidebar_state}}" ng-class="{'default-expanded' : sidebar_state === '' || sidebar_state === 'search-expanded'}"><div class="article-background-wrapper" article-repeat="" articles="articles"><!-- Article Main Content --><article article-entry="" id="article-container-{{article.index}}" class="main-article" ng-class="{'spinner-replacement': article.type === 'spinner'}"><div ng-if="article.type === 'article' || article.type === 'spinner'"><div class="main-article-padding" itemscope itemtype="http://schema.org/Article"><header class="article-header" ng-controller="ArticleHeaderController"><div class="article-topper"><div class="article-trail"><a href="http://www.forbes.com/" target="_self" class="logo" data-track="body-topper-logo"><h1><i class="icon icon-forbes-logo"></i></h1></a> <a class="crumb" data-track="body-topper-section" itemprop="articleSection" ng-href="http://www.forbes.com{{article.article.primaryChannel.url}}" target="_self" ng-bind="(article.article.primaryChannel.sectionName || article.article.primaryChannel.channelName)">Investing</a> <a class="hashtag preload-hidden" ng-if="::display_hashtag" ng-href="http://www.forbes.com/search/?q=%23{{::display_hashtag}}" target="_self">#&#8203;{{::display_hashtag}}</a></div></div><div ng-if="init_ads && !is_mobile && !no_ads_template" id="top-fbs-ad-article-sticky-{{article.index}}" sticky-ad-unit="sticky_top_ad_options" class="top-fbs-ad-sticky preload-hidden"><div id="top-fbs-ad-article-{{article.index}}" dynamic-ad-unit="top" class="top-fbs-ad top-fbs-ad-article"></div></div><div ng-if="!init_ads && !is_mobile && !no_ads_template" class="top-fbs-ad-sticky "><div class="top-fbs-ad top-fbs-ad-article"></div></div><!-- wrapper for 1280px+ padding purposes --><div class="header-meta-wrapper"><!-- Brandvoice/CommunityVoice and Marketplace branding --><div class="brandvoice-container" ng-if="article.article.group_blog" brand-voice-blurb="{{article.article.blogType}}"></div><div class="icon-wrapper"><a ng-if="::(article.article.blogType === 'women')" href="http://www.forbes.com/women-at-forbes" class="women-at-forbes preload-hidden" target="_self"><img ng-src="//i.forbesimg.com/special-report/2016/women-at-forbes/img/women-at-forbes_logo.svg" alt=""></a> <a href="//www.forbes.com/forbes-on-trump/" class="forbes-on-trump" ng-if="::article.article.trumpContent" target="_self"><i class="icon icon-donald-trump"></i></a></div><small class="article-meta"><small class="article-crumb"><a class="crumb" data-track="body-topper-section" itemprop="articleSection" ng-href="http://www.forbes.com{{article.article.primaryChannel.url}}" target="_self" ng-bind="(article.article.primaryChannel.sectionName || article.article.primaryChannel.channelName)">Investing</a> <a class="hashtag preload-hidden" ng-if="::display_hashtag" ng-href="http://www.forbes.com/search/?substream=hashtags&q={{::display_hashtag}}" target="_self">#&#8203;{{::display_hashtag}}</a></small> <time class="preload-hidden" itemprop="datePublished" content="{{article.article.ugly_date}}">{{article.article.pretty_date}}</time> <span class="view-count preload-hidden" ng-controller="ArticlePageViewController" ng-show="show_page_views">{{article.metrics.page_views}} <i class="icon icon-preview-eye"></i></span> <a href="http://www.forbes.com/editors-picks/" class="editors-pick preload-hidden" ng-if="::article.article.editorsPick" target="_self"><i class="icon icon-badge"></i> <i class="icon icon-star"></i></a> <a href="//www.forbes.com/forbes-on-trump/" class="forbes-on-trump" ng-if="::article.article.trumpContent" target="_self"><i class="icon icon-donald-trump"></i></a><div class="edit-post preload-hidden" ng-if="edit_link"><a ng-href="{{edit_link}}" target="_self">Edit Post</a></div><a class="circ-link preload-hidden" data-track="circ-link" ng-if="circ_link && article.article.blogType !== 'ad'" ng-href="{{circ_link.uri}}" target="_self">{{circ_link.title}}</a></small> <!-- logo ad --><div id="spon-logo-ad-article-{{article.index}}" dynamic-ad-unit="spon-logo" ng-if="!is_mobile && article.type === 'article' && !no_ads_template" class="spon-logo-ad preload-hidden"></div><h1 class="article-headline" itemprop="headline" ng-bind="article.article.title">Placing The 'Anti-Globalization' Bet</h1><!-- Featured Image : .article-featured-image --><figure class="article-featured-image ratio16x9 preload-hidden" ng-if="article.article.images.featured && article.article.page === 0"><img  ng-src="{{article.article.images.featured.url}}" alt="{{article.article.images.featured.description}}"><figcaption class="preload-hidden" ng-if="article.article.images.featured.caption !== ''">{{article.article.images.featured.caption}}</figcaption></figure><script id="featured-image-script" type="text/javascript">try {
-			performance.mark('content_title_end');
-			document.getElementById("featured-image-script").remove();
-			} catch(e) {}</script></div></header><div class="stream-body-container clearfix"><div id="fbs-ad-rail-article-{{article.index}}" class="fbs-ad-rail clearfix" ng-class="::(no_ads_template ? 'hidden' : '')" ad-rail=""><div ng-repeat-start="ad_unit in ad_units" ng-if="::(!is_mobile && !no_ads_template && article.type === 'article')"><div ng-if="ad_unit.slot === 'rec'" sticky-ad-unit="rec_ad_sticky_options" class="rec-ad-sticky rec-ad-sticky-article"><div ng-if="init_ads" id="rec-ad-article-{{article.index}}" dynamic-ad-unit="rec" class="rec-ad rec-ad-article"></div></div><div ng-if="ad_unit.slot === 'loge' && init_ads" id="loge-ad-article-{{article.index}}" dynamic-ad-unit="loge" class="loge-ad loge-ad-article"></div><div ng-if="ad_unit.slot === 'recx' && init_ads" id="recx-ad-article-{{article.index}}-{{$index-1}}" dynamic-ad-unit="recx" class="recx-ad recx-ad-article"></div></div><div ng-repeat-end="" ng-if="$first && $last"><div class="loge-ad loge-ad-article"></div></div></div><div class="article-rail" ng-class="::(no_ads_template ? 'no-rail' : '')"><!-- Article Body --><div article-body="" data-article="{{article.index}}"><div class="article-article-body" ng-if="::(article.type === 'article')"><div article-sharing="" class="article-top-sharing article-sharing preload-hidden" data-track="body-top"></div><!-- logo ad --><div id="mob-logo-ad-article-{{article.index}}" class="mob-logo-ad-article" dynamic-ad-unit="mob-logo" ng-if="is_mobile && article.type === 'article' && !no_ads_template"></div><div class="article-body-content clearfix" ng-class="{'article-gallery': article.article.templateType === 'gallery', 'has-tweetquotes': article.article.tweetQuotes }"><!-- Contrib block --><div class="article-contrib-container" data-track="article-contrib-container"><div class="article-contrib-block {{toggle_mode}}" contrib-block="" ng-if="article.type === 'article'"><div class="contrib-preview"><section class="contrib-author-container"><div class="contrib-image"><a ng-href="{{contrib_block.display_author.url}}" target="_self"><img src=//blogs-images.forbes.com/files/2016/05/Kenneth-Rapoza_avatar_1462203654.jpg ng-src="{{contrib_block.display_author.avatars.xlarge.image}}" alt="" data-pin-nopin="true"></a><div class="author-icons preload-hidden" ng-if="contrib_block.display_author.badges.length > 0"><a class="most-popular-icon" href="/most-popular/" target="_self"><i class="icon icon-flame"></i><span class="hover">Most&nbsp;Read</span></a></div></div><div class="contrib-byline preload-hidden" ng-if="contrib_block.display_advoice_brand"><a class="contrib-byline-ad" ng-href="{{contrib_block.display_author.url}}" target="_self"><span class="brandvoice">{{contrib_block.display_advoice_brand}}</span> <span class="advoice">{{contrib_block.display_voice_type}}</span></a></div><div class="contrib-byline" ng-if="!contrib_block.display_advoice_brand" ng-class="{'women-forbes-contrib': contrib_block.display_author.authorType === 'women', 'no-disclaimer-offset': contrib_block.display_author.type === 'Forbes Staff' || contrib_block.display_author.type === 'AdVoice'}"><p class="contrib-byline-author" ng-class="{group: contrib_block.group_blog}"><a class="link preload-hidden" ng-href="{{contrib_block.display_author.url}}" target="_self">{{contrib_block.display_author.name}}<span class="brand" ng-if="contrib_block.display_author.authorType === 'ad'">Voice</span></a> <a class="link" ng-if="!contrib_block" target="_self">Kenneth Rapoza</a> <span ng-if="!contrib_block.group_blog" class="author-comma preload-hidden">, &nbsp;</span></p><p class="contrib-byline-title preload-hidden" ng-if="contrib_block.display_author.authorType === 'individual'" ng-switch="contrib_block.display_author.type"><span ng-switch-when="Forbes Staff">{{contrib_block.display_author.type}} <i class="icon icon-staff-verified"></i></span> <span ng-switch-when="Under 30"><i class="icon icon-u30-logo"></i> Contributor</span> <span ng-switch-default="">{{contrib_block.display_author.type}}</span></p><p class="contrib-byline-title preload-hidden" ng-if="::(contrib_block.display_author.authorType === 'women')"><i class="icon icon-womenforbes-logo"></i> <span class="womenforbes-contrib">Contributor</span></p></div><p class="contrib-tagline preload-hidden"><span ng-if="!contrib_block.group_blog" ng-bind-html="contrib_block.display_author.shortBio"></span> <span ng-if="contrib_block.group_blog" ng-bind-html="contrib_block.display_author.tagName"></span> <span class="entity-bio-trigger" ng-click="toggleContrib();"><span class="label"></span> <span class="entity-toggle {{toggle_mode}}"><span class="icon icon-chevron-down"></span></span></span></p><p class="short legal-disclaimer top preload-hidden" ng-if="contrib_block.writtenByForbesStaff !== true && contrib_block.authors[0].authorType !== 'ad'">Opinions expressed by Forbes Contributors are their own.</p></section><div class="entity-dive bio {{load_status}} preload-hidden"><div class="masked-content"><section class="entity-follow-links"><div class="author-follow-links" author="contrib_block.display_author" author-follow-links=""></div></section><nav class="toggles"><ul><li class="bio" ng-click="toggleContribTab('bio')" data-track="contrib-toggle-bio">Full Bio</li><li class="recent-posts" ng-click="toggleContribTab('recent')" data-track="contrib-toggle-recent">Recent Posts</li><li class="popular-posts" ng-click="toggleContribTab('popular')" data-track="contrib-toggle-popular">Popular Posts</li></ul></nav><div class="full-bio"><p ng-bind-html="contrib_block.display_author.description">Full profile &rarr;'"></p><p class="short legal-disclaimer" ng-if="contrib_block.writtenByForbesStaff !== true && contrib_block.authors[0].authorType !== 'ad'">The author is a Forbes contributor. The opinions expressed are those of the writer.</p></div><div class="entity-recent-posts post-list" ng-bind-html="recent">Loading ...</div><div class="entity-popular-posts post-list" ng-bind-html="popular">Loading ...</div></div><!-- .masked_content --></div></div></div></div><!-- Article Guest Contributor Top --><div class="article-guest-contrib clearfix preload-hidden" ng-if="article.article.guestContributor && article.article.guestContributor.position === 'top'" ng-include="" src="guest_contrib_template"></div><div class="contrib-group" article-contrib-byline=""></div><div class="magazine preload-hidden" ng-if="article.article.magazine">This story appears in the {{article.article.magazine.pretty_date}} issue of {{article.article.magazine.pubName}}. <a ng-href="{{article.article.magazine.subscription_link}}" target="_blank">Subscribe</a></div><!-- Article Text : .article-text --><div class="article-text clearfix" itemprop="articleBody"><div class"article-injected-body"><div ng-if="hashtag_video_enabled" class="fbs-brightcove autoplay-video sidebar-video sticky relative-video" article-autoplay-video><div fbs-brightcove-playlist="article.article.relativeVideos" volume="0" ad-volume="0" cc-lang="en" autoplay="true" cc-size="2" player-id="S1EBSbDn" key_value_string="displaysection=&fl=&channel=investing&swimlane=&specialslot=&section=investing:international,investing:bonds&id=blogAndPostId/blog/post/1383-49884&brand=&displaychannel=investing&amp;pos=vid-lr&amp;hashtag=MarketMoves" ad-zone="/7175/fdc.forbes/article-d"></div></div><div id="attachment_515400844" class="wp-caption alignnone"> 
- <img class="dam-image shutterstock wp-image-515400844 size-large" src="//specials-images.forbesimg.com/imageserve/515400844/960x0.jpg?fit=scale" data-height="617" data-width="960" /> 
- <div article-image-caption=""> 
-  <div class="caption-container" ng-class="caption_state"> 
-   <p class="wp-caption-text">Some investment ideas as globalization takes on heavy fire. (Shutterstock)</p> 
-   <span class="article-expand-caption" ng-click="toggleCaption();"></span> 
-  </div> 
- </div> 
-</div>
-<p>Investors should not “obsess about the wave of anti-globalization” projected by many politicians across the western world, says Nigel Green, the founder and chief executive of deVere Group, a U.K. based financial advisory.</p>
-<p>“Populism is an increasingly important force in global politics.&nbsp; Understandably, people are worrying about their jobs, their wages, and stagnating economic growth...and are seeking alternatives,&quot; he says.</p>
-<p>The phenomen is most obviously evidenced by two high profile votes: Brexit and the election of Donald Trump on Tuesday. What's next? Looking at the stock market, the Russell 2000 Index has gained 8.6% since Trump's election, beating the S&amp;P 500's 1.2% gain. MSCI World is up 1.7% while the MSCI Emerging Markets is taking it on the chin, down 8.46% in expectations for higher rates in the U.S. and an America First economic policy that likely means a stronger dollar. If Trump can get tax laws passed that lower the corporate tax rate and bring in billions of off-shore capital being held by U.S. multinationals headquartered in fiscal paradises, inflows could easily strengthen the dollar, raise inflation, and increase interest rates. Money will leave the low rate investment grade markets (Europe and Japan) and go to the U.S.</p>
-<div id="inread" article-ad-inbody="inread" class="inread"></div>
-<p>Consider that a hint of what's to come.</p>
-<p>Trump has made several proposals that could benefit the U.S. economy, notes Richard Barkham, global chief economist of real estate firm CBRE. These include increased defense and infrastructure spending; lower taxes for businesses; reduced business regulations; repealing and replacing Obamacare; tighter border security and one of the scariest ones for the market -- the imposition of trade tariffs and the uncertainty of existing trade deals.</p>
-<p>Both Mexico and Canada have signalled that they were willing to look at the North American Free Trade Agreement again, and revise some of its rules.</p>
-<p>With Republicans leading Congress, Trump &quot;can bring his agenda up for votes and use procedural maneuvering to further it along&quot; says Barkham. This bodes well for a lot of his ideas to pass, though many in the markets doubt that he will get anywhere near a tariff on Made in China and can scapegoat Republicans for that. &quot;Trump's proposals are likely to be tempered as they move through Congress.&quot;</p>
-<div class="vestpocket" vest-pocket=""></div></div><div class="spinner preload-hidden" ng-if="!article.article && article.type === 'spinner'"><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="arrow bounce icon icon-chevron-down preload-hidden" ng-if="!!article.article && article.type === 'spinner'"></div></div><!-- Add Start Gallery Button --><div class="preload-hidden" ng-if="::(article.article.templateType === 'gallery')"><a class="btn-start-gallery" ng-href="{{::gallery_url}}" target="_self">Start Gallery</a></div><!-- Article Guest Contributor Bottom --><div class="article-guest-contrib clearfix preload-hidden" ng-if="article.article.guestContributor && article.article.guestContributor.position === 'bottom'" ng-include="" src="guest_contrib_template"></div><!-- Page controls --><div ng-if="article.article.pages.length > 1 && article.type === 'article'" class="article-pagination preload-hidden"><a ng-href="{{url_path}}{{url_prev}}{{ss}}" ng-if="article.article.page > 0" class="article-pagination-prev" target="_self"><i class="icon icon-chevron-left"></i></a> Page <strong>{{article.article.page + 1}}</strong> / <strong>{{article.article.pages.length}}</strong> <a ng-href="{{url_path}}{{url_next}}{{ss}}" ng-if="article.article.page < article.article.pages.length - 1" class="article-pagination-next" target="_self">Continue <i class="icon icon-chevron-right"></i></a></div><!-- THIS NEEDS TO MOVE FROM HERE --><div class="article-comment preload-hidden" ng-class="{'mobile-comment' : is_mobile}" ng-if="article.type === 'article'"><a class="comments-link" ng-if="article.article.showComments" ng-click="openComments(article.index)" data-track="article-comment-this"><div class="comments-cta" ng-class="{'no-comments' : !article.article.calledOutCommentCount}"><div class="count"><strong>{{article.article.calledOutCommentCount||''}}</strong></div><span>Comment on this story</span></div></a></div><div article-sharing="" class="article-bottom-sharing article-sharing preload-hidden" data-track="body-bottom"></div><!-- Prints, Reprints & corrections bar --><div class="article-print-bar preload-hidden" ng-if="article.type === 'article'"><ul><li class="print"><a ng-href="{{url_path}}print/" target="_blank">Print</a></li><li><a href="mailto:feedback@forbes.com">Send Us Feedback</a></li><li><a ng-click="openCorrectionsEmail()">Report Corrections</a></li><li><a href="http://forbesreprints.magreprints.com" target="_blank">Reprints &amp; Permissions</a></li></ul></div><!-- Related ads--><div class="related-ads-container" ng-if="article.type === 'article'"><!-- Media net related links --><div id="media_net_0_article_{{article.index}}" class="media_net_related_links initialized anim" article-related-links="{{article.index}}"></div></div></div></div></div></div></div><div class="speed-bump-wrapper" ng-if="article.type === 'article'"><!-- Around the web ad --><div class="article-speed-bump" speed-bump=""></div></div></div></div><div ng-if="article.type === 'stream' && is_mobile && article.stream && article.stream.length > 0" id="article-bottom-stream" class="article-stream-container clearfix preload-hidden"><div class="article-stream-padding"><div ng-controller="ArticleStreamInlineController" class="clearfix"><h2 class="trending-header">Trending on <i class="logo icon icon-forbes-logo"><span>Forbes</span></i> {{channel_name}}</h2><section class="article-post-article"><div ng-include="" src="article_stream_template"></div></section></div></div></div></article></div><div intx-ad=""></div></section></div></div><div class="sticky-fbs-ad-container preload-hidden" ng-if="is_mobile && !no_ads_template" sticky-ad-close-button=""><div class="mobile-sticky-close-button" ng-click="hideStickyAd()"><i class="icon icon-close"></i></div><div id="mobile-sticky" dynamic-ad-unit="mobile" class="ad mobile-sticky-fbs-ad anim"></div></div></div><script type="text/javascript">setTimeout(function() {
-			document.getElementById('main-content').className = '';
-		}, 1000);
-		try {
-			performance.mark('blocking_scripts_start');
-		} catch (e) {}</script><script src="//i.forbesimg.com/forbes/scripts/8651b543.vendor.js"></script><script src="//i.forbesimg.com/forbes/scripts/f29fa06a.scripts.js"></script><div id="css-js-dynamic"><span class="dynamic-css">false</span> <span class="dynamic-js"></span></div><div ng-if="!$root.is_mobile" id="teconsent"></div><script>$(window).on("touchstart", function(e){});</script><script type="text/javascript">try {
-			performance.mark('blocking_scripts_end');
-		} catch (e) {}</script>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0039)http://flag.blackened.net/nf/3yamin.htm -->
+<!-- saved from url=(0040)http://flag.blackened.net/nf/3glavin.htm -->
+
+<html>
+  <head>
+    <meta name="generator" content="HTML Tidy, see www.w3.org">
+
+    <title>Theory of the Anti-Globalization Movement</title>
+    <meta content="MSHTML 6.00.2800.1106" name="GENERATOR">
+<style type="text/css">
+A:link {
+    TEXT-DECORATION: none
+}
+A:visited {
+    TEXT-DECORATION: none
+}
+A:active {
+    TEXT-DECORATION: none
+}
+A:hover {
+    TEXT-DECORATION: underline
+}
+.nocolorchange {
+    COLOR: #ffffff; FONT-FAMILY: Arial
+}
+.underline {
+    TEXT-DECORATION: underline
+}
+.makewhite {
+    font-family: Arial;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+</style>
+    <meta http-equiv="Content-Type" content=
+    "text/html; charset=iso-8859-1">
+    <meta content="MSHTML 6.00.2800.1106" name="GENERATOR">
+  </head>
+
+  <body vlink="#808080" alink="#0000ff" link="#666699">
+    <table width="75%" align="center" border="0">
+      <tbody>
+        <tr>
+          <td valign="top">
+            <p><strong><a href="index.htm"><em><font face="Arial"
+            color="#663366" size="5">New
+            Formulation</font></em></a></strong></p>
+          </td>
+        </tr>
+
+        <tr>
+          <td valign="top" bgcolor="#333333">
+            <div align="right">
+              <a href="contents.htm#november2001" title=
+              "February 2003, Vol. 2, No. 1" class=
+              "makewhite"><font size="2">February 2003, Vol. 2,
+              No. 1</font></a>
+            </div>
+          </td>
+        </tr>
+
+        <tr valign="top">
+          <td>
+            <blockquote>
+              <p class="makewhite"><font face=
+              "Arial, Helvetica, sans-serif"><br>
+              </font></p>
+            </blockquote>
+
+            <p align="center"><font color="#663366" size="5"
+            face="Arial"><strong>Theory of the Anti-Globalization
+            Movement</strong></font></p>
+
+            <p align="right"><font size="2" face="Arial">Review
+            by <strong><a href="contributors.htm#Morse" title=
+            "Chuck Morse">Chuck Morse</a></strong></font></p>
+
+            <table width="236" align="right" border="0">
+              <tbody>
+                <tr valign="top">
+                  <td width="14" height="159">
+                    <div align="left">
+                      <img src=
+                      "/images/1globalizationfrombelow.gif" alt=
+                      "Globalization from Below: The Power of Solidarity "
+                       width="100" height="157">
+                    </div>
+                  </td>
+
+                  <td width="212">
+                    <p><font size="2" face=
+                    "Arial"><em>Globalization from Below: The
+                    Power of Solidarity</em><br>
+                     by Jeremy Brecher, Tim Costello, and Brendan
+                    Smith<br>
+                     South End Press, 2000</font></p>
+
+                    <p>&nbsp;</p>
+                  </td>
+                </tr>
+
+                <tr valign="top">
+                  <td>
+                    <div align="center">
+                      <img src="/images/1namingtheenemy.jpg" alt=
+                      "Naming the Enemy: Anti-Corporate Movements Confront Globalization "
+                       width="100" height="161">
+                    </div>
+                  </td>
+
+                  <td>
+                    <p><font size="2" face="Arial"><em>Naming the
+                    Enemy: Anti-Corporate Movements Confront
+                    Globalization</em><br>
+                     by Amory Starr Zed Books, 2001</font></p>
+                  </td>
+                </tr>
+
+                <tr valign="top">
+                  <td colspan="2">
+                    <hr size="1">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+            <p align="left"><font size="2" face="Arial">Finally,
+            after years of disintegration and defeat on the Left,
+            a new movement has erupted upon the political
+            landscape. It is not organized around a single issue,
+            identity based, or somehow &ldquo;implicitly&rdquo;
+            radical. On the contrary, this movement directly
+            attacks global capital&rsquo;s economic and political
+            infrastructure with a radically democratic politics
+            and a strategy of confrontation. It is bold,
+            anti-authoritarian, and truly global.</font></p>
+
+            <p><font size="2" face="Arial">And also quite
+            effective. This movement has already introduced a
+            radical critique into the debate on the global
+            economy and demonstrated the capacity to physically
+            shut down meetings of trade ministers. It seems
+            possible that this movement will continue to grow,
+            deepen its radicalism, and revolutionize the world
+            according to the radically democratic principles it
+            embraces.</font></p>
+
+            <p><font size="2" face="Arial">The emergence of the
+            anti-globalization movement has produced a feeling of
+            near euphoria among anarchists. Not only are our
+            commitments to direct action and decentralization
+            shared broadly in the movement as a whole, but we are
+            also enjoying a political legitimacy that has eluded
+            us for decades. We can now articulate our
+            anti-statist, utopian message to activists around the
+            world and we are no longer dismissed as terrorists or
+            cranks. In many respects it seems like we should just
+            mobilize, mobilize, and mobilize.</font></p>
+
+            <p><font size="2" face="Arial">Unfortunately this
+            would be a grave mistake. The movement&rsquo;s
+            anti-authoritarian, revolutionary character is
+            currently under attack by a informal network of
+            reformists, who want nothing more than to see this
+            movement accommodate itself to the basic structures
+            of the present world. They are not waging a direct
+            assault upon revolutionaries in the movement: they
+            recognize that this would alienate them from the
+            movement&rsquo;s base. Instead, they are fighting us
+            indirectly, in the realm of ideas. In particular,
+            they hope to define the movement in a way that
+            renders its most expansive, utopian potentials
+            literally unthinkable.</font></p>
+
+            <p><font size="2" face="Arial">As important as it is
+            to mobilize, anarchists will have to respond to this
+            challenge on the theoretical terrain: we cannot
+            afford to lose the battle of ideas. Above all, we
+            must link the anti-globalization movement to a
+            broader revolutionary project in a way that is
+            coherent, concrete, and irrefutable. However, as a
+            defensive measure, we should expose the
+            reformist&rsquo;s attempt to sever this link and
+            reveal their designs to the movement as a whole. The
+            reformers will respond by declaring their good faith
+            or complaining about our divisiveness, but we should
+            not be swayed by such pre-political subterfuge: on
+            the contrary, we should be merciless with those who
+            would hinder the realization of the
+            anti-globalization movement&rsquo;s most radical
+            possibilities. Popular revolutionary movements have
+            been betrayed countless times before: we should not
+            let this happen again.</font></p>
+
+            <p><font size="2" face="Arial"><em>Naming the
+            Enemy</em> and <em>Globalization from Below</em> are
+            exemplary documents of the reformist wing of the
+            anti-globalization movement. They are more reflective
+            and sophisticated than the majority of books on the
+            movement and focus on the deeper questions upon which
+            its identity hangs. These two works celebrate the
+            movement&rsquo;s radicalism emphatically, but in
+            terms that make the revolutionary transformation of
+            the social order inconceivable.</font></p>
+
+            <p><font size="2" face="Arial">In <em>Globalization from Below</em>, Jeremy 
+          Brecher, Tim Costello, and Brendan Smith (BCS) argue that the economic, 
+          political, and cultural interconnectedness signified by globalization 
+          is irreversible and possibly a good thing: this interconnection, they 
+          assert, could potentially serve the interests of people and the earth, 
+          not just the elites. Although the rich and powerful have shaped globalization 
+          in their interest thus far (BCS call this &ldquo;globalization from 
+          above&rdquo;), there is a counter-movement that seeks to reshape our 
+          interconnected world in the interests of people and the planet (which 
+          BCS call &ldquo;globalization from below&rdquo;). They believe that 
+          the movement for &ldquo;globalization from below&rdquo; is disparate 
+          but growing, and their book is meant to provide a framework for uniting 
+          it into a common, grassroots struggle. They want to build a world structured 
+          by &ldquo;human values other than greed and domination,&rdquo; one &ldquo;less 
+          dominated by the culture and values of global capital, even if it is 
+          still constrained by them,&rdquo; and believe their book provides a 
+          realistic strategy for doing so.(<a href="#1" title=
+            "1"><u>1</u></a>) They believe that the movement for &ldquo;globalization 
+          from below&rdquo; can transform the world by leading people to withdraw 
+          their consent from dominant social relationships, which will prevent 
+          the reproduction of the social order, and thus create a situation in 
+          which the movement can impose different, more just norms upon society 
+          as a whole. BCS try to concretize these norms with a detailed program 
+          for reducing poverty, limiting environmental destruction, and enhancing 
+          democratic control over the economy. They believe their program embodies 
+          values &ldquo;already shared by many in this movement and that [it] 
+          is implicit in much of what the movement actually does.&rdquo;(<a href="#2"
+            title="2"><u>2</u></a>) Their attractive and short book (122 pages) 
+          is clearly conceived, written without jargon, and can be read for its 
+          programmatic suggestions as well as deeper speculations into the nature 
+          of social movements.</font></p> 
+        <p><font size="2" face="Arial">Amory Starr's <em>Naming the Enemy</em> 
+          is a comparative analysis of the ways activists in the anti-globalization 
+          movement criticize global capital and the types of alternatives they 
+          envision. She offers a panoramic view of the movement structured around 
+          three responses to global capital: restraining it, democratizing it, 
+          or building local alternatives to it. In her first category, which she 
+          calls &ldquo;contestation and reform,&rdquo; she examines movements 
+          that want to restrain global capital through state regulation. Here 
+          she treats movements against structural adjustment, peace and human 
+          rights groups, movements for land reform, the explicitly anti-corporate 
+          movement, and cyber-punk. Her second category is &ldquo;globalization 
+          from below,&rdquo; or movements that want to democratize globalization 
+          by making governments and corporations accountable to people instead 
+          of elites. Here she looks at the environmental and labor movements, 
+          socialist movements, anti-free trade movements, and the Zapatistas. 
+          Her final category is &ldquo;delinking,&rdquo; in which she treats movements 
+          that want to separate from global capital and build locally based alternatives 
+          to it, such as the anarchist movement, movements for sustainable development, 
+          the small businesses movement, sovereignty movements, and religious 
+          nationalist movements. <em>Naming the Enemy</em> is international in 
+          scope, although based on English language sources exclusively, and tries 
+          to engage an academic and activist audience. While the book is sometimes 
+          suffocated by absurdly academic jargon,(<a href="#3"
+            title="3"><u>3</u></a>) she provides a sweeping, ground-level view 
+          of the movement through studies of manifestos, campaigns, and virtually 
+          any resource in which anti-globalization activists articulate how they 
+          &ldquo;understand their enemy and envision rebuilding the world.&rdquo;(<a href="#4" title=
+            "4"><u>4</u></a>)</font></p>
+
+            <p><font size="2" face="Arial">Both BCS and Starr
+            embrace the anti-globalization movement and clearly
+            hope their books will contribute to its growth and
+            self-understanding. BCS advance a program and
+            framework for uniting the movement into a broad
+            struggle against &ldquo;globalization from
+            above&rdquo; whereas Starr offers a comprehensive
+            analysis of the goals (and opponents) identified by
+            movement activists. It is tempting to regard these
+            works as statements from sympathetic participants in
+            a diverse, growing movement, and I suspect that Starr
+            and BCS hope we will.</font></p>
+
+            <p><font size="2" face=
+            "Arial"><strong>Revolution</strong><br>
+             But those of us who believe that &ldquo;another
+            world is possible&rdquo; need to approach these books
+            with very specific concerns. We should ask: do they
+            link the anti-globalization movement to a broader
+            revolutionary project or do they at least provide
+            insights that could help us establish such a
+            link?</font></p>
+
+            <p><font size="2" face="Arial">Naturally the answer
+            to this question depends on the meaning of the word
+            &ldquo;revolution,&rdquo; which has been subject to
+            considerable and ongoing debate. The Left has
+            normally used the term to designate not only a
+            sweeping change in political, economic, and cultural
+            relationships, but also the moment when one
+            historical epoch gives birth to a totally new
+            landscape of historical experience through a process
+            of contradiction, collapse, and renewal. It is in
+            this sense that the Left has always had a utopian
+            dimension.</font></p>
+
+            <p><font size="2" face="Arial">The idea of revolution
+            is barely a concern for Starr or BCS and, to the
+            extent that it is, they seem to restrict it to the
+            transformation of political institutions (instead of
+            society as a whole). BCS mention the idea of
+            revolution in passing and, even then, only to state
+            that it depends on &ldquo;solving problems by means
+            of state power.&rdquo;(<a href="#5" title=
+            "5"><u>5</u></a>) Starr does not discuss the idea at
+            all, although she suggests a theory of revolution in
+            a treatment of reformist movements. For her, reform
+            means &ldquo;mobilizing existing formal democratic
+            channels of protest, seeking national legislation,
+            mounting judicial challenges, mobilizing
+            international agencies, boycotting and
+            protesting.&rdquo;(<a href="#6" title=
+            "6"><u>6</u></a>) Thus, presumably, revolutionary
+            movements are not oriented toward the existing
+            political structures but rather fight for new ones.
+            This suggests that Starr, like BCS, thinks of
+            revolution only in terms of the transformation of
+            political institutions (and her distinction between
+            movements that engage existing political institutions
+            and those that fight for new ones is not substantive:
+            movements are not revolutionary merely because they
+            fight for something new).</font></p>
+
+            <p><font size="2" face="Arial">But do they provide
+            insights that could help us link the
+            anti-globalization movement to a larger revolutionary
+            project?</font></p>
+
+            <p><font size="2" face="Arial">Many
+            anarcho-syndicalists and communists link the
+            anti-globalization movement to revolution by
+            affirming the analysis of capitalism advanced by late
+            19th and early 20th century socialists. According to
+            this view, capitalism&rsquo;s central and fatal
+            contradiction is the class conflict between the
+            bourgeoisie and the proletariat. Specifically,
+            capitalism creates an industrial proletariat that
+            must, in turn, fight for its interests as a class.
+            Ultimately the proletariat becomes so numerous and
+            impoverished that it will not only fight for
+            immediate benefits but also against the social order
+            that has produced it as a class: the class struggle
+            then unfolds into revolution and capitalism as a
+            whole is destroyed. Although communists and
+            anarcho-syndicalists recognize that the
+            anti-globalization movement is not a revolutionary
+            working class movement, they believe it will become
+            one when the movement grasps the real nature of
+            economic inequality: in this sense the movement is a
+            first, but partial step toward a broader
+            revolutionary struggle. Ultimately groups that
+            explicitly embraced a revolutionary socialist
+            perspective, such as the Russian Bolsheviks or the
+            Spanish anarchists, will have to provide the model
+            for the movement as a whole. (This is why communists
+            and anarcho-syndicalists are so focused on political
+            lessons derived from pre-WWII events such as the
+            Russian Revolution and Spanish Civil War.)</font></p>
+
+            <p><font size="2" face="Arial">We will not find
+            support for this idea in <em>Naming the Enemy</em> or
+            <em>Globalization from Below</em>. Neither believe
+            that capitalism is subject to fatal contradictions
+            (class, or otherwise) nor that it should be
+            transcended as a social form. In fact, BCS seek not
+            only to retain but also to improve the capitalist
+            mode of production: for example, they argue that
+            their economic program will &ldquo;expand employment
+            and markets and generate a virtuous cycle of economic
+            growth.&rdquo;(<a href="#7" title="7"><u>7</u></a>)
+            Starr eliminates the question altogether by defining
+            the anti-globalization movement as anti-corporate
+            instead of anti-capitalist.(<a href="#8" title=
+            "8"><u>8</u></a>) Accordingly, the category of class
+            is not important for BCS or Starr&rsquo;s analysis of
+            the anti-globalization movement and neither attempt
+            to relate the interests of the working class to the
+            fate of the movement as a whole (Starr explicitly
+            argues that labor struggles based on class interest
+            do not challenge the corporate form(<a href="#9"
+            title="9"><u>9</u></a>)). For them,
+            anarcho-syndicalists and communists are mistaken to
+            draw a link between the anti-globalization movement
+            and the older revolutionary socialist
+            movements.</font></p>
+
+            <p><font size="2" face="Arial">But clearly there are
+            other ways to conceive of revolution than as a
+            consequence of class contradictions: for example, it
+            is possible to imagine revolution in a democratic
+            populist sense, in which people draw upon shared
+            values (as opposed to class interests) to overthrow
+            elites. This vision of revolution is not premised
+            upon the exacerbation of class conflict, but rather
+            the emergence of a democratic sentiment that rejects
+            exclusive, non-participatory social institutions. BCS
+            and Starr offer some support for understanding the
+            anti-globalization movement in these terms. BCS
+            explicitly define the movement as a people&rsquo;s
+            movement designed to &ldquo;restrain global
+            capital&rdquo;(<a href="#10" title=
+            "10"><u>10</u></a>) and Starr implies the same thing
+            by focusing on the ideals, not class positions, of
+            activists within the movement. However, Starr and BCS
+            fail to articulate this democratic perspective in a
+            way that could make a revolutionary transformation of
+            the social order comprehensible. BCS want to place
+            global capitalism under the control of democratic
+            political institutions at the local, national, and
+            international levels (they call this a
+            &ldquo;multi-level alternative&rdquo;). However,
+            their program for democratizing the economy is not
+            complemented by a program for democratizing political
+            power (in fact, campaign finance reform is the only
+            explicitly political demand they advance). This is
+            because they do not advocate (or even mention) direct
+            democracy: on the contrary, they believe in
+            representative democracy and are thus largely content
+            with the political structures it presupposes. For
+            example, they are oblivious to the inherently
+            anti-democratic nature of the nation-state and
+            institutions based upon it (such as the UN), not to
+            mention the political apparatuses they imply, such as
+            politicians, political parties, and advocacy groups.
+            So, despite their democratic rhetoric and enthusiasm
+            for extra-parliamentary social movements, their
+            vision preserves the political structure of the world
+            as it presently exists.</font></p>
+
+            <p><font size="2" face="Arial">BCS&rsquo;s
+            theoretical premises also make it impossible to
+            conceive of a significant historical leap. For BCS,
+            the social order is shaped by a balance between the
+            powerful and the powerless (not necessarily classes).
+            They write that the power of any society &ldquo;is
+            based on the active cooperation of some people and
+            the consent and/or acquiescence of others. It is the
+            activity of people&mdash;going to work, paying taxes,
+            buying products, obeying government officials,
+            staying off private property&mdash;that continually
+            re-creates the power of the powerful.&rdquo;(<a href=
+            "#11" title="11"><u>11</u></a>) This is why social
+            movements can transform these social relationships
+            when they lead people to withdraw their consent from
+            the dominant arrangements: people stop acquiescing
+            and thus prevent the reproduction of the social
+            order, enabling the movement to impose its own norms
+            on society as a whole (for example, think of the
+            civil rights movement). This vision of social change
+            seems laudable, given its emphasis on the power of
+            the oppressed in the reproduction and transformation
+            of societies, but it has two fundamental problems.
+            First, BCS do not explain why a people may develop
+            norms that contradict the status quo, and thus cannot
+            explain why they would want to withdraw their consent
+            from the prevailing social relationships in the first
+            place. Second, their assertion that society is always
+            defined by a truce between the powerful and the
+            powerless could characterize any social formation,
+            from the birth of society to the end of history, and
+            thus lacks any historical content. However, if we
+            wish to retain this trans-historical principle, then
+            we must conclude that social movements can only
+            strike a new balance of disempowerment at the very
+            best. There is no transcendence, no realm of freedom,
+            in this vision.</font></p>
+
+            <p><font size="2" face="Arial">While Starr does not
+            advance a democratic revolutionary perspective, her
+            work is more amenable to such a stance than
+            BCS&rsquo;s. She treats movements that explicitly
+            assert a democratic vision against the existing power
+            structure and suggests that this orientation is both
+            coherent and legitimate (she tries to defend
+            anarchist as well as other decentralist tendencies
+            against their academic and social democratic
+            critics).(12) Also, the fact that she studies how
+            actors in the anti-globalization movement conceive of
+            their opponents and want to rebuild the world
+            suggests that Starr regards our ideals and
+            commitments as the most important factors in
+            political action, not the &ldquo;objective
+            development of class contradictions.&rdquo; This
+            value-based approach is a precept of any
+            revolutionary democratic politics.</font></p>
+
+            <p><font size="2" face="Arial">Although she tries to
+            support anti-statist movements that are fighting
+            global capital, her efforts are theoretically and
+            empirically unsound. Instead of treating these
+            movements as instances of a democratic, anti-statist
+            tradition she defines them merely as localist
+            movements that want to &ldquo;delink&rdquo; (or
+            separate) from the global economy. This makes little
+            sense: there are virtually no localists in the
+            anti-globalization movement, but rather decentralist
+            movements that regard the community (not the state)
+            as the locus of political life and want to
+            reconstruct the world around a new relationship
+            between communities.(<a href="#13" title=
+            "13"><u>13</u></a>) These movements are not
+            localist&mdash;they do not simply want to retreat
+            into their own enclaves&mdash;but rather
+            communitarian movements fighting for the
+            decentralization of political power. But also, on a
+            theoretical level, her definition severs these
+            movements from a broader democratic legacy, and thus
+            obscures a tradition that connects (for example)
+            Zapatista municipal radicalism to Proudhon&rsquo;s
+            federalism. She even mentions the Proudhonian
+            federalist tradition, but fails to theorize its
+            presence in these decentralist movements. Thus, her
+            defense of the most radical wing in the
+            anti-globalization movement presupposes a sharp
+            misreading of its politics. Even worse, her
+            conception of localism-as-radicalism leads her to
+            defend religious nationalists and their efforts to
+            impose parochial, blood-based restraints on the world
+            economy: for example, she mentions radical Islamic
+            nationalists and the U.S.&rsquo;s racist Christian
+            Patriot movement. While these groups may share an
+            emphasis on the locality with decentralist tendencies
+            in the anti-globalization movement, religious
+            nationalists are regressive to the extreme, whereas
+            decentralists are confederal and cosmopolitan in the
+            best sense of the terms. Starr&rsquo;s effort to
+            soften this divide is less than
+            compelling.</font></p>
+
+            <p><font size="2" face="Arial">But even if Starr
+            related her analysis to a democratic tradition, there
+            is a problem in the very constitution of <em>Naming
+            the Enemy</em>. She does not study movements on the
+            basis of their &ldquo;size, scope, practices or
+            chances for success,&rdquo;(<a href="#14" title=
+            "14"><u>14</u></a>) but only on the basis of their
+            ideals. This tends to broaden her picture of the
+            anti-globalization movement, given that the most
+            exciting developments in the movement are not always
+            the largest, most influential, or most likely to
+            succeed. However, some criteria must be applied to
+            determine whose intentions are relevant: after all,
+            countless groups declare their opposition to the
+            consequences of global capitalism, from the Cuban
+            Communist Party to the Catholic Church. But of course
+            one cannot study a movement solely on the basis of
+            its declarations any more than one can study a person
+            on the basis of his or her self-description. Starr
+            knows this, but refuses to spell out the criteria she
+            uses to select movements for consideration. It is
+            clear that she embraces some form of left-wing,
+            democratic populism (&aacute; la <em>Z Magazine</em>)
+            but theorizing these commitments would put her in
+            opposition to the radical skepticism and liberal
+            resignation prevailing in academia at the
+            moment.</font></p>
+
+            <p><font size="2" face=
+            "Arial"><strong>Conclusion</strong><br>
+             That Starr and BCS welcome the emergence of a
+            democratic, direct action-based movement against
+            global capital is an indication of the success of the
+            anti-authoritarian tradition. Years ago they might
+            have called for a small &ldquo;c&rdquo; communism or
+            some form of Green Party-like electoralism but,
+            instead, they praise this anti-authoritarian movement
+            for its democratic sentiments, commitment to protest,
+            and oppositional stance. They want to speak the
+            language of the growing movement against global
+            capitalism.</font></p>
+
+            <p><font size="2" face="Arial">Yet they would lure us
+            into a trap: they are not revolutionaries, their
+            books do not provide terms through which we can link
+            this movement to a broader revolutionary project, and
+            their basic theoretical commitments are fundamentally
+            antagonist to the goal of revolutionary
+            transformation. BCS&rsquo;s <em>Globalization from
+            Below</em> is comprehensible because it affirms the
+            basic structure of the present world&mdash;that is,
+            capitalism and the nation-state&mdash;and is thus
+            written with the clarity and repose of those who have
+            already won. They descend into platitudes when they
+            try to relate their ideas to a project of radical
+            social transformation precisely because they do not
+            want such a transformation. Starr becomes
+            incomprehensible, dipping into jargon and an absurd
+            defense of religious nationalism, because she wants
+            to reject the present but is unwilling to embrace the
+            terms that would make such a refusal
+            coherent.</font></p>
+
+            <p><font size="2" face="Arial">Neither BCS nor Starr
+            should be regarded as deceitful or malicious and,
+            besides, their motives are of little significance.
+            What must be recognized is that they are on different
+            sides of the debate over the anti-globalization
+            movement than those of us who genuinely believe that
+            a new world is possible. They celebrate the movement,
+            but the terms of their analyses are hostile to its
+            best, most visionary dimensions.</font></p>
+
+            <p><font size="2" face="Arial">Our capacity to push
+            the anti-globalization movement from opposition to
+            revolution will be destroyed if we accept the
+            premises of their books, either passively or
+            otherwise. Even if demonstrations and militant
+            conflicts with the police were to continue, we cannot
+            fight for a revolution that we cannot
+            conceive.</font></p>
+
+            <p><font size="2" face="Arial">I think anarchists
+            have been correct to greet the anti-globalization
+            movement with enthusiasm: I believe that
+            extraordinary potentials are at hand. However, to
+            realize these potentials, we must confront those who
+            would erase them from the historical agenda. This
+            will allow us to preserve the idea that new,
+            emancipated landscapes of historical experience are
+            available to us and to set about creating
+            them.</font></p>
+            <hr size="1">
+
+            <blockquote>
+              <p><font size="2" face=
+              "Arial"><strong>FOOTNOTES:</strong></font></p>
+
+              <p><font size="2" face="Arial">1<a name="1"></a>.
+              Brecher, Costello, and Smith, <em>Globalization
+              from Below</em>, p. 122</font></p>
+
+              <p><font size="2" face="Arial">2<a name="2"></a>.
+              Ibid., p. xi.</font></p>
+
+              <p><font size="2" face="Arial">3<a name="3"></a>.
+              The level of jargon is suffocating and sometimes
+              nonsensical. For example, she mentions
+              &ldquo;potentially agentic forms of
+              subjectivity&rdquo; (p. 32). The invention of the
+              word agentic is strange enough, but the phrase is
+              also redundant: anything that possesses
+              agency&mdash;the capacity to act&mdash; possesses
+              subjectivity.</font></p>
+
+              <p><font size="2" face="Arial">4<a name="4"></a>.
+              Starr, <em>Naming the Enemy</em>, p. x.</font></p>
+
+              <p><font size="2" face="Arial">5<a name="5"></a>.
+              Brecher, Costello, and Smith, <em>Globalization
+              from Below</em>, p. 24.</font></p>
+
+              <p><font size="2" face="Arial">6<a name="6"></a>.
+              Starr, <em>Naming the Enemy</em>, p. 45.</font></p>
+
+              <p><font size="2" face="Arial">7<a name="7"></a>.
+              Brecher, Costello, and Smith, <em>Globalization
+              from Below</em>, p. 69.</font></p>
+
+              <p><font size="2" face="Arial">8<a name="8"></a>.
+              This is quite weak: for Starr
+              &ldquo;corporate&rdquo; refers not to a legally
+              constituted corporation but something that
+              functions according to &ldquo;corporate
+              principles.&rdquo; Starr, <em>Naming the
+              Enemy</em>, p xiv.</font></p>
+
+              <p><font size="2" face="Arial">9<a name="9"></a>.
+              Ibid., p. 93.</font></p>
+
+              <p><font size="2" face="Arial">10<a name="10"></a>.
+              Brecher, Costello, and Smith, <em>Globalization
+              from Below</em>, p. 17.</font></p>
+
+              <p><font size="2" face="Arial">11<a name="11"></a>
+              Brecher, Costello, and Smith, <em>Globalization
+              from Below</em>, p. 21.</font></p>
+
+              <p><font size="2" face="Arial">12<a name="12"></a>.
+              For example, she states that anarchism is
+              &ldquo;the oldest and richest Western
+              tradition&rdquo; of local radicalism. Starr,
+              <em>Naming the Enem</em>y, p. 226.</font></p>
+
+              <p><font size="2" face="Arial">13<a name="13"></a>.
+              One can find a few localists, such as flippant
+              academics like Jerry Mander, but they are the
+              exception rather than the rule.</font></p>
+
+              <p><font size="2" face="Arial">14<a name="14"></a>.
+              Ibid., p. xi.</font></p>
+            </blockquote>
+          </td>
+        </tr>
+
+        <tr valign="top">
+          <td bgcolor="#333333">
+            <div align="center">
+              <a href="index.htm"><img alt="Home" src=
+              "images/nfhome.jpg" width="192" height="26" border=
+              "0"></a>
+            </div>
+          </td>
+        </tr>
+
+        <tr valign="top">
+          <td>&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+

@@ -1,1671 +1,478 @@
-<!doctype html>
-
-<html data-ytrk-page="TOPIC PAGINATED LARGE_NP" class="" lang="en">
-
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <meta property="fb:pages" content="74442380906" />
-
-    <script type="text/javascript" data-type="PFO">
-!function e(t,n,o){function r(i,u){if(!n[i]){if(!t[i]){var c="function"==typeof require&&require;if(!u&&c)return c(i,!0);if(a)return a(i,!0);var d=new Error("Cannot find module '"+i+"'");throw d.code="MODULE_NOT_FOUND",d}var f=n[i]={exports:{}};t[i][0].call(f.exports,function(e){var n=t[i][1][e];return r(n?n:e)},f,f.exports,e,t,n,o)}return n[i].exports}for(var a="function"==typeof require&&require,i=0;i<o.length;i++)r(o[i]);return r}({1:[function(e,t,n){(function(e){function n(){try{var e=new o("cat",{detail:{foo:"bar"}});return"cat"===e.type&&"bar"===e.detail.foo}catch(t){}return!1}var o=e.CustomEvent;t.exports=n()?o:"undefined"!=typeof document&&"function"==typeof document.createEvent?function(e,t){var n=document.createEvent("CustomEvent");return t?n.initCustomEvent(e,t.bubbles,t.cancelable,t.detail):n.initCustomEvent(e,!1,!1,void 0),n}:function(e,t){var n=document.createEventObject();return n.type=e,t?(n.bubbles=Boolean(t.bubbles),n.cancelable=Boolean(t.cancelable),n.detail=t.detail):(n.bubbles=!1,n.cancelable=!1,n.detail=void 0),n}}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],2:[function(e,t,n){function o(e,t,n,o){"addEventListener"in e?e.addEventListener(t,n,o):"attachEvent"in e&&e.attachEvent("on"+t,n)}var r=e(1);!function(){window.adonis=window.adonis||{},window.adonis.scriptStatuses={};var e=function(){var e="NEW_SCRIPT_EVENT",t=new r(e,{detail:{}});window.dispatchEvent(t)};o(document,"load",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="load",e())},!0),o(document,"error",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="error",e())},!0)}()},{1:1}]},{},[2]);
-</script>
-
-		<meta name="description" content="Social movement opposed to the production of nuclear weapons and the generation of electricity by nuclear power plants. The goals and ideologies of the antinuclear movement range..." /><meta name="keywords" content="antinuclear movement, encyclopedia, encyclopaedia, britannica, article" /><link rel="canonical" href="https://www.britannica.com/topic/anti-nuclear-movement" />
-    <script type="text/javascript" data-type="Init Mendel">
-
-    $UI = {};
-
-    Mendel = {
-		config : {
-			page: 'Topic',
-			videoPlayerId: 'UAvzrRyR',
-			currentUrl: 'https://www.britannica.com/topic/anti-nuclear-movement',
-			sharedUrl: 'https://www.britannica.com/topic/anti-nuclear-movement',
-			userInfo: { type: 'ANONYMOUS'
-			           ,userId: ''
-			           ,currency: 'USD'
-			           ,country: 'US'
-			           ,bcomId: '-5125005841086167778'
-				       ,hasAds: true
-					   ,testVersion: 'D'
-				       ,mvst: {
-  "LEARN_MORE_STYLE" : "NEW",
-  "SUBSCRIPTION_IMAGE" : "https://safe.britannica.com/safeimages/subscriber-rollover-300x250-B",
-  "HEADER_SEARCH_TYPE" : "NEW"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+		<title>Antinuclear Movement - effects, environmental, United States, history, types, world, human, power, sources, health, oil</title>
+	
+	<meta name="Description" content="Urethritis, Nonspecific, Urinary Tract Infection, Uterine and Cervical Cancer, Varicose Veins, Vertigo, Viral Infections, Vitiligo, Warts, Whooping Cough (Pertussis), Worms, etc&hellip; " />
+	<meta name="robots" content="index, follow" />
+	<link rel="stylesheet" type="text/css" href="../style/style.css" />
+ 	<script type="text/javascript" src="../style/rs.js"></script>
+ 	<script type="text/javascript" src="../tools.js"></script>
+<style type="text/css">.Comments_messagebox {text-align:center;color:#C52525;background-color:#FFEAEA;border:1px dotted #DB8686;width:100%;padding:10px;margin-left:auto;margin-right:auto;margin-bottom:15px;}#Comments_form input { margin-left:10px;margin-right:10px;margin-top:5px;display:block;width:150px;}#Comments_form textarea { margin-left:10px;display:block;width:95%;height:140px;}#Comments_form div.Comments_name {float:left;}#Comments_form div.Comments_mail {float:left;position:relative;}#Comments_form div.Comments_showmail {margin-left:8px;color:gray;font-size:8pt;}#Comments_form div.Comments_text {clear:left;}#Comments_form div.Comments_captcha { float:left;}#Comments_form img.Comments_captcha { margin-left:10px;margin-top:15px;border:1px solid #BCC6D6;padding:2px;}#Comments_form .Comments_showmail label {display:inline;margin:2px;width:auto;}#Comments_form .Comments_showmail input {display:inline;margin:0px;width:auto;border:none;background-color:transparent;}div.Comments_form {width:96%; padding:10px 20px; margin: auto;}div.Comments_commentsbox {width:100%;margin:auto;padding:8px;margin-bottom:8px;line-height:normal;}#Comments_section h4 {margin-top:0px;margin-bottom:0px;}div.Comments_comment {width:96%; border-top: 4px solid #C4DAE5; border-right: 1px solid #E8F1F7; border-left: 1px solid #E8F1F7; padding:2px; padding-top:8px;  margin: auto; background-repeat:repeat-x;background-position:top;margin-bottom:12px; background-color:#FBFBFB;}div.Comments_comment div.Comments_info {height:28px;overflow:hidden;position:relative;top:-17px;}div.Comments_comment div.Comments_link  { z-index:2;text-align:center;width:13px;position:relative;left:5px;top:-17px;}div.Comments_comment a.Comments_link   { font-family:Tahoma,Arial;font-weight:bold;text-decoration:none;color:#CC0000;font-size:7pt;border:none;}div.Comments_comment div.Comments_balloon { z-index:1;width:23px;height:21px;position:relative;top:0px;}div.Comments_comment div.Comments_date {float:right;font-family:Tahoma,Arial;font-size:7pt;color:gray;display:inline;position:relative;top:-20px;left:-7px;opacity:0.5;}div.Comments_comment div.Comments_moderate {float:right;display:inline;position:relative;top:-19px;left:-2px;}div.Comments_comment div.Comments_user { font-family:Tahoma,Arial;font-size:8pt;display:inline;position:relative;top:-19px;left:29px;}div.Comments_comment div.Comments_user a { font-weight:bold;text-decoration:none;color:#006699; }div.Comments_comment div.Comments_text { margin-left:30px;color:#666666;position:relative;top:-10px;font-size:96%;}div.Comments_comment div.Comments_clear {clear:both;line-height:1px;height:1px;display:inline;}div.Comments_comment {background-image:url('/images/comments.back.1.png')}div.Comments_comment_alt {background-image:url('/images/comments.back.2.png')}#qaComments {text-align:left;}</style><script language="JavaScript" type="text/javascript">
+//<![CDATA[
+function confirmModerate(url,num){
+  url = url + '?Comments[do]=mod&Comments[id]=' + num + '#Comments_' + num;
+  if (confirm('Do you want to report this comment as inappropriate?')) location.href=url;
+  return 0;
 }
-			},
-			isLoggedInAsUser: false,
+function validate_form(frm) {
+  var value = '';
+  var errFlag = new Array();
+  _qfMsg = '';
 
-			
-			adInfo: {"refreshType":"REGULAR","refreshTimer":120,"refreshMaxCount":12,"catfishTimeout":60,"refreshCounterStart":0,"catfishEnabled":true},
-			
+  value = frm.elements['Comments[name]'].value;
+  if (value == '' && !errFlag['name']) {
+    errFlag['name'] = true;
+    _qfMsg = _qfMsg + '\n - Please enter your name';
+  }
 
-			analytics: [
-						{ type: 'google', id: 'UA-6636134-11', logClickAction: false, logFakePageLoad: true },
-						{ type: 'eb', logClickAction: false, logFakePageLoad: true }
-						],
-			
-			a9Id: '3022',
-			
-			mendelCookie: {
-  "pagesViewed" : 1,
-  "currentReadingList" : null,
-  "articleCatfishShown" : true,
-  "surveyShown" : false
-},
-			
-			isMobile: false,
-			isTablet: false,
-			isPhone: false,topicUrl: '/topic/anti-nuclear-movement'
-        ,freeTopicReason: 'PERMANENT_FREE_TOPIC'
-        ,topicId: 1995298
-	    ,topicAkw: 'history society,social sciences'
-        ,template: 'LARGE'
-		,coreArticle: true
-	    ,hasEditMode: true
-        ,hasToc: false
-        ,sectionId: '1995298main'
-		}
-    };
-
-	MendelInit = {
-		cmd: [],
-		cmdAngular: [],
-		add: function( f, priority ) { this.cmd.push( { f: f, p: priority || 1000  } ) },
-		addAngular: function( f, priority ) { if ( window.angular ) { this.cmdAngular.push( { f: f, p: priority || 1000  } ); } },
-		r: function( c ) { c.sort( function( o1, o2 ) { return o1.p - o2.p; } ); for( var i = 0; i < c.length; i++ ) { c[ i ].f(); } },
-		run: function() { this.r( this.cmd ); },
-		runAngular: function() { this.r( this.cmdAngular ); }
-	};
-
-	</script>
-
-<meta property="fb:app_id" content="178355025663364"/>
-
-<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@britannica" />
-
-<meta property="og:type"  content="article"/>
-<meta property="og:title" content="antinuclear movement | social movement"/>
-<meta property="og:description" content="Social movement opposed to the production of nuclear weapons and the generation of electricity by nuclear power plants. The goals and ideologies of the antinuclear movement range..."/>
-<meta property="og:site_name" content="Encyclopedia Britannica" />
-<meta property="og:url" content="https://www.britannica.com/topic/anti-nuclear-movement"/>
-<meta property="og:image" content="https://www.britannica.com/resources/images/social/eb-thistle-social-image.jpg" />
-<meta property="og:image:type" content="image/jpg" />
-<meta property="og:image:width" content="600" /><meta property="og:image:height" content="600" /><script type="text/javascript" data-type="init opengraph">
-Mendel.openGraph = {
-    type: 'article',
-    title: 'antinuclear movement | social movement',
-    description: 'Social movement opposed to the production of nuclear weapons and the generation of electricity by nuclear power plants. The goals and ideologies of the antinuclear movement range...',
-    siteName: 'Encyclopedia Britannica',
-    url: 'https://www.britannica.com/topic/anti-nuclear-movement',
-    image: 'https://www.britannica.com/resources/images/social/eb-thistle-social-image.jpg',
-    imageType: 'image/jpg'
-    
-    ,imageWidth: 600
-    ,imageHeight: 600
-};
-</script>
-
-<title>antinuclear movement | social movement | Britannica.com</title>
-
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono|Montserrat:400,700|Cinzel">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><link href="/resources/css/libs/reset.css" rel="stylesheet" />
-    <link href="/resources/dist/mendel-css.css?v=2.56.15" rel="stylesheet" />
-    <link href="/resources/css/fontello/css/mendel-icons.css" rel="stylesheet"/>
-
-    <script type="text/javascript">
-        //if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
-    </script>
-
-    <script type="text/javascript" data-type="googletags">
-
-	var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-
-	Mendel.config.ads = [
-			
-				{ adUnit: '/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', pos: 'BOT2', size: [ 300,250 ], divId: 'div-gpt-ad-a6e0c74e-2964-4df7-b3e1-70a690dd66ec' },
-				{ adUnit: '/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', pos: 'BOT', size: [ 728,90 ], divId: 'div-gpt-ad-1b9ec9f1-a240-4a86-b08b-bd558120eb9b' },
-				{ adUnit: '/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', pos: 'TOP', size: [ 300,250 ], divId: 'div-gpt-ad-ff24952e-8fa2-43bf-a504-ded08822a20d' },
-				{ adUnit: '/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', pos: 'BOT', size: [ 300,250 ], divId: 'div-gpt-ad-3c8fae9d-2f1f-46d7-84b0-08374a3b71de' },
-				{ adUnit: '/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', pos: 'CATFISH', size: [ 728,90 ], divId: 'div-gpt-ad-f5d6c795-a466-426a-b03e-9e232e44365a' }
-	];
-
-</script>
-
-<script async src="//js-sec.indexww.com/ht/htw-britannica.js" type="text/javascript"></script>
-<script type="text/javascript">
-	googletag.cmd.push(function() {
-		if  (typeof window.headertag === 'undefined' || window.headertag.apiReady !== true) {
-			window.headertag = googletag;
-        }
-	});
-</script>
-<script type="text/javascript" data-type="Amazon a9">
-
-	var amznads = amznads || {};
-	amznads.asyncParams = {
-        'id': '3022',
-        'callbackFn': function() { try { amznads.setTargetingForGPTAsync('amznslots'); } catch (e) { /*ignore*/ } },
-        'timeout': 2e3
-    };
-    (function() {
-        var a, s = document.getElementsByTagName("script")[0];
-        a = document.createElement("script");
-        a.type = "text/javascript";
-        a.async = true;
-        a.src = "//c.amazon-adsystem.com/aax2/amzn_ads.js";
-        s.parentNode.insertBefore(a, s);
-    })();
-
-</script>
-
-<script async="async" src="//www.googletagservices.com/tag/js/gpt.js"></script>
-
-<script type="text/javascript" data-type="load openX">
-        (function() {
-            var src = '//merriamwebster-d.openx.net/w/1.0/jstag?nc=34444486-EB';
-            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-        })();
-    </script>
-<script type="text/javascript" data-type="init GPT slots">
-
-    var googletagSlots = [];
-
-    googletag.cmd.push(function() {
-
-        
-	    
-                googletagSlots[ 'a6e0c74e-2964-4df7-b3e1-70a690dd66ec' ] =
-                    googletag.defineSlot('/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', [ 300,250 ],'div-gpt-ad-a6e0c74e-2964-4df7-b3e1-70a690dd66ec')
-                        .setTargeting('POS',['BOT2'])
-                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
-                        .addService(googletag.pubads());
-
-	        
-	    
-                googletagSlots[ '1b9ec9f1-a240-4a86-b08b-bd558120eb9b' ] =
-                    googletag.defineSlot('/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', [ 728,90 ],'div-gpt-ad-1b9ec9f1-a240-4a86-b08b-bd558120eb9b')
-                        .setTargeting('POS',['BOT'])
-                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
-                        .addService(googletag.pubads());
-
-	        
-	    
-                googletagSlots[ 'ff24952e-8fa2-43bf-a504-ded08822a20d' ] =
-                    googletag.defineSlot('/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', [ 300,250 ],'div-gpt-ad-ff24952e-8fa2-43bf-a504-ded08822a20d')
-                        .setTargeting('POS',['TOP'])
-                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
-                        .addService(googletag.pubads());
-
-	        
-	    
-                googletagSlots[ '3c8fae9d-2f1f-46d7-84b0-08374a3b71de' ] =
-                    googletag.defineSlot('/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', [ 300,250 ],'div-gpt-ad-3c8fae9d-2f1f-46d7-84b0-08374a3b71de')
-                        .setTargeting('POS',['BOT'])
-                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
-                        .addService(googletag.pubads());
-
-	        
-	    
-                googletagSlots[ 'f5d6c795-a466-426a-b03e-9e232e44365a' ] =
-                    googletag.defineSlot('/34444486/EB_D/ARTICLES_LARGE_NON_PAG_AE', [ 728,90 ],'div-gpt-ad-f5d6c795-a466-426a-b03e-9e232e44365a')
-                        .setTargeting('POS',['CATFISH'])
-                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
-                        .addService(googletag.pubads());
-
-	        googletag.pubads().setTargeting('dc_ref',['https://www.britannica.com/topic/anti-nuclear-movement']);googletag.pubads().setTargeting('PAGE',[1]);
-		    googletag.pubads().setTargeting( 'ARTICLE',['1995298']);
-		    
-		    googletag.pubads().setTargeting( 'CAT',['history society,social sciences']);
-		    
-	var dartCCKey = "ccaud";
-	var dartCC = "";
-	if (typeof( ccauds ) != 'undefined') {
-        for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
-            if (cci > 0) { dartCC += ","; }
-            dartCC += ccauds.Profile.Audiences.Audience[cci].abbr;
-        }
+  value = frm.elements['Comments[captcha]'].value;
+  if (value == '' && !errFlag['captcha']) {
+    errFlag['captcha'] = true;
+    _qfMsg = _qfMsg + '\n - Please enter Security Code';
 	}
-	googletag.pubads().setTargeting(dartCCKey, [dartCC]);
 
-
-        googletag.pubads().enableSingleRequest();
-        googletag.pubads().enableAsyncRendering();
-        googletag.enableServices();
-  });
-</script><script src="//cdn.optimizely.com/js/3788090404.js"></script>
-<script type="text/javascript" src="//tags.crwdcntrl.net/c/6899/cc.js?ns=_cc6899" id="LOTCC_6899"></script>
-    <script type="text/javascript" language="javascript" data-type="lotame init">_cc6899.bcp();</script>
-	<script type="text/javascript" src="//ad.crwdcntrl.net/5/c=6899/pe=y/var=ccauds"></script>
-	<script type="text/javascript" data-type="init Quantcast top">
-		    var _qevents = _qevents || [];
-		    (function() {
-		        var elem = document.createElement('script');
-		        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-		        elem.async = true;
-		        elem.type = "text/javascript";
-		        var scpt = document.getElementsByTagName('script')[0];
-		        scpt.parentNode.insertBefore(elem, scpt);
-		    })();
-		</script>
-	</head>
-
-<body data-leg="D" class="new-topic topic-large non-index  first-page-true user-ANONYMOUS  md-desktop     leg-d">
-
-<main>
-
-    <script type="text/javascript" data-type="PFW">
-!function e(t,n,r){function o(a,c){if(!n[a]){if(!t[a]){var s="function"==typeof require&&require;if(!c&&s)return s(a,!0);if(i)return i(a,!0);var d=new Error("Cannot find module '"+a+"'");throw d.code="MODULE_NOT_FOUND",d}var u=n[a]={exports:{}};t[a][0].call(u.exports,function(e){var n=t[a][1][e];return o(n?n:e)},u,u.exports,e,t,n,r)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<r.length;a++)o(r[a]);return o}({1:[function(e,t,n){!function(){function t(){o&&console.log.apply(console,arguments)}var n=e(4),r=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection;if(!r)return void n.reportEvent("bootstrap.ifw.rtc.absent");n.reportEvent("bootstrap.ifw.rtc.exists"),window.adonisHash=window.location.hash;var o=window.adonisHash.indexOf("adonis-logging")!==-1,i=function(e){var t=function(){e===!0&&console.log.apply(console,arguments)},n=["script","img"];document.addEventListener("load",function(e){t("withinIframe load event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="load")},!0),document.addEventListener("error",function(e){t("withinIframe error event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="error")},!0),window.addEventListener("message",function(e){if(void 0!==e.data.iframeId){t("message received "+e.data.iframeId);var r=e.data,o=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)},i=function(e){var r={originIframeId:e.iframeId,readyState:document.readyState,requestData:[],cssData:[]},o=e.srcSubstrings;if(void 0!==o)for(var a=document.querySelectorAll(n.join(",")),c=0;c<a.length;c++){var s=a[c];if(s.src){var d=o.some(function(e){return s.src.indexOf(e)!==-1});if(d){if(void 0===s._loadState)return t("Wait for event from "+s.src),s.addEventListener("load",function(){i(e)}),void s.addEventListener("error",function(){i(e)});r.requestData.push({type:s.nodeName,src:s.src,state:s._loadState})}}}var u=e.displayTypes,f=e.cssAttributes;void 0!==u&&void 0!==f&&(a=document.querySelectorAll(u.join(",")),Array.prototype.forEach.call(a,function(e){var t=window.getComputedStyle(e),n={};f.forEach(function(e){n[e]=t.getPropertyValue(e)}),r.cssData.push({type:e.nodeName,id:e.id,"class":e.getAttribute("class"),cssAttributes:n})})),t("send response "+e.iframeId),parent.postMessage(r,"*")};o(function(){i(r)})}})},a=['<script type="text/javascript">(',i.toString(),")(",o.toString(),")<","/script>"].join(""),c=function(e,t,n,r){var o=Object.getOwnPropertyDescriptor(e.prototype,t);Object.defineProperty(e.prototype,t,{get:function(){return n(o.get,this,arguments)},set:function(){return r(o.set,this,arguments)},enumerable:!0})},s=function(e,t,n){return e.apply(t,n)},d=function(e,n,r){try{var o=r[0];if(o.indexOf("html")!==-1){var i=o.split(";"),c=i[1],s=parseInt(c)+a.length;i[1]=s.toString(),o=i.join(";"),o=o.replace("<head>","<head>"+a),r[0]=o}}catch(d){t(d)}return e.apply(n,r)};c(HTMLIFrameElement,"name",s,d);var u=function(e){var t=!1;if(e.src&&0!==e.src.indexOf("javascript:")&&0!==e.src.indexOf("about:blank")){var n=document.createElement("a");n.href=e.src;var r=n.host;r===window.location.host&&(t=!0)}else t=!0;return t},f=function(e,n){if(void 0===n._writeDecorated){n._writeDecorated=!0;var r=n.write;n.write=function(e){try{this._injected||(e.indexOf("<head>")!==-1?(e=e.replace("<head>","<head>"+a),this._injected=!0):e.indexOf("<script")!==-1&&(e=e.replace(/(<script.*?>)/,a+"$1"),this._injected=!0))}catch(n){t(n)}return r.call(this,e)}}},p=function(e,n,r){var o=e.apply(n,r);try{u(n)&&f(n,o)}catch(i){t(i)}return o},l=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentDocument",p,l);var v=function(e,n,r){var o=e.apply(n,r);try{u(n)&&f(n,o.document)}catch(i){t(i)}return o},m=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentWindow",v,m)}()},{4:4}],2:[function(e,t,n){var r=e(3);t.exports=r},{3:3}],3:[function(e,t,n){t.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,t,n){function r(e){var t=new XMLHttpRequest,n=[d.REPORTING_URL,e].join("");t.open("GET",n,!0),t.send()}function o(e){r("/adonis_error?e="+e.toString())}function i(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<d.REPORTING_RATE}function a(e,t){if(c(e),i()){var n={website:window.location.hostname,key:e};null!=t&&(n.quantity=t),r(["/adonis_event/?event=",JSON.stringify(n)].join(""))}}function c(e){var t={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};f.push(t)}function s(){u.defineReadOnlyProperty("adonisBootstrapTiming",f)}var d=e(2),u=e(5),f=[];t.exports={reportError:o,reportEvent:a,saveTiming:s,shouldReport:i}},{2:2,5:5}],5:[function(e,t,n){function r(e,t){Object.defineProperty(window,e,{value:t,writable:!1})}function o(e,t){return!t||Number(t)<=e}function i(e){var t=(new Date).getTime()/1e3;return o(t,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),t=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==t){var n=t[1],r=t[2],o=parseInt(r.split(".")[0]);if("chrome"===n&&o>=41||"firefox"===n&&o>=37)return!0}return!1},c=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};t.exports={isSupportedBrowser:a,defineReadOnlyProperty:r,ready:c,isExpired:o,isExpiredNow:i}},{}]},{},[1]);
-</script>
-
-		<div class="md-page-wrapper">
-
-        <header class="md-header hidden-xs">
-    <div class="grid no-gutter">
-
-
-        <div class="grid-xs-shrink md-header-thistle">
-            <a href="/">
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<img src="/resources/images/shared/thistle-white-half.svg" alt="Britannica logo" />
-</a>
-        </div>
-
-
-        <div class="grid-xs" data-layout="column">
-
-
-            <div class="md-header-top-row grid no-gutter">
-
-                <div class="grid-xs middle-xs">
-                    <a href="/" class="font-logotype">Encyclop&aelig;dia Britannica</a>
-                </div>
-
-
-                <div class="grid-xs-shrink middle-xs">
-                    <div class="md-header-subscribe">
-                                <a href="https://safe1.britannica.com/registrations2/signup.do?partnerCode=EBOPPGSUB_LP_MDL_D" target="_blank">
-                                    <span>Subscribe</span>
-                                    <div class="md-header-subscribe-callout text-center ui-hidden">
-                                            <img src="https://safe.britannica.com/safeimages/subscriber-rollover-300x250-B" alt="Subscribe!"/>
-                                        </div>
-                                    </a>
-                            </div>
-                        <div class="md-header-user-actions text-center">
-                        <a href="#" class="login-link">Log In &middot; Join</a>
-                            </div>
-                </div>
-            </div>
-
-
-            <div class="md-header-bottom-row grid no-gutter md-header-gradient">
-
-
-                <div class="grid-xs middle-xs">
-                    <ul class="md-header-menu">
-                        <li><a href="/in-the-news">In the News</a></li>
-                        <li><a href="/spotlight">Spotlight</a></li>
-                        <li><a href="/demystified">Demystified</a></li>
-                        <li><a href="/quiz/browse">Quizzes</a></li>
-                        <li><a href="/gallery/browse">Galleries</a></li>
-                        <li><a href="/list/browse">Lists</a></li>
-                        <li><a href="/on-this-day">On This Day</a></li>
-                    </ul>
-                </div>
-
-
-                <div class="grid-xs-shrink middle-xs">
-                    <div class="md-header-search middle-xs">
-                                <span class="hidden-sm">Search Britannica</span>
-                                <em class="material-icons" data-icon="search"></em>
-                            </div>
-                        </div>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="md-search-box-backdrop ui-hidden"></div>
-        <div class="md-search-box ui-hidden-opacity text-center">
-            <div class="md-search-header">What are you looking for?</div>
-            <form class="md-search-form grid-xs-offset-16 grid-xs-66 middle-xs" method="get" action="/search">
-                <label class="sr-only" for="header-query">Search</label>
-                <input id="header-query" class="md-form-control" placeholder="Search Britannica Articles and Images" name="query" />
-                <button type="submit" class="md-button md-primary">
-                    <em class="material-icons" data-icon="search"></em>
-                </button>
-            </form>
-            <div class="md-search-popular">
-                <div class="md-search-popular-title">Browse popular topics:</div>
-                <ul class="md-search-popular-links">
-                    <li><a href="/topic/Allied-powers-World-War-II" rel="nofollow">Allied powers</a></li>
-                    <li><a href="/biography/Martin-Luther-King-Jr" rel="nofollow">Martin Luther King, Jr.</a></li>
-                    <li><a href="/event/United-States-presidential-election-of-1860" rel="nofollow">United States presidential election of 1860</a></li>
-                    <li><a href="/biography/Alexander-Graham-Bell" rel="nofollow">Alexander Graham Bell</a></li>
-                    <li><a href="/topic/Allied-Powers-international-alliance" rel="nofollow">Allied powers</a></li>
-                    </ul>
-            </div>
-        </div>
-    </header>
-
-<div id="content" class="md-content content-page">
-
-            <div class="md-article-container container">
-            <h1>Antinuclear movement</h1><div class="topic-identifier subhead">social movement</div>
-                    <div class="md-byline-area">
-			<div class="md-byline">
-
-		<div class="written-by">
-				<div class="subhead">Written By:</div>
-
-				<a href="/contributor/Susan-L-Rothwell/9565419">Susan L. Rothwell</a>
-				</div>
-		<div class="last-updated hidden-xs">
-				<div class="subhead">Last Updated:</div>
-				<time>11-5-2014</time>
-				<a id="see-history" data-type="accordion-link" href="#Article-History" rel="nofollow">See Article History</a></div>
-		</div>
-</div>
-
-
-		<div class="md-article-content">
-
-			<div class="md-main-channels grid gutter-right">
-
-
-				<div class="md-center-channel grid-md">
-
-					<article>
-						<section data-level="intro" class="gutter-bottom" id="toc1995298main"><div class="related-topics md-content-module-right grid-xs-ad-300">
-
-		<div class="md-ad gutter-bottom">
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-		<div style="width: 300px; height: 250px" data-refresh="true" id="div-gpt-ad-ff24952e-8fa2-43bf-a504-ded08822a20d" data-slot="TOP" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
-		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-ff24952e-8fa2-43bf-a504-ded08822a20d'); });</script>
-		</div>
-	
-
-
-</div>
-
-		<div class="hidden-xs">
-			<div class="subhead">Related Topics</div>
-			<ul class="dots gutter-bottom">
-				
-					<li>
-						<a href="/topic/liberalism">liberalism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/Christian-Science">Christian Science</a>
-					</li>
-				
-					<li>
-						<a href="/topic/social-change">social change</a>
-					</li>
-				
-					<li>
-						<a href="/topic/anarchism">anarchism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/Scientology">Scientology</a>
-					</li>
-				
-					<li>
-						<a href="/topic/democracy">democracy</a>
-					</li>
-				
-					<li>
-						<a href="/topic/socialism">socialism</a>
-					</li>
-				
-					<li>
-						<a href="/technology/nuclear-power">nuclear power</a>
-					</li>
-				
-					<li>
-						<a href="/topic/social-movement">social movement</a>
-					</li>
-				
-					<li>
-						<a href="/technology/nuclear-weapon">nuclear weapon</a>
-					</li>
-				
-			</ul>
-		</div>
-
-	</div><p class="md-content-block gutter-bottom firstpar"><strong><span class="srTitle">Antinuclear movement</span></strong><strong>, </strong><a class="md-crosslink" href="/topic/social-movement"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/551335/social-movement">social movement</span></a> opposed to the production of <a name="ref1222377" id="ref1222377" class="idxref"></a><a class="md-crosslink" href="/technology/nuclear-weapon"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/421827/nuclear-weapon">nuclear weapons</span></a> and the generation of <a class="md-crosslink" href="/science/electricity"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/182915/electricity">electricity</span></a> by <a name="ref1222378" id="ref1222378" class="idxref"></a><a class="md-crosslink" href="/technology/nuclear-power"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/421749/nuclear-power">nuclear power</span></a> plants. The goals and <a href="https://www.merriam-webster.com/dictionary/ideologies" class="md-dictionary-link" data-term="ideologies">ideologies</a> of the antinuclear movement range from an emphasis on peace and <a class="md-crosslink" href="/topic/environmentalism"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/189205/environmentalism">environmentalism</span></a> to <a href="https://www.merriam-webster.com/dictionary/intellectual" class="md-dictionary-link" data-term="intellectual">intellectual</a> social activism based on knowledge of nuclear technology and to political and <a href="https://www.merriam-webster.com/dictionary/moral" class="md-dictionary-link" data-term="moral">moral</a> activism based on conflicts between nuclear power applications and policies and personal values. Antinuclear organizations tend to emphasize <a class="md-crosslink" href="/science/renewable-energy"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/17668/renewable-energy">alternative energy</span></a> sources, the dangers of the proliferation of nuclear weapons, possible environmental hazards, and the safety of nuclear-industry workers. Many seek a complete <a href="https://www.merriam-webster.com/dictionary/moratorium" class="md-dictionary-link" data-term="moratorium">moratorium</a> on nuclear development and research. Arguing that nuclear-related terrorist attacks and nuclear accidents are probable and that radioactive waste is difficult to adequately dispose of, antinuclear activists push for <a href="https://www.merriam-webster.com/dictionary/alternative" class="md-dictionary-link" data-term="alternative">alternative</a> energy technologies to meet the needs of the <a class="md-crosslink" href="/topic/human-being"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/275376/human-being">human race</span></a> prior to the depletion of <a class="md-crosslink" href="/science/fossil-fuel"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/214545/fossil-fuel">fossil fuels</span></a>.</p><!--[END-1ST-PARA]--><p class="md-content-block gutter-bottom">During the late 1930s and early 1940s, atomic research was expensive and generally funded by the government and the military. Early atomic scientists were focused primarily on scientific potential and advancement. By the time the negative aspects of nonpeaceful uses of <a class="md-crosslink" href="/science/nuclear-energy"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/421564/nuclear-energy">atomic power</span></a> were realized, the government and the military controlled atomic energy. By 1945, when <a class="md-crosslink" href="/topic/Los-Alamos-National-Laboratory"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/348277/Los-Alamos-National-Laboratory-LANL">Los Alamos Laboratory</span></a> scientists exploded the first <a class="md-crosslink" href="/science/plutonium"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/465272/plutonium-Pu">plutonium</span></a> bomb in <a class="md-crosslink" href="/place/New-Mexico"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/411812/New-Mexico">New Mexico</span></a>, scientists were becoming increasingly concerned about the destructive potential of atomic power.</p><p class="md-content-block gutter-bottom">Even at that early stage of atomic research, it was apparent that the technology was advancing very quickly. The <a class="md-crosslink" href="/place/United-States"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/616563/United-States">U.S.</span></a> attacks on <a class="md-crosslink" href="/place/Hiroshima-Japan"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/266824/Hiroshima">Hiroshima</span></a> and <a class="md-crosslink" href="/place/Nagasaki-Japan"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/401619/Nagasaki">Nagasaki</span></a> in <a class="md-crosslink" href="/place/Japan"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/300531/Japan">Japan</span></a> in 1945 were the beginning of a strong public antinuclear movement. A movement of scientists developed to try to prevent military control of atomic energy, resulting in the foundation of the Federation of American Scientists (FAS).</p><p class="md-content-block gutter-bottom">In late 1945 FAS supported the McMahon Act, which placed atomic power under the control of the <a class="md-crosslink" href="/topic/Atomic-Energy-Commission-United-States-organization"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/41669/Atomic-Energy-Commission">Atomic Energy Commission</span></a>, a civilian agency. As the <a class="md-crosslink" href="/event/Cold-War"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/125110/Cold-War">Cold War</span></a> escalated, gaining increasing international and national attention, military power and national security became paramount. Scientists who were actively against military use of nuclear power were discredited.</p><div class="similar-topics md-content-module-right grid-xs-ad-300">
-
-		<div class="md-ad gutter-bottom">
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-		<div style="width: 300px; height: 250px" data-refresh="true" id="div-gpt-ad-3c8fae9d-2f1f-46d7-84b0-08374a3b71de" data-slot="BOT" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
-		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-3c8fae9d-2f1f-46d7-84b0-08374a3b71de'); });</script>
-		</div>
-	
-
-
-</div>
-
-		<div class="hidden-xs">
-			<div class="subhead">Similar Topics</div>
-			<ul class="dots gutter-bottom">
-				
-					<li>
-						<a href="/topic/secularism">secularism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/hippie">hippie</a>
-					</li>
-				
-					<li>
-						<a href="/topic/socialism">socialism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/hip-hop">hip-hop</a>
-					</li>
-				
-					<li>
-						<a href="/topic/satyagraha-philosophy">satyagraha</a>
-					</li>
-				
-					<li>
-						<a href="/topic/liberalism">liberalism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/democracy">democracy</a>
-					</li>
-				
-					<li>
-						<a href="/topic/libertarianism-politics">libertarianism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/communism">communism</a>
-					</li>
-				
-					<li>
-						<a href="/topic/nationalism">nationalism</a>
-					</li>
-				
-			</ul>
-		</div>
-
-	</div><p class="md-content-block gutter-bottom">In the 1950s increasing efforts were made to support international cooperation and sharing of nuclear materials through Pres. Dwight D. <a class="md-crosslink" href="/biography/Dwight-D-Eisenhower"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/181476/Dwight-D-Eisenhower">Eisenhower</span></a>’s <a class="md-crosslink" href="/event/Atoms-for-Peace-speech"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/1439606/Atoms-for-Peace-speech">Atoms for Peace</span></a> proposal to the <a class="md-crosslink" href="/topic/United-Nations"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/616264/United-Nations-UN">United Nations</span></a>. Although that provided a level of control over nuclear research, it also led to nuclear weapons development in other countries. During that time both government and private industry were developing the first commercial nuclear power plants; government research into applications of nuclear power research was continuing; and the environmental effects of radiation were being investigated. Critics of nuclear power were becoming increasingly vocal, expressing concerns about the testing of nuclear weapons in the atmosphere, radioactive fallout, and the potential for radiation to cause genetic mutations. The first World Conference Against Atomic and Hydrogen Bombs was held in Hiroshima in 1955.</p><p class="md-content-block gutter-bottom">Politically, the change of the 1950s resulted in Pres. <a class="md-crosslink" href="/biography/John-F-Kennedy"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/314791/John-F-Kennedy">John F. Kennedy</span></a>’s <a class="md-crosslink" href="/event/Nuclear-Test-Ban-Treaty"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/421810/Nuclear-Test-Ban-Treaty">Nuclear Test-Ban Treaty</span></a> in 1963, which prohibited the testing of nuclear weapons under water, in the atmosphere, or in outer space and was signed by the United States, the <a class="md-crosslink" href="/place/Soviet-Union"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/614785/Union-of-Soviet-Socialist-Republics">Soviet Union</span></a>, and the <a class="md-crosslink" href="/place/United-Kingdom"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/615557/United-Kingdom">United Kingdom</span></a>. The antinuclear movement grew throughout the 1960s. The Cold War resulted in an elevated fear of nuclear attack, the construction of backyard nuclear-bomb shelters, and regular duck-and-cover drills in grade schools. The “ban the bomb” movement began in Britain; construction of missile bases were protested; and increasing controversy developed over construction of commercial nuclear power plants. In 1968 the United States, the Soviet Union, and the United Kingdom signed the <a class="md-crosslink" href="/event/Treaty-on-the-Non-proliferation-of-Nuclear-Weapons"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/417496/Treaty-on-the-Non-Proliferation-of-Nuclear-Weapons">Treaty on the Non-proliferation of Nuclear Weapons</span></a> and agreed not to assist other states in obtaining or producing nuclear weapons.</p><a href="/quiz/hip-hop-quiz" class="test-your-knowledge md-content-module-left grid-md-shrink visible-lg visible-md">
-		<div class="subhead">Test Your Knowledge</div>
-		<div class="image-wrapper">
+  value = frm.elements['Comments[mail]'].value;
+  if (value == '' && !errFlag['mail']) {
+    errFlag['mail'] = true;
+    _qfMsg = _qfMsg + '\n - Please enter your e-mail';
+  }
+  var regex = /^((\"[^\"\f\n\r\t\v\b]+\")|([\w\!\#\$\%\&'\*\+\-\~\/\^\`\|\{\}]+(\.[\w\!\#\$\%\&'\*\+\-\~\/\^\`\|\{\}]+)*))@((\[(((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9]))\.((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9]))\.((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9]))\.((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9])))\])|(((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9]))\.((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9]))\.((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9]))\.((25[0-5])|(2[0-4][0-9])|([0-1]?[0-9]?[0-9])))|((([A-Za-z0-9\-])+\.)+[A-Za-z\-]+))$/;
+  if (value != '' &&!regex.test(value) && !errFlag['mail']) {
+    errFlag['mail'] = true;
+    _qfMsg = _qfMsg + '\n - E-mail address format is invalid';
+  }
+
+  value = frm.elements['Comments[text]'].value;
+  if (value == '' && !errFlag['text']) {
+    errFlag['text'] = true;
+    _qfMsg = _qfMsg + '\n - Please enter your comment';
+  }
+  if (value.length<50 && !errFlag['text']) {
+    errFlag['text'] = true;
+    _qfMsg = _qfMsg + '\n - Comment is too short (50 characters min.)';
+  }
+  if (value.length>4000 && !errFlag['text']) {
+    errFlag['text'] = true;
+    _qfMsg = _qfMsg + '\n - Comment is too long (4000 characters max)';
+  }
+
+  if (_qfMsg != '') {
+    _qfMsg = 'Invalid information entered:' + _qfMsg + '\nPlease correct these fields.';
+    alert(_qfMsg);
+    return false;
+  }
+  return true;
+}
+
+//]]>
+</script></head>
+<body>
+
+<div id="body">
+	<div id="page">
+	<div id="header">
+		<div id="hsearch">
+	<form action="http://www.jrank.org/api/search/v2" method="get">
+		<input id="key" name="key" type="hidden" value="3880d1de2c5243d57140481e62ea05c872b134d2" />
+ 		<input id="q" type="text" value="" name="q" />
+		<input type="submit" value="Search" style="width:54px;"/>
+		<span>Powered by
 			
+				JRank
+			
+		</span>
+	</form>
+</div>
 
+		<div id="hlogo"></div>
+		<h1><a href="/" title="Pollution Issues" >Pollution Issues</a></h1>
+	</div>
 
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/13/175913-118-9510C3E3.jpg" alt="Art. Graffiti. Spray paint. New York City. Graffiti and trash in Manhattan, 1986." />
-	
-<div class="title">Hip-Hop Quiz</div>
-		</div>
-	</a><p class="md-content-block gutter-bottom">Although the antinuclear movement continued in the United States during the late 1960s and into the 1970s, some momentum was lost as many other social issues came to the forefront, such as the <a class="md-crosslink" href="/event/Vietnam-War"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/628478/Vietnam-War">Vietnam War</span></a>, the <a class="md-crosslink" href="/topic/womens-movement"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/647122/womens-movement">women’s movement</span></a>, the <a class="md-crosslink" href="/topic/civil-rights"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/119317/civil-rights">civil rights</span></a> movement, and environmental issues. One environmental issue that strongly affected the antinuclear movement was the concern about thermal pollution due to hot water discharge from nuclear power-facility cooling systems. Although the effects of thermal pollution were minimal and have been corrected through regulation and improved technology, concerns about thermal pollution in the early 1970s led the way to environmental-impact challenges of nuclear power facilities by citizen groups.</p><div class="md-sidebar-news-features md-content-module-right grid-xs-ad-300">
-
-		<div class="md-ad gutter-bottom">
-
-
-
-
-
-
-
-
-
-	
+	<div id="navigation">
+		<a href="../index.html">Pollution Issues</a>
+		&raquo; <a href="index.html">A-Bo</a>
 		
+			&raquo; Antinuclear Movement
 		
-	
-	
-		<div style="width: 300px; height: 250px" data-refresh="true" id="div-gpt-ad-a6e0c74e-2964-4df7-b3e1-70a690dd66ec" data-slot="BOT2" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
-		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-a6e0c74e-2964-4df7-b3e1-70a690dd66ec'); });</script>
-		</div>
-	
+	</div>
 
+	<div id="mtl"></div>
+	<div id="mtr"></div>
+	<div id="content">
+		
+  <div class='article_container'>
+    <h1>
+      Antinuclear Movement
+    </h1>
+    <div class='adwords_in_content'>
+<br><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.pollutionissues.com%2FA-Bo%2FAntinuclear-Movement.html&amp;layout=standard&amp;show_faces=true&amp;width=400&amp;action=like&amp;font&amp;colorscheme=light&amp;height=28" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:28px;" allowTransparency="true"></iframe><br><hr>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5788426211617053";
+/* pollution top */
+google_ad_slot = "6957057355";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
-</div>
-
-		<div class="hidden-xs gutter-bottom">
-
-			<div class="subhead">
-				Britannica Stories</div>
-
-			<ul>
-				<li>
-						<a href="/in-the-news/spacex-launches-reused-rocket" class="IN_THE_NEWS grid no-gutter">
-							<div class="grid-xs middle-xs">
-								<div>
-									<div class="md-story-title">In The News / Technology</div>
-									SpaceX Launches Reused Rocket</div>
-							</div>
-							<div class="grid-xs-shrink middle-xs">
-								
-
-
-
+<br>
 
 
 
+					<div style='line-height:130%;float:right;margin-left:10px;margin-bottom:10px;padding:4px;text-align:right;'>
+						<img src='/photos/antinuclear-movement-3609.jpg' alt='Antinuclear Movement 3609' style='border:3px solid white;-moz-box-shadow:2px 2px 10px silver;-webkit-box-shadow:2px 2px 10px silver;box-shadow:2px 2px 10px silver;' />
+						<div style='color:gray;font-size:11px;padding-top:1px;'>Photo by: teracreonte</div>
+					</div>
 
 
-
-
-
-
-
-	
-	<img src="https://media1.britannica.com/eb-media/35/194535-117-753ABF81.jpg"  alt="SES-10 Launch - world’s first reflight of an orbital class rocket, May 30 2017" />
-</div>
-						</a>
-					</li>
-				<li>
-						<a href="/demystified/what-is-an-executive-order" class="DEMYSTIFIED grid no-gutter">
-							<div class="grid-xs middle-xs">
-								<div>
-									<div class="md-story-title">Demystified / History</div>
-									What Is an Executive Order?</div>
-							</div>
-							<div class="grid-xs-shrink middle-xs">
-								
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<img src="https://media1.britannica.com/eb-media/78/194778-117-466800EF.jpg"  alt="President Barack Obama signs the White House Initiative on Educational Excellence for African Americans Executive Order in the Oval Office, July 26, 2012" />
-</div>
-						</a>
-					</li>
-				<li>
-						<a href="/spotlight/cannibalism-cultures-cures-cuisine-and-calories" class="SPOTLIGHT grid no-gutter">
-							<div class="grid-xs middle-xs">
-								<div>
-									<div class="md-story-title">Spotlight / Society</div>
-									Cannibalism: Cultures, Cures, Cuisine, and Calories</div>
-							</div>
-							<div class="grid-xs-shrink middle-xs">
-								
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<img src="https://media1.britannica.com/eb-media/35/136035-117-543DF655.jpg"  alt="Human cannibalism, engraving by Theodor de Bry. " />
-</div>
-						</a>
-					</li>
-				<li>
-						<a href="/in-the-news/good-news-for-manatees" class="IN_THE_NEWS grid no-gutter">
-							<div class="grid-xs middle-xs">
-								<div>
-									<div class="md-story-title">In The News / Animals</div>
-									Good News for Manatees?</div>
-							</div>
-							<div class="grid-xs-shrink middle-xs">
-								
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<img src="https://media1.britannica.com/eb-media/34/194534-117-0F96DCB2.jpg"  alt="Florida Manatee in Crystal River sanctuary" />
-</div>
-						</a>
-					</li>
-				</ul>
-
-            <div class="text-right">
-	            </div>
-		</div>
-
-	</div><p class="md-content-block gutter-bottom">The antinuclear movement reemerged as a major social movement after the energy crisis of the early 1970s. The energy crisis and associated efforts to both expand nuclear power and provide improved nuclear safety brought many nuclear issues and concerns to the forefront. During that time commercial nuclear power continued to develop across the globe, as did both public concerns about nuclear power and awareness of the benefits of nuclear power. The antinuclear movement was strongly supported by American activist <a class="md-crosslink" href="/biography/Ralph-Nader"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/401434/Ralph-Nader">Ralph Nader</span></a>, the <a class="md-crosslink" href="/topic/Sierra-Club"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/543339/Sierra-Club">Sierra Club</span></a>, and <a class="md-crosslink" href="/topic/Friends-of-the-Earth-International"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/1516108/Friends-of-the-Earth-International">Friends of the Earth</span></a>, who each variously called for <a href="https://www.merriam-webster.com/dictionary/moratoria" class="md-dictionary-link" data-term="moratoria">moratoria</a> on nuclear power development. Antinuclear activities were brought to worldwide attention in 1979 when the <a class="md-crosslink" href="/event/Three-Mile-Island-accident"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/593836/Three-Mile-Island-accident">Three Mile Island accident</span></a> occurred at a nuclear power plant in Pennsylvania. The late 1970s also saw expansion of antinuclear activities in western <a class="md-crosslink" href="/place/Europe"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/195686/Europe">Europe</span></a> as protests increased against the <a class="md-crosslink" href="/topic/North-Atlantic-Treaty-Organization"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/418982/North-Atlantic-Treaty-Organization-NATO">North Atlantic Treaty Organization</span></a>’s (NATO’s) sharing of nuclear weapons and its stance that conventional <a href="https://www.merriam-webster.com/dictionary/deterrence" class="md-dictionary-link" data-term="deterrence">deterrence</a> is not nearly as effective as nuclear deterrence.</p><p class="md-content-block gutter-bottom">During the 1980s the focus of the antinuclear movement shifted to adjust to a large number of political and social changes, including cuts in funding for development of alternative energy sources, production of plutonium for nuclear weapons, expansion of nuclear research and military deployment in western Europe, and increased European and Japanese pressure for nuclear <a class="md-crosslink" href="/topic/disarmament"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/165165/disarmament">disarmament</span></a>. Antinuclear activism was then largely directed to halting testing, deployment, and development of nuclear weapons; managing radioactive-waste disposal; and preparing emergency evacuation plans in the event of an accident at a nuclear power plant. The antinuclear movement influenced arms-control agreements between <a class="md-crosslink" href="/biography/Mikhail-Gorbachev"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/238982/Mikhail-Gorbachev">Mikhail Gorbachev</span></a> and <a class="md-crosslink" href="/biography/Ronald-Reagan"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/492882/Ronald-Reagan">Ronald Reagan</span></a> and positively contributed to nuclear disarmament and avoidance of nuclear war.</p><p class="md-content-block gutter-bottom">A resurgence of global interest in the antinuclear movement began in the mid-1980s after higher-than-normal numbers of deaths from children’s <a class="md-crosslink" href="/science/leukemia"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/337713/leukemia">leukemia</span></a> were reported for residents near several types of nuclear facilities. That began a lengthy controversy, which continues today, into the effects of exposure to low-level radiation.</p><div class="connect md-content-module-right grid-xs-ad-300 text-center ">
-
-	<div class="md-ad gutter-bottom">
-			<div class="google-ad-iframe" data-refresh="false" data-info="passback ARTICLE_RR">
 <script type="text/javascript">
-	
-	googletag.cmd.push( function() {
-		googletag.pubads().definePassback( '34444486/EB_HOUSE/ARTICLE_RR', [300,250] )
-		
-		.display();
-	});
+(function() {
+	var kgs=document.createElement('script');
+	kgs.async=false;
+	kgs.type='text/javascript';
+	kgs.src='/'+''+'kno'+'wledge/kn'+'ow' + 'ledgelinks.p'+'hp?url='+document.location.href;
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(kgs);
+})();
+</script>
+
+    </div>
+    <hr />
+    <div class='ads_float_left'>
+<div class='advboxl'>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5788426211617053";
+/* pollution left */
+google_ad_slot = "8433790554";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-</div>
-	<div class="hidden-xs gutter-bottom">
-		<div class="subhead md-blue">Connect with Britannica</div>
-		<div class="md-social-toolbar-circle center-xs inverted"
-     data-value="connect"
-     
->
-    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
-    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
-    <a class="ui-icon-youtube-play center-xs middle-xs" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank"><span>YouTube</span></a>
-    <a class="ui-icon-instagram center-xs middle-xs" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank"><span>Instagram</span></a>
-    <a class="ui-icon-pinterest center-xs middle-xs" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank"><span>Pinterest</span></a>
-    </div></div>
-
-</div><p class="md-content-block gutter-bottom">In 1986 the antinuclear movement again received a boost from a nuclear power plant accident, that time at the <a name="ref1222379" id="ref1222379" class="idxref"></a><a class="md-crosslink" href="/event/Chernobyl-disaster"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/109428/Chernobyl-disaster">Chernobyl</span></a> plant in Ukraine. That was by far the most-serious nuclear accident in history, with widespread physical and sociopolitical effects. While that accident substantially added strength to the antinuclear movement, particularly at the <a class="md-crosslink" href="/topic/grassroots"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/2073875/grassroots">grassroots</span></a> level, where it became a global symbol for antinuclear activism, it also helped spread technical knowledge about nuclear power. Public and media discussion of the extensive lack of safety systems and appropriate operator training at Chernobyl and resulting comparisons with nuclear power plant technology in the United States and worldwide expanded public knowledge of the safety and technology associated with properly operated and maintained power plants. Proponents of nuclear power argue that since <a name="ref1222380" id="ref1222380" class="idxref"></a><a class="md-crosslink" href="/event/Three-Mile-Island-accident"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/593836/Three-Mile-Island-accident">Three Mile Island</span></a>, regulatory improvements within the commercial nuclear power industry in the United States have resulted in a strong safety-oriented <a href="https://www.merriam-webster.com/dictionary/culture" class="md-dictionary-link" data-term="culture">culture</a> with a focus on communications and social responsibility. In response, antinuclear activists argue that even well-run power plants are susceptible to terrorism or acts of nature, as evidenced by the 2011 <a name="ref1222381" id="ref1222381" class="idxref"></a><a class="md-crosslink" href="/event/Fukushima-accident"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/1768504/Fukushima-accident">Fukushima accident</span></a>.</p><p class="md-content-block gutter-bottom">Given the increases in <a class="md-crosslink" href="/science/petroleum"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/454269/petroleum">oil</span></a> prices, concerns about <a class="md-crosslink" href="/science/global-warming"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/235402/global-warming">global warming</span></a>, and the slow advances in alternative energy sources, commercial nuclear power has again come to the forefront of energy and <a class="md-crosslink" href="/topic/environmental-policy"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/1998888/environmental-policy">environmental policy</span></a> decisions. Thus, the antinuclear movement is likely to continue for the foreseeable future.</p><span class="bps-article-author"><a class="md-author-link" href="/contributor/Susan-L-Rothwell/9565419">Susan L. Rothwell</a></span></section></article>
-
-                    <div class="md-content-footer">
-                        <div class="md-info-accordion" data-layout="column">
-
-		<h2 id="Additional-Reading" class="md-accordion-title  no-ad" data-url="/ajax/topic/1995298/article-bibliography">Additional Reading</h2>
-			<div class="md-accordion md-content-block template-ajax-loaded-content BIBLIOGRAPHY"></div>
-		<h2 id="Article-Contributors" class="md-accordion-title  no-ad" data-url="/ajax/topic/1995298/article-contributors">Article Contributors</h2>
-			<div class="md-accordion md-content-block template-ajax-loaded-content CONTRIBUTORS"></div>
-		<h2 id="Article-History" class="md-accordion-title  no-ad" data-url="/ajax/topic/1995298/article-history">Article History</h2>
-			<div class="md-accordion md-content-block template-ajax-loaded-content HISTORY"></div>
-		</div>
-
-<div class="footer-feedback-link md-link">
-    <div class="md-feedback-cta grid no-gutter">
-        <div class="feedback grid-xs-shrink middle-xs">
-            <div class="title">
-                 <em class="material-icons" data-icon="chat"></em>
-                Feedback
-            </div>
-        </div>
-        <div class="description grid-xs">
-            <span>Corrections? Updates? Help us improve this article!</span>
-            <span>Contact our editors with your feedback.</span>
-        </div>
-    </div>
-</div>
-</div>
-
-				</div>
-
-				<aside class="grid-xs-ad-300 hidden-md"></aside>
-
-			</div>
-
-		</div></div>
-
-		<div class="footer-ad">
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-		<div style="width: 728px; height: 90px" data-refresh="true" id="div-gpt-ad-1b9ec9f1-a240-4a86-b08b-bd558120eb9b" data-slot="BOT" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
-		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-1b9ec9f1-a240-4a86-b08b-bd558120eb9b'); });</script>
-		</div>
-	
-
-
-</div></div>
 
     </div>
-
-    <div class="md-article-pinboard md-pinboard">
-    <div class="container">
-        <h2>Keep Exploring Britannica</h2>
-        <div class="pinboard">
-            <a href="/topic/marketing" class="item topic" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/08/101808-004-AFF1325F.jpg" alt="Underground mall at the main railway station in Leipzig, Ger." />
-	
-<div class="content">
-            <div class="title">marketing</div>
-            <div class="description">the sum of activities involved in directing the flow of goods and services from producers to consumers. Marketing’s principal function is to promote and facilitate exchange. Through marketing, individuals...</div>
+    <p>
+      &#x0022;I am become death, the shatterer of worlds.&#x0022; Robert
+      Oppenheimer, the &#x0022;father&#x0022; of the atomic bomb, muttered these
+      Hindu words after the initial successful test of the new weapon during the
+      summer of 1945. Although Oppenheimer&#x0027;s scientific expertise
+      produced the bomb, he grew increasingly uneasy over its application and
+      destructive power. Oppenheimer became the first of a long line of
+      antinuclear activists and scientists to protest nuclear weapons and
+      nuclear power.
+    </p>
+    <p>
+      In the early 1950s, the United States began testing an even more powerful
+      nuclear weapon, the hydrogen bomb, in Nevada and the islands of the South
+      Pacific. This testing came in the wake of the cold war, a struggle for
+      power and survival between the United States and the Soviet Union
+      following 
+      <div class='gale_imggroup'>
+        <img src='../images/paz_01_img0024.jpg' height='328' alt='Police wearing riot gear form a human barricade against antinuclear demonstrators in Germany, May 7, 1996. (&#x00A9; Regis Bossu/Corbis Sygma. Reproduced by permission.)' width='516' />
+        <div class='caption'>
+          <small>
+            Police wearing riot gear form a human barricade against antinuclear
+            demonstrators in Germany, May 7, 1996.
+          </small>
+           (
+          <div class='credit'>
+            &#x00A9; Regis Bossu/Corbis Sygma. Reproduced by permission.
+          </div>
+          ) 
         </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/list/7-female-firsts-in-us-politics" class="item list" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/91/61891-118-6610F9FE.jpg" alt="Frances Perkins." />
-	
-<div class="content">
-            <div class="title">7 Female Firsts in U.S. Politics</div>
-            <div class="description">On July 28, 2016, at the Democratic National Convention, Hillary Clinton became the first female presidential candidate of a major U.S. political party....</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this List<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/topic/education" class="item topic" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/67/46767-004-3258AD5A.jpg" alt="Margaret Mead" />
-	
-<div class="content">
-            <div class="title">education</div>
-            <div class="description">discipline that is concerned with methods of teaching and learning in schools or school-like environments as opposed to various nonformal and informal means of socialization (e.g., rural development projects...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/topic/fascism" class="item topic" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/03/95103-004-386D2E49.jpg" alt="Nazi Storm Troopers marching through the streets of Nürnberg, Germany, after a Nazi Party rally." />
-	
-<div class="content">
-            <div class="title">fascism</div>
-            <div class="description">political ideology and mass movement that dominated many parts of central, southern, and eastern Europe between 1919 and 1945 and that also had adherents in western Europe, the United States, South Africa,...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/quiz/hip-hop-quiz" class="item quiz" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/13/175913-118-9510C3E3.jpg" alt="Art. Graffiti. Spray paint. New York City. Graffiti and trash in Manhattan, 1986." />
-	
-<div class="content">
-            <div class="title">Hip-Hop Quiz</div>
-            <div class="description">Take this music quiz at Encyclopedia Britannica to test your knowledge of hip-hop music.</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Take this Quiz<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/list/7-deadliest-weapons-in-history" class="item list" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/28/60728-118-AED50528.jpg" alt="Figure 13: A Maxim machine gun, belt-fed and water-cooled, operated by German infantrymen, World War I." />
-	
-<div class="content">
-            <div class="title">7 Deadliest Weapons in History</div>
-            <div class="description">The earliest known purpose-built weapons in human history date to the Bronze Age. Maces, which were little more than rocks mounted on sticks, had questionable value as hunting...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this List<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/topic/industrial-relations" class="item topic" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/28/39728-004-AECE0EBC.jpg" alt="Sidney and Beatrice Webb" />
-	
-<div class="content">
-            <div class="title">industrial relations</div>
-            <div class="description">the behaviour of workers in organizations in which they earn their living. Scholars of industrial relations attempt to explain variations in the conditions of work, the degree and nature of worker participation...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/topic/English-language" class="item topic" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/15/50215-004-8692FCF1.jpg" alt="The distribution of Old English dialects." />
-	
-<div class="content">
-            <div class="title">English language</div>
-            <div class="description">West Germanic language of the Indo-European language family that is closely related to Frisian, German, and Dutch (in Belgium called Flemish) languages. English originated in England and is now widely...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/quiz/society-randomizer" class="item quiz" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/35/183135-118-CFF4D7DA.jpg" alt="Closeup of a pomegranate. Anitoxidant, Fruit." />
-	
-<div class="content">
-            <div class="title">Society Randomizer</div>
-            <div class="description">Take this Society quiz at Encyclopedia Britannica to test your knowledge of society and cultural customs using randomized questions.</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Take this Quiz<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/quiz/another-hip-hop-quiz" class="item quiz" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/63/103163-118-B0E1344A.jpg" alt="Snoop Dogg." />
-	
-<div class="content">
-            <div class="title">Another Hip-Hop Quiz</div>
-            <div class="description">Take this music quiz at Encyclopedia Britannica to test your knowledge of hip-hop music.</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Take this Quiz<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/topic/democracy" class="item topic" >
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/90/90490-004-3182D14E.jpg" alt="The Acropolis and surrounding ruins (foreground), Athens." />
-	
-<div class="content">
-            <div class="title">democracy</div>
-            <div class="description">literally, rule by the people. The term is derived from the Greek dēmokratiā, which was coined from dēmos (“people”) and kratos (“rule”) in the middle of the 5th century bce to denote the political systems...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- <a href="/topic/slavery-sociology" class="item topic" data-more="true">
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		<img src="https://media1.britannica.com/eb-media/30/138730-004-F4F47D1C.jpg" alt="Slaves picking cotton in Georgia." />
-	
-<div class="content">
-            <div class="title">slavery</div>
-            <div class="description">condition in which one human being was owned by another. A slave was considered by law as property, or chattel, and was deprived of most of the rights ordinarily held by free persons. There is no consensus...</div>
-        </div>
-        <div class="icon-container middle-xs end-xs">
-            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
-        </div>
-    </a>
-
- </div>
-
-        <div class="text-center">
-            <button class="md-pinboard-more md-button md-primary md-button-lg">View More</button>
-        </div>
-        </div>
-</div>
-
-<div class="catfish center-xs" data-layout="row">
-		
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-		<div style="width: 728px; height: 90px" data-refresh="true" id="div-gpt-ad-f5d6c795-a466-426a-b03e-9e232e44365a" data-slot="CATFISH" class="google-ad-iframe ui-hide-on-modal center-xs" adonis-marker>
-		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-f5d6c795-a466-426a-b03e-9e232e44365a'); });</script>
-		</div>
-	
-
-
-<span class="close material-icons" data-icon="close"></span>
-	</div><div id="md-media-overlay" class="ui-hidden">
-
-    <a href="#" class="md-media-overlay-close" title="Close">
-        <em class="material-icons md-36" data-icon="close"></em>
-    </a>
-
-	<div class="md-media-overlay-title">
-        <div class="subtitle">MEDIA FOR:</div>
-        <div class="maintitle">antinuclear movement</div>
-    </div>
-
-    <div class="md-media-overlay-content-container">
-
-		<a href="#" class="md-media-overlay-arrow md-media-overlay-previous" title="Previous media"><em class="material-icons md-48" data-icon="chevron_left"><span>Previous</span></em></a>
-		<div id="md-media-container" data-layout="column" class="md-media-wrapper center-xs middle-xs"></div>
-		<a href="#" class="md-media-overlay-arrow md-media-overlay-next" title="Next media"><em class="material-icons md-48" data-icon="chevron_right"><span>Next</span></em></a>
-
-		<div id="md-media-overlay-caption">
-			<div id="md-media-overlay-count"></div>
-			<div id="md-media-overlay-caption-title"></div>
-			<div class="md-media-overlay-credit-caption fancy-scrollbar white">
-				<div id="md-media-overlay-caption-text"></div>
-				<div id="md-media-overlay-credit"></div>
-				<div id="md-media-overlay-license"></div>
-			</div>
-			<div class="md-social-toolbar-circle center-xs inverted colored"
-     data-value="share"
-     title="antinuclear movement"
->
-    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
-    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
-    <a class="ui-icon-gplus center-xs middle-xs" data-provider="googleplus" href target="_blank"><span>Google+</span></a>
-    <a class="ui-icon-linkedin center-xs middle-xs" data-provider="linkedin" href target="_blank"><span>LinkedIn</span></a>
-    <a class="ui-icon-pinterest center-xs middle-xs" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank"><span>Pinterest</span></a>
-    </div></div>
-
-        <div class="md-media-overlay-toolbar">
-			<a id="md-media-overlay-toolbar-print" href="#" target="_blank" title="Print" rel="nofollow"> <em class="material-icons" data-icon="print"></em></a>
-            <span id="md-media-overlay-toolbar-citations" title="Citation"> <em class="material-icons" data-icon="bookmark"></em></span>
-            <span id="md-media-overlay-toolbar-email" title="Email"> <em class="material-icons" data-icon="mail_outline"></em></span>
-        </div>
-
-		<div id="md-media-overlay-citations" class="md-media-overlay-box ui-hidden">
-		    <div class="md-media-overlay-citations-menu">
-			    <div id="md-media-overlay-citations-close" class="md-media-overlay-box-close"> <em class="material-icons" data-icon="close"></em></div>
-			    <em>Citation</em>
-                <ul class="md-media-overlay-citations-select">
-                    <li data-value="mla">MLA</li>
-                    <li data-value="apa">APA</li>
-                    <li data-value="harvard">Harvard</li>
-                    <li data-value="chicago">Chicago</li>
-                </ul>
-		    </div>
-			<div id="md-media-overlay-citations-text"></div>
-		</div>
-
-		<div id="md-media-overlay-email" class="md-media-overlay-box ui-hidden">
-			<em>Email</em>
-			<div id="md-media-overlay-email-close" class="md-media-overlay-box-close"> <em class="material-icons" data-icon="close"></em></div>
-			<form id="md-media-overlay-email-form">
-                <input type="hidden" name="assembly_id" />
-                <input type="hidden" name="page_id" />
-				<label for="md-media-overlay-email-to">To:</label>
-				<input type="text" id="md-media-overlay-email-to" name="to" placeholder="Enter an email address" required="true" data-validation="email" />
-				<label for="md-media-overlay-email-from">From:</label>
-				<input type="text" id="md-media-overlay-email-from" name="from" placeholder="Enter an email address" required="true" data-validation="email" />
-				<label for="md-media-overlay-email-comment">Comment:</label>
-				<textarea id="md-media-overlay-email-comment" name="comment" placeholder="Add a comment"></textarea>
-				<input type="submit" value="SEND" />
-			</form>
-		</div>
-
-		<div id="md-media-overlay-submit-email" class="md-media-overlay-box ui-hidden">
-			<div class="md-media-overlay-submit-email-ok ui-hidden">You have successfully emailed this.</div>
-			<div class="md-media-overlay-submit-email-error">Error when sending the email. Try again later.</div>
-			<input type="button" value="OK" class="md-button md-primary" />
-		</div>
-
-	</div>
-
-	<div class="md-vertical-media-strip ui-hidden"></div>
-
-	<div id="md-media-overlay-ad">
-	        <iframe id="media-overlay-ad-iframe" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="160" height="600"></iframe>
-	    </div>
-	</div>
-<div id="md-edit-mode" class="ui-hidden">
-
-    <div class="md-modal-header">
-        <div class="md-modal-title md-heading-3">Edit Mode</div>
-    </div>
-
-    <div class="md-modal-body">
-        <div class="content-page">
-
-            <div class="grid">
-                <div class="grid-xs">
-                    <div class="edit-title md-heading-1">Antinuclear movement</div>
-                    <div class="topic-identifier subhead">Social movement</div>
-                    </div>
-                <div class="grid-xs-shrink">
-                    <button class="md-edit-tips md-button md-link" type="button"><em class="material-icons" data-icon="info_outline"></em> Tips for Editing</button>
-                    <button class="md-close-modal md-button md-link" type="button">Leave Edit Mode</button>
-                    <button class="md-button md-primary" type="submit" disabled>Submit</button>
-                </div>
-            </div>
-
-            <div class="grid gutter-right">
-                <div class="grid-xs">
-                    <div class="md-edit-mode-editable md-article-content" placeholder="Loading article content..."></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div id="md-edit-tips" class="md-edit-mode-modal ui-hidden">
-
-    <div class="md-modal-header">
-        <div class="md-modal-title md-heading-3">Tips For Editing</div>
-    </div>
-
-    <div class="md-modal-body">
-        <p>
-            We welcome suggested improvements to any of our articles. You can make it easier for us to review and, hopefully, publish your contribution by keeping a few points in mind.
-        </p>
-        <p>
-            <ol>
-                <li>Encyclop&aelig;dia Britannica articles are written in a neutral objective tone for a general audience.</li>
-                <li>You may find it helpful to search within the site to see how similar or related subjects are covered.</li>
-                <li>Any text you add should be original, not copied from other sources.</li>
-                <li>At the bottom of the article, feel free to list any sources that support your changes, so that we can fully understand their context. (Internet URLs are the best.)</li>
-            </ol>
-        </p>
-        <p>
-            Your contribution may be further edited by our staff, and its publication is subject to our final approval. Unfortunately, our editorial approach may not be able to accommodate all contributions.
-        </p>
-    </div>
-</div><div id="md-edit-leave" class="md-edit-mode-modal ui-hidden">
-
-    <div class="md-modal-header">
-        <div class="md-modal-title md-heading-3"></div>
-    </div>
-
-    <div class="md-modal-body text-center">
-        <div class="md-modal-message"></div>
-        <div class="text-center">
-            <button class="md-leave md-button md-link"></button>
-            <button class="md-submit md-button md-primary">Submit</button>
-        </div>
-    </div>
-</div><div id="md-edit-confirmation" class="md-edit-mode-modal ui-hidden">
-
-    <div class="md-modal-header">
-        <div class="md-modal-title md-heading-3">Thank You for Your Contribution!</div>
-    </div>
-
-    <div class="md-modal-body">
-        <p>Our editors will review what you've submitted, and if it meets our criteria, we'll add it to the article.</p>
-        <p>Please note that our editors may make some formatting changes or correct spelling or grammatical errors, and may also contact you if any clarifications are needed.</p>
-        <div class="text-center">
-            <button class="md-button md-primary"></button>
-        </div>
-    </div>
-
-</div><div id="md-edit-error" class="md-edit-mode-modal ui-hidden">
-
-    <div class="md-modal-header">
-        <div class="md-modal-title md-heading-3">Uh Oh</div>
-    </div>
-
-    <div class="md-modal-body text-center">
-        <p>There was a problem with your submission. Please try again later.</p>
-        <button class="md-button md-primary">Close</button>
-    </div>
-</div></main>
-
-
-<footer id="md-footer" class="footer-wrapper hide-on-edit">
-
-    <div class="footer-bck">
-        <div class="md-social-toolbar-circle center-xs colored"
-     data-value="connect"
-     
->
-    <div class="share-label hidden-xs">Stay Connected</div>
-    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
-    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
-    <a class="ui-icon-youtube-play center-xs middle-xs" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank"><span>YouTube</span></a>
-    <a class="ui-icon-instagram center-xs middle-xs" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank"><span>Instagram</span></a>
-    <a class="ui-icon-pinterest center-xs middle-xs" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank"><span>Pinterest</span></a>
-    <a class="ui-icon center-xs middle-xs" href="https://safe.britannica.com/customer/mailinglist/" title="Newsletters" target="_blank">
-            <em class="material-icons" data-icon="drafts"><span>Newsletters</span></em>
+      </div>
+       World War II. With the Soviet Union&#x0027;s development of its own
+      atomic bomb in 1949, American policymakers became increasingly concerned
+      that such a weapon could be aimed at the United States, and pressed for
+      more powerful nuclear weapons. A thousand times more powerful than the
+      bombs dropped on Hiroshima and Nagasaki to end World War II, the hydrogen
+      bomb also showered huge amounts of radioactive elements, called 
+      <i>
+        fallout,
+      </i>
+       into the atmosphere. This debris affected the entire globe, falling with
+      precipitation, and entering the food chain when absorbed by plants and
+      eaten by animals like cows and humans.
+    </p>
+    <p>
+      As concern mounted, citizens formed groups to protest. In 1957 the
+      Committee for a Sane Nuclear Policy (SANE) began pressing for a halt to
+      weapons testing, with the help of prominent Americans like publisher
+      Norman Cousins and child-care expert Dr. Benjamin Spock. Women also played
+      an important role in this early antinuclear activism. Alarmed by
+      prospective dangers to their children, a group called Women Strike for
+      Peace (WSP) organized a nationwide protest against nuclear testing and
+      radiation on November 1, 1961. In New York City, for example, WSP
+      supporters marched outside the United Nations building. Antinuclear
+      activists continued to pressure politicians, resulting in the 1962
+      ratification of the American-Soviet treaty banning nuclear weapons tests
+      in the atmosphere, space, and underwater.
+    </p>
+    <p>
+      The late 1960s through 1980s saw a shift in the antinuclear movement
+      toward protesting the development of nuclear power as an energy source.
+      Although the government, through the Atomic Energy Commission (AEC),
+       had advocated for peaceful uses of nuclear power since the development of
+      the atomic bomb, little impetus existed for new energy sources. With the
+      energy crisis of the 1970s and increased public awareness of the
+      environmental problems engendered by fossil fuels, the government pressed
+      forward with the development of several nuclear power plants, ostensibly
+      to reduce American dependence on oil and provide cheap sources of
+      electricity.
+    </p>
+    <p>
+      Several citizens&#x0027; groups emerged to confront nuclear power issues,
+      raising concerns about adequate safety plans and the long-term effects of
+      low-level radiation. Chief among these were the Clamshell Alliance and the
+      Abalone Alliance. A coalition of New England activists formed the
+      Clamshell Alliance in 1976. Using civil rights protest methods, it
+      organized the sit-in of thousands at the Seabrook power plant in New
+      Hampshire, beginning in August 1976 and continuing through early 1977. The
+      Abalone Alliance mobilized pacifists and environmental activists in a
+      protest against the Diablo Canyon nuclear power plant in California. More
+      citizens joined these types of organizations after the 1978 release of 
+      <i>
+        The China Syndrome,
+      </i>
+       a film depicting a near-disaster at a nuclear power plant. A real
+      accident, strangely similar to the event presented in the film, occurred
+      the following year at the Three Mile Island nuclear power plant in
+      Pennsylvania and caused the evacuation of thousands of people from their
+      homes out of fear of radioactive contamination. A far more destructive
+      nuclear power plant accident occurred in the Ukraine in 1986 at Chernobyl.
+      In this catastrophe, radioactive waste spewed from a reactor explosion,
+      and over 130,000 people were forced to leave the area. The contamination
+      greatly increased many of their chances of developing cancer.
+    </p>
+    <p>
+      The antinuclear movement succeeded in virtually halting the
+      governments&#x0027; development of nuclear power, and also influenced
+      further nuclear weapons reductions, especially as the Cold War began to
+      wind down by the late 1980s. Government officials, however, continued to
+      search for ways to deal with the problem of the radioactive waste produced
+      by the nuclear power plants. Despite citizen concern in the 1990s over the
+      inherent dangers of transporting nuclear waste, over the summer of 2002,
+      President George W. Bush authorized the development of a site at Yucca
+      Mountain, a hundred miles outside of Las Vegas, to store nuclear waste.
+      Scheduled to open in 2010, the Yucca Mountain site will store, in one
+      place, waste that is currently scattered around the country. Also during
+      the 1990s, increased information about radiation&#x0027;s health hazards
+      led to the Radiation Exposure Compensation Act of 1990, which attempted to
+      compensate some of the cancer victims of 1950s nuclear testing.
+    </p>
+    <p>
+      Renewed concerns about nuclear power plants have also surfaced in the wake
+      of the terrorist attacks in the United States on September 11, 2001. With
+      rumors of possible terrorist attacks on nuclear power stations, access to
+      plans and information has become more limited. The Yucca Mountain Web
+      site, for example, removed the plans for its facility in the hopes of
+      preventing terrorist attacks. 
+    </p>
+  </div>
+  <div class='article_container'>
+    <p>
+      <small>
+        <b>
+          SEE ALSO
+        </b>
+      </small>
+      <a href='../A-Bo/Activism.html'>
+        A
+        <small>
+          CTIVISM
+        </small>
+      </a>
+      ; 
+      <a href='../Ho-Li/Industry.html'>
+        I
+        <small>
+          NDUSTRY
+        </small>
+      </a>
+      ; 
+      <a href='../Pl-Re/Politics.html'>
+        P
+        <small>
+          OLITICS
+        </small>
+      </a>
+      ; 
+      <a href='../Pl-Re/Public-Participation.html'>
+        P
+        <small>
+          UBLIC
+        </small>
+         P
+        <small>
+          ARTICIPATION
+        </small>
+      </a>
+      ; 
+      <a href='../Pl-Re/Radioactive-Fallout.html'>
+        R
+        <small>
+          ADIOACTIVE
+        </small>
+         F
+        <small>
+          ALLOUT
+        </small>
+      </a>
+      ; 
+      <a href='../Pl-Re/Radioactive-Waste.html'>
+        R
+        <small>
+          ADIOACTIVE
+        </small>
+         W
+        <small>
+          ASTE
+        </small>
+      </a>
+      .
+    </p>
+  </div>
+  <div class='article_container'>
+    <h2>
+      Bibliography
+    </h2>
+    <p>
+      <small>
+        Divine, Robert. (1978). 
+        <i>
+          Blowing on the Wind: The Nuclear Test Ban Debate, 1954&#x2013;1960.
+        </i>
+         New York: Oxford University Press.
+      </small>
+    </p>
+    <p>
+      <small>
+        Price, Jerome. (1990). 
+        <i>
+          The Anti-Nuclear Movement.
+        </i>
+         Twayne&#x0027;s Social Movements Series. Revised edition. Boston:
+        Twayne Publishers.
+      </small>
+    </p>
+    <p>
+      <small>
+        Wittner, Lawrence S. (1993). 
+        <i>
+          Resisting the Bomb: A History of the World Nuclear Disarmament
+          Movement, 1954&#x2013;1970.
+        </i>
+         The Struggle against the Bomb Series, Vol. 2. Stanford, CA: Stanford
+        University Press.
+      </small>
+    </p>
+    <br />
+  </div>
+  <div class='article_container'>
+    <h3>
+      <small>
+        Internet Resources
+      </small>
+    </h3>
+    <p>
+      <small>
+        Nuclear Regulatory Commission Web site. Available from 
+        <a href='http://www.nrc.gov' rel='nofollow'>
+          http://www.nrc.gov
         </a>
-    </div><br/>
-            <ul class="md-footer-slim">
-            <li><a href="http://corporate.britannica.com" target="_blank">About Us</a></li>
-            <li><a href="http://corporate.britannica.com/privacy.html" target="_blank" rel="nofollow">About Our Ads</a></li>
-            <li><a href="http://corporate.britannica.com/publishing-partner-program" target="_blank" rel="nofollow">Partner Program</a></li>
-            <li><a href="http://corporate.britannica.com/contact/consumer/" target="_blank" rel="nofollow">Contact Us</a></li>
-            <li><a href="http://corporate.britannica.com/privacy.html" target="_blank" rel="nofollow">Privacy Policy</a></li>
-            <li><a href="http://corporate.britannica.com/termsofuse.html" target="_blank" rel="nofollow">Terms of Use</a></li>
-        </ul>
-        &copy;2017 Encyclop&aelig;dia Britannica, Inc.
-    </div>
-
-</footer><div class="navigation-bar flex middle-xs md-article-toolbar">
-    <div class="grid no-gutter">
-
-        <div class="main-tools visible-xs grid-xs">
-            <div data-layout-xs="row">
-                <div class="md-logo md-nav-item middle-xs">
-                    <a href="/">
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<img src="/resources/images/header/pinned-header-thistle.jpg" alt="go to homepage" />
-</a>
-                </div>
-
-                <div class="md-nav-item menu" data-popover=".menu-popover">
-                    <em class="material-icons" data-icon="menu"></em>
-                    <div class="title hidden-xs">Menu</div>
-
-                    <div class="menu-popover md-popover text-left" data-clear="true">
-                        <div class="popover-body">
-                            <ul>
-                                <li><a href="/">Home</a></li>
-                                <li><a class="itn" href="/in-the-news">In the News</a></li>
-                                <li><a class="spt" href="/spotlight">Spotlight</a></li>
-                                <li><a class="dem" href="/demystified">Demystified</a></li>
-                                <li><a href="/quiz/browse">Quizzes</a></li>
-                                <li><a href="/gallery/browse">Galleries</a></li>
-                                <li><a href="/list/browse">Lists</a></li>
-                                <li><a href="/on-this-day">On This Day</a></li>
-                                <li><hr></li>
-                                <li><strong><a href="#" class="login-link">Login</a></strong></li>
-                                        <li><strong><a href="#" class="signup-link">Join</a></strong></li>
-                                    </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="topic-title-container grid-xs hidden-xs middle-xs">
-            <div class="topic-title-wrapper">
-	            <div class="topic-title">Antinuclear movement</div>
-		<div class="md-alternative-titles">social movement</div></div>
-        </div>
-
-        <div class="additional-tools grid-xs-shrink center-xs middle-xs">
-
-
-            <a class="md-nav-item print hidden-xs" rel="nofollow" href="/print/article/1995298" target="_blank"><em class="material-icons" data-icon="print"></em><div>Print</div></a>
-		        <div class="md-nav-item cite hidden-xs" data-popover=".citation-popover">
-                 <em class="material-icons" data-icon="bookmark"></em>
-                <div class="hidden-xs">Cite</div>
-                <div class="citation-popover md-popover text-left">
-	<div class="popover-body">
-	    <div class="title">Cite</div>
-		<ul>
-	        <li>
-			    <strong>Contributor:</strong>
-			    <a href="/contributor/Susan-L-Rothwell/9565419">Susan L. Rothwell</a></li>
-			<li>
-				<strong>Article Title:</strong>
-				antinuclear movement</li>
-			<li>
-				<strong>Website Name:</strong>
-				Encyclop&aelig;dia Britannica
-			</li>
-			<li>
-				<strong>Publisher:</strong>
-				Encyclop&aelig;dia Britannica, inc.
-			</li>
-			<li>
-				<strong>Date Published:</strong>
-				November 05, 2014</li>
-			<li>
-				<strong>URL:</strong>
-				https://www.britannica.com/topic/anti-nuclear-movement</li>
-			<li>
-				<strong>Access Date:</strong>
-				April 20, 2017</li>
-	    </ul>
-	</div>
-</div></div>
-        <div class="md-nav-item share" data-popover=".share-popover">
-                <em class="material-icons" data-icon="share"></em>
-                <div class="hidden-xs">Share</div>
-                <div class="share-popover md-popover text-left">
-   <div class="popover-body">
-	   <div class="title">Share</div>
-
-	   <div class="md-social-toolbar-circle center-xs inverted"
-     data-value="share"
-     
->
-    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
-    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
-    <a class="ui-icon-gplus center-xs middle-xs" data-provider="googleplus" href target="_blank"><span>Google+</span></a>
-    <a class="ui-icon-linkedin center-xs middle-xs" data-provider="linkedin" href target="_blank"><span>LinkedIn</span></a>
-    <a class="ui-icon-mail center-xs middle-xs" data-email target="_blank"><span>Email</span></a>
-    </div></div>
-</div></div>
-        <div class="md-nav-item feedback hidden-xs" data-popover=".feedback-popover">
-                 <em class="material-icons" data-icon="chat"></em>
-                <div class="hidden-xs">Feedback</div>
-                <div class="feedback-popover md-popover text-left">
-	 <div class="popover-body">
-
-         <form method="post" action="/submission/feedback/1995298">
-             <div class="title">Feedback</div>
-			 <label for="feedback">Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article.</label>
-
-	         <div class="type-menu">
-	         <label for="feedback-type">Select feedback type:</label>
-	         <select id="feedback-type" class="md-form-control" name="feedbackTypeId" required>
-		         <option value="" selected="selected">Select a type (Required)</option>
-		         <option value="1">Factual Correction</option>
-		         <option value="2">Spelling/Grammar Correction</option>
-		         <option value="3">Link Correction</option>
-		         <option value="4">Additional Information</option>
-		         <option value="5">Other</option>
-	         </select>
-	         </div>
-
-	         <textarea id="feedback" class="form-control" name="feedback" maxlength="3000" required></textarea>
-			 <p>If you are interested in being contacted for follow-up or potentially receiving contributor credit for implemented edits, please <a href="#" class="signup-link">register</a> or <a href="#" class="login-link">login</a>.</p>
-				 <div class="text-center gutter-bottom">
-				 <button class="md-button md-primary" type="submit">Submit Feedback</button>
-			 </div>
-             <div>If you prefer to suggest your own revision of the article, you can <a href="#" class="md-edit-mode">go to edit mode</a>  (requires login).</div>
-             </form>
-
-         <div class="success-messaging ui-hidden">
-             <div class="title">Thank you for your feedback</div>
-             <p>Our editors will review what you’ve submitted and determine whether to revise the article.</p>
-             <a class="promo" href="http://corporate.britannica.com/publishing-partner-program/" target="_blank">
-                 Join <strong>Britannica's Publishing Partner Program</strong> and our community of experts to gain a global audience for your work!
-             </a>
-         </div>
-
-	 </div>
-	 </div></div><div class="md-nav-item share global-share" data-popover=".share-popover">
-                <em class="material-icons">share</em>
-                <div class="hidden-xs">Share</div>
-                <div class="share-popover md-popover text-left">
-   <div class="popover-body">
-	   <div class="title">Share</div>
-
-	   <div class="md-social-toolbar-circle center-xs inverted"
-     data-value="share"
-     title="Antinuclear movement social movement"
->
-    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
-    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
-    <a class="ui-icon-gplus center-xs middle-xs" data-provider="googleplus" href target="_blank"><span>Google+</span></a>
-    <a class="ui-icon-linkedin center-xs middle-xs" data-provider="linkedin" href target="_blank"><span>LinkedIn</span></a>
-    <a class="ui-icon-mail center-xs middle-xs" data-email target="_blank"><span>Email</span></a>
-    </div></div>
-</div></div>
-
-            <div class="md-nav-item visible-xs modal-search">
-                <em class="material-icons" data-icon="search"></em>
-                <div class="navigation-modal-search ui-hidden text-left">
-                    <div class="search-area grid no-gutter middle-xs">
-                        <div class="grid-xs-shrink">
-                            <em class="search material-icons" data-icon="search"></em>
-                        </div>
-                        <div class="grid-xs">
-                            <label class="sr-only" for="navbar-search-mobile">Search</label>
-                            <input class="form-control" id="navbar-search-mobile" placeholder="Search Britannica...">
-                        </div>
-                        <div class="grid-xs-shrink">
-                            <em class="close material-icons" data-icon="close"></em>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="md-page-progress">
-        <div class="md-page-progress-meter"></div>
-    </div>
-</div>
-<div id="md-email-modal" class="ui-hidden">
-
-    <div class="md-modal-header">
-        <div class="md-modal-title">Email this page</div>
-    </div>
-
-    <div class="md-modal-body">
-
-        <form method="post" id="md-email-form">
-            <div class="grid no-gutter">
-                <div class="grid-sm-offset-16 grid-sm-66">
-                    <div class="form-group">
-                        <label class="sr-only" for="md-email-form-to">Email to</label>
-                        <input id="md-email-form-to" class="form-control" type="email" name="to" placeholder="To *" title="Email of recipient" required>
-                    </div>
-                </div>
-                <div class="grid-sm-offset-16 grid-sm-66">
-                    <div class="form-group">
-                        <label class="sr-only" for="md-email-form-from">Email from</label>
-                        <input id="md-email-form-from" class="form-control" type="email" name="from" placeholder="From *" title="Your email" required>
-                    </div>
-                </div>
-                <div class="grid-sm-offset-16 grid-sm-66">
-                    <div class="form-group">
-                        <label class="sr-only" for="md-email-form-subject">Subject</label>
-                        <input id="md-email-form-subject" class="form-control" type="text" name="subject" placeholder="Subject">
-                    </div>
-                </div>
-                <div class="grid-sm-offset-16 grid-sm-66">
-                    <div class="form-group">
-                        <label class="sr-only" for="md-email-form-comments">Comments</label>
-                        <textarea id="md-email-form-comments" class="form-control" maxlength="900" name="comments" placeholder="Write your email"></textarea>
-                    </div>
-                </div>
-            </div>
-
-            <input id="md-email-form-url" type="hidden" name="url">
-            <input id="md-email-form-title" type="hidden" name="title">
-
-            <div class="text-center">
-                <div class="close md-button md-link">Cancel</div>
-                <button class="md-button md-primary" type="submit">Send</button>
-            </div>
-        </form>
-
-    </div>
-
-</div>
-<div id="loginbox-dialog" class="ui-hidden">
-	<div class="mobile-loginbox-dialog-close">×</div>
-    <div id="loginbox-dialog-iframe-container"></div>
-</div><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<script type="text/javascript">window.jQuery || document.write('<script src="/resources/js/libs/jquery-2.2.4.min.js"><\/script>');</script>
-<script type="text/javascript" data-type="PFL">
-!function e(n,t,i){function o(a,s){if(!t[a]){if(!n[a]){var c="function"==typeof require&&require;if(!s&&c)return c(a,!0);if(r)return r(a,!0);var l=new Error("Cannot find module '"+a+"'");throw l.code="MODULE_NOT_FOUND",l}var d=t[a]={exports:{}};n[a][0].call(d.exports,function(e){var t=n[a][1][e];return o(t?t:e)},d,d.exports,e,n,t,i)}return t[a].exports}for(var r="function"==typeof require&&require,a=0;a<i.length;a++)o(i[a]);return o}({1:[function(e,n,t){e(23);var i=e(7);i.run()},{23:23,7:7}],2:[function(e,n,t){var i=e(3);n.exports=i},{3:3}],3:[function(e,n,t){n.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,n,t){function i(){if(s.isExpiredNow(localStorage.adonisClientManifestExpiry))return null;var e=null;try{e=JSON.parse(localStorage.adonisClientManifest)}catch(n){}return e}function o(e,n){localStorage.adonisClientManifest=JSON.stringify(e),localStorage.adonisClientManifestExpiry=(new Date).getTime()/1e3+n}function r(e,n){var t=new XMLHttpRequest;t.open("GET",a.MANIFEST_URL+"?v="+e,!0),t.onload=function(){var e={},i=!1;if(200===t.status)try{e=JSON.parse(t.responseText)}catch(o){e={}}else i=!0;n(e,i)},t.onerror=function(){n({},!0)};try{t.send(null)}catch(i){n({},!0)}}var a=e(2),s=e(6);n.exports={cacheAdonisManifest:o,getCachedAdonisManifest:i,fetchAdonisManifest:r}},{2:2,6:6}],5:[function(e,n,t){function i(e){var n=new XMLHttpRequest,t=[l.REPORTING_URL,e].join("");n.open("GET",t,!0),n.send()}function o(e){i("/adonis_error?e="+e.toString())}function r(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<l.REPORTING_RATE}function a(e,n){if(s(e),r()){var t={website:window.location.hostname,key:e};null!=n&&(t.quantity=n),i(["/adonis_event/?event=",JSON.stringify(t)].join(""))}}function s(e){var n={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};u.push(n)}function c(){d.defineReadOnlyProperty("adonisBootstrapTiming",u)}var l=e(2),d=e(6),u=[];n.exports={reportError:o,reportEvent:a,saveTiming:c,shouldReport:r}},{2:2,6:6}],6:[function(e,n,t){function i(e,n){Object.defineProperty(window,e,{value:n,writable:!1})}function o(e,n){return!n||Number(n)<=e}function r(e){var n=(new Date).getTime()/1e3;return o(n,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),n=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==n){var t=n[1],i=n[2],o=parseInt(i.split(".")[0]);if("chrome"===t&&o>=41||"firefox"===t&&o>=37)return!0}return!1},s=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};n.exports={isSupportedBrowser:a,defineReadOnlyProperty:i,ready:s,isExpired:o,isExpiredNow:r}},{}],7:[function(e,n,t){function i(e,n){return{host:"assets",path:e,headers:n}}function o(e,n,t){d.reportEvent("bootstrap.runclientscript"),d.saveTiming(),u.defineReadOnlyProperty("adonisConn",n),u.defineReadOnlyProperty("adonisConfig",l);var i=new Blob([e],{type:"text/javascript"}),o=URL.createObjectURL(i),a=p.getCachedAdonisManifest();return a&&a.hasOwnProperty(t)?void r(o,a[t],!1):void p.fetchAdonisManifest(t,function(e,n){p.cacheAdonisManifest(e,f),r(o,e[t],n)})}function r(e,n,t){if(t||n){var i=document.createElement("script");i.src=e,n&&(i.integrity=n),document.head.appendChild(i)}}function a(){}function s(){if(d.reportEvent("bootstrap.pageview"),u.isSupportedBrowser()){if(d.reportEvent("bootstrap.supported"),u.ready(function(){var e=document.querySelectorAll("["+h+"]");d.reportEvent("bootstrap.admarker",e.length)}),l.DEVELOPER_MODE){console.log("Developer mode is enabled. Fetching adonis client from:",l.ADONIS_CLIENT_FETCH_URL),localStorage.adonisClientVersion="6.0.0";var e=document.createElement("script");return e.src=l.ADONIS_CLIENT_FETCH_URL,void document.head.appendChild(e)}var n="undefined"!=typeof Storage;if(n){d.reportEvent("bootstrap.enabled");var t=localStorage.adonisCacheExpiry,r=localStorage.adonisCacheSrc,a=localStorage.adonisClientVersion,s=(new Date).getTime()/1e3;if(!u.isExpired(s,t)&&a&&r)d.reportEvent("bootstrap.cached"),o(r,null,localStorage.adonisClientVersion);else{d.reportEvent("bootstrap.expired");var p=new c(l.SERVER_CANDIDATE,l.REAL_STUN_HOST,l.TURNSIGNAL_HOST,l.STUNGUN_HOST,g);l.PANAMA_CLIENT&&l.PANAMA_CLIENT.SKIP_IP_LEAK_CHECK&&(p.skipIpLeakCheck=l.PANAMA_CLIENT.SKIP_IP_LEAK_CHECK),l.PANAMA_CLIENT&&l.PANAMA_CLIENT.CANDIDATE_WHITELISTED_IP&&(p.candidateWhitelistedIp=l.PANAMA_CLIENT.CANDIDATE_WHITELISTED_IP),p.setLogLevel(l.LOG_LEVEL),p.on("open",function(){d.reportEvent("bootstrap.panama_opened");var e=i("client",{adonis_client_api:"6.0.0"});p.request(e,function(e,n,t){if(d.reportEvent("bootstrap.client_fetched."+t),n){if(n["cache-control"]){var i=Number(n["cache-control"].split("=")[1]),a=s+i;localStorage.adonisCacheExpiry=a}n["adonis-client-version"]&&(localStorage.adonisClientVersion=n["adonis-client-version"])}304===t?o(r,p,localStorage.adonisClientVersion):200===t?(localStorage.adonisCacheSrc=e,o(e,p,localStorage.adonisClientVersion)):g(e)})}),d.reportEvent("bootstrap.panama_opening"),p.open()}}}}var c=e(8),l=e(2),d=e(5),u=e(6),p=e(4),f=l.MANIFEST_EXPIRATION_TIME||0;l.LOG_LEVEL=window.adonisHash.indexOf("adonis-logging")!==-1?"debug":l.LOG_LEVEL;var h=l.AD_MARKER||"adonis-marker";window.adonisConn=void 0,window.adonisConfig=l,window.adonisBootstrapTiming=void 0;var g=l.REPORT_ERRORS?d.reportError:a;n.exports={runClientScript:o,insertScriptTag:r,run:s}},{2:2,4:4,5:5,6:6,8:8}],8:[function(e,n,t){function i(e,n,t,i,o){this.realStunHost=n,this.turnSignalHost=t,this.stunGunHost=i,this.serverCandidate=e,this.nodePeerPort=null,this.nodePeerIp=null,this.localCandidates=[],this.sentDataToTurn=!1,this.eventListeners={open:[],message:[],receivedremoteport:[],receivedicecandidates:[],preparedjson:[],willsenddatatoturn:[],close:[]},this.ips={},this.requests={},this.isOpen=!1,o&&(this.handleError=o),this.timingEvents=[],this.skipIpLeakCheck=!1,this.candidateWhitelistedIp=null}function o(){var e=this,n={iceServers:[{url:"stun:"+this.stunGunHost,urls:["stun:"+this.stunGunHost],username:"test",credential:"test"}]};m.info("Connecting to stungun server : "+this.stunGunHost);var t=this.stunGunPeerConnection=new C(n);t.createDataChannel(""),t.createOffer(function(n){t.setLocalDescription(n,function(){e.addTimingEvent("requestingServerIp",performance.now()-e.estConnectionStart)},function(){})},function(){}),t.onicecandidate=function(n){if(null!==n.candidate){var i=n.candidate.candidate;if(m.debug("onicecandidate: "+i),e.skipIpLeakCheck||e.checkCandidateIpLeak(i),g.isServerReflexive(i)&&!g.isIPv6(i)){t.close();var o=g.matchNodePeerIpAndPort(i);if(null!==o){e.addTimingEvent("serverIpReceived",performance.now()-e.estConnectionStart),e.nodePeerIp=o[1],e.nodePeerPort=o[2],m.info("ip and port to connect on: "+e.nodePeerIp+":"+e.nodePeerPort);var r=e.serverCandidate.replace(/SERVER_PORT/g,e.nodePeerPort);r=r.replace(/SERVER_IP/g,e.nodePeerIp),m.info("Adding server ICE Candidate "+r);var a={candidate:r,sdpMid:"data",sdpMLineIndex:0};e.peerConnection.addIceCandidate(new y(a),h,e.handleError),e.triggerEvent("receivedremoteport"),e.remoteCandidateReceived=!0,d.call(e)}}}}}function r(){var e=this.peerConnection=new C({iceServers:[{url:"stun:"+this.realStunHost,urls:["stun:"+this.realStunHost]}]}),n=this;this.peerConnection.onicecandidate=function(e){if(null!==e.candidate){var t=e.candidate.candidate;m.info("RECEVIED LOCAL CANDIDATE "+t),n.skipIpLeakCheck||n.checkCandidateIpLeak(t);var i=g.isServerReflexive(t);n.candidateWhitelistedIp&&(i=t.indexOf(n.candidateWhitelistedIp)&&!g.isServerReflexive(t)),i&&!g.isIPv6(t)&&(n.addTimingEvent("iceCandidate",performance.now()-n.estConnectionStart),n.localCandidates.push(t),n.localCandidateReceived=!0,d.call(n))}},this.peerConnection.ondatachannel=function(e){n.dataChannel=e.channel,n.turnSignalPeerConnection.close(),m.info("ondatachannel",n.dataChannel.label,n.dataChannel.readyState),n.dataChannel.binaryType="arraybuffer",n.dataChannel.onopen=function(){n.isOpen=!0,m.info("onopen");var e=performance.now(),t=e-n.estConnectionStart;n.addTimingEvent("dataChannelOpen",t);var i={host:"test"};n.request(i,function(){var t=performance.now()-e;n.addTimingEvent("msgRoundTrip",t),clearTimeout(n.connectionTimeout),setTimeout(function(){n.close()},T)}),m.info("TIMING:total "+t),m.info("onopen"),n.triggerEvent("open"),n.messageSendStartTime=performance.now()},n.dataChannel.onmessage=function(e){var t=e.data;m.info("Received response chunk",t),n.triggerEvent("message",t);try{var i=v.handleChunk(t)}catch(o){return void m.error("Failed to process chunked response: ",o)}i&&(m.info("Received complete response. Handling it"),a.call(n,i.id,i.http))},n.dataChannel.onclose=function(){m.info("onClose"),n.triggerEvent("close")},n.dataChannel.onerror=n.handleError},this.peerConnection.onsignalingstatechange=function(){m.info("signaling state change: ",e.iceConnectionState)},this.peerConnection.oniceconnectionstatechange=function(){var t=performance.now();m.info("ice connection state change: ",e.iceConnectionState,"after ",t-n.estConnectionStart,"millis")},this.peerConnection.onicegatheringstatechange=function(){m.info("ice gathering state change: ",e.iceConnectionState)},s.call(this)}function a(e,n){var t=n.headers;t&&t["set-cookie"]&&(document.cookie=t["set-cookie"]);var i=this.requests[e];i(n.body,n.headers,n.status),delete this.requests[e]}function s(){var e={type:"offer",sdp:"v=0\r\no=- 7745999191240241858 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=msid-semantic: WMS\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:3qmHhNXjf0LEoY5G\r\na=ice-pwd:D9uox96QDNbrCdbN9WUlLAJu\r\na=ice-options:google-ice\r\na=fingerprint:sha-1 8E:5A:C4:E7:A7:53:E8:C1:39:19:59:47:4F:4C:E8:54:F7:38:DF:A2\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"};m.info("SETTING HARD CODED offer data : "+e.sdp);var n=new S(e);this.peerConnection.setRemoteDescription(n,c.bind(this),this.handleError),c.bind(this)}function c(){this.peerConnection.createAnswer(l.bind(this),this.handleError),this.iceCandidateStartTime=performance.now()}function l(e){this.answer=e,this.peerConnection.setLocalDescription(new S(e),u.bind(this),this.handleError),this.localDescriptionSet=!0,d.call(this)}function d(){!this.sentDataToTurn&&this.remoteCandidateReceived&&this.localCandidateReceived&&this.localDescriptionSet&&(m.debug("sending data to TURN"),p.call(this),this.sentDataToTurn=!0)}function u(){m.info("Sending answer"),this.addTimingEvent("setLocalDesc",performance.now()-this.estConnectionStart)}function p(){this.triggerEvent("receivedicecandidates");var e=performance.now();m.info("TIMING:ice_candidates "+(e-this.iceCandidateStartTime));var n=/a=ice-ufrag:[ -z]*/,t=/a=ice-pwd:[ -z]*/,i=/a=fingerprint:[A-z0-9\-]* [0-F:]*/,o=/o=-?\S* [0-9]+ [0-9] IN IP4 [0-9\.]+/,r=performance.now();m.info("Before matching regexes"+(r-this.estConnectionStart)),m.info(this.answer.sdp);var a=this.answer.sdp.match(n),s=this.answer.sdp.match(t),c=this.answer.sdp.match(i),l=this.answer.sdp.match(o);m.info("UFRAG:"+a),m.info("PWD:"+s),m.info("FINGERPRINT:"+c),m.info("O=:"+l);var d=[this.localCandidates];d.push(a[0]),d.push(s[0]),d.push(c[0]),d.push(l[0]);var u=new Uint8Array(8);window.crypto.getRandomValues(u);var p=String.fromCharCode.apply(null,u);d.push(p),d.push(this.nodePeerIp),d.push(this.nodePeerPort),this.triggerEvent("preparedjson",d);var h=performance.now();m.info("After matching regexes"+(h-this.estConnectionStart));var g=performance.now();m.info("Before jsonifying candidates"+(g-this.estConnectionStart));var v=JSON.stringify(d),w=performance.now();m.info("After jsonifying candidates"+(w-this.estConnectionStart)),f.call(this,v)}function f(e){this.triggerEvent("willsenddatatoturn",e);var n=performance.now()-this.estConnectionStart;this.addTimingEvent("turnPrep",n),m.debug("Sending data to turn @ "+this.turnSignalHost+" after "+n+" millis");var t={iceServers:[{url:"turn:"+this.turnSignalHost,urls:["turn:"+this.turnSignalHost],username:e,credential:"x"}]};this.turnSignalPeerConnection=new C(t),this.turnSignalPeerConnection.createDataChannel("");var i=this;this.turnSignalPeerConnection.createOffer(function(e){var n=performance.now(),t=n-i.estConnectionStart;i.addTimingEvent("turnSend",t),m.info("Fake offer generated which should trigger TURN request after "+(n-i.estConnectionStart)+" millis"),i.turnSignalPeerConnection.setLocalDescription(e,function(){},function(){})},function(){})}function h(){m.info("Successfully added ICE candidate")}const g=e(21),v=e(22),w=e(17);w.enable();const m=w("panama-client");var C=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection,S=window.RTCSessionDescription||window.mozRTCSessionDescription||window.webkitRTCSessionDescription,y=window.RTCIceCandidate||window.mozRTCIceCandidate||window.webkitRTCIceCandidate,E=15e3,T=3e5;i.prototype.handleError=function(){},i.prototype.getTimingEvents=function(){return this.timingEvents},i.prototype.addTimingEvent=function(e,n){var t={name:"t_"+e,timing:n};this.timingEvents.push(t)},i.prototype.open=function(){var e=this;this.connectionTimeout=setTimeout(function(){e.close()},E),this.estConnectionStart=performance.now(),setTimeout(function(){m.debug("v8Lag is : "+(performance.now()-e.estConnectionStart)),e.addTimingEvent("v8Lag",performance.now()-e.estConnectionStart)},1),o.call(this),r.call(this)},i.prototype.send=function(e){m.info("sending message",e),this.dataChannel.send(e)},i.prototype.request=function(e,n){var t=v.buildRequest(e),i=v.buildTerminator(t.id);this.requests[t.id]=n,this.send(JSON.stringify(t)),this.send(JSON.stringify(i))},i.prototype.close=function(){this.dataChannel&&(this.dataChannel.close(),this.dataChannel=null),this.peerConnection&&"closed"!==this.peerConnection.signalingState&&(console.log("Closed PC"),this.peerConnection.close()),this.stunGunPeerConnection&&"closed"!==this.stunGunPeerConnection.signalingState&&(console.log("Closed Stungun PC"),this.stunGunPeerConnection.close()),this.turnSignalPeerConnection&&"closed"!==this.turnSignalPeerConnection.signalingState&&(console.log("Closed Turnsignal PC"),this.turnSignalPeerConnection.close())},i.prototype.on=function(e,n){e in this.eventListeners&&this.eventListeners[e].push(n)},i.prototype.triggerEvent=function(e){if(e in this.eventListeners){var n=Array.prototype.slice.call(arguments,1);this.eventListeners[e].forEach(function(e){e.apply(this,n)})}},i.prototype.setLogLevel=function(e){w.suggest.clear().deny("panama-client",e)},i.prototype.checkCandidateIpLeak=function(e){if(!g.isIPv6(e)&&e.indexOf("typ host")!==-1){var n=g.extractCandidateIp(e);n&&(this.ips[n]=!0,Object.keys(this.ips).length>=2&&(m.info("Multiple private IPs detected. Closing the connection."),this.close()))}},window.PanamaClient=i,n.exports=i},{17:17,21:21,22:22}],9:[function(e,n,t){function i(){this.enabled=!0,this.defaultResult=!0,this.clear()}function o(e,n){return e.n.test?e.n.test(n):e.n==n}var r=e(11),a={debug:1,info:2,warn:3,error:4};r.mixin(i),i.prototype.allow=function(e,n){return this._white.push({n:e,l:a[n]}),this},i.prototype.deny=function(e,n){return this._black.push({n:e,l:a[n]}),this},i.prototype.clear=function(){return this._white=[],this._black=[],this},i.prototype.test=function(e,n){var t,i=Math.max(this._white.length,this._black.length);for(t=0;t<i;t++){if(this._white[t]&&o(this._white[t],e)&&a[n]>=this._white[t].l)return!0;if(this._black[t]&&o(this._black[t],e)&&a[n]<this._black[t].l)return!1}return this.defaultResult},i.prototype.write=function(e,n,t){if(!this.enabled||this.test(e,n))return this.emit("item",e,n,t)},n.exports=i},{11:11}],10:[function(e,n,t){var i=e(11),o=e(9),r=new i,a=Array.prototype.slice;t=n.exports=function(e){var n=function(){return r.write(e,void 0,a.call(arguments)),n};return n.debug=function(){return r.write(e,"debug",a.call(arguments)),n},n.info=function(){return r.write(e,"info",a.call(arguments)),n},n.warn=function(){return r.write(e,"warn",a.call(arguments)),n},n.error=function(){return r.write(e,"error",a.call(arguments)),n},n.log=n.debug,n.suggest=t.suggest,n.format=r.format,n},t.defaultBackend=t.defaultFormatter=null,t.pipe=function(e){return r.pipe(e)},t.end=t.unpipe=t.disable=function(e){return r.unpipe(e)},t.Transform=i,t.Filter=o,t.suggest=new o,t.enable=function(){return t.defaultFormatter?r.pipe(t.suggest).pipe(t.defaultFormatter).pipe(t.defaultBackend):r.pipe(t.suggest).pipe(t.defaultBackend)}},{11:11,9:9}],11:[function(e,n,t){function i(){}var o=e(20);o.mixin(i),i.prototype.write=function(e,n,t){this.emit("item",e,n,t)},i.prototype.end=function(){this.emit("end"),this.removeAllListeners()},i.prototype.pipe=function(e){function n(){e.write.apply(e,Array.prototype.slice.call(arguments))}function t(){!e._isStdio&&e.end()}var i=this;return i.emit("unpipe",e),e.emit("pipe",i),i.on("item",n),i.on("end",t),i.when("unpipe",function(o){var r=o===e||"undefined"==typeof o;return r&&(i.removeListener("item",n),i.removeListener("end",t),e.emit("unpipe")),r}),e},i.prototype.unpipe=function(e){return this.emit("unpipe",e),this},i.prototype.format=function(e){throw new Error(["Warning: .format() is deprecated in Minilog v2! Use .pipe() instead. For example:","var Minilog = require('minilog');","Minilog","  .pipe(Minilog.backends.console.formatClean)","  .pipe(Minilog.backends.console);"].join("\n"))},i.mixin=function(e){var n,t=i.prototype;for(n in t)t.hasOwnProperty(n)&&(e.prototype[n]=t[n])},n.exports=i},{20:20}],12:[function(e,n,t){var i=e(11),o=[],r=new i;r.write=function(e,n,t){o.push([e,n,t])},r.get=function(){return o},r.empty=function(){o=[]},n.exports=r},{11:11}],13:[function(e,n,t){var i=e(11),o=/\n+$/,r=new i;r.write=function(e,n,t){var i=t.length-1;if("undefined"!=typeof console&&console.log){if(console.log.apply)return console.log.apply(console,[e,n].concat(t));if(JSON&&JSON.stringify){t[i]&&"string"==typeof t[i]&&(t[i]=t[i].replace(o,""));try{for(i=0;i<t.length;i++)t[i]=JSON.stringify(t[i])}catch(r){}console.log(t.join(" "))}}},r.formatters=["color","minilog"],r.color=e(14),r.minilog=e(15),n.exports=r},{11:11,14:14,15:15}],14:[function(e,n,t){var i=e(11),o=e(16),r={debug:["cyan"],info:["purple"],warn:["yellow",!0],error:["red",!0]},a=new i;a.write=function(e,n,t){var i=console.log;console[n]&&console[n].apply&&(i=console[n],i.apply(console,["%c"+e+" %c"+n,o("gray"),o.apply(o,r[n])].concat(t)))},a.pipe=function(){},n.exports=a},{11:11,16:16}],15:[function(e,n,t){var i=e(11),o=e(16),r={debug:["gray"],info:["purple"],warn:["yellow",!0],error:["red",!0]},a=new i;a.write=function(e,n,t){var i=console.log;"debug"!=n&&console[n]&&(i=console[n]);var a=0;if("info"!=n){for(;a<t.length&&"string"==typeof t[a];a++);i.apply(console,["%c"+e+" "+t.slice(0,a).join(" "),o.apply(o,r[n])].concat(t.slice(a)))}else i.apply(console,["%c"+e,o.apply(o,r[n])].concat(t))},a.pipe=function(){},n.exports=a},{11:11,16:16}],16:[function(e,n,t){function i(e,n){return n?"color: #fff; background: "+o[e]+";":"color: "+o[e]+";"}var o={black:"#000",red:"#c23621",green:"#25bc26",yellow:"#bbbb00",blue:"#492ee1",magenta:"#d338d3",cyan:"#33bbc8",gray:"#808080",purple:"#708"};n.exports=i},{}],17:[function(e,n,t){var i=e(10),o=i.enable,r=i.disable,a="undefined"!=typeof navigator&&/chrome/i.test(navigator.userAgent),s=e(13);if(i.defaultBackend=a?s.minilog:s,"undefined"!=typeof window){try{i.enable(JSON.parse(window.localStorage.minilogSettings))}catch(c){}if(window.location&&window.location.search){var l=RegExp("[?&]minilog=([^&]*)").exec(window.location.search);l&&i.enable(decodeURIComponent(l[1]))}}i.enable=function(){o.call(i,!0);try{window.localStorage.minilogSettings=JSON.stringify(!0)}catch(e){}return this},i.disable=function(){r.call(i);try{delete window.localStorage.minilogSettings}catch(e){}return this},t=n.exports=i,t.backends={array:e(12),browser:i.defaultBackend,localStorage:e(19),jQuery:e(18)}},{10:10,12:12,13:13,18:18,19:19}],18:[function(e,n,t){function i(e){this.url=e.url||"",this.cache=[],this.timer=null,this.interval=e.interval||3e4,this.enabled=!0,this.jQuery=window.jQuery,this.extras={}}var o=e(11),r=(new Date).valueOf().toString(36);o.mixin(i),i.prototype.write=function(e,n,t){this.timer||this.init(),this.cache.push([e,n].concat(t))},i.prototype.init=function(){if(this.enabled&&this.jQuery){var e=this;this.timer=setTimeout(function(){var n,t,i=[],o=e.url;if(0==e.cache.length)return e.init();for(n=0;n<e.cache.length;n++)try{JSON.stringify(e.cache[n]),i.push(e.cache[n])}catch(a){}e.jQuery.isEmptyObject(e.extras)?(t=JSON.stringify({logs:i}),o=e.url+"?client_id="+r):t=JSON.stringify(e.jQuery.extend({logs:i},e.extras)),e.jQuery.ajax(o,{type:"POST",cache:!1,processData:!1,data:t,contentType:"application/json",timeout:1e4}).success(function(n,t,i){n.interval&&(e.interval=Math.max(1e3,n.interval))}).error(function(){e.interval=3e4}).always(function(){e.init()}),e.cache=[]},this.interval)}},i.prototype.end=function(){},i.jQueryWait=function(e){return"undefined"!=typeof window&&(window.jQuery||window.$)?e(window.jQuery||window.$):void("undefined"!=typeof window&&setTimeout(function(){i.jQueryWait(e)},200))},n.exports=i},{11:11}],19:[function(e,n,t){var i=e(11),o=!1,r=new i;r.write=function(e,n,t){if("undefined"!=typeof window&&"undefined"!=typeof JSON&&JSON.stringify&&JSON.parse)try{o||(o=window.localStorage.minilog?JSON.parse(window.localStorage.minilog):[]),o.push([(new Date).toString(),e,n,t]),window.localStorage.minilog=JSON.stringify(o)}catch(i){}},n.exports=r},{11:11}],20:[function(e,n,t){function i(){this._events={}}i.prototype={on:function(e,n){this._events||(this._events={});var t=this._events;return(t[e]||(t[e]=[])).push(n),this},removeListener:function(e,n){var t,i=this._events[e]||[];for(t=i.length-1;t>=0&&i[t];t--)i[t]!==n&&i[t].cb!==n||i.splice(t,1)},removeAllListeners:function(e){e?this._events[e]&&(this._events[e]=[]):this._events={}},emit:function(e){this._events||(this._events={});var n,t=Array.prototype.slice.call(arguments,1),i=this._events[e]||[];for(n=i.length-1;n>=0&&i[n];n--)i[n].apply(this,t);return this},when:function(e,n){return this.once(e,n,!0)},once:function(e,n,t){function i(){t||this.removeListener(e,i),n.apply(this,arguments)&&t&&this.removeListener(e,i)}return n?(i.cb=n,this.on(e,i),this):this}},i.mixin=function(e){var n,t=i.prototype;for(n in t)t.hasOwnProperty(n)&&(e.prototype[n]=t[n])},n.exports=i},{}],21:[function(e,n,t){n.exports.getPortNoFromCandidate=function(e){var n=/([0-9]+) ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]+)/.exec(e)||[];return n[3]||null},n.exports.isServerReflexive=function(e){return e.indexOf("srflx")!==-1},n.exports.isIPv6=function(e){return/([0-9a-fA-F]){1,4}(:([0-9a-fA-F]){1,4}){7}/.test(e)},n.exports.extractCandidateIp=function(e){var n=/[0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) [0-9]+/.exec(e);return n&&n.length>1?n[1]:null},n.exports.matchNodePeerIpAndPort=function(e){return e.match(/candidate:[0-9]+ [0-9]+ udp [0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]*)/i)}},{}],22:[function(e,n,t){function i(){return Math.floor(99999*Math.random()+1)}function o(e){var n=i().toString(),t={id:n,version:l,http:e};return t}function r(e){var n={id:e,version:l,http:"TERMINATOR"};return n}function a(e){var n=null;try{n=JSON.parse(d+e)}catch(t){d+=e}return n&&(d=""),n}function s(e){if(!e.http||!e.id)throw new Error("Fields `id` and `http` are mandatory.");var n=e.id;if("TERMINATOR"===e.http){if(!u[n])return null;var t=u[n];return u[n]=null,t}return u[n]?u[n].http.body+=e.http.body:u[n]=e,null}function c(e){var n=a(e);if(!n)return null;var t=s(n);return t}var l="1.0",d="",u={};n.exports={buildRequest:o,buildTerminator:r,handleChunk:c,accumulateJSON:a,accumulateResponse:s}},{}],23:[function(e,n,t){function i(e){"performance"in e||(e.performance={});var n=e.performance;e.performance.now=n.now||n.mozNow||n.msNow||n.oNow||n.webkitNow||Date.now||function(){return(new Date).getTime()}}i(self)},{}]},{},[1]);
+        .
+      </small>
+    </p>
+    <p>
+      <small>
+        Yucca Mountain Project Web site. Available from 
+        <a href='http://www.ymp.gov' rel='nofollow'>
+          http://www.ymp.gov
+        </a>
+        .
+      </small>
+    </p>
+    <p>
+      <small>
+        Sierra Club, Nuclear Waste Issues. Available from 
+        <a href='http://www.sierraclub.org/nuclearwaste' rel='nofollow'>
+          http://www.sierraclub.org/nuclearwaste
+        </a>
+        .
+      </small>
+    </p>
+  </div>
+  <div class='article_container'>
+    <p>
+      <i>
+        Elizabeth D. Blum
+      </i>
+    </p>
+  </div>
+  <div class='adwords_in_content'>
+<hr>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5788426211617053";
+/* pollution bottom */
+google_ad_slot = "9910523754";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
 </script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<hr>
 
-		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-<script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-<script src="//content.jwplatform.com/libraries/UAvzrRyR.js"></script>
-<script src="https://cdn.rawgit.com/germanysbestkeptsecret/Wookmark-jQuery/2.1.3/wookmark.js"></script><script type="text/javascript" data-type="Init Mendel">
-				( function() {
-                    $.ajax( { dataType: 'script', cache: true, url: '/resources/dist/mendel.js?v=2.56.15' } )
-                    .done( function() { $( function() { Mendel.Page.init( 'TopicPage' ); } ) } );
-	            })();
-			</script>
-		<script type="text/javascript" data-type="init Quantcast bottom">
-		    _qevents.push( { qacct:"p-fePJXh17dNmkk"} );
-		</script>
-		<noscript>
-			<div style="display: none;">
-		        <img src="//pixel.quantserve.com/pixel/p-fePJXh17dNmkk.gif" height="1" width="1" alt="Quantcast"/>
-			</div>
-		</noscript>
-	<script>
-        dataLayer = [];
-    </script>
+  </div>
 
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5W6NC8');</script>
-<script type="text/javascript" data-type="load analytics">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	</div>
 
-        var documentLocation = document.querySelector('html').getAttribute('data-ytrk-page').replace(/ /g, '/');
+	<div id="Comments_section">
+		<h2>User Contributions:</h2>
+		<div class="Comments_commentsbox" style=""></div>		<h4 style='margin-top:0px;'>Comment about this article, ask questions, or add new information about this topic:</h4><div class="Comments_form" id="Comments_form"><form action="#Comments_form" method="post" onsubmit="return validate_form(this);" style="margin:0px;padding:0px;"><input type="hidden" name="Comments[do]" value="add" style="display:none" /><input type="hidden" name="Comments[page]" value="/A-Bo/Antinuclear-Movement.html" style="display:none" /><div class="Comments_name"><label for="Comments_name">Name:</label><input type="text" name="Comments[name]" value="" id="Comments_name" /></div><div class="Comments_mail"><label for="Comments_mail">E-mail:</label><input type="text" name="Comments[mail]" value="" id="Comments_mail" /><div class="Comments_showmail"><input type="checkbox" name="Comments[showmail]" value="1" id="Comments_showmail" /><label for="Comments_showmail">Show my email publicly</label></div></div><div id="img_verify"><div class="Comments_captcha"><label for="Comments_captcha">Type the code shown:</label><input type="text" name="Comments[captcha]" value="" id="Comments_captcha" /></div><input type="hidden" name="Comments[code]" value="4)&lt;&amp;" style="display:none" /><img src="/mtc.class.php?Comments[do]=captcha&amp;Comments[captcha]=4%29%3C%26" alt="CAPTCHA" class="Comments_captcha" /></div><div class="Comments_text"><label for="Comments_text">Public Comment:&nbsp&nbsp;<font style="font-size:7pt;color:Gray;">(50-4000 characters)</font></label><textarea cols="40" rows="10" name="Comments[text]" id="Comments_text"></textarea></div><br /><input type="submit" value="Send" /> </form></div>		<br/>
+		<strong><a href="/forum/">Antinuclear Movement forum</a></strong>
+	</div>
 
-        ga('create', 'UA-6636134-11', 'auto');
-        ga('require', 'linkid');
-        ga('set', 'dimension1', 'ANONYMOUS');
-        ga('set', 'dimension2', 'D');
+	<div id="interlink_nav">
+		
+		<p class="prev">
+			&laquo; <a href="Air-Pollution-Control-Act.html">Air Pollution Control Act</a>
+		</p>
+		
 
-        window.optimizely = window.optimizely || [];
-        window.optimizely.push("activateUniversalAnalytics");
+		
+		<p class="next">
+			<a href="Arbitration.html">Arbitration</a> &raquo;
+		</p>
+		
+	</div>
 
-        ga('send', 'pageview', documentLocation + location.pathname + decodeURI(location.search));
-    </script>
+	<div id="footer">
+		Copyright &copy; 2017 Advameg, Inc.
+	</div>
+	</div>
+</div>
+
 <script type="text/javascript">
-    EBStat={accountId:-1,host:'www.britannica.com',domain:'www.britannica.com'};
-    </script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-892232-39");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-    <script type="text/javascript" data-type="eb stats">
-            ( function() {
-                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
-                 .done( function() {
-                     try {writeStat(null,{accountId:-1,hostnameOverride:'www.britannica.com',domain:'www.britannica.com', json:''});}
-                     catch(err){}
-                 } );
-            })();
-            </script>
-        </body>
+<script type="text/javascript">tyntVariables = {"ap":""};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=a1PWGgwGGr3Rsyacn9QLxW&amp;s=71&amp;st=1"></script>
+</body>
 </html>

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie6" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8 ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en" dir="ltr"> <!--<![endif]-->
+
+<head>
+  <script>
+    // http://www.456bereastreet.com/archive/201209/tell_css_that_javascript_is_available_asap/ ?> 
+    document.documentElement.className = document.documentElement.className.replace(/(\s|^)no-js(\s|$)/, '$1js$2');
+  </script>
+      <style>html.js { display:none }</style> 
+    <script> 
+      if (self == top) { 
+        document.documentElement.style.display = 'block'; 
+      } else { 
+        top.location = self.location;
+      } 
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link href="/sites/default/themes/everybody/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/sites/default/themes/everybody/images/favicon.png" rel="icon" type="image/png" />
+<meta name="X-Frame-Options" content="DENY" />
+<meta name="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta property="og:url" content="https://everybody.si.edu/citizens/civil-rights-disability-rights" />
+<meta property="og:site_name" content="EveryBody: An Artifact History of Disability in America" />
+<meta property="og:title" content="Civil Rights, Disability Rights" />
+<meta name="description" content="Full citizenship entails full inclusion. Citizens successfully challenged legal inequalities around race, culminating in the 1954 Brown v. Board of Education decision by the Supreme Court that struck down legal segregation. In the decades that followed, women, Native Americans, lesbian, bi-sexual, gay and transgender people, Chicanos and Latinos, and other groups pushed to extend the rights of citizenship." />
+<meta property="og:description" content="Full citizenship entails full inclusion. Citizens successfully challenged legal inequalities around race, culminating in the 1954 Brown v. Board of Education decision by the Supreme Court that struck down legal segregation. In the decades that followed, women, Native Americans, lesbian, bi-sexual, gay and transgender people, Chicanos and Latinos, and other groups pushed to extend the rights of citizenship." />
+<link rel="canonical" href="https://everybody.si.edu/citizens/civil-rights-disability-rights" />
+<link rel="shortlink" href="https://everybody.si.edu/node/38" />
+<meta property="og:type" content="article" />
+  <title>Civil Rights, Disability Rights | EveryBody: An Artifact History of Disability in America</title>  
+  <link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_qijEk_mynkqeuzFXZcW0vC-oczMV6OE6dOWw0ST2PzU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_hYk_vfsgfgA5GbHFSjcHUG7AeyvbXpNGv3uaxhGlDQU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_w3qHA7SzlVamMH3fc6AvoFFHzZhhhEanO39jJnE56wc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic&amp;ohve8g" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crete+Round:400,400italic&amp;ohve8g" media="all" />
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_Rj2J-5HS2XU_9THD_6uuMD6Tckpfpr3jFrespFw6Kg0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_XVWpg6zbCPIfQSqN80ANsYmKm801WVgGpW20sTPKSsw.css" media="print" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_R40PyZPquSzHsXc9iss_9DCOaK-4FpbZdPHdUi2QpqQ.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://everybody.si.edu/sites/default/files/css/css_iRW5aY5uRIC0HHpbSAqx0vKu_9zlHEia5c1ZESCMkSE.css" media="all" />
+<!--<![endif]-->
+      <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-38 node-type-content-page context-citizens">
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-16">
+    <div class="grid-16 region region-branding" id="region-branding">
+  <a id="skip-link" href="#main-content" accesskey="s">Skip to main content</a>
+    <div class="branding-data clearfix">
+                <hgroup class="site-name-slogan">        
+                        <h2 class="site-name"><a href="/" title="Home">EveryBody: An Artifact History of Disability in America</a></h2>
+                      </hgroup>
+      </div>
+    <section class="block block-menu block-menu-header block-menu-menu-header odd" id="block-menu-menu-header">
+        <h2 class="block-title">Header Menu</h2>
+      
+  <div class="content clearfix">
+    <ul class="menu"><li class="first leaf"><a href="/content/accessibility-statement" title="Guidelines for website accessibility and browser aids." accesskey="4">Accessibility Statement</a></li>
+<li class="leaf"><a href="/about-web-exhibition" accesskey="2">About the Web Exhibition</a></li>
+<li class="leaf"><a href="/content/credits">Credits</a></li>
+<li class="leaf"><a href="/content/further-resources" title="Recommended Readings, Resources, and Frequently Asked Questions" accesskey="7">Resources</a></li>
+<li class="last leaf"><a href="/sitemap" accesskey="3">Site Map</a></li>
+</ul>  </div>
+</section>
+<div class="block block-search block-form block-search-form even block-without-title" id="block-search-form">
+        
+  <div class="content clearfix">
+    <form action="/citizens/civil-rights-disability-rights" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="replace sprite btn_search form-submit" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-FPslYvbAvHqs7bE_PJNN8O3wkTFfGw72IYekTQTPsGI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+</div>
+  </div>
+</div></header>
+    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-content" class="zone zone-content clearfix container-16">    
+        
+        <aside class="grid-3 region region-sidebar-first sidebar" id="region-sidebar-first">
+  <section class="block block-menu block-menu-consolidated-menu block-menu-menu-consolidated-menu odd" id="block-menu-menu-consolidated-menu">
+        <h2 class="block-title">Consolidated Menu</h2>
+      
+  <div class="content clearfix">
+    <ul class="menu menu-consolidated" accesskey="1"><li class="first leaf"><a href="/" accesskey="0">Introduction</a></li>
+<li class="collapsed"><a href="/words">Disability and History</a></li>
+<li class="collapsed"><a href="/people">People</a></li>
+<li class="collapsed"><a href="/place">Place</a></li>
+<li class="collapsed"><a href="/technology">Technology</a></li>
+<li class="expanded active-trail"><a href="/citizens" class="active-trail">Citizens</a><ul class="menu menu-consolidated" accesskey="1"><li class="first leaf active-trail"><a href="/citizens/civil-rights-disability-rights" title="Civil Rights, Disability Rights" class="active-trail active">Civil Rights, Disability Rights</a></li>
+<li class="leaf"><a href="/citizens/laws" title="Laws">Laws</a></li>
+<li class="leaf"><a href="/citizens/architecture" title="Architecture">Architecture</a></li>
+<li class="leaf"><a href="/citizens/work" title="Work">Work</a></li>
+<li class="leaf"><a href="/citizens/eugenics" title="Eugenics">Eugenics</a></li>
+<li class="last leaf"><a href="/citizens/activism" title="Activism">Activism</a></li>
+</ul></li>
+<li class="last collapsed"><a href="/node/53/">En Español</a></li>
+</ul>  </div>
+</section>
+<div class="block block-block block-2 block-block-2 even block-without-title" id="block-block-2">
+        
+  <div class="content clearfix">
+    <div style="margin-top:40px;">
+<h2>POSTERS</h2>
+<p><a href="/posters" style="text-decoration:none;">Download and print disability history posters</a></p>
+</div>
+  </div>
+</div>
+<div class="block block-block block-3 block-block-3 odd block-without-title" id="block-block-3">
+        
+  <div class="content clearfix">
+    <h2> <br />CONNECT</h2>
+<p><a href="http://everybody.si.edu/connect" style="text-decoration:none;">Keep up with Disability History on social media.</a></p>
+  </div>
+</div>
+</aside>
+<div class="grid-13 region region-content" id="region-content">
+      <div id="breadcrumb"><h2 class="visuallyhidden">You are here:</h2><div class="breadcrumb"><a href="/">Home</a> / <a href="/citizens" class="active-trail">Citizens</a></div></div>
+      
+    <a id="main-content" class="visuallyhidden" name="main-content">Main Conent</a>
+        <h1 class="title" id="page-title">Civil Rights, Disability Rights</h1>
+            <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+        
+  <div class="content clearfix">
+    
+<article class="node node-content-page node-published node-not-promoted node-not-sticky author-mattd odd clearfix" id="node-content-page-38">
+      
+  <div class="content clearfix">
+          <div class='grid-13 alpha omega header-box'>
+        <div class='grid-5 alpha'>
+          <div class="header-text"><p>The efforts by people with disabilities to participate fully in society began centuries ago and gained momentum in the 20th century.</p>
+</div>        </div>
+        <div class='grid-8 omega'>
+          <div class="header-image"><img src="https://everybody.si.edu/sites/default/files/styles/large/public/images/Civil_Rights_Disability_Rights_header.jpg?itok=HBB5Yr8K" width="398" height="286" alt="black white protesting photograph disability history america" title="“I can’t even get to the back of the bus&quot;; ADAPT activists protesting for accessible transportation, Philadelphia, 1990" /></div>        </div>
+      </div>
+        
+    <div class='grid-11 suffix-2 alpha omega'>
+      <div class="body clearfix"><p>Full citizenship entails full inclusion. Citizens successfully challenged legal inequalities around race, culminating in the 1954 Brown v. Board of Education decision by the Supreme Court that struck down legal segregation. In the decades that followed, women, Native Americans, lesbian, bi-sexual, gay and transgender people, Chicanos and Latinos, and other groups pushed to extend the rights of citizenship.</p>
+<p>The Disability Rights Movement, organized in the 1970s, has been similar to other movements in important ways. Attitudes needed changing for social change to happen. Paternalism thwarted access to basic rights like education, marriage, work, and housing. Segregation and discrimination contributed to poverty and isolation.</p>
+<p><span style="line-height: 1.538em;">The Disability Rights Movement has been unlike other movements in important ways, however. For social change to occur, architectural barriers also needed changing. Necessary accommodation and services were different than those for other groups. And because disability crosses race, class, and gender, and people came to it in many different ways, affiliations and expectations also varied.</span></p>
+<p>Laura Hershey (1962-2010) was a lifelong disability activist and writer who lived in Denver. This poem captures the importance of advocacy and the motivation behind the work done by disability activists.</p>
+</div>      
+  <aside class="node node-internal-call-out node-published node-not-promoted node-not-sticky author-staceym even clearfix" id="node-internal-call-out-70">
+  <header>
+    <h2 class="node-title">You Get Proud By Practicing</h2>
+  </header>
+
+  <div class="content clearfix">
+    <div class="body clearfix"><p><span style="line-height: 1.538em;">by Laura Hershey</span></p>
+<p><em>If you are not proud<br />For who you are, for what you say, for how you look;<br />If every time you stop<br />To think of yourself, you do not see yourself glowing<br />With golden light; do not, therefore, give up on yourself.<br />You can get proud.</em></p>
+<p><em>You do not need<br />A better body, a purer spirit, or a Ph.D.<br />To be proud.<br />You do not need<br />A lot of money, a handsome boyfriend, or a nice car.<br />You do not need<br />To be able to walk, or see, or hear,<br />Or use big, complicated words,<br />Or do any of those things that you just can’t do<br />To be proud. A caseworker<br />Cannot make you proud,<br />Or a doctor.<br />You only need more practice.<br />You get proud by practicing.</em></p>
+<p><em>There are many many ways to get proud.<br />You can try riding a horse, or skiing on one leg,<br />Or playing guitar,<br />And do well or not so well,<br />And be glad you tried<br />Either way.<br />You can show<br />Something you’ve made<br />To someone you respect<br />And be happy with it no matter<br />What they say.<br />You can say<br />What you think, though you know<br />Other people do not think the same way, and you can<br />keep saying it, even if they tell you<br /><em>You are crazy.</em></em></p>
+<p><em>You can add your voice<br />All night to the voices<br />Of a hundred and fifty others<br />In a circle<br />Around a jailhouse<br />Where your brothers and sisters are being held<br />For blocking buses with no lifts,<br />Or you can be one of the ones<br />Inside the jailhouse,<br />Knowing of the circle outside.<br />You can speak your love<br />To a friend<br />Without fear.<br />You can find someone who will listen to you<br />Without judging you or doubting you or being<br />Afraid of you<br />And let you hear yourself perhaps<br />For the very first time.<br />These are all ways<br />Of getting proud.<br />None of them<br />Are easy, but all of them<br />Are possible. You can do all of these things,<br />Or just one of them again and again.<br />You get proud<br />By practicing.</em></p>
+<p><em>Power makes you proud, and power<br />Comes in many fine forms<br />Supple and rich as butterfly wings.<br />It is music<br />when you practice opening your mouth<br />And liking what you hear<br />Because it is the sound of your own<br />True voice.</em></p>
+<p><em>It is sunlight<br />When you practice seeing<br />Strength and beauty in everyone,<br />Including yourself.<br />It is dance<br />when you practice knowing<br />That what you do<br />And the way you do it<br />Is the right way for you<br />And cannot be called wrong.<br />All these hold<br />More power than weapons or money<br />Or lies.<br />All these practices bring power, and power<br />Makes you proud.<br />You get proud<br />By practicing.</em></p>
+<p><em>Remember, you weren’t the one<br />Who made you ashamed,<br />But you are the one<br />Who can make you proud.<br />Just practice,<br />Practice until you get proud, and once you are proud,<br />Keep practicing so you won’t forget.<br />You get proud<br />By practicing.</em></p>
+</div>  </div>
+</aside>
+      <div class="previous-link clear"><a accesskey="p" href="/citizens"><span class="label">Previous Page: </span> Citizens</a></div>      <div class="next-link clear"><a accesskey="n" href="/citizens/laws"><span class="label">Next Page: </span> Laws</a></div>    </div>
+    
+    <div class="image-gallery clearfix"><div class="grid-11 suffix-2 alpha omega"><h2>Image Gallery</h2><p>Click on an image to see a larger version. Use either the navigation buttons that appear or your keyboard’s Left and Right arrow keys to view other images in the gallery.  (<a href="/content/accessibility-statement">Notes for users with assistive technologies</a>.)</p></div><div class="images"><div class="container"><a href="/media/889"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C14.JPG?itok=lYv-eCay" width="235" height="161" alt="black white protesting photograph disability history america" title="“I can’t even get to the back of the bus”; ADAPT activists protesting for accessible transportation, Philadelphia, 1990" /></a><div class="title">“I can’t even get to the back of the bus”; ADAPT activists protesting for accessible transportation, Philadelphia, 1990</div><div class="credit">Courtesy of Tom Olin, photographer</div></div> <div class="container"><a href="/media/126"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C13.jpg?itok=NtUeKSB2" width="235" height="231" alt="&quot;You Get Proud by Practicing&quot; button, 2010" title="&quot;You Get Proud By Practicing&quot; button, 2010" /></a><div class="title">&quot;You Get Proud By Practicing&quot; button, 2010</div><div class="caption"><p>Laura Hershey (1962-2010) was a lifelong disability activist and writer who lived in Denver. The poem "You Get Proud By Practicing," on this page, captures the importance of advocacy and the motivation behind the work done by disability activists.</p>
+</div></div> <div class="container"><a href="/media/123"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C10.JPG?itok=Ts5d25r9" width="235" height="176" alt="ADAPT disability activists surround statue of Dr. Martin Luther King, Jr." title="ADAPT disability activists" /></a><div class="title">ADAPT disability activists</div><div class="caption"><p>ADAPT disability activists surround statue of Dr. Martin Luther King Jr. and reinforce disability rights as a civil rights issue.</p>
+</div><div class="credit">Courtesy of Tom Olin, photographer</div></div> <div class="container"><a href="/media/124"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C11.JPG?itok=62wPJW0e" width="170" height="235" alt="ADAPT disability activists march for rights in Atlanta, 1990" title="ADAPT disability activists march for rights, 1990" /></a><div class="title">ADAPT disability activists march for rights, 1990</div><div class="caption"><p>ADAPT disability activists block traffic as they stream through downtown Atlanta.</p>
+</div><div class="credit">Courtesy of Tom Olin, photographer</div></div> <div class="container"><a href="/media/118"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C5.jpg?itok=QPkeH0Zc" width="235" height="234" alt="Equal Rights are not Special Rights button" title="Equal rights button, 2010" /></a><div class="title">Equal rights button, 2010</div><div class="caption"><p>This button counters the perception that there can be exceptions to equality and says “Equal Rights Are Not Special Rights.”</p>
+</div></div> <div class="container"><a href="/media/119"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C6.jpg?itok=ewBk9Gne" width="235" height="229" alt="Attitudes Disable People button" title="&quot;Attitudes Disable People&quot; button, 1986" /></a><div class="title">&quot;Attitudes Disable People&quot; button, 1986</div><div class="caption"><p>This New York University button makes the point that disability is not the problem, but rather peoples’ attitudes about it.</p>
+</div></div> <div class="container"><a href="/media/120"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C7.JPG?itok=SgbwQ5Fk" width="235" height="231" alt="Disabled People&#039;s Movement March on Washington button" title="March on Washington button, 1976" /></a><div class="title">March on Washington button, 1976</div><div class="caption"><p>The button was created for a mass rally on the National Mall and says “Disabled People’s Movement March on Washington.”</p>
+</div></div> <div class="container"><a href="/media/121"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C8.JPG?itok=hdurXhzg" width="235" height="206" alt="Equal Opportunity Through Equal Access button" title="Equality button" /></a><div class="title">Equality button</div><div class="caption"><p><span style="line-height: 1.538em;">This black and white button says “Equal Opportunity through Equal Access.”</span></p>
+</div></div> <div class="container"><a href="/media/122"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C9.jpg?itok=QY0GqzQA" width="235" height="232" alt="Cripple Power button" title="“Cripple Power,” button, 2001" /></a><div class="title">“Cripple Power,” button, 2001</div><div class="caption"><p>Claiming rights through re-claiming language and asserting pride often go together, shown in this black and white button that says “Cripple Power.”</p>
+</div></div> <div class="container"><a href="/media/882"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C12_0.jpg?itok=ZSHm_uRm" width="235" height="171" alt="adult men black white photograph disability history america" title="Civil rights protest, Birmingham, Alabama, 1963" /></a><div class="title">Civil rights protest, Birmingham, Alabama, 1963</div><div class="caption"><p>Al Hibbler, a “blind negro singer,” is arrested during a civil rights protest. The civil rights movement shaped many disability rights leaders’ political ideas and strategies.</p>
+</div></div> <div class="container"><a href="/media/128"><img src="https://everybody.si.edu/sites/default/files/styles/thumbnail/public/C15.JPG?itok=T4r9dQ3P" width="156" height="235" alt="Handicapped parking sign and license plates" title="Handicapped parking sign and license plates" /></a><div class="title">Handicapped parking sign and license plates</div><div class="caption"><p>The earliest law providing for “handicapped” parking was Delaware’s 1955 Code 2134. After passage of the 1968 Architectural Barriers Act, the federal government mandated parking spaces, signage, and curb cuts. The universal access symbol, closely associated with physical accessibility, also debuted that year.</p>
+</div></div> </div></div><div class="previous-link clear"><a accesskey="p" href="/citizens"><span class="label">Previous Page: </span> Citizens</a></div><div class="next-link clear"><a accesskey="n" href="/citizens/laws"><span class="label">Next Page: </span> Laws</a></div><div class="related-content clearfix"><div class="inner grid-12 suffix-1 alpha omega"><div class="grid-6 alpha"><aside class="node node-external-call-out node-published node-not-promoted node-not-sticky author-patrickg odd clearfix" id="node-external-call-out-73">
+  <header>
+    <h2 class="node-title">Audio Poem: You Get Proud By Practicing</h2>
+  </header>
+
+  <div class="content clearfix">
+    <div class="body clearfix"><p>A poem by Laura Hershey</p>
+<p>Duration: 4:00</p>
+<p> </p>
+</div>
+<ul class="field field-name-field-audio field-type-file field-label-hidden">
+
+      <li>
+      <div class="mediaelement-audio"><audio  src="https://everybody.si.edu/sites/default/files/audio/You-Get-Proud-By-Practicing.mp3" class="mediaelement-formatter-identifier-1493085186-0" controls="controls" ></audio></div>    </li>
+  
+</ul>
+  </div>
+</aside>
+</div></div></div>  </div>
+</article>
+  </div>
+</div>
+  </div>
+  </div>
+</section>
+    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-16">
+    <div class="grid-16 region region-footer-first" id="region-footer-first">
+  <div class="block block-block block-1 block-block-1 odd block-without-title" id="block-block-1">
+        
+  <div class="content clearfix">
+    <p><a class="replace logo_nmah" href="http://americanhistory.si.edu/" title="Smithsonian National Museum of American History">Smithsonian National Museum of American History</a></p><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42191100-1', 'si.edu');
+  ga('send', 'pageview');
+
+</script>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2013 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 9/23/2013 9:38:23 PM -->
+<script src="http://americanhistory.si.edu/_js/webtrends-everybody.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.WT.cg_n="histex";
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//logs1.smithsonian.museum/dcsheho7tadzpx7e3x8bslq31_9l3c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=everybody.si.edu"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->  </div>
+</div>
+<section class="block block-menu block-menu-footer block-menu-menu-footer even" id="block-menu-menu-footer">
+        <h2 class="block-title">Footer Menu</h2>
+      
+  <div class="content clearfix">
+    <ul class="menu"><li class="first leaf"><a href="http://americanhistory.si.edu/" title="Homepage for the National Museum of American History">American History Home</a></li>
+<li class="leaf"><a href="http://americanhistory.si.edu/getinvolved/giving" title="Donate to the National Museum of American History" accesskey="6">Give</a></li>
+<li class="leaf"><a href="http://www.si.edu/privacy/" title="Smithsonian Institution&#039;s Privacy Statement">Privacy</a></li>
+<li class="leaf"><a href="http://www.si.edu/termsofuse/" title="Smithsonian Institution&#039;s Terms of Use">Terms of Use</a></li>
+<li class="leaf"><a href="http://americanhistory.si.edu/press" title="National Museum of American History Press Room">Press</a></li>
+<li class="last leaf"><a href="http://americanhistory.si.edu/about/contact" title="National Museum of American History Contact Information" accesskey="5">Contact</a></li>
+</ul>  </div>
+</section>
+</div>
+  </div>
+</div></footer>
+  </div>
+  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="overlay hidden"><a class="close" href="#"><span class="replace icon_close"></span>Close</a><div class="metadata"><div class="title"></div><div class="caption"></div><div class="credit"></div></div><a class="prev" href="#"><span class="replace icon_prev"></span>Previous<br>Image</a><a class="next" href="#"><span class="replace icon_next"></span>Next<br>Image</a></div></div>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://everybody.si.edu/sites/default/files/js/js_aczm2rRgH_slWBPnvD3KMrK7rwa1i99HOq8IUAb99Co.js"></script>
+<script type="text/javascript" src="https://everybody.si.edu/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script type="text/javascript" src="https://everybody.si.edu/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="https://everybody.si.edu/sites/default/files/js/js_lpOTmoHRpUuYjjyRlLbPrd21djHXBj4U8DAp27ccW1E.js"></script>
+<script type="text/javascript" src="https://everybody.si.edu/sites/default/files/js/js_j5wf_O-JUutyN78GHK8zM6Tmf9RUlw7sDP0QxUxM5z4.js"></script>
+<script type="text/javascript" src="https://everybody.si.edu/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"everybody","theme_token":"yny8_mTJGpdjoS0khPjqCQc6M8kpPtN-5V_oDIki4UI","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/default\/modules\/everybody_overlay\/EVERYBODY.overlay.js":1,"sites\/all\/modules\/mediaelement\/mediaelement.js":1,"sites\/default\/themes\/everybody\/js\/jquery.scrollTo.js":1,"sites\/default\/themes\/everybody\/js\/EVERYBODY.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:400,400italic,700,700italic":1,"http:\/\/fonts.googleapis.com\/css?family=Crete+Round:400,400italic":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/default\/themes\/everybody\/css\/global.css.less":1,"sites\/default\/themes\/everybody\/css\/replace.css.less":1,"sites\/default\/themes\/everybody\/css\/final.css.less":1,"sites\/default\/themes\/everybody\/css\/print.css.less":1,"ie::normal::sites\/default\/themes\/everybody\/css\/everybody-alpha-default.css.less":1,"ie::normal::sites\/default\/themes\/everybody\/css\/everybody-alpha-default-normal.css.less":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-16.css":1,"narrow::sites\/default\/themes\/everybody\/css\/everybody-alpha-default.css.less":1,"narrow::sites\/default\/themes\/everybody\/css\/everybody-alpha-default-narrow.css.less":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-16.css":1,"normal::sites\/default\/themes\/everybody\/css\/everybody-alpha-default.css.less":1,"normal::sites\/default\/themes\/everybody\/css\/everybody-alpha-default-normal.css.less":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-16.css":1,"wide::sites\/default\/themes\/everybody\/css\/everybody-alpha-default.css.less":1,"wide::sites\/default\/themes\/everybody\/css\/everybody-alpha-default-wide.css.less":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-16.css":1}},"urlIsAjaxTrusted":{"\/citizens\/civil-rights-disability-rights":true},"everybody":{"images":{"C14.JPG":{"fid":889,"filename":"C14.JPG","alt":"","width":2059,"height":1407,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C14.JPG","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C14.JPG?itok=lYv-eCay","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C14.JPG?itok=baCP78Qf","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C14.JPG?itok=WSQVRZI7","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C14.JPG?itok=Exb4V_L6","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C14.JPG?itok=Gd7AY0Um","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C14.JPG?itok=8C7_vFib","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C14.JPG?itok=KNJvbGYA"},"title":"\u201cI can\u2019t even get to the back of the bus\u201d; ADAPT activists protesting for accessible transportation, Philadelphia, 1990","credit":"Courtesy of Tom Olin, photographer","caption":""},"C13.jpg":{"fid":126,"filename":"C13.jpg","alt":"","width":1024,"height":1007,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C13.jpg","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C13.jpg?itok=NtUeKSB2","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C13.jpg?itok=vxdYmBe-","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C13.jpg?itok=91R2Jfpy","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C13.jpg?itok=gghs4YIc","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C13.jpg?itok=-PI3-Tg1","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C13.jpg?itok=nnWPWm9R","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C13.jpg?itok=PyLj1BpB"},"title":"\u0026quot;You Get Proud By Practicing\u0026quot; button, 2010","credit":"","caption":"\u003Cp\u003ELaura Hershey (1962-2010) was a lifelong disability activist and writer who lived in Denver. The poem \u0022You Get Proud By Practicing,\u0022 on this page, captures the importance of advocacy and the motivation behind the work done by disability activists.\u003C\/p\u003E\n"},"C10.JPG":{"fid":123,"filename":"C10.JPG","alt":"","width":1920,"height":1437,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C10.JPG","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C10.JPG?itok=Ts5d25r9","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C10.JPG?itok=443CZA5J","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C10.JPG?itok=DTmjSH4e","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C10.JPG?itok=kMgSLJFu","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C10.JPG?itok=a8pkgHbJ","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C10.JPG?itok=EsOq6WR-","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C10.JPG?itok=rwbS0hrv"},"title":"ADAPT disability activists","credit":"Courtesy of Tom Olin, photographer","caption":"\u003Cp\u003EADAPT disability activists surround statue of Dr. Martin Luther King Jr.\u00a0and reinforce disability rights as a civil rights issue.\u003C\/p\u003E\n"},"C11.JPG":{"fid":124,"filename":"C11.JPG","alt":"","width":1446,"height":1994,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C11.JPG","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C11.JPG?itok=62wPJW0e","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C11.JPG?itok=2gGWfdAn","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C11.JPG?itok=LZwAKPfw","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C11.JPG?itok=MMN_wHN2","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C11.JPG?itok=vGhiRhOS","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C11.JPG?itok=MPyM48dT","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C11.JPG?itok=t-zxFeAb"},"title":"ADAPT disability activists march for rights, 1990","credit":"Courtesy of Tom Olin, photographer","caption":"\u003Cp\u003EADAPT disability activists block traffic as they stream through downtown Atlanta.\u003C\/p\u003E\n"},"C5.jpg":{"fid":118,"filename":"C5.jpg","alt":"","width":1024,"height":1020,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C5.jpg","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C5.jpg?itok=QPkeH0Zc","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C5.jpg?itok=ydhO4r6s","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C5.jpg?itok=-Dpagyd4","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C5.jpg?itok=KP-TO73S","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C5.jpg?itok=L4pIGZFB","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C5.jpg?itok=JJeSHWka","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C5.jpg?itok=nnrvFDsZ"},"title":"Equal rights button, 2010","credit":"","caption":"\u003Cp\u003EThis button counters the perception that there can be exceptions to equality and says \u201cEqual Rights Are Not Special Rights.\u201d\u003C\/p\u003E\n"},"C6.jpg":{"fid":119,"filename":"C6.jpg","alt":"","width":2080,"height":2024,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C6.jpg","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C6.jpg?itok=ewBk9Gne","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C6.jpg?itok=o9qrKX8F","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C6.jpg?itok=SjBgoDaG","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C6.jpg?itok=YPTYcJA2","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C6.jpg?itok=w-3PtxHy","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C6.jpg?itok=JIhIR4VO","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C6.jpg?itok=MTShCiJo"},"title":"\u0026quot;Attitudes Disable People\u0026quot; button, 1986","credit":"","caption":"\u003Cp\u003EThis New York University button makes the point that disability is not the problem, but rather peoples\u2019 attitudes about it.\u003C\/p\u003E\n"},"C7.JPG":{"fid":120,"filename":"C7.JPG","alt":"","width":1530,"height":1506,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C7.JPG","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C7.JPG?itok=SgbwQ5Fk","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C7.JPG?itok=ypFwbagk","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C7.JPG?itok=Xi8RUkRa","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C7.JPG?itok=WU0iM-Zy","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C7.JPG?itok=n5bLnS2d","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C7.JPG?itok=rC-rS6pE","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C7.JPG?itok=Qjc9KxxF"},"title":"March on Washington button, 1976","credit":"","caption":"\u003Cp\u003EThe button was created for a mass rally on the National Mall and says \u201cDisabled People\u2019s Movement March on Washington.\u201d\u003C\/p\u003E\n"},"C8.JPG":{"fid":121,"filename":"C8.JPG","alt":"","width":1872,"height":1638,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C8.JPG","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C8.JPG?itok=hdurXhzg","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C8.JPG?itok=FnxGewpQ","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C8.JPG?itok=0XD1J_6_","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C8.JPG?itok=EZQPKmxd","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C8.JPG?itok=j-zQU-C8","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C8.JPG?itok=d_L9gFeT","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C8.JPG?itok=FaKgKmUG"},"title":"Equality button","credit":"","caption":"\u003Cp\u003E\u003Cspan style=\u0022line-height: 1.538em;\u0022\u003EThis black and white button says \u201cEqual Opportunity through Equal Access.\u201d\u003C\/span\u003E\u003C\/p\u003E\n"},"C9.jpg":{"fid":122,"filename":"C9.jpg","alt":"","width":640,"height":631,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C9.jpg","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C9.jpg?itok=QY0GqzQA","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C9.jpg?itok=nWtlDOx8","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C9.jpg?itok=Cet59YV3","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C9.jpg?itok=WND3QwLk","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C9.jpg?itok=Z41vMI4z","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C9.jpg?itok=0GjmpyiE","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C9.jpg?itok=JnbMlSle"},"title":"\u201cCripple Power,\u201d button, 2001","credit":"","caption":"\u003Cp\u003EClaiming rights through re-claiming language and asserting pride often go together, shown in this black and white button that says \u201cCripple Power.\u201d\u003C\/p\u003E\n"},"C12_0.jpg":{"fid":882,"filename":"C12_0.jpg","alt":"","width":2425,"height":1769,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C12_0.jpg","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C12_0.jpg?itok=ZSHm_uRm","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C12_0.jpg?itok=t1YmCAzu","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C12_0.jpg?itok=BAFIxlsV","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C12_0.jpg?itok=4hJimMnw","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C12_0.jpg?itok=vfEkm54w","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C12_0.jpg?itok=TTMFRQ8L","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C12_0.jpg?itok=3bYK9d1k"},"title":"Civil rights protest, Birmingham, Alabama, 1963","credit":"","caption":"\u003Cp\u003EAl Hibbler, a \u201cblind negro singer,\u201d is arrested during a civil rights protest. The civil rights movement shaped many disability rights leaders\u2019 political ideas and strategies.\u003C\/p\u003E\n"},"C15.JPG":{"fid":128,"filename":"C15.JPG","alt":"","width":2848,"height":4288,"styles":{"original":"https:\/\/everybody.si.edu\/sites\/default\/files\/C15.JPG","thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/thumbnail\/public\/C15.JPG?itok=T4r9dQ3P","medium":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/medium\/public\/C15.JPG?itok=H37eBS9d","large":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/large\/public\/C15.JPG?itok=w9uFxYUO","square_thumbnail":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/square_thumbnail\/public\/C15.JPG?itok=oCpQiZeu","homepage":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/homepage\/public\/C15.JPG?itok=JagBaRH3","overlay":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/overlay\/public\/C15.JPG?itok=db197qfq","small":"https:\/\/everybody.si.edu\/sites\/default\/files\/styles\/small\/public\/C15.JPG?itok=kAg7JaIL"},"title":"Handicapped parking sign and license plates","credit":"","caption":"\u003Cp\u003EThe earliest law providing for \u201chandicapped\u201d parking was Delaware\u2019s 1955 Code 2134. After passage of the 1968 Architectural Barriers Act, the federal government mandated parking spaces, signage, and curb cuts. The universal access symbol, closely associated with physical accessibility, also debuted that year.\u003C\/p\u003E\n"}}},"mediaelement":{".mediaelement-formatter-identifier-1493085186-0":{"opts":{"audioHeight":30,"audioWidth":300},"controls":true}},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}},"base_url":"https:\/\/everybody.si.edu","path_to_theme":"\/sites\/default\/themes\/everybody"});
+//--><!]]>
+</script>
+</body>
+
+</html>

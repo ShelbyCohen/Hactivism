@@ -1,0 +1,2039 @@
+<!doctype html>
+
+<html data-ytrk-page="TOPIC PAGINATED LARGE" class="" lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta property="fb:pages" content="74442380906" />
+
+    <script type="text/javascript" data-type="PFO">
+!function e(t,n,o){function r(i,u){if(!n[i]){if(!t[i]){var c="function"==typeof require&&require;if(!u&&c)return c(i,!0);if(a)return a(i,!0);var d=new Error("Cannot find module '"+i+"'");throw d.code="MODULE_NOT_FOUND",d}var f=n[i]={exports:{}};t[i][0].call(f.exports,function(e){var n=t[i][1][e];return r(n?n:e)},f,f.exports,e,t,n,o)}return n[i].exports}for(var a="function"==typeof require&&require,i=0;i<o.length;i++)r(o[i]);return r}({1:[function(e,t,n){(function(e){function n(){try{var e=new o("cat",{detail:{foo:"bar"}});return"cat"===e.type&&"bar"===e.detail.foo}catch(t){}return!1}var o=e.CustomEvent;t.exports=n()?o:"undefined"!=typeof document&&"function"==typeof document.createEvent?function(e,t){var n=document.createEvent("CustomEvent");return t?n.initCustomEvent(e,t.bubbles,t.cancelable,t.detail):n.initCustomEvent(e,!1,!1,void 0),n}:function(e,t){var n=document.createEventObject();return n.type=e,t?(n.bubbles=Boolean(t.bubbles),n.cancelable=Boolean(t.cancelable),n.detail=t.detail):(n.bubbles=!1,n.cancelable=!1,n.detail=void 0),n}}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],2:[function(e,t,n){function o(e,t,n,o){"addEventListener"in e?e.addEventListener(t,n,o):"attachEvent"in e&&e.attachEvent("on"+t,n)}var r=e(1);!function(){window.adonis=window.adonis||{},window.adonis.scriptStatuses={};var e=function(){var e="NEW_SCRIPT_EVENT",t=new r(e,{detail:{}});window.dispatchEvent(t)};o(document,"load",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="load",e())},!0),o(document,"error",function(t){t.target&&"SCRIPT"===t.target.nodeName&&(window.adonis.scriptStatuses[t.target.src]="error",e())},!0)}()},{1:1}]},{},[2]);
+</script>
+
+		<meta name="description" content="Mass protest movement against racial segregation and discrimination in the southern United States that came to national prominence during the mid-1950s. This movement had its roots..." /><meta name="keywords" content="American civil rights movement, encyclopedia, encyclopaedia, britannica, article" /><link rel="canonical" href="https://www.britannica.com/event/American-civil-rights-movement" />
+    <script type="text/javascript" data-type="Init Mendel">
+
+    $UI = {};
+
+    Mendel = {
+		config : {
+			page: 'Topic',
+			videoPlayerId: 'UAvzrRyR',
+			currentUrl: 'https://www.britannica.com/event/American-civil-rights-movement',
+			sharedUrl: 'https://www.britannica.com/event/American-civil-rights-movement',
+			userInfo: { type: 'ANONYMOUS'
+			           ,userId: ''
+			           ,currency: 'USD'
+			           ,country: 'US'
+			           ,bcomId: '-8571381728616056024'
+				       ,hasAds: true
+					   ,testVersion: 'A'
+				       ,mvst: {
+  "LEARN_MORE_STYLE" : "OLD",
+  "SUBSCRIPTION_IMAGE" : "https://safe.britannica.com/safeimages/subscriber-rollover-300x250-B",
+  "HEADER_SEARCH_TYPE" : "OLD"
+}
+			},
+			isLoggedInAsUser: false,
+
+			
+			adInfo: {"refreshType":"REGULAR","refreshTimer":120,"refreshMaxCount":12,"catfishTimeout":60,"refreshCounterStart":0,"catfishEnabled":true},
+			
+
+			analytics: [
+						{ type: 'google', id: 'UA-6636134-11', logClickAction: false, logFakePageLoad: true },
+						{ type: 'eb', logClickAction: false, logFakePageLoad: true }
+						],
+			
+			a9Id: '3022',
+			
+			mendelCookie: {
+  "pagesViewed" : 1,
+  "currentReadingList" : null,
+  "articleCatfishShown" : true,
+  "surveyShown" : false
+},
+			
+			isMobile: false,
+			isTablet: false,
+			isPhone: false,topicUrl: '/event/American-civil-rights-movement'
+        ,freeTopicReason: 'PERMANENT_FREE_TOPIC'
+        ,topicId: 119368
+	    ,topicAkw: 'history society,social sciences'
+        ,template: 'LARGE_PAGINATED'
+		,coreArticle: true
+	    ,hasEditMode: true
+        ,hasToc: true
+        ,sectionId: '119368main'
+		}
+    };
+
+	MendelInit = {
+		cmd: [],
+		cmdAngular: [],
+		add: function( f, priority ) { this.cmd.push( { f: f, p: priority || 1000  } ) },
+		addAngular: function( f, priority ) { if ( window.angular ) { this.cmdAngular.push( { f: f, p: priority || 1000  } ); } },
+		r: function( c ) { c.sort( function( o1, o2 ) { return o1.p - o2.p; } ); for( var i = 0; i < c.length; i++ ) { c[ i ].f(); } },
+		run: function() { this.r( this.cmd ); },
+		runAngular: function() { this.r( this.cmdAngular ); }
+	};
+
+	</script>
+
+<meta property="fb:app_id" content="178355025663364"/>
+
+<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@britannica" />
+
+<meta property="og:type"  content="article"/>
+<meta property="og:title" content="American civil rights movement"/>
+<meta property="og:description" content="Mass protest movement against racial segregation and discrimination in the southern United States that came to national prominence during the mid-1950s. This movement had its roots..."/>
+<meta property="og:site_name" content="Encyclopedia Britannica" />
+<meta property="og:url" content="https://www.britannica.com/event/American-civil-rights-movement"/>
+<meta property="og:image" content="https://media1.britannica.com/eb-media/46/7546-004-7F54297C.jpg" />
+<meta property="og:image:type" content="image/jpg" />
+<script type="text/javascript" data-type="init opengraph">
+Mendel.openGraph = {
+    type: 'article',
+    title: 'American civil rights movement',
+    description: 'Mass protest movement against racial segregation and discrimination in the southern United States that came to national prominence during the mid-1950s. This movement had its roots...',
+    siteName: 'Encyclopedia Britannica',
+    url: 'https://www.britannica.com/event/American-civil-rights-movement',
+    image: 'https://media1.britannica.com/eb-media/46/7546-004-7F54297C.jpg',
+    imageType: 'image/jpg'
+    
+};
+</script>
+
+<title>American civil rights movement | Britannica.com</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono|Montserrat:400,700|Cinzel">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><link href="/resources/css/libs/reset.css" rel="stylesheet" />
+    <link href="/resources/dist/mendel-css.css?v=2.56.15" rel="stylesheet" />
+    <link href="/resources/css/fontello/css/mendel-icons.css" rel="stylesheet"/>
+
+    <script type="text/javascript">
+        //if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
+    </script>
+
+    <script type="text/javascript" data-type="googletags">
+
+	var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+	Mendel.config.ads = [
+			
+				{ adUnit: '/34444486/EB_A/ARTICLES_LARGE_PAG_AE', pos: 'BOT2', size: [ 300,250 ], divId: 'div-gpt-ad-05520cf1-4708-4a29-b3cc-38988c306ec9' },
+				{ adUnit: '/34444486/EB_A/ARTICLES_LARGE_PAG_AE', pos: 'BOT', size: [ 728,90 ], divId: 'div-gpt-ad-2f2a615c-e27b-4316-b25a-321d3fd353da' },
+				{ adUnit: '/34444486/EB_A/ARTICLES_LARGE_PAG_AE', pos: 'TOP', size: [ 300,250 ], divId: 'div-gpt-ad-a9432416-1a7c-46a1-9ba2-4916ae52395a' },
+				{ adUnit: '/34444486/EB_A/ARTICLES_LARGE_PAG_AE', pos: 'BOT', size: [ 300,250 ], divId: 'div-gpt-ad-16614c76-2cad-417d-8ffb-d7d77d38c68c' },
+				{ adUnit: '/34444486/EB_A/ARTICLES_LARGE_PAG_AE', pos: 'CATFISH', size: [ 728,90 ], divId: 'div-gpt-ad-4ae8632a-4395-4845-9fa2-44a181af8b2e' }
+	];
+
+</script>
+
+<script async src="//js-sec.indexww.com/ht/htw-britannica.js" type="text/javascript"></script>
+<script type="text/javascript">
+	googletag.cmd.push(function() {
+		if  (typeof window.headertag === 'undefined' || window.headertag.apiReady !== true) {
+			window.headertag = googletag;
+        }
+	});
+</script>
+<script type="text/javascript" data-type="Amazon a9">
+
+	var amznads = amznads || {};
+	amznads.asyncParams = {
+        'id': '3022',
+        'callbackFn': function() { try { amznads.setTargetingForGPTAsync('amznslots'); } catch (e) { /*ignore*/ } },
+        'timeout': 2e3
+    };
+    (function() {
+        var a, s = document.getElementsByTagName("script")[0];
+        a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = "//c.amazon-adsystem.com/aax2/amzn_ads.js";
+        s.parentNode.insertBefore(a, s);
+    })();
+
+</script>
+
+<script async="async" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript" data-type="load openX">
+        (function() {
+            var src = '//merriamwebster-d.openx.net/w/1.0/jstag?nc=34444486-EB';
+            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+    </script>
+<script type="text/javascript" data-type="init GPT slots">
+
+    var googletagSlots = [];
+
+    googletag.cmd.push(function() {
+
+        
+	    
+                googletagSlots[ '05520cf1-4708-4a29-b3cc-38988c306ec9' ] =
+                    googletag.defineSlot('/34444486/EB_A/ARTICLES_LARGE_PAG_AE', [ 300,250 ],'div-gpt-ad-05520cf1-4708-4a29-b3cc-38988c306ec9')
+                        .setTargeting('POS',['BOT2'])
+                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
+                        .addService(googletag.pubads());
+
+	        
+	    
+                googletagSlots[ '2f2a615c-e27b-4316-b25a-321d3fd353da' ] =
+                    googletag.defineSlot('/34444486/EB_A/ARTICLES_LARGE_PAG_AE', [ 728,90 ],'div-gpt-ad-2f2a615c-e27b-4316-b25a-321d3fd353da')
+                        .setTargeting('POS',['BOT'])
+                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
+                        .addService(googletag.pubads());
+
+	        
+	    
+                googletagSlots[ 'a9432416-1a7c-46a1-9ba2-4916ae52395a' ] =
+                    googletag.defineSlot('/34444486/EB_A/ARTICLES_LARGE_PAG_AE', [ 300,250 ],'div-gpt-ad-a9432416-1a7c-46a1-9ba2-4916ae52395a')
+                        .setTargeting('POS',['TOP'])
+                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
+                        .addService(googletag.pubads());
+
+	        
+	    
+                googletagSlots[ '16614c76-2cad-417d-8ffb-d7d77d38c68c' ] =
+                    googletag.defineSlot('/34444486/EB_A/ARTICLES_LARGE_PAG_AE', [ 300,250 ],'div-gpt-ad-16614c76-2cad-417d-8ffb-d7d77d38c68c')
+                        .setTargeting('POS',['BOT'])
+                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
+                        .addService(googletag.pubads());
+
+	        
+	    
+                googletagSlots[ '4ae8632a-4395-4845-9fa2-44a181af8b2e' ] =
+                    googletag.defineSlot('/34444486/EB_A/ARTICLES_LARGE_PAG_AE', [ 728,90 ],'div-gpt-ad-4ae8632a-4395-4845-9fa2-44a181af8b2e')
+                        .setTargeting('POS',['CATFISH'])
+                        .setTargeting( 'PAGELOAD', 'REFRESH0' )
+                        .addService(googletag.pubads());
+
+	        googletag.pubads().setTargeting('dc_ref',['https://www.britannica.com/event/American-civil-rights-movement']);googletag.pubads().setTargeting('PAGE',[1]);
+		    googletag.pubads().setTargeting( 'ARTICLE',['119368']);
+		    
+		    googletag.pubads().setTargeting( 'CAT',['history society,social sciences']);
+		    
+	var dartCCKey = "ccaud";
+	var dartCC = "";
+	if (typeof( ccauds ) != 'undefined') {
+        for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
+            if (cci > 0) { dartCC += ","; }
+            dartCC += ccauds.Profile.Audiences.Audience[cci].abbr;
+        }
+	}
+	googletag.pubads().setTargeting(dartCCKey, [dartCC]);
+
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().enableAsyncRendering();
+        googletag.enableServices();
+  });
+</script><script src="//cdn.optimizely.com/js/3788090404.js"></script>
+<script type="text/javascript" src="//tags.crwdcntrl.net/c/6899/cc.js?ns=_cc6899" id="LOTCC_6899"></script>
+    <script type="text/javascript" language="javascript" data-type="lotame init">_cc6899.bcp();</script>
+	<script type="text/javascript" src="//ad.crwdcntrl.net/5/c=6899/pe=y/var=ccauds"></script>
+	<script type="text/javascript" data-type="init Quantcast top">
+		    var _qevents = _qevents || [];
+		    (function() {
+		        var elem = document.createElement('script');
+		        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		        elem.async = true;
+		        elem.type = "text/javascript";
+		        var scpt = document.getElementsByTagName('script')[0];
+		        scpt.parentNode.insertBefore(elem, scpt);
+		    })();
+		</script>
+	<link rel="next" href="/event/American-civil-rights-movement/Du-Bois-to-Brown" /></head>
+
+<body data-leg="A" class="new-topic topic-large_paginated non-index  first-page-true user-ANONYMOUS  md-desktop     leg-a">
+
+<main>
+
+    <script type="text/javascript" data-type="PFW">
+!function e(t,n,r){function o(a,c){if(!n[a]){if(!t[a]){var s="function"==typeof require&&require;if(!c&&s)return s(a,!0);if(i)return i(a,!0);var d=new Error("Cannot find module '"+a+"'");throw d.code="MODULE_NOT_FOUND",d}var u=n[a]={exports:{}};t[a][0].call(u.exports,function(e){var n=t[a][1][e];return o(n?n:e)},u,u.exports,e,t,n,r)}return n[a].exports}for(var i="function"==typeof require&&require,a=0;a<r.length;a++)o(r[a]);return o}({1:[function(e,t,n){!function(){function t(){o&&console.log.apply(console,arguments)}var n=e(4),r=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection;if(!r)return void n.reportEvent("bootstrap.ifw.rtc.absent");n.reportEvent("bootstrap.ifw.rtc.exists"),window.adonisHash=window.location.hash;var o=window.adonisHash.indexOf("adonis-logging")!==-1,i=function(e){var t=function(){e===!0&&console.log.apply(console,arguments)},n=["script","img"];document.addEventListener("load",function(e){t("withinIframe load event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="load")},!0),document.addEventListener("error",function(e){t("withinIframe error event",e.target),!e.target||"SCRIPT"!==e.target.nodeName&&"IMG"!==e.target.nodeName||(e.target._loadState="error")},!0),window.addEventListener("message",function(e){if(void 0!==e.data.iframeId){t("message received "+e.data.iframeId);var r=e.data,o=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)},i=function(e){var r={originIframeId:e.iframeId,readyState:document.readyState,requestData:[],cssData:[]},o=e.srcSubstrings;if(void 0!==o)for(var a=document.querySelectorAll(n.join(",")),c=0;c<a.length;c++){var s=a[c];if(s.src){var d=o.some(function(e){return s.src.indexOf(e)!==-1});if(d){if(void 0===s._loadState)return t("Wait for event from "+s.src),s.addEventListener("load",function(){i(e)}),void s.addEventListener("error",function(){i(e)});r.requestData.push({type:s.nodeName,src:s.src,state:s._loadState})}}}var u=e.displayTypes,f=e.cssAttributes;void 0!==u&&void 0!==f&&(a=document.querySelectorAll(u.join(",")),Array.prototype.forEach.call(a,function(e){var t=window.getComputedStyle(e),n={};f.forEach(function(e){n[e]=t.getPropertyValue(e)}),r.cssData.push({type:e.nodeName,id:e.id,"class":e.getAttribute("class"),cssAttributes:n})})),t("send response "+e.iframeId),parent.postMessage(r,"*")};o(function(){i(r)})}})},a=['<script type="text/javascript">(',i.toString(),")(",o.toString(),")<","/script>"].join(""),c=function(e,t,n,r){var o=Object.getOwnPropertyDescriptor(e.prototype,t);Object.defineProperty(e.prototype,t,{get:function(){return n(o.get,this,arguments)},set:function(){return r(o.set,this,arguments)},enumerable:!0})},s=function(e,t,n){return e.apply(t,n)},d=function(e,n,r){try{var o=r[0];if(o.indexOf("html")!==-1){var i=o.split(";"),c=i[1],s=parseInt(c)+a.length;i[1]=s.toString(),o=i.join(";"),o=o.replace("<head>","<head>"+a),r[0]=o}}catch(d){t(d)}return e.apply(n,r)};c(HTMLIFrameElement,"name",s,d);var u=function(e){var t=!1;if(e.src&&0!==e.src.indexOf("javascript:")&&0!==e.src.indexOf("about:blank")){var n=document.createElement("a");n.href=e.src;var r=n.host;r===window.location.host&&(t=!0)}else t=!0;return t},f=function(e,n){if(void 0===n._writeDecorated){n._writeDecorated=!0;var r=n.write;n.write=function(e){try{this._injected||(e.indexOf("<head>")!==-1?(e=e.replace("<head>","<head>"+a),this._injected=!0):e.indexOf("<script")!==-1&&(e=e.replace(/(<script.*?>)/,a+"$1"),this._injected=!0))}catch(n){t(n)}return r.call(this,e)}}},p=function(e,n,r){var o=e.apply(n,r);try{u(n)&&f(n,o)}catch(i){t(i)}return o},l=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentDocument",p,l);var v=function(e,n,r){var o=e.apply(n,r);try{u(n)&&f(n,o.document)}catch(i){t(i)}return o},m=function(e,t,n){return e.apply(t,n)};c(HTMLIFrameElement,"contentWindow",v,m)}()},{4:4}],2:[function(e,t,n){var r=e(3);t.exports=r},{3:3}],3:[function(e,t,n){t.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,t,n){function r(e){var t=new XMLHttpRequest,n=[d.REPORTING_URL,e].join("");t.open("GET",n,!0),t.send()}function o(e){r("/adonis_error?e="+e.toString())}function i(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<d.REPORTING_RATE}function a(e,t){if(c(e),i()){var n={website:window.location.hostname,key:e};null!=t&&(n.quantity=t),r(["/adonis_event/?event=",JSON.stringify(n)].join(""))}}function c(e){var t={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};f.push(t)}function s(){u.defineReadOnlyProperty("adonisBootstrapTiming",f)}var d=e(2),u=e(5),f=[];t.exports={reportError:o,reportEvent:a,saveTiming:s,shouldReport:i}},{2:2,5:5}],5:[function(e,t,n){function r(e,t){Object.defineProperty(window,e,{value:t,writable:!1})}function o(e,t){return!t||Number(t)<=e}function i(e){var t=(new Date).getTime()/1e3;return o(t,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),t=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==t){var n=t[1],r=t[2],o=parseInt(r.split(".")[0]);if("chrome"===n&&o>=41||"firefox"===n&&o>=37)return!0}return!1},c=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};t.exports={isSupportedBrowser:a,defineReadOnlyProperty:r,ready:c,isExpired:o,isExpiredNow:i}},{}]},{},[1]);
+</script>
+
+		<div class="md-page-wrapper">
+
+        <header class="md-header hidden-xs">
+    <div class="grid no-gutter">
+
+
+        <div class="grid-xs-shrink md-header-thistle">
+            <a href="/">
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="/resources/images/shared/thistle-white-half.svg" alt="Britannica logo" />
+</a>
+        </div>
+
+
+        <div class="grid-xs" data-layout="column">
+
+
+            <div class="md-header-top-row grid no-gutter">
+
+                <div class="grid-xs middle-xs">
+                    <a href="/" class="font-logotype">Encyclop&aelig;dia Britannica</a>
+                </div>
+
+
+                <div class="grid-xs-shrink middle-xs">
+                    <div class="md-header-subscribe">
+                                <a href="https://safe1.britannica.com/registrations2/signup.do?partnerCode=EBOPPGSUB_LP_MDL_A" target="_blank">
+                                    <span>Subscribe</span>
+                                    <div class="md-header-subscribe-callout text-center ui-hidden">
+                                            <img src="https://safe.britannica.com/safeimages/subscriber-rollover-300x250-B" alt="Subscribe!"/>
+                                        </div>
+                                    </a>
+                            </div>
+                        <div class="md-header-user-actions text-center">
+                        <a href="#" class="login-link">Log In &middot; Join</a>
+                            </div>
+                </div>
+            </div>
+
+
+            <div class="md-header-bottom-row grid no-gutter md-header-gradient">
+
+
+                <div class="grid-xs middle-xs">
+                    <ul class="md-header-menu">
+                        <li><a href="/in-the-news">In the News</a></li>
+                        <li><a href="/spotlight">Spotlight</a></li>
+                        <li><a href="/demystified">Demystified</a></li>
+                        <li><a href="/quiz/browse">Quizzes</a></li>
+                        <li><a href="/gallery/browse">Galleries</a></li>
+                        <li><a href="/list/browse">Lists</a></li>
+                        <li><a href="/on-this-day">On This Day</a></li>
+                    </ul>
+                </div>
+
+
+                <div class="grid-xs-shrink middle-xs">
+                    <form method="get" action="/search" id="searchCriteria" class="">
+    <div class="search-box">
+        <label class="sr-only" for="header-query">Search</label>
+        <input name="query" type="text" id="header-query" placeholder="Search Britannica..." class="query"  maxlength="200"  />
+        <button type="submit" class="search-submit"><span class="sr-only">Click here to search</span> <em class="material-icons" data-icon="search"></em></button>
+    </div>
+</form>
+</div>
+            </div>
+        </div>
+    </div>
+
+
+    </header>
+
+<div id="content" class="md-content content-page">
+
+            <div class="md-article-container container">
+            <h1>American civil rights movement</h1><div class="md-byline-area">
+			<div class="md-byline">
+
+		<div class="written-by">
+				<div class="subhead">Written By:</div>
+
+				<a href="/contributor/Clayborne-Carson/5942199">Clayborne Carson</a>
+				</div>
+		<div class="last-updated hidden-xs">
+				<div class="subhead">Last Updated:</div>
+				<time>1-27-2017</time>
+				<a id="see-history" data-type="accordion-link" href="#Article-History" rel="nofollow">See Article History</a></div>
+		</div>
+</div>
+
+
+		<div class="md-article-content">
+
+			<div class="md-main-channels grid gutter-right">
+
+
+				<div class="md-center-channel grid-md">
+
+					<article>
+						<section data-level="intro" class="gutter-bottom" id="toc119368main"><div class="related-topics md-content-module-right grid-xs-ad-300">
+
+		<div class="md-ad gutter-bottom">
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+		<div style="width: 300px; height: 250px" data-refresh="true" id="div-gpt-ad-a9432416-1a7c-46a1-9ba2-4916ae52395a" data-slot="TOP" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
+		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-a9432416-1a7c-46a1-9ba2-4916ae52395a'); });</script>
+		</div>
+	
+
+
+</div>
+
+		<div class="hidden-xs">
+			<div class="subhead">Related Topics</div>
+			<ul class="dots gutter-bottom">
+				
+					<li>
+						<a href="/biography/John-Oliver-Killens">John Oliver Killens</a>
+					</li>
+				
+					<li>
+						<a href="/biography/Charlotta-Spears-Bass">Charlotta Spears Bass</a>
+					</li>
+				
+					<li>
+						<a href="/topic/Medical-Committee-for-Human-Rights">Medical Committee for Human Rights (MCHR)</a>
+					</li>
+				
+					<li>
+						<a href="/topic/African-American">African Americans</a>
+					</li>
+				
+					<li>
+						<a href="/event/March-on-Washington">March on Washington</a>
+					</li>
+				
+					<li>
+						<a href="/biography/Jesse-Jackson">Jesse Jackson</a>
+					</li>
+				
+					<li>
+						<a href="/place/the-South-region">the South</a>
+					</li>
+				
+					<li>
+						<a href="/biography/Martin-Luther-King-Jr">Martin Luther King, Jr.</a>
+					</li>
+				
+					<li>
+						<a href="/topic/social-movement">social movement</a>
+					</li>
+				
+					<li>
+						<a href="/place/United-States">United States</a>
+					</li>
+				
+			</ul>
+		</div>
+
+	</div><p class="md-content-block gutter-bottom firstpar"><strong><span class="srTitle">American civil rights movement</span></strong><strong>, </strong>mass protest movement against <a name="ref169162" id="ref169162" class="idxref"></a><a class="md-crosslink" href="/topic/racial-segregation"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/488135/racial-segregation">racial segregation</span></a> and <a href="https://www.merriam-webster.com/dictionary/discrimination" class="md-dictionary-link" data-term="discrimination">discrimination</a> in the southern <a class="md-crosslink" href="/place/United-States"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/616563/United-States">United States</span></a> that came to national prominence during the mid-1950s. This movement had its roots in the centuries-long efforts of African <a class="md-crosslink" href="/topic/Slave-people"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/548206/Slave">slaves</span></a> and their descendants to resist <a name="ref169165" id="ref169165" class="idxref"></a><a class="md-crosslink" href="/topic/racism"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/488187/racism">racial oppression</span></a> and abolish the institution of <a class="md-crosslink" href="/topic/slavery-sociology"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/548305/slavery">slavery</span></a>. Although American slaves were emancipated as a result of the <a class="md-crosslink" href="/event/American-Civil-War"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/19407/American-Civil-War">Civil War</span></a> and were then granted basic civil rights through the passage of the <a class="md-crosslink" href="/topic/Fourteenth-Amendment"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/215201/Fourteenth-Amendment">Fourteenth</span></a> and <a class="md-crosslink" href="/topic/Fifteenth-Amendment"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/206459/Fifteenth-Amendment">Fifteenth amendment</span></a>s to the <a class="md-crosslink" href="/topic/Constitution-of-the-United-States-of-America"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/134197/Constitution-of-the-United-States-of-America">U.S. Constitution</span></a>, struggles to secure federal protection of these rights continued during the next century. Through nonviolent protest, the civil rights movement of the 1950s and ’60s broke the pattern of public facilities’ being segregated by <a class="md-crosslink" href="/topic/race-human"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/488030/race">“race”</span></a> in the <a name="ref169163" id="ref169163" class="idxref"></a><a class="md-crosslink" href="/place/the-South-region"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/555542/the-South">South</span></a> and achieved the most important breakthrough in equal-rights legislation for <a class="md-crosslink" href="/topic/African-American"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/67474/African-Americans">African Americans</span></a> since the <a class="md-crosslink" href="/event/Reconstruction-United-States-history"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/493722/Reconstruction">Reconstruction</span></a> period (1865–77). Although the passage in 1964 and 1965 of major civil rights legislation was victorious for the movement, by then militant black activists had begun to see their struggle as a freedom or liberation movement not just seeking civil rights reforms but instead confronting the enduring economic, political, and cultural consequences of past racial oppression.</p><!--[END-1ST-PARA]--><div class="other-media gutter-bottom"><ul><li><figure><span data-id="9456" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/46/7546-004-7F54297C.jpg" alt="Martin Luther King, Jr. (centre), with other civil rights supporters at the March on Washington, D.C., in August 1963." data-width="550" data-height="379"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">Martin Luther King, Jr. (centre), with other civil rights supporters at the March on Washington, …</div><div class="credit"><em>UPI/Bettmann/Corbis</em></div></div></figcaption></figure></li></ul></div></section><section class="gutter-bottom" data-level="1" id="toc288196"><h2 class="h2">Abolitionism to Jim Crow</h2><a href="/place/United-States/The-Kennedy-and-Johnson-administrations#ref1133848" class="major-reference md-content-module-left grid-md-shrink visible-lg visible-md">
+		<div class="subhead">Read More on This Topic</div>
+		<div class="image-wrapper">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="https://media1.britannica.com/eb-media//33/4833-004-EB8E7F6C.jpg" alt="" />
+<div class="title">United States: The civil rights movement</div>
+		</div>
+	</a><p class="md-content-block gutter-bottom">American history has been marked by persistent and determined efforts to expand the scope and inclusiveness of civil rights. Although <a class="md-crosslink" href="/topic/equality-human-rights"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/275667/equality">equal rights</span></a> for all were affirmed in the founding documents of the United States, many of the new country’s inhabitants were denied essential rights. African slaves and indentured servants did not have the inalienable right to “life, liberty, and the pursuit of happiness” that British colonists asserted to justify their <a class="md-crosslink" href="/topic/Declaration-of-Independence"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/285012/Declaration-of-Independence">Declaration of Independence</span></a>. Nor were they included among the “People of the United States” who established the Constitution in order to “promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity.” Instead, the Constitution protected slavery by allowing the importation of slaves until 1808 and providing for the return of slaves who had escaped to other states.</p><div class="other-media gutter-bottom"><ul><li><figure><span data-id="94617" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/42/97342-004-F74CD325.jpg" alt="Image of the Declaration of Independence (1776) taken from an engraving made by printer William J. Stone in 1823." data-width="379" data-height="450"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">Image of the Declaration of Independence (1776) taken from an engraving made by printer William J. …</div><div class="credit"><em>National Archives, Washington, D.C.</em></div></div></figcaption></figure></li></ul></div><div class="similar-topics md-content-module-right grid-xs-ad-300">
+
+		<div class="md-ad gutter-bottom">
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+		<div style="width: 300px; height: 250px" data-refresh="true" id="div-gpt-ad-16614c76-2cad-417d-8ffb-d7d77d38c68c" data-slot="BOT" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
+		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-16614c76-2cad-417d-8ffb-d7d77d38c68c'); });</script>
+		</div>
+	
+
+
+</div>
+
+		<div class="hidden-xs">
+			<div class="subhead">Similar Topics</div>
+			<ul class="dots gutter-bottom">
+				
+					<li>
+						<a href="/event/Boston-Tea-Party">Boston Tea Party</a>
+					</li>
+				
+					<li>
+						<a href="/topic/environmental-justice">environmental justice</a>
+					</li>
+				
+					<li>
+						<a href="/event/Granger-movement">Granger movement</a>
+					</li>
+				
+					<li>
+						<a href="/event/Antirent-War">Antirent War</a>
+					</li>
+				
+					<li>
+						<a href="/event/Luddite">Luddite</a>
+					</li>
+				
+					<li>
+						<a href="/event/Sons-of-Liberty-United-States-history-18th-century">Sons of Liberty</a>
+					</li>
+				
+					<li>
+						<a href="/event/militia-movement">militia movement</a>
+					</li>
+				
+					<li>
+						<a href="/event/Chartism-British-history">Chartism</a>
+					</li>
+				
+					<li>
+						<a href="/event/noncooperation-movement">noncooperation movement</a>
+					</li>
+				
+					<li>
+						<a href="/event/black-nationalism">black nationalism</a>
+					</li>
+				
+			</ul>
+		</div>
+
+	</div><p class="md-content-block gutter-bottom">As the United States expanded its boundaries, <a class="md-crosslink" href="/topic/Native-American"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/1357826/Native-American">Native American</span></a> peoples resisted conquest and absorption. Individual states, which determined most of the rights of American <a class="md-crosslink" href="/topic/citizenship"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/118828/citizenship">citizens</span></a>, generally limited <a class="md-crosslink" href="/topic/suffrage"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/571785/suffrage">voting rights</span></a> to white property-owning males, and other rights—such as the right to own land or serve on juries—were often denied on the basis of racial or gender distinctions. A small proportion of African Americans lived outside the <a class="md-crosslink" href="/topic/Slave-people"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/548206/Slave">slave</span></a> system, but those so-called “free blacks” endured racial discrimination and enforced <a class="md-crosslink" href="/topic/racial-segregation"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/488135/racial-segregation">segregation</span></a>. Although some slaves violently rebelled against their enslavement (<em>see</em><a class="md-crosslink" href="/topic/slave-rebellions"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/548231/slave-rebellions"> slave rebellions</span></a>), African Americans and other subordinated groups mainly used nonviolent means—protests, legal challenges, pleas and petitions addressed to government officials, as well as sustained and massive civil rights movements—to achieve gradual improvements in their status.</p><p class="md-content-block gutter-bottom">During the first half of the 19th century, movements to extend voting rights to non-property-owning white male labourers resulted in the elimination of most property qualifications for voting, but this expansion of suffrage was accompanied by brutal suppression of American Indians and increasing restrictions on free blacks. Slave owners in the South reacted to the 1831 <a class="md-crosslink" href="/biography/Nat-Turner"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/610295/Nat-Turner">Nat Turner</span></a> slave revolt in <a class="md-crosslink" href="/place/Virginia-state"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/629964/Virginia">Virginia</span></a> by passing laws to discourage antislavery activism and prevent the teaching of <a class="md-crosslink" href="/topic/Slave-people"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/548206/Slave">slaves</span></a> to read and write. Despite this repression, a growing number of <a class="md-crosslink" href="/topic/African-American"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/67474/African-Americans">African Americans</span></a> freed themselves from slavery by escaping or negotiating agreements to purchase their freedom through wage labour. By the 1830s, free black <a href="https://www.merriam-webster.com/dictionary/communities" class="md-dictionary-link" data-term="communities">communities</a> in the Northern states had become sufficiently large and organized to hold regular national conventions, where black leaders gathered to discuss <a href="https://www.merriam-webster.com/dictionary/alternative" class="md-dictionary-link" data-term="alternative">alternative</a> strategies of racial advancement. In 1833 a small minority of whites joined with black antislavery activists to form the <a class="md-crosslink" href="/topic/American-Anti-Slavery-Society"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/19269/American-Anti-Slavery-Society">American Anti-Slavery Society</span></a> under the leadership of <a class="md-crosslink" href="/biography/William-Lloyd-Garrison"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/226208/William-Lloyd-Garrison">William Lloyd Garrison</span></a>.</p><div class="other-media gutter-bottom"><ul><li><figure><span data-id="126200" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/54/61854-004-A97C62D3.jpg" alt="Nat Turner." data-width="470" data-height="450"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">Wood engraving depicting Nat Turner (left), who in 1831 led the only effective slave rebellion in …</div><div class="credit"><em>Library of Congress, Washington, D.C.</em></div></div></figcaption></figure></li><li><figure><span data-id="10958" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/72/24772-004-EA405928.jpg" alt="William Lloyd Garrison." data-width="342" data-height="450"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">William Lloyd Garrison.</div><div class="credit"><em>Library of Congress, Washington, D.C.</em></div></div></figcaption></figure></li><li><figure><span data-id="111684" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/61/70761-004-AC3B319C.jpg" alt="Frederick Douglass." data-width="360" data-height="450"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">Frederick Douglass.</div><div class="credit"><em>Library of Congress, Washington, D.C.</em></div></div></figcaption></figure></li><li><figure><span data-id="95080" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/65/99065-004-978D70AB.jpg" alt="Newspaper notice for a pamphlet on the U.S. Supreme Court’s Dred Scott decision." data-width="236" data-height="450"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">Newspaper notice for a pamphlet on the U.S. Supreme Court’s Dred Scott decision.</div><div class="credit"><em>Library of Congress, ng. No. LC-USZ62-132561</em></div></div></figcaption></figure></li><li><figure><span data-id="125669" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/07/125507-004-2D1BE8D4.jpg" alt="Flag banner promoting Abraham Lincoln for the presidency in 1860. " data-width="550" data-height="353"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">An American flag banner promoting Abraham Lincoln for the U.S. presidency in 1860.</div><div class="credit"><em>The Granger Collection, New York</em></div></div></figcaption></figure></li></ul></div><div class="md-sidebar-news-features md-content-module-right grid-xs-ad-300">
+
+		<div class="md-ad gutter-bottom">
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+		<div style="width: 300px; height: 250px" data-refresh="true" id="div-gpt-ad-05520cf1-4708-4a29-b3cc-38988c306ec9" data-slot="BOT2" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
+		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-05520cf1-4708-4a29-b3cc-38988c306ec9'); });</script>
+		</div>
+	
+
+
+</div>
+
+		<div class="hidden-xs gutter-bottom">
+
+			<div class="subhead">
+				Britannica Stories</div>
+
+			<ul>
+				<li>
+						<a href="/in-the-news/spacex-launches-reused-rocket" class="IN_THE_NEWS grid no-gutter">
+							<div class="grid-xs middle-xs">
+								<div>
+									<div class="md-story-title">In The News / Technology</div>
+									SpaceX Launches Reused Rocket</div>
+							</div>
+							<div class="grid-xs-shrink middle-xs">
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="https://media1.britannica.com/eb-media/35/194535-117-753ABF81.jpg"  alt="SES-10 Launch - world’s first reflight of an orbital class rocket, May 30 2017" />
+</div>
+						</a>
+					</li>
+				<li>
+						<a href="/demystified/can-you-drink-water-from-a-cactus" class="DEMYSTIFIED grid no-gutter">
+							<div class="grid-xs middle-xs">
+								<div>
+									<div class="md-story-title">Demystified / Food</div>
+									Can You Drink Water from a Cactus?</div>
+							</div>
+							<div class="grid-xs-shrink middle-xs">
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="https://media1.britannica.com/eb-media/40/193840-117-752B07A8.jpg"  alt="Saguaro cacti grow in Saguaro National Park, near Tucson, Arizona." />
+</div>
+						</a>
+					</li>
+				<li>
+						<a href="/spotlight/cannibalism-cultures-cures-cuisine-and-calories" class="SPOTLIGHT grid no-gutter">
+							<div class="grid-xs middle-xs">
+								<div>
+									<div class="md-story-title">Spotlight / Society</div>
+									Cannibalism: Cultures, Cures, Cuisine, and Calories</div>
+							</div>
+							<div class="grid-xs-shrink middle-xs">
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="https://media1.britannica.com/eb-media/35/136035-117-543DF655.jpg"  alt="Human cannibalism, engraving by Theodor de Bry. " />
+</div>
+						</a>
+					</li>
+				<li>
+						<a href="/in-the-news/good-news-for-manatees" class="IN_THE_NEWS grid no-gutter">
+							<div class="grid-xs middle-xs">
+								<div>
+									<div class="md-story-title">In The News / Animals</div>
+									Good News for Manatees?</div>
+							</div>
+							<div class="grid-xs-shrink middle-xs">
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="https://media1.britannica.com/eb-media/34/194534-117-0F96DCB2.jpg"  alt="Florida Manatee in Crystal River sanctuary" />
+</div>
+						</a>
+					</li>
+				</ul>
+
+            <div class="text-right">
+	            </div>
+		</div>
+
+	</div><p class="md-content-block gutter-bottom"><a class="md-crosslink" href="/biography/Frederick-Douglass"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/170246/Frederick-Douglass">Frederick Douglass</span></a> became the most famous of the ex-slaves who joined the <a class="md-crosslink" href="/topic/abolitionism-European-and-American-social-movement"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/1448/abolitionism">abolition movement</span></a>. His autobiography—one of many <a class="md-crosslink" href="/art/slave-narrative"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/548224/slave-narrative">slave narratives</span></a>—and his stirring orations heightened public awareness of the horrors of slavery. Although black leaders became increasingly militant in their attacks against slavery and other forms of racial oppression, their efforts to secure equal rights received a major setback in 1857, when the U.S. <a class="md-crosslink" href="/topic/Supreme-Court-of-the-United-States"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/574815/Supreme-Court-of-the-United-States">Supreme Court</span></a> rejected African American <a class="md-crosslink" href="/topic/citizenship"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/118828/citizenship">citizenship</span></a> claims. The <a class="md-crosslink" href="/event/Dred-Scott-decision"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/171273/Dred-Scott-decision">Dred Scott decision</span></a> stated that the country’s founders had viewed blacks as so inferior that they had “no rights which the white man was bound to respect.” This ruling—by declaring unconstitutional the <a class="md-crosslink" href="/event/Missouri-Compromise"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/385744/Missouri-Compromise">Missouri Compromise</span></a> (1820), through which <a class="md-crosslink" href="/topic/Congress-of-the-United-States"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/132602/Congress-of-the-United-States">Congress</span></a> had limited the expansion of slavery into western territories—ironically strengthened the antislavery movement, because it angered many <a class="md-crosslink" href="/topic/Caucasian-peoples"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/100262/Caucasian-peoples">whites</span></a> who did not own slaves. The inability of the country’s political leaders to resolve that dispute fueled the successful presidential campaign of <a class="md-crosslink" href="/biography/Abraham-Lincoln"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/341682/Abraham-Lincoln">Abraham Lincoln</span></a>, the candidate of the antislavery <a class="md-crosslink" href="/topic/Republican-Party"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/498842/Republican-Party">Republican Party</span></a>. Lincoln’s victory in turn prompted the Southern slave states to secede and form the <a class="md-crosslink" href="/topic/Confederate-States-of-America"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/131803/Confederate-States-of-America">Confederate States of America</span></a> in 1860–61.</p><a href="/quiz/history-buff-quiz" class="test-your-knowledge md-content-module-left grid-md-shrink visible-lg visible-md">
+		<div class="subhead">Test Your Knowledge</div>
+		<div class="image-wrapper">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/19/153419-118-F5EF4ED0.jpg" alt="Ruins of statues at Karnak, Egypt." />
+	
+<div class="title">History Buff Quiz</div>
+		</div>
+	</a><p class="md-content-block gutter-bottom">Although Lincoln did not initially seek to abolish slavery, his determination to punish the rebellious states and his increasing reliance on black soldiers in the Union army prompted him to issue the <a class="md-crosslink" href="/event/Emancipation-Proclamation"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/185468/Emancipation-Proclamation">Emancipation Proclamation </span></a> (1863) to deprive the Confederacy of its slave <a class="md-crosslink" href="/topic/property-legal-concept"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/479008/property">property</span></a>. After the <a class="md-crosslink" href="/event/American-Civil-War"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/19407/American-Civil-War">American Civil War</span></a> ended, Republican leaders cemented the Union victory by gaining the ratification of <a href="https://www.merriam-webster.com/dictionary/constitutional" class="md-dictionary-link" data-term="constitutional">constitutional</a> <a href="https://www.merriam-webster.com/dictionary/amendments" class="md-dictionary-link" data-term="amendments">amendments</a> to abolish slavery (<a class="md-crosslink" href="/topic/Thirteenth-Amendment"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/592556/Thirteenth-Amendment">Thirteenth Amendment</span></a>) and to protect the legal equality of ex-slaves (<a class="md-crosslink" href="/topic/Fourteenth-Amendment"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/215201/Fourteenth-Amendment">Fourteenth Amendment</span></a>) and the voting rights of male ex-slaves (<a class="md-crosslink" href="/topic/Fifteenth-Amendment"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/206459/Fifteenth-Amendment">Fifteenth Amendment</span></a>). Despite those constitutional guarantees of rights, almost a century of civil rights agitation and litigation would be required to bring about consistent federal enforcement of those rights in the former Confederate states. Moreover, after federal military forces were removed from the South at the end of <a class="md-crosslink" href="/event/Reconstruction-United-States-history"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/493722/Reconstruction">Reconstruction</span></a>, white leaders in the region enacted new laws to strengthen the “<a name="ref1224308" id="ref1224308" class="idxref"></a><a class="md-crosslink" href="/event/Jim-Crow-law"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/303897/Jim-Crow-law">Jim Crow</span></a>” system of racial segregation and discrimination. In its <a class="md-crosslink" href="/event/Plessy-v-Ferguson"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/464679/Plessy-v-Ferguson"><em>Plessy</em> v. <em>Ferguson</em></span></a> decision (1896), the Supreme Court ruled that “separate but equal” facilities for African Americans did not violate the Fourteenth <a href="https://www.merriam-webster.com/dictionary/Amendment" class="md-dictionary-link" data-term="Amendment">Amendment</a>, ignoring evidence that the facilities for blacks were inferior to those intended for whites.</p><div class="other-media gutter-bottom"><ul><li><figure><span data-id="12624" data-type="image" class="media-overlay-link middle-xs center-xs"><div class="image-wrapper"><img src="https://media1.britannica.com/eb-media/43/2143-004-E21119B2.jpg" alt="Emancipation Proclamation, 1863." data-width="277" data-height="450"><em class="material-icons" data-icon="zoom_in"></em></div></span><figcaption class="text-center"><div class="description"><div class="description-text">Emancipation Proclamation, 1863.</div><div class="credit"><em>The Granger Collection, New York</em></div></div></figcaption></figure></li></ul></div><div class="connect md-content-module-right grid-xs-ad-300 text-center ">
+
+	<div class="md-ad gutter-bottom">
+			<div class="google-ad-iframe" data-refresh="false" data-info="passback ARTICLE_RR">
+<script type="text/javascript">
+	
+	googletag.cmd.push( function() {
+		googletag.pubads().definePassback( '34444486/EB_HOUSE/ARTICLE_RR', [300,250] )
+		
+		.display();
+	});
+</script>
+</div>
+</div>
+	<div class="hidden-xs gutter-bottom">
+		<div class="subhead md-blue">Connect with Britannica</div>
+		<div class="md-social-toolbar-circle center-xs inverted"
+     data-value="connect"
+     
+>
+    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
+    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
+    <a class="ui-icon-youtube-play center-xs middle-xs" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank"><span>YouTube</span></a>
+    <a class="ui-icon-instagram center-xs middle-xs" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank"><span>Instagram</span></a>
+    <a class="ui-icon-pinterest center-xs middle-xs" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank"><span>Pinterest</span></a>
+    </div></div>
+
+</div><p class="md-content-block gutter-bottom">The Southern system of <a class="md-crosslink" href="/topic/white-supremacy"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/642638/white-supremacy">white supremacy</span></a> was accompanied by the expansion of European and American imperial control over nonwhite people in Africa and Asia as well as in island countries of the Pacific and Caribbean regions. Like African Americans, most nonwhite people throughout the world were colonized or economically exploited and denied basic rights, such as the right to vote. With few exceptions, women of all races everywhere were also denied suffrage rights (<em>see</em> <a class="md-crosslink" href="/topic/woman-suffrage"><span property="about" href="https://semantic.britannica.com/accepted_headword/core/646779/woman-suffrage">woman suffrage</span></a>).</p></section><div class="md-pagination">
+    <div class="grid no-gutter middle-xs">
+
+        <div class="pagination-control grid-xs" data-value="previous">
+            </div>
+
+        <div class="pagination-page-count grid-xs-shrink middle-xs">
+            Page 1 of 4</div>
+
+        <div class="pagination-control grid-xs text-right" data-value="next">
+            <a class="grid no-gutter middle-xs" href="/event/American-civil-rights-movement/Du-Bois-to-Brown">
+                    <div class="pagination-label grid-xs">
+                        <small>Next page</small>
+                        Du Bois to Brown</div>
+                    <div class="pagination-arrow grid-xs-shrink middle-xs">
+                        <em class="material-icons md-36" data-icon="keyboard_arrow_right"></em>
+                    </div>
+                </a>
+            </div>
+
+    </div>
+</div>
+
+</article>
+
+
+                    <div class="md-content-footer">
+                        <h2>Additional Media</h2>
+	<div class="md-view-all-media">
+		<a href="/event/American-civil-rights-movement/images-videos" class="view-all center-xs middle-xs">
+				<div class="text text-center">
+					View<br />
+					all<br />
+					media
+				</div>
+				<em class="material-icons md-36" data-icon="chevron_right"></em>
+			</a>
+		<a href="/event/American-civil-rights-movement?oasmId=145969" class="media-overlay-link" data-id="145969">
+				
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="video-wrapper">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/79/136879-049-432B8718.jpg" alt="South Carolina Gov. Strom Thurmond and civil rights activist Joseph L. Rauh commenting on the significance of the Dixiecrats’ states’ rights campaign during the 1948 U.S. presidential election." />
+	
+
+			 <em class="material-icons" data-icon="play_circle_outline"></em>
+			
+		</div>
+	
+	
+	
+
+
+
+
+
+</a>
+		<a href="/event/American-civil-rights-movement?oasmId=158658" class="media-overlay-link" data-id="158658">
+				
+
+
+
+
+
+
+
+
+
+
+	
+        <div class="image-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/25/143125-004-C08DDBFE.jpg"  alt="Second page of Executive Order 9981, signed by U.S. Pres. Harry Truman, July 26, 1948. The order desegregated the U.S. armed forces." />
+	
+
+        </div>
+	
+	
+	
+	
+
+
+
+
+
+</a>
+		<a href="/event/American-civil-rights-movement?oasmId=154604" class="media-overlay-link" data-id="154604">
+				
+
+
+
+
+
+
+
+
+
+
+	
+        <div class="image-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/76/146476-004-EA00AFF3.jpg"  alt="American civil rights leaders meeting with government officials at the White House on the day of the March on Washington, Aug. 28, 1963. From left to right, Secretary of Labor Willard Wirtz, Mathew Ahmann, Martin Luther King, Jr., John Lewis, Joachim Prinz, Eugene Carson Blake, A. Philip Randolph, Pres. John F. Kennedy, Vice Pres. Lyndon B. Johnson, Walter Reuther, Whitney M. Young, Jr., and Floyd McKissick." />
+	
+
+        </div>
+	
+	
+	
+	
+
+
+
+
+
+</a>
+		<a href="/event/American-civil-rights-movement?oasmId=155054" class="media-overlay-link" data-id="155054">
+				
+
+
+
+
+
+
+
+
+
+
+	
+        <div class="image-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/92/71292-004-1E4B050A.jpg"  alt="Martin Luther King, Jr., addresses the crowd during the March on Washington on Aug. 28, 1963." />
+	
+
+        </div>
+	
+	
+	
+	
+
+
+
+
+
+</a>
+		<a href="/event/American-civil-rights-movement?oasmId=61013" class="media-overlay-link" data-id="61013">
+				
+
+
+
+
+
+
+
+
+
+
+	
+        <div class="image-wrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/27/71327-004-097371FD.jpg"  alt="African American students walking onto the campus of Central High School in Little Rock, Arkansas, escorted by the National Guard, September 1957." />
+	
+
+        </div>
+	
+	
+	
+	
+
+
+
+
+
+</a>
+		</div>
+
+<div class="md-more-about">
+		<h2>More about <span>American civil rights movement</span></h2>
+		<div class="gisted-more-about md-content-block">
+			<div class="md-more-about-subtitle">59 References found in Britannica Articles</div><div class="index-entry-main"><strong>Assorted References</strong></div><ul class="dots"><li>major reference
+		(<em>in </em><a href="/place/United-States/The-Kennedy-and-Johnson-administrations#ref1133848">United States: The civil rights movement</a>)
+	
+		(<em>in </em><a href="/topic/African-American/The-civil-rights-movement#ref1118994">African Americans: The civil rights movement</a>)
+	</li><li>16th Street Baptist Church bombing
+		(<em>in </em><a href="/event/16th-Street-Baptist-Church-bombing#ref1076397">16th Street Baptist Church bombing</a>)
+	</li><li>African American literature
+		(<em>in </em><a href="/art/African-American-literature/The-advent-of-urban-realism#ref793871">African American literature: The literature of civil rights</a>)
+	</li><li>African Americans
+		(<em>in </em><a href="/place/United-States/People#ref613455">United States: African Americans</a>)
+	</li><li>civil disobedience
+		(<em>in </em><a href="/topic/civil-disobedience#ref1167134">civil disobedience</a>)
+	</li><li>effect on racial segregation
+		(<em>in </em><a href="/topic/racial-segregation#ref58251">racial segregation</a>)
+	</li><li>history of civil rights movements
+		(<em>in </em><a href="/topic/civil-rights#ref1181551">civil rights: The American civil rights movement</a>)
+	</li><li>March on Washington
+		(<em>in </em><a href="/event/March-on-Washington#ref1072636">March on Washington</a>)
+	</li><li>monument by Lin
+		(<em>in </em><a href="/biography/Maya-Lin#ref667979">Maya Lin</a>)
+	</li></ul><div class="more-index text-center gutter-bottom"><button class="md-button more-about-more">View More</button></div></div>
+		<div class="full-more-about md-content-block template-ajax-loaded-content"></div>
+		</div>
+
+<div class="md-info-accordion" data-layout="column">
+
+		<h2 id="Additional-Reading" class="md-accordion-title  no-ad" data-url="/ajax/topic/119368/article-bibliography">Additional Reading</h2>
+			<div class="md-accordion md-content-block template-ajax-loaded-content BIBLIOGRAPHY"></div>
+		<h2 id="External-Links" class="md-accordion-title  no-ad" data-url="/ajax/topic/119368/article-websites">External Links</h2>
+			<div class="md-accordion md-content-block template-ajax-loaded-content WEBSITES"><div class="gutter-bottom">
+        <ul class="md-external-websites">
+        <li>
+                <a href="http://www.jfklibrary.org/JFK/JFK-in-History/Civil-Rights-Movement.aspx" target="_blank" rel="nofollow">John F. Kennedy Presidential Library and Museum - Civil Rights Movement</a>
+            </li>
+        <li>
+                <a href="http://www.georgiaencyclopedia.org/articles/history-archaeology/civil-rights-movement" target="_blank" rel="nofollow">New Georgia Encyclopedia - History and Archaeology - Civil Rights Movement</a>
+            </li>
+        <li>
+                <a href="http://illinois.pbslearningmedia.org/resource/americon-vid-rosa-parks/video/" target="_blank" rel="nofollow">PBS LearningMedia - Rosa Parks</a>
+            </li>
+        <li>
+                <a href="http://www.pbs.org/wgbh/americanexperience/freedomriders/" target="_blank" >Public Broadcasting Service - American Experience - Freedom Riders</a>
+            </li>
+        <li>
+                <a href="http://www.smithsonianchannel.com/videos/mlk-the-assassination-tapes/20111/playlist/1199718" target="_blank" rel="nofollow">Smithsonian Channel - MLK&#x2019;s Last Speech</a>
+            </li>
+        <li>
+                <a href="http://www.smithsonianchannel.com/videos/seeds-of-revolt/35698/playlist/1199718" target="_blank" rel="nofollow">Smithsonian Channel - To Shatter the Foundations of White Supremacy</a>
+            </li>
+        <li>
+                <a href="http://www.smithsonianchannel.com/videos/what-some-of-the-most-important-civil-rights-sites-look-like-today/51554?auto=true" target="_blank" rel="nofollow">Smithsonian Channel - What Some of the Most Important Civil Rights Sites Look Like Today</a>
+            </li>
+        <li>
+                <a href="http://www.smithsonianchannel.com/videos/alabama/18700/playlist/1199718?an=civil-rights-leaders-you-should-know" target="_blank" rel="nofollow">Smithsonian Channel - Where Rosa Parks Inspired a Nation</a>
+            </li>
+        <li>
+                <a href="http://www.historylearningsite.co.uk/the-civil-rights-movement-in-america-1945-to-1968/" target="_blank" rel="nofollow">The History Learning Site - The Civil Rights Movement in America 1945 to 1968</a>
+            </li>
+        </ul>
+    </div>
+
+<h3 class="md-topic-subpage-title">Britannica Web sites</h3>
+    <p class="bps-topic-student-sites">Articles from Britannica encyclopedias for elementary and high school students.</p><dl class="bps-topic-web-sites bps-lk-student"><dt><a href="http://kids.britannica.com/ebk/article-9403522/civil-rights-movement" target="_blank">civil rights movement - Children's Encyclopedia (Ages 8-11)</a></dt><dd><p>The rights of a country’s citizens are called civil rights. Many African Americans were denied full civil rights for about 100 years after the end of slavery. The struggle for those rights, especially in the 1950s and 1960s, is known as the civil rights movement.</p></dd><dt><a href="http://kids.britannica.com/ebi/article-9310706/civil-rights-movement" target="_blank">civil rights movement - Student Encyclopedia (Ages 11 and up)</a></dt><dd><p>The mass movement for racial equality in the United States known as the civil rights movement started in the late 1950s. Through nonviolent protest actions, it broke through the pattern of racial segregation, the practice in the South through which black Americans were not allowed to use the same schools, churches, restaurants, buses, and other facilities as white Americans. The movement also achieved the passage of landmark equal-rights laws in the mid-1960s intended to end discrimination against people because of their race. This article provides an overview of some of the main events of the civil rights movement. To read about the movement in greater depth in its historical context, see Black Americans.</p></dd></dl></div>
+		<h2 id="Article-Contributors" class="md-accordion-title  no-ad" data-url="/ajax/topic/119368/article-contributors">Article Contributors</h2>
+			<div class="md-accordion md-content-block template-ajax-loaded-content CONTRIBUTORS"></div>
+		<h2 id="Article-History" class="md-accordion-title  no-ad" data-url="/ajax/topic/119368/article-history">Article History</h2>
+			<div class="md-accordion md-content-block template-ajax-loaded-content HISTORY"></div>
+		</div>
+
+<div class="footer-feedback-link md-link">
+    <div class="md-feedback-cta grid no-gutter">
+        <div class="feedback grid-xs-shrink middle-xs">
+            <div class="title">
+                 <em class="material-icons" data-icon="chat"></em>
+                Feedback
+            </div>
+        </div>
+        <div class="description grid-xs">
+            <span>Corrections? Updates? Help us improve this article!</span>
+            <span>Contact our editors with your feedback.</span>
+        </div>
+    </div>
+</div>
+</div>
+
+				</div>
+
+				<aside class="grid-xs-ad-300 hidden-md"></aside>
+
+			</div>
+
+		</div></div>
+
+		<div class="footer-ad">
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+		<div style="width: 728px; height: 90px" data-refresh="true" id="div-gpt-ad-2f2a615c-e27b-4316-b25a-321d3fd353da" data-slot="BOT" class="google-ad-iframe ui-hide-on-modal " adonis-marker>
+		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-2f2a615c-e27b-4316-b25a-321d3fd353da'); });</script>
+		</div>
+	
+
+
+</div>
+	    <div class="md-toc-panel">
+    <ul class="toc-ul"><li class="lv1" data-section="119368main" data-toc="toc119368main"><a href="/event/American-civil-rights-movement#toc119368main">Introduction</a></li><li class="lv1" data-section="119368main" data-toc="toc288196"><a href="/event/American-civil-rights-movement#toc288196">Abolitionism to Jim Crow</a></li><li class="lv1" data-section="288197" data-toc="toc288197"><a href="/event/American-civil-rights-movement/Du-Bois-to-Brown">Du Bois to <em>Brown</em></a></li><li class="lv1" data-section="288198" data-toc="toc288198"><a href="/event/American-civil-rights-movement/Montgomery-bus-boycott-to-the-Voting-Rights-Act">Montgomery bus boycott to the Voting Rights Act</a></li><li class="lv1" data-section="288199" data-toc="toc288199"><a href="/event/American-civil-rights-movement/From-black-power-to-the-assassination-of-Martin-Luther-King">From black power to the assassination of Martin Luther King</a></li><li class="lv1" data-section="288199" data-toc="toc288200"><a href="/event/American-civil-rights-movement/From-black-power-to-the-assassination-of-Martin-Luther-King#toc288200">Into the 21st century</a></li></ul></div></div>
+
+    </div>
+
+    <div class="md-article-pinboard md-pinboard">
+    <div class="container">
+        <h2>Keep Exploring Britannica</h2>
+        <div class="pinboard">
+            <a href="/biography/Mahatma-Gandhi" class="item topic" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/91/82291-004-B396E162.jpg" alt="Mahatma Gandhi." />
+	
+<div class="content">
+            <div class="title">Mahatma Gandhi</div>
+            <div class="description">Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India. As such, he came to be considered the father of his country....</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/biography/Mao-Zedong" class="item topic" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/10/75510-004-E0DA2DE8.jpg" alt="Mao Zedong." />
+	
+<div class="content">
+            <div class="title">Mao Zedong</div>
+            <div class="description">principal Chinese Marxist theorist, soldier, and statesman who led his country’s communist revolution. Mao was the leader of the Chinese Communist Party (CCP) from 1935 until his death, and he was chairman...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/list/7-drugs-that-changed-the-world" class="item list" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/53/143753-118-7EEEEC09.jpg" alt="Aspirin pills." />
+	
+<div class="content">
+            <div class="title">7 Drugs that Changed the World</div>
+            <div class="description">People have swallowed elixirs, inhaled vapors, and applied ointments in the name of healing for millennia. But only a small number of substances can be said to have fundamentally revolutionized medicine....</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this List<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/topic/United-Nations" class="item topic" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/51/73451-004-DB661A13.jpg" alt="First session of the United Nations General Assembly, January 10, 1946, at the Central Hall in London." />
+	
+<div class="content">
+            <div class="title">United Nations (UN)</div>
+            <div class="description">UN international organization established on October 24, 1945. The United Nations (UN) was the second multipurpose international organization established in the 20th century that was worldwide in scope...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/quiz/all-american-history-quiz" class="item quiz" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/09/153009-118-54D78EEC.jpg" alt="Washington Monument. Washington Monument and fireworks, Washington DC. The Monument was built as an obelisk near the west end of the National Mall to commemorate the first U.S. president, General George Washington." />
+	
+<div class="content">
+            <div class="title">All-American History Quiz</div>
+            <div class="description">Take this history quiz at Encyclopedia Britannica to test your knowledge of United States history.</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Take this Quiz<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/list/10-milestones-in-us-civil-rights-history" class="item list" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/67/148867-118-BCD95436.jpg" alt="Selma March, Alabama, March 1965." />
+	
+<div class="content">
+            <div class="title">Riding Freedom: 10 Milestones in U.S. Civil Rights History</div>
+            <div class="description">On May 4, 1961 a group of seven African Americans and six whites left Washington, D.C., on the first Freedom Ride in two buses bound for New Orleans. They were hoping to provoke the federal government...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this List<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/topic/To-Kill-a-Mockingbird" class="item topic" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/21/182021-004-532121B3.jpg" alt="This book cover is one of many given to Harper Lee’s classic work To Kill a Mockingbird (1960). The novel won a Pulitzer Prize in 1961 and the next year was made into an Academy Award-winning film. " />
+	
+<div class="content">
+            <div class="title">To Kill a Mockingbird</div>
+            <div class="description">novel by Harper Lee, published in 1960. An enormously popular novel, it was translated into some 40 languages and sold more than 30 million copies worldwide, and it won a Pulitzer Prize in 1961. The novel...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/quiz/american-history-and-politics" class="item quiz" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/43/97343-118-80C6A102.jpg" alt="Original copy of the Constitution of the United States of America, housed in the National Archives in Washington, D.C." />
+	
+<div class="content">
+            <div class="title">American History and Politics</div>
+            <div class="description">Take this Political Science quiz at encyclopedia britannica to test your knowledge of American politics.</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Take this Quiz<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/biography/Christopher-Columbus" class="item topic" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/24/129224-004-69015036.jpg" alt="Christopher Columbus." />
+	
+<div class="content">
+            <div class="title">Christopher Columbus</div>
+            <div class="description">master navigator and admiral whose four transatlantic voyages (1492–93, 1493–96, 1498–1500, and 1502–04) opened the way for European exploration, exploitation, and colonization of the Americas. He has...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/quiz/journey-around-the-world" class="item quiz" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/42/171642-118-114B4A60.jpg" alt="McDonald’s Corporation. Franchise organizations. McDonald’s store #1, Des Plaines, Illinois. McDonald’s Store Museum, replica of restaurant opened by Ray Kroc, April 15, 1955. Now largest fast food chain in the United States." />
+	
+<div class="content">
+            <div class="title">Journey Around the World</div>
+            <div class="description">Take this World History quiz at encyclopedia britannica to test your knowledge of the world’s first national park, the world’s oldest university, the world’s first McDonald’s restaurant, and other geographic...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Take this Quiz<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/list/10-deadly-animals-that-could-fit-in-your-breadbox" class="item list" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/17/157817-118-0358AECB.jpg" alt="Mosquito on human skin." />
+	
+<div class="content">
+            <div class="title">10 Deadly Animals that Fit in a Breadbox</div>
+            <div class="description">Everybody knows that big animals can be deadly. Lions, for instance, have sharp teeth and claws and are good at chasing down their prey. Shark Week always comes around and reminds us that although shark...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this List<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ <a href="/topic/Loving-v-Virginia" class="item topic" data-more="true">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<img src="https://media1.britannica.com/eb-media/29/193929-004-C251AFDA.jpg" alt="Mildred and Richard Loving, 1958." />
+	
+<div class="content">
+            <div class="title">Loving v. Virginia</div>
+            <div class="description">legal case, decided on June 12, 1967, in which the U.S. Supreme Court unanimously (9–0) struck down state antimiscegenation statutes in Virginia as unconstitutional under the equal protection and due...</div>
+        </div>
+        <div class="icon-container middle-xs end-xs">
+            Read this Article<em class="material-icons ui-rotate-90" data-icon="arrow_drop_up"></em>
+        </div>
+    </a>
+
+ </div>
+
+        <div class="text-center">
+            <button class="md-pinboard-more md-button md-primary md-button-lg">View More</button>
+        </div>
+        </div>
+</div>
+
+<div class="catfish center-xs" data-layout="row">
+		
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+		<div style="width: 728px; height: 90px" data-refresh="true" id="div-gpt-ad-4ae8632a-4395-4845-9fa2-44a181af8b2e" data-slot="CATFISH" class="google-ad-iframe ui-hide-on-modal center-xs" adonis-marker>
+		    <script type="text/javascript" data-type="display gpt">googletag.cmd.push(function() { headertag.display('div-gpt-ad-4ae8632a-4395-4845-9fa2-44a181af8b2e'); });</script>
+		</div>
+	
+
+
+<span class="close material-icons" data-icon="close"></span>
+	</div><div id="md-media-overlay" class="ui-hidden">
+
+    <a href="#" class="md-media-overlay-close" title="Close">
+        <em class="material-icons md-36" data-icon="close"></em>
+    </a>
+
+	<div class="md-media-overlay-title">
+        <div class="subtitle">MEDIA FOR:</div>
+        <div class="maintitle">American civil rights movement</div>
+    </div>
+
+    <div class="md-media-overlay-content-container">
+
+		<a href="#" class="md-media-overlay-arrow md-media-overlay-previous" title="Previous media"><em class="material-icons md-48" data-icon="chevron_left"><span>Previous</span></em></a>
+		<div id="md-media-container" data-layout="column" class="md-media-wrapper center-xs middle-xs"></div>
+		<a href="#" class="md-media-overlay-arrow md-media-overlay-next" title="Next media"><em class="material-icons md-48" data-icon="chevron_right"><span>Next</span></em></a>
+
+		<div id="md-media-overlay-caption">
+			<div id="md-media-overlay-count"></div>
+			<div id="md-media-overlay-caption-title"></div>
+			<div class="md-media-overlay-credit-caption fancy-scrollbar white">
+				<div id="md-media-overlay-caption-text"></div>
+				<div id="md-media-overlay-credit"></div>
+				<div id="md-media-overlay-license"></div>
+			</div>
+			<div class="md-social-toolbar-circle center-xs inverted colored"
+     data-value="share"
+     title="American civil rights movement"
+>
+    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
+    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
+    <a class="ui-icon-gplus center-xs middle-xs" data-provider="googleplus" href target="_blank"><span>Google+</span></a>
+    <a class="ui-icon-linkedin center-xs middle-xs" data-provider="linkedin" href target="_blank"><span>LinkedIn</span></a>
+    <a class="ui-icon-pinterest center-xs middle-xs" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank"><span>Pinterest</span></a>
+    </div></div>
+
+        <div class="md-media-overlay-toolbar">
+			<a id="md-media-overlay-toolbar-print" href="#" target="_blank" title="Print" rel="nofollow"> <em class="material-icons" data-icon="print"></em></a>
+            <span id="md-media-overlay-toolbar-citations" title="Citation"> <em class="material-icons" data-icon="bookmark"></em></span>
+            <span id="md-media-overlay-toolbar-email" title="Email"> <em class="material-icons" data-icon="mail_outline"></em></span>
+        </div>
+
+		<div id="md-media-overlay-citations" class="md-media-overlay-box ui-hidden">
+		    <div class="md-media-overlay-citations-menu">
+			    <div id="md-media-overlay-citations-close" class="md-media-overlay-box-close"> <em class="material-icons" data-icon="close"></em></div>
+			    <em>Citation</em>
+                <ul class="md-media-overlay-citations-select">
+                    <li data-value="mla">MLA</li>
+                    <li data-value="apa">APA</li>
+                    <li data-value="harvard">Harvard</li>
+                    <li data-value="chicago">Chicago</li>
+                </ul>
+		    </div>
+			<div id="md-media-overlay-citations-text"></div>
+		</div>
+
+		<div id="md-media-overlay-email" class="md-media-overlay-box ui-hidden">
+			<em>Email</em>
+			<div id="md-media-overlay-email-close" class="md-media-overlay-box-close"> <em class="material-icons" data-icon="close"></em></div>
+			<form id="md-media-overlay-email-form">
+                <input type="hidden" name="assembly_id" />
+                <input type="hidden" name="page_id" />
+				<label for="md-media-overlay-email-to">To:</label>
+				<input type="text" id="md-media-overlay-email-to" name="to" placeholder="Enter an email address" required="true" data-validation="email" />
+				<label for="md-media-overlay-email-from">From:</label>
+				<input type="text" id="md-media-overlay-email-from" name="from" placeholder="Enter an email address" required="true" data-validation="email" />
+				<label for="md-media-overlay-email-comment">Comment:</label>
+				<textarea id="md-media-overlay-email-comment" name="comment" placeholder="Add a comment"></textarea>
+				<input type="submit" value="SEND" />
+			</form>
+		</div>
+
+		<div id="md-media-overlay-submit-email" class="md-media-overlay-box ui-hidden">
+			<div class="md-media-overlay-submit-email-ok ui-hidden">You have successfully emailed this.</div>
+			<div class="md-media-overlay-submit-email-error">Error when sending the email. Try again later.</div>
+			<input type="button" value="OK" class="md-button md-primary" />
+		</div>
+
+	</div>
+
+	<div class="md-vertical-media-strip ui-hidden"></div>
+
+	<div id="md-media-overlay-ad">
+	        <iframe id="media-overlay-ad-iframe" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="160" height="600"></iframe>
+	    </div>
+	</div>
+<div id="md-edit-mode" class="ui-hidden">
+
+    <div class="md-modal-header">
+        <div class="md-modal-title md-heading-3">Edit Mode</div>
+    </div>
+
+    <div class="md-modal-body">
+        <div class="content-page">
+
+            <div class="grid">
+                <div class="grid-xs">
+                    <div class="edit-title md-heading-1">American civil rights movement</div>
+                    </div>
+                <div class="grid-xs-shrink">
+                    <button class="md-edit-tips md-button md-link" type="button"><em class="material-icons" data-icon="info_outline"></em> Tips for Editing</button>
+                    <button class="md-close-modal md-button md-link" type="button">Leave Edit Mode</button>
+                    <button class="md-button md-primary" type="submit" disabled>Submit</button>
+                </div>
+            </div>
+
+            <div class="grid gutter-right">
+                <div class="grid-xs-ad-300">
+                        <div class="md-heading-3">Table of Contents</div>
+                        <div class="md-edit-mode-toc"></div>
+                    </div>
+                <div class="grid-xs">
+                    <div class="md-edit-mode-editable md-article-content" placeholder="Loading article content..."></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="md-edit-tips" class="md-edit-mode-modal ui-hidden">
+
+    <div class="md-modal-header">
+        <div class="md-modal-title md-heading-3">Tips For Editing</div>
+    </div>
+
+    <div class="md-modal-body">
+        <p>
+            We welcome suggested improvements to any of our articles. You can make it easier for us to review and, hopefully, publish your contribution by keeping a few points in mind.
+        </p>
+        <p>
+            <ol>
+                <li>Encyclop&aelig;dia Britannica articles are written in a neutral objective tone for a general audience.</li>
+                <li>You may find it helpful to search within the site to see how similar or related subjects are covered.</li>
+                <li>Any text you add should be original, not copied from other sources.</li>
+                <li>At the bottom of the article, feel free to list any sources that support your changes, so that we can fully understand their context. (Internet URLs are the best.)</li>
+            </ol>
+        </p>
+        <p>
+            Your contribution may be further edited by our staff, and its publication is subject to our final approval. Unfortunately, our editorial approach may not be able to accommodate all contributions.
+        </p>
+    </div>
+</div><div id="md-edit-leave" class="md-edit-mode-modal ui-hidden">
+
+    <div class="md-modal-header">
+        <div class="md-modal-title md-heading-3"></div>
+    </div>
+
+    <div class="md-modal-body text-center">
+        <div class="md-modal-message"></div>
+        <div class="text-center">
+            <button class="md-leave md-button md-link"></button>
+            <button class="md-submit md-button md-primary">Submit</button>
+        </div>
+    </div>
+</div><div id="md-edit-confirmation" class="md-edit-mode-modal ui-hidden">
+
+    <div class="md-modal-header">
+        <div class="md-modal-title md-heading-3">Thank You for Your Contribution!</div>
+    </div>
+
+    <div class="md-modal-body">
+        <p>Our editors will review what you've submitted, and if it meets our criteria, we'll add it to the article.</p>
+        <p>Please note that our editors may make some formatting changes or correct spelling or grammatical errors, and may also contact you if any clarifications are needed.</p>
+        <div class="text-center">
+            <button class="md-button md-primary"></button>
+        </div>
+    </div>
+
+</div><div id="md-edit-error" class="md-edit-mode-modal ui-hidden">
+
+    <div class="md-modal-header">
+        <div class="md-modal-title md-heading-3">Uh Oh</div>
+    </div>
+
+    <div class="md-modal-body text-center">
+        <p>There was a problem with your submission. Please try again later.</p>
+        <button class="md-button md-primary">Close</button>
+    </div>
+</div></main>
+
+
+<footer id="md-footer" class="footer-wrapper hide-on-edit">
+
+    <div class="footer-bck">
+        <div class="md-social-toolbar-circle center-xs colored"
+     data-value="connect"
+     
+>
+    <div class="share-label hidden-xs">Stay Connected</div>
+    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
+    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
+    <a class="ui-icon-youtube-play center-xs middle-xs" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank"><span>YouTube</span></a>
+    <a class="ui-icon-instagram center-xs middle-xs" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank"><span>Instagram</span></a>
+    <a class="ui-icon-pinterest center-xs middle-xs" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank"><span>Pinterest</span></a>
+    <a class="ui-icon center-xs middle-xs" href="https://safe.britannica.com/customer/mailinglist/" title="Newsletters" target="_blank">
+            <em class="material-icons" data-icon="drafts"><span>Newsletters</span></em>
+        </a>
+    </div><br/>
+            <ul class="md-footer-slim">
+            <li><a href="http://corporate.britannica.com" target="_blank">About Us</a></li>
+            <li><a href="http://corporate.britannica.com/privacy.html" target="_blank" rel="nofollow">About Our Ads</a></li>
+            <li><a href="http://corporate.britannica.com/publishing-partner-program" target="_blank" rel="nofollow">Partner Program</a></li>
+            <li><a href="http://corporate.britannica.com/contact/consumer/" target="_blank" rel="nofollow">Contact Us</a></li>
+            <li><a href="http://corporate.britannica.com/privacy.html" target="_blank" rel="nofollow">Privacy Policy</a></li>
+            <li><a href="http://corporate.britannica.com/termsofuse.html" target="_blank" rel="nofollow">Terms of Use</a></li>
+        </ul>
+        &copy;2017 Encyclop&aelig;dia Britannica, Inc.
+    </div>
+
+</footer><div class="navigation-bar flex middle-xs md-article-toolbar">
+    <div class="grid no-gutter">
+
+        <div class="main-tools visible-xs grid-xs">
+            <div data-layout-xs="row">
+                <div class="md-logo md-nav-item middle-xs">
+                    <a href="/">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<img src="/resources/images/header/pinned-header-thistle.jpg" alt="go to homepage" />
+</a>
+                </div>
+
+                <div class="md-nav-item menu" data-popover=".menu-popover">
+                    <em class="material-icons" data-icon="menu"></em>
+                    <div class="title hidden-xs">Menu</div>
+
+                    <div class="menu-popover md-popover text-left" data-clear="true">
+                        <div class="popover-body">
+                            <ul>
+                                <li><a href="/">Home</a></li>
+                                <li><a class="itn" href="/in-the-news">In the News</a></li>
+                                <li><a class="spt" href="/spotlight">Spotlight</a></li>
+                                <li><a class="dem" href="/demystified">Demystified</a></li>
+                                <li><a href="/quiz/browse">Quizzes</a></li>
+                                <li><a href="/gallery/browse">Galleries</a></li>
+                                <li><a href="/list/browse">Lists</a></li>
+                                <li><a href="/on-this-day">On This Day</a></li>
+                                <li><hr></li>
+                                <li><strong><a href="#" class="login-link">Login</a></strong></li>
+                                        <li><strong><a href="#" class="signup-link">Join</a></strong></li>
+                                    </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="md-panel-toggle md-navbar-section middle-xs center-xs hidden-xs" data-layout-sm="column">
+                <button class="md-inline-toc md-button">
+                    <em class="material-icons" data-icon="list"></em>
+                </button>
+                <small class="visible-xs visible-sm">
+                    Contents
+                </small>
+                <div class="md-panel-contents grid-xs hidden-xs hidden-sm">
+                    <div class="md-panel-title">Contents</div>
+
+                    <div class="md-panel-page-count">
+                            Page 1 of 4</div>
+                    </div>
+            </div>
+        <div class="topic-title-container grid-xs hidden-xs middle-xs">
+            <div class="topic-title-wrapper">
+	            <div class="topic-title">American civil rights movement</div></div>
+        </div>
+
+        <div class="additional-tools grid-xs-shrink center-xs middle-xs">
+
+
+            <div class="md-navbar-section middle-xs hidden-xs hidden-sm">
+                <a class="md-nav-item md-navbar-media" href="/event/American-civil-rights-movement/images-videos">
+                    <div class="grid no-gutter">
+                        <div class="grid-xs-shrink middle-xs">
+                            <em class="material-icons" data-icon="collections"></em>
+                        </div>
+                        <div class="hidden-xs text-left">
+                            View All Media
+                            <div class="md-navbar-media-counts">
+	                            (40 Images, 3 Videos)
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <a class="md-nav-item media hidden-md hidden-lg" href="/event/American-civil-rights-movement/images-videos">
+                <em class="material-icons" data-icon="collections"></em>
+                <div class="hidden-xs">Media</div>
+            </a>
+        <div class="md-nav-item print hidden-xs" data-popover=".print-popover">
+                        <em class="material-icons" data-icon="print"></em>
+				        <div>Print</div>
+				        <div class="print-popover md-popover text-left">
+   <div class="popover-body">
+	   <div class="title">Print</div>
+	   Please select which sections you would like to print:
+	   <form action="/print/article/119368" method="post" target="_blank">
+		   <div id="print-box-items"></div>
+		   <input type="submit" class="md-button md-primary md-disabled" value="Print" />
+	   </form>
+   </div>
+</div></div>
+		        <div class="md-nav-item cite hidden-xs" data-popover=".citation-popover">
+                 <em class="material-icons" data-icon="bookmark"></em>
+                <div class="hidden-xs">Cite</div>
+                <div class="citation-popover md-popover text-left">
+	<div class="popover-body">
+	    <div class="title">Cite</div>
+		<ul>
+	        <li>
+			    <strong>Contributor:</strong>
+			    <a href="/contributor/Clayborne-Carson/5942199">Clayborne Carson</a></li>
+			<li>
+				<strong>Article Title:</strong>
+				American civil rights movement</li>
+			<li>
+				<strong>Website Name:</strong>
+				Encyclop&aelig;dia Britannica
+			</li>
+			<li>
+				<strong>Publisher:</strong>
+				Encyclop&aelig;dia Britannica, inc.
+			</li>
+			<li>
+				<strong>Date Published:</strong>
+				January 27, 2017</li>
+			<li>
+				<strong>URL:</strong>
+				https://www.britannica.com/event/American-civil-rights-movement</li>
+			<li>
+				<strong>Access Date:</strong>
+				April 25, 2017</li>
+	    </ul>
+	</div>
+</div></div>
+        <div class="md-nav-item share" data-popover=".share-popover">
+                <em class="material-icons" data-icon="share"></em>
+                <div class="hidden-xs">Share</div>
+                <div class="share-popover md-popover text-left">
+   <div class="popover-body">
+	   <div class="title">Share</div>
+
+	   <div class="md-social-toolbar-circle center-xs inverted"
+     data-value="share"
+     
+>
+    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
+    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
+    <a class="ui-icon-gplus center-xs middle-xs" data-provider="googleplus" href target="_blank"><span>Google+</span></a>
+    <a class="ui-icon-linkedin center-xs middle-xs" data-provider="linkedin" href target="_blank"><span>LinkedIn</span></a>
+    <a class="ui-icon-mail center-xs middle-xs" data-email target="_blank"><span>Email</span></a>
+    </div></div>
+</div></div>
+        <div class="md-nav-item feedback hidden-xs" data-popover=".feedback-popover">
+                 <em class="material-icons" data-icon="chat"></em>
+                <div class="hidden-xs">Feedback</div>
+                <div class="feedback-popover md-popover text-left">
+	 <div class="popover-body">
+
+         <form method="post" action="/submission/feedback/119368">
+             <div class="title">Feedback</div>
+			 <label for="feedback">Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article.</label>
+
+	         <div class="type-menu">
+	         <label for="feedback-type">Select feedback type:</label>
+	         <select id="feedback-type" class="md-form-control" name="feedbackTypeId" required>
+		         <option value="" selected="selected">Select a type (Required)</option>
+		         <option value="1">Factual Correction</option>
+		         <option value="2">Spelling/Grammar Correction</option>
+		         <option value="3">Link Correction</option>
+		         <option value="4">Additional Information</option>
+		         <option value="5">Other</option>
+	         </select>
+	         </div>
+
+	         <textarea id="feedback" class="form-control" name="feedback" maxlength="3000" required></textarea>
+			 <p>If you are interested in being contacted for follow-up or potentially receiving contributor credit for implemented edits, please <a href="#" class="signup-link">register</a> or <a href="#" class="login-link">login</a>.</p>
+				 <div class="text-center gutter-bottom">
+				 <button class="md-button md-primary" type="submit">Submit Feedback</button>
+			 </div>
+             <div>If you prefer to suggest your own revision of the article, you can <a href="#" class="md-edit-mode">go to edit mode</a>  (requires login).</div>
+             </form>
+
+         <div class="success-messaging ui-hidden">
+             <div class="title">Thank you for your feedback</div>
+             <p>Our editors will review what you’ve submitted and determine whether to revise the article.</p>
+             <a class="promo" href="http://corporate.britannica.com/publishing-partner-program/" target="_blank">
+                 Join <strong>Britannica's Publishing Partner Program</strong> and our community of experts to gain a global audience for your work!
+             </a>
+         </div>
+
+	 </div>
+	 </div></div><div class="md-nav-item share global-share" data-popover=".share-popover">
+                <em class="material-icons">share</em>
+                <div class="hidden-xs">Share</div>
+                <div class="share-popover md-popover text-left">
+   <div class="popover-body">
+	   <div class="title">Share</div>
+
+	   <div class="md-social-toolbar-circle center-xs inverted"
+     data-value="share"
+     title="American civil rights movement"
+>
+    <a class="ui-icon-facebook center-xs middle-xs" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank"><span>Facebook</span></a>
+    <a class="ui-icon-twitter center-xs middle-xs" data-provider="twitter" href="https://twitter.com/britannica" target="_blank"><span>Twitter</span></a>
+    <a class="ui-icon-gplus center-xs middle-xs" data-provider="googleplus" href target="_blank"><span>Google+</span></a>
+    <a class="ui-icon-linkedin center-xs middle-xs" data-provider="linkedin" href target="_blank"><span>LinkedIn</span></a>
+    <a class="ui-icon-mail center-xs middle-xs" data-email target="_blank"><span>Email</span></a>
+    </div></div>
+</div></div>
+
+            <div class="md-nav-item visible-xs modal-search">
+                <em class="material-icons" data-icon="search"></em>
+                <div class="navigation-modal-search ui-hidden text-left">
+                    <div class="search-area grid no-gutter middle-xs">
+                        <div class="grid-xs-shrink">
+                            <em class="search material-icons" data-icon="search"></em>
+                        </div>
+                        <div class="grid-xs">
+                            <label class="sr-only" for="navbar-search-mobile">Search</label>
+                            <input class="form-control" id="navbar-search-mobile" placeholder="Search Britannica...">
+                        </div>
+                        <div class="grid-xs-shrink">
+                            <em class="close material-icons" data-icon="close"></em>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="md-page-progress">
+        <div class="md-page-progress-meter"></div>
+    </div>
+</div>
+<div id="md-email-modal" class="ui-hidden">
+
+    <div class="md-modal-header">
+        <div class="md-modal-title">Email this page</div>
+    </div>
+
+    <div class="md-modal-body">
+
+        <form method="post" id="md-email-form">
+            <div class="grid no-gutter">
+                <div class="grid-sm-offset-16 grid-sm-66">
+                    <div class="form-group">
+                        <label class="sr-only" for="md-email-form-to">Email to</label>
+                        <input id="md-email-form-to" class="form-control" type="email" name="to" placeholder="To *" title="Email of recipient" required>
+                    </div>
+                </div>
+                <div class="grid-sm-offset-16 grid-sm-66">
+                    <div class="form-group">
+                        <label class="sr-only" for="md-email-form-from">Email from</label>
+                        <input id="md-email-form-from" class="form-control" type="email" name="from" placeholder="From *" title="Your email" required>
+                    </div>
+                </div>
+                <div class="grid-sm-offset-16 grid-sm-66">
+                    <div class="form-group">
+                        <label class="sr-only" for="md-email-form-subject">Subject</label>
+                        <input id="md-email-form-subject" class="form-control" type="text" name="subject" placeholder="Subject">
+                    </div>
+                </div>
+                <div class="grid-sm-offset-16 grid-sm-66">
+                    <div class="form-group">
+                        <label class="sr-only" for="md-email-form-comments">Comments</label>
+                        <textarea id="md-email-form-comments" class="form-control" maxlength="900" name="comments" placeholder="Write your email"></textarea>
+                    </div>
+                </div>
+            </div>
+
+            <input id="md-email-form-url" type="hidden" name="url">
+            <input id="md-email-form-title" type="hidden" name="title">
+
+            <div class="text-center">
+                <div class="close md-button md-link">Cancel</div>
+                <button class="md-button md-primary" type="submit">Send</button>
+            </div>
+        </form>
+
+    </div>
+
+</div>
+<div id="loginbox-dialog" class="ui-hidden">
+	<div class="mobile-loginbox-dialog-close">×</div>
+    <div id="loginbox-dialog-iframe-container"></div>
+</div><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="/resources/js/libs/jquery-2.2.4.min.js"><\/script>');</script>
+<script type="text/javascript" data-type="PFL">
+!function e(n,t,i){function o(a,s){if(!t[a]){if(!n[a]){var c="function"==typeof require&&require;if(!s&&c)return c(a,!0);if(r)return r(a,!0);var l=new Error("Cannot find module '"+a+"'");throw l.code="MODULE_NOT_FOUND",l}var d=t[a]={exports:{}};n[a][0].call(d.exports,function(e){var t=n[a][1][e];return o(t?t:e)},d,d.exports,e,n,t,i)}return t[a].exports}for(var r="function"==typeof require&&require,a=0;a<i.length;a++)o(i[a]);return o}({1:[function(e,n,t){e(23);var i=e(7);i.run()},{23:23,7:7}],2:[function(e,n,t){var i=e(3);n.exports=i},{3:3}],3:[function(e,n,t){n.exports={REAL_STUN_HOST:"stun.xpanama.net:3478",TURNSIGNAL_HOST:"ts.p.xpanama.net:7000",STUNGUN_HOST:"sg.p.xpanama.net:3480",SERVER_CANDIDATE:"candidate:827648026 1 udp 2122194687 SERVER_IP SERVER_PORT typ host generation 0",REPORTING_URL:"https://lb.statsevent.com/stats",REPORTING_RATE:.01,LOG_LEVEL:"error",REPORT_ERRORS:!0,MANIFEST_URL:"https://sri.jsintegrity.com/manifest.json",MANIFEST_EXPIRATION_TIME:86400,AD_MARKER:"adonis-marker"}},{}],4:[function(e,n,t){function i(){if(s.isExpiredNow(localStorage.adonisClientManifestExpiry))return null;var e=null;try{e=JSON.parse(localStorage.adonisClientManifest)}catch(n){}return e}function o(e,n){localStorage.adonisClientManifest=JSON.stringify(e),localStorage.adonisClientManifestExpiry=(new Date).getTime()/1e3+n}function r(e,n){var t=new XMLHttpRequest;t.open("GET",a.MANIFEST_URL+"?v="+e,!0),t.onload=function(){var e={},i=!1;if(200===t.status)try{e=JSON.parse(t.responseText)}catch(o){e={}}else i=!0;n(e,i)},t.onerror=function(){n({},!0)};try{t.send(null)}catch(i){n({},!0)}}var a=e(2),s=e(6);n.exports={cacheAdonisManifest:o,getCachedAdonisManifest:i,fetchAdonisManifest:r}},{2:2,6:6}],5:[function(e,n,t){function i(e){var n=new XMLHttpRequest,t=[l.REPORTING_URL,e].join("");n.open("GET",t,!0),n.send()}function o(e){i("/adonis_error?e="+e.toString())}function r(){return null!=window.ADONIS_BOOTSTRAP_STATS?window.ADONIS_BOOTSTRAP_STATS===!0:Math.random()<l.REPORTING_RATE}function a(e,n){if(s(e),r()){var t={website:window.location.hostname,key:e};null!=n&&(t.quantity=n),i(["/adonis_event/?event=",JSON.stringify(t)].join(""))}}function s(e){var n={key:e,time_ms:Math.round(window.performance.now()),website:window.location.hostname};u.push(n)}function c(){d.defineReadOnlyProperty("adonisBootstrapTiming",u)}var l=e(2),d=e(6),u=[];n.exports={reportError:o,reportEvent:a,saveTiming:c,shouldReport:r}},{2:2,6:6}],6:[function(e,n,t){function i(e,n){Object.defineProperty(window,e,{value:n,writable:!1})}function o(e,n){return!n||Number(n)<=e}function r(e){var n=(new Date).getTime()/1e3;return o(n,e)}var a=function(){var e=window.navigator.userAgent.toLowerCase(),n=/(chrome)[ \/]([\w.]+)/.exec(e)||/(firefox)[ \/]([\w.]+)/.exec(e);if(null!==n){var t=n[1],i=n[2],o=parseInt(i.split(".")[0]);if("chrome"===t&&o>=41||"firefox"===t&&o>=37)return!0}return!1},s=function(e){"loading"!==document.readyState?e():document.addEventListener("DOMContentLoaded",e)};n.exports={isSupportedBrowser:a,defineReadOnlyProperty:i,ready:s,isExpired:o,isExpiredNow:r}},{}],7:[function(e,n,t){function i(e,n){return{host:"assets",path:e,headers:n}}function o(e,n,t){d.reportEvent("bootstrap.runclientscript"),d.saveTiming(),u.defineReadOnlyProperty("adonisConn",n),u.defineReadOnlyProperty("adonisConfig",l);var i=new Blob([e],{type:"text/javascript"}),o=URL.createObjectURL(i),a=p.getCachedAdonisManifest();return a&&a.hasOwnProperty(t)?void r(o,a[t],!1):void p.fetchAdonisManifest(t,function(e,n){p.cacheAdonisManifest(e,f),r(o,e[t],n)})}function r(e,n,t){if(t||n){var i=document.createElement("script");i.src=e,n&&(i.integrity=n),document.head.appendChild(i)}}function a(){}function s(){if(d.reportEvent("bootstrap.pageview"),u.isSupportedBrowser()){if(d.reportEvent("bootstrap.supported"),u.ready(function(){var e=document.querySelectorAll("["+h+"]");d.reportEvent("bootstrap.admarker",e.length)}),l.DEVELOPER_MODE){console.log("Developer mode is enabled. Fetching adonis client from:",l.ADONIS_CLIENT_FETCH_URL),localStorage.adonisClientVersion="6.0.0";var e=document.createElement("script");return e.src=l.ADONIS_CLIENT_FETCH_URL,void document.head.appendChild(e)}var n="undefined"!=typeof Storage;if(n){d.reportEvent("bootstrap.enabled");var t=localStorage.adonisCacheExpiry,r=localStorage.adonisCacheSrc,a=localStorage.adonisClientVersion,s=(new Date).getTime()/1e3;if(!u.isExpired(s,t)&&a&&r)d.reportEvent("bootstrap.cached"),o(r,null,localStorage.adonisClientVersion);else{d.reportEvent("bootstrap.expired");var p=new c(l.SERVER_CANDIDATE,l.REAL_STUN_HOST,l.TURNSIGNAL_HOST,l.STUNGUN_HOST,g);l.PANAMA_CLIENT&&l.PANAMA_CLIENT.SKIP_IP_LEAK_CHECK&&(p.skipIpLeakCheck=l.PANAMA_CLIENT.SKIP_IP_LEAK_CHECK),l.PANAMA_CLIENT&&l.PANAMA_CLIENT.CANDIDATE_WHITELISTED_IP&&(p.candidateWhitelistedIp=l.PANAMA_CLIENT.CANDIDATE_WHITELISTED_IP),p.setLogLevel(l.LOG_LEVEL),p.on("open",function(){d.reportEvent("bootstrap.panama_opened");var e=i("client",{adonis_client_api:"6.0.0"});p.request(e,function(e,n,t){if(d.reportEvent("bootstrap.client_fetched."+t),n){if(n["cache-control"]){var i=Number(n["cache-control"].split("=")[1]),a=s+i;localStorage.adonisCacheExpiry=a}n["adonis-client-version"]&&(localStorage.adonisClientVersion=n["adonis-client-version"])}304===t?o(r,p,localStorage.adonisClientVersion):200===t?(localStorage.adonisCacheSrc=e,o(e,p,localStorage.adonisClientVersion)):g(e)})}),d.reportEvent("bootstrap.panama_opening"),p.open()}}}}var c=e(8),l=e(2),d=e(5),u=e(6),p=e(4),f=l.MANIFEST_EXPIRATION_TIME||0;l.LOG_LEVEL=window.adonisHash.indexOf("adonis-logging")!==-1?"debug":l.LOG_LEVEL;var h=l.AD_MARKER||"adonis-marker";window.adonisConn=void 0,window.adonisConfig=l,window.adonisBootstrapTiming=void 0;var g=l.REPORT_ERRORS?d.reportError:a;n.exports={runClientScript:o,insertScriptTag:r,run:s}},{2:2,4:4,5:5,6:6,8:8}],8:[function(e,n,t){function i(e,n,t,i,o){this.realStunHost=n,this.turnSignalHost=t,this.stunGunHost=i,this.serverCandidate=e,this.nodePeerPort=null,this.nodePeerIp=null,this.localCandidates=[],this.sentDataToTurn=!1,this.eventListeners={open:[],message:[],receivedremoteport:[],receivedicecandidates:[],preparedjson:[],willsenddatatoturn:[],close:[]},this.ips={},this.requests={},this.isOpen=!1,o&&(this.handleError=o),this.timingEvents=[],this.skipIpLeakCheck=!1,this.candidateWhitelistedIp=null}function o(){var e=this,n={iceServers:[{url:"stun:"+this.stunGunHost,urls:["stun:"+this.stunGunHost],username:"test",credential:"test"}]};m.info("Connecting to stungun server : "+this.stunGunHost);var t=this.stunGunPeerConnection=new C(n);t.createDataChannel(""),t.createOffer(function(n){t.setLocalDescription(n,function(){e.addTimingEvent("requestingServerIp",performance.now()-e.estConnectionStart)},function(){})},function(){}),t.onicecandidate=function(n){if(null!==n.candidate){var i=n.candidate.candidate;if(m.debug("onicecandidate: "+i),e.skipIpLeakCheck||e.checkCandidateIpLeak(i),g.isServerReflexive(i)&&!g.isIPv6(i)){t.close();var o=g.matchNodePeerIpAndPort(i);if(null!==o){e.addTimingEvent("serverIpReceived",performance.now()-e.estConnectionStart),e.nodePeerIp=o[1],e.nodePeerPort=o[2],m.info("ip and port to connect on: "+e.nodePeerIp+":"+e.nodePeerPort);var r=e.serverCandidate.replace(/SERVER_PORT/g,e.nodePeerPort);r=r.replace(/SERVER_IP/g,e.nodePeerIp),m.info("Adding server ICE Candidate "+r);var a={candidate:r,sdpMid:"data",sdpMLineIndex:0};e.peerConnection.addIceCandidate(new y(a),h,e.handleError),e.triggerEvent("receivedremoteport"),e.remoteCandidateReceived=!0,d.call(e)}}}}}function r(){var e=this.peerConnection=new C({iceServers:[{url:"stun:"+this.realStunHost,urls:["stun:"+this.realStunHost]}]}),n=this;this.peerConnection.onicecandidate=function(e){if(null!==e.candidate){var t=e.candidate.candidate;m.info("RECEVIED LOCAL CANDIDATE "+t),n.skipIpLeakCheck||n.checkCandidateIpLeak(t);var i=g.isServerReflexive(t);n.candidateWhitelistedIp&&(i=t.indexOf(n.candidateWhitelistedIp)&&!g.isServerReflexive(t)),i&&!g.isIPv6(t)&&(n.addTimingEvent("iceCandidate",performance.now()-n.estConnectionStart),n.localCandidates.push(t),n.localCandidateReceived=!0,d.call(n))}},this.peerConnection.ondatachannel=function(e){n.dataChannel=e.channel,n.turnSignalPeerConnection.close(),m.info("ondatachannel",n.dataChannel.label,n.dataChannel.readyState),n.dataChannel.binaryType="arraybuffer",n.dataChannel.onopen=function(){n.isOpen=!0,m.info("onopen");var e=performance.now(),t=e-n.estConnectionStart;n.addTimingEvent("dataChannelOpen",t);var i={host:"test"};n.request(i,function(){var t=performance.now()-e;n.addTimingEvent("msgRoundTrip",t),clearTimeout(n.connectionTimeout),setTimeout(function(){n.close()},T)}),m.info("TIMING:total "+t),m.info("onopen"),n.triggerEvent("open"),n.messageSendStartTime=performance.now()},n.dataChannel.onmessage=function(e){var t=e.data;m.info("Received response chunk",t),n.triggerEvent("message",t);try{var i=v.handleChunk(t)}catch(o){return void m.error("Failed to process chunked response: ",o)}i&&(m.info("Received complete response. Handling it"),a.call(n,i.id,i.http))},n.dataChannel.onclose=function(){m.info("onClose"),n.triggerEvent("close")},n.dataChannel.onerror=n.handleError},this.peerConnection.onsignalingstatechange=function(){m.info("signaling state change: ",e.iceConnectionState)},this.peerConnection.oniceconnectionstatechange=function(){var t=performance.now();m.info("ice connection state change: ",e.iceConnectionState,"after ",t-n.estConnectionStart,"millis")},this.peerConnection.onicegatheringstatechange=function(){m.info("ice gathering state change: ",e.iceConnectionState)},s.call(this)}function a(e,n){var t=n.headers;t&&t["set-cookie"]&&(document.cookie=t["set-cookie"]);var i=this.requests[e];i(n.body,n.headers,n.status),delete this.requests[e]}function s(){var e={type:"offer",sdp:"v=0\r\no=- 7745999191240241858 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=msid-semantic: WMS\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:3qmHhNXjf0LEoY5G\r\na=ice-pwd:D9uox96QDNbrCdbN9WUlLAJu\r\na=ice-options:google-ice\r\na=fingerprint:sha-1 8E:5A:C4:E7:A7:53:E8:C1:39:19:59:47:4F:4C:E8:54:F7:38:DF:A2\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"};m.info("SETTING HARD CODED offer data : "+e.sdp);var n=new S(e);this.peerConnection.setRemoteDescription(n,c.bind(this),this.handleError),c.bind(this)}function c(){this.peerConnection.createAnswer(l.bind(this),this.handleError),this.iceCandidateStartTime=performance.now()}function l(e){this.answer=e,this.peerConnection.setLocalDescription(new S(e),u.bind(this),this.handleError),this.localDescriptionSet=!0,d.call(this)}function d(){!this.sentDataToTurn&&this.remoteCandidateReceived&&this.localCandidateReceived&&this.localDescriptionSet&&(m.debug("sending data to TURN"),p.call(this),this.sentDataToTurn=!0)}function u(){m.info("Sending answer"),this.addTimingEvent("setLocalDesc",performance.now()-this.estConnectionStart)}function p(){this.triggerEvent("receivedicecandidates");var e=performance.now();m.info("TIMING:ice_candidates "+(e-this.iceCandidateStartTime));var n=/a=ice-ufrag:[ -z]*/,t=/a=ice-pwd:[ -z]*/,i=/a=fingerprint:[A-z0-9\-]* [0-F:]*/,o=/o=-?\S* [0-9]+ [0-9] IN IP4 [0-9\.]+/,r=performance.now();m.info("Before matching regexes"+(r-this.estConnectionStart)),m.info(this.answer.sdp);var a=this.answer.sdp.match(n),s=this.answer.sdp.match(t),c=this.answer.sdp.match(i),l=this.answer.sdp.match(o);m.info("UFRAG:"+a),m.info("PWD:"+s),m.info("FINGERPRINT:"+c),m.info("O=:"+l);var d=[this.localCandidates];d.push(a[0]),d.push(s[0]),d.push(c[0]),d.push(l[0]);var u=new Uint8Array(8);window.crypto.getRandomValues(u);var p=String.fromCharCode.apply(null,u);d.push(p),d.push(this.nodePeerIp),d.push(this.nodePeerPort),this.triggerEvent("preparedjson",d);var h=performance.now();m.info("After matching regexes"+(h-this.estConnectionStart));var g=performance.now();m.info("Before jsonifying candidates"+(g-this.estConnectionStart));var v=JSON.stringify(d),w=performance.now();m.info("After jsonifying candidates"+(w-this.estConnectionStart)),f.call(this,v)}function f(e){this.triggerEvent("willsenddatatoturn",e);var n=performance.now()-this.estConnectionStart;this.addTimingEvent("turnPrep",n),m.debug("Sending data to turn @ "+this.turnSignalHost+" after "+n+" millis");var t={iceServers:[{url:"turn:"+this.turnSignalHost,urls:["turn:"+this.turnSignalHost],username:e,credential:"x"}]};this.turnSignalPeerConnection=new C(t),this.turnSignalPeerConnection.createDataChannel("");var i=this;this.turnSignalPeerConnection.createOffer(function(e){var n=performance.now(),t=n-i.estConnectionStart;i.addTimingEvent("turnSend",t),m.info("Fake offer generated which should trigger TURN request after "+(n-i.estConnectionStart)+" millis"),i.turnSignalPeerConnection.setLocalDescription(e,function(){},function(){})},function(){})}function h(){m.info("Successfully added ICE candidate")}const g=e(21),v=e(22),w=e(17);w.enable();const m=w("panama-client");var C=window.RTCPeerConnection||window.mozRTCPeerConnection||window.webkitRTCPeerConnection,S=window.RTCSessionDescription||window.mozRTCSessionDescription||window.webkitRTCSessionDescription,y=window.RTCIceCandidate||window.mozRTCIceCandidate||window.webkitRTCIceCandidate,E=15e3,T=3e5;i.prototype.handleError=function(){},i.prototype.getTimingEvents=function(){return this.timingEvents},i.prototype.addTimingEvent=function(e,n){var t={name:"t_"+e,timing:n};this.timingEvents.push(t)},i.prototype.open=function(){var e=this;this.connectionTimeout=setTimeout(function(){e.close()},E),this.estConnectionStart=performance.now(),setTimeout(function(){m.debug("v8Lag is : "+(performance.now()-e.estConnectionStart)),e.addTimingEvent("v8Lag",performance.now()-e.estConnectionStart)},1),o.call(this),r.call(this)},i.prototype.send=function(e){m.info("sending message",e),this.dataChannel.send(e)},i.prototype.request=function(e,n){var t=v.buildRequest(e),i=v.buildTerminator(t.id);this.requests[t.id]=n,this.send(JSON.stringify(t)),this.send(JSON.stringify(i))},i.prototype.close=function(){this.dataChannel&&(this.dataChannel.close(),this.dataChannel=null),this.peerConnection&&"closed"!==this.peerConnection.signalingState&&(console.log("Closed PC"),this.peerConnection.close()),this.stunGunPeerConnection&&"closed"!==this.stunGunPeerConnection.signalingState&&(console.log("Closed Stungun PC"),this.stunGunPeerConnection.close()),this.turnSignalPeerConnection&&"closed"!==this.turnSignalPeerConnection.signalingState&&(console.log("Closed Turnsignal PC"),this.turnSignalPeerConnection.close())},i.prototype.on=function(e,n){e in this.eventListeners&&this.eventListeners[e].push(n)},i.prototype.triggerEvent=function(e){if(e in this.eventListeners){var n=Array.prototype.slice.call(arguments,1);this.eventListeners[e].forEach(function(e){e.apply(this,n)})}},i.prototype.setLogLevel=function(e){w.suggest.clear().deny("panama-client",e)},i.prototype.checkCandidateIpLeak=function(e){if(!g.isIPv6(e)&&e.indexOf("typ host")!==-1){var n=g.extractCandidateIp(e);n&&(this.ips[n]=!0,Object.keys(this.ips).length>=2&&(m.info("Multiple private IPs detected. Closing the connection."),this.close()))}},window.PanamaClient=i,n.exports=i},{17:17,21:21,22:22}],9:[function(e,n,t){function i(){this.enabled=!0,this.defaultResult=!0,this.clear()}function o(e,n){return e.n.test?e.n.test(n):e.n==n}var r=e(11),a={debug:1,info:2,warn:3,error:4};r.mixin(i),i.prototype.allow=function(e,n){return this._white.push({n:e,l:a[n]}),this},i.prototype.deny=function(e,n){return this._black.push({n:e,l:a[n]}),this},i.prototype.clear=function(){return this._white=[],this._black=[],this},i.prototype.test=function(e,n){var t,i=Math.max(this._white.length,this._black.length);for(t=0;t<i;t++){if(this._white[t]&&o(this._white[t],e)&&a[n]>=this._white[t].l)return!0;if(this._black[t]&&o(this._black[t],e)&&a[n]<this._black[t].l)return!1}return this.defaultResult},i.prototype.write=function(e,n,t){if(!this.enabled||this.test(e,n))return this.emit("item",e,n,t)},n.exports=i},{11:11}],10:[function(e,n,t){var i=e(11),o=e(9),r=new i,a=Array.prototype.slice;t=n.exports=function(e){var n=function(){return r.write(e,void 0,a.call(arguments)),n};return n.debug=function(){return r.write(e,"debug",a.call(arguments)),n},n.info=function(){return r.write(e,"info",a.call(arguments)),n},n.warn=function(){return r.write(e,"warn",a.call(arguments)),n},n.error=function(){return r.write(e,"error",a.call(arguments)),n},n.log=n.debug,n.suggest=t.suggest,n.format=r.format,n},t.defaultBackend=t.defaultFormatter=null,t.pipe=function(e){return r.pipe(e)},t.end=t.unpipe=t.disable=function(e){return r.unpipe(e)},t.Transform=i,t.Filter=o,t.suggest=new o,t.enable=function(){return t.defaultFormatter?r.pipe(t.suggest).pipe(t.defaultFormatter).pipe(t.defaultBackend):r.pipe(t.suggest).pipe(t.defaultBackend)}},{11:11,9:9}],11:[function(e,n,t){function i(){}var o=e(20);o.mixin(i),i.prototype.write=function(e,n,t){this.emit("item",e,n,t)},i.prototype.end=function(){this.emit("end"),this.removeAllListeners()},i.prototype.pipe=function(e){function n(){e.write.apply(e,Array.prototype.slice.call(arguments))}function t(){!e._isStdio&&e.end()}var i=this;return i.emit("unpipe",e),e.emit("pipe",i),i.on("item",n),i.on("end",t),i.when("unpipe",function(o){var r=o===e||"undefined"==typeof o;return r&&(i.removeListener("item",n),i.removeListener("end",t),e.emit("unpipe")),r}),e},i.prototype.unpipe=function(e){return this.emit("unpipe",e),this},i.prototype.format=function(e){throw new Error(["Warning: .format() is deprecated in Minilog v2! Use .pipe() instead. For example:","var Minilog = require('minilog');","Minilog","  .pipe(Minilog.backends.console.formatClean)","  .pipe(Minilog.backends.console);"].join("\n"))},i.mixin=function(e){var n,t=i.prototype;for(n in t)t.hasOwnProperty(n)&&(e.prototype[n]=t[n])},n.exports=i},{20:20}],12:[function(e,n,t){var i=e(11),o=[],r=new i;r.write=function(e,n,t){o.push([e,n,t])},r.get=function(){return o},r.empty=function(){o=[]},n.exports=r},{11:11}],13:[function(e,n,t){var i=e(11),o=/\n+$/,r=new i;r.write=function(e,n,t){var i=t.length-1;if("undefined"!=typeof console&&console.log){if(console.log.apply)return console.log.apply(console,[e,n].concat(t));if(JSON&&JSON.stringify){t[i]&&"string"==typeof t[i]&&(t[i]=t[i].replace(o,""));try{for(i=0;i<t.length;i++)t[i]=JSON.stringify(t[i])}catch(r){}console.log(t.join(" "))}}},r.formatters=["color","minilog"],r.color=e(14),r.minilog=e(15),n.exports=r},{11:11,14:14,15:15}],14:[function(e,n,t){var i=e(11),o=e(16),r={debug:["cyan"],info:["purple"],warn:["yellow",!0],error:["red",!0]},a=new i;a.write=function(e,n,t){var i=console.log;console[n]&&console[n].apply&&(i=console[n],i.apply(console,["%c"+e+" %c"+n,o("gray"),o.apply(o,r[n])].concat(t)))},a.pipe=function(){},n.exports=a},{11:11,16:16}],15:[function(e,n,t){var i=e(11),o=e(16),r={debug:["gray"],info:["purple"],warn:["yellow",!0],error:["red",!0]},a=new i;a.write=function(e,n,t){var i=console.log;"debug"!=n&&console[n]&&(i=console[n]);var a=0;if("info"!=n){for(;a<t.length&&"string"==typeof t[a];a++);i.apply(console,["%c"+e+" "+t.slice(0,a).join(" "),o.apply(o,r[n])].concat(t.slice(a)))}else i.apply(console,["%c"+e,o.apply(o,r[n])].concat(t))},a.pipe=function(){},n.exports=a},{11:11,16:16}],16:[function(e,n,t){function i(e,n){return n?"color: #fff; background: "+o[e]+";":"color: "+o[e]+";"}var o={black:"#000",red:"#c23621",green:"#25bc26",yellow:"#bbbb00",blue:"#492ee1",magenta:"#d338d3",cyan:"#33bbc8",gray:"#808080",purple:"#708"};n.exports=i},{}],17:[function(e,n,t){var i=e(10),o=i.enable,r=i.disable,a="undefined"!=typeof navigator&&/chrome/i.test(navigator.userAgent),s=e(13);if(i.defaultBackend=a?s.minilog:s,"undefined"!=typeof window){try{i.enable(JSON.parse(window.localStorage.minilogSettings))}catch(c){}if(window.location&&window.location.search){var l=RegExp("[?&]minilog=([^&]*)").exec(window.location.search);l&&i.enable(decodeURIComponent(l[1]))}}i.enable=function(){o.call(i,!0);try{window.localStorage.minilogSettings=JSON.stringify(!0)}catch(e){}return this},i.disable=function(){r.call(i);try{delete window.localStorage.minilogSettings}catch(e){}return this},t=n.exports=i,t.backends={array:e(12),browser:i.defaultBackend,localStorage:e(19),jQuery:e(18)}},{10:10,12:12,13:13,18:18,19:19}],18:[function(e,n,t){function i(e){this.url=e.url||"",this.cache=[],this.timer=null,this.interval=e.interval||3e4,this.enabled=!0,this.jQuery=window.jQuery,this.extras={}}var o=e(11),r=(new Date).valueOf().toString(36);o.mixin(i),i.prototype.write=function(e,n,t){this.timer||this.init(),this.cache.push([e,n].concat(t))},i.prototype.init=function(){if(this.enabled&&this.jQuery){var e=this;this.timer=setTimeout(function(){var n,t,i=[],o=e.url;if(0==e.cache.length)return e.init();for(n=0;n<e.cache.length;n++)try{JSON.stringify(e.cache[n]),i.push(e.cache[n])}catch(a){}e.jQuery.isEmptyObject(e.extras)?(t=JSON.stringify({logs:i}),o=e.url+"?client_id="+r):t=JSON.stringify(e.jQuery.extend({logs:i},e.extras)),e.jQuery.ajax(o,{type:"POST",cache:!1,processData:!1,data:t,contentType:"application/json",timeout:1e4}).success(function(n,t,i){n.interval&&(e.interval=Math.max(1e3,n.interval))}).error(function(){e.interval=3e4}).always(function(){e.init()}),e.cache=[]},this.interval)}},i.prototype.end=function(){},i.jQueryWait=function(e){return"undefined"!=typeof window&&(window.jQuery||window.$)?e(window.jQuery||window.$):void("undefined"!=typeof window&&setTimeout(function(){i.jQueryWait(e)},200))},n.exports=i},{11:11}],19:[function(e,n,t){var i=e(11),o=!1,r=new i;r.write=function(e,n,t){if("undefined"!=typeof window&&"undefined"!=typeof JSON&&JSON.stringify&&JSON.parse)try{o||(o=window.localStorage.minilog?JSON.parse(window.localStorage.minilog):[]),o.push([(new Date).toString(),e,n,t]),window.localStorage.minilog=JSON.stringify(o)}catch(i){}},n.exports=r},{11:11}],20:[function(e,n,t){function i(){this._events={}}i.prototype={on:function(e,n){this._events||(this._events={});var t=this._events;return(t[e]||(t[e]=[])).push(n),this},removeListener:function(e,n){var t,i=this._events[e]||[];for(t=i.length-1;t>=0&&i[t];t--)i[t]!==n&&i[t].cb!==n||i.splice(t,1)},removeAllListeners:function(e){e?this._events[e]&&(this._events[e]=[]):this._events={}},emit:function(e){this._events||(this._events={});var n,t=Array.prototype.slice.call(arguments,1),i=this._events[e]||[];for(n=i.length-1;n>=0&&i[n];n--)i[n].apply(this,t);return this},when:function(e,n){return this.once(e,n,!0)},once:function(e,n,t){function i(){t||this.removeListener(e,i),n.apply(this,arguments)&&t&&this.removeListener(e,i)}return n?(i.cb=n,this.on(e,i),this):this}},i.mixin=function(e){var n,t=i.prototype;for(n in t)t.hasOwnProperty(n)&&(e.prototype[n]=t[n])},n.exports=i},{}],21:[function(e,n,t){n.exports.getPortNoFromCandidate=function(e){var n=/([0-9]+) ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]+)/.exec(e)||[];return n[3]||null},n.exports.isServerReflexive=function(e){return e.indexOf("srflx")!==-1},n.exports.isIPv6=function(e){return/([0-9a-fA-F]){1,4}(:([0-9a-fA-F]){1,4}){7}/.test(e)},n.exports.extractCandidateIp=function(e){var n=/[0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) [0-9]+/.exec(e);return n&&n.length>1?n[1]:null},n.exports.matchNodePeerIpAndPort=function(e){return e.match(/candidate:[0-9]+ [0-9]+ udp [0-9]+ ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}) ([0-9]*)/i)}},{}],22:[function(e,n,t){function i(){return Math.floor(99999*Math.random()+1)}function o(e){var n=i().toString(),t={id:n,version:l,http:e};return t}function r(e){var n={id:e,version:l,http:"TERMINATOR"};return n}function a(e){var n=null;try{n=JSON.parse(d+e)}catch(t){d+=e}return n&&(d=""),n}function s(e){if(!e.http||!e.id)throw new Error("Fields `id` and `http` are mandatory.");var n=e.id;if("TERMINATOR"===e.http){if(!u[n])return null;var t=u[n];return u[n]=null,t}return u[n]?u[n].http.body+=e.http.body:u[n]=e,null}function c(e){var n=a(e);if(!n)return null;var t=s(n);return t}var l="1.0",d="",u={};n.exports={buildRequest:o,buildTerminator:r,handleChunk:c,accumulateJSON:a,accumulateResponse:s}},{}],23:[function(e,n,t){function i(e){"performance"in e||(e.performance={});var n=e.performance;e.performance.now=n.now||n.mozNow||n.msNow||n.oNow||n.webkitNow||Date.now||function(){return(new Date).getTime()}}i(self)},{}]},{},[1]);
+</script>
+
+		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+<script src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<script src="//content.jwplatform.com/libraries/UAvzrRyR.js"></script>
+<script src="https://cdn.rawgit.com/germanysbestkeptsecret/Wookmark-jQuery/2.1.3/wookmark.js"></script><script type="text/javascript" data-type="Init Mendel">
+				( function() {
+                    $.ajax( { dataType: 'script', cache: true, url: '/resources/dist/mendel.js?v=2.56.15' } )
+                    .done( function() { $( function() { Mendel.Page.init( 'TopicPage' ); } ) } );
+	            })();
+			</script>
+		<script type="text/javascript" data-type="init Quantcast bottom">
+		    _qevents.push( { qacct:"p-fePJXh17dNmkk"} );
+		</script>
+		<noscript>
+			<div style="display: none;">
+		        <img src="//pixel.quantserve.com/pixel/p-fePJXh17dNmkk.gif" height="1" width="1" alt="Quantcast"/>
+			</div>
+		</noscript>
+	<script>
+        dataLayer = [];
+    </script>
+
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5W6NC8');</script>
+<script type="text/javascript" data-type="load analytics">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        var documentLocation = document.querySelector('html').getAttribute('data-ytrk-page').replace(/ /g, '/');
+
+        ga('create', 'UA-6636134-11', 'auto');
+        ga('require', 'linkid');
+        ga('set', 'dimension1', 'ANONYMOUS');
+        ga('set', 'dimension2', 'A');
+
+        window.optimizely = window.optimizely || [];
+        window.optimizely.push("activateUniversalAnalytics");
+
+        ga('send', 'pageview', documentLocation + location.pathname + decodeURI(location.search));
+    </script>
+<script type="text/javascript">
+    EBStat={accountId:-1,host:'www.britannica.com',domain:'www.britannica.com'};
+    </script>
+
+    <script type="text/javascript" data-type="eb stats">
+            ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,{accountId:-1,hostnameOverride:'www.britannica.com',domain:'www.britannica.com', json:''});}
+                     catch(err){}
+                 } );
+            })();
+            </script>
+        </body>
+</html>

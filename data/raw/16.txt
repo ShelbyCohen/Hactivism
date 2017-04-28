@@ -1,699 +1,495 @@
-﻿
 <!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
-
-
-
-
-
-    
-
-
-<!-- header tags -->
-<meta name="guid" content="170110165203991"><title>Boycott, Divestment, Sanctions: What is BDS? | UK | Al Jazeera</title><meta name="title" content="Boycott, Divestment, Sanctions: What is BDS?"><meta name="channel" content=""><meta name="author" content=""><meta name="description" content="Everything you need to know about the Boycott, Divestment and Sanctions movement, and what's being done to combat BDS."><meta property="og:title" content="Boycott, Divestment, Sanctions: What is BDS?"><meta property="og:description" content="Everything you need to know about the Boycott, Divestment and Sanctions movement, and what's being done to combat BDS."><meta property="og:url" content="http://www.aljazeera.com/indepth/features/2017/01/boycott-divestment-sanctions-bds-170110165203991.html"><meta name="url" content="http://www.aljazeera.com/indepth/features/2017/01/boycott-divestment-sanctions-bds-170110165203991.html"><meta property="og:internalurl" content="http://www.aljazeera.com/indepth/features/2017/01/boycott-divestment-sanctions-bds-170110165203991.html"><meta name="ShortURL" content="http://aje.io/sml6"><meta property="og:image" content="http://www.aljazeera.com/mritems/Images/2017/1/10/2a41355352674bde85dba85260bae26c_18.jpg"><meta name="image" content="http://www.aljazeera.com/mritems/Images/2017/1/10/2a41355352674bde85dba85260bae26c_18.jpg"><meta property="twitter:title" content="Boycott, Divestment, Sanctions: What is BDS?"><meta http-equiv="Last-Modified" name="LastModifiedDate" content="Wed, 11 January 2017 07:07:52 GMT"><meta name="Quote" content=""><meta name="twitter:image" content="http://www.aljazeera.com/mritems/Images/2017/1/10/2a41355352674bde85dba85260bae26c_18.jpg"><meta property="twitter:description" content="Everything you need to know about the Boycott, Divestment and Sanctions movement, and what's being done to combat BDS."><meta name="ContentType" content="Feature"><meta name="ContentIndexURL" content="/indepth/features/"><link rel="amphtml" href="http://www.aljazeera.com/amp/indepth/features/2017/01/boycott-divestment-sanctions-bds-170110165203991.html"><!-- Always force latest IE rendering engine (even in intranet)--> 
-<meta http-equiv="x-ua-compatible" content="ie=Edge">  
-<!-- or enable chrome Frame if available in IE -->
-<meta http-equiv="X-UA-Compatible" content="chrome=1" />
- 
-<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
-<!-- The content included from Article header file --> 
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta property="twitter:account_id" content="4970411" />
-<meta name="twitter:card" content="summary_large_image">
-<meta name="google-play-app" content="app-id=net.aljazeera.english">
- <link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
-<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
-<!--Site Scripts: To have all js functions required for website -->
-  <script src="/assets/scripts/jquery-1.11.1.min.js?i=1"></script>
-
- <script src="/assets/scripts/common.js?i=1"></script>
- <script src="//f1-eu.readspeaker.com/script/5707/ReadSpeaker.js?pids=embhl,custom&amp;skin=ReadSpeakerFloatingSkin" type="text/javascript"></script>
- <!-- <script src="//admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script> --> 
- 
- <script src="/AJEPlayer/v5_7/jwplayer.js" type="text/javascript"></script>
- <script src="/AJEPlayer/v5_7/swfobject.js?a=1" type="text/javascript"></script><!--GridSet-->
- <link href="/Assets/Styles/Plugins/colorbox.css" rel="stylesheet" />
- <script src="/Assets/Scripts/Plugins/jquery.colorbox.js"></script>
-
- <script src="/assets/scripts/SiteScripts.js?i=6" type="text/javascript"></script>
- <script src="/assets/scripts/brightcove.js?i=6" type="text/javascript"></script>
-
- <script src="/assets/scripts/JsonFeed.js?i=5"></script>
-
- <script src="/assets/scripts/ticker-plugin-script.js?x=8" type="text/javascript"></script>
- <script src="/assets/scripts/ticker-helper-script.js?x=2" type="text/javascript"></script>
-
- <link href="/assets/styles/GridSet_Style.css" rel="stylesheet" />
- <link href="/assets/styles/Markbolton_Style.css" rel="stylesheet" />
- <link href="/assets/styles/AJE_Custom_Styles.css?x=40" rel="stylesheet" />
- <link href="/assets/styles/H1Class.css" rel="stylesheet" />
- <link href="/assets/styles/CustomMasterHead.css" rel="stylesheet" />
- <link href="/assets/styles/Template_Boxes.css" rel="stylesheet" />
- <link href="/assets/styles/ticker-plugin-style.css?x=10" rel="stylesheet" /> 
- 
- <link  href="/assets/styles/bc-styles.css" rel="stylesheet" >
-
-<script type="text/javascript" src="https://cdns.gigya.com/js/gigya.js?apikey=3_6G4aGVfJdVoChfuB5nfPCBHvzYFfWvvhwmQz1-hHZo-mUDJ29NmDtcfEHx3L8ZjY">
-{"URL": $("meta[property='og:internalurl']").attr('content').toString() ,"enabledProviders":"facebook, twitter, yahoo, linkedIn, microsoft, googleplus, foursquare, vkontakte, renren, qq, sina, aol, blogger, wordpress, line, instagram"}</script>
-<!--<script type="text/javascript"  src='http://connect.facebook.net/en_US/all.js'></script>-->
-
- <script src="/assets/scripts/socialplugins.js?x=23" type="text/javascript"></script>
- <link href="/Assets/styles/ArticleSocialMediaTopBar.css" rel="stylesheet" type="text/css" />
-
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.afsc.org/sites/all/themes/afsc_seven/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.afsc.org/story/boycott-divestment-and-sanctions-explained" />
+<link rel="shortlink" href="https://www.afsc.org/node/7239" />
+<meta property="og:site_name" content="American Friends Service Committee" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.afsc.org/story/boycott-divestment-and-sanctions-explained" />
+<meta property="og:title" content="Boycott, divestment and sanctions explained" />
+<meta property="og:description" content="BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law." />
+<meta property="og:updated_time" content="2016-02-25T13:20:44-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.afsc.org/story/boycott-divestment-and-sanctions-explained" />
+<meta name="twitter:title" content="Boycott, divestment and sanctions explained" />
+<meta name="twitter:description" content="BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law." />
+<meta property="article:published_time" content="2013-02-28T14:53:10-05:00" />
+<meta property="article:modified_time" content="2016-02-25T13:20:44-05:00" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boycott, divestment and sanctions explained | American Friends Service Committee</title>
+  <style type="text/css" media="all">
+@import url("https://www.afsc.org/modules/system/system.base.css?ooz4ii");
+@import url("https://www.afsc.org/modules/system/system.menus.css?ooz4ii");
+@import url("https://www.afsc.org/modules/system/system.messages.css?ooz4ii");
+@import url("https://www.afsc.org/modules/system/system.theme.css?ooz4ii");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?ooz4ii");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.afsc.org/modules/aggregator/aggregator.css?ooz4ii");
+@import url("https://www.afsc.org/modules/comment/comment.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/date/date_api/date.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ooz4ii");
+@import url("https://www.afsc.org/modules/field/theme/field.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/fitvids/fitvids.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/logintoboggan/logintoboggan.css?ooz4ii");
+@import url("https://www.afsc.org/modules/node/node.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_admin/panopoly-admin.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_admin/panopoly-admin-navbar.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_magic/css/panopoly-magic.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_magic/css/panopoly-modal.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_theme/css/panopoly-featured.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_theme/css/panopoly-accordian.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_theme/css/panopoly-layouts.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets-spotlight.css?ooz4ii");
+@import url("https://www.afsc.org/modules/search/search.css?ooz4ii");
+@import url("https://www.afsc.org/modules/user/user.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/calendar/css/calendar_multiday.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/views/css/views.css?ooz4ii");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.afsc.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/ctools/css/ctools.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/panels/css/panels.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/modules/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/themes/open_framework/packages/bootstrap-2.3.1/css/bootstrap.min.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/themes/open_framework/packages/bootstrap-2.3.1/css/bootstrap-responsive.min.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/themes/open_framework/packages/font-awesome-4.3.0/css/font-awesome.min.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/libraries/superfish/css/superfish.css?ooz4ii");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.afsc.org/sites/all/themes/open_framework/css/open_framework.css?ooz4ii");
+@import url("https://www.afsc.org/sites/all/themes/afsc_seven/css/global.css?ooz4ii");
+</style>
+<style type="text/css" media="print">
+@import url("https://www.afsc.org/sites/all/themes/open_framework/css/open_framework_print.css?ooz4ii");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.afsc.org/sites/all/modules/panopoly_images/panopoly-images.css?ooz4ii");
+</style>
+  <script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://www.afsc.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.afsc.org/misc/drupal.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/fitvids/jquery.fitvids.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_images/panopoly-images.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/fitvids/fitvids.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_admin/panopoly-admin.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_magic/panopoly-magic.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_theme/js/panopoly-accordion.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/colorbox/js/colorbox.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/jquery.imagesloaded/jquery.imagesloaded.min.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/google_analytics/googleanalytics.js?ooz4ii"></script>
 <script type="text/javascript">
-window.rsConf = {settings: {hlicon: 'iconoff'}};
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-395473-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
 </script>
-<script src="/assets/scripts/article-header-general-run.js?i=2" type="text/javascript"></script>
-
-<!-- Facebook AJE Pixel Code -->
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=968100353246427&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook AJE Pixel Code -->
- <script src="/assets/scripts/prebid.js" type="text/javascript"></script>
- <script src="/assets/scripts/adsarticlescript.js?x=98" type="text/javascript"></script>
- <link href="/assets/styles/CustomHeaderAndFooter.css?x=25" rel="stylesheet" />
- <script src="/assets/scripts/CustomHeaderFooter.js?x=7" type="text/javascript"></script>
- <script src="/assets/scripts/CustomSiteScripts.js" type="text/javascript"></script>
- <script src="/assets/scripts/hcsticky.js" type="text/javascript"></script><!-- Feature header -->
-
- <meta name="twitter:site" content="@AJEnglish" />
- <link href="/assets/styles/CustomArticlePage.css?x=28" rel="stylesheet" />
-<script src="/assets/scripts/CustomArticleScript.js?x=14" type="text/javascript"></script>
-<script src="/assets/scripts/moment-with-locales.min.js"></script> 
+<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/packages/bootstrap-2.3.1/js/bootstrap.min.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/supposition.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/superfish.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/supersubs.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/superfish/superfish.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/js/open_framework.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/js/jquery.placeholder.min.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/js/override.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/afsc_seven/js/global.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/afsc_seven/js/search.js?ooz4ii"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"afsc_seven","theme_token":"u9pZRPjtSEqJ2W7Fjo15ptY-2duTdhFSoefQ6OX8eyE","js":{"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets.js":1,"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/panopoly_images\/panopoly-images.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"sites\/all\/modules\/panopoly_admin\/panopoly-admin.js":1,"sites\/all\/modules\/panopoly_magic\/panopoly-magic.js":1,"sites\/all\/modules\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/all\/themes\/afsc_seven\/js\/global.js":1,"sites\/all\/themes\/afsc_seven\/js\/search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/panopoly_admin\/panopoly-admin.css":1,"sites\/all\/modules\/panopoly_admin\/panopoly-admin-navbar.css":1,"sites\/all\/modules\/panopoly_magic\/css\/panopoly-magic.css":1,"sites\/all\/modules\/panopoly_magic\/css\/panopoly-modal.css":1,"sites\/all\/modules\/panopoly_theme\/css\/panopoly-featured.css":1,"sites\/all\/modules\/panopoly_theme\/css\/panopoly-accordian.css":1,"sites\/all\/modules\/panopoly_theme\/css\/panopoly-layouts.css":1,"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets.css":1,"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/afsc_seven\/css\/global.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/all\/modules\/panopoly_images\/panopoly-images.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"single"},"better_exposed_filters":{"views":{"Blog_Blocks":{"displays":{"block_11":{"filters":[]}}},"quotations":{"displays":{"block":{"filters":[]}}}}},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"responsive_menus":[{"toggler_text":"\u003Ci class=\u0022fa fa-bars\u0022\u003E\u003C\/i\u003E","selectors":["#superfish-1"],"media_size":"768","remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/story\/boycott-divestment-and-sanctions-explained":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/sites/all/themes/open_framework/packages/font-awesome-4.3.0/css/font-awesome-ie7.min.css" />  <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+  <script src="https://use.typekit.net/iqn6njn.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_89178.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6421672/7159152/css/fonts.css" />
 </head>
-<body>
-    <form id='Boycott-Divestment-Sanctions-BDS-170110165203991' name='Boycott-Divestment-Sanctions-BDS-170110165203991' method='post'>    
-    
-    
-     
 
-<!-- important tag dont remove(used to carry page context) -->
-<input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D75B86D370E885305B8322859475561C9E1E1BB4AED71EB05BF9EEF9F45FD017417546D30A0B7689767D53421594E5B79C22CC3E84DE1B43F8D337F3B65B58E0F17201D5B788378FB0AE5BBC097DF14A96028BF88A80A927A395B95D7A683BF50E0E5120EF5C06692686D321B8EABF0DD410932875BF5109B98D15AA17C962804D7EA9010AC875FA7C0C0781D08002F079137F7820B5CD724356561AD6D394AF9EEACB68AFF636EEB074B3EF7CB1548052E0F194AA86AC5062AB562D74BFF49B2593F5AD2B73BF76315C680D9536CF09F8E8C05865F6E77452F84D27E6FEAF6E713CC02DC5803A89F755F0C0DF44A5414B00DB195C4CE4B511994D337B609AD0EF98BA0A4C296BC6F1C1DB24B4B861E331FABF8BCAA55894D16A49E3A9E27266CF" data-postingguid="170110165203991">
-<div class="da-showgrid d-showgrid t-showgrid ta-showgrid m-showgrid">
-<header id="site-header">
-<!-- googleoff: index -->
-    <div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><div class="top-grey-bar">
-	<div class="top-social-wrapper">
-		<div class="wrapper clearfix">
-			<div class="socialmediaicons" id="SocialMediaIconsID">
-				<ul>
-					<li id="watchlive">
-						<a href="/watch_now/"><svg height="20px" version="1.1" viewbox="0 0 14 14" width="20px"> <desc>Created with Sketch.</desc> <defs></defs> <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"> <g fill="#A60015" id="Group" transform="translate(-186.000000, -27.000000)"> <g id="ajmn-icons_play" transform="translate(10.000000, 13.000000)"> <g transform="translate(176.000000, 14.000000)"> <path d="M6.84444444,13.0812889 C3.39982222,13.0812889 0.6076,10.2890667 0.6076,6.84444444 C0.6076,3.39982222 3.39982222,0.6076 6.84444444,0.6076 C10.2890667,0.6076 13.0812889,3.39982222 13.0812889,6.84444444 C13.0812889,10.2890667 10.2890667,13.0812889 6.84444444,13.0812889 L6.84444444,13.0812889 Z M6.84444444,0 C3.06444444,0 0,3.06444444 0,6.84444444 C0,10.6244444 3.06444444,13.6888889 6.84444444,13.6888889 C10.6244444,13.6888889 13.6888889,10.6244444 13.6888889,6.84444444 C13.6888889,3.06444444 10.6244444,0 6.84444444,0 L6.84444444,0 Z" id="Fill-1"></path> <path d="M5.45066667,4.43488889 L5.45066667,9.254 L9.48266667,6.84444444 L5.45066667,4.43488889" id="Fill-2"></path> </g> </g> </g> </g> </svg> <span>Watch Live</span> </a></li>
-					<li id="watchnow">
-						<a href="/watch_now/"><img alt="Watch Now" src="/mritems/images/site/WatchNow.png" title="Watch Now"></a></li>
-					<li id="facebook">
-						<a href="http://www.facebook.com/aljazeera" target="_blank"><img alt="Follow us on Facebook" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/facebook.png" title="Follow us on Facebook"></a></li>
-					<li id="twitter">
-						<a href="http://twitter.com/ajenglish" target="_blank"><img alt="Follow us on Twitter" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/twitter.png" title="Follow us on Twitter"></a></li>
-					<li id="instagram">
-						<a href="http://instagram.com/aljazeera" target="_blank"><img alt="Follow us on Instagram" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/instagram.png" title="Follow us on Instagram"></a></li>
-				</ul>
-			</div>
-			<!-- weather -->
-			<div class="m-hide weather-widgets" id="weatherwidgets">
-				&nbsp;</div>
-			<!-- /weather --></div>
-	</div>
-	<div class="wrapper clearfix">
-		<div class="top-search-wrapper">
-			<div class="live-watch-section">
-				<div class="arr-up">
-					&nbsp;</div>
-				<ul class="live-watch-play">
-					<li class="live-now-playing">
-						<a>Now Playing</a></li>
-					<li class="live-watch">
-						<span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallWatchIcon.png"> </span><a class="watch-anchor" href="/watch_now/" id="watch-now-link">Watch</a></li>
-				</ul>
-				<ul class="live-listen-play">
-					<li class="live-now-listening">
-						<a id="showing-now"> <!-- Showing Now --></a></li>
-					<li class="live-listen">
-						<a class="listen-anchor-img watch-anchor" href="http://listen.aljazeera.com/english/livestream?utm_source=AJE_website&amp;utm_medium=navbar&amp;utm_campaign=AJE_nav" id="listen-now-link" onclick="window.open(this.href,'ajlisten','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=380,height=567'); return false;" target="_blank"><span><img alt="" data-pin-nopin="true" src="/mrItems/Assets/Images/NewArticle/WatchLive_SmallListenIcon.png"> </span><span class="live-listen-wd">Listen</span></a></li>
-				</ul>
-				<ul class="TVScheduleLink">
-					<li>
-						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
-				</ul>
-			</div>
-			<div class="wrapper clearfix">
-				<div class="search-btn-section">
-					<ul>
-						<li id="watchlive-active">
-							<a href="#"><img src="/mrItems/Assets/Images/NewArticle/WatchNowPlayIcon_V1.png"> <span>Live</span> </a></li>
-						<li>
-							<button class="button-search-top" type="button">submit</button></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-7239 node-type-story       " >
+    <a href="#main" class="element-invisible element-focusable">Skip to content</a>
+<a href="#main-nav" class="element-invisible element-focusable" data-target=".nav-collapse" data-toggle="collapse">Skip to navigation</a>
+<!-- /#skipnav -->
+<!-- /#admin-shortcuts -->
+  <div class="page-top-wrapper">
+    <div class="container">
+      <div class="site-login" class="span12">
+        <div class="region region-site-login clearfix">
+  <div id="block-block-138" class="clearfix block block-block">       <div class="content"> <p><a href="https://www.facebook.com/AmericanFriendsServiceCommittee" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/afsc_org" target="_blank"><i class="fa fa-twitter"></i></a></p> </div>
+</div><div id="block-afsc-custom-salsa-seven-custom-email-signup-header" class="clearfix block block-afsc-custom-salsa-seven">       <div class="content"> 
+		<form action="/signup" method="GET" id="afsc_custom_salsa_signup_block">
+			<input placeholder="submit email for newsletter" type="text" name="email" />
+			<input type="Submit" value="Go" id="send" />
+		</form>
+	 </div>
+</div><div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/story/boycott-divestment-and-sanctions-explained" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
 </div>
-</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
-<!-- social media bars shown here -->
-<div class="wrapper clearfix">
-
-
-  <div class="ta1 da1" id="site-logo"><a class="current" href="/">al jazeera</a><img src="/mritems/assets/images/newarticle/a-j-e-overlay-copy.png" class="site-logo-img" style="cursor: pointer;"></div>
-
-<div class="ta2-ta6 d4" id="nav-account-search"><a href="#" id="nav-mobile-menu">menu</a>
-
-<nav class="ta2-ta4 nav-wide" id="nav-account-live">&nbsp;</nav>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://www.afsc.org/sites/all/themes/afsc_seven/images/glass.svg" /></div><input type="hidden" name="form_build_id" value="form-2bevfbp8QbXMtF_g1d5wcXqALEh_3F9aWe0RPE50qzI" />
+<input type="hidden" name="form_id" value="search_block_form" />
 </div>
-
-<div class="nav-group ta2-ta6 da2-da6">
-<div class="mobile-wrap">
-<div class="form-search" id="nav-form-search"><input class="field-search" name="search" id="search" type="text" value=""><button class="button-search" type="button">submit</button></div>
-<!-- <div friendlyname="topmenuheader" id="10" type="regular" zonepath="topmenuheader/pagetype/default" zonetemplate="pagetype"> -->
-
-<div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><nav id="nav-site" class="nav-wide da2-da4 clearfix" xmlns:media="http://search.yahoo.com/mrss/"><ul>
-    <li><a class="drop" href="/news/">News</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
-            <div class="drp-mega-left">
-              <ul>
-                <li><a href="/topics/regions/middleeast.html">Middle East</a></li>
-                <li><a href="/topics/regions/africa.html">Africa</a></li>
-                <li><a href="/topics/regions/asia.html">Asia</a></li>
-                <li><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
-              </ul>
-            </div>
-            <div class="drp-mega-right">
-              <ul>
-                <li><a href="/topics/regions/latin-america.html">Latin America</a></li>
-                <li><a href="/topics/regions/europe.html">Europe</a></li>
-                <li><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
-              </ul>
-            </div>
-          </div></nav></div>
-    </li>
-    <li><a href="/topics/regions/middleeast.html">Middle East</a></li>
-    <li><a class="drop" href="/documentaries/">Documentaries</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
-            <div class="drp-mega-left">
-              <ul>
-                <li><a href="/programmes/specialseries/">Featured Documentaries</a></li>
-                <li><a href="/programmes/witness/">Witness</a></li>
-                <li><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
-                <li><a href="/programmes/101east/">101 East</a></li>
-              </ul>
-            </div>
-            <div class="drp-mega-right">
-              <ul>
-                <li><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
-                <li><a href="/programmes/faultlines/">Fault Lines</a></li>
-                <li><a href="/programmes/rebel-education/">Rebel Education</a></li>
-                <li><a href="/programmes/latin-america-investigates/">Latin America Investigates</a></li>
-                <li><a href="/programmes/rewind/">REWIND</a></li>
-                <li><a href="/documentaries">All</a></li>
-              </ul>
-            </div>
-          </div></nav></div>
-    </li>
-    <li><a class="drop" href="/programmes/">Shows</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
-            <div class="drp-mega-left">
-              <ul>
-                <li><a href="/programmes/insidestory/">Inside Story</a></li>
-                <li><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
-                <li><a href="/programmes/listeningpost/">The Listening Post</a></li>
-                <li><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
-              </ul>
-            </div>
-            <div class="drp-mega-right">
-              <ul>
-                <li><a href="/programmes/the-big-picture/">The Big Picture</a></li>
-                <li><a href="/programmes/countingthecost/">Counting the Cost</a></li>
-                <li><a href="/programmes/upfront/">UpFront</a></li>
-                <li><a href="/programmes/earthrise/">earthrise</a></li>
-                <li><a href="/programmes/empire/">Empire</a></li>
-                <li><a href="/programmes" target="_self">All</a></li>
-              </ul>
-            </div>
-          </div></nav></div>
-    </li>
-    <li><a href="/investigations/">Investigations</a></li>
-    <li><a href="/indepth/opinion/">Opinion</a></li>
-    <li><a class="drop" href="#">More</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav class="&#xA;          nav-divider&#xA;        "><div class="subnav list nav-menu-width" style="margin-left: 2em;">
-            <div class="drp-mega-left">
-              <ul>
-                <li><a href="/indepth/features/">Features</a></li>
-                <li><a href="/indepth/inpictures/">In Pictures</a></li>
-                <li><a href="/indepth/interactive/">Interactive</a></li>
-                <li><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
-              </ul>
-            </div>
-            <div class="drp-mega-right">
-              <ul>
-                <li><a href="/shorts/">AJ Shorts</a></li>
-                <li><a href="/podcasts/">Podcasts &amp; Audio</a></li>
-                <li><a href="/blogs/">Reporter's Notebook</a></li>
-                <li><a href="/topics/categories/human_rights.html">Human Rights</a></li>
-                <li><a href="/topics/categories/sport.html">Sport</a></li>
-                <li><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
-                <li><a href="/topics/categories/weather.html">Weather</a></li>
-              </ul>
-            </div>
-          </div></nav></div>
-    </li>
-  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
-<!--menu goes here -->
-
-<div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><nav id="nav-topics" class="nav-wide t-all da-all" xmlns:media="http://search.yahoo.com/mrss/" xmlns:xs="http://www.w3.org/2001/XMLSchema"><ul>
-    <li id="NavTopTopics">Now:</li>
-    <li><a href="/topics/country/venezuela.html">Venezuela</a></li>
-    <li><a href="/topics/country/syria.html">Syria's Civil War</a></li>
-    <li><a href="/topics/country/north-korea.html">North Korea</a></li>
-    <li><a href="/topics/spotlight/french-elections-2017.html">French elections 2017</a></li>
-    <li><a href="/topics/country/united-kingdom.html">United Kingdom</a></li>
-  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
-<!-- <div id="weatherwidget" class="m-hide weather-widget"> </div> -->
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+      </div>
+    </div>
+  </div>
+<div id="header" class="clearfix header" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="header-section span12">
+                <div id="logo" class="site-logo"> <a href="/" title="Home" rel="home"> <img src="https://www.afsc.org/sites/all/themes/afsc_seven/images/AFSC-logo.svg" alt="" role="presentation" /> </a></div>
+                <!-- /#logo -->
+                        <div id="site" class="hide">
+          <div id="name"><a href="/">American Friends Service Committee</a></div>
+        </div>
+                <!-- /#name-and-slogan -->
+                <div id="header-content" class="row-fluid header-content"><div class="region region-header clearfix">
+  <div id="block-system-main-menu" class="clearfix block block-system block-menu">       <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="https://secure.afsc.org/onlineactions/bn8fRtQr_0eQvsHuqjq9WA2" title="">Donate</a></li>
+<li class="leaf"><a href="/get-involved" title="">Get Involved</a></li>
+<li class="leaf"><a href="/signup" title="">Stay Informed</a></li>
+<li class="last leaf"><a href="/blogs" title="">Blogs</a></li>
+</ul> </div>
+</div><div id="block-superfish-1" class="clearfix block block-superfish">       <div class="content"> <ul id="superfish-1" class="menu sf-menu sf-menu-top-menu sf-horizontal sf-style-none sf-total-items-3 sf-parent-items-2 sf-single-items-1"><li id="menu-11426-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about" title="" class="sf-depth-1 menuparent">About AFSC</a><ul><li id="menu-11522-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/mission-vision-and-values" class="sf-depth-2">Mission, Vision, and Values</a></li><li id="menu-11514-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="https://secure.afsc.org/onlineactions/_fSFQwV7o0m0usOv-FQjZQ2" title="" class="sf-depth-2">Donate Now</a></li></ul></li><li id="menu-11526-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/key-issues" class="sf-depth-1">Key Issues</a></li><li id="menu-11427-1" class="last odd sf-item-3 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/where-we-work" title="Locations of AFSC&#039;s projects, offices, and staff in the U.S. and internationally." class="sf-depth-1 menuparent">Where We Work</a><ul><li id="menu-11532-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/where-we-work" title="" class="sf-depth-2">Find a Location</a></li></ul></li></ul> </div>
+</div></div>
+ <!-- /.region -->
 </div>
-</div>
-</div>
+                <!-- /#header-content -->
+      </div>
 
-<div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><div class="form-wrapper-wrap" xmlns:media="http://search.yahoo.com/mrss/">
-  <div class="wrapper clearfix">
-    <div class="form-wrapper"><span class="genericon genericon-close search-close"></span><input class="field-search" id="searchText" placeholder="Search..." type="text"><nav id="search-nav-topics" class="nav-wide t-all da-all" xmlns:xs="http://www.w3.org/2001/XMLSchema"><ul>
-          <p class="most-searched">Most Searched</p>
-        </ul></nav></div>
+      <!-- /#site-login -->
+    </div>
   </div>
 </div>
-<div id="site-header-links" xmlns:media="http://search.yahoo.com/mrss/"></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div>
-<!-- googleon: index -->
- 
-</header>
-   
-</div>
-  <!-- news ticker -->
-<div id="header_container" style="display: none;">
-   <ul id="js-news" class="js-hidden">
-   </ul>
-</div>
-<div><div><div runat="server" style=";border-style:none"><!-- googleoff: index --><div id="div-gpt-ad-1430377943388-2" xmlns:media="http://search.yahoo.com/mrss/">  
-      
-       <script type="text/javascript">
-googletag.cmd.push(function() { 
-googletag.display('div-gpt-ad-1430377943388-2'); 
-});
-</script>
-      
-      </div><!-- googleon: index --></div></div></div>
-<div id="site-content">
+<!-- /#header -->
+
+<!-- Front Page Slideshow, Highlights, and Tagline -->
 
 
-<div id="Container_Zone_1" handle="header" type="regular"></div>
 
-<div id="placeholder1" type="content"><!-- comments goes here -->
-	<div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><div xmlns:media="http://search.yahoo.com/mrss/" xmlns:xs="http://www.w3.org/2001/XMLSchema"></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div id="main" class="wrapper clearfix"><div><div><div><div style="width:100%"><div><div class="page-section clearfix da-all da-pad ta-all ta-pad box"><div><div><div><div style="width:100%"><div><div id="main-content" class="clearfix box d-pad box-section-news da1-da4 ta1-ta4 ta-pad db-showgrid "><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><div xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"><article id="main-story" class="item"><header id="header-story" class="clearfix da-all da-pad ta-all ta-pad"><h3 class="heading-section"><a href="/indepth/features/" class="ContentType">Features</a><a class="FirstTopic" href="/topics/country/united-kingdom.html">United Kingdom</a></h3><hgroup><h1 class="heading-story">Boycott, Divestment, Sanctions: What is BDS?</h1>
-        <div>
-          <h2 class="standfirst">Everything you need to know about the Boycott, Divestment and Sanctions movement, and what's being done to combat BDS.</h2>
-          <p class="meta"><time datetime="11 Jan 2017 07:07 GMT">11 Jan 2017 07:07 GMT</time> | <span id="article-topics"><a href="/topics/categories/politics.html" data-topic-name="Politics">Politics</a>, <a href="/topics/country/united-kingdom.html" data-topic-name="United Kingdom">United Kingdom</a>, <a href="/topics/events/boycott.html" data-topic-name="Boycott">Boycott</a>, <a href="/topics/country/israel.html" data-topic-name="Israel">Israel</a>, <a href="/topics/categories/human_rights.html" data-topic-name="Human Rights">Human Rights</a></span></p>
-        </div></hgroup></header><div id="Article-Top-Toolbar" class="ArticleTopToolbar"></div><figure class="article-main-image"><img class="article-main-img" width="100%" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2017/1/10/2a41355352674bde85dba85260bae26c_18.jpg"><figcaption>File: Israeli border police and soldiers block Palestinian protesters in the occupied West Bank [EPA]</figcaption></figure><section class="profile clearfix"><a rel="author" href="/profile/hilary-aked.html"><img class="img-profile-large" onerror="this.src='/mritems/imagecache/profile/mritems/images/site/DefaultAvatar.jpg'" src="/mritems/imagecache/profile/mritems/Images/2017/1/10/2b362dfb3342499091b0fee84e5a0b39_6.jpg"></a><h2 class="heading-section">By</h2>
-      <h1><a rel="author" href="/profile/hilary-aked.html">Hilary Aked</a></h1>
-      <p class="meta twitterAccount"><img src="/assets/images/newarticle/TwitterSmallIcon.gif"><a target="_blank" href="https://twitter.com/hilary_aked">@hilary_aked</a></p>
-      <p>
-      </p></section><div id="article-body" class="article-body"><h2><span lang="EN-GB">What is BDS?</span></h2>
-<p><span lang="EN-GB">BDS stands for Boycott Divestment and Sanctions (and not, as Israeli Prime Minister Benjamin Netanyahu has </span>claimed<span lang="EN-GB">, for "bigotry, dishonesty and shame").</span></p>
-<p><span lang="EN-GB">The BDS movement's three aims are grounded in international law and fundamental rights. </span></p>
-<p><span lang="EN-GB">It seeks to end the occupation and dismantle Israel's illegal wall and settlements, demands full equality for Palestinian citizens of Israel, and calls for the rights of Palestinian refugees to be upheld.</span> </p>
-<h2><span lang="EN-GB">When did it start and why?</span></h2>
-<p><span lang="EN-GB">The BDS movement began when a coalition of 170 Palestinian civil society groups issued a </span>call<span lang="EN-GB"> to "people of conscience" around the world on July 9, 2005.</span></p>
-<p><span lang="EN-GB">Palestinians </span>argue<span lang="EN-GB"> that a global citizens' movement is necessary because - despite decades of "</span>peace process" facade<span lang="EN-GB"> - political leaders have failed to end Israel's settler-colonialism, ethnic cleansing and apartheid practices. In fact, they continue to enable them.</span></p>
-<p><span lang="EN-GB">Therefore, only bottom-up pressure from ordinary people will force governments to end Israel's impunity and help create a just peace based on </span>freedom, justice and equality<span lang="EN-GB">.</span></p>
-<h2><span lang="EN-GB">What has the BDS movement achieved?</span></h2>
-<p><span lang="EN-GB">In the decade since its launch, the BDS movement has gradually accumulated successes around the world, from </span>US churches<span lang="EN-GB"> to </span>UK campuses<span lang="EN-GB">, </span>Egyptian trade unions<span lang="EN-GB"> to the </span>Bolivian government<span lang="EN-GB">.</span></p>
-<p><span lang="EN-GB">In the </span>economic<span lang="EN-GB"> sphere, </span>Veolia<span lang="EN-GB"> and </span>G4S<span lang="EN-GB"> - multinational corporations involved in Israel's oppression of Palestinians - lost billions of dollars due to BDS campaigns and announced withdrawals from Israel. Foreign direct investment into Israel </span>dropped<span lang="EN-GB"> 46 percent in 2014.</span></p>
-<p><span lang="EN-GB">Tens of thousands of students globally have pushed forward the </span>academic boycott<span lang="EN-GB">, backed by figures such as </span>Stephen Hawking<span lang="EN-GB">, </span>Angela Davis<span lang="EN-GB"> and </span>Judith Butler<span lang="EN-GB">. Meanwhile, the likes of author </span>Alice Walker<span lang="EN-GB">, ex-Pink Floyd musician </span>Roger Waters<span lang="EN-GB"> and critically acclaimed filmmaker </span>Ken Loach<span lang="EN-GB"> have lent their support to the </span>cultural boycott<span lang="EN-GB">.</span></p>
-<p><span lang="EN-GB">Importantly, the BDS movement has also been endorsed by </span>anti-colonial Israelis<span lang="EN-GB"> and other </span>Jewish groups<span lang="EN-GB">, as well as </span>Black Lives Matter<span lang="EN-GB">.</span> </p>
-<h2><span lang="EN-GB">Is BDS racist?</span></h2>
-<p><span lang="EN-GB">Some of Israel's defenders claim that BDS is </span>racist<span lang="EN-GB">. In fact, quite </span>the opposite<span lang="EN-GB"> is true.</span></p>
-<p><span lang="EN-GB">Far from targeting individuals on the grounds of ethnicity or nationality, BDS targets institutions on the grounds of complicity in human rights violations and explicitly </span>opposes all forms of racism<span lang="EN-GB">. That's precisely why it seeks to end Israel's entrenched system of </span>racial discrimination and ethnic privilege<span lang="EN-GB">. </span></p>
-<p><span lang="EN-GB">In this sense, BDS is comparable with - and takes direct inspiration from - the historic </span>anti-apartheid movement<span lang="EN-GB"> which helped to isolate South Africa globally and </span>end white rule<span lang="EN-GB">.</span></p>
-<h2><span lang="EN-GB">Who opposes BDS?</span></h2>
-<p><span lang="EN-GB">Since around 2010, Israel has stepped up its </span>fight against BDS<span lang="EN-GB"> and so-called "</span>de-legitimisation"<span lang="EN-GB">. In 2011, the Knesset passed a draconian </span>law<span lang="EN-GB"> against advocating boycotts within Israel. But internationally, this was counterproductive.</span></p>
-<p><span lang="EN-GB">By mid-2015, panicky Israeli leaders were </span>calling<span lang="EN-GB"> the non-violent movement a "strategic threat". Minister of Strategic Affairs Gilad Erdan was </span>given the task of<span lang="EN-GB"> leading the counter-boycott effort, with an annual budget of </span>$25m<span lang="EN-GB"> and supported by </span>military intelligence<span lang="EN-GB"> agencies.</span></p>
-<p><span lang="EN-GB">Erdan stresses the need for cooperation with a network of </span>Zionist<span lang="EN-GB"> groups abroad, because </span>ostensibly independent<span lang="EN-GB"> groups are more credible messengers in civil society. He </span>explained<span lang="EN-GB">: "It's not necessarily good that the government is at the front of this battle."</span></p>
-<p><span lang="EN-GB">Because of this, Israeli embassies - many of which have </span>dedicated<span lang="EN-GB"> anti-BDS staff - work closely with </span>Israel lobby<span lang="EN-GB"> groups behind the scenes, as </span>Al Jazeera's investigation<span lang="EN-GB"> "The Lobby" shows. The investigation also confirms another official tactic: establishing </span>front groups<span lang="EN-GB"> and bodies which appear to be </span>grassroots<span lang="EN-GB"> but are actually "</span>astroturf"<span lang="EN-GB">.</span></p>
-<p><span lang="EN-GB">Wealthy supporters of Israel such as </span>Sheldon Adelson<span lang="EN-GB"> and </span>Haim Saban <span lang="EN-GB">in the United States and </span>Trevor Pears<span lang="EN-GB"> in the UK have pumped large sums of money into a plethora of anti-boycott initiatives. And increasingly, the Israeli government and pro-Israel groups </span>team up<span lang="EN-GB"> to create global </span>public-private partnerships<span lang="EN-GB"> against BDS.</span></p>
-<h2><span lang="EN-GB">What has the counter-BDS movement achieved?</span></h2>
-<p><span lang="EN-GB">Unable to win the argument politically, Israel and its allies are waging an aggressive "</span>lawfare"<span lang="EN-GB"> campaign.</span></p>
-<p><span lang="EN-GB">Thanks to friends in high places, they have had considerable success promoting laws to criminalise BDS, with </span>about 20 US states<span lang="EN-GB"> considering anti-boycott bills. Another dimension has been prosecutions of activists, everywhere from </span>Australia<span lang="EN-GB"> to </span>France<span lang="EN-GB">.</span></p>
-<p><span lang="EN-GB">However, BDS </span>continues<span lang="EN-GB"> to grow rapidly. Legal experts and the European Union have defended the </span>right to boycott<span lang="EN-GB"> as a </span>free speech issue<span lang="EN-GB">. And </span>several<span lang="EN-GB"> pro-Israel lawfare cases - for example in the UK where </span>attempts to suppress BDS<span lang="EN-GB"> are also facing a </span>legal challenge<span lang="EN-GB"> - have </span>failed spectacularly<span lang="EN-GB">.</span></p>
-<h2><span lang="EN-GB">What does the future hold?</span></h2>
-<p><span lang="EN-GB">Can a voluntary grassroots movement facing off against a well-funded, state-led, and </span>elite-driven<span lang="EN-GB"> counterattack really hope to survive?  </span></p>
-<p><span lang="EN-GB"><span lang="EN-GB">Expect to see the fight get even nastier with more lawsuits, </span>McCarthyism<span lang="EN-GB">, "</span>black ops"<span lang="EN-GB"> and </span>smear tactics<span lang="EN-GB">, covert </span>intelligence gathering<span lang="EN-GB"> and restrictions on BDS activists' </span>freedom<span lang="EN-GB"> of </span>movement<span lang="EN-GB">. As Amnesty International has noted with concern, there have even calls for "</span>targeted civil eliminations"<span lang="EN-GB">.</span></span></p>
-<p><span lang="EN-GB">But Israel's forte has always been the hard power of military coercion. Indeed, its diplomats appear unable to comprehend the BDS movement without comparing it with a </span>war<span lang="EN-GB">. It is </span>clueless<span lang="EN-GB"> about how to deal with a non-hierarchical social movement waging a struggle on the terrain of moral persuasion.</span></p>
-<p><span lang="EN-GB">As long as Israel flouts international law, no amount of money, repression or "</span>Brand Israel" propaganda<span lang="EN-GB"> will stop the BDS movement continuing to grow and make crucial contributions to Palestinians' struggle for justice.</span></p><p style="margin-top: 3em;"><span style="color: #8e8e8e !important;">Source:</span> <span style="color: #212121 !important;">Al Jazeera</span></p>
+    <div class="title-region-wrapper">
+      <div class="container">
+
+        <!-- Title Region for Delta Blocks Title -->
+                  <div id="title-region" class="row-fluid title-region"> <div class="region region-title-region clearfix">
+  <div id="block-delta-blocks-page-title" class="clearfix block block-delta-blocks">       <div class="content"> <h1 id="page-title" class="title">Boycott, divestment and sanctions explained</h1> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                <!-- End Title Region -->
+
+        <!-- Page Title -->
+                          <h1 class="title" id="page-title"> Boycott, divestment and sanctions explained </h1>
+                        <!-- End Page Title -->
+
+      </div>
     </div>
-    <div class="ArticleBottomToolbar"></div></article>
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-        "@type": "Article",
-    
-        "mainEntityOfPage": "http://www.aljazeera.com/indepth/features/2017/01/boycott-divestment-sanctions-bds-170110165203991.html",
-        "headline": "Boycott, Divestment, Sanctions: What is BDS?",
-    "datePublished": "11 Jan 2017 07:07 GMT",  
-    "description": "Everything you need to know about the Boycott, Divestment and Sanctions movement, and what's being done to combat BDS.",
-    "author": {
-        "@type": "Person",
-        "name": "Hilary Aked"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Al Jazeera",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "http://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
-        "width": 250,
-        "height": 40
-      }
-    }, 
-    "image": {
-        "@type": "ImageObject",
-        "url": "http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2017/1/10/2a41355352674bde85dba85260bae26c_18.jpg",
-            "height": 800,
-            "width": 450
-    }
-}
-</script>
-</div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="GlobalFeaturedContentBlock" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div runat="server" style="border-style:none;"><!-- googleoff: all --><section id="shows-catchup" class="page-section-full" xmlns:media="http://search.yahoo.com/mrss/"><div class="heading-section h1class" cn="PageTitle">MORE FROM AL JAZEERA</div><article class="item blurb d1 t1-t2"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="http://interactive.aljazeera.com/aje/2017/malawi-killed-for-their-bones/index.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2017/4/19/d8fcb0247a1c4ad7ac079f2aaff6d7b7_18.jpg" alt="On the trail of the trade in human body parts" title="On the trail of the trade in human body parts"></a><div>
-      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="http://interactive.aljazeera.com/aje/2017/malawi-killed-for-their-bones/index.html">On the trail of the trade in human body parts</a></h4>
-      <p>In Malawi, people with albinism are being killed for their bones. Al Jazeera investigates what is driving these murders.</p>
-      <p class="meta"><a href="/topics/country/malawi.html">Malawi</a>, <a href="/topics/regions/africa.html">Africa</a>, <a href="/topics/categories/human_rights.html">Human Rights</a></p>
-    </div></article><article class="item blurb d2 t3-t4"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/11/tales-uganda-female-child-soldiers-151130115418168.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2015/11/30/e7bfe8571eda4b8886d5ea88e01b1fa5_18.jpg" alt="Tales from Uganda's female former child soldiers" title="Tales from Uganda's female former child soldiers"></a><div>
-      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/11/tales-uganda-female-child-soldiers-151130115418168.html">Tales from Uganda's female former child soldiers</a></h4>
-      <p>How do women who were abducted as children, raped and forced to kill, reintegrate into their communities?</p>
-      <p class="meta"><a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/country/uganda.html">Uganda</a>, <a href="/topics/issues/children-rights.html">Child rights</a></p>
-    </div></article><article class="item blurb d3 t1-t2"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2017/04/germany-islam-world-war-170410070627588.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2017/4/11/c4b94bf169eb4baabcb5da541b3a6498_18.jpg" alt="How Germany used Islam during World War I" title="How Germany used Islam during World War I"></a><div>
-      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2017/04/germany-islam-world-war-170410070627588.html">How Germany used Islam during World War I</a></h4>
-      <p>A refugee camp in a small German town stands on the spot of a mosque built to entice Muslims to fight for the kaiser.</p>
-      <p class="meta"><a href="/topics/categories/humanitarian-crises.html">Humanitarian crises</a>, <a href="/topics/country/germany.html">Germany</a>, <a href="/topics/country/syria.html">Syria's Civil War</a></p>
-    </div></article><article class="item blurb d4 t3-t4"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/news/2016/05/syria-civil-war-explained-160505084119966.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2017/4/10/4d51d67598c1439da6d34410ccc0a8fe_18.jpg" alt="Syria's civil war explained from the beginning" title="Syria's civil war explained from the beginning"></a><div>
-      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/news/2016/05/syria-civil-war-explained-160505084119966.html">Syria's civil war explained from the beginning</a></h4>
-      <p>The Syrian civil war is the deadliest conflict the 21st century has witnessed so far.</p>
-      <p class="meta"><a href="/topics/country/syria.html">Syria's Civil War</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a></p>
-    </div></article></section><!-- googleon: all --></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div><div><div style="width:100%"><div><aside id="main-content-sidebar" class="da5-da6 ta5-ta6 da-pad ta-pad box db-showgrid " type="renderzoneblock"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="AlJazeeraAdsBox" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><section class="divgptad" style="text-align: center;" type="renderzoneblock"><div><div runat="server" style=";border-style:none"><!-- googleoff: index --><div class="RightSideAds" id="toprightlongad" xmlns:media="http://search.yahoo.com/mrss/"></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section-news da-all da-pad ta-all ta-pad" xmlns:media="http://search.yahoo.com/mrss/" xmlns:xs="http://www.w3.org/2001/XMLSchema"><h1 class="heading-section TS_MainTitle" cn="MainTitle">Related</h1><article class="blurb-wide clearfix"><a href="/news/2017/01/israels-parliamentary-plot-uk-politicians-170107220710691.html" class="play-minor"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/1/7/36a799ef33614131b5c9229526d5f345_18.jpg" alt="Israel’s parliamentary plot against UK politicians" title="Israel’s parliamentary plot against UK politicians"></a><div class="db2-db3">
-      <h1 class="&#xA;            cntype-200771816342556199"><a href="/news/2017/01/israels-parliamentary-plot-uk-politicians-170107220710691.html">Israel’s parliamentary plot against UK politicians</a></h1>
-      <p>Al Jazeera reveals discussions of Israel diplomat and British civil servant to "take down" anti-settlement politicians.</p>
-      <p class="meta da-clear"><a href="/topics/country/united-kingdom.html">United Kingdom</a>, <a href="/topics/country/israel.html">Israel</a>, <a href="/topics/categories/politics.html">Politics</a></p>
-    </div></article><article class="blurb-wide clearfix"><a href="/indepth/opinion/2016/07/bds-war-israel-win-160711070045873.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2016/7/11/89fca667a6c54d75b6c36dff62c45e26_18.jpg" alt="A pro-Palestinian protester supporting the BDS campaign against Israel takes part in a demonstration in Cape Town, South Africa [Getty]" title="BDS is a war Israel can't win"></a><div class="db2-db3">
-      <h1 class="&#xA;            cntype-201172416000000001"><a href="/indepth/opinion/2016/07/bds-war-israel-win-160711070045873.html">BDS is a war Israel can't win</a></h1>
-      <p>Israel's apologists would call the BDS campaign "immoral", but the slander is laughably false.  </p>
-      <p class="meta da-clear"><a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/country/israel.html">Israel</a>, <a href="/topics/country/palestine.html">Palestine</a></p>
-    </div></article><ul class="list da-clear"></ul></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div guid="" path="MostViewedToday" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><div class="MostViewedArticlesNew" xmlns:js="urn:custom-javascript" xmlns:systemclass="Oryx" xmlns:media="http://search.yahoo.com/mrss/"><!-- googleoff: index --><section class="page-section box-section ta-all ta-pad da-pad da-all "><div class="heading-section h1class">Trending</div>
-    <ol class="list">
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2017/04/paris-shots-fired-champs-elysees-170420193800324.html" target="">Police officer shot dead in Paris, gunman killed</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="http://interactive.aljazeera.com/aje/2017/malawi-killed-for-their-bones/index.html" target="">Killed for their bones - On the trail of the trade in human body parts</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2017/04/mahmoud-ahmadinejad-disqualified-iran-elections-170420190716061.html" target="">Ahmadinejad 'disqualified' from running in Iran poll</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2017/04/venezuelan-opposition-renews-protests-maduro-170420173517381.html" target="">Anti-Maduro crowds hit Venezuela streets for second day</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/features/2017/04/venezuela-happening-170412114045595.html" target="">Venezuela's crisis explained from the beginning</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2016/05/syria-civil-war-explained-160505084119966.html" target="">Syria's war explained from the beginning</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2017/04/china-launches-unmanned-cargo-spacecraft-170420164718154.html" target="">China launches first cargo spacecraft </a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/news/2017/04/iraqi-forces-gains-isil-mosul-170420143243788.html" target="">Iraqi forces 'make further gains' against ISIL in Mosul</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/features/2017/03/pakistani-migrant-workers-face-exploitation-greece-170325065743630.html" target="">'My biggest regret': Being a migrant worker in Greece</a></li>
-      <li><a onclick="sendGAEvent('Right Lane','click','Most Viewed Articles');" href="/indepth/features/2017/04/le-pen-support-young-voters-170415161404170.html" target="">Why does Le Pen get so much support from young voters?</a></li>
-    </ol></section><!-- googleon: index --></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></aside></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div>
-</div>
-
-<div id="Container_Zone_3" handle="footer" type="regular"></div>
 
 
-<div>
-<div><div><div><div><div style="width:100%"><div><section class="dark m-hide oryx-custom-clear" type="renderzoneblock"><div><div runat="server" style=";border-style:none"><?xml version="1.0" encoding="utf-16"?><!-- googleoff: index --><div class="wrapper" xmlns:media="http://search.yahoo.com/mrss/" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:systemclass="Oryx"><div class="heading-section h1class">MUST-SEE PROGRAMMES</div><article class=" item blurb  t1 d1"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/techknow/">TechKnow</a></h4><a href="/programmes/techknow/2017/04/curing-cancer-170409105644828.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/4/9/2ff358b9bf5d4121bffb9be4c62a3893_18.jpg" alt="Curing Cancer" title="Curing Cancer"></a><h4><a href="/programmes/techknow/2017/04/curing-cancer-170409105644828.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Curing Cancer</a></h4><p>An innovative gene therapy has produced a significant breakthrough that could lead to a cure for cancer.</p><p class="meta"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a>, <a href="/topics/categories/health.html">Health</a>, <a href="/topics/regions/us-canada.html">US &amp; Canada</a></p></article><article class=" item blurb  t2 d2"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/rewind/">REWIND</a></h4><a href="/programmes/rewind/2017/03/liberia-aftermath-ebola-170307085719057.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/3/7/6a4e99c8e6534da99dd96e42897bf0e6_18.jpg" alt="Liberia: Aftermath of Ebola" title="Liberia: Aftermath of Ebola"></a><h4><a href="/programmes/rewind/2017/03/liberia-aftermath-ebola-170307085719057.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Liberia: Aftermath of Ebola</a></h4><p>A personal journey reveals how anger and fear fuelled the Ebola crisis that ravaged West Africa.</p><p class="meta"><a href="/topics/regions/africa.html">Africa</a>, <a href="/topics/categories/health.html">Health</a></p></article><article class=" item blurb  t3 d3"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/the-big-picture/">The Big Picture</a></h4><a href="/programmes/the-big-picture/2017/02/big-picture-making-breaking-europe-170215130636456.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/2/3/760145f40fa2409589f55dd40cf99ab4_18.jpg" alt="The Making and Breaking of Europe " title="The Making and Breaking of Europe "></a><h4><a href="/programmes/the-big-picture/2017/02/big-picture-making-breaking-europe-170215130636456.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">The Making and Breaking of Europe </a></h4><p>We analyse how populist far-right movements are challenging the promise of an integrated union. </p><p class="meta"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/regions/europe.html">Europe</a></p></article><article class=" item blurb  t4 d4"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/specialseries/">Featured Documentaries</a></h4><a href="/programmes/specialseries/2017/03/occupation-american-mind-170304122330451.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2017/3/7/a9b7987c35ad469abacd513bcd794c4f_18.jpg" alt="Occupation of the American Mind " title="Occupation of the American Mind "></a><h4><a href="/programmes/specialseries/2017/03/occupation-american-mind-170304122330451.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Occupation of the American Mind </a></h4><p>A look at the information wars waged by Israel and its supporters to win the hearts and minds of the American people.</p><p class="meta"><a href="/topics/categories/media.html">Media</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/country/israel.html">Israel</a></p></article></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
-</div>
 
-<div>
-<!-- googleoff: index -->
-<div><div><div><div><div style="width:100%"><div><div><div runat="server" style=";border-style:none"><footer id="site-footer">
-	<div class="FooterTopBar">
-		<nav class="nav-social wrapper clearfix" id="footer-nav">
-			<p>
-				<a href="#"><!--[if (!IE) | (gt IE 8)]><!--></a><img alt="Al Jazeera" class="t1 da1" id="footer-logo" onerror="this.onerror=null; this.src='/mritems/images/site/logo-footer.png'" src="/mritems/images/site/aje-logo-white.svg"> <!--<![endif]--><!--[if lte IE 8]><img class="t1 da1" id="footer-logo" src="img/logo-footer.png" alt="Al Jazeera" /><![endif]--></p>
-			<ul class="ta1-t4 da2-da4" id="footer-nav-main">
-				<li>
-					<a href="/news/">News</a></li>
-				<li>
-					<a href="/programmes/">Programmes</a></li>
-				<li>
-					<a href="/indepth/opinion/">Opinion</a></li>
-				<li>
-					<a href="/aboutus/">About</a></li>
-				<li>
-					<a href="/investigations/">Investigations</a></li>
-				<li class="for-mobile" style="display: none;">
-					<a href="/contactus/">Contact Us</a></li>
-				<li class="last m-hide">
-					<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
-			</ul>
-			<ul id="footer-nav-social">
-				<li>
-					<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
-				<li>
-					<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
-				<li>
-					<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
-				<li>
-					<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
-				<li>
-					<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
-				<li>
-					<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
-				<li>
-					<a class="Snapchat" href="https://www.snapchat.com/add/AJENews">SnapChat</a></li>
-			</ul>
-		</nav>
-		<p class="copyright for-mobile" style="display: none;margin-left: 20px;">
-			© 2017 Al Jazeera Media Network</p>
-	</div>
-	<div class="wrapper m-hide clearfix">
-		<div class="ta1-ta2">
-			<nav class="m1 da1 da-clear">
-				<div class="heading-list h1class">
-					About</div>
-				<ul class="list">
-					<li>
-						<a href="/aboutus/">About Us</a></li>
-					<li>
-						<a href="/pressoffice/">Press Office</a></li>
-					<li>
-						<a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
-					<li>
-						<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
-					<li>
-						<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
-					<li>
-						<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
-					<li>
-						<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
-				</ul>
-			</nav>
-			<nav class="m2 da2">
-				<div class="heading-list h1class">
-					Connect</div>
-				<ul class="list">
-					<li>
-						<a href="/contactus/">Contact Us</a></li>
-					<li>
-						<a href="/connect/">Apps</a></li>
-					<li>
-						<a href="/aboutus/follow-us.html">Social</a></li>
-					<li>
-						<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
-					<li>
-						<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
-					<li>
-						<a href="/programmes/Podcasts.html">Podcasts</a></li>
-					<li>
-						<a href="/newsletter">Newsletter</a></li>
-				</ul>
-			</nav>
+<div id="main" class="clearfix main" role="main">
+  <div class="container">
+                <div id="main-content" class="row-fluid main-content">
+            <div id="content" class="mc-content span9">
+        <div id="content-wrapper" class="content-wrapper">
+          <div id="content-head" class="row-fluid content-head">
+            
+
+                                                          </div>
+                    <div id="content-top" class="row-fluid content-top"> <div class="region region-content-top clearfix">
+  <div id="block-afsc-custom-seven-custom-share-widgets" class="clearfix block block-afsc-custom-seven">       <div class="content"> 
+		<div class="addthis_toolbox">
+			<div class="custom_images">
+        <a class="addthis_button_facebook"><i class="fa fa-facebook"></i></a>
+        <a class="addthis_button_twitter"><i class="fa fa-twitter"></i></a>
+        <a class="addthis_button_tumblr"><i class="fa fa-tumblr"></i></a>
+        <a class="addthis_button_email"><i class="fa fa-envelope"></i></a>
+			</div>
 		</div>
-		<div class="ta3-ta4">
-			<nav class="m1 da3">
-				<div class="heading-list h1class">
-					Our Channels</div>
-				<ul class="list">
-					<li>
-						<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
-					<li>
-						<a href="http://aljazeera.com" target="_blank">Al Jazeera English</a></li>
-					<li>
-						<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
-					<li>
-						<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
-					<li>
-						<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
-					<li>
-						<a href="http://www.aljazeera.com.tr" target="_blank">Al Jazeera Turk</a></li>
-					<li>
-						<a href="http://ajplus.net" target="_blank">AJ+</a></li>
-				</ul>
-			</nav>
-			<nav class="m2 da4">
-				<div class="heading-list h1class">
-					Our Network</div>
-				<ul class="list">
-					<li>
-						<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
-					<li>
-						<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
-					<li>
-						<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
-					<li>
-						<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
-					<li>
-						<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
-					<li>
-						<a href="http://learning.aljazeera.net" target="_blank">Al Jazeera Learning</a></li>
-					<li>
-						<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
-				</ul>
-			</nav>
-		</div>
-		<div class="ta5-ta6">
-			<nav class="m1 da5">
-				<div class="heading-list h1class">
-					&nbsp;</div>
-				<ul class="list">
-				</ul>
-			</nav>
-			<nav class="m2 da6">
-				<p class="copyright">
-					© 2017 Al Jazeera Media Network</p>
-			</nav>
-		</div>
-	</div>
-</footer>
-<p>
-	&nbsp;</p>
-</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
-<!-- googleon: index -->
+		<script type="text/javascript">
+      var addthis_config = {
+         data_ga_property: 'UA-395473-1',
+         data_ga_social : true
+      };
+			var addthis_share = {
+				url_transforms : {
+          shorten: {
+               twitter: 'bitly'
+          }
+				 },
+				 shorteners : {
+							bitly : {}
+				 }
+			};
+		</script>
+		<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-537cfc37095c5d60"></script>
+	 </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                                        <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-7239" class="node node-story clearfix">              <div class="date-created">Published: February 28, 2013 </div>
+    <div class="content">
+      	<div class="thumbs-left"><div class="thumb"><a href="#modal-thumb-7237" role="button" data-toggle="modal"><img src="https://www.afsc.org/sites/afsc.civicactions.net/files/styles/normal/public/images/TC-17-7-12-022.JPG?itok=RmtOZdwz" alt="" title="" /></a><div class="afsc-caption"><em>Photo: AFSC</em></div>
+    <div id="modal-thumb-7237" class="modal hide fade" tabindex="-1" aria-labelledby="modal-thumb-7237-label" aria-hidden="true">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="modal-thumb-7237-label" class="invisible">TIAA-CREF Protest - SF</h3>
+      </div>
+      <div class="modal-body">
+        <img src="https://www.afsc.org/sites/afsc.civicactions.net/files/styles/maxsize/public/images/TC-17-7-12-022.JPG?itok=i9GCiBEN" alt="" title="" /><div class="afsc-caption"><em>Photo: AFSC</em></div>
+      </div>
+    </div></div></div>    
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>AFSC and BDS</h3>
+<p>AFSC’s Israel-Palestine work is guided by its <a href="http://afsc.org/document/principles-just-and-lasting-peace-between-palestinians-and-israelis">“Principles for a Just and Lasting Peace in Palestine and Israel.”</a> These principles support the implementation of international human rights and humanitarian law and call for an end to Israel’s occupation of the Palestinian territories, support self-determination for both Israelis and Palestinians, implementation of refugees’ right of return, and equality for Palestinians and Israelis.  In the context of Israel and Palestine AFSC supports the the use of boycott and divestment campaigns targeting only companies that support the occupation, settlements, militarism, or any other violations of international humanitarian or human rights law. Our position does not call for a full boycott of Israel nor of companies because they are either Israeli or doing business in Israel.  Our actions also never focus on individuals.</p>
+<p>Our support for the use of boycotts and divestments is contextualized by Quakers and AFSC's long support for boycotts, divestment, and sanctions as economic tactics that appeal to human conscience and change behavior. In the 1800s, Quakers helped lead the “Free Produce Movement,” a boycott of goods produced using slave labor. In recent times, AFSC has participated in boycott and divestment campaigns connected to the in the civil rights, anti-apartheid, farm worker, and prison rights struggles. Since 1948 AFSC has worked with both Palestinians and Israelis to achieving a just and lasting peace and we remain committed to supporting nonviolent activism designed to achieve this end. Taking into account AFSC principles and history, AFSC supports all nonviolent efforts to realize peace and justice in Israel and Palestine including the strategic use of boycott, divestment, and sanctions tactics.</p>
+<h3>What is BDS?</h3>
+<p>BDS stands for Boycott, Divestment and Sanctions. In the Israel-Palestine context, BDS  refers to a call issued by over 170 Palestinian organizations in 2005 asking that the international community implement boycott and divestment initiatives to bring change in Israel and Palestine. The initial Palestinian call was signed by a broad coalition that included unions, academics, political parties, cultural groups, and civil society organizations. </p>
+<p>BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law. Boycott and divestment actions therefore target institutions and companies (Israeli and international) that profit from or are complicit in the violation of Palestinian rights with the goal of changing corporate/institutional and Israeli actions. In all cases, BDS actions target institutions—not individuals—for their complicity in Israel’s occupation and/or human rights abuses. </p>
+<h3>What does BDS hope to accomplish?</h3>
+<p>The Palestinian BDS call requests that international civil society groups and individuals target Israel using boycott, divestment, and sanctions tactics until Israel meets its obligation under international law to recognize the Palestinian people’s right to self-determination and:</p>
+<ol><li>Ends its occupation of all Arab lands and dismantles the Wall</li>
+<li>Recognizes the fundamental rights of the Arab-Palestinian citizens of Israel to full equality</li>
+<li>Respects, protects, and promotes the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194</li>
+</ol><h3>Who leads the “BDS movement”?</h3>
+<p>The “BDS movement” is made up of an informal coalition of international, national, and local groups that include faith-based organizations, peace groups, solidarity and student activists, and other coalitions of concerned individuals. Supporters of the Palestinian BDS Call hold in common a commitment to using nonviolent boycott, divestment, and sanctions tactics until Israel ends its occupation and complies with the rights outlined above.</p>
+<h3>What does BDS look like?   </h3>
+<p>Boycott, divestment, and sanctions are nonviolent tactics used by activists to help realize specific changes. They are not ends unto themselves.  For this reason, <em>BDS is not a one-size fits all movement</em> but rather is a movement that recognizes the importance of carrying out customized actions targeted to local contexts and political realities. In this sense there is no leadership within the BDS movement that dictates what actions activists should take to help realize the three core BDS rights. However, the <a href="http://www.endtheoccupation.org/">Boycott National Committee</a> was set up in 2007 by the Palestinian signatories to the 2005 BDS Call and plays a core role in coordinating and building awareness about BDS actions and successes around the world. </p>
+<p>BDS campaigns take many different forms. Groups around the world have organized street protests, board room lobbying, shareholder actions, lawsuits, strikes, teach-ins, and other actions to call attention to corporate and institutional complicity in occupation. Among others, targets have included arms manufacturers, agricultural exporters, cosmetic manufacturers, cultural groups, investment firms and academic institutions. What links these disparate campaigns is their common goal of ending corporate and institutional complicity in Israel’s occupation and violations of international human rights and humanitarian law. Below are examples of several broadly successful BDS campaigns: </p>
+<h4>We Divest</h4>
+<p>The <a href="http://wedivest.org">“We Divest” Campaign</a> asks investment giant TIAA-CREF to divest from corporations that profit from the military occupation. TIAA-CREF is one of the largest retirement account providers in the U.S. and has the largest social choice investment fund in the U.S. Companies targeted through this campaign include Veolia, Caterpillar Inc., Elbit Systems, Motorola Solutions, HP, and Northup Grumman. During 2012 the campaign marked a significant victory when TIAA-CREF dropped Caterpillar Inc. from its social choice accounts in part due to Caterpillar’s provision of military equipment to the Israeli military. </p>
+<h4>Stolen Beauty</h4>
+<p>“Stolen Beauty” is a boycott campaign initiated by Code Pink in 2009 that targets stores that sell products produced by AHAVA Dead Sea Laboratories. AHAVA produces a popular line of beauty and skin care products in an illegal Israeli settlement located in the West Bank using natural resources stolen from West Bank portions of the Dead Sea in violation of international law. Campaign actions have targeted retailers selling and celebrities endorsing AHAVA products. As a result of the campaign a number of stores and celebrity endorsers have ended their associations with AHAVA.</p>
+<h4>Dump Veolia</h4>
+<p>Veolia profits by operating segregated bus lines connecting settlements to Israel, operating a landfill built on confiscated Palestinian land in the West Bank for the benefit of settlements, and constructing and operating a light rail system built in occupied East Jerusalem and servicing Israeli settlements. Since 2005 groups in Europe and the U.S. have organized a variety of highly successful boycott campaigns targeting Veolia. As a result the company has lost over $13 billion in contracts and many investors, with several communities worldwide declaring themselves "Veolia Free."</p>
+<h3><strong>For more information:</strong></h3>
+<blockquote><p>We Divest: <a href="http://wedivest.org/">http://wedivest.org/</a></p></blockquote>
+<blockquote><p>SodaStream Boycott: <a href="http://sodastreamboycott.org/">http://sodastreamboycott.org/</a> </p></blockquote>
+<blockquote><p>Who Profits: <a href="http://www.whoprofits.org/">http://www.whoprofits.org/</a></p></blockquote>
+<blockquote><p>Global Exchange: Economic Activism for Palestine Project: <a href="http://www.globalexchange.org/programs/economicactivism">http://www.globalexchange.org/programs/economicactivism</a> </p></blockquote>
+<blockquote><p>Quakers with a Concern for Palestine-Israel: <a href="http://www.quakerpi.org/default.shtml">http://www.quakerpi.org/default.shtml</a></p></blockquote>
+<blockquote><p>The U.S. Campaign to End the Israeli Occupation: <a href="http://www.endtheoccupation.org/">http://www.endtheoccupation.org/</a></p></blockquote>
+<blockquote><p>Kairos Palestine: <a href="http://www.kairospalestine.ps/">http://www.kairospalestine.ps/</a></p></blockquote>
+<blockquote><p>The Boycott National Committee: <a href="http://www.endtheoccupation.org/">http://www.endtheoccupation.org/</a> </p></blockquote>
+<blockquote><p>The Palestinian Academic and Cultural Boycott Initiative: <a href="http://www.pacbi.org">http://www.pacbi.org</a></p></blockquote>
+</div></div></div>  </div>
+    </article>
+ </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                                                                <div id="content-bottom" class="row-fluid content-bottom"> <div class="region region-content-bottom clearfix">
+  <div id="block-cck-blocks-field-related-content" class="clearfix block block-cck-blocks">     <h2>Related Content</h2>
+      <div class="content"> <div class="field field-name-field-related-content field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="media"><a href="/story/investigate-screen-your-investments" class="pull-left"><img src="https://www.afsc.org/sites/afsc.civicactions.net/files/styles/blog_thumb/public/images/Investigate%20Palm%20Card_v1_Page_1.png?itok=QRR0UcoY" width="60" height="60" alt="&quot;Investigate&quot; with a magnifying glass" title="investigate" /></a><div class="media-body"><div class="slug">Story</div><a href="/story/investigate-screen-your-investments"><div class="media-heading">Investigate: Screen your investments</div></a></div></div></div></div></div> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                  </div>
+        <!-- /#content-wrap -->
+      </div>
+      <!-- /#content -->
+            <div id="sidebar-second" class="sidebar span3 site-sidebar-second">
+        <div class="row-fluid"><div class="region region-sidebar-second clearfix">
+  <div id="block-cck-blocks-field-issue-campaign-ref" class="clearfix block block-cck-blocks">     <h2>Learn more about</h2>
+      <div class="content"> <div class="field field-name-field-issue-campaign-ref field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="media"><div class="media-body"><div class="slug">campaign</div><a href="/key-issues/issue/economic-activism"><div class="media-heading">Economic activism</div></a></div></div></div></div></div> </div>
 </div>
 </div>
+ <!-- /.region -->
+</div>
+      </div>
+      <!-- /#sidebar-second -->
+          </div>
+  </div>
+</div>
+<div id="bottom" class="clearfix site-bottom" role="contentinfo">
+  <div class="container">
+            <div id="bottom-left" class="row-fluid bottom-left"> <div class="region region-bottom-left clearfix">
+  <div id="block-views-quotations-block" class="clearfix block block-views">       <div class="content"> <div class="view view-quotations view-id-quotations view-display-id-block view-dom-id-727b8c8fabeed3e2884b5abd6923c872">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-logline">        <div class="field-content">Fear is a disease that eats away at logic and makes man inhuman.
 
-<!-- footer tags -->
-<!-- Article Footer INC -->
- <div class="TopAdContainer" id="topdivad" style="display:none;">
-<div id="topad">
-<div id="div-gpt-ad-1430377943388-0">  
- <script type="text/javascript">
-googletag.cmd.push(function() { 
-googletag.display('div-gpt-ad-1430377943388-0'); 
-});
+</div>  </div>  
+  <div class="views-field views-field-field-attribution">        <div class="field-content">Marian Anderson, Singer</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                <div id="bottom-right" class="row-fluid bottom-right"> <div class="region region-bottom-right clearfix">
+  <div id="block-afsc-custom-salsa-seven-custom-email-signup" class="clearfix block block-afsc-custom-salsa-seven">     <h2>Subscribe to our Newsletter</h2>
+      <div class="content"> 
+		<form action="/signup" method="GET" id="afsc_custom_salsa_signup_block">
+			<input placeholder="your email address" type="text" name="email" />
+			
+			<input type="Submit" value="Go" id="send" />
+		</form>
+	 </div>
+</div><div id="block-block-140" class="clearfix block block-block">       <div class="content"> <p>
+
+<a href="https://www.facebook.com/AmericanFriendsServiceCommittee" target="_blank"><i class="fa fa-facebook-square"></i></a>
+<a href="https://twitter.com/afsc_org" target="_blank"><i class="fa fa-twitter-square" target="_blank"></i></a>
+<a href="https://www.instagram.com/americanfriendsservice/" target="_blank"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/user/AFSCVideos" target="_blank"><i class="fa fa-youtube-square"></i></a>
+<a href="http://afsc-org.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+<a href="https://www.pinterest.com/americanfriends/" target="_blank"><i class="fa fa-pinterest-square"></i></a>
+
+</p> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+      </div>
+</div>
+<!-- /#main, /#main-wrapper -->
+<div id="footer" class="clearfix site-footer" role="contentinfo">
+  <div class="container">
+            <div id="footer-top-left" class="row-fluid footer-top-left"> <div class="region region-footer-top-left clearfix">
+  <div id="block-block-141" class="clearfix block block-block">     <h2>American Friends Service Committee</h2>
+      <div class="content"> <p>1501 Cherry Street, Philadelphia, PA 19102</p>
+<p>215-241-7000  </p>
+<p><a href="/contact">Email us</a></p>
+ </div>
+</div><div id="block-block-6" class="clearfix block block-block">     <h2>Who we are</h2>
+      <div class="content"> <p>AFSC is a Quaker organization devoted to service, development, and peace programs throughout the world. Our work is based on the belief in the worth of every person, and faith in the power of love to overcome violence and injustice. <a class="read-more" href="/about">Read More</a></p>
+ </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                <div id="footer-top-right" class="row-fluid footer-top-right"> <div class="region region-footer-top-right clearfix">
+  <div id="block-menu-menu-ways-to-give" class="clearfix block block-menu">     <h2>Ways to give</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="https://secure.afsc.org/onlineactions/bn8fRtQr_0eQvsHuqjq9WA2" title="Give a gift online.">Donate now</a></li>
+<li class="leaf"><a href="/give" title="See a list of all the ways you can give to AFSC.">See all giving options</a></li>
+<li class="leaf"><a href="https://secure.afsc.org/onlineactions/kMnvrtC35k-gn9T6a8Nuqw2" title="">Make a tribute</a></li>
+<li class="leaf"><a href="/1917-society" title="Join the 1917 Society">1917 Society</a></li>
+<li class="leaf"><a href="http://legacyofpeace.afsc.org" title="Learn about our planned giving options.">Planned giving</a></li>
+<li class="leaf"><a href="/support-afsc-gifts-stock" title="Support AFSC with Gifts of Stock">Gifts of Stock</a></li>
+<li class="last leaf"><a href="https://quakerbooks.org/search?q=afsc" title="AFSC merchandise from QuakerBooks.org">Buy AFSC literature</a></li>
+</ul> </div>
+</div><div id="block-menu-menu-multimedia" class="clearfix block block-menu">     <h2>Multimedia</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/audio">Audio</a></li>
+<li class="leaf"><a href="/blogs" title="">Blogs</a></li>
+<li class="leaf"><a href="/publications" title="Publications">Publications</a></li>
+<li class="leaf"><a href="http://tools.afsc.org/slideshow" title="">Slideshows</a></li>
+<li class="collapsed"><a href="/videos">Videos</a></li>
+<li class="last leaf"><a href="/program/video-and-film-lending-library" title="">Video Lending Library</a></li>
+</ul> </div>
+</div><div id="block-menu-menu-employment" class="clearfix block block-menu">     <h2>Employment</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/job-center" title="Jobs at AFSC Homepage">Jobs at AFSC</a></li>
+<li class="leaf"><a href="/volunteers-interns-fellows" title="listing of internships around the country">Internships</a></li>
+<li class="last leaf"><a href="/diversity-and-inclusion" title="Affirmative Action, Diversity and Inclusion Homepage">Affirmative Action</a></li>
+</ul> </div>
+</div><div id="block-menu-menu-newsroom" class="clearfix block block-menu">     <h2>Newsroom</h2>
+      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/newsroom/in-the-news" title="">AFSC in the news</a></li>
+<li class="leaf"><a href="/experts" title="AFSC experts ">Experts</a></li>
+<li class="leaf"><a href="/media-kit" title="">Media Kit</a></li>
+<li class="leaf"><a href="/newsroom/afsc-statements" title="See all available press releases and statements.">Statements</a></li>
+<li class="last leaf"><a href="/calendar" title="">Events Calendar</a></li>
+</ul> </div>
+</div><div id="block-block-4" class="clearfix block block-block">       <div class="content"> <p><img src="/sites/afsc.civicactions.net/files/u1723/charity_seals_new.jpg" alt="" width="225" /></p>
+<p class="contact"><a href="/node/119">Privacy Policy</a>   <a href="/node/120">Site Credits</a></p>
+<p class="contact creative-commons">This website is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons License</a> except where noted.</p>
+ </div>
+</div><div id="block-block-23" class="clearfix block block-block">     <h2>Where we work</h2>
+      <div class="content"> <div class="footmenu-noscript">AFSC has offices around the world. To see a complete list see the <a title="AFSC Offices" href="http://www.afsc.org/where-we-work">Where We Work</a> page.</div>
+<form class="location-selectbox">
+<div><label for="office-select">U.S. Locations</label>
+<div class="office-select-wrapper form-item">
+<select class="office-select form-select" name="tid"><option selected="selected" value="0">Select a U.S. Office</option><option value="/office/akron-oh">Akron, OH</option><option value="/office/albuquerque-nm">Albuquerque, NM</option><option value="/office/ann-arbor-mi">Ann Arbor, MI</option><option value="/office/atlanta-ga">Atlanta, GA</option><option value="/office/baltimore-md">Baltimore, MD</option><option value="/office/cambridge-ma">Cambridge, MA</option><option value="/office/charleston-wv">Charleston, WV</option><option value="/office/chicago-il">Chicago, IL</option><option value="/office/concord-nh">Concord, NH</option><option value="/office/dayton-oh">Dayton, OH</option><option value="/office/denver-co">Denver, CO</option><option value="/office/des-moines-ia">Des Moines, IA</option><option value="/office/farmersville-ca">Farmersville, CA</option><option value="/office/fresno-ca">Fresno, CA</option><option value="/office/greensboro-nc">Greensboro, NC</option><option value="/office/indianapolis">Indianapolis, IN</option><option value="/office/kansas-city-mo">Kansas City, MO</option><option value="/office/logan-wv">Logan, WV</option><option value="/office/los-angeles-ca">Los Angeles, CA</option><option value="/office/miami-fl">Miami, FL</option><option value="/office/newark-nj">Newark, NJ</option><option value="/office/new-orleans-la">New Orleans, LA</option><option value="/office/new-york-ny">New York, NY</option><option value="/office/northampton-ma">Northampton, MA</option><option value="/office/perry-me">Perry, ME</option><option value="/office/philadelphia-pa">Philadelphia, PA</option><option value="/office/pittsburgh-pa">Pittsburgh, PA</option><option value="/office/portland-or">Portland, OR</option><option value="/office/providence-ri">Providence, RI</option><option value="/office/san-diego-ca">San Diego, CA</option><option value="/office/san-francisco-ca">San Francisco, CA</option><option value="/office/seattle-wa">Seattle, WA</option><option value="/office/st-louis-mo">St. Louis, MO</option><option value="/office/st-paul-minn">St. Paul, MN</option><option value="/office/stockton-ca">Stockton, CA</option><option value="/office/tucson-az">Tucson, AZ</option><option value="/office/washington-dc">Washington, DC</option></select></div>
+</div>
+<div><label for="international-select">International </label>
+<div class="international-select-wrapper form-item">
+<select class="international-select form-select" name="tid_1"><option selected="selected" value="0">Select an International Location</option><option value="/office/burundi">Burundi</option><option value="/office/cambodia">Cambodia</option><option value="/office/china">China</option><option value="/office/el-salvador">El Salvador</option><option value="/office/guatemala">Guatemala</option><option value="/office/haiti">Haiti</option><option value="/office/indonesia">Indonesia</option><option value="/office/israel">Israel</option><option value="/office/mexico">Mexico</option><option value="/office/myanmar-burma">Myanmar (Burma)</option><option value="/office/north-korea">North Korea</option><option value="/office/palestine">Palestine</option><option value="/office/quaker-united-nations-office">Quaker United Nations Offices</option><option value="/office/somalia">Somalia</option><option value="/office/syria">Syria</option><option value="/office/zimbabwe">Zimbabwe</option></select></div>
+</div>
+</form>
+ </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+            </div>
+</div>
+<!-- /#footer -->
+  <script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets.js?ooz4ii"></script>
+<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets-spotlight.js?ooz4ii"></script>
+
+  <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '796754017021217');
+fbq('track', 'PageView');
 </script>
-</div>
-</div>
-</div>
-
-<div id="rightlongad" style="display:none;">
-<div id="div-gpt-ad-1430377943388-1">  
- <script type="text/javascript">	
-googletag.cmd.push(function() { 
-googletag.display('div-gpt-ad-1430377943388-1'); 
-});
-</script>
-</div>
-</div>
-
-<div id="rightbottomad" style="display:none;">
-<div id="div-gpt-ad-1430377943388-4">  
- <script type="text/javascript">	
-googletag.cmd.push(function() { 
-googletag.display('div-gpt-ad-1430377943388-4'); 
-});
-</script>
-</div>
-</div>
-
-<script type="text/javascript">
-	try {
-	$('.topadcontainer').remove();
-        $('#topdivad').insertAfter('#oryxcontext');
-	document.getElementById("topdivad").style.display = "block";
-if (document.getElementById("toprightlongad")!= null){
-	var RightDiv = document.getElementById("toprightlongad");
-	RightDiv.innerHTML = document.getElementById("rightlongad").innerHTML;  
-	document.getElementById("rightlongad").innerHTML = "";
-}
-$( document ).ready(function() {
-    if (document.getElementById("ArticleSecAd")!= null){
-	var RightboDiv = document.getElementById("ArticleSecAd");
-	RightboDiv.innerHTML = document.getElementById("rightbottomad").innerHTML;  
-	document.getElementById("rightbottomad").innerHTML = "";
-}
-});
-
-
-
-	$('#div-gpt-ad-1430377943388-2').remove();
-	}
-	catch(err) {
-    		
-	}
-</script>
-<!-- In article ads video -->
-<div id="div-gpt-ad-1430377943388-3" style="display: none !important;">  
- <script type="text/javascript">
-googletag.cmd.push(function() { 
-googletag.display('div-gpt-ad-1430377943388-3'); 
-});
-</script>
-</div>
-<!-- End In article ads video -->
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 944250150;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-var google_conversion_format = 3;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/944250150/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- End Of Google Code for Remarketing Tag -->
-
-<!-- Google Code for PVE Conversion Page -->
-<div style="display:none !important;">
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 944250150;
-var google_conversion_language = "en";
-var google_conversion_format = 3;
-var google_conversion_color = "ffffff";
-var google_conversion_label = "qHeuCOSxnF8QprqgwgM";
-var google_remarketing_only = false;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/944250150/?label=qHeuCOSxnF8QprqgwgM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-</div>
-<!-- End Of Google Code for PVE Conversion Page -->
-<script type="text/javascript" src="/assets/scripts/footer-general-run.js?i=32"></script>
-<!-- Feature Footer -->
-
-
-
-     <!--PageLoadedSucessfully-->
-    </form>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=796754017021217&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->  <!-- Google Code for Remarketing Tag -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 957468114;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+  <div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957468114/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
 </body>
+
 </html>

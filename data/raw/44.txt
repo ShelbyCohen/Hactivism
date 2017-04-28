@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The Rise of the Activist Engineer | Luigi Montanez</title>
+    
+    <meta name="description" content="Activist engineers have arrived. Will we recognize our collective power, grow our ranks, and shape the future?">
+    
+    <meta name="author" content="Luigi Montanez">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="/reset.css" />
+    <link rel="stylesheet" href="/highlight.css" />
+    <link rel="stylesheet" href="/skeleton.css">
+    <link rel="stylesheet" href="/main.css" />
+    <link rel="stylesheet" href="/layout.css">
+
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+
+    <!--[if IE]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="alternate" type="application/atom+xml" title="Luigi Montanez" href="http://feeds.feedburner.com/LuigiMontanez" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <link rel="openid.delegate" href="http://luigimontanez.myopenid.com/" />
+    <meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=luigimontanez.myopenid.com" />
+    <META name="y_key" content="3b2ea5c91a1335e7">
+    <meta name="google-site-verification" content="f_WypMnS2RhstHq-6S1--0Sk5vjtwr69ZvU0b-coN-A" />
+    <meta property="fb:admins" content="12800023" />
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="four columns sidebar">
+
+      <nav>
+        <h1><a href="/">Luigi Montanez</a></h1>
+        <p id="about">I'm a <a href="http://github.com/luigi">software engineer</a> living in Atlanta, Georgia.</p>
+
+        <p id="links-sentences">
+          Subscribe to my <a href="http://feeds.feedburner.com/LuigiMontanez">feed</a>.<br />
+          Send me an <a href="mailto:luigi.montanez@gmail.com">email</a>.<br />
+          Follow me on <a href="http://twitter.com/1uigi">Twitter</a>.
+        </p>
+
+        <p id="links-simple">
+          <a href="http://feeds.feedburner.com/LuigiMontanez">Feed</a> |
+          <a href="mailto:luigi.montanez@gmail.com">Email</a> |
+          <a href="http://twitter.com/1uigi">Twitter</a>
+        </p>
+
+        <p id="colophon">Built with HTML5 and CSS3.<br />Powered by <a href="http://jekyllrb.com">Jekyll</a>.</p>
+        <p id="copyright">Copyright &copy; 2013. Licensed under <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.</p>
+      </nav>
+
+      </div>
+
+
+      <div class="ten columns offset-by-five content">
+
+      
+
+      <article>
+        <h1>The Rise of the Activist Engineer</h1>
+
+        
+        <h5 class="byline">2013-01-08</h5>
+        
+
+        <p>I’ve had a unique career for a software developer. An idealistic Howard Dean supporter during college, I went to work for his PAC <a href="http://www.democracyforamerica.com">Democracy for America</a> immediately after graduation. One brutally cold Vermont winter is one too many, so I then spent a few years building websites as a consultant for political campaigns, advocacy organizations, and labor unions. I proceeded to work at the <a href="http://sunlightfoundation.com">Sunlight Foundation</a> for a few years before settling into my current role at <a href="http://www.upworthy.com/engineers">Upworthy</a>. I’ve always been employed to build web apps, but I’ve done it exclusively for organizations that aligned with my particular worldview.</p>
+
+<h3 id="obama-2012">Obama 2012</h3>
+
+<p>This mission-driven approach to a career is commonplace for those of us inside the Beltway, but until recently wasn’t very common for those who work in the larger tech industry. That appears to be changing. A tipping point seems to have been reached with the staffers of the Obama 2012 re-election campaign. The campaign’s Tech Team has been the subject of <a href="http://www.quora.com/obamatech">glowing press profiles</a> in the aftermath of their victory. </p>
+
+<p>Previous presidential elections, particularly on the Democratic side, have spawned tech companies. Consultancies like <a href="http://www.bluestatedigital.com/">Blue State Digital</a> and <a href="http://www.echoditto.com/">EchoDitto</a> formed in the wake Howard Dean’s 2004 primary campaign, and Barack Obama’s victorious 2008 effort yielded startups like <a href="https://www.optimizely.com/">Optimizely</a> and <a href="https://www.nationalfield.com">NationalField</a>. While many of the Obama 2012 tech staffers came from outside the political sphere, it stands to reason that quite a few will continue to be involved in politics and advocacy.</p>
+
+<p>Beyond the several dozen engineers employed directly by the Obama campaign, the fawning press coverage about them will surely inspire many others around the country, and maybe around the world, to focus their talents towards politics and advocacy.</p>
+
+<p>From a software developer’s perspective, what the Obama Tech Team did wasn’t technically groundbreaking. Instead, it’s clear that the team was thoroughly competent, given the time and resources needed to succeed. That sort of work environment is highly appealing. The Obama Tech Team’s lasting contribution will be the example they set for the future.</p>
+
+<h3 id="changing-the-world">Changing the World</h3>
+
+<p>The prospects for more activist engineers are bolstered by a failed promise of Silicon Valley. A long-time refrain has been that VC-backed Silicon Valley startups can indeed change the world. But the current crop of consumer web and mobile startups don’t live up to that ideal. SnapChat and Facebook Poke aren’t changing the world, they’re enabling people to be even more self-centered and insular. Airbnb and Uber, two terrific services that are profoundly disrupting their markets, don’t make that dent in the universe Steve Jobs once spoke of.</p>
+
+<p>The change the world lottery is even harder to win than the startup lottery. Facebook, Twitter, Apple, Google. And winning the change the world lottery is fleeting. The average engineer who spends a year working for Google or Facebook will do more good for the world by donating her considerable year-end bonus to various charities. If you want to change the world, apply your talents to actually changing the world. </p>
+
+<p>As <a href="http://cbracy.tumblr.com/post/39314979304/silicon-valleys-problem">noted by Catherine Bracy</a>, Silicon Valley has culturally created such an enormous bubble around itself that it’s blind to issues experienced by the rest of the world. Yes, SOPA and PIPA were bad, but our current prison system is horrific.</p>
+
+<p>The situation isn’t completely dire, of course. Bright spots are emerging. It’s important to identify and organize those engineers who want to contribute their talents directly, and that’s <a href="http://cbracy.tumblr.com/post/36921516103/my-experience-leading-the-obama-campaigns-tech-field">what Catherine Bracy did</a> as she led the Obama campaign’s San Francisco Tech Field Office.</p>
+
+<h3 id="civic-hacking">Civic Hacking</h3>
+
+<p>The movement that best organizes software developers towards change is the one centered around open government and open data. Civic hackers directly apply their skills to make government work better and be more accountable. The organization that best harnesses developer energy is Code for America, focused on <a href="http://codeforamerica.org/projects/">improving city governments</a> and now working towards a <a href="http://codeforamerica.org/2012/11/07/citizenship-beyond-the-election/">fascinatingly anarchist definition of citizenship</a>. Anarchist is a scary word, and I don’t mean that Code for America promotes disorder or nihilism. But they are building tools that begin to obviate the need for government, replacing it with civic action. To me that’s a profoundly disruptive version of civic hacking.</p>
+
+<p>Literally hundreds of web and mobile apps have been built out of this movement, and it’s still in its early stages. As uber civic hacker <a href="http://civic.io/2012/12/31/the-year-that-civic-hacking-changed-everything/">Mark Headd recently wrote</a>, the barrier to even more activity isn’t a lack of energy, it’s a lack of raw government data to work with. Governments need more convincing, which will require more activism.</p>
+
+<p>Civic hacking is a sort of gateway drug for activist engineers. The concepts behind open government like transparency, engagement, and accountability cut across partisan lines. It broadly appeals to many people, particularly when contrasted with putting your life on hold to work for a presidential campaign for 16 months. The organizations that lead the movement are all prolific at <a href="https://github.com/sunlightlabs">publishing</a> <a href="https://github.com/mysociety">their</a> <a href="https://github.com/codeforamerica">work</a> on GitHub, setting examples for all to see.</p>
+
+<h3 id="open-source-and-free-software">Open Source and Free Software</h3>
+
+<p>Speaking of GitHub, it’s worth considering the open source and free software movements. Does Richard Stallman fall under the banner of activist engineer? Linus Torvalds? The Ubuntu and Apache teams? Have they not changed the world?</p>
+
+<p>I’d argue that most open source software is about craft rather than seeking societal change. Rails and Django are terrific at improving the lives of the developers who work with them every day. But they’re ultimately tools used to build things, not outcomes in and of themselves.</p>
+
+<p>By contrast, Richard Stallman, the fierce advocate of free software, is literally on a mission to change the world. He’s an activist engineer, but his activism narrowly focuses on free software. While he did build the original GNU tools and Emacs, these days Richard Stallman is more like a community organizer, spreading the gospel of free software around the world.</p>
+
+<h3 id="building-a-sustained-community">Building a Sustained Community</h3>
+
+<p>Community will be key for determining whether the rise of activist engineers can be sustained for the long run. Lots of pathways have been cleared. It’s now up to the activist engineers out there to build on top of the foundations that have been laid.</p>
+
+<p>Progressive technologists <a href="http://www.huffingtonpost.com/jim-pugh/obama-for-america-data_b_2325478.html">Jim Pugh and Nathan Woodhull recently pleaded</a> for someone, anyone, to keep the technology created for Obama 2012 maintained and ready for the next election. But I don’t think it’ll be so bad if the code is abandoned. What would be disastrous for the Democratic side is if the community of activist engineers built up to support it collapses.</p>
+
+<p>Technologies change. An app built in 2012 shouldn’t necessarily be used in 2016. But people matter, and we don’t go out of date nearly as fast as Rails code.</p>
+
+<p>Activist engineers have arrived. We’re here. Now will we recognize our collective power, grow our ranks, and shape the future?</p>
+
+
+        
+        
+        <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/luigimontanez/embed.js"></script><noscript><a href="http://disqus.com/forums/luigimontanez/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+
+      </article>
+
+      
+
+
+    </div><!-- container -->
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-4109304-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+    <script type="text/javascript">
+    var clicky = { log: function(){ return; }, goal: function(){ return; }};
+    var clicky_site_id = 66380516;
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = ( document.location.protocol == 'https:' ? 'https://static.getclicky.com/js' : 'http://static.getclicky.com/js' );
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Health at every size - RationalWiki</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.12" />
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Health_at_every_size&amp;action=edit" />
+<link rel="edit" title="Edit" href="/w/index.php?title=Health_at_every_size&amp;action=edit" />
+<link rel="shortcut icon" href="/w/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="RationalWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://rationalwiki.org/w/api.php?action=rsd" />
+<link rel="copyright" href="/wiki/RationalWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="RationalWiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://rationalwiki.org/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/w/extensions/UsabilityInitiative/css/combined.min.css?117" />
+<link rel="stylesheet" href="/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2y" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://rationalwiki.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: rationa1_wiki-rw_:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="http://rationalwiki.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Health_at_every_size","wgTitle":"Health at every size","wgCurRevisionId":1791664,"wgArticleId":173297,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Denialism","Articles with unsourced statements","Food woo","Diet woo","Feminist moonbattery","Liberal moonbattery","Pseudoscience"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Health_at_every_size","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0],"wgVectorPreferences":{"simplesearch":{"enable":1,"disablesuggest":0}},"wgVectorEnabledModules":{"collapsibletabs":true,"editwarning":false,"simplesearch":true}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"lqtnotifytalk":false,"lqtdisplaydepth":5,"lqtdisplaycount":25,"lqtcustomsignatures":true,"lqt-watch-threads":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs90":false,"searchNs91":false,"searchNs92":false,"searchNs93":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs106":false,"searchNs107":false,"searchNs108":false,"searchNs109":false,"searchNs110":false,"searchNs111":
+false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: rationa1_wiki-rw_:resourceloader:filter:minify-js:7:696050a0035f56761cae8aa77f574194 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Health_at_every_size skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">
+				<span dir="auto">Health at every size</span>
+			</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From RationalWiki</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" cellpadding="1" cellspacing="0" style="float: right; margin: 0 0 0.5em 0.5em; text-align:left; border: 1px solid #008080; width:175px;">
+<tr>
+<td style="font-size: 95%; text-align:center; color:white; background-color:#008080"> <b>Not just a river in Egypt</b>
+<p><a href="/wiki/Denialism" title="Denialism"><font size="4" color="white"><b>Denialism</b></font></a>
+</p>
+</td></tr>
+<tr>
+<td style="text-align: center; background-color:#dcebeb;"><a href="/wiki/Category:Denialism" title="Category:Denialism"><img alt="Icon denialism.svg" src="/w/images/thumb/c/ca/Icon_denialism.svg/100px-Icon_denialism.svg.png" width="100" height="100" /></a>
+</td></tr>
+
+<tr>
+<td style="font-size: 95%; color:white; background-color:#008080; text-align:center;"><b>♫ We're not listening ♫</b>
+</td></tr>
+<tr>
+<td style="font-size: 95%; background-color:#dcebeb;">
+<ul><li><a href="/wiki/Anti-relativity" title="Anti-relativity">Anti-relativity</a>
+</li><li><a href="/wiki/Aung_San_Suu_Kyi" title="Aung San Suu Kyi">Aung San Suu Kyi</a>
+</li><li><a href="/wiki/Charles_K._Johnson" title="Charles K. Johnson">Charles K. Johnson</a>
+</li><li><a href="/wiki/Conspiracy_theory" title="Conspiracy theory">Conspiracy theory</a>
+</li><li><a href="/wiki/Economic_inequality" title="Economic inequality">Economic inequality</a>
+</li><li><a href="/wiki/House_of_Numbers" title="House of Numbers">House of Numbers</a>
+</li><li><a href="/wiki/Ian_Plimer" title="Ian Plimer">Ian Plimer</a>
+</li><li><a href="/wiki/Matthias_Rath" title="Matthias Rath">Matthias Rath</a>
+</li><li><a href="/wiki/Obama_citizenship_denial" title="Obama citizenship denial">Obama citizenship denial</a>
+</li><li><a href="/wiki/Regnery_Publishing" title="Regnery Publishing">Regnery Publishing</a>
+</li><li><a href="/wiki/Stab-in-the-back_legend" title="Stab-in-the-back legend">Stab-in-the-back legend</a>
+</li><li><a href="/wiki/WND" title="WND">WND</a>
+</li></ul>
+<div class="vte plainlinks" style="font-size:smaller; text-align:center;"><a href="/wiki/Template:DenialismSide" title="Template:DenialismSide"><span style="color:">v</span></a> - <a href="/wiki/Template_talk:DenialismSide" title="Template talk:DenialismSide"><span style="color:">t</span></a> - <a rel="nofollow" class="external text" href="http://rationalwiki.org/w/index.php?title=Template:DenialismSide&amp;action=edit"><span style="color:">e</span></a></div>
+</td></tr></table>
+<table class="infobox" cellpadding="1" cellspacing="0" style="float: right; margin: 0 0 0.5em 0.5em; text-align:left; border: 1px solid #47374a; width:175px;">
+<tr>
+<td style="font-size: 95%; text-align:center; color:White; background-color:#47374a"> <b>Potentially edible!</b>
+<p><a href="/wiki/Food_and_Diet" title="Food and Diet" class="mw-redirect"><font size="4" color="White"><b>Food and Diet</b></font></a>
+</p>
+</td></tr>
+<tr>
+<td style="text-align: center; background-color:#f8feff;"><a href="/wiki/File:Icon_food.svg" class="image" title="link=:category:"><img alt="link=:category:" src="/w/images/thumb/c/c2/Icon_food.svg/100px-Icon_food.svg.png" width="100" height="100" /></a>
+</td></tr>
+
+<tr>
+<td style="font-size: 95%; color:White; background-color:#47374a; text-align:center;"><b><a href="/wiki/Category:Food_woo" title="Category:Food woo"><font color="white">Fabulous food!</font></a></b>
+</td></tr>
+<tr>
+<td style="font-size: 95%; background-color:#f8feff;">
+<ul><li><a href="/wiki/Carrot" title="Carrot">Carrot</a>
+</li><li><a href="/wiki/Fad_diet" title="Fad diet">Fad diet</a>
+</li><li><a href="/wiki/Orthorexia" title="Orthorexia">Orthorexia</a>
+</li><li><a href="/wiki/Robert_O._Young" title="Robert O. Young">Robert O. Young</a>
+</li><li><a href="/wiki/Salt_woo" title="Salt woo">Salt woo</a>
+</li></ul>
+</td></tr>
+<tr>
+<td style="font-size: 95%; color:White; background-color:#47374a; text-align:center;"><b><a href="/wiki/Category:Diet_woo" title="Category:Diet woo"><font color="white">Delectable diets!</font></a></b>
+</td></tr>
+<tr>
+<td style="font-size: 95%; background-color:#f8feff;">
+<ul><li><a href="/wiki/Glycemic_index" title="Glycemic index">Glycemic index</a>
+</li><li><a href="/wiki/Pro-ana" title="Pro-ana">Pro-ana</a>
+</li><li><a href="/wiki/Raw_milk_movement" title="Raw milk movement">Raw milk movement</a>
+</li><li><a href="/wiki/Sweeteners" title="Sweeteners">Sweeteners</a>
+</li></ul>
+</td></tr>
+<tr>
+<td style="font-size: 95%; color:White; background-color:#47374a; text-align:center;"><b><a href="/wiki/Category:Bodybuilding_woo" title="Category:Bodybuilding woo"><font color="white">Bodacious bods!</font></a></b>
+</td></tr>
+<tr>
+<td style="font-size: 95%; background-color:#f8feff;">
+<ul><li><a href="/wiki/Anti-Gym" title="Anti-Gym">Anti-Gym</a>
+</li><li><a href="/wiki/Bold_and_Determined" title="Bold and Determined">Bold and Determined</a>
+</li><li><a href="/wiki/Fad_diet" title="Fad diet">Fad diet</a>
+</li></ul>
+<div class="vte plainlinks" style="font-size:smaller; text-align:center;"><a href="/wiki/Template:Foodnav" title="Template:Foodnav"><span style="color:">v</span></a> - <a href="/wiki/Template_talk:Foodnav" title="Template talk:Foodnav"><span style="color:">t</span></a> - <a rel="nofollow" class="external text" href="http://rationalwiki.org/w/index.php?title=Template:Foodnav&amp;action=edit"><span style="color:">e</span></a></div>
+</td></tr></table>
+<p><b>"Health at every size"</b> (or HAES) is a <a href="/wiki/Pseudoscience" title="Pseudoscience">pseudo-scientific</a> concept peddled by certain <a href="/wiki/Fat_activism" title="Fat activism" class="mw-redirect">fat activists</a> which asserts &#8212; in complete opposition to current medical knowledge &#8212; that no kind of <a href="/wiki/Obesity" title="Obesity">obesity</a> is linked to poor health or unhealthyness. In most interpretations, HAES then goes on to claim that all kinds of obesity are completely natural and related to <a href="/wiki/Genetic" title="Genetic" class="mw-redirect">genetic</a> causes (much in the same way all <a href="/wiki/Cancer" title="Cancer">cancers</a> and <a href="/wiki/Death" title="Death">death</a> from old age are), and in no way can be related to bad <a href="/wiki/Diet" title="Diet">diet</a> or (lack of) exercise; this leads to the assertion that if obesity is always a natural state of being then it's perfectly fine and not at all unhealthy. Other key canards are the assertion that the theory that obesity is caused by calories <i>in</i> exceeding calories <i>out</i> (and therefore the inverse, that weight loss is caused by calories out exceeding calories in) is not true, that diets do not work as a means of losing weight and/or often fail and therefore are not worth even trying, and that the medical profession are engaged in some sort of cover up of these facts to "fat <a href="/wiki/Shaming" title="Shaming">shame</a>" people for… <a href="/wiki/Conspiracy_theory" title="Conspiracy theory">some reason</a>. HAES is a completely separate concept from the idea that obese people are of equal worth to, or do not deserve <a href="/wiki/Discrimination" title="Discrimination">discrimination</a> in favour of, people who are not obese.
+</p><p>Originally HAES was intended as a far less specious and far more medically sound idea<sup>&#91;<a href="/wiki/Help:References" title="Help:References"><i>citation&#160;needed</i></a>&#93;</sup> &#8212; that diets, fad and crash diets in particular, in and of themselves are not a sensible way to lose weight and that one should instead focus on living a healthful lifestyle regardless of weight, which can, if the person so desires, lead to a healthy weight loss quest. The present, and most common, interpretation ignores the bit about a healthful lifestyle and disregards the idea of aiming for weight loss, and instead assumes that people who are not actually dead or filled with tumours are perfectly healthy, even if they are morbidly obese due to eating unhealthy food while maintaining a sedentary lifestyle. To reflect this dramatic shift in usage of the term, this article is about its present-day, pseudo-scientific interpretation.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Why_is_it_bullshit.3F"><span class="tocnumber">1</span> <span class="toctext">Why is it bullshit?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Social_issues"><span class="tocnumber">2</span> <span class="toctext">Social issues</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Kernels_of_truth"><span class="tocnumber">3</span> <span class="toctext">Kernels of truth</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</td></tr></table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Health_at_every_size&amp;action=edit&amp;section=1" title="Edit section: Why is it bullshit?">edit</a>]</span> <span class="mw-headline" id="Why_is_it_bullshit.3F">Why is it bullshit?</span></h2>
+<p>HAES is pseudo-science that either outright denies established medical facts, or severely misrepresents them. Put simply, in all but a very small minority of cases, obesity is caused by calories in exceeding calories out, is a negative health condition in-and-of-itself, dramatically reduces the quality of life for people who have it and dramatically increases the risk of a large number of debilitating illnesses and chronic conditions. This is an accepted medical fact and there are few if any grounds for contradicting it; under the theory of <a href="/wiki/Extraordinary_claims_require_extraordinary_evidence" title="Extraordinary claims require extraordinary evidence">extraordinary claims requiring extraordinary evidence</a>, HAES simply cannot prove its case against the wealth of evidence for a calorie-based cause of obesity or for obesity being unhealthy. Virtually all governments and health authorities worldwide may not specifically deny the tenets of HAES, but they do fully endorse the opposite conclusions.<sup id="cite_ref-WHOobesity_0-0" class="reference"><a href="#cite_note-WHOobesity-0">[1]</a></sup><sup id="cite_ref-NHS_1-0" class="reference"><a href="#cite_note-NHS-1">[2]</a></sup><sup id="cite_ref-NIHobesity_2-0" class="reference"><a href="#cite_note-NIHobesity-2">[3]</a></sup><sup id="cite_ref-AUS_3-0" class="reference"><a href="#cite_note-AUS-3">[4]</a></sup><sup id="cite_ref-CAN_4-0" class="reference"><a href="#cite_note-CAN-4">[5]</a></sup>
+</p><p>Aside from the concept of obesity being genetic and therefore natural and therefore good being the <a href="/wiki/Naturalistic_fallacy" title="Naturalistic fallacy">naturalistic fallacy</a> writ large, the notion of obesity having a mainly or wholly genetic cause is easily evidenced as total bollocks by obesity rates <i>doubling</i> in the years between 1980 and 2015 according to the WHO,<sup id="cite_ref-WHOobesity_0-1" class="reference"><a href="#cite_note-WHOobesity-0">[1]</a></sup> something which would be completely impossible if down to genetics (since it would require a dramatic change in the gene pool over the course of 35 years) but is easily explicable if one thinks about the massively increased prevalence, availability, consumption and lowered cost of high-carbohydrate and/or high-fat food, as well as its increased marketing to children and decreased levels of physical activity. It also does not explain why countries with much lower consumption and overeating of such foodstuffs, such as <a href="/wiki/Japan" title="Japan">Japan</a>, have lower obesity rates than other similarly advanced economies.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>
+</p><p>While some HAES advocates claim that they have tried to lose weight through increased exercise or lowered calorie intake and failed to lose weight,<sup>&#91;<a href="/wiki/Help:References" title="Help:References"><i>citation&#160;needed</i></a>&#93;</sup> and that <a href="/wiki/Anecdotal_evidence" title="Anecdotal evidence">this therefore "proves" the conventional medical wisdom that obesity is caused by calories in being greater than calories out to be incorrect</a>, actual studies have shown that where individuals claim to have attempted to restrict calorie intake below their basal metabolic rate and that this hasn't worked in causing them to lose weight, what was actually happening is that they were dramatically under-reporting the number of calories they were taking in, or over-reporting the amount of exercise they did.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup> There are certainly medical conditions which will cause individuals to lay down excessive amounts of fat relative to their intake, such as <span style="color:#477979;" title="Wikipedia: Hashimoto&#39;s thyroiditis">Hashimoto's thyroiditis</span><sup><a href="http://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis" title="wp:Hashimoto&#39;s thyroiditis"><img alt="Wikipedia&#39;s W.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wikipedia%27s_W.svg/12px-Wikipedia%27s_W.svg.png" width="12" height="12" /></a></sup> or other manifestations of <a href="/wiki/Hypothyroidism" title="Hypothyroidism">hypothyroidism</a>, and there are certainly means in which someone can eat a normal diet and still gain weight, such as disability or injury causing reduced activity levels, but these are relatively rare. There is also the issue that eating at or below their basal metabolic rate and gaining weight, or <a href="/wiki/Fasting" title="Fasting">fasting</a> and not losing weight would either be breaking the <a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">laws of thermodynamics</a> or the product of digesting bodily organs in order to generate energy to lay down fat and run vital body processes.
+</p><p>The slogan "healthy at every size" itself is intended to respond to the accusation that obesity is, in and of itself, unhealthy, and state that physical size (or rather, presence or lack of fat deposits) has nothing to do with the health of an individual.<sup>&#91;<a href="/wiki/Help:References" title="Help:References"><i>citation&#160;needed</i></a>&#93;</sup> Even leaving aside the dubious assertion that obesity is not in any way unhealthy in and of itself, despite the World Health Organisation calling it an <a href="/wiki/Epidemic" title="Epidemic" class="mw-redirect">epidemic</a> that requires urgent action and it being something that in numerous ways can severely impair an individual's quality and length of life, <a href="/wiki/Body_mass_index" title="Body mass index" class="mw-redirect">body mass index</a> (BMI) values above 30 (generally considered the threshold of obesity) are strongly associated with any number of elevated risk factors including type 2 diabetes, cancer and heart disease. A common response to this is to claim that BMI is invalid as a method of measurement, but this is a half truth; for most people (who are not incredibly tall or incredibly muscular) it is a valid means of at least <i>indicating</i> obesity that can then be confirmed using methods such as waist-hip ratio or body bad fat percentage. Certainly, if someone's BMI is over thirty and they obviously have large excess fat deposits, trying to claim that they are not obese because BMI doesn't work for outlying categories that they do not fall into is simply <a href="/wiki/Denialism" title="Denialism">denial of reality</a>.
+</p><p>Often HAES advocates concepts such as <a href="/wiki/Intuition" title="Intuition">intuitive</a> eating, which encourages people to pay attention to their own "hunger signals" rather than paying attention to the nutritional or calorific composition of food, by eating until one is satiated and no more.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup> This concept is by no means scientifically supported, either as a means of healthy eating or one of weight loss, and can often be used as an excuse for binge eating &#8212; not to mention, some foods (especially starchy, high-carbohydrate ones such as potato chips and bread) are both high in calories and notoriously easy to eat large quantities of before one feels full, meaning that one's intuitive body signals might say things like "guzzle a whole tube of Pringles" &#8212; which is, suffice to say, not a particularly healthy attitude to take.
+</p><p>Some of the stranger HAES advocates consider that <i>any</i> attempt to restrict ones' calorie intake is a precursor to, or even a symptom of, anorexia,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup> which aside from being obvious shite is insulting to people who genuinely do have anorexia, which distinguishes itself not by reduced calorie ingestion in order to achieve sensible goals but by a compulsive and overriding obsession with weight loss and food restriction.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup> As well as being insulting, this is also actively harmful to people who have eating disorders by propagating the idea that anorexia is simply "being too thin", rather than an actual psychological disorder which requires medical attention.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Health_at_every_size&amp;action=edit&amp;section=2" title="Edit section: Social issues">edit</a>]</span> <span class="mw-headline" id="Social_issues">Social issues</span></h2>
+<p>Another assertion often coupled with HAES is that saying any of the above amounts to "fat shaming". But one does not have to think that a person is bad because they are obese to think that obesity is a bad condition; nor does believing or saying this necessarily "shame" people who are obese, except in the sense that it might make those people feel bad about being obese if they acknowledged it was not a good thing. There is a definite difference between  insulting or even hating someone for being fat and not thinking that someone who is obese is healthy. This runs into the territory of the absurd when HAES advocates accuse <i>actual doctors</i> of "fat shaming" them for suggesting that their obesity may be a medical condition that requires attention, either implicitly or deliberately. One then has to consider whether HAES is actually a genuine belief that obesity is a healthy state of being, or a means of its advocates excusing responsibility for the consequences of their own life choices <a href="/wiki/Cognitive_dissonance" title="Cognitive dissonance">so as not to feel bad about them</a>.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Health_at_every_size&amp;action=edit&amp;section=3" title="Edit section: Kernels of truth">edit</a>]</span> <span class="mw-headline" id="Kernels_of_truth">Kernels of truth</span></h2>
+<p>Studies have shown that <a href="/wiki/Shaming" title="Shaming">actually shaming obese people</a> really will do nothing to encourage them to lose weight, and will probably make matters worse by provoking comfort eating and other negative psychological effects.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup> The problem comes when HAES advocates interpret genuine, well-intentioned offers of support from medical practitioners or family members as "shaming", refuse to recognise their obesity as a problem or refuse to even recognise their obesity <i>exists or can (or should) be defined as existing</i>.
+</p><p>There is also nothing intrinsically wrong with self-acceptance, but balanced self-reflection and self-criticism is also an important component of normal <a href="/wiki/Psychological" title="Psychological" class="mw-redirect">psychological</a> well being &#8212; "I hate all of myself entirely and I am awful" and "I unconditionally love everything about myself and I am perfect" are almost as unhealthy as each other, while HAES would have one believe that either the latter or the former and that the latter is the right approach, ignoring the more sensible middle ground of reasonable self-critique. Similarly, an obsession with weight and calorie intake to the exclusion of all else is <i>extremely</i> unhealthy (indeed, that is more or less the definition of an eating disorder) but that isn't what anyone (least of all a doctor) would rationally advocate or is advocating, and it certainly doesn't mean that completely ignoring calorie intake or weight is a good idea. The real solution is to do what humans are meant to do; eat a sensible, balanced diet rich in vegetables and complex carbohydrates and low on (not entirely without) sugars and simple/refined carbohydrates and processed foods.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>
+</p><p><a href="/wiki/Fad_diet" title="Fad diet">Fad diets</a> are really truly awful for losing weight.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup> Fad diets may even kill you if you do the really dangerous ones like <a href="/wiki/Breatharianism" title="Breatharianism">breatharianism.</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[14]</a></sup>
+</p><p>The issue with HAES is that it takes the idea of "fat acceptance" to a deranged conclusion; not by wanting fat people to be welcomed into society as people to be judged on their merits, but by wanting the concept of morbid obesity or metabolically unhealthy-kind obesity itself to be considered good medically despite its numerous and documented health harms. The former is admirable; the latter is pseudo-scientific and dangerous.
+</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Health_at_every_size&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="references-small" style="-moz-column-count:2; -webkit-column-count:2; column-count:2; font-size:90%;">
+<ol class="references"><li id="cite_note-WHOobesity-0">↑ <sup><a href="#cite_ref-WHOobesity_0-0">1.0</a></sup> <sup><a href="#cite_ref-WHOobesity_0-1">1.1</a></sup> <a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/factsheets/fs311/en/">World Health Organisation obesity factsheet</a>: "The fundamental cause of obesity and overweight is an energy imbalance between calories consumed and calories expended: Raised BMI is a major risk factor for noncommunicable diseases such as: cardiovascular diseases (mainly heart disease and stroke), which were the leading cause of death in 2012; diabetes; musculoskeletal disorders (especially osteoarthritis &#8212; a highly disabling degenerative disease of the joints); some <a href="/wiki/Cancer" title="Cancer">cancers</a> (endometrial, breast, and colon)."</li>
+<li id="cite_note-NHS-1"><a href="#cite_ref-NHS_1-0">↑</a> <a rel="nofollow" class="external text" href="http://www.nhs.uk/conditions/Obesity/Pages/Introduction.aspx">NHS Choices &#8212; Obesity</a>: "Obesity is generally caused by consuming more calories – particularly those in fatty and sugary foods – than you burn off through physical activity… Taking steps to tackle obesity is important because, in addition to causing obvious physical changes, it can lead to a number of serious and potentially life-threatening conditions"</li>
+<li id="cite_note-NIHobesity-2"><a href="#cite_ref-NIHobesity_2-0">↑</a> <a rel="nofollow" class="external text" href="http://www.nhlbi.nih.gov/health/health-topics/topics/obe">National Institute of Health</a>: "Being overweight or obese puts you at risk for many health problems. The more body fat that you have and the more you weigh, the more likely you are to develop: Coronary heart disease, High blood pressure, Type 2 diabetes, Gallstones, Breathing problems, Certain cancers… Your weight is the result of many factors. These factors include environment, family history and genetics, metabolism (the way your body changes food and oxygen into energy), behavior or habits, and more."</li>
+<li id="cite_note-AUS-3"><a href="#cite_ref-AUS_3-0">↑</a> <a rel="nofollow" class="external text" href="http://www.health.gov.au/internet/main/publishing.nsf/Content/health-pubhlth-strateg-hlthwt-obesity.htm">Australian Department of Health</a>: "Aside from genetic factors, overweight and obesity is caused by an energy imbalance, where energy intake exceeds energy expenditure over a considerable period of time… The health problems and consequences of obesity are many and varied, including musculoskeletal problems, cardiovascular disease, some cancers, sleep apnoea, type 2 diabetes, and hypertension to name a few."</li>
+<li id="cite_note-CAN-4"><a href="#cite_ref-CAN_4-0">↑</a> <a rel="nofollow" class="external text" href="http://www.phac-aspc.gc.ca/hp-ps/hl-mvs/oic-oac/econo-eng.php">Public Health Agency of Canada</a>: "Obesity is a complex phenomenon that involves a wide and interactive range of biological, behavioural and societal factors. While genetics play a role, genes do not operate in a vacuum; behaviours and social, cultural and physical environments also make important contributions… Obesity is associated with a number of health conditions or morbidities. A recent systematic review of the clinical literature found associations between obesity and the incidence of type 2 diabetes, asthma, gallbladder disease, osteoarthritis, chronic back pain, several types of cancers (colorectal, kidney, breast, endometrial, ovarian and pancreatic cancers) and major types of cardiovascular disease (hypertension, stroke, congestive heart failure and coronary artery disease)."</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> Japan's obesity rate is 3.2% by the WHO standard of BMI above 30, versus upwards of 30% for the USA. However, Japan recently officially reclassified obesity as being over a BMI of 25, as opposed to the WHO standard of 30. This may at first glance seem to support the HAES proposition that health and BMI are not linked, however, the reasoning behind it actually torpedoes it; researchers ascertained that <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1046/j.1440-6047.11.s8.19.x/abstract;jsessionid=B488DEEEAEBFA5D196E44A1401F2A071.f03t01">due to various factors, Japanese people actually suffer negative health effects such as diabetes at a lower BMI than do Westerners</a>, and that the rate of obesity by this measure had actually quadrupled in men and tripled in women, which explained a commensurate rise in the rate of such health effects.</li>
+<li id="cite_note-6"><a href="#cite_ref-6">↑</a> <a rel="nofollow" class="external text" href="http://www.nejm.org/doi/full/10.1056/NEJM199212313272701">Conclusion: "The failure of some obese subjects to lose weight while eating a diet they report as low in calories is due to an energy intake substantially higher than reported and an overestimation of physical activity, not to an abnormality in thermogenesis."</a></li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <a rel="nofollow" class="external free" href="http://www.healthateverysize.org.uk/faq.html#intuitive">http://www.healthateverysize.org.uk/faq.html#intuitive</a></li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <a rel="nofollow" class="external free" href="http://i.imgur.com/0lvAG5r.jpg">http://i.imgur.com/0lvAG5r.jpg</a></li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <a rel="nofollow" class="external free" href="http://everydayfeminism.com/2013/04/five-differences-between-diets-and-anorexia/">http://everydayfeminism.com/2013/04/five-differences-between-diets-and-anorexia/</a></li>
+<li id="cite_note-10"><a href="#cite_ref-10">↑</a> <a rel="nofollow" class="external autonumber" href="http://www.theguardian.com/society/2014/sep/11/fat-shaming-lose-weight-study">[1]</a></li>
+<li id="cite_note-11"><a href="#cite_ref-11">↑</a> <a rel="nofollow" class="external text" href="http://www.acaloriecounter.com/diet/">A Diet Plan</a> is a woo-free and exhaustive guide to making a diet plan which, in essence, basically boils down to what the text before this reference just said. For weight loss, that text plus a calorie-counting site like <a rel="nofollow" class="external text" href="http://www.myfitnesspal.com">MyFitnessPal</a> is pretty much all that is needed and fits virtually all medical advice about healthy eating.</li>
+<li id="cite_note-12"><a href="#cite_ref-12">↑</a> <a rel="nofollow" class="external text" href="http://www.vox.com/2015/10/29/9639982/low-fat-high-protein-diet"><b>The science is clear: fad diets don't work</b> <i>Vox.com</i></a></li>
+<li id="cite_note-13"><a href="#cite_ref-13">↑</a> <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/scotland/453661.stm"><b>UK: Scotland Woman 'starved herself to death'</b> <i>BBC</i></a></li></ol></div>
+<p><br />
+</p>
+<table class="toccolours collapsible collapsed" style="width:100%; clear:both;">
+
+<tr>
+<th colspan="4" style="background:#47374A; color:white; text-align:center;"> <div style="float:left;"><div class="vte plainlinks" style="font-size:smaller; text-align:center;"><a href="/wiki/Template:Foodbox" title="Template:Foodbox"><span style="color:white">v</span></a> - <a href="/wiki/Template_talk:Foodbox" title="Template talk:Foodbox"><span style="color:white">t</span></a> - <a rel="nofollow" class="external text" href="http://rationalwiki.org/w/index.php?title=Template:Foodbox&amp;action=edit"><span style="color:white">e</span></a></div></div><span style="color:white; font-size:120%"><a href="/wiki/Category:Food_woo" title="Category:Food woo"><span style="color:white">Articles</span></a> about <a href="/wiki/Food_woo" title="Food woo"><span style="color:white">food woo</span></a></span>
+</th></tr>
+<tr>
+<td colspan="3" style="background:#47374A; width:25%; text-align:right;"> <b><a href="/wiki/Category:Food_woo" title="Category:Food woo"><span style="color:white; font-size:125%">Food woo:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/Agaricus" title="Agaricus">Agaricus</a>&#160;•&#160;<a href="/wiki/Apitherapy" title="Apitherapy">Apitherapy</a>&#160;•&#160;<a href="/wiki/Bottled_water" title="Bottled water">Bottled water</a>&#160;•&#160;<a href="/wiki/Bovine_growth_hormone" title="Bovine growth hormone">Bovine growth hormone</a>&#160;•&#160;<a href="/wiki/Breastfeeding" title="Breastfeeding">Breastfeeding</a>&#160;•&#160;<a href="/wiki/Burusho" title="Burusho">Burusho</a>&#160;•&#160;<a href="/wiki/Carrot" title="Carrot">Carrot</a>&#160;•&#160;<a href="/wiki/Cat_food" title="Cat food">Cat food</a>&#160;•&#160;<a href="/wiki/Cayenne_pepper" title="Cayenne pepper">Cayenne pepper</a>&#160;•&#160;<a href="/wiki/Fun:Chocolate" title="Fun:Chocolate">Chocolate</a>&#160;•&#160;<a href="/wiki/Chris_Beat_Cancer" title="Chris Beat Cancer">Chris Beat Cancer</a>&#160;•&#160;<a href="/wiki/Cyclamate" title="Cyclamate">Cyclamate</a>&#160;•&#160;<a href="/wiki/Diet" title="Diet">Diet</a>&#160;•&#160;<a href="/wiki/Essene_Gospel_of_Peace" title="Essene Gospel of Peace">Essene Gospel of Peace</a>&#160;•&#160;<a href="/wiki/Fast_food" title="Fast food">Fast food</a>&#160;•&#160;<a href="/wiki/Food_irradiation" title="Food irradiation">Food irradiation</a>&#160;•&#160;<a href="/wiki/Food_woo" title="Food woo">Food woo</a>&#160;•&#160;<a href="/wiki/Forks_Over_Knives" title="Forks Over Knives">Forks Over Knives</a>&#160;•&#160;<a href="/wiki/Fortune_cookie" title="Fortune cookie">Fortune cookie</a>&#160;•&#160;<a href="/wiki/Freedom_fries" title="Freedom fries">Freedom fries</a>&#160;•&#160;<a href="/wiki/Freeganism" title="Freeganism">Freeganism</a>&#160;•&#160;<a href="/wiki/Germ_theory_denialism" title="Germ theory denialism">Germ theory denialism</a>&#160;•&#160;<a href="/wiki/Green_tea" title="Green tea">Green tea</a>&#160;•&#160;<a href="/wiki/Fun:Haggis" title="Fun:Haggis">Haggis</a>&#160;•&#160;<a href="/wiki/Herbal_supplement" title="Herbal supplement">Herbal supplement</a>&#160;•&#160;<a href="/wiki/In_vitro_meat" title="In vitro meat">In vitro meat</a>&#160;•&#160;<a href="/wiki/Joshua_Lee_Axe" title="Joshua Lee Axe">Joshua Lee Axe</a>&#160;•&#160;<a href="/wiki/Juicing" title="Juicing">Juicing</a>&#160;•&#160;<a href="/wiki/Kopi_luwak" title="Kopi luwak">Kopi luwak</a>&#160;•&#160;<a href="/wiki/Kymatika_test" title="Kymatika test">Kymatika test</a>&#160;•&#160;<a href="/wiki/Locavore" title="Locavore">Locavore</a>&#160;•&#160;<a href="/wiki/Magnetic_water_treatment" title="Magnetic water treatment">Magnetic water treatment</a>&#160;•&#160;<a href="/wiki/Microwave_oven" title="Microwave oven">Microwave oven</a>&#160;•&#160;<a href="/wiki/Nutritionist" title="Nutritionist">Nutritionist</a>&#160;•&#160;<a href="/wiki/Omega-3" title="Omega-3">Omega-3</a>&#160;•&#160;<a href="/wiki/Orthorexia" title="Orthorexia">Orthorexia</a>&#160;•&#160;<a href="/wiki/Pete_Evans" title="Pete Evans">Pete Evans</a>&#160;•&#160;<a href="/wiki/Pork" title="Pork">Pork</a>&#160;•&#160;<a href="/wiki/Raspberry_ketone" title="Raspberry ketone">Raspberry ketone</a>&#160;•&#160;<a href="/wiki/Fun:RationalWiki_diet" title="Fun:RationalWiki diet">RationalWiki diet</a>&#160;•&#160;<a href="/wiki/Raw_honey" title="Raw honey">Raw honey</a>&#160;•&#160;<a href="/wiki/Salt" title="Salt">Salt</a>&#160;•&#160;<a href="/wiki/Soylent" title="Soylent">Soylent</a>&#160;•&#160;<a href="/wiki/Spot_reduction" title="Spot reduction">Spot reduction</a>&#160;•&#160;<a href="/wiki/Fun:Stilton_cheese" title="Fun:Stilton cheese">Stilton cheese</a>&#160;•&#160;<a href="/wiki/Sugar" title="Sugar">Sugar</a>&#160;•&#160;<a href="/wiki/Superfoods" title="Superfoods">Superfoods</a>&#160;•&#160;<a href="/wiki/Fun:Tripe" title="Fun:Tripe">Tripe</a>&#160;•&#160;<a href="/wiki/Turmeric" title="Turmeric">Turmeric</a>&#160;•&#160;<a href="/wiki/Veganism" title="Veganism">Veganism</a>&#160;•&#160;<a href="/wiki/Vegetarianism" title="Vegetarianism">Vegetarianism</a>&#160;•&#160;<a href="/wiki/Water_woo" title="Water woo">Water woo</a>&#160;•
+</td></tr>
+<tr>
+<td style="width:5%;"> &#160;
+</td>
+<td colspan="2" style="background:#47374A; width:20%; text-align:right;"> <b><a href="/wiki/Category:Food_woo_promoters" title="Category:Food woo promoters"><span style="color:white; font-size:125%">Promoters:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/American_Association_of_Nutritional_Consultants" title="American Association of Nutritional Consultants">American Association of Nutritional Consultants</a>&#160;•&#160;<a href="/wiki/Annee_de_Mamiel" title="Annee de Mamiel">Annee de Mamiel</a>&#160;•&#160;<a href="/wiki/Anti-Gym" title="Anti-Gym">Anti-Gym</a>&#160;•&#160;<a href="/wiki/Bulletproof_diet" title="Bulletproof diet">Bulletproof diet</a>&#160;•&#160;<a href="/wiki/David_Wolfe" title="David Wolfe">David Wolfe</a>&#160;•&#160;<a href="/wiki/Errol_Denton" title="Errol Denton">Errol Denton</a>&#160;•&#160;<a href="/wiki/Food_Babe" title="Food Babe">Food Babe</a>&#160;•&#160;<a href="/wiki/Gary_Null" title="Gary Null">Gary Null</a>&#160;•&#160;<a href="/wiki/Gerson_Therapy" title="Gerson Therapy">Gerson Therapy</a>&#160;•&#160;<a href="/wiki/GreenMedInfo" title="GreenMedInfo">GreenMedInfo</a>&#160;•&#160;<a href="/wiki/H2Om" title="H2Om">H2Om</a>&#160;•&#160;<a href="/wiki/Harmonized_H2O" title="Harmonized H2O">Harmonized H2O</a>&#160;•&#160;<a href="/wiki/Jeffrey_Smith" title="Jeffrey Smith">Jeffrey Smith</a>&#160;•&#160;<a href="/wiki/Joel_Fuhrman" title="Joel Fuhrman">Joel Fuhrman</a>&#160;•&#160;<a href="/wiki/John_Fagan" title="John Fagan">John Fagan</a>&#160;•&#160;<a href="/wiki/Life_Extension_Foundation" title="Life Extension Foundation">Life Extension Foundation</a>&#160;•&#160;<a href="/wiki/Matt_Cahill" title="Matt Cahill">Matt Cahill</a>&#160;•&#160;<a href="/wiki/MonaVie" title="MonaVie">MonaVie</a>&#160;•&#160;<a href="/wiki/Organic_Consumers_Association" title="Organic Consumers Association">Organic Consumers Association</a>&#160;•&#160;<a href="/wiki/PETA" title="PETA">PETA</a>&#160;•&#160;<a href="/wiki/Physicians_Committee_for_Responsible_Medicine" title="Physicians Committee for Responsible Medicine">Physicians Committee for Responsible Medicine</a>&#160;•&#160;<a href="/wiki/Purity_Products" title="Purity Products">Purity Products</a>&#160;•&#160;<a href="/wiki/Rick_Scott" title="Rick Scott">Rick Scott</a>&#160;•&#160;<a href="/wiki/Robert_O._Young" title="Robert O. Young">Robert O. Young</a>&#160;•&#160;<a href="/wiki/Sarah_Palin" title="Sarah Palin">Sarah Palin</a>&#160;•&#160;<a href="/wiki/Vandana_Shiva" title="Vandana Shiva">Vandana Shiva</a>&#160;•&#160;<a href="/wiki/Weston_A._Price_Foundation" title="Weston A. Price Foundation">Weston A. Price Foundation</a>&#160;•&#160;<a href="/wiki/Whole_Foods_Market" title="Whole Foods Market">Whole Foods Market</a>&#160;•
+</td></tr>
+<tr>
+<td style="width:5%;"> &#160;
+</td>
+<td colspan="2" style="background:#47374A; width:20%; text-align:right;"> <b><a href="/wiki/Category:Diet_woo" title="Category:Diet woo"><span style="color:white; font-size:125%">Diet woo:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/Agave_nectar" title="Agave nectar">Agave nectar</a>&#160;•&#160;<a href="/wiki/Alkaline_diet" title="Alkaline diet">Alkaline diet</a>&#160;•&#160;<a href="/wiki/Anti-oxidants" title="Anti-oxidants">Anti-oxidants</a>&#160;•&#160;<a href="/wiki/Blood_type_diet" title="Blood type diet">Blood type diet</a>&#160;•&#160;<a href="/wiki/Breatharianism" title="Breatharianism">Breatharianism</a>&#160;•&#160;<a href="/wiki/Bulletproof_diet" title="Bulletproof diet">Bulletproof diet</a>&#160;•&#160;<a href="/wiki/Carnivora" title="Carnivora">Carnivora</a>&#160;•&#160;<a href="/wiki/Coconut_oil" title="Coconut oil">Coconut oil</a>&#160;•&#160;<a href="/wiki/Creatine" title="Creatine">Creatine</a>&#160;•&#160;<a href="/wiki/Fun:Doughism" title="Fun:Doughism">Doughism</a>&#160;•&#160;<a href="/wiki/Ephedrine" title="Ephedrine">Ephedrine</a>&#160;•&#160;<a href="/wiki/Errol_Denton" title="Errol Denton">Errol Denton</a>&#160;•&#160;<a href="/wiki/Fad_diet" title="Fad diet">Fad diet</a>&#160;•&#160;<a href="/wiki/Fasting" title="Fasting">Fasting</a>&#160;•&#160;<a href="/wiki/French_paradox" title="French paradox">French paradox</a>&#160;•&#160;<a href="/wiki/Geophagia" title="Geophagia">Geophagia</a>&#160;•&#160;<a href="/wiki/Gerson_Therapy" title="Gerson Therapy">Gerson Therapy</a>&#160;•&#160;<a href="/wiki/Gluten-free" title="Gluten-free">Gluten-free</a>&#160;•&#160;<a href="/wiki/Glycemic_index" title="Glycemic index">Glycemic index</a>&#160;•&#160;<a href="/wiki/Herbalife" title="Herbalife">Herbalife</a>&#160;•&#160;<a href="/wiki/High-fructose_corn_syrup" title="High-fructose corn syrup">High-fructose corn syrup</a>&#160;•&#160;<a href="/wiki/Holland_%26_Barrett" title="Holland &amp; Barrett">Holland &amp; Barrett</a>&#160;•&#160;<a href="/wiki/Inedia" title="Inedia">Inedia</a>&#160;•&#160;<a href="/wiki/Isagenix" title="Isagenix">Isagenix</a>&#160;•&#160;<a href="/wiki/Jesus_diet" title="Jesus diet">Jesus diet</a>&#160;•&#160;<a href="/wiki/Lemonade_diet" title="Lemonade diet">Lemonade diet</a>&#160;•&#160;<a href="/wiki/Low-carb_diet" title="Low-carb diet">Low-carb diet</a>&#160;•&#160;<a href="/wiki/Macrobiotics" title="Macrobiotics">Macrobiotics</a>&#160;•&#160;<a href="/wiki/Mediterranean_diet" title="Mediterranean diet">Mediterranean diet</a>&#160;•&#160;<a href="/wiki/Milk" title="Milk">Milk</a>&#160;•&#160;<a href="/wiki/Neti_pot" title="Neti pot">Neti pot</a>&#160;•&#160;<a href="/wiki/Nutritional_supplement" title="Nutritional supplement">Nutritional supplement</a>&#160;•&#160;<a href="/wiki/Organic_food" title="Organic food">Organic food</a>&#160;•&#160;<a href="/wiki/Paleo_diet" title="Paleo diet">Paleo diet</a>&#160;•&#160;<a href="/wiki/Pro-ana" title="Pro-ana">Pro-ana</a>&#160;•&#160;<a href="/wiki/Raw_foodism" title="Raw foodism">Raw foodism</a>&#160;•&#160;<a href="/wiki/Raw_milk_movement" title="Raw milk movement">Raw milk movement</a>&#160;•&#160;<a href="/wiki/Self_help" title="Self help">Self help</a>&#160;•&#160;<a href="/wiki/Soy" title="Soy">Soy</a>&#160;•&#160;<a href="/wiki/Fun:Squirrel_diet" title="Fun:Squirrel diet">Squirrel diet</a>&#160;•&#160;<a href="/wiki/Subway_diet" title="Subway diet">Subway diet</a>&#160;•&#160;<a href="/wiki/Sweeteners" title="Sweeteners">Sweeteners</a>&#160;•&#160;<a href="/wiki/Trans_fat" title="Trans fat">Trans fat</a>&#160;•&#160;<a href="/wiki/Vitamin_D" title="Vitamin D">Vitamin D</a>&#160;•&#160;<a href="/wiki/Vitamin_and_mineral_supplements" title="Vitamin and mineral supplements">Vitamin and mineral supplements</a>&#160;•&#160;<a href="/wiki/Weigh_down_diet" title="Weigh down diet">Weigh down diet</a>&#160;•
+</td></tr>
+<tr>
+<td style="width:5%;"> &#160;
+</td>
+<td colspan="2" style="background:#47374A; width:20%; text-align:right;"> <b><a href="/wiki/Category:Food_supplement_woo" title="Category:Food supplement woo"><span style="color:white; font-size:125%">Supplement woo:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/Apple_cider_vinegar" title="Apple cider vinegar">Apple cider vinegar</a>&#160;•&#160;<a href="/wiki/Aspartame" title="Aspartame">Aspartame</a>&#160;•&#160;<a href="/wiki/A%C3%A7a%C3%AD_berry" title="Açaí berry">Açaí berry</a>&#160;•&#160;<a href="/wiki/Canola_oil" title="Canola oil">Canola oil</a>&#160;•&#160;<a href="/wiki/Chlorella" title="Chlorella">Chlorella</a>&#160;•&#160;<a href="/wiki/Chlorophyll" title="Chlorophyll">Chlorophyll</a>&#160;•&#160;<a href="/wiki/Coconut_oil" title="Coconut oil">Coconut oil</a>&#160;•&#160;<a href="/wiki/Creatine" title="Creatine">Creatine</a>&#160;•&#160;<a href="/wiki/E_number" title="E number">E number</a>&#160;•&#160;<a href="/wiki/Ellagic_acid" title="Ellagic acid">Ellagic acid</a>&#160;•&#160;<a href="/wiki/Matt_Cahill" title="Matt Cahill">Matt Cahill</a>&#160;•&#160;<a href="/wiki/Rick_Scott" title="Rick Scott">Rick Scott</a>&#160;•&#160;<a href="/wiki/Rooibos_tea" title="Rooibos tea">Rooibos tea</a>&#160;•&#160;<a href="/wiki/Salt_woo" title="Salt woo">Salt woo</a>&#160;•&#160;<a href="/wiki/Fun:Soylent_Green" title="Fun:Soylent Green">Soylent Green</a>&#160;•&#160;<a href="/wiki/Vitamin_D" title="Vitamin D">Vitamin D</a>&#160;•&#160;<a href="/wiki/Vitamin_and_mineral_supplements" title="Vitamin and mineral supplements">Vitamin and mineral supplements</a>&#160;•
+</td></tr>
+<tr>
+<td style="width:5%;"> &#160;
+</td>
+<td colspan="2" style="background:#47374A; width:20%; text-align:right;"> <b><a href="/wiki/Category:Toxins" title="Category:Toxins"><span style="color:white; font-size:125%">Toxin woo:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/Alcohol" title="Alcohol">Alcohol</a>&#160;•&#160;<a href="/wiki/Aristolochia" title="Aristolochia">Aristolochia</a>&#160;•&#160;<a href="/wiki/Arsenic" title="Arsenic">Arsenic</a>&#160;•&#160;<a href="/wiki/Aspartame" title="Aspartame">Aspartame</a>&#160;•&#160;<a href="/wiki/Fun:Broccoli" title="Fun:Broccoli">Broccoli</a>&#160;•&#160;<a href="/wiki/Candida" title="Candida">Candida</a>&#160;•&#160;<a href="/wiki/Canola_oil" title="Canola oil">Canola oil</a>&#160;•&#160;<a href="/wiki/Chemophobia" title="Chemophobia">Chemophobia</a>&#160;•&#160;<a href="/wiki/Cleanse" title="Cleanse">Cleanse</a>&#160;•&#160;<a href="/wiki/Colloidal_silver" title="Colloidal silver">Colloidal silver</a>&#160;•&#160;<a href="/wiki/DDT" title="DDT">DDT</a>&#160;•&#160;<a href="/wiki/E_number" title="E number">E number</a>&#160;•&#160;<a href="/wiki/Food_allergy" title="Food allergy">Food allergy</a>&#160;•&#160;<a href="/wiki/Lead" title="Lead">Lead</a>&#160;•&#160;<a href="/wiki/Median_lethal_dose" title="Median lethal dose">Median lethal dose</a>&#160;•&#160;<a href="/wiki/Mercury" title="Mercury">Mercury</a>&#160;•&#160;<a href="/wiki/Microwave" title="Microwave">Microwave</a>&#160;•&#160;<a href="/wiki/Monosodium_glutamate" title="Monosodium glutamate">Monosodium glutamate</a>&#160;•&#160;<a href="/wiki/Nitrites" title="Nitrites">Nitrites</a>&#160;•&#160;<a href="/wiki/Psilocybin" title="Psilocybin">Psilocybin</a>&#160;•&#160;<a href="/wiki/Toxin" title="Toxin">Toxin</a>&#160;•&#160;<a href="/wiki/Trans_fat" title="Trans fat">Trans fat</a>&#160;•&#160;<a href="/wiki/Water" title="Water">Water</a>&#160;•
+</td></tr>
+<tr>
+<td style="width:5%;"> &#160;
+</td>
+<td colspan="2" style="background:#47374A; width:20%; text-align:right;"> <b><a href="/wiki/Category:Bodybuilding_woo" title="Category:Bodybuilding woo"><span style="color:white; font-size:125%">Bodybuilding woo:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/Anti-Gym" title="Anti-Gym">Anti-Gym</a>&#160;•&#160;<a href="/wiki/Bodybuilding_woo" title="Bodybuilding woo">Bodybuilding woo</a>&#160;•&#160;<a href="/wiki/Bold_and_Determined" title="Bold and Determined">Bold and Determined</a>&#160;•&#160;<a href="/wiki/Broscience" title="Broscience">Broscience</a>&#160;•&#160;<a href="/wiki/Creatine" title="Creatine">Creatine</a>&#160;•&#160;<a href="/wiki/ECA_stack" title="ECA stack">ECA stack</a>&#160;•&#160;<a href="/wiki/Ephedrine" title="Ephedrine">Ephedrine</a>&#160;•&#160;<a href="/wiki/Fad_diet" title="Fad diet">Fad diet</a>&#160;•&#160;<a href="/wiki/Human_chorionic_gonadotrophin" title="Human chorionic gonadotrophin">Human chorionic gonadotrophin</a>&#160;•&#160;<a href="/wiki/Human_growth_hormone" title="Human growth hormone">Human growth hormone</a>&#160;•&#160;<a href="/wiki/Urban_caveman_movement" title="Urban caveman movement">Urban caveman movement</a>&#160;•
+</td></tr>
+<tr>
+<td style="width:5%;"> &#160;
+</td>
+<td colspan="2" style="background:#47374A; width:20%; text-align:right;"> <b><a href="/wiki/Category:GMO" title="Category:GMO"><span style="color:white; font-size:125%">GMO:</span></a></b>
+</td>
+<td style="background:#FFFFFF;"> &#160;<a href="/wiki/AlterNet" title="AlterNet">AlterNet</a>&#160;•&#160;<a href="/wiki/Beppe_Grillo" title="Beppe Grillo">Beppe Grillo</a>&#160;•&#160;<a href="/wiki/Bill_Maher" title="Bill Maher">Bill Maher</a>&#160;•&#160;<a href="/wiki/FAQ_on_genetically_modified_food" title="FAQ on genetically modified food">FAQ on genetically modified food</a>&#160;•&#160;<a href="/wiki/Food,_Inc" title="Food, Inc">Food, Inc</a>&#160;•&#160;<a href="/wiki/Food_Babe" title="Food Babe">Food Babe</a>&#160;•&#160;<a href="/wiki/GMO_A_Go_Go" title="GMO A Go Go">GMO A Go Go</a>&#160;•&#160;<a href="/wiki/GMO_OMG" title="GMO OMG">GMO OMG</a>&#160;•&#160;<a href="/wiki/Genetically_modified_food" title="Genetically modified food">Genetically modified food</a>&#160;•&#160;<a href="/wiki/Gilles-Eric_S%C3%A9ralini" title="Gilles-Eric Séralini">Gilles-Eric Séralini</a>&#160;•&#160;<a href="/wiki/Glyphosate" title="Glyphosate">Glyphosate</a>&#160;•&#160;<a href="/wiki/Golden_Rice" title="Golden Rice">Golden Rice</a>&#160;•&#160;<a href="/wiki/GreenMedInfo" title="GreenMedInfo">GreenMedInfo</a>&#160;•&#160;<a href="/wiki/Jill_Stein" title="Jill Stein">Jill Stein</a>&#160;•&#160;<a href="/wiki/Judy_Carman" title="Judy Carman">Judy Carman</a>&#160;•&#160;<a href="/wiki/Kevin_Folta" title="Kevin Folta">Kevin Folta</a>&#160;•&#160;<a href="/wiki/Liberty_Beacon" title="Liberty Beacon">Liberty Beacon</a>&#160;•&#160;<a href="/wiki/March_Against_Monsanto" title="March Against Monsanto">March Against Monsanto</a>&#160;•&#160;<a href="/wiki/Mark_Lynas" title="Mark Lynas">Mark Lynas</a>&#160;•&#160;<a href="/wiki/Michael_Pollan" title="Michael Pollan">Michael Pollan</a>&#160;•&#160;<a href="/wiki/Monsanto" title="Monsanto">Monsanto</a>&#160;•&#160;<a href="/wiki/Nassim_Nicholas_Taleb" title="Nassim Nicholas Taleb">Nassim Nicholas Taleb</a>&#160;•&#160;<a href="/wiki/NaturalNews" title="NaturalNews">NaturalNews</a>&#160;•&#160;<a href="/wiki/Percy_Schmeiser" title="Percy Schmeiser">Percy Schmeiser</a>&#160;•&#160;<a href="/wiki/Seeds_of_Death" title="Seeds of Death">Seeds of Death</a>&#160;•&#160;<a href="/wiki/TruthWiki" title="TruthWiki">TruthWiki</a>&#160;•&#160;<a href="/wiki/Vandana_Shiva" title="Vandana Shiva">Vandana Shiva</a>&#160;•
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1453/1000000
+Post‐expand include size: 44758/2097152 bytes
+Template argument size: 2817/2097152 bytes
+Expensive parser function count: 0/100
+-->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://rationalwiki.org/w/index.php?title=Health_at_every_size&amp;oldid=1791664">http://rationalwiki.org/w/index.php?title=Health_at_every_size&amp;oldid=1791664</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Denialism" title="Category:Denialism">Denialism</a></li><li><a href="/wiki/Category:Food_woo" title="Category:Food woo">Food woo</a></li><li><a href="/wiki/Category:Diet_woo" title="Category:Diet woo">Diet woo</a></li><li><a href="/wiki/Category:Feminist_moonbattery" title="Category:Feminist moonbattery">Feminist moonbattery</a></li><li><a href="/wiki/Category:Liberal_moonbattery" title="Category:Liberal moonbattery">Liberal moonbattery</a></li><li><a href="/wiki/Category:Pseudoscience" title="Category:Pseudoscience">Pseudoscience</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden category: <ul><li><a href="/wiki/Category:Articles_with_unsourced_statements" title="Category:Articles with unsourced statements">Articles with unsourced statements</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Health+at+every+size" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Health_at_every_size"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Health_at_every_size"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Health_at_every_size" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Health_at_every_size&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Health_at_every_size&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">Fossil record</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search RationalWiki [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(/w/images/6/6e/Rw_logo.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random mainspace article [x]" accesskey="x">Random page</a></li>
+			<li id="n-New-pages"><a href="/wiki/Special:NewPages">New pages</a></li>
+			<li id="n-All-logs"><a href="/wiki/Special:Log">All logs</a></li>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="RTFM">Help</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- support -->
+<div class="portal" id='p-support'>
+	<h5>support</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Donate"><a href="/wiki/RationalWiki:Site_support">Donate</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /support -->
+
+<!-- community -->
+<div class="portal" id='p-community'>
+	<h5>Community</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Saloon-bar"><a href="/wiki/RationalWiki:Saloon_bar">Saloon bar</a></li>
+			<li id="n-To-do-list"><a href="/wiki/RationalWiki:To_do_list">To do list</a></li>
+			<li id="n-What-is-going-on.3F"><a href="/wiki/WIGO">What is going on?</a></li>
+			<li id="n-Best-of-RationalWiki"><a href="/wiki/RationalWiki:Contents">Best of RationalWiki</a></li>
+			<li id="n-About-RationalWiki"><a href="/wiki/RationalWiki">About RationalWiki</a></li>
+			<li id="n-Technical-support"><a href="/wiki/RationalWiki:Technical_support">Technical support</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /community -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- External links -->
+<div class="portal" id='p-External_links'>
+	<h5>External links</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Twitter"><a href="https://twitter.com/RationalWiki" rel="nofollow">Twitter</a></li>
+			<li id="n-Blog"><a href="http://rationalblogs.org/rationalwiki/" rel="nofollow">Blog</a></li>
+			<li id="n-Facebook"><a href="https://www.facebook.com/pages/Rationalwiki/226614404019306" rel="nofollow">Facebook</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /External links -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Tools</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Health_at_every_size" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Health_at_every_size" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li><a href="/w/index.php?title=Health_at_every_size&amp;printable=yes" rel="alternate">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Health_at_every_size&amp;oldid=1791664" title="Permanent link to this revision of the page">Permanent link</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2017, at 23:43.</li>
+											<li id="footer-info-copyright">Unless explicitly noted otherwise, all content licensed as indicated by <a name="Copyright" href="http://rationalwiki.com/wiki/RationalWiki:Copyrights">RationalWiki:Copyrights</a>. <br> For concerns on copyright infringement please see: <a name="Copyright infringement" href="http://rationalwiki.com/wiki/RationalWiki:Copyright_violations">RationalWiki:Copyright violations</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/RationalWiki:Privacy_policy" title="RationalWiki:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/RationalWiki:About" title="RationalWiki:About">About RationalWiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/RationalWiki:General_disclaimer" title="RationalWiki:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/88x31.png" alt="CC-BY-SA 3.0, or any later version" width="88" height="31" /></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script src="http://rationalwiki.org/w/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest"], null, true);
+}</script>
+<script type="text/javascript" src="/w/extensions/Intercom/js/Intercom.js"></script>
+<script src="/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?477"></script>
+<script src="/w/extensions/UsabilityInitiative/Vector/Vector.combined.min.js?70"></script>
+<script>mw.usability.addMessages({'vector-simplesearch-search':'Search','vector-simplesearch-containing':'containing...'});</script>
+<script src="http://rationalwiki.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.161 secs. -->
+	</body>
+</html>

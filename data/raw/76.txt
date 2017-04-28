@@ -1,0 +1,566 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ 
+<title>The Food Movement, Rising | Michael Pollan</title>
+
+<!-- Facebook Opengraph additions -->
+    <meta property="fb:admins" content="1157875769" />
+    <meta property="og:url" content="http://michaelpollan.com/articles-archive/the-food-movement-rising/" />
+    <meta property="og:title" content="The Food Movement, Rising" />
+    <meta property="og:description" content="It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically speaking, until very recently. At least until the early 1970s, when a bout of food price inflation and the appearance of books critical of industrial agriculture (by Wendell Berry, Francis Moore Lappé, and Barry Commoner, among others) threatened to propel the subject to the top of the national agenda, Americans have not had to think very hard about where their food comes from, or what it is doing to the planet, their bodies, and their society." />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0963810952" />
+<!-- End Opengraph Stuff -->
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" media="print" href="http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/print.css" />
+<link rel="pingback" href="http://michaelpollan.com/wordpress/xmlrpc.php" />
+
+
+
+<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style>
+<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Design[292,348] -->
+<meta name="description"  content="It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically" />
+
+<meta name="keywords"  content="eating,farm policy &amp; agricultural subsidies,food safety,health &amp; obesity,sustainable agriculture &amp; organics,articles,the new york review of books" />
+
+<link rel="canonical" href="http://michaelpollan.com/articles-archive/the-food-movement-rising/" />
+<!-- /all in one seo pack -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/michaelpollan.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.14"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='se-link-styles-css'  href='http://michaelpollan.com/wordpress/wp-content/plugins/search-everything/static/css/se-styles.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/publish2/js/json2.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/publish2/js/pagination.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.hoverIntent.minified.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.bgiframe.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/superfish.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/supersubs.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/mp.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.colorbox-min.js?ver=4.2.14'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://michaelpollan.com/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://michaelpollan.com/wordpress/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The 2010 TIME 100' href='http://michaelpollan.com/interviews/the-2010-time-100/' />
+<link rel='next' title='Syracuse, NY' href='http://michaelpollan.com/all-appearances/syracuse-ny/' />
+<meta name="generator" content="WordPress 4.2.14" />
+<link rel='shortlink' href='http://michaelpollan.com/?p=678' />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.3';
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'44bc6d5b-c4ac-4cc8-ac5d-8be7ad8c9da7'});var st_type='wordpress3.1.3';</script>
+
+<style type="text/css" media="screen">
+	body {
+		background-image: url(/images/bg_body_line.gif);
+		background-repeat: repeat-x;
+		background-position: 0 126px;	
+	}
+</style>
+
+<!--[if IE 6]>
+wp_enqueue_script('tilebg', '/wp-content/themes/mp_wp/js/iepngfix_tilebg.js');
+<link rel="stylesheet" type="text/css" media="print" href="/wordpress/wp-content/themes/mp_wp/ie6.css" />
+<style>
+	img, a.logo, input.btn { behavior: url(/iepngfix.htc); }
+	body.page-template-tpl_home-php #nav { bottom: 40px!important; }
+	#nav li.page-item-531 ul { left: 0px!important; }
+	#nav li.page-item-535 ul { left: 345px!important; }
+	#nav li.page-item-538 ul { left: 660px!important; }
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style>
+	body.page-template-tpl_home-php #nav { bottom: 40px!important; }
+	#nav li.page-item-531 ul { left: 0px!important; }
+	#nav li.page-item-535 ul { left: 345px!important; }
+	#nav li.page-item-538 ul { left: 660px!important; }
+</style>
+<![endif]-->
+<style>
+
+</style>
+<!--[if IE]>
+
+<![endif]-->
+
+</head>
+<body class="single single-post postid-678 single-format-standard">
+<div id="container">
+
+
+<div id="header" >
+		 
+		<div id="header-promo"><a href="/books/cooked/netflix-documentary-series-cooked/"><img src="/images/header-netflix-now.jpg" alt="Netflix Documentary Series: Cooked" width="211" height="118"></a></div>
+			
+				
+		 
+		<a class="logo" href="http://michaelpollan.com/">&nbsp</a>
+		<div id="header-images">&nbsp;</div>
+<!-- <ul id="nav">
+		<li class="page_item page-item-531 page_item_has_children"><a href="http://michaelpollan.com/books/">Books</a>
+<ul class='children'>
+	<li class="page_item page-item-2203 page_item_has_children"><a href="http://michaelpollan.com/books/cooked/">Cooked</a></li>
+	<li class="page_item page-item-1970 page_item_has_children"><a href="http://michaelpollan.com/books/food-rules-illustrated-edition/">Food Rules: Illustrated Edition</a></li>
+	<li class="page_item page-item-543"><a href="http://michaelpollan.com/books/food-rules/">Food Rules</a></li>
+	<li class="page_item page-item-1035"><a href="http://michaelpollan.com/books/in-defense-of-food/">In Defense of Food</a></li>
+	<li class="page_item page-item-579"><a href="http://michaelpollan.com/books/the-omnivores-dilemma/">The Omnivore&#8217;s Dilemma</a></li>
+	<li class="page_item page-item-1039"><a href="http://michaelpollan.com/books/the-omnivores-dilemma-young-readers-edition/">The Omnivore&#8217;s Dilemma: Young Readers Edition</a></li>
+	<li class="page_item page-item-1046"><a href="http://michaelpollan.com/books/the-botany-of-desire/">The Botany of Desire</a></li>
+	<li class="page_item page-item-1050"><a href="http://michaelpollan.com/books/a-place-of-my-own/">A Place of My Own</a></li>
+	<li class="page_item page-item-1055"><a href="http://michaelpollan.com/books/second-nature/">Second Nature</a></li>
+</ul>
+</li>
+<li class="page_item page-item-533"><a href="http://michaelpollan.com/articles/">Articles</a></li>
+<li class="page_item page-item-532"><a href="http://michaelpollan.com/appearances/">Appearances</a></li>
+<li class="page_item page-item-535 page_item_has_children"><a href="http://michaelpollan.com/media/">Media</a>
+<ul class='children'>
+	<li class="page_item page-item-593"><a href="http://michaelpollan.com/media/interviews-and-profiles/">Interviews &#038; Profiles</a></li>
+	<li class="page_item page-item-1102"><a href="http://michaelpollan.com/media/videos/">Videos</a></li>
+	<li class="page_item page-item-1103"><a href="http://michaelpollan.com/media/reviews/">Reviews</a></li>
+	<li class="page_item page-item-1522"><a href="http://michaelpollan.com/media/documentary-films/">Documentary Films</a></li>
+</ul>
+</li>
+<li class="page_item page-item-536"><a href="http://michaelpollan.com/press-kit/">Press Kit</a></li>
+<li class="page_item page-item-537"><a href="http://michaelpollan.com/news/">News</a></li>
+<li class="page_item page-item-538 page_item_has_children"><a href="http://michaelpollan.com/resources/">Resources</a>
+<ul class='children'>
+	<li class="page_item page-item-1071"><a href="http://michaelpollan.com/resources/sustainable-eating-nutrition/">Sustainable Eating &#038; Nutrition</a></li>
+	<li class="page_item page-item-2194"><a href="http://michaelpollan.com/resources/cooking/">Cooking</a></li>
+	<li class="page_item page-item-1073"><a href="http://michaelpollan.com/resources/growing-food/">Growing Food</a></li>
+	<li class="page_item page-item-1075"><a href="http://michaelpollan.com/resources/politics-policy/">Politics &#038; Policy</a></li>
+	<li class="page_item page-item-1078"><a href="http://michaelpollan.com/resources/animal-welfare/">Animal Welfare</a></li>
+	<li class="page_item page-item-1080"><a href="http://michaelpollan.com/resources/journalism-writing/">Journalism &#038; Writing</a></li>
+	<li class="page_item page-item-1082"><a href="http://michaelpollan.com/resources/for-parents-kids/">For Parents &#038; Kids</a></li>
+</ul>
+</li>
+<li class="page_item page-item-539"><a href="http://michaelpollan.com/todays-link/">Today&#8217;s Links</a></li>
+	</ul> -->
+
+<div class="menu-primary-nav-container"><ul id="menu-primary-nav" class="menu"><li id="menu-item-2848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2848"><a href="http://michaelpollan.com/books/">Books</a>
+<ul class="sub-menu">
+	<li id="menu-item-2864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2864"><a href="http://michaelpollan.com/books/cooked/">Cooked</a></li>
+	<li id="menu-item-2865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2865"><a href="http://michaelpollan.com/books/food-rules-illustrated-edition/">Food Rules: Illustrated Edition</a></li>
+	<li id="menu-item-2863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2863"><a href="http://michaelpollan.com/books/food-rules/">Food Rules</a></li>
+	<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862"><a href="http://michaelpollan.com/books/in-defense-of-food/">In Defense of Food</a></li>
+	<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a href="http://michaelpollan.com/books/the-omnivores-dilemma/">The Omnivore&#8217;s Dilemma</a></li>
+	<li id="menu-item-2860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2860"><a href="http://michaelpollan.com/books/the-omnivores-dilemma-young-readers-edition/">The Omnivore&#8217;s Dilemma: Young Readers Edition</a></li>
+	<li id="menu-item-2866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2866"><a href="http://michaelpollan.com/books/the-botany-of-desire/">The Botany of Desire</a></li>
+	<li id="menu-item-2867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2867"><a href="http://michaelpollan.com/books/a-place-of-my-own/">A Place of My Own</a></li>
+	<li id="menu-item-2868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2868"><a href="http://michaelpollan.com/books/second-nature/">Second Nature</a></li>
+</ul>
+</li>
+<li id="menu-item-2849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2849"><a href="http://michaelpollan.com/appearances/">Appearances</a></li>
+<li id="menu-item-2850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2850"><a href="http://michaelpollan.com/media/">Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-3003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="http://michaelpollan.com/media/interviews-and-profiles/">Interviews &#038; Profiles</a></li>
+	<li id="menu-item-3001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001"><a href="http://michaelpollan.com/media/videos/">Videos</a></li>
+	<li id="menu-item-3002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3002"><a href="http://michaelpollan.com/media/reviews/">Reviews</a></li>
+	<li id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a href="http://michaelpollan.com/media/documentary-films/">Documentary Films</a></li>
+</ul>
+</li>
+<li id="menu-item-2857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2857"><a href="http://michaelpollan.com/press-kit/">Press Kit</a></li>
+<li id="menu-item-2851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2851"><a href="http://michaelpollan.com/articles/">Articles</a></li>
+<li id="menu-item-2852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2852"><a href="http://michaelpollan.com/news/">News</a></li>
+<li id="menu-item-2858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2858"><a href="http://michaelpollan.com/resources/">Resources</a></li>
+<li id="menu-item-2875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2875"><a href="http://michaelpollan.com/todays-link/">On Twitter</a></li>
+</ul></div>
+	<img src="/images/logo.png" alt="" id="printheader">
+</div>
+
+
+	<div id="content">
+	
+	
+		
+	<style>
+						.page-item-533 > a {
+				color:#932A29;
+				text-decoration:none;
+				}
+				div#header-images {
+					background-position: 0 -750px!important;	
+				}
+			
+	</style>
+
+	
+		
+			
+		<img class="pubtitle-img" src="/images/publications/93.gif" alt="" >
+				
+		<div class="post-678 post type-post status-publish format-standard hentry category-articles-archive category-the-new-york-review-of-books tag-eating tag-farm-policy-agricultural-subsidies tag-food-safety tag-health-obesity tag-sustainable-agriculture-organics" id="post-678">
+		
+			
+			
+			<h1>The Food Movement, Rising</h1>
+			<h2></h2>
+			<h3 class="byline" style="margin:10px 0">By Michael Pollan<br /><i>The New York Review of Books</i>, May 20, 2010</h3>
+				<div>
+<p><em> <a href="http://www.amazon.com/gp/product/0963810952?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0963810952" target="_blank">Everything I Want to Do Is Illegal: War Stories from  the Local Food Front</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0963810952" border="0" alt="" width="1" height="1" /> </em><br />
+by Joel Salatin<br />
+Polyface, 338 pp.,  $23.95 (paper)</p>
+<p><em> <a href="http://www.amazon.com/gp/product/1583228543?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1583228543" target="_blank">All You Can Eat: How Hungry Is America?</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=1583228543" border="0" alt="" width="1" height="1" /> </em><br />
+by Joel Berg<br />
+Seven Stories, 351 pp.,  $22.95 (paper)</p>
+<p><em> <a href="http://www.amazon.com/gp/product/0316086649?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0316086649" target="_blank">Eating Animals</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0316086649" border="0" alt="" width="1" height="1" /> </em><br />
+by Jonathan Safran Foer<br />
+Little, Brown, 341  pp., $25.99</p>
+<p><em> <a href="http://www.amazon.com/gp/product/1603582630?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1603582630" target="_blank">Terra Madre: Forging a New Global Network of  Sustainable Food Communities</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=1603582630" border="0" alt="" width="1" height="1" /> </em><br />
+by Carlo Petrini, with a foreword by  Alice Waters<br />
+Chelsea Green, 155 pp., $20.00 (paper)</p>
+<p><em> <a href="http://www.amazon.com/gp/product/0252076737?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0252076737" target="_blank"> The Taste for Civilization: Food, Politics, and  Civil Society</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0252076737" border="0" alt="" width="1" height="1" /> </em><br />
+by Janet A. Flammang<br />
+University of Illinois  Press, 325 pp., $70.00; $25.00 (paper)</p>
+</div>
+<h3>1.</h3>
+<p><em>Food Made Visible </em></p>
+<p>It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically speaking, until very recently. At least until the early 1970s, when a bout of food price inflation and the appearance of books critical of industrial agriculture (by Wendell Berry, Francis Moore Lappé, and Barry Commoner, among others) threatened to propel the subject to the top of the national agenda, Americans have not had to think very hard about where their food comes from, or what it is doing to the planet, their bodies, and their society.</p>
+<p>Most people count this a blessing. Americans spend a smaller percentage of their income on food than any people in history—slightly less than 10 percent—and a smaller amount of their time preparing it: a mere thirty-one minutes a day on average, including clean-up. The supermarkets brim with produce summoned from every corner of the globe, a steady stream of novel food products (17,000 new ones each year) crowds the middle aisles, and in the freezer case you can find “home meal replacements” in every conceivable ethnic stripe, demanding nothing more of the eater than opening the package and waiting for the microwave to chirp. Considered in the long sweep of human history, in which getting food dominated not just daily life but economic and political life as well, having to worry about food as little as we do, or did, seems almost a kind of dream.</p>
+<p>The dream that the age-old “food problem” had been largely solved for most Americans was sustained by the tremendous postwar increases in the productivity of American farmers, made possible by cheap fossil fuel (the key ingredient in both chemical fertilizers and pesticides) and changes in agricultural policies. Asked by President Nixon to try to drive down the cost of food after it had spiked in the early 1970s, Agriculture Secretary Earl Butz shifted the historical focus of federal farm policy from supporting prices for farmers to boosting yields of a small handful of commodity crops (corn and soy especially) at any cost.</p>
+<p>The administration’s cheap food policy worked almost too well: crop prices fell, forcing farmers to produce still more simply to break even. This led to a deep depression in the farm belt in the 1980s followed by a brutal wave of consolidation. Most importantly, the price of food came down, or at least the price of the kinds of foods that could be made from corn and soy: processed foods and sweetened beverages and feedlot meat. (Prices for fresh produce have increased since the 1980s.) Washington had succeeded in eliminating food as a political issue—an objective dear to most governments at least since the time of the French Revolution.</p>
+<p>But although cheap food is good politics, it turns out there are significant costs—to the environment, to public health, to the public purse, even to the culture—and as these became impossible to ignore in recent years, food has come back into view. Beginning in the late 1980s, a series of food safety scandals opened people’s eyes to the way their food was being produced, each one drawing the curtain back a little further on a food system that had changed beyond recognition. When BSE, or mad cow disease, surfaced in England in 1986, Americans learned that cattle, which are herbivores, were routinely being fed the flesh of other cattle; the practice helped keep meat cheap but at the risk of a hideous brain-wasting disease.</p>
+<p>The 1993 deaths of four children in Washington State who had eaten hamburgers from Jack in the Box were traced to meat contaminated with <em>E.coli</em> 0157:H7, a mutant strain of the common intestinal bacteria first identified in feedlot cattle in 1982. Since then, repeated outbreaks of food-borne illness linked to new antibiotic-resistant strains of bacteria (campylobacter, salmonella, MRSA) have turned a bright light on the shortsighted practice of routinely administering antibiotics to food animals, not to treat disease but simply to speed their growth and allow them to withstand the filthy and stressful conditions in which they live.</p>
+<p>In the wake of these food safety scandals, the conversation about food politics that briefly flourished in the 1970s was picked up again in a series of books, articles, and movies about the consequences of industrial food production.Beginning in 2001 with the publication of Eric Schlosser’s <em>Fast Food Nation</em>, a surprise best-seller, and, the following year, Marion Nestle’s <em>Food Politics</em>, the food journalism of the last decade has succeeded in making clear and telling connections between the methods of industrial food production, agricultural policy, food-borne illness, childhood obesity, the decline of the family meal as an institution, and, notably, the decline of family income beginning in the 1970s.</p>
+<p>Besides drawing women into the work force, falling wages made fast food both cheap to produce and a welcome, if not indispensible, option for pinched and harried families. The picture of the food economy Schlosser painted resembles an upside-down version of the social compact sometimes referred to as “Fordism”: instead of paying workers well enough to allow them to buy things like cars, as Henry Ford proposed to do, companies like Wal-Mart and McDonald’s pay their workers so poorly that they can afford <em>only</em> the cheap, low-quality food these companies sell, creating a kind of nonvirtuous circle driving down both wages and the quality of food. The advent of fast food (and cheap food in general) has, in effect, subsidized the decline of family incomes in America.</p>
+<h3>2.</h3>
+<p><em>Food Politics </em></p>
+<p>Cheap food has become an indispensable pillar of the modern economy. But it is no longer an invisible or uncontested one. One of the most interesting social movements to emerge in the last few years is the “food movement,” or perhaps I should say “movements,” since it is unified as yet by little more than the recognition that industrial food production is in need of reform because its social/environmental/public health/animal welfare/gastronomic costs are too high.</p>
+<p>As that list suggests, the critics are coming at the issue from a great many different directions. Where many social movements tend to splinter as time goes on, breaking into various factions representing divergent concerns or tactics, the food movement starts out splintered. Among the many threads of advocacy that can be lumped together under that rubric we can include school lunch reform; the campaign for animal rights and welfare; the campaign against genetically modified crops; the rise of organic and locally produced food; efforts to combat obesity and type 2 diabetes; “food sovereignty” (the principle that nations should be allowed to decide their agricultural policies rather than submit to free trade regimes); farm bill reform; food safety regulation; farmland preservation; student organizing around food issues on campus; efforts to promote urban agriculture and ensure that communities have access to healthy food; initiatives to create gardens and cooking classes in schools; farm worker rights; nutrition labeling; feedlot pollution; and the various efforts to regulate food ingredients and marketing, especially to kids.</p>
+<p>It’s a big, lumpy tent, and sometimes the various factions beneath it work at cross-purposes. For example, activists working to strengthen federal food safety regulations have recently run afoul of local food advocates, who fear that the burden of new regulation will cripple the current revival of small-farm agriculture. Joel Salatin, the Virginia meat producer and writer who has become a hero to the food movement, fulminates against food safety regulation on libertarian grounds in his <em>Everything I Want to Do Is Illegal: War Stories From the Local Food Front</em>. Hunger activists like Joel Berg, in <em>All You Can Eat: How Hungry Is America?</em>, criticize supporters of “sustainable” agriculture—i.e., producing food in ways that do not harm the environment—for advocating reforms that threaten to raise the cost of food to the poor. Animal rights advocates occasionally pick fights with sustainable meat producers (such as Joel Salatin), as Jonathan Safran Foer does in his recent vegetarian polemic, <em>Eating Animals</em>.</p>
+<p>But there are indications that these various voices may be coming together in something that looks more and more like a coherent movement. Many in the animal welfare movement, from PETA to Peter Singer, have come to see that a smaller-scale, more humane animal agriculture is a goal worth fighting for, and surely more attainable than the abolition of meat eating. Stung by charges of elitism, activists for sustainable farming are starting to take seriously the problem of hunger and poverty. They’re promoting schemes and policies to make fresh local food more accessible to the poor, through programs that give vouchers redeemable at farmers’ markets to participants in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) and food stamp recipients. Yet a few underlying tensions remain: the “hunger lobby” has traditionally supported farm subsidies in exchange for the farm lobby’s support of nutrition programs, a marriage of convenience dating to the 1960s that vastly complicates reform of the farm bill—a top priority for the food movement.</p>
+<p>The sociologist Troy Duster reminds us of an all-important axiom about social movements: “No movement is as coherent and integrated as it seems from afar,” he says, “and no movement is as incoherent and fractured as it seems from up close.” Viewed from a middle distance, then, the food movement coalesces around the recognition that today’s food and farming economy is “unsustainable”—that it can’t go on in its current form much longer without courting a breakdown of some kind, whether environmental, economic, or both.</p>
+<p>For some in the movement, the more urgent problem is environmental: the food system consumes more fossil fuel energy than we can count on in the future (about a fifth of the total American use of such energy) and emits more greenhouse gas than we can afford to emit, particularly since agriculture is the one human system that <em>should</em> be able to substantially rely on photosynthesis: solar energy. It will be difficult if not impossible to address the issue of climate change without reforming the food system. This is a conclusion that has only recently been embraced by the environmental movement, which historically has disdained all agriculture as a lapse from wilderness and a source of pollution.<sup id="fnr1-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn1-717352544">1</a></sup> But in the last few years, several of the major environmental groups have come to appreciate that a diversified, sustainable agriculture—which can sequester large amounts of carbon in the soil—holds the potential not just to mitigate but actually to help solve environmental problems, including climate change. Today, environmental organizations like the Natural Resources Defense Council and the Environmental Working Group are taking up the cause of food system reform, lending their expertise and clout to the movement.</p>
+<p>But perhaps the food movement’s strongest claim on public attention today is the fact that the American diet of highly processed food laced with added fats and sugars is responsible for the epidemic of chronic diseases that threatens to bankrupt the health care system. The Centers for Disease Control estimates that fully three quarters of US health care spending goes to treat chronic diseases, most of which are preventable and linked to diet: heart disease, stroke, type 2 diabetes, and at least a third of all cancers. The health care crisis probably cannot be addressed without addressing the catastrophe of the American diet, and that diet is the direct (even if unintended) result of the way that our agriculture and food industries have been organized.</p>
+<p>Michelle Obama’s recent foray into food politics, beginning with the organic garden she planted on the White House lawn last spring, suggests that the administration has made these connections. Her new “Let’s Move” campaign to combat childhood obesity might at first blush seem fairly anodyne, but in announcing the initiative in February, and in a surprisingly tough speech to the Grocery Manufacturers Association in March,<sup id="fnr2-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn2-717352544">2</a></sup> the First Lady has effectively shifted the conversation about diet from the industry’s preferred ground of “personal responsibility” and exercise to a frank discussion of the way food is produced and marketed. “We need you not just to tweak around the edges,” she told the assembled food makers, “but to entirely rethink the products that you’re offering, the information that you provide about these products, and how you market those products to our children.”</p>
+<p>Mrs. Obama explicitly rejected the conventional argument that the food industry is merely giving people the sugary, fatty, and salty foods they want, contending that the industry “doesn’t just respond to people’s natural inclinations—it also actually helps to shape them,” through the ways it creates products and markets them.</p>
+<p>So far at least, Michelle Obama is the food movement’s most important ally in the administration, but there are signs of interest elsewhere. Under Commissioner Margaret Hamburg, the FDA has cracked down on deceptive food marketing and is said to be weighing a ban on the nontherapeutic use of antibiotics in factory farming. Attorney General Eric Holder recently avowed the Justice Department’s intention to pursue antitrust enforcement in agribusiness, one of the most highly concentrated sectors in the economy.<sup id="fnr3-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn3-717352544">3</a></sup> At his side was Agriculture Secretary Tom Vilsack, the former governor of Iowa, who has planted his own organic vegetable garden at the department and launched a new “Know Your Farmer, Know Your Food” initiative aimed at promoting local food systems as a way to both rebuild rural economies and improve access to healthy food.</p>
+<p>Though Vilsack has so far left mostly undisturbed his department’s traditional deference to industrial agriculture, the new tone in Washington and the appointment of a handful of respected reformers (such as Tufts professor Kathleen Merrigan as deputy secretary of agriculture) has elicited a somewhat defensive, if not panicky, reaction from agribusiness. The Farm Bureau recently urged its members to go on the offensive against “food activists,” and a trade association representing pesticide makers called CropLife America wrote to Michelle Obama suggesting that her organic garden had unfairly maligned chemical agriculture and encouraging her to use “crop protection technologies”—i.e., pesticides.</p>
+<p>The First Lady’s response is not known; however, the President subsequently rewarded CropLife by appointing one of its executives to a high-level trade post. This and other industry-friendly appointments suggest that while the administration may be sympathetic to elements of the food movement’s agenda, it isn’t about to take on agribusiness, at least not directly, at least until it senses at its back a much larger constituency for reform.</p>
+<p>One way to interpret Michelle Obama’s deepening involvement in food issues is as an effort to build such a constituency, and in this she may well succeed. It’s a mistake to underestimate what a determined First Lady can accomplish. Lady Bird Johnson’s “highway beautification” campaign also seemed benign, but in the end it helped raise public consciousness about “the environment” (as it would soon come to be known) and put an end to the public’s tolerance for littering. And while Michelle Obama has explicitly limited her efforts to exhortation (“we can’t solve this problem by passing a bunch of laws in Washington,” she told the Grocery Manufacturers, no doubt much to their relief), her work is already creating a climate in which just such a “bunch of laws” might flourish: a handful of state legislatures, including California’s, are seriously considering levying new taxes on sugar in soft drinks, proposals considered hopelessly extreme less than a year ago.</p>
+<p>The political ground is shifting, and the passage of health care reform may accelerate that movement. The bill itself contains a few provisions long promoted by the food movement (like calorie labeling on fast food menus), but more important could be the new political tendencies it sets in motion. If health insurers can no longer keep people with chronic diseases out of their patient pools, it stands to reason that the companies will develop a keener interest in preventing those diseases. They will then discover that they have a large stake in things like soda taxes and in precisely which kinds of calories the farm bill is subsidizing. As the insurance industry and the government take on more responsibility for the cost of treating expensive and largely preventable problems like obesity and type 2 diabetes, pressure for reform of the food system, and the American diet, can be expected to increase.</p>
+<h3>3.</h3>
+<p><em>Beyond the Barcode </em></p>
+<p>It would be a mistake to conclude that the food movement’s agenda can be reduced to a set of laws, policies, and regulations, important as these may be. What is attracting so many people to the movement today (and young people in particular) is a much less conventional kind of politics, one that is about something more than food. The food movement is also about community, identity, pleasure, and, most notably, about carving out a new social and economic space removed from the influence of big corporations on the one side and government on the other. As the Diggers used to say during their San Francisco be-ins during the 1960s, food can serve as “an edible dynamic”—a means to a political end that is only nominally about food itself.</p>
+<p>One can get a taste of this social space simply by hanging around a farmers’ market, an activity that a great many people enjoy today regardless of whether they’re in the market for a bunch of carrots or a head of lettuce. Farmers’ markets are thriving, more than five thousand strong, and there is a lot more going on in them than the exchange of money for food. Someone is collecting signatures on a petition. Someone else is playing music. Children are everywhere, sampling fresh produce, talking to farmers. Friends and acquaintances stop to chat. One sociologist calculated that people have ten times as many conversations at the farmers’ market than they do in the supermarket. Socially as well as sensually, the farmers’ market offers a remarkably rich and appealing environment. Someone buying food here may be acting not just as a consumer but also as a neighbor, a citizen, a parent, a cook. In many cities and towns, farmers’ markets have taken on (and not for the first time) the function of a lively new public square.</p>
+<p>Though seldom articulated as such, the attempt to redefine, or escape, the traditional role of consumer has become an important aspiration of the food movement. In various ways it seeks to put the relationship between consumers and producers on a new, more neighborly footing, enriching the kinds of information exchanged in the transaction, and encouraging us to regard our food dollars as “votes” for a different kind of agriculture and, by implication, economy. The modern marketplace would have us decide what to buy strictly on the basis of price and self-interest; the food movement implicitly proposes that we enlarge our understanding of both those terms, suggesting that not just “good value” but ethical and political values should inform our buying decisions, and that we’ll get more satisfaction from our eating when they do.</p>
+<p>That satisfaction helps to explain why many in the movement don’t greet the spectacle of large corporations adopting its goals, as some of them have begun to do, with unalloyed enthusiasm. Already Wal-Mart sells organic and local food, but this doesn’t greatly warm the hearts of food movement activists. One important impetus for the movement, or at least its locavore wing—those who are committed to eating as much locally produced food as possible—is the desire to get “beyond the barcode”—to create new economic and social structures outside of the mainstream consumer economy. Though not always articulated in these terms, the local food movement wants to decentralize the global economy, if not secede from it altogether, which is why in some communities, such as Great Barrington, Massachusetts, local currencies (the “BerkShare”) have popped up.</p>
+<p>In fact it’s hard to say which comes first: the desire to promote local agriculture or the desire to promote local economies more generally by cutting ties, to whatever degree possible, to the national economic grid.<sup id="fnr4-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn4-717352544">4</a></sup> This is at bottom a communitarian impulse, and it is one that is drawing support from the right as well as the left. Though the food movement has deep roots in the counterculture of the 1960s, its critique of corporate food and federal farm subsidies, as well as its emphasis on building community around food, has won it friends on the right. In his 2006 book <em>Crunchy Cons</em>, Rod Dreher identifies a strain of libertarian conservatism, often evangelical, that regards fast food as anathema to family values, and has seized on local food as a kind of culinary counterpart to home schooling.</p>
+<p>It makes sense that food and farming should become a locus of attention for Americans disenchanted with consumer capitalism. Food is the place in daily life where corporatization can be most vividly felt: think about the homogenization of taste and experience represented by fast food. By the same token, food offers us one of the shortest, most appealing paths out of the corporate labyrinth, and into the sheer diversity of local flavors, varieties, and characters on offer at the farmers’ market.</p>
+<p>Put another way, the food movement has set out to foster new forms of civil society. But instead of proposing that space as a counterweight to an overbearing state, as is usually the case, the food movement poses it against the dominance of corporations and their tendency to insinuate themselves into any aspect of our lives from which they can profit. As Wendell Berry writes, the corporations</p>
+<blockquote><p>will grow, deliver, and cook your food for you and (just like your mother) beg you to eat it. That they do not yet offer to insert it, prechewed, into your mouth is only because they have found no profitable way to do so.</p></blockquote>
+<p>The corporatization of something as basic and intimate as eating is, for many of us today, a good place to draw the line.</p>
+<p>The Italian-born organization Slow Food, founded in 1986 as a protest against the arrival of McDonald’s in Rome, represents perhaps the purest expression of these politics. The organization, which now has 100,000 members in 132 countries, began by dedicating itself to “a firm defense of quiet material pleasure” but has lately waded into deeper political and economic waters. Slow Food’s founder and president, Carlo Petrini, a former leftist journalist, has much to say about how people’s daily food choices can rehabilitate the act of consumption, making it something more creative and progressive. In his new book <em>Terra Madre: Forging a New Global Network of Sustainable Food Communities</em>, Petrini urges eaters and food producers to join together in “food communities” outside of the usual distribution channels, which typically communicate little information beyond price and often exploit food producers. A farmers’ market is one manifestation of such a community, but Petrini is no mere locavore. Rather, he would have us practice on a global scale something like “local” economics, with its stress on neighborliness, as when, to cite one of his examples, eaters in the affluent West support nomad fisher folk in Mauritania by creating a market for their bottarga, or dried mullet roe. In helping to keep alive such a food tradition and way of life, the eater becomes something more than a consumer; she becomes what Petrini likes to call a “coproducer.”</p>
+<p>Ever the Italian, Petrini puts pleasure at the center of his politics, which might explain why Slow Food is not always taken as seriously as it deserves to be. For why <em>shouldn’t</em> pleasure figure in the politics of the food movement? Good food is potentially one of the most democratic pleasures a society can offer, and is one of those subjects, like sports, that people can talk about across lines of class, ethnicity, and race.</p>
+<p>The fact that the most humane and most environmentally sustainable choices frequently turn out to be the most delicious choices (as chefs such as Alice Waters and Dan Barber have pointed out) is fortuitous to say the least; it is also a welcome challenge to the more dismal choices typically posed by environmentalism, which most of the time is asking us to give up things we like. As Alice Waters has often said, it was not politics or ecology that brought her to organic agriculture, but rather the desire to recover a certain taste—one she had experienced as an exchange student in France. Of course democratizing such tastes, which under current policies tend to be more expensive, is the hard part, and must eventually lead the movement back to more conventional politics lest it be tagged as elitist.</p>
+<p>But the movement’s interest in such seemingly mundane matters as taste and the other textures of everyday life is also one of its great strengths. Part of the movement’s critique of industrial food is that, with the rise of fast food and the collapse of everyday cooking, it has damaged family life and community by undermining the institution of the shared meal. Sad as it may be to bowl alone, eating alone can be sadder still, not least because it is eroding the civility on which our political culture depends.</p>
+<p>That is the argument made by Janet Flammang, a political scientist, in a provocative new book called <em>The Taste for Civilization: Food, Politics, and Civil Society</em>. “Significant social and political costs have resulted from fast food and convenience foods,” she writes, “grazing and snacking instead of sitting down for leisurely meals, watching television during mealtimes instead of conversing”—40 percent of Americans watch television during meals—”viewing food as fuel rather than sustenance, discarding family recipes and foodways, and denying that eating has social and political dimensions.” The cultural contradictions of capitalism—its tendency to undermine the stabilizing social forms it depends on—are on vivid display at the modern American dinner table.</p>
+<p>In a challenge to second-wave feminists who urged women to get out of the kitchen, Flammang suggests that by denigrating “foodwork”—everything involved in putting meals on the family table—we have unthinkingly wrecked one of the nurseries of democracy: the family meal. It is at “the temporary democracy of the table” that children learn the art of conversation and acquire the habits of civility—sharing, listening, taking turns, navigating differences, arguing without offending—and it is these habits that are lost when we eat alone and on the run. “Civility is not needed when one is by oneself.”<sup id="fnr5-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn5-717352544">5</a></sup></p>
+<p>These arguments resonated during the Senate debate over health care reform, when <em>The New York Times</em> reported that the private Senate dining room, where senators of both parties used to break bread together, stood empty. Flammang attributes some of the loss of civility in Washington to the aftermatch of the 1994 Republican Revolution, when Newt Gingrich, the new Speaker of the House, urged his freshman legislators <em>not</em> to move their families to Washington. Members now returned to their districts every weekend, sacrificing opportunities for socializing across party lines and, in the process, the “reservoirs of good will replenished at dinner parties.” It is much harder to vilify someone with whom you have shared a meal.</p>
+<p>Flammang makes a convincing case for the centrality of food work and shared meals, much along the lines laid down by Carlo Petrini and Alice Waters, but with more historical perspective and theoretical rigor. A scholar of the women’s movement, she suggests that “American women are having second thoughts” about having left the kitchen.<sup id="fnr6-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn6-717352544">6</a></sup> However, the answer is not for them simply to return to it, at least not alone, but rather “for everyone—men, women, and children—to go back to the kitchen, as in preindustrial days, and for the workplace to lessen its time demands on people.” Flammang points out that the historical priority of the American labor movement has been to fight for money, while the European labor movement has fought for time, which she suggests may have been the wiser choice.</p>
+<p>At the very least this is a debate worth having, and it begins by taking food issues much more seriously than we have taken them. Flammang suggests that the invisibility of these issues until recently owes to the identification of food work with women and the (related) fact that eating, by its very nature, falls on the wrong side of the mind–body dualism. “Food is apprehended through the senses of touch, smell and taste,” she points out,</p>
+<blockquote><p>which rank lower on the hierarchy of senses than sight and hearing, which are typically thought to give rise to knowledge. In most of philosophy, religion, and literature, food is associated with body, animal, female, and appetite—things civilized men have sought to overcome with reason and knowledge.</p></blockquote>
+<p>Much to our loss. But food is invisible no longer and, in light of the mounting costs we’ve incurred by ignoring it, it is likely to demand much more of our attention in the future, as eaters, parents, and citizens. It is only a matter of time before politicians seize on the power of the food issue, which besides being increasingly urgent is also almost primal, indeed is in some deep sense proto- political. For where do all politics begin if not in the high chair?—at that fateful moment when mother, or father, raises a spoonful of food to the lips of the baby who clamps shut her mouth, shakes her head no, and for the very first time in life awakens to and asserts her sovereign power.</p>
+<div>
+<ol>
+<li id="fn1-236030181">Al Gore&#8217;s <em>An Inconvenient Truth</em> made scant mention of food or agriculture, but in his recent follow-up book, <em>Our Choice: A Plan to Solve the Climate Crisis </em>(2009), he devotes a long chapter to the subject of our food choices and their bearing on climate. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr1-236030181">↩</a></li>
+<li id="fn2-236030181">Ms. Obama&#8217;s speech can be read at <a href="http://www.whitehouse.gov/the-press-office/remarks-first-lady-a-grocery-manufacturers-association-conference">www.whitehouse.gov/the-press-office/remarks-first-lady-a-grocery-manufacturers-association-conference</a>. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr2-236030181">↩</a></li>
+<li id="fn3-236030181">Speaking in March at an Iowa &#8220;listening session&#8221; about agribusiness concentration, Holder said, &#8220;long periods of reckless deregulation have restricted competition&#8221; in agriculture. Indeed: four companies (JBS/Swift, Tyson, Cargill, and National Beef Packers) slaughter 85 percent of US beef cattle; two companies (Monsanto and DuPont) sell more than 50 percent of US corn seed; one company (Dean Foods) controls 40 percent of the US milk supply. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr3-236030181">↩</a></li>
+<li id="fn4-236030181">For an interesting case study about a depressed Vermont mining town that turned to local food and agriculture to revitalize itself, see Ben Hewitt, <em>The Town That Food Saved: How One Community Found Vitality in Local Food</em> (Rodale, 2009). <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr4-236030181">↩</a></li>
+<li id="fn5-236030181">See David M. Herszenhorn, &#8220;In Senate Health Care Vote, New Partisan Vitriol,&#8221; <em>The New York Times</em>, December 23, 2009: &#8220;Senator Max Baucus, Democrat of Montana and chairman of the Finance Committee, said the political—and often personal—divisions that now characterize the Senate were epitomized by the empty tables in the senators&#8217; private dining room, a place where members of both parties used to break bread. &#8216;Nobody goes there anymore,&#8217; Mr. Baucus said. &#8216;When I was here 10, 15, 30 years ago, that the place you would go to talk to senators, let your hair down, just kind of compare notes, no spouses allowed, no staff, nobody. It is now empty.'&#8221;<a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr5-236030181">↩</a></li>
+<li id="fn6-236030181">The stirrings of a new &#8220;radical homemakers&#8221; movement lends some support to the assertion. See Shannon Hayes&#8217;s <em>Radical Homemakers: Reclaiming Domesticity from a Consumer Culture</em> (Left to Write Press, 2010).<a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr6-236030181">↩</a></li>
+</ol>
+</div>
+		
+							<div class="clearfix">&nbsp;</div>
+		</div>
+		<div class="article-footer">	
+			
+		
+			Filed under:  <a href="http://michaelpollan.com/tag/eating/" rel="tag">Eating</a>, <a href="http://michaelpollan.com/tag/farm-policy-agricultural-subsidies/" rel="tag">Farm Policy &amp; Agricultural Subsidies</a>, <a href="http://michaelpollan.com/tag/food-safety/" rel="tag">Food Safety</a>, <a href="http://michaelpollan.com/tag/health-obesity/" rel="tag">Health &amp; Obesity</a>, <a href="http://michaelpollan.com/tag/sustainable-agriculture-organics/" rel="tag">Sustainable Agriculture &amp; Organics</a>, <a href="http://michaelpollan.com/category/media/the-new-york-review-of-books/"><i>The New York Review of Books</i></a>
+
+			<p class="sharebutton"><span class='st_facebook_buttons' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_twitter_buttons' st_title='The Food Movement, Rising via @MichaelPollan' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_plusone_button' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_email_buttons' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='Email'></span></p>
+					</div>					
+		
+				
+		
+	
+	</div>
+
+<div id="right">
+	
+	
+	<form id="thesearch" action="/" method="get" accept-charset="utf-8">
+
+    <input type="text" name="s" id="searchform" value="search this site" />
+    <input type="image" alt="?" id="searchbtn" src="/images/searcharrow.png" />
+
+</form>	
+		
+		
+			
+			<div class="widget"><h2 class="widget-title">Articles  </h2>			<div class="execphpwidget"><img src="/images/sidebar-titles/h2/articles.png" class="header2" />
+<ul>
+<li class="categories"><h3><img src="/images/sidebar-titles/h3/recent.png"  /></h3>
+		<li>			
+				<h4><a href="http://michaelpollan.com/articles-archive/big-food-strikes-back-why-did-the-obamas-fail-to-take-on-corporate-agriculture/" rel="bookmark" title="Permanent Link to Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture?">Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture?</a></h4>
+			<p class="byline"><i>The New York Times Magazine</i><br /> 
+			October 9, 2016</p>
+		</li>
+
+				<li>			
+				<h4><a href="http://michaelpollan.com/articles-archive/a-secret-weapon-to-fight-climate-change-dirt/" rel="bookmark" title="Permanent Link to A secret weapon to fight climate change: dirt">A secret weapon to fight climate change: dirt</a></h4>
+			<p class="byline"><i>The Washington Post</i><br /> 
+			December 15, 2015</p>
+		</li>
+
+				<li>			
+				<h4><a href="http://michaelpollan.com/articles-archive/the-trip-treatment/" rel="bookmark" title="Permanent Link to The Trip Treatment">The Trip Treatment</a></h4>
+			<p class="byline"><i>The New Yorker</i><br /> 
+			February 9, 2015</p>
+		</li>
+
+		</ul>
+
+<ul>
+<li class="categories"><h3><img src="/images/sidebar-titles/h3/by-topic.png"  /></h3>
+<li>
+<a href="http://michaelpollan.com/tag/animal-welfare/" title="View all posts in Animal Welfare" >Animal Welfare</a><br /><a href="http://michaelpollan.com/tag/architecture-design/" title="View all posts in Architecture &amp; Design" >Architecture &amp; Design</a><br /><a href="http://michaelpollan.com/tag/cooking/" title="View all posts in Cooking" >Cooking</a><br /><a href="http://michaelpollan.com/tag/corn/" title="View all posts in Corn" >Corn</a><br /><a href="http://michaelpollan.com/tag/drugs/" title="View all posts in Drugs" >Drugs</a><br /><a href="http://michaelpollan.com/tag/eating/" title="View all posts in Eating" >Eating</a><br /><a href="http://michaelpollan.com/tag/environment/" title="View all posts in Environment" >Environment</a><br /><a href="http://michaelpollan.com/tag/farm-policy-agricultural-subsidies/" title="View all posts in Farm Policy &amp; Agricultural Subsidies" >Farm Policy &amp; Agricultural Subsidies</a><br /><a href="http://michaelpollan.com/tag/farmers-markets/" title="View all posts in Farmers' Markets" >Farmers' Markets</a><br /><a href="http://michaelpollan.com/tag/food-safety/" title="View all posts in Food Safety" >Food Safety</a><br /><a href="http://michaelpollan.com/tag/foraging/" title="View all posts in Foraging" >Foraging</a><br /><a href="http://michaelpollan.com/tag/gardening/" title="View all posts in Gardening" >Gardening</a><br /><a href="http://michaelpollan.com/tag/genetically-modified-organisms-gmo/" title="View all posts in Genetically Modified Organisms (GMO)" >Genetically Modified Organisms (GMO)</a><br /><a href="http://michaelpollan.com/tag/health-obesity/" title="View all posts in Health &amp; Obesity" >Health &amp; Obesity</a><br /><a href="http://michaelpollan.com/tag/lincoln-taiz/" title="View all posts in Lincoln Taiz" >Lincoln Taiz</a><br /><a href="http://michaelpollan.com/tag/meat/" title="View all posts in Meat" >Meat</a><br /><a href="http://michaelpollan.com/tag/nature/" title="View all posts in Nature" >Nature</a><br /><a href="http://michaelpollan.com/tag/nutrition/" title="View all posts in Nutrition" >Nutrition</a><br /><a href="http://michaelpollan.com/tag/plant-intelligence/" title="View all posts in plant intelligence" >plant intelligence</a><br /><a href="http://michaelpollan.com/tag/plants/" title="View all posts in plants" >plants</a><br /><a href="http://michaelpollan.com/tag/science-friday/" title="View all posts in Science Friday" >Science Friday</a><br /><a href="http://michaelpollan.com/tag/seeds/" title="View all posts in Seeds" >Seeds</a><br /><a href="http://michaelpollan.com/tag/sustainable-agriculture-organics/" title="View all posts in Sustainable Agriculture &amp; Organics" >Sustainable Agriculture &amp; Organics</a><br /><a href="http://michaelpollan.com/tag/the-new-yorker-2/" title="View all posts in the new yorker" >the new yorker</a><br /><a href="http://michaelpollan.com/tag/the-secret-life-of-plants/" title="View all posts in The Secret Life of Plants" >The Secret Life of Plants</a><br /><a href="http://michaelpollan.com/tag/travel/" title="View all posts in Travel" >Travel</a><br /></li>
+</ul>
+
+<ul>
+<li class="categories"><h3><img src="/images/sidebar-titles/h3/by-date.png"  /></h3>
+<li><a href="/articles/articles-from-2011-2016/">2011-2016</a><br />
+<a href="/articles/articles-from-2006-2010/">2006-2010</a><br />
+<a href="/articles/articles-from-2001-2005/">2001-2005</a><br />
+<a href="/articles/articles-from-1996-2000/">1996-2000</a><br />
+<a href="/articles/articles-from-1988-1995/">1988-1995</a></li>
+</ul>
+
+<ul>
+<li class="feed-link"><a href="/category/articles-archive/feed/">RSS Feed: Articles</a></li>
+</ul></div>
+		</div><div class="widget"><h2 class="widget-title">Follow Michael  </h2>			<div class="execphpwidget"><img class="header2" src="/images/sidebar-titles/h2/follow-michael.png" />
+<ul>
+<li class="categories"><img src="/images/sidebar-titles/h3/twitter.png" /></li>
+<li class="twit-link"><a href="http://twitter.com/michaelpollan">@michaelpollan</a></li>
+</ul>
+
+<ul>
+<li class="categories"><img src="/images/sidebar-titles/h3/facebook.png" /></li>
+<li class="facebook-link"><a href="http://www.facebook.com/pages/Michael-Pollan/125708780820038">Author page</a></li>
+</ul></div>
+		</div><div class="widget"><h2 class="widget-title">News Updates  </h2>			<div class="execphpwidget"><img src="/images/sidebar-titles/h2/news-updates.png" class="header2" />
+<ul>
+<li>Receive updates from Michael about in-person and media appearances, as well as news about food politics and other unpredictable items of interest.</li>
+
+<li>
+
+					<!-- Begin MailChimp Signup Form -->
+
+<!--[if IE 7]>
+<style type="text/css" media="screen">
+	.mc-field-group {overflow:visible;}
+</style>
+<![endif]-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form.js"></script>
+
+<form action="http://michaelpollan.us1.list-manage.com/subscribe/post?u=7fccf730f9f0eb11247da57db&amp;id=b7ddd5609d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+
+
+<input type="text" value="email address" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value=" " name="subscribe" id="mc-embedded-subscribe" class="btn">
+<span class="clearfix">&nbsp;</span>
+		<div id="mce-responses">
+			<div class="response" id="mce-error-response" style="display:none"></div>
+			<div class="response" id="mce-success-response" style="display:none"></div>
+		</div>
+
+
+</form>
+
+<script type="text/javascript">
+var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';var err_style = '';
+try{
+    err_style = mc_custom_error_style;
+} catch(e){
+    err_style = 'margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: rgb(255, 238, 238) none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(255, 0, 0);';
+}
+var mce_jQuery = jQuery.noConflict();
+mce_jQuery(document).ready( function($) {
+  var options = { errorClass: 'mce_inline_error', errorElement: 'div', errorStyle: err_style, onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
+  var mce_validator = mce_jQuery("#mc-embedded-subscribe-form").validate(options);
+  options = { url: 'http://michaelpollan.us1.list-manage1.com/subscribe/post-json?u=7fccf730f9f0eb11247da57db&id=b7ddd5609d&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+                beforeSubmit: function(){
+                    mce_jQuery('#mce_tmp_error_msg').remove();
+                    mce_jQuery('.datefield','#mc_embed_signup').each(
+                        function(){
+                            var txt = 'filled';
+                            var fields = new Array();
+                            var i = 0;
+                            mce_jQuery(':text', this).each(
+                                function(){
+                                    fields[i] = this;
+                                    i++;
+                                });
+                            mce_jQuery(':hidden', this).each(
+                                function(){
+                                	if ( fields[0].value=='MM' && fields[1].value=='DD' && fields[2].value=='YYYY' ){
+                                		this.value = '';
+									} else if ( fields[0].value=='' && fields[1].value=='' && fields[2].value=='' ){
+                                		this.value = '';
+									} else {
+	                                    this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
+	                                }
+                                });
+                        });
+                    return mce_validator.form();
+                }, 
+                success: mce_success_cb
+            };
+  mce_jQuery('#mc-embedded-subscribe-form').ajaxForm(options);
+
+});
+function mce_success_cb(resp){
+    mce_jQuery('#mce-success-response').hide();
+    mce_jQuery('#mce-error-response').hide();
+    if (resp.result=="success"){
+        mce_jQuery('#mce-'+resp.result+'-response').show();
+        mce_jQuery('#mce-'+resp.result+'-response').html(resp.msg);
+        mce_jQuery('#mc-embedded-subscribe-form').each(function(){
+            this.reset();
+    	});
+    } else {
+        var index = -1;
+        var msg;
+        try {
+            var parts = resp.msg.split(' - ',2);
+            if (parts[1]==undefined){
+                msg = resp.msg;
+            } else {
+                i = parseInt(parts[0]);
+                if (i.toString() == parts[0]){
+                    index = parts[0];
+                    msg = parts[1];
+                } else {
+                    index = -1;
+                    msg = resp.msg;
+                }
+            }
+        } catch(e){
+            index = -1;
+            msg = resp.msg;
+        }
+        try{
+            if (index== -1){
+                mce_jQuery('#mce-'+resp.result+'-response').show();
+                mce_jQuery('#mce-'+resp.result+'-response').html(msg);            
+            } else {
+                err_id = 'mce_tmp_error_msg';
+                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
+                
+                var input_id = '#mc_embed_signup';
+                var f = mce_jQuery(input_id);
+                if (ftypes[index]=='address'){
+                    input_id = '#mce-'+fnames[index]+'-addr1';
+                    f = mce_jQuery(input_id).parent().parent().get(0);
+                } else if (ftypes[index]=='date'){
+                    input_id = '#mce-'+fnames[index]+'-month';
+                    f = mce_jQuery(input_id).parent().parent().get(0);
+                } else {
+                    input_id = '#mce-'+fnames[index];
+                    f = mce_jQuery().parent(input_id).get(0);
+                }
+                if (f){
+                    mce_jQuery(f).append(html);
+                    mce_jQuery(input_id).focus();
+                } else {
+                    mce_jQuery('#mce-'+resp.result+'-response').show();
+                    mce_jQuery('#mce-'+resp.result+'-response').html(msg);
+                }
+            }
+        } catch(e){
+            mce_jQuery('#mce-'+resp.result+'-response').show();
+            mce_jQuery('#mce-'+resp.result+'-response').html(msg);
+        }
+    }
+}
+</script>
+<!--End mc_embed_signup-->				
+			
+</li>
+
+<li><a href="/news">Recent news updates &raquo;</a></li>
+</ul></div>
+		</div>		
+	
+		
+
+	
+	
+			
+	</div>
+
+</div> <!-- /#container -->
+<div class="clearfix">&nbsp;</div>
+<div id="footer">
+	<div id="bottomnav"><a href="/privacy-policy/">PRIVACY POLICY</a> | <a href="/terms-of-use/">TERMS OF USE</a> | <a href="/credits/">CREDITS</a> | <a href="/contact/">CONTACT</a></div>
+	<p>&copy; 2017 Michael Pollan. All rights reserved.<p>
+</div>
+
+
+
+
+		<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/michaelpollan.com\/wordpress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2'></script>
+		
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16337107-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.318 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-04-25 21:55:20 -->
+
+<!-- super cache -->

@@ -1,0 +1,1069 @@
+ 
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	
+	<title>Radical Feminism: Feminist Activism in Movement - Harvard Book Store</title>
+	<link rel="stylesheet" href="/styles/style.css" />
+	<link rel="stylesheet" href="/styles/navbar.css" />
+	<link rel="stylesheet" href="/scripts/shadowbox/shadowbox.css" />
+	
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
+	<![endif]-->
+
+	<!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
+	<![endif]-->
+
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">	
+		<script type="application/javascript" src="/scripts/iscroll/iscroll-lite.js"></script>
+	<script type="text/javascript">
+	var myScroll;
+	function loaded() {
+	myScroll = new iScroll('sidebar_nav');
+	}
+	document.addEventListener('DOMContentLoaded', loaded, false);
+	</script>
+		
+		<script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+
+		<script type="text/javascript" src="/scripts/menu.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.blockUI.js"></script>
+	<script type="text/javascript" src="/scripts/shadowbox/shadowbox.js"></script>
+	<script type="text/javascript" src="/scripts/global.js"></script>
+	
+	<script type="text/javascript">
+		Shadowbox.init({
+		    players:    ["iframe","img","html"],
+			displayNav: false,
+			handleOversize: 'resize'
+		});
+	</script>
+	
+	
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("books", "0");
+      
+      function bookpreview_notfound() {
+		$('.viewer_container').html("Sorry, no preview is currently available for this book.");
+		}
+
+      function bookpreview_initialize() {
+        var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'), {'showLinkChrome': false});
+        viewer.load('ISBN:9781137363572', bookpreview_notfound);
+        $('#viewerCanvas').show();
+      }
+      // google.setOnLoadCallback(initialize);
+    </script>
+    
+    
+        
+        
+    
+<meta name="google-site-verification" content="o_gdupcYYY79KO79z4cd2aOrKX99cHG18jY-gkp_ItA" />
+<meta name="detectify-verification" content="4cc5c711a678b7bbce9841c39e05d570" />
+
+<meta property="og:image" content="http://ecx.images-amazon.com/images/I/41R7-joYvnL.jpg" />
+
+<meta name="googlebot" content="NOODP”>
+
+<script>
+var _prum = [['id', '51701487abe53df368000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+﻿<!-- CS -->
+<script type='text/javascript'>
+(function(){
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.src = ((document.location.protocol == 'https:') ? 'https://' : 'http://') +
+            'app.cdn-cs.com/b/hN4WPS/qxyMZA/l/cs_all.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<!-- end CS -->
+<!-- MailMunch for Harvard Book Store -->
+<!-- Paste this code right before the </head> tag on every page of your site. -->
+<script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="336656" async="async"></script>
+</head>
+
+<body   >
+	<div class="page">
+	
+		<!-- start search form -->
+		<form action="/search/index.php" method="post" id="search_form">
+	
+		<div class="header">	
+			
+			<div class="search">
+				<ul class="header_buttons">
+					<li class="search_form">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td><div class="search_input_div"><input type="text" name="keywords" class="search_input" id="keywords" onkeyup="matchkeywords('advanced_keywords','keywords');" value="" /></div></td>
+								<td><input type="image" class="search_button" src="/images/search_button.gif" alt="Search" title="Search" onmouseover="this.src='/images/search_button_on.gif';" onmouseout="this.src='/images/search_button.gif';" /></td>
+							</tr>
+						</table>
+					</li>
+					<li><a href="javascript:void();" onclick="$('#advanced_search').slideToggle();" class="advanced_button" onClick="_gaq.push(['_trackEvent', 'Account Nav', 'Account Click', 'Advanced']);">Advanced</a></li>
+				</ul>
+				<div class="clear"></div>
+			</div><!-- search -->
+			
+			<div class="header_right">
+				<ul class="header_buttons">
+					<li><a href="http://shop.harvard.com/wishlist" class="cart_button">Wish List</a></li>
+					<li><a href="http://shop.harvard.com/cart" class="cart_button">Shopping Cart</a></li>
+					<li><a href="http://shop.harvard.com/user" class="cart_button">My Account</a></li>
+				</ul>
+				<div class="clear"></div>
+			</div><!-- header buttons -->
+			
+			<div class="clear"></div>
+		</div>
+		
+		<div id="advanced_search">
+			<div class="wrapper">
+				<div class="advanced_divider advanced_divider_first">
+					<h2>Advanced<br />Search</h2>
+				</div>
+				<div class="advanced_divider">
+					<label for="search_in">Search in</label>
+					<select id="search_in" name="search_in" onchange="toggle_advanced_fields();">
+						<option value="booksite">All Books</option>
+						<!-- option value="books" selected>In-Stock Books</option -->
+						<option value="events">Events</option>
+						<option value="goods">Goods</option>
+						<option value="ondemand">Books On Demand</option>
+					</select>
+				</div>
+				<div class="advanced_divider" id="advanced_toggling_divider">
+					<div id="advanced_event_date">
+						<label for="advanced_date">Event Date</label>
+						<select name="date" id="advanced_date"  onchange="toggle_advanced_fields();">
+							<option value="upcoming">Upcoming Events Only</option>
+							<option value="archived">Archived Events Only</option>
+							<option value="all">All Events</option>
+						</select>
+						
+						<div style="display:none;">
+						<input type="text" id="date_to" name="date-to" value="" />
+						<input type="text" id="date_from" name="date-from" value="" />
+						</div>
+						
+					</div>
+					
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+		</form>
+		<!-- end search form -->
+		
+		<div class="wrapper" style="width:1022px;">
+			<div id="navbar" style="padding-left:6px;">
+			
+				<ul id="nav_sub">
+					<li id="nav_sub_3" class="sub_level_0"><a href="http://www.harvard.com/shelves/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'On Our Shelves']);">On Our Shelves</a>
+						<ul>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/browse/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Browse Our Shelves']);">Browse Our Shelves</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/new_arrivals/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'New Arrivals']);">New Arrivals</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/best_sellers/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Best Sellers']);">Best Sellers</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/kids/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Kids']);">Kids</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/ondemand/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Books Printed Here']);">Books Printed Here</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/remainder/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Remainders']);">Remainders</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/used_books/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Used Books']);">Used Books</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/digital_audiobooks/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Digital Audiobooks']);">Digital Audiobooks</a></li>
+							
+								<li class="last"><a href="http://www.harvard.com/goods/only_at_hbs/ereaders/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Kobo eReaders']);">Kobo eReaders</a></li>
+							
+						</ul>
+					</li>
+					<li id="nav_sub_4" class="sub_level_0"><a href="http://www.harvard.com/shelves/featured/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Recommendations']);">Recommended</a>
+						<ul>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/featured/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Featured Titles']);">Featured Titles</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/staff/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Staff Recommended']);">Staff Recommended</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/shelves/top100/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Top 100']);">Top 100</a></li>
+							
+								<li class="last"><a href="http://www.harvard.com/shelves/award_winners/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Award Winners']);">Award Winners</a></li>
+							
+						</ul>
+					</li>
+					<li id="nav_sub_5" class="sub_level_0"><a href="http://www.harvard.com/events/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Events']);">Events</a>
+						<ul>
+							
+								<li class=""><a href="http://www.harvard.com/events/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Upcoming Events']);">Upcoming Events</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/events/ticketed/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Ticketed Events']);">Ticketed Events</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/events/archive/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Event Archive']);">Event Archive</a></li>
+							
+								<li class="last"><a href="http://www.harvard.com/events/hbs_channel/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Videos']);">Videos</a></li>
+							
+						</ul>
+					</li>
+					<li id="nav_sub_6" class="sub_level_0"><a href="http://www.harvard.com/goods/university_clothing/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Clothing & More']);">Harvard Clothing, Gifts & More</a>
+						<ul>
+							
+								<li class=""><a href="http://www.harvard.com/gift_cards_goods/gift_cards/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Gift Cards']);">Gift Cards</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/goods/university_clothing/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'University Clothing']);">University Clothing</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/goods/only_at_hbs/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Goods & Gifts from Harvard Book Store']);">Goods & Gifts from Harvard Book Store</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/goods/only_at_hbs/signed_pre-orders/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Signed Pre-Orders']);">Signed Pre-Orders</a></li>
+							
+								<li class="last"><a href="http://www.harvard.com/goods/only_at_hbs/featured_signed_books/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Signed Books']);">Signed Books</a></li>
+							
+						</ul>
+					</li>
+					<li id="nav_sub_7" class="sub_level_0"><a href="http://www.harvard.com/about/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'About']);">About</a></li>
+
+					<li id="nav_sub_8" class="sub_level_0"><a href="http://www.harvard.com/clubs_services/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'CCP']);">Clubs & Services</a>
+						<ul>
+							
+								<li class=""><a href="http://www.harvard.com/clubs_services/frequent_buyer_program/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Frequent Buyer Program']);">Frequent Buyer Program</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/clubs_services/books_on_demand/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'In Store Book Printing: Books on Demand']);">In Store Book Printing: Books on Demand</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/clubs_services/custom_printing/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'In Store Book Printing: Custom Printing']);">In Store Book Printing: Custom Printing</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/clubs_services/first_edition_club/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Signed First Edition Club']);">Signed First Edition Club</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/clubs_services/harvard_square_book_circle/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Harvard Square Book Circle']);">Harvard Square Book Circle</a></li>
+							
+								<li class=""><a href="http://www.harvard.com/clubs_services/off-site_book_sales/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Off-Site Book Sales']);">Off-Site Book Sales</a></li>
+							
+								<li class="last"><a href="http://www.harvard.com/clubs_services/corporate_sales/" onClick="_gaq.push(['_trackEvent', 'Menu Nav', 'Menu Click', 'Corporate & Special Sales']);">Corporate & Special Sales</a></li>
+							
+						</ul>
+					</li>
+				</ul>
+			
+				<div class="logo" style="padding-right:6px;">
+					<a href="http://www.harvard.com/"><img src="/images/logo_top.png" alt="Harvard Book Store" title="Harvard Book Store" /></a>	
+				</div>
+				
+				<div class="clear"></div>
+				
+			</div>
+			
+		</div><!-- header -->
+			
+		<div class="content content_columns">
+			<div class="main_bottom_buffer">
+		
+			
+									<div class="sidebar ">
+
+		<div class="sidebar_title ">
+				<table border="0" cellpadding="0" cellspacing="0" height="100%">
+			<tr>
+				<td>
+					Our Shelves
+				</td>
+			</tr>
+		</table>
+			</div>
+		
+	<div class="sidebar_nav">
+	<ul class="fixed_height_nav">
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/all_our_shelves/">All Our Shelves</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/academic_new_arrivals/">Academic New Arrivals</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/africa/">Africa</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/african_american_studies/">African American Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/anthologies/">Anthologies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/anthropology_archaeology/">Anthropology / Archaeology</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/architecture/">Architecture</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/art/">Art</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/asia_the_pacific/">Asia & The Pacific</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/astronomy_geology/">Astronomy / Geology</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/audio/">Audio</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/biography/">Biography</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/biology/">Biology</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/book_club/">Book Club</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/boston_cambridge_new_england/">Boston / Cambridge / New England</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/business_management/">Business & Management</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/business_-_non_-_profits/">Business - Non - Profits</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/career_guides/">Career Guides</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/child_care_childbirth_adoption/">Child Care / Childbirth / Adoption</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/childrens_4_7/">Children's (4 - 7)</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/childrens_8_12/">Children's (8 - 12)</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/childrens_-_beginning_readers/">Children's - Beginning Readers</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/childrens_graphic_novels/">Children's Graphic Novels</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/childrens_learning/">Children's Learning</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/childrens_reference/">Children's Reference</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/classical_studies/">Classical Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/cognitive_science_linguistics/">Cognitive Science / Linguistics</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/college_guides/">College Guides</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/computers/">Computers</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/cooking/">Cooking</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/cultural_critical_theory/">Cultural & Critical Theory</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/dance/">Dance</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/design/">Design</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/drama/">Drama</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/economics/">Economics</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/education/">Education</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/education_-_higher_ed/">Education - Higher Ed</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/environment_sustainablity/">Environment / Sustainablity</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/erotica/">Erotica</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/espresso_book_machine_books/">Espresso Book Machine Books</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/essays/">Essays</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/european_history/">European History</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/exam_preps_outlines/">Exam Preps / Outlines</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/fiction/">Fiction</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/film/">Film</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/food/">Food</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/games_hobbies/">Games & Hobbies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/gardening/">Gardening</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/gender_studies_gay_lesbian/">Gender Studies / Gay & Lesbian</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/gift_seasonal_books/">Gift / Seasonal Books</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/globalization/">Globalization</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/graphic_novels/">Graphic Novels</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/hardcover_classics/">Hardcover Classics</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/health_fitness_med_ref/">Health / Fitness / Med Ref</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/home/">Home</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/humor/">Humor</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/islamic_studies/">Islamic Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/judaica/">Judaica</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/large_print/">Large Print</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/latin_america_caribbean/">Latin America / Caribbean</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/law_legal_issues/">Law & Legal Issues</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/literary_crit_biography/">Literary Crit & Biography</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/local_economy/">Local Economy</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/mathematics/">Mathematics</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/media_studies/">Media Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/medicine/">Medicine</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/middle_east/">Middle East</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/music/">Music</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/mystery/">Mystery</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/myths_tales_legends/">Myths / Tales / Legends</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/native_american/">Native American</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/nature/">Nature</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/new_hc_-_biography/">New Hardcover - Biography</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/new_hc_-_fiction/">New Hardcover - Fiction</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/new_hc_-_nonfiction/">New Hardcover - Nonfiction</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/new_titles_-_paperback/">New Titles  -  Paperback</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/paperback_favorites/">Paperback Favorites</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/performing_arts_acting/">Performing Arts / Acting</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/personal_finance/">Personal Finance</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/personal_growth/">Personal Growth</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/philosophy/">Philosophy</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/photography/">Photography</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/physics_chemistry/">Physics / Chemistry</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/poetry/">Poetry</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/politics/">Politics</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/printed_here/">Printed Here</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/psychology/">Psychology</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/ref_english_lang_dict_thes/">Ref / English Lang Dict & Thes</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/ref_foreign_lang_dict_phrase/">Ref / Foreign Lang Dict / Phrase</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/reference_-_general/">Reference - General</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/religion_-_christianity/">Religion - Christianity</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/religion_-_comparative/">Religion - Comparative</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/religion_-_eastern/">Religion - Eastern</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/remainders/">Remainders</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/science/">Science</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/science_fiction/">Science Fiction</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/short_introductions/">Short Introductions</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/signed/">Signed Books</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/sociology/">Sociology</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/sports/">Sports</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/technology_culture_media/">Technology, Culture & Media</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/theology_religious_studies/">Theology / Religious Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/toddlers_0_3/">Toddlers (0 - 3)</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/transition_magazine/">Transition Magazine</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/travel/">Travel</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/travel_atlases_maps/">Travel Atlases & Maps</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/travel_lit_adventure/">Travel Lit / Adventure</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/true_crime/">True Crime</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/urban_studies/">Urban Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/us_history/">US History</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/wines_and_spirits/">Wines And Spirits</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/womens_studies/">Women's Studies</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/world_history/">World History</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/writing_style_and_publishing/">Writing Style And Publishing</a></li>
+		
+			<li ><a href="http://www.harvard.com/shelves/browse/young_adult_12_up/">Young Adult (12 Up)</a></li>
+		
+	</ul>
+</div>
+<script type="text/javascript">
+var myScroll = new iScroll('sidebar_nav');
+</script>
+		
+	
+	<div class="sidebar_sub_title">
+<table border="0" cellpadding="0" cellspacing="0" height="100%">
+				<tbody><tr>
+					<td>
+						Gift Cards						
+					</td>
+				</tr>
+			</tbody></table>
+</div>
+<div class="recently_viewed">
+	<ul>
+	Add a gift card to your order!<br /><br />
+
+										<form>
+								
+										<div>Choose your denomination:</div>
+										
+										<div class="gift_card_select">
+											<select name="sku" onchange="updateGiftCardLink(this.value);">
+												<option value="http://shop.harvard.com/cart/add/X15">$15 Gift Card</option>
+												<option value="http://shop.harvard.com/cart/add/X25">$25 Gift Card</option>
+												<option value="http://shop.harvard.com/cart/add/X50">$50 Gift Card</option>
+												<option value="http://shop.harvard.com/cart/add/X100">$100 Gift Card</option>
+												<option value="http://shop.harvard.com/cart/add/GIFTCARD125">$125 Gift Card</option>
+												<option value="http://shop.harvard.com/harvard-book-store-gift-card-custom-amount">Custom Amount</option>
+
+											</select>
+										</div>
+										
+										<div class="add_to_cart" style="padding-top: 5px">
+											<a href="http://shop.harvard.com/cart/add/X15" id="gift_card_link"><img src="/images/AddToCart.png" alt="Add to Cart" title="Add to Cart" onmouseover="this.src='/images/AddToCart_hover.png';" onmouseout="this.src='/images/AddToCart.png';" /></a>
+										</div>
+										
+									</form><br />
+<img src="http://www.harvard.com/images/GiftCards_mini.png" width="149" height="106" alt="gift cards">
+	</ul>
+</div> 
+
+<div id="recently_viewed_list">
+
+ 
+
+</div>
+
+</div>
+										
+			<div class="main">
+				
+				<div class="main_title_book">
+																
+					<div class="book_cover_container">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="book_cover_cell">
+									
+									<table border="0" cellpadding="0" cellspacing="0">
+										<tr>
+											<td class="book_shadow_leftcorner"></td>
+											<td class="book_shadow_top"></td>
+											<td class="book_shadow_rightcorner"></td>
+											
+											<td rowspan="2" class="book_bubbles_cell">
+									
+												<div class="book_page_bubble_shipping">
+													Usually ships 1-3 business days<br /><a href="http://www.harvard.com/about/shipping/">Shipping options &raquo;</a>
+												</div>
+												<div class="book_page_bubble_info">
+													<div class="book_page_bubble_info_ribbon ">
+														<div class="right">
+															<div class="price">Our Price $23.00</div>
+																														<div class="stock_and_format" >
+																Paperback<br />
+																On Its Way															</div>
+														</div>
+														<div class="clear"></div>
+														<div class="left wishlist_button_container">
+														</div>
+														
+														<div class="right">
+																<div class="add_to_cart"><a href="http://shop.harvard.com/cart/add/9781137363572"><a href="http://shop.harvard.com/cart/add/9781137363572"><img alt="Order" src="/images/AddToCart.png" onmouseover="this.src='/images/AddToCart_hover.png';" onmouseout="this.src='/images/AddToCart.png';" /></a></div>
+															</div>
+														<div class="clear"></div>
+														<br>													</div>
+																								<!-- -->
+												</div>	
+										
+											</td>
+										</tr>
+										<tr>
+											<td class="book_shadow_left"></td>
+											<td>
+																								<img src="http://ecx.images-amazon.com/images/I/41R7-joYvnL.jpg" class="book_page_image" alt="Radical Feminism: Feminist Activism in Movement" title="Radical Feminism: Feminist Activism in Movement" />
+																							</td>
+											<td class="book_shadow_right"></td>
+										</tr>
+									</table>
+									
+								</td>
+							</tr>
+						</table>
+					</div>
+					
+					<div class="book_back_to_shelves_container">
+						<div class="main_title_dates">
+							<table border="0" cellpadding="0" cellspacing="0" class="shelf_params">
+								<tr>
+									<td class="back_to_shelves_cell">
+										<div class="label">
+											<div class="label_left">
+												<div class="label_right">
+													<a href="http://www.harvard.com/shelves/">Back to Our Shelves &rsaquo;</a>																			</div>
+											</div>
+										</div>
+									</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				
+				</div><!-- main title -->
+					
+				<!-- main content area -->
+				
+				<div class="main_buffer_20"></div>
+			
+				<div class="main_wrapper main_wrapper_columns">
+				
+					<div class="main_columns">
+					
+						<div class="main_column_left">
+						
+							<h1 class="book_title">Radical Feminism: Feminist Activism in Movement</h1>
+							<div class="book_page_byline">by Finn Mackay  </div>
+						
+							<div class="tabs_container">
+								<div class="tabs tabs_gray">
+
+									<ul>
+										<li id="tab_details" class="here"><a href="javascript:show_tab('details','gray');">Details</a></li>										<li id="tab_look_inside"><a href="javascript:show_tab('look_inside','gray');">Look Inside</a></li>
+										<li id="tab_customer"><a href="javascript:show_tab('customer','gray');">Customer Reviews </a></li>
+																			</ul>
+									<div class="clear"></div>
+								</div>
+							</div>
+														<div>
+								<div id="tab_content_details" class="tab_content tab_content_on">
+									<div class="block first_block">
+										<div class="book_details_container">
+										<div class="book_details_left">
+											<span>Author</span> <a href="http://shop.harvard.com/search/apachesolr_search/Finn Mackay">Finn Mackay</a><br />
+											<span>Publisher</span> Palgrave Macmillan<br />
+											<span>Publication Date</span> 2015-02-17<br />
+											<span>Section</span> <a href='http://www.harvard.com/shelves/browse/womens_studies/'>Women's Studies</a>
+										</div>
+										<div class="book_details_right">
+											<span>Type</span> New<br />
+											<span>Format</span> Paperback<br />
+											<span>ISBN</span> 9781137363572
+										</div>
+										<div class="clear"></div>
+										</div>
+									</div>
+									
+									<div class="block">
+									<p> Feminist activism is enjoying a global resurgence. A new wave of feminists is taking to the streets in protest against rape, abuse, prostitution and inequality, and asserting a powerful new vision for women's liberation. The future of feminism has become a global march for justice and action demanding an end to male violence against women.  In this ground-breaking book from one of the leading feminist activists of our generation, Finn Mackay advances a radical and pioneering feminist manifesto for today's audience that exposes the real reasons why women are still oppressed and what feminist activism must do to counter it. Through a vibrant and original account of the global Reclaim the Night March and drawing on interviews with activists from across the generations, this book confronts the controversial issues facing men, women and feminism in contemporary society to shatter the illusion that equality has been reached. Translating classic texts and charting the changes and challenges of the feminist movement from the 1970s onwards, Mackay argues that feminist activism continues to be urgent and relevant today.</p>
+									</div>
+									</article>
+									
+								</div>
+							</div>
+														<!--put back here-->
+							<div>
+								<div id="tab_content_look_inside" class="tab_content">
+									<div class="block first_block">
+										
+																				<div class="viewer_container"><div id="viewerCanvas"></div></div>
+																			</div>
+								</div>
+							</div>							
+							<div>
+								<div id="tab_content_customer" class="tab_content">
+								
+									
+			<div class="block first_block"><p class="book_no_results">There are no customer reviews for this item yet.</p></div>
+		
+
+									
+									<div class="block striped_block">
+											<a href="http://www.harvard.com/account/write_review/radical_feminism_feminist_activism_in_movement/" rel="shadowbox;width=665"><img src="/images/leave_a_review_button.png" alt="Leave a Review" title="Leave a Review" /></a>									
+									</div>
+									
+								</div>
+							</div>
+							
+							<div>
+								<div id="tab_content_video" class="tab_content">
+									<div class="block first_block black_block"><p></p></div>
+								</div>
+							</div>
+							
+							<div class="main_buffer_left_column"></div>
+						
+						</div><!-- main column left -->
+						
+						<div class="main_column_right">
+						
+																	
+
+	<div class="rightblock pattern5_rightblock">
+		<div class="rightblock_container">
+			<h2 class="pink_ad_title rightblock_title">Subscribe</h2>
+			<p><a href="http://harvard.com/subscribe/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Subscribe']);"><img src="/images/uploads/Sidebar_Subscribe.jpg" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="gray_ad_content">Author event updates +<br/>
+book recommendations.<br/>
+In your inbox, once a week.</p>
+				<a href="http://harvard.com/subscribe/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Subscribe']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="rightblock pattern4_rightblock">
+		<div class="rightblock_container">
+			<h2 class="black_ad_title rightblock_title">Shipping &amp; Delivery</h2>
+			<p><a href="/about/shipping/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Shipping &amp; Delivery']);"><img src="/images/uploads/sidebar-hbsbookbox.png" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="pink_ad_content">Shipping rates<br />
+and options, locally<br />
+and throughout <br />
+the U.S.</p>
+				<a href="/about/shipping/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Shipping &amp; Delivery']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="rightblock pattern3_rightblock">
+		<div class="rightblock_container">
+			<h2 class="pink_ad_title rightblock_title">Signed First Edition Club</h2>
+			<p><a href="http://www.harvard.com/clubs_services/first_edition_club/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Signed First Edition Club']);"><img src="/images/uploads/SignedFirst_Sidebar.jpg" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="black_ad_content">A unique way for readers to create a wealth of great books&mdash;<b>Get a membership for yourself or for a gift!</b></p>
+				<a href="http://www.harvard.com/clubs_services/first_edition_club/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Signed First Edition Club']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+							
+								
+<!--							
+																	
+
+	<div class="rightblock pattern5_rightblock">
+		<div class="rightblock_container">
+			<h2 class="pink_ad_title rightblock_title">Subscribe</h2>
+			<p><a href="http://harvard.com/subscribe/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Subscribe']);"><img src="/images/uploads/Sidebar_Subscribe.jpg" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="gray_ad_content">Author event updates +<br/>
+book recommendations.<br/>
+In your inbox, once a week.</p>
+				<a href="http://harvard.com/subscribe/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Subscribe']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="rightblock pattern4_rightblock">
+		<div class="rightblock_container">
+			<h2 class="black_ad_title rightblock_title">Shipping &amp; Delivery</h2>
+			<p><a href="/about/shipping/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Shipping &amp; Delivery']);"><img src="/images/uploads/sidebar-hbsbookbox.png" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="pink_ad_content">Shipping rates<br />
+and options, locally<br />
+and throughout <br />
+the U.S.</p>
+				<a href="/about/shipping/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Shipping &amp; Delivery']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="rightblock pattern3_rightblock">
+		<div class="rightblock_container">
+			<h2 class="pink_ad_title rightblock_title">Signed First Edition Club</h2>
+			<p><a href="http://www.harvard.com/clubs_services/first_edition_club/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Signed First Edition Club']);"><img src="/images/uploads/SignedFirst_Sidebar.jpg" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="black_ad_content">A unique way for readers to create a wealth of great books&mdash;<b>Get a membership for yourself or for a gift!</b></p>
+				<a href="http://www.harvard.com/clubs_services/first_edition_club/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Signed First Edition Club']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+							
+															
+																	
+
+	<div class="rightblock pattern5_rightblock">
+		<div class="rightblock_container">
+			<h2 class="pink_ad_title rightblock_title">Subscribe</h2>
+			<p><a href="http://harvard.com/subscribe/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Subscribe']);"><img src="/images/uploads/Sidebar_Subscribe.jpg" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="gray_ad_content">Author event updates +<br/>
+book recommendations.<br/>
+In your inbox, once a week.</p>
+				<a href="http://harvard.com/subscribe/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Subscribe']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="rightblock pattern4_rightblock">
+		<div class="rightblock_container">
+			<h2 class="black_ad_title rightblock_title">Shipping &amp; Delivery</h2>
+			<p><a href="/about/shipping/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Shipping &amp; Delivery']);"><img src="/images/uploads/sidebar-hbsbookbox.png" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="pink_ad_content">Shipping rates<br />
+and options, locally<br />
+and throughout <br />
+the U.S.</p>
+				<a href="/about/shipping/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Shipping &amp; Delivery']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="rightblock pattern3_rightblock">
+		<div class="rightblock_container">
+			<h2 class="pink_ad_title rightblock_title">Signed First Edition Club</h2>
+			<p><a href="http://www.harvard.com/clubs_services/first_edition_club/" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Signed First Edition Club']);"><img src="/images/uploads/SignedFirst_Sidebar.jpg" width="187" /></a></p>
+			<div class="rightblock_content">
+				<p class="black_ad_content">A unique way for readers to create a wealth of great books&mdash;<b>Get a membership for yourself or for a gift!</b></p>
+				<a href="http://www.harvard.com/clubs_services/first_edition_club/" class="black_button" onclick="_gaq.push(['_trackEvent', 'Sidebar Ad', 'Click', 'Signed First Edition Club']);">Learn More <span>&raquo;</span></a>
+			</div>
+		</div>
+	</div>
+
+							
+								-->
+						
+						</div><!-- main column right -->
+						
+						<div class="clear"></div>
+					
+					</div><!-- main columns -->
+					
+				</div><!-- main wrapper -->
+				
+			</div>
+			
+			<div class="clear"></div>
+		
+			</div><!-- main bottom buffer -->
+		</div><!-- content -->
+		<div class="content_bottom_shadow"></div>
+			
+		</div><!-- page -->
+	
+	<div class="footer">
+		
+		<div class="column_1">
+			<p><img src="/images/logo_wht.png" alt="Harvard Book Store" title="Harvard Book Store" width="150" height="85" /></p>
+			<p class="left_padding">Harvard Square's<br />Independent Bookstore</p>
+			<p class="copyright left_padding"><strong>&copy;</strong> 2017<br />Harvard Book Store<br />All rights reserved</p>
+		</div>
+		
+		<div class="column_2">
+			<p><strong>Contact</strong><br />
+			Harvard Book Store<br />
+			1256 Massachusetts Avenue<br />
+			Cambridge, MA 02138</p>
+			<p><strong>Tel</strong> <a href="http://www.harvard.com/about/contacts/">(617) 661-1515</a><br />
+			<strong>Toll Free</strong> <a href="http://www.harvard.com/about/contacts/">(800) 542-READ</a><br />
+			<strong>E-mail</strong> <a href="mailto:info@harvard.com">info@harvard.com</a></p>
+			<p><strong>Store Hours</strong><br />
+			Monday - Saturday: 9am - 11pm<br />
+			Sunday: 10am - 10pm
+			</p>
+
+		
+		
+
+			<p><strong>Map</strong><br />
+			<a href="http://www.harvard.com/about/hours_directions/">Find Harvard Book Store &raquo;</a></p>
+		</div>
+		
+		<div class="column_3">
+			<strong>Subscribe to Our E-mail Newsletter</strong><br />
+			<form class="mailing_list_form" name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post">
+				<input type="hidden" name="m" value="1101948827657">
+				<input type="hidden" name="p" value="oi">
+				
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td><input type="text" name="ea" class="mailing_list_input" /></td>
+						<td><input type="image" name="go" src="/images/mailingList.png" onmouseover="this.src='/images/mailingList_hover.png';" onmouseout="this.src='/images/mailingList.png';" alt="Join" title="Join" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'ConstantContact Sign-up']);"/></td>
+					</tr>
+				</table>
+			</form>
+		
+			<p><strong>Online Customer Service</strong><br />
+			<a href="http://www.harvard.com/about/shipping/">Shipping &raquo;</a><br />
+			<a href="http://www.harvard.com/about/returns/">Online Returns &raquo;</a><br />
+			<a href="http://www.harvard.com/about/privacy_policies/">Privacy Policy &raquo;</a></p>
+			<p><strong>Harvard University</strong><br />
+			<a href="http://www.harvard.edu" target="_blank" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'Harvard']);">harvard.edu &raquo;</a></p>
+			<p class="social_icons">
+				<a href="http://www.facebook.com/harvardbookstore" target="_blank" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'Facebook']);"><img src="/images/icon_facebook.png" alt="Facebook" title="Facebook" width="29" height="29" /></a>
+				<a href="http://twitter.com/HarvardBooks" target="_blank" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'Twitter']);"><img src="/images/icon_twitter.png" alt="Twitter" title="Twitter" width="29" height="29" /></a>
+				<a href="http://instagram.com/harvardbookstore" target="_blank" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'Instagram']);"><img src="/images/icon_instagram.png" alt="Instagram" width="29" height="29" /></a>
+				<a href="http://www.eventbrite.com/o/harvard-book-store-74507930" target="_blank" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'Eventbrite']);"><img src="/images/icon_eventbrite.png" alt="Eventbrite" title="Eventbrite" width="29" height="29" /></a>
+				<a href="http://www.youtube.com/user/HarvardBookStore" target="_blank" onClick="_gaq.push(['_trackEvent', 'Offsite', 'Offsite Click', 'Youtube']);"><img src="/images/icon_youtube.png" alt="YouTube" title="YouTube" width="29" height="29" /></a>
+			</p>
+		</div>
+		
+		<div class="column_4">
+			<strong>Books</strong>
+			<ul>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/browse/">Browse Our Shelves</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/new_arrivals/">New Arrivals</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/best_sellers/">Best Sellers</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/kids/">Kids</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/ondemand/">Books Printed Here</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/remainder/">Remainders</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/used_books/">Used Books</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/digital_audiobooks/">Digital Audiobooks</a></li>
+				
+					<li class="last"><a href="http://www.harvard.com/goods/only_at_hbs/ereaders/">Kobo eReaders</a></li>
+				
+			</ul>
+			
+			<strong>Recommendations</strong>
+			<ul>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/featured/">Featured Titles</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/staff/">Staff Recommended</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/shelves/top100/">Top 100</a></li>
+				
+					<li class="last"><a href="http://www.harvard.com/shelves/award_winners/">Award Winners</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="column_5">
+			<strong>Events</strong>
+			<ul>
+				
+					<li class=""><a href="http://www.harvard.com/events/">Upcoming Events</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/events/ticketed/">Ticketed Events</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/events/archive/">Event Archive</a></li>
+				
+					<li class="last"><a href="http://www.harvard.com/events/hbs_channel/">Videos</a></li>
+				
+			</ul>
+			
+			<strong>Gift Cards & Goods</strong>
+			<ul>
+				
+					<li class=""><a href="http://www.harvard.com/gift_cards_goods/gift_cards/">Gift Cards</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/goods/university_clothing/">University Clothing</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/goods/only_at_hbs/">Goods & Gifts from Harvard Book Store</a></li>
+				
+					<li class=""><a href="http://www.harvard.com/goods/only_at_hbs/signed_pre-orders/">Signed Pre-Orders</a></li>
+				
+					<li class="last"><a href="http://www.harvard.com/goods/only_at_hbs/featured_signed_books/">Signed Books</a></li>
+				
+			</ul>
+			
+			<strong>More</strong>
+			<ul class="no_bottom_padding">
+				<li><a href="http://www.harvard.com/about/">About HBS</a></li>
+				<li style="line-height:14px; padding-top:2px;"><a href="http://www.harvard.com/clubs_services/">Clubs & Services</a></li>
+			</ul>
+		</div>
+		
+		<div class="clear"></div>
+		
+	</div><!-- footer -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5099843-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({qacct:"p-WSReftGF1qD88"});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-WSReftGF1qD88.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a48aad1f54","applicationID":"441997","transactionName":"bwdUbEZTXUVUBUJcCVZNY0pdHVpYUQNOGxZQEg==","queueTime":0,"applicationTime":475,"atts":"Q0BXGg5JTks=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+	
+	
+
