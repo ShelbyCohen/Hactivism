@@ -11,8 +11,6 @@ class BooleanSearchEngine:
     def __init__(self):
         print("Hello! Welcome to Shelby's awesome search engine!")
         print("Supported SMART variants: ltc.ltc, nnn.nnn, ltc.nnn")
-        # self.mode = input("Enter SMART Notation for index: ")
-        # self.query_mode = input("Enter SMART Notation for query: ")
 
         self.p = PorterStemmer()
 
@@ -31,6 +29,7 @@ class BooleanSearchEngine:
         if self.mode == 'nnn':
             if not os.path.isfile("index_nnn.p"):
                 self.build()
+                print(self.index)
                 self.score(self.mode)
                 pickle.dump(self.index, open("index_nnn.p", "wb"))
             else:
@@ -50,10 +49,9 @@ class BooleanSearchEngine:
 
     def build(self):
         clean_path = "data/clean/"
-        for file in sorted(f for f in os.listdir(clean_path)):
-            clean_file = open(clean_path + file, "r")
-            doc_id = str(file).replace(".txt", "")
-            doc_id = int(doc_id)
+        for i in range(1, len(os.listdir(clean_path)) + 1):
+            clean_file = open(clean_path + str(i) + ".txt", "r")
+            doc_id = int(i)
             pos_id = 0
             for token in clean_file.readlines():
                 token = token.strip("\n")
@@ -67,7 +65,8 @@ class BooleanSearchEngine:
 
     def score(self, mode):
         doc_len = {}
-        n = 375
+        clean_path = "data/clean/"
+        n = len(os.listdir(clean_path))
 
         # pass1: build index
         # all terms in vocab
@@ -97,9 +96,10 @@ class BooleanSearchEngine:
         return doc_len
 
     def movement_score(self, query_list, query_mode):
-        docid_cosine_list = list()
-        total_ltc = 1
-
+        clean_path = "data/clean/"
+        all_docs = len(os.listdir(clean_path))
+        docid_cosine_list = [0] * all_docs #so irrelevant documents have a score of 0
+        total_weight = 1
         query_dict = Counter(query_list)
 
         for token in query_dict.keys():
@@ -107,73 +107,49 @@ class BooleanSearchEngine:
             if token not in self.index.keys():
                 continue
             if query_mode[0] == 'l':
-                query_dict[token] = (1 + math.log(query_dict[token]))
+                query_dict[token] = (1 + math.log(query_dict[token])) #get tf-idf weights for each token in query
                 query_dict[token] = query_dict[token] * self.idf[token]
-                total_ltc += query_dict[token] ** 2
-            query_dict[token] /= math.sqrt(total_ltc)
+                total_weight += query_dict[token] ** 2
 
-        # adding a cosine score of 0.0 to all irrelevant documents
-        all_docs = 86
-        doc_id = 1
+        normalized_query_weight = math.sqrt(total_weight) #square root of the summation of all tokens in query
         for token in query_dict.keys():
-            while doc_id < all_docs:
-                try:
-                    if doc_id not in self.index[token].keys():
-                        docid_cosine_list.append(0)
-                    else:
-                        docid_cosine_list.append(query_dict[token] * self.index[token][doc_id][0])
-                    doc_id += 1
-                except:
-                    break
+            query_dict[token] /= normalized_query_weight
+
+        # calculating dot product
+        for token in query_dict.keys():
+            try:
+                if token in self.index:
+                    for doc_id in self.index[token].keys(): #docIDs start at 1 and not 0
+                        docid_cosine_list[doc_id - 1] += query_dict[token] * self.index[token][doc_id][0]
+            except:
+                print("ERROR on token: ", token)
 
         return docid_cosine_list
 
     def get_results(self):
         db = WebDB('cache.db')
 
-        item_search_results = {}
-        docs_to_items = {}
-        i = 0
-        query_list_for_each_item = list()
-        query_list = list()
-        query_string = " "
         all_query_cosines = list()
-        in_order_cosine = list()
-        cosine_scores = list()
-
-        # item_queries = open("data/item/movements.txt", "r")
 
         clean_path = "data/clean/"
-        for file in sorted(f for f in os.listdir(clean_path)):
-            item_queries = open(clean_path + file, "r")
+        for i in range(1, len(os.listdir(clean_path)) + 1):
+            query_string = " "
+            item_queries = open(clean_path + str(i) + ".txt", "r")
             for query in item_queries.readlines():
                 query = query.strip("\n")
                 query = query.replace('-', " ")
                 query = query.replace(',', " ")
                 query = query.replace('\'', " ")
-                query = query.replace('', " ")
-                query_list.append(query)
+                query = query.replace('’)', "")
+                query = query.replace('.', "")
                 query_string += " " + query
 
-            # while i < len(query_list):
-            # query_raw_input = query_list[i]
             query_list_for_each_item = query_string.split(' ')
-
-            for e, each_word in enumerate(query_list_for_each_item):
-                query_list_for_each_item[e] = self.p.stem(each_word).lower()
-
-            # print(query_raw_input)
 
             # cosine_scores is a dictionary with doc_ids mapped to cosine score
             cosine_scores = self.movement_score(query_list_for_each_item, self.query_mode)
-            # sorted_cosine_scores = sorted(cosine_scores, key=cosine_scores.get, reverse=True)
-
             all_query_cosines.append(cosine_scores)
-            print("appended cosine scores for: ", file)
 
-            i += 1
-
-        print(all_query_cosines)
         plotly.make_heatmap(all_query_cosines)
 
         return all_query_cosines

@@ -22,7 +22,7 @@ def main () :
         for i, line in enumerate(item_file.readlines()):
             movements.append(line.strip("\n"))
             similarities.append([]) #new row
-            for j in range (0, 86): #random number for each value, switch to cosine
+            for j in range (0, 87): #random number for each value, switch to cosine
                 similarities[i].append(randint(0,100))
     print(similarities)
 
@@ -40,7 +40,6 @@ def make_heatmap (cosine_list):
     file_path = os.path.dirname(item_path)
 
     movements = []
-    y = []
 
     for file in os.listdir(file_path):
         item_file = open(item_path + file, "r")
