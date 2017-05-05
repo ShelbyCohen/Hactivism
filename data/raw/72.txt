@@ -1,1289 +1,1676 @@
-<!DOCTYPE html xmlns:fb="http://ogp.me/ns/fb#">
-<!--[if lt IE 7]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie6 oldie"><![endif]-->
-<!--[if IE 7]>	 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie7 oldie"><![endif]-->
-<!--[if IE 8]>	 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie8 oldie"><![endif]-->
-<!--[if IE 9]>	 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie9 oldie"><![endif]-->
-<!--[if gt IE 9]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#" class=""> <!--<![endif]--> 
 
-	<head>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1112344357250973",
-    enable_page_level_ads: true
-  });
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+<script type="text/javascript">
+var cacheBuster = "60";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+//a genneral 'js' flag
+document.documentElement.className = "js";
 </script>
-		<title>8 skills of a well-trained activist - Waging Nonviolence</title>
-		
-			<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-			<meta charset="UTF-8" />
-			
-			<!--  mobile stuff here -->
-				<meta name="viewport" content="width=device-width, initial-scale=1.0, target-densityDpi=device-dpi" />
-			<!-- End mobile -->		
-		
-			
-			<link rel="shortcut icon" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/favicon.ico" /> 
-			<link rel="profile" href="http://gmpg.org/xfn/11" />
-			
-			<!-- Stylesheets -->
-			<link rel="stylesheet" type="text/css" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/fonts/stylesheet.css" />
-			
-
-							<link rel="stylesheet" type="text/css" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/style.css" media="screen" />
-				<link rel="stylesheet" type="text/css" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/style-print.css" media="print" /> 			
-						
-
-		
-		
-						
-		
-			
-<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="The history of training is a history of playing catch-up — but now&#039;s the time for us to get a head start."/>
-<meta name="robots" content="noodp"/>
-<link rel="canonical" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="8 skills of a well-trained activist - Waging Nonviolence" />
-<meta property="og:description" content="The history of training is a history of playing catch-up — but now&#039;s the time for us to get a head start." />
-<meta property="og:url" content="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/" />
-<meta property="og:site_name" content="Waging Nonviolence" />
-<meta property="article:publisher" content="http://www.facebook.com/wagingnonviolence" />
-<meta property="og:image" content="https://wagingnonviolence.org/wp-content/uploads/2013/06/bilde.png" />
-<meta property="og:image:width" content="615" />
-<meta property="og:image:height" content="528" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="The history of training is a history of playing catch-up — but now&#039;s the time for us to get a head start." />
-<meta name="twitter:title" content="8 skills of a well-trained activist - Waging Nonviolence" />
-<meta name="twitter:site" content="@wagingnv" />
-<meta name="twitter:image" content="https://wagingnonviolence.org/wp-content/uploads/2013/06/bilde.png" />
-<meta name="twitter:creator" content="@wagingnv" />
-<!-- / Yoast SEO plugin. -->
-
-<link rel='dns-prefetch' href='//platform.twitter.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Waging Nonviolence &raquo; 8 skills of a well-trained activist Comments Feed" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wagingnonviolence.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
+<meta charset="utf-8"/>
+<title>Non-violence Was Key to Civil Rights Movement</title>
+<meta name="title" content="Non-violence Was Key to Civil Rights Movement"/>
+<meta name="description" content="Rev. Martin Luther King championed nonviolence as an alternative to armed uprising" />
+<meta name="keywords" content="voa, voice of america, voanews, voanews,voianews, english news, voa special english, special english, voa官网, voanews.com, china, iran the voice of america, syria, голос америки, 美国之音" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="fb:pages" content="36235438073" />
+<meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E" />
+<meta name="apple-mobile-web-app-title" content="VOA" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//1737280.ltr" />
+<meta content="Non-violence Was Key to Civil Rights Movement" property="og:title" />
+<meta content="Rev. Martin Luther King championed nonviolence as an alternative to armed uprising" property="og:description" />
+<meta content="article" property="og:type" />
+<meta content="http://www.voanews.com/a/nonviolencekey-to-civil-rights-movement/1737280.html" property="og:url" />
+<meta content="VOA" property="og:site_name" />
+<meta content="https://www.facebook.com/voiceofamerica" property="article:publisher" />
+<meta content="https://gdb.voanews.com/85EDE15B-0298-4C29-84E2-37C7FD0B144D_cx0_cy11_cw0_mw1024_mh1024_r1_s.jpg" property="og:image" />
+<meta content="362002700549372" property="fb:app_id" />
+<meta content="Chris Simkins" name="Author" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="@voanews" name="twitter:site" />
+<meta content="https://gdb.voanews.com/85EDE15B-0298-4C29-84E2-37C7FD0B144D_cx0_cy11_cw0_mw1024_mh1024_r1_s.jpg" name="twitter:image" />
+<meta content="USA, archive" property="news_keywords" /><script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","inLanguage":"en-US","mainEntityOfPage":"http://www.voanews.com/a/nonviolencekey-to-civil-rights-movement/1737280.html","url":"http://www.voanews.com/a/nonviolencekey-to-civil-rights-movement/1737280.html","headline":"Non-violence Was Key to Civil Rights Movement","name":"Non-violence Was Key to Civil Rights Movement","author":{"@type":"Person","name":"Chris Simkins"},"image":{"@type":"ImageObject","url":"https://gdb.voanews.com/85EDE15B-0298-4C29-84E2-37C7FD0B144D_cx0_cy11_cw0_w1080_h608.jpg","width":1080,"height":608},"datePublished":"2014-01-20","dateModified":"2014-01-20 21:12:54Z","keywords":"USA, archive","publisher":{"@type":"Organization","name":"VOA","logo":{"@type":"ImageObject","url":"http://www.voanews.com/Content/responsive/VOA/en-US/img/logo-amp.png","width":144,"height":60}},"description":"Rev. Martin Luther King championed nonviolence as an alternative to armed uprising"}</script> <link rel="amphtml" href="http://www.voanews.com/amp/1737280.html" />
+<link href="/Content/responsive/VOA/en-US/VOA-en-US.css?&amp;av=7.16.0.0&amp;cb=60" rel="stylesheet"/>
+<script src="/Scripts/responsive/infographics.b?v=SxXmzPs7tORX_4CGgy2i9j_IPxVSLYegywoZHl8xx5o1?&amp;av=7.16.0.0&amp;cb=60"></script>
+<script src="/Scripts/responsive/loader.b?v=t6ZMzw6rZ9nkldKE2p6uvZB_bT8X5ZQkeVWNXql3oAc1?&amp;av=7.16.0.0&amp;cb=60"></script>
+<link rel="shortcut icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/VOA/img/webApp/ico-57x57.png" />
+<link rel="icon" sizes="192x192" href="/Content/responsive/VOA/img/webApp/ico-192x192.png" />
+<link rel="icon" sizes="128x128" href="/Content/responsive/VOA/img/webApp/ico-128x128.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
+<link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/" />
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+</head>
+<body class="nav-no-loaded pg-article print-lay-article ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
 }
-</style>
-<link rel='stylesheet' id='dialog-css'  href='https://wagingnonviolence.org/wp-content/plugins/editable-comments/dialog/styles.css?ver=4.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='tfg_style-css'  href='https://wagingnonviolence.org/wp-content/plugins/twitter-facebook-google-plusone-share/tfg_style.css?ver=4.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='dcjq-mega-menu-css'  href='https://wagingnonviolence.org/wp-content/plugins/jquery-mega-menu/css/dcjq-mega-menu.css?ver=4.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='newsletter-sign-up-css'  href='https://wagingnonviolence.org/wp-content/plugins/newsletter-sign-up/assets/css/css.php?form=1&#038;ver=4.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://wagingnonviolence.org/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
-<script type='text/javascript' src='https://wagingnonviolence.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='https://wagingnonviolence.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='https://wagingnonviolence.org/wp-content/plugins/jquery-mega-menu/js/jquery.dcmegamenu.1.3.4.min.js?ver=4.7.4'></script>
-<script type='text/javascript' src='https://wagingnonviolence.org/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.2'></script>
-<link rel='https://api.w.org/' href='https://wagingnonviolence.org/wp-json/' />
-<meta name="generator" content="WordPress 4.7.4" />
-<link rel='shortlink' href='https://wagingnonviolence.org/?p=29622' />
-<link rel="alternate" type="application/json+oembed" href="https://wagingnonviolence.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwagingnonviolence.org%2Ffeature%2F8-skills-of-a-well-trained-activist%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://wagingnonviolence.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwagingnonviolence.org%2Ffeature%2F8-skills-of-a-well-trained-activist%2F&#038;format=xml" />
-<script type="text/javascript" src="httpss://wagingnonviolence.org/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
-<script type="text/javascript">AudioPlayer.setup("httpss://wagingnonviolence.org/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"f8f8f8",text:"666666",leftbg:"eeeeee",lefticon:"666666",volslider:"666666",voltrack:"FFFFFF",rightbg:"cccccc",rightbghover:"999999",righticon:"666666",righticonhover:"ffffff",track:"FFFFFF",loader:"cccccc",border:"666666",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
-		<script type="text/javascript">
-		var imgLoader = 'https://wagingnonviolence.org/wp-content/plugins/editable-comments/dialog/loadingAnimation.gif';
-		jQuery(document).ready(function($){   
-			$('a.editable-deletecomment').click(function(event){
-				var conf = confirm('Confirm you want delete this comment ?');
-				if(!conf) event.preventDefault();
-			});
-		});		
-		</script>
-		<!-- Magic Thumb WordPress module version v5.12.1 [v1.4.9:v2.0.66] -->
-<link type="text/css" href="https://wagingnonviolence.org/wp-content/plugins/mod_wordpress_magicthumb/magicthumb/core/magicthumb.css" rel="stylesheet" media="screen" />
-<script type="text/javascript" src="https://wagingnonviolence.org/wp-content/plugins/mod_wordpress_magicthumb/magicthumb/core/magicthumb.js"></script>
+}
+</script>
+<!--Tealium tag js version start-->
 <script type="text/javascript">
-	MagicThumb.options = {
-		'expand-speed': 500,
-		'restore-speed': 500,
-		'expand-effect': 'linear',
-		'restore-effect': 'linear',
-		'expand-trigger': 'click',
-		'restore-trigger': 'auto',
-		'expand-trigger-delay': 500,
-		'expand-align': 'screen',
-		'expand-position': 'center',
-		'image-size': 'fit-screen',
-		'background-color': '#ffffff',
-		'background-opacity': 75,
-		'background-speed': 200,
-		'caption-speed': 250,
-		'caption-position': 'bottom',
-		'caption-height': 300,
-		'caption-width': 300,
-		'buttons': 'hide',
-		'buttons-position': 'auto',
-		'buttons-display': 'previous, next, close',
-		'loading-msg': 'Loading',
-		'loading-opacity': 75,
-		'swap-image': 'click',
-		'swap-image-delay': 100,
-		'slideshow-effect': 'dissolve',
-		'slideshow-speed': 800,
-		'z-index': 10001,
-		'keep-thumbnail': false,
-		'click-to-initialize': false,
-		'show-loading': true,
-		'slideshow-loop': true,
-		'keyboard': true,
-		'keyboard-ctrl': false,
-		'caption-source': 'span'
-	}
+var utag_data={entity:"VOA",language:"English",language_service:"VOA English",short_language_service:"ENG",property_id:"461",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Non-violence Was Key to Civil Rights Movement",page_type:"1737280",page_name:"Non-violence Was Key to Civil Rights Movement",short_headline:"Non-violence Was Key to Civil Rights Movement",long_headline:"Non-violence Was Key to Civil Rights Movement",headline:"Non-violence Was Key to Civil Rights Movement",content_type:"Article",pub_year:"2014",pub_month:"01",pub_day:"20",pub_hour:"18",pub_minute:"56",pub_weekday:"Monday",dateline:"MONTGOMERY, ALABAMA",byline:"Simkins, Chris",categories:"usa,english-news-archive",slug:"nonviolencekey-to-civil-rights-movement",section:"USA",english_section:"usa",search_results:"No",article_uid:"1737280"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
 </script>
-<script type="text/javascript"><!--
-function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
-//-->
-</script>
-
-
-<!-- Facebook Like Thumbnail -->
-<link rel="image_src" href="https://wagingnonviolence.org/wp-content/uploads/2013/06/bilde.png" />
-<!-- End Facebook Like Thumbnail -->
-
+<!--Tealium tag js version end-->
+<!-- Tealium NoScript -->
+<noscript>
+<img style="position: absolute" src="http://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoaenglish-bbgprod-bbgentityvoa-bbgunitvoaenglish/1/G.4--NS/1671870290?pageName=voa%3aeng%3ar%3a1737280%3anon-violence+was+key+to+civil+rights+movement&amp;c6=non-violence+was+key+to+civil+rights+movement&amp;v6=D=c6&amp;g=http%3a%2f%2fwww.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=non-violence+was+key+to+civil+rights+movement&amp;v7=D=c7&amp;c16=voa+english&amp;v16=D=c16&amp;c5=usa&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=1737280&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" border="0" width="1" height="1" /></noscript>
+<!-- End of Tealium NoScript -->
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>Accessibility links</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">Skip to main content</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">Skip to main Navigation</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Skip to Search</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<div class="hdr">
+<div class="hdr-nav-frag">
+<div class="container">
+<a href="/" class="fl" id="logo">
+<img src="/Content/responsive/VOA/en-US/img/logo.png" alt="logo" />
+</a>
+<ul class="compact-actions">
+<li class="action action-entity-sites">
+<a href="/navigation/allsites">
+<i class="ico ico-languages"></i>
+</a>
+</li>
+<li class="action action-srch">
+<a href="/s">
+<i class="ico ico-search"></i>
+<i class="arrow-open">
+<i></i>
+</i>
+</a>
+</li>
+<li class="action action-menu">
+<a href="/navigation.html">
+<i class="ico ico-menu"></i>
+<i class="arrow-open">
+<i></i>
+</i>
+</a>
+</li>
+</ul>
+<div class="actions">
+<div class="action action-entity-sites">
+<a href="/navigation/allsites" class="" data-smoothscroll="disabled">
+<i class="ico ico-languages"></i> <span class="name">Languages</span>
+<i class="arrow-open"><i></i></i>
+</a>
+</div>
+<div class="action action-login"></div>
+<div class="action action-socials socials">
+<ul class="follow">
+<li>
+<a href="http://www.facebook.com/voiceofamerica" title="Follow us on Facebook" class="btn btn-rounded btn-facebook" target="_blank">
+<i class="ico ico-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/voanews" title="Follow us on Twitter" class="btn btn-rounded btn-twitter" target="_blank">
+<i class="ico ico-twitter"></i>
+</a>
+</li>
+<li>
+<a href="http://www.youtube.com/user/VOAvideo" title="Follow us on YouTube" class="btn btn-rounded btn-youtube" target="_blank">
+<i class="ico ico-youtube"></i>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/voanews/" title="Follow us on Instagram" class="btn btn-rounded btn-instagram" target="_blank">
+<i class="ico ico-instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/112189007157857171173/posts" title="Follow us on Google+" class="btn btn-rounded btn-g-plus" target="_blank">
+<i class="ico ico-g-plus"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="action pnl-srch-top collapsed">
+<form action="/s" id="form-headerSearch" method="get" role="search"><span class="srch-elem">
+<span class="input-wrap">
+<label for="txtHeaderSearch" class="sr-only">Search</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="search text ..." accesskey="s" value="" class="tealium-event" onkeydown="if (event.keyCode === 13) { FireTealiumEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch tealium-event" onclick="FireTealiumEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<i class="ico ico-search"></i>
+<span class="text">Search</span>
+</button>
+</span></form>
+</div>
+</div>
+</div>
+</div>
+<div class="sticky-nav-wrap container">
+<div class="sticked-nav-actions">
+<a href = "#" title="search" class="btn btn-rounded btn-open-srch">
+<i class="ico ico-search"></i>
+</a>
+</div>
+</div>
+<div class="nav-hdr-outer-container">
+<div id="nav-hdr-container" class="container">
+<div class="navigation collapsed" id="navigation">
+<div class="media">
+<ul class="items">
+<li class="collapsible item collapsed has-box" id="menu-item-listen">
+<a class="handler live" href="/Navigation/LiveAudio" title="Listen" tabindex="0">
+<i class="ico ico-audio-rounded"></i>
+<span class="text">Listen</span>
+<span class="live"></span>
+<i class="ico ico-chevron-up"></i><i class="ico ico-chevron-down"></i><i class="ico ico-plus"></i><i class="ico ico-minus"></i>
+</a>
+<div class="inner">
+</div>
+</li>
+<li class="collapsible collapsed item has-box" id="menu-item-watch">
+<a class="handler" href="/Navigation/LiveVideo" title="Watch" tabindex="1">
+<i class="ico ico-play-rounded"></i>
+<span class="text">Watch</span>
+<i class="ico ico-chevron-up"></i><i class="ico ico-chevron-down"></i><i class="ico ico-plus"></i><i class="ico ico-minus"></i>
+</a>
+<div class="inner">
+</div>
+</li>
+</ul>
+</div>
+<div class="menu">
+<ul class="items">
+<li class=" item">
+<a class="handler" href="/">Home</a> </li>
+<li class=" collapsible item">
+<span class="handler">
+World
+<i title="close tab" class="ico ico-chevron-up"></i><i title="open tab" class="ico ico-chevron-down"></i><i title="add" class="ico ico-plus"></i><i title="remove" class="ico ico-minus"></i>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5750.html">U.S. &amp; The Americas</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5749.html">Africa</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5751.html">Asia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5753.html">Europe</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5752.html">Middle East</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="http://blogs.voanews.com/editors-picks/">Editor&#39;s Picks</a> </li>
+<li class=" item">
+<a class="handler" href="/p/6290.html">Technology</a> </li>
+<li class=" item">
+<a class="handler" href="/p/6289.html">Science &amp; Health</a> </li>
+<li class=" item">
+<a class="handler" href="/p/5612.html">US Politics</a> </li>
+<li class=" item">
+<a class="handler" href="http://projects.voanews.com/south-china-sea/">South China Sea</a> </li>
+<li class=" last-menu-item item">
+<a class="handler" href="http://blogs.voanews.com/student-union/">Student Union blog</a> </li>
+<li class="item login logged-out" id="menu-item-login-01">
+<!-- if has-subitems == false, displayear link onlyear-->
+<a href="/login.html" class="handler">
+<!-- if has special icon (service menu = user, language toggle) -->
+<i class="ico ico-user"></i>
+<span class="label">Login / Register</span>
+</a>
+</li>
+<li class="service item collapsible collapsed show-more">
+<span class="handler" id="service-handler">
+<span class="more">More</span><i class="ico ico-menu"></i>
+</span>
+<div class="inner">
+<ul class="stored-items subitems"></ul>
+<ul class="options subitems">
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="menu-box media-nav" id="menu-item-watch-box">
+<div class="container">
+<ul class="items">
+<li class="item" id="tube-116">
+<span class="tube-name">VOA English TV</span>
+<div class="inner">
+<ul>
+<li class="media-block-wrap hlight">
+<a class="tube-name" href="/Navigation/LiveVideo/#tube-116">VOA English TV</a>
+<h3 class="section-head">Latest show</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal width-img size-3">
+<a href="/a/3837876.html"
+class="img-wrap" title="Africa 54">
+<div class="thumb listThumb thumb16_9">
+<img data-src="" src="https://gdb.voanews.com/00000000-0000-0000-0000-000000000000_w66_r1.gif">
+</div>
+<i class="ico ico-video"></i>
+</a>
+<div class="content">
+<a href="/a/3837876.html" >
+<h4>
+<span class="title">Africa 54</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap custom-links">
+<h3 class="section-head">More TV</h3>
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="http://www.voanews.com/programindex.html?tab=TV">OUR BROADCAST PROGRAMS</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="menu-box media-nav" id="menu-item-listen-box">
+<div class="container">
+<ul class="items">
+<li class="item" id="tube-60">
+<span class="tube-name">VOA Global English</span>
+<div class="inner">
+<ul>
+<li class="media-block-wrap hlight">
+<a class="tube-name" href="/Navigation/LiveAudio/#tube-60">VOA Global English</a>
+<h3 class="section-head">Listen live</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-time width-img size-3">
+<a href="/a/3817730.html"
+class="img-wrap" title="VOA Newscasts">
+<div class="thumb listThumb thumb16_9">
+<img data-src="" src="https://gdb.voanews.com/24BC5993-7DFA-4E90-ACB8-3F49BA4EB924_w66_r1.png">
+</div>
+<i class="ico ico-audio"></i>
+</a>
+<div class="content">
+<span class="time" >15:00 - 15:05</span>
+<a href="/a/3817730.html" >
+<h4>
+<span class="badge badge-live" >LIVE</span>
+<span class="title">VOA Newscasts</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap upcoming indent-time">
+<h3 class="section-head">Upcoming</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >15:05 - 15:30</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">International Edition 1305 EDT</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >15:30 - 16:00</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">VOA Learning English</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >16:00 - 17:00</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">African Beat</span>
+</h4>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="item" id="tube-91">
+<span class="tube-name">VOA Africa</span>
+<div class="inner">
+<ul>
+<li class="media-block-wrap hlight">
+<a class="tube-name" href="/Navigation/LiveAudio/#tube-91">VOA Africa</a>
+<h3 class="section-head">Listen live</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-time width-img size-3">
+<a href="/a/3817702.html"
+class="img-wrap" title="International Edition">
+<div class="thumb listThumb thumb16_9">
+<img data-src="" src="https://gdb.voanews.com/1F6D96BC-0584-48FA-BE84-23F2B0884B6B_cx0_cy21_cw0_w66_r1.png">
+</div>
+<i class="ico ico-audio"></i>
+</a>
+<div class="content">
+<span class="time" >15:00 - 15:30</span>
+<a href="/a/3817702.html" >
+<h4>
+<span class="badge badge-live" >LIVE</span>
+<span class="title">International Edition</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap upcoming indent-time">
+<h3 class="section-head">Upcoming</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >15:30 - 16:00</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">VOA Learning English</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >16:00 - 17:00</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">African Beat</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >17:00 - 17:05</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">VOA Newscasts</span>
+</h4>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="item" id="tube-92">
+<span class="tube-name">VOA1 – The Hits</span>
+<div class="inner">
+<ul>
+<li class="media-block-wrap hlight">
+<a class="tube-name" href="/Navigation/LiveAudio/#tube-92">VOA1 – The Hits</a>
+<h3 class="section-head">Listen live</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal width-img size-3">
+<a href="/t/92.html"
+class="img-wrap" title="VOA1 – The Hits">
+<div class="thumb listThumb thumb16_9">
+<img data-src="" src="https://gdb.voanews.com/00000000-0000-0000-0000-000000000000_w66_r1.gif">
+</div>
+<i class="ico ico-audio"></i>
+</a>
+<div class="content">
+<a href="/t/92.html" >
+<h4>
+<span class="badge badge-live" >LIVE</span>
+<span class="title">VOA1 – The Hits</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="item" id="tube-119">
+<span class="tube-name">VOA Newscasts</span>
+<div class="inner">
+<ul>
+<li class="media-block-wrap hlight">
+<a class="tube-name" href="/Navigation/LiveAudio/#tube-119">VOA Newscasts</a>
+<h3 class="section-head">Listen live</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-time width-img size-3">
+<a href="/a/3817728.html"
+class="img-wrap" title="VOA Newscasts">
+<div class="thumb listThumb thumb16_9">
+<img data-src="" src="https://gdb.voanews.com/24BC5993-7DFA-4E90-ACB8-3F49BA4EB924_w66_r1.png">
+</div>
+<i class="ico ico-audio"></i>
+</a>
+<div class="content">
+<span class="time" >15:00 - 15:04</span>
+<a href="/a/3817728.html" >
+<h4>
+<span class="badge badge-live" >LIVE</span>
+<span class="title">VOA Newscasts</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap upcoming indent-time">
+<h3 class="section-head">Upcoming</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >16:00 - 16:04</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">VOA Newscasts</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >17:00 - 17:04</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">VOA Newscasts</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-time size-4">
+<div class="content">
+<span class="time" >18:00 - 18:04</span>
+<h4>
+<i class="ico ico-audio"></i>
+<span class="title">VOA Newscasts</span>
+</h4>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap custom-links">
+<h3 class="section-head">More radio</h3>
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="http://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3">Latest Newscast</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com/programindex.html">OUR BROADCAST PROGRAMS</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com//schedule/radio.html#live-now">Radio Schedule</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-trigger="btn-open-srch" class="sticked-nav-popup popup-srch">
+<div class="container">
+<div class="stick-srch-form">
+<form action="/s" id="form-stickyNavSearch" method="get" role="search"><span class="srch-elem">
+<span class="input-wrap">
+<label for="txtStickyNavSearch" class="sr-only">Search</label>
+<input type="text" id="txtStickyNavSearch" name="k" placeholder="search text ..." accesskey="s" value="" class="tealium-event" onkeydown="if (event.keyCode === 13) { FireTealiumEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch tealium-event" onclick="FireTealiumEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) ">
+<i class="ico ico-search"></i>
+<span class="text">Search</span>
+</button>
+</span></form>
+<button class="btn btn-close"><i class="ico ico-close"></i></button>
+</div>
+</div>
+</div>
+<div data-trigger="btn-open-sharing-more" class="sticked-nav-popup popup-share">
+<div class="container">
+<button class="btn btn-close"><i class="ico ico-close"></i></button>
+</div>
+</div>
+</div>
+<div class="hlights breaking-news hidden" style="max-height: 0;">
+<div class="container">
+<div class="nav pull-right">
+<a href="#" class="prev" title="Previous">
+<i class="ico ico-chevron-backward"></i> <span>Previous</span>
+</a>
+<a href="#" class="next" title="Next">
+<i class="ico ico-chevron-forward"></i> <span>Next</span>
+</a>
+</div>
+<div class="items">
+<a title="toggle item view" href="/bn">
+<span class="label">
+<span class="number" data-trans-numbers="0|1|2|3|4|5|6|7|8|9">0</span>
+Breaking News
+<i title="open item" class="ico ico-chevron-down"></i>
+<i title="close item" class="ico ico-chevron-up"></i>
+</span>
+</a>
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div class="hlights live-media hidden" style="max-height: 0;">
+<div class="container">
+<div class="nav pull-right">
+<a href="#" class="prev" title="Previous">
+<i class="ico ico-chevron-backward"></i> <span>Previous</span>
+</a>
+<a href="#" class="next" title="Next">
+<i class="ico ico-chevron-forward"></i> <span>Next</span>
+</a>
+</div>
+<div class="items">
+<a title="toggle item view" href="/bn">
+<span class="label">
+<span class="number" data-trans-numbers="0|1|2|3|4|5|6|7|8|9">0</span>
+Live
+<i title="open item" class="ico ico-chevron-down"></i>
+<i title="close item" class="ico ico-chevron-up"></i>
+</span>
+</a>
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=1737280&amp;SiteId=415&amp;r=2098117260&amp;it=0&amp;pd=20140120185654" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="1737280" data-lt-siteId="415" />
+<div class="category">
+<a href="/z/599">USA</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="pg-title">
+Non-violence Was Key to Civil Rights Movement </h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details">
+<div class="published">
+<span class="date" >
+<time datetime="2014-01-20T13:56:54+00:00">
+January 20, 2014 1:56 PM
+</time>
+</span>
+</div>
+<div class="authors">
+<ul>
+<li>
+<div title="Chris Simkins">Chris Simkins</div>
+</li>
+</ul>
+</div><!-- /.authors -->
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line" />
+</div>
+</div> <div class="col-multimedia col-xs-12 col-md-10 pull-right">
+<div class="player-and-links">
+<div class="html5Player-sticky-container" data-poster="https://gdb.voanews.com/D714BFA3-9017-414A-B4A5-834DD328D18A_w250_r1.jpg" >
+<div class="html5Player html5PlayerEnabled html5MediaPlayer html5PlayerLoading html5MediaPlayerVideo html5PlayerWithImage"
+data-player_id=""
+data-title="US Civil Rights Movement Benefits From Non-Violent Strategy"
+data-breakpoint_xxs="320"
+data-breakpoint_xs="480"
+data-breakpoint_sm="640"
+data-breakpoint_md="992"
+data-breakpoint_lg="1280">
+<a class="html5PlayerImage" href="http://av.voanews.com/Videoroot/Archive/kaltura-nas/22/0_lv8bxftr/0_lv8bxftr-1_x9sg4fbk.mp4">
+<img src="https://gdb.voanews.com/D714BFA3-9017-414A-B4A5-834DD328D18A_w250_r1.jpg" alt="US Civil Rights Movement Benefits From Non-Violent Strategy" title="US Civil Rights Movement Benefits From Non-Violent Strategy" />
+<i class="ico ico-action ico-play-rounded"></i>
+</a>
+<video poster="https://gdb.voanews.com/D714BFA3-9017-414A-B4A5-834DD328D18A_w250_r1.jpg" src="http://av.voanews.com/Videoroot/Archive/kaltura-nas/22/0_lv8bxftr/0_lv8bxftr-1_x9sg4fbk.mp4" data-type="video/mp4" data-info="360p" data-sources="[{&quot;AmpSrc&quot;:&quot;//av.voanews.com/Videoroot/Archive/kaltura-test/VOA/VOA_-_English/mp4/2013/08/0_lv8bxftr_1_7v7brpr3.mp4&quot;,&quot;Src&quot;:&quot;http://av.voanews.com/Videoroot/Archive/kaltura-test/VOA/VOA_-_English/mp4/2013/08/0_lv8bxftr_1_7v7brpr3.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;256p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=4&RecordId=1737556&SiteId=415&r=2098117260&it=0&pd=20130826222053"></video> <div class="html5PlayerSpinner">
+<img src="http://www.voanews.com/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
+</div>
+<div class="html5PlayerEmbedCodePanel html5PlayerVideoEmbedCodePanel" style="display: none;" data-source="//www.voanews.com/embed/player/0/1737556.html?type=video">
+<span class="html5PlayerBtn html5PlayerClose html5PlayerVideoEmbedCodePanelCloseBtn" title="close"></span>
+<div class="content">
+<div class="vertical-centered">
+<h5><span></span>Embed code</h5>
+<p>Copy and paste the embed code below. The code changes based on your selection.</p>
+<textarea class="embed-code" cols="30" rows="3" readonly="readonly"></textarea>
+<p class="codeCopiedMsg">The code has been copied to your clipboard.</p>
+<p>Video size</p>
+<div class="embed-width-control">
+<input type="text" name="embed-width" class="embed-width" id="embed-width" value="640" data-default="640" />
+<label for="embed-width">width</label>
+</div>
+<div class="embed-x">x</div>
+<div class="embed-height-control">
+<input type="text" name="embed-height" class="embed-height" id="embed-height" value="363" data-default="363" />
+<label for="embed-height">height</label>
+</div>
+<div class="embed-unit">pixels</div>
+</div>
+</div>
+</div>
+<div class="html5PlayerTitleOverlay" style="display: none;">
+<div class="html5PlayerTitleOverlay-TopControls">
+<span class="html5PlayerBtn html5PlayerShare html5PlayerSharingOpenBtn" title="share"></span>
+<span class="html5PlayerBtn html5PlayerClose stickyPlayerCloseBtn" title="close"></span>
+</div>
+<div class="html5PlayerTitleOverlay-Title">
+<h6 class="title">
+<a href="/a/1737556.html" target="_blank" title="US Civil Rights Movement Benefits From Non-Violent Strategy">US Civil Rights Movement Benefits From Non-Violent Strategy</a>
+</h6>
+</div>
+<span class="html5PlayerBtn html5PlayerPopupBtn btn-popout-player" data-default-display="" data-popup-url="/pp/1737556/ppt0.html" title="Pop-out player"></span>
+<a href="/embed/player/Article/1737556.html?type=video&amp;FullScreenMode=True" target="_blank" class="html5PlayerBtn html5PlayerFullscreenBtn" title="fullscreen"></a>
+<span class="play-or-pause"><span class="icon pause"></span></span>
+</div>
+<div class="html5PlayerSharingOverlay" style="display: none;">
+<span class="html5PlayerBtn html5PlayerClose html5PlayerSharingCloseBtn" title="close"></span>
+<div class="content">
+<div class="vertical-centered">
+<h5>Share this video</h5>
+<p class="sharing-link">
+<a href="//www.voanews.com/a/1737556.html">//www.voanews.com/a/1737556.html</a>
+</p>
+<div class="not-apply-to-sticky">
+<aside>
+<div class="player-content-share content-share">
+<ul class="sharing">
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_facebook' })">
+<a href="http://facebook.com/sharer.php?u=http%3a%2f%2fwww.voanews.com%2fa%2f1737556.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<i class="ico ico-facebook">
+</i>
+</a>
+</li>
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_twitter' })">
+<a href="http://twitter.com/share?url=http%3a%2f%2fwww.voanews.com%2fa%2f1737556.html&amp;text=US+Civil+Rights+Movement+Benefits+From+Non-Violent+Strategy" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<i class="ico ico-twitter">
+</i>
+</a>
+</li>
+<li>
+<a title="toggle more sharing options" class="btn btn-rounded hidden sharing-more">
+<i class="ico ico-ellipsis"></i>
+</a>
+</li>
+<li>
+<a href="/a/1737556.html" title="Share this media" class="btn btn-rounded btn-sharing-link">
+<i class="ico ico-ellipsis"></i>
+</a>
+</li>
+</ul>
+</div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+<div class="html5PlayerControlPanelContainer">
+<div class="html5PlayerDurationPlaceholder">
+<span class="duration"><i class="ico ico-play"></i>0:04:00</span>
+</div>
+<div class="html5PlayerControlPanel">
+<div class="bar progressbar">
+<div class="indicator">
+<div class="loaded"></div>
+<div class="filled played"></div>
+</div>
+<button type="button"><span>▶</span></button>
+</div>
+<div class="html5PlayerControlsLeft">
+<span class="html5PlayerBtn html5PlayerPlay" title="play"></span>
+<span class="html5PlayerBtn html5PlayerPause" title="pause"></span>
+<span class="curTime" dir="ltr">0:00:00</span>
+<span class="duration" dir="ltr">/0:04:00</span>
+</div>
+<div class="html5PlayerControlsRight">
+<span class="html5PlayerBtn html5PlayerMore"></span>
+<a href="/embed/player/Article/1737556.html?type=video&amp;FullScreenMode=True" target="_blank" class="html5PlayerBtn html5PlayerFullscreenBtn" title="fullscreen"></a>
+<span class="html5PlayerBtn html5PlayerSourceSwitch" title="source switch"></span>
+<div class="mediaSwitchPanel"></div>
+<div class="html5PlayerVolumeControl">
+<span class="html5PlayerBtn html5PlayerVolume" title="volume"></span>
+<div class="bar volumebar">
+<div class="indicator">
+<div class="filled volLevel"></div>
+</div>
+<button type="button"><span>▶</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="playBig">
+<div class="playBigBg" title="US Civil Rights Movement Benefits From Non-Violent Strategy"></div>
+<div class="playBigFg">
+<div class="altIco">▶</div>
+</div>
+</div>
+</div>
+</div>
+<div class="media-download">
+<div class="simple-menu">
+<span class="handler">
+<i class="ico ico-download"></i>
+<span class="label">Direct link</span>
+<i class="ico ico-chevron-up"></i><i class="ico ico-chevron-down"></i>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a href="http://av.voanews.com/Videoroot/Archive/kaltura-test/VOA/VOA_-_English/mp4/2013/08/0_lv8bxftr_1_7v7brpr3.mp4?download=1" title="256p | 13.5MB" class="handler"
+onclick="FireTealiumEventOnDownload(this, 'video', 1737556, 'US Civil Rights Movement Benefits From Non-Violent Strategy', null, '', '2013', '08', '26')">
+256p | 13.5MB
+</a>
+</li>
+<li class="subitem">
+<a href="http://av.voanews.com/Videoroot/Archive/kaltura-nas/22/0_lv8bxftr/0_lv8bxftr-1_x9sg4fbk.mp4?download=1" title="360p | 26.9MB" class="handler"
+onclick="FireTealiumEventOnDownload(this, 'video', 1737556, 'US Civil Rights Movement Benefits From Non-Violent Strategy', null, '', '2013', '08', '26')">
+360p | 26.9MB
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 pull-left article-share"> <aside>
+<div class="share-label">Share</div>
+<div class="content-share">
+<ul class="sharing">
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_facebook' })">
+<a href="http://facebook.com/sharer.php?u=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<i class="ico ico-facebook">
+<span>Share on Facebook</span>
+</i>
+</a>
+</li>
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_twitter' })">
+<a href="http://twitter.com/share?url=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html&amp;text=Non-violence+Was+Key+to+Civil+Rights+Movement" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<i class="ico ico-twitter">
+<span>Share on Twitter</span>
+</i>
+</a>
+</li>
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_google_plus' })">
+<a href="https://plus.google.com/share?url=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html" title="Share on Google+" target="_blank" class="btn btn-rounded btn-g-plus">
+<i class="ico ico-g-plus">
+<span>Share on Google+</span>
+</i>
+</a>
+</li>
+<li >
+<a href="mailto:?body=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html&amp;subject=Non-violence Was Key to Civil Rights Movement" title="Email to a Friend" class="btn btn-rounded btn-email ">
+<i class="ico ico-email">
+<span>Email to a Friend</span>
+</i>
+</a>
+</li>
+<li>
+<a title="toggle more sharing options" class="btn btn-rounded btn-load-more hidden sharing-more">
+<i class="ico ico-ellipsis"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="http://www.voanews.com" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title">
+Non-violence Was Key to Civil Rights Movement
+</div>
+<div class="sticked-nav-actions">
+<div class="share-label">share</div>
+<div class="sticky-share">
+<ul class="sharing">
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_facebook' })">
+<a href="http://facebook.com/sharer.php?u=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<i class="ico ico-facebook">
+<span>Share on Facebook</span>
+</i>
+</a>
+</li>
+<li onclick="FireTealiumEvent({ on_page_event: 'share_on_twitter' })">
+<a href="http://twitter.com/share?url=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html&amp;text=Non-violence+Was+Key+to+Civil+Rights+Movement" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<i class="ico ico-twitter">
+<span>Share on Twitter</span>
+</i>
+</a>
+</li>
+<li class="share-additional first-additional"
+onclick="FireTealiumEvent({ on_page_event: 'share_on_google_plus' })">
+<a href="https://plus.google.com/share?url=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html" title="Share on Google+" target="_blank" class="btn btn-rounded btn-g-plus">
+<i class="ico ico-g-plus">
+<span>Share on Google+</span>
+</i>
+</a>
+</li>
+<li class="share-additional"
+>
+<a href="mailto:?body=http%3a%2f%2fwww.voanews.com%2fa%2f1737280.html&amp;subject=Non-violence Was Key to Civil Rights Movement" title="Email to a Friend" class="btn btn-rounded btn-email ">
+<i class="ico ico-email">
+<span>Email to a Friend</span>
+</i>
+</a>
+</li>
+<li>
+<a title="toggle more sharing options" class="btn btn-rounded btn-load-more hidden sharing-more">
+<i class="ico ico-ellipsis"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="links link-function">
+<!-- print button -->
+<p class="link-print visible-md visible-lg">
+<button class="btn btn-link btn-print" onclick="if (typeof FireTealiumEvent === 'function') {FireTealiumEvent({ on_page_event: 'print_story' });}window.print();return false" title="(CTRL+P)">
+<i class="ico ico-print"></i>Print
+</button>
+</p>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div>
+<div class="wsw">
+<span class="dateline">MONTGOMERY, ALABAMA —&nbsp;</span>
+The success of the of the American Civil Rights Movement and the fight for racial equality in the United States is a testament to the determination of millions of African Americans who fought against discrimination in the 1960s. On January 20, 2014, Americans use the national holiday to recognize the efforts of the civil rights leader, Rev. Martin Luther King.<br />
+<br />
+A major factor in the success of the movement was the strategy of protesting for equal rights without using violence. Civil rights leader Rev. Martin Luther King championed this approach as an alternative to armed uprising. King's non-violent movement was inspired by the teachings of Indian leader Mahatma Gandhi.<br />
+<br />
+Led by King, millions of blacks took to the streets for peaceful protests as well as acts of civil disobedience and economic boycotts in what some leaders describe as America's second civil war.<br />
+<br />
+The non-violent movement was tested in places like Birmingham, Alabama.<br />
+<br />
+&quot;During that period of time you had people who were being murdered, homes being bombed, churches being bombed and there was a sense that evil would prevail,&quot; said William Bell, Birmingham’s current mayor.<br />
+<br />
+A 1965 march for voting rights in Selma, Alabama is remembered as &quot;Bloody Sunday.&quot; Congressman John Lewis led the march.<br />
+<br />
+&quot;They came toward us, beating us with night sticks, trampling us with horses, releasing the tear gas,” said Lewis. “I was hit in the head by a state trooper with a night stick. I had a concussion on the bridge and I thought I was going to die.&quot;<br />
+<br />
+Andrew Young, one of King's closest aides, called for calm against a backdrop of outrage.<br />
+<br />
+&quot;If we had started guerilla warfare in America’s cities, if we had given into terrorism in America, we could not have won but America could not have survived,&quot; said Young.<br />
+<br />
+In Birmingham images of police using attack dogs and fire hoses to disperse protesting school children were broadcast around the world.<br />
+<br />
+&quot;The violence was being perpetrated by the oppressors, not the oppressed and that was an incredibly powerful message and an incredibly important tool during the movement,&quot; said Richard Cohen an attorney with the Southern Poverty Law Center.<br />
+<br />
+In August 1963 thousands of African Americans and whites gathered for the March on Washington. It was peaceful with no arrests.<br />
+<br />
+But just weeks after the March on Washington, tragedy struck in Birmingham when a bomb exploded at the 16th Street Baptist Church during Sunday school classes. Four young girls were killed and 23 others injured. It was an awful blow for Dr. King and the civil rights movement.<br />
+<br />
+Shirley Gavin Floyd, a friend of one of the victims, was traumatized by the hate killings.<br />
+<br />
+&quot;I was scared to look at a white person and I was scared to go anywhere I thought a white person was because I had really believed that could easily happen to me,&quot; said Gavin.<br />
+<br />
+Many blacks wanted to retaliate. Among them Congressman Bobby Rush, who in the 1960's was a member of the militant group known as the Black Panthers.<br />
+<br />
+&quot;I thought that Dr. King was too milquetoast, too passive, and I didn't understand the power of non-violence,” said Rush. “So I didn't adhere to his philosophy and turned the other cheek.&quot;<br />
+<br />
+Ben Jealous, president of The National Association for the Advancement of Colored People, the nation's oldest civil rights organization, said the non-violent campaign won American hearts and minds.<br />
+<br />
+&quot;The movement was moving towards a crescendo that we would see in 1964 and 1965 when landmark civil rights legislation was passed,&quot; said Jealous.
+</div>
+<ul class="author-hlight">
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="media-block-wrap">
+<h3 class="section-head">Related</h3>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal width-img size-4">
+<a href="/a/remembering-discrimination-of-the-past/1737240.html"
+class="img-wrap" title="Remembering Discrimination of the Past">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/400B96DC-5399-4A0F-9FEE-66B1EABE3206_w33_r1.jpg" src="" alt="Remembering Discrimination of the Past">
+</div>
+</a>
+<div class="content">
+<a href="/a/remembering-discrimination-of-the-past/1737240.html" >
+<h4>
+<span class="title">Remembering Discrimination of the Past</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal width-img size-4">
+<a href="/a/us-honors-king-legacy/1737263.html"
+class="img-wrap" title="US Honors Legacy of Martin Luther King, Jr.">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/216490FB-70C4-4397-A87B-779407A8536B_cx0_cy7_cw0_w33_r1.jpg" src="" alt="US Honors Legacy of Martin Luther King, Jr.">
+</div>
+</a>
+<div class="content">
+<a href="/a/us-honors-king-legacy/1737263.html" >
+<h4>
+<span class="title">US Honors Legacy of Martin Luther King, Jr.</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal width-img size-4">
+<a href="/a/civil-rights-foot-soldiers/1737901.html"
+class="img-wrap" title="Impact of Civil Rights &#39;Foot Soldiers&#39; Recognized ">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/48F57837-905E-4F14-B5F5-801563FD5FC3_w33_r1.jpg" src="" alt="Impact of Civil Rights &#39;Foot Soldiers&#39; Recognized ">
+</div>
+</a>
+<div class="content">
+<a href="/a/civil-rights-foot-soldiers/1737901.html" >
+<h4>
+<span class="title">Impact of Civil Rights &#39;Foot Soldiers&#39; Recognized </span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="region">
+<div class="media-block-wrap" id="wrowblock-6203_21" data-area-id=R1_1>
+<h2 class="section-head">
+More US Stories </h2>
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<ul class="row">
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal width-img size-3">
+<a href="/a/state-department-wants-social-media-details-some-visa-applicants/3838008.html"
+class="img-wrap" title="US State Department Wants Social Media Details From Some Visa Applicants">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/6A5B3391-2991-4172-80D8-5D2A3072944D_w66_r1.jpg" src="" alt="FILE - A Chinese visa applicant reads a Beijing newspaper as he waits outside the U.S. Embassy compound.">
+</div>
+</a>
+<div class="content">
+<a href="/a/state-department-wants-social-media-details-some-visa-applicants/3838008.html" >
+<h4>
+<span class="title">US State Department Wants Social Media Details From Some Visa Applicants</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal width-img size-3">
+<a href="/a/tillerson-meets-asean-ministers-to-seek-support-on-north-korea/3838019.html"
+class="img-wrap" title="Tillerson Meets ASEAN Ministers to Seek Support on North Korea">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/8702EC1C-E835-402F-A666-65BF94EA3891_w66_r1.jpg" src="" alt="U.S. Secretary of State Rex Tillerson (C) poses with ASEAN foreign ministers before a working lunch at the State Department in Washington, U.S., May 4, 2017. ">
+</div>
+</a>
+<div class="content">
+<a href="/a/tillerson-meets-asean-ministers-to-seek-support-on-north-korea/3838019.html" >
+<h4>
+<span class="title">Tillerson Meets ASEAN Ministers to Seek Support on North Korea</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-12 col-lg-12 follow-up-list">
+<ul class="row">
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal size-4">
+<div class="content">
+<a href="/a/obama-officially-wades-into-french-presidential-election/3837914.html" >
+<h4>
+<span class="title">Obama Officially Wades Into French Presidential Election</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal size-4">
+<div class="content">
+<a href="/a/trump-first-trip-overseas/3837900.html" >
+<h4>
+<span class="title">Trump Making First Overseas Trip in Late May</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal size-4">
+<div class="content">
+<a href="/a/native-americans-decry-appropriation-of-their-hist/3837209.html" >
+<h4>
+<span class="title">Native Americans Decry Appropriation of Their History, Culture </span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="media-block-wrap most-popular numbered" id="wrowblock-6205_21" data-area-id=R3_1>
+<h2 class="section-head">
+Most Popular </h2>
+<ul>
+<li>
+<h3 class="handler" title="open widget tab Articles">
+Articles
+<i title="close widget tab Articles" class="ico ico-chevron-up"></i>
+<i title="open widget tab Articles" class="ico ico-chevron-down"></i>
+</h3>
+<ul class="inner">
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">1</span>
+<a href="/a/trump-religious-liberties-order/3837249.html" title="Trump Expected to Sign Religious Liberties Order Thursday"><h4>
+Trump Expected to Sign Religious Liberties Order Thursday
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">2</span>
+<a href="/a/iran-failed-missile-launch-strait-hormuz/3836612.html" title="Iran Conducts Failed Missile Launch in Strait of Hormuz"><h4>
+Iran Conducts Failed Missile Launch in Strait of Hormuz
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">3</span>
+<a href="/a/trump-says-hed-be-honored-to-meet-with-north-korean-leader/3833180.html" title="Trump Says He&#39;d Be &#39;Honored&#39; to Meet With North Korean Leader "><h4>
+Trump Says He&#39;d Be &#39;Honored&#39; to Meet With North Korean Leader
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">4</span>
+<a href="/a/us-missile-defense-system-south-korea-operation/3834143.html" title="US Missile Defense System in South Korea Operational"><h4>
+US Missile Defense System in South Korea Operational
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">5</span>
+<a href="/a/ivanka-women-at-work/3834161.html" title="In New Book, Ivanka Trump Gets Serious About Women at Work"><h4>
+In New Book, Ivanka Trump Gets Serious About Women at Work
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+</ul>
+</li>
+<li>
+<h3 class="handler" title="open widget tab Multimedia">
+Multimedia
+<i title="close widget tab Multimedia" class="ico ico-chevron-up"></i>
+<i title="open widget tab Multimedia" class="ico ico-chevron-down"></i>
+</h3>
+<ul class="inner">
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">1</span>
+<a href="/a/may-1-2017-day-in-photos/3833210.html" title="May 1, 2017"><h4>
+<i class="ico ico-camera"></i>
+May 1, 2017
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">2</span>
+<a href="/a/may-3-2017-day-in-photos/3836396.html" title="May 3, 2017"><h4>
+<i class="ico ico-camera"></i>
+May 3, 2017
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">3</span>
+<a href="/a/photo-blog-met-gala-2017/3834190.html" title="In Photos: Met Gala 2017 "><h4>
+<i class="ico ico-camera"></i>
+In Photos: Met Gala 2017
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">4</span>
+<a href="/a/may-2-2017-day-in-photos/3834830.html" title="May 2, 2017"><h4>
+<i class="ico ico-camera"></i>
+May 2, 2017
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">5</span>
+<a href="/a/iraqi-forces-prepare-for-northern-mosul-offensive/3835833.html" title="Iraqi Forces Prepare for Northern Mosul Offensive"><h4>
+<i class="ico ico-video"></i>
+Iraqi Forces Prepare for Northern Mosul Offensive
+</h4></a> </div>
+</div>
+<div class="clear"></div>
+</li>
+</ul>
+</li>
+<li>
+<h3 class="handler" title="open widget tab Discussions">
+Discussions
+<i title="close widget tab Discussions" class="ico ico-chevron-up"></i>
+<i title="open widget tab Discussions" class="ico ico-chevron-down"></i>
+</h3>
+<ul class="inner">
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">1</span>
+<a href="/a/3833180.html" title="Trump Says He&#39;d Be &#39;Honored&#39; to Meet With North Korean Leader ">
+<h4>
+Trump Says He&#39;d Be &#39;Honored&#39; to Meet With North Korean Leader (17)
+</h4>
+</a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">2</span>
+<a href="/a/3833001.html" title="Trump Wonders Why US Civil War Occurred">
+<h4>
+Trump Wonders Why US Civil War Occurred (9)
+</h4>
+</a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">3</span>
+<a href="/a/3831683.html" title="Erdogan &#39;Seriously Saddened&#39; US Supporting Syrian Kurdish Fighters ">
+<h4>
+Erdogan &#39;Seriously Saddened&#39; US Supporting Syrian Kurdish Fighters (9)
+</h4>
+</a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">4</span>
+<a href="/a/3834967.html" title="Eagles Sue Mexican ‘Hotel California’">
+<h4>
+Eagles Sue Mexican ‘Hotel California’ (9)
+</h4>
+</a> </div>
+</div>
+<div class="clear"></div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block size-4">
+<div class="content">
+<span class="number">5</span>
+<a href="/a/3837249.html" title="Trump Expected to Sign Religious Liberties Order Thursday">
+<h4>
+Trump Expected to Sign Religious Liberties Order Thursday (7)
+</h4>
+</a> </div>
+</div>
+<div class="clear"></div>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="media-block-wrap slide-in-wg" data-cookie-id="wgt-33449-794959">
+<div class="wg-hiding-area">
+<i class="ico ico-arrow-right"></i>
+<h3 class="section-head">Recommended</h3>
+<div class="row">
+<ul class="">
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal width-img size-4">
+<a href="http://rferl1.goolara.net/subscribe.aspx?t=46"
+class="img-wrap" title="Have the best of VOA News delivered directly to your inbox each day. Subscribe now.">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/24ECEE21-9E53-4D30-AFF2-68648F0FD521_w33_r1.png" src="" alt="Today@VOA Logo - Stacked Version">
+</div>
+</a>
+<div class="content">
+<a href="http://rferl1.goolara.net/subscribe.aspx?t=46" >
+<h4>
+<span class="title">Have the best of VOA News delivered directly to your inbox each day. Subscribe now.</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container" id="youmaylike">
+<div class="row">
+<div class="col-xs-12">
+<div class="media-block-wrap">
+<h3 class="section-head">You may also like</h3>
+<ul class="row">
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category width-img size-4">
+<a href="/a/white-house-correspondents-wins-free-speech-award/3835712.html"
+class="img-wrap" title="White House Correspondents&#39; Association Wins Free Speech Award">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/120A4191-1E4B-42AC-8978-F77DB287A2B9_w33_r1.jpg" src="" alt="FILE - Reporters gather in the Brady Press Briefing room of the White House, Friday, Feb. 24, 2017.">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/599">USA</a>
+<a href="/a/white-house-correspondents-wins-free-speech-award/3835712.html" >
+<h4>
+<span class="title">White House Correspondents&#39; Association Wins Free Speech Award</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category width-img size-4">
+<a href="/a/kansas-indian-community-threatened-visa-changes-ethnic-violence/3835683.html"
+class="img-wrap" title="Kansas Indian Community Threatened by Visa Changes, Ethnic Violence ">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/5C1ADAE1-7377-454D-B4B9-3442C336D19D_w33_r1.png" src="" alt="Kansas City and surrounding towns are home to over 7,000 Indians and Indian Americans (R. Taylor/VOA)">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/599">USA</a>
+<a href="/a/kansas-indian-community-threatened-visa-changes-ethnic-violence/3835683.html" >
+<h4>
+<span class="title">Kansas Indian Community Threatened by Visa Changes, Ethnic Violence </span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category width-img size-4">
+<a href="/a/kimmel-recounts-sons-heart-surgery/3835621.html"
+class="img-wrap" title="Jimmy Kimmel Tearfully Recounts Newborn Son&#39;s Heart Surgery">
+<div class="thumb listThumb thumb16_9">
+<img data-src="https://gdb.voanews.com/58785517-0E48-43BC-9557-E0A2FD378060_w33_r1.jpg" src="" alt="FILE - Jimmy Kimmel, left, and Molly McNearney arrive at the Los Angeles premiere of &quot;Office Christmas Party&quot; at the Village Theatre Westwood, Dec. 7, 2016. ">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/602">Arts &amp; Entertainment</a>
+<a href="/a/kimmel-recounts-sons-heart-surgery/3835621.html" >
+<h4>
+<span class="title">Jimmy Kimmel Tearfully Recounts Newborn Son&#39;s Heart Surgery</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--"Back to top" button start-->
+<div class="back-to-top-nav disabled visible-xs">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<a title="Back to top" class="back-to-top-link" href="#page">
+<i class="ico ico-chevron-up"></i>
+<span class="text">Back to top</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!--"Back to top" button end-->
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+Follow Us
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="http://www.facebook.com/voiceofamerica" title="Follow us on Facebook" class="btn btn-rounded btn-facebook" target="_blank">
+<i class="ico ico-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/voanews" title="Follow us on Twitter" class="btn btn-rounded btn-twitter" target="_blank">
+<i class="ico ico-twitter"></i>
+</a>
+</li>
+<li>
+<a href="http://www.youtube.com/user/VOAvideo" title="Follow us on YouTube" class="btn btn-rounded btn-youtube" target="_blank">
+<i class="ico ico-youtube"></i>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/voanews/" title="Follow us on Instagram" class="btn btn-rounded btn-instagram" target="_blank">
+<i class="ico ico-instagram"></i>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/112189007157857171173/posts" title="Follow us on Google+" class="btn btn-rounded btn-g-plus" target="_blank">
+<i class="ico ico-g-plus"></i>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="RSS" class="btn btn-rounded btn-rss" target="_blank">
+<i class="ico ico-rss"></i>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="Podcast" class="btn btn-rounded btn-podcast" target="_blank">
+<i class="ico ico-podcast"></i>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="Subscribe" class="btn btn-rounded btn-email" target="_blank">
+<i class="ico ico-email"></i>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Other Ways to Access VOA
+<i title="close tab" class="ico ico-chevron-up"></i><i title="open tab" class="ico ico-chevron-down"></i><i title="add" class="ico ico-plus"></i><i title="remove" class="ico ico-minus"></i>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="http://www.voanews.com/subscribe.html">Subscribe to Today@VOA Newsletter</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://voanews.com/rss.html?tab=Podcast">Subscribe to our podcasts</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com/rss.html?tab=Rss">RSS feeds</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com/p/6212.html">Listen on the radio</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://ibb7-2.ibb.gov/tvschedule/" onclick="window.open(&#39;http://ibb7-2.ibb.gov/tvschedule/&#39;);return false;" target="_blank">Watch on satellite</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com/p/5850.html">Get our mobile app</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+About this site
+<i title="close tab" class="ico ico-chevron-up"></i><i title="open tab" class="ico ico-chevron-down"></i><i title="add" class="ico ico-plus"></i><i title="remove" class="ico ico-minus"></i>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5338.html">Privacy Notice</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://www.insidevoa.com/" onclick="window.open(&#39;http://www.insidevoa.com/&#39;);return false;" target="_blank">About VOA</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5339.html">Contact VOA</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://www.insidevoa.com/">Media Relations</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://www.insidevoa.com/p/5719.html" onclick="window.open(&#39;http://www.insidevoa.com/p/5719.html&#39;);return false;" target="_blank">Usage Requests</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://pronounce.voanews.com/" onclick="window.open(&#39;http://pronounce.voanews.com/&#39;);return false;" target="_blank">VOA Pronunciation Guide</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-secondary collapsed collapsible item">
+<span class="handler">
+Site Map
+<i title="close tab" class="ico ico-chevron-up"></i><i title="open tab" class="ico ico-chevron-down"></i><i title="add" class="ico ico-plus"></i><i title="remove" class="ico ico-minus"></i>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/z/599">USA</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/612">Africa</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/600">Asia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/611">Europe</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/598">Middle East</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/616">Americas</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/621">Science &amp; Innovation</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/605">Entrepreneurship</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/607">Health</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/602">Art &amp; Culture</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://projects.voanews.com/">Special Reports</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com/programindex.html">VOA Programs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://m.voanews.com/p/6211.html">Videos</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://blogs.voanews.com/">Blogs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="http://editorials.voa.gov/" onclick="window.open(&#39;http://editorials.voa.gov/&#39;);return false;" target="_blank">Editorials</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright"></p>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
 <script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//wagingnonviolence.org/?wordfence_logHuman=1&hid=58965012365C94AD190A50945FC8F332');
+//test ie 6, 7, 8
+var div = document.createElement("div");
+div.innerHTML = "<!--[if lte IE 8]><i></i><![endif]-->";
+var isIe8orLower = !!div.getElementsByTagName("i").length;
+if (!isIe8orLower && !navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-ff";
+}
+// mobile browsers test
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
 </script>
-	<link rel="stylesheet" href="https://wagingnonviolence.org/wp-content/plugins/jquery-mega-menu/skin.php?widget_id=2&amp;skin=socialink_barebones" type="text/css" media="screen"  /><!-- Google Analytics Tracking by Google Analyticator 6.5.2: http://www.videousermanuals.com/google-analyticator/ -->
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
 <script type="text/javascript">
-    var analyticsFileTypes = [''];
-    var analyticsSnippet = 'enabled';
-    var analyticsEventTracking = 'enabled';
+var bar_data = {
+"apiUrl": "http://voa.pangea-cms.com/publisher/en-US/api/frontend/itemdata",
+"apiId": "1737280",
+"apiType": "1",
+"isEmbedded": "0",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.voanews.com"
+};
 </script>
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-  
-	_gaq.push(['_setAccount', 'UA-8989690-1']);
-    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
-			
-			<!--AJAX -->
-			<script type='text/javascript'>
-			/* <![CDATA[ */
-			var wnvAjax = {"ajaxURL":"https://wagingnonviolence.org/wp-admin/admin-ajax.php",
-							"themeURL":"https://wagingnonviolence.org/wp-content/themes/sink_wnv",
-							"specialNonce":"sdf9082223ndfg342jkx34523cvnmxcvjk23"
-							};
-			/* ]]> */
-			</script>
-			
-					
-			<!-- fancybox 2 -->
-			<script type="text/javascript" src="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/fb2/jquery.fancybox.pack.js"></script>	
-			<link rel="stylesheet" type="text/css" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/fb2/jquery.fancybox.css" media="screen" />					
-				
-			<!--Scrollpane -->
-			<link rel="stylesheet" type="text/css" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/scrollpane/jquery.jscrollpane.css" media="screen" />	
-			<script type="text/javascript" src="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/scrollpane/jquery.mousewheel.js"></script>
-			<script type="text/javascript" src="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/scrollpane/jquery.jscrollpane.min.js"></script>
-			
-			<!-- Subscribe popup -->
-			<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"f279f100fef8b39c61c33aef1","lid":"615747eb15"}) })</script>
-			<!-- Extra javascripts -->
-			<script type="text/javascript" src="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/css_browser_selector.js"></script>
-			<script type="text/javascript" src="https://wagingnonviolence.org/wp-content/themes/sink_wnv/js/social_ink.js"></script>
-
-			<link rel="stylesheet" media="screen and (max-width:480px)" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/style-480px.css" type="text/css" /> <!-- yellow -->
-			<link rel="stylesheet" media="screen and (min-width:481px) and (max-width:768px)" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/style-768px.css" type="text/css" /> <!-- green -->
-			<link rel="stylesheet" media="screen and (min-width:769px) and (max-width:1024px)" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/style-1024px.css" type="text/css" /><!-- red --> 
-			<link rel="stylesheet" media="screen and (min-width:1025px)" href="https://wagingnonviolence.org/wp-content/themes/sink_wnv/style-largest.css" type="text/css" />
-
-			<!-- RSS universal -->
-			<link rel="alternate" type="application/rss+xml" 
-  			title="RSS Feed for features and blog posts" 
-  			href="http://wagingnonviolence.org/feed/" />
-		
-				</head>
-
-	<body class="feature-template-default single single-feature postid-29622" ontouchstart="">
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-
-	
-		<div id="container">
-			
-			<div class="topheader">
-				<div id="socialmedia_container" class="topheader_col">
-					<ul class="menu_horizontal">
-						<li class="socialmedia facebook"><a href="https://wagingnonviolence.org/"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/wagingnonviolence%2F&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe></a></li>
-						<li class="socialmedia twitter"><a href="https://wagingnonviolence.org/"><a href="https://twitter.com/wagingnv" class="twitter-follow-button" data-show-count="false">Follow @wagingnv</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</a></li>
-					</ul>
-				</div>
-				
-				<div id="newsletter_container" class="fancyfont topheader_col">
-					<form action="http://wagingnonviolence.us2.list-manage.com/subscribe/post?u=f279f100fef8b39c61c33aef1&amp;id=615747eb15" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-						<label for="news_submit" class="brown_text">Subscribe to our weekly newsletter</label>						
-							<input type="email" value="" name="EMAIL" class="email clearMeFocus serif_text newsletter_input_text" id="news_submit" placeholder="Enter your email" required>
-							<input type="submit" value="Sign Up" name="subscribe" id="news_submit" class="fancyfont button shadow_module">
-					</form>
-				</div>				
-				
-				<div id="search_container" class="topheader_col">
-					<div class="search_container">
-
-	<form action="https://wagingnonviolence.org" method="get">
-		<input value="Search" title="Search" name="s" type="text" class="fancyfont search_input clearMeFocus"  />
-		<input type="hidden" id="searchsubmit" />
-	</form>
-	
-</div>				</div>
-				
-				<div class="clearfix"></div>
-				
-			</div>
-			
-			<div class="containing_body shadow_module">
-		
-				<div id="header">
-				
-					<div class="header_inner">
-	
-	<div class="logo">
-		<a href="https://wagingnonviolence.org/"><img src="https://wagingnonviolence.org/wp-content/themes/sink_wnv/images/logo.png" alt="8 skills of a well-trained activist - Waging Nonviolence" /></a>
-	</div>
-	
-	<div class="contribute_box">
-		<ul class="menu_horizontal fancyfont">
-			<li class="contribute_box_support"><a class="orange_text contribute_support" href="https://wagingnonviolence.org/support/">Support WNV</a></li>
-			<li class="contribute_box_about"><a class="button brown_bg contribute_about shadow_module" href="https://wagingnonviolence.org/about/">About</a></li>
-		</ul>		
-	</div>
-	
-	
-	<div class="clearfix"></div>
-	
-	<div class="topmenu menu_horizontal fancyfont">
-			<li id="dc_jqmegamenu_widget-2" class="widget ">		<div class="dcjq-mega-menu" id="dc_jqmegamenu_widget-2-item">
-		
-		<ul id="menu-main" class="menu"><li id="menu-item-26517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-26517"><a href="https://wagingnonviolence.org">Home</a></li>
-<li id="menu-item-21460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21460"><a href="https://wagingnonviolence.org/archives?topics=conflict">Conflict</a>
-<ul class="sub-menu">
-	<li id="menu-item-21465" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-21465"><a href="https://wagingnonviolence.org/archives/?topics=conflict-resolution-conflict">Conflict resolution</a></li>
-	<li id="menu-item-21466" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-21466"><a href="https://wagingnonviolence.org/archives/?topics=tactics">Tactics</a></li>
-	<li id="menu-item-22412" class="menu-item menu-item-type-taxonomy menu-item-object-topics current-feature-ancestor menu-item-22412"><a href="https://wagingnonviolence.org/archives/?topics=theory">Theory</a></li>
-	<li id="menu-item-22413" class="menu-item menu-item-type-taxonomy menu-item-object-topics current-feature-ancestor current-menu-parent current-feature-parent menu-item-22413"><a href="https://wagingnonviolence.org/archives/?topics=training-and-organizing">Training and organizing</a></li>
-</ul>
-</li>
-<li id="menu-item-21453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21453"><a href="https://wagingnonviolence.org/archives?topics=culture">Culture</a>
-<ul class="sub-menu">
-	<li id="menu-item-22427" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22427"><a href="https://wagingnonviolence.org/archives/?topics=art">Art</a></li>
-	<li id="menu-item-22421" class="menu-item menu-item-type-taxonomy menu-item-object-topics current-feature-ancestor menu-item-22421"><a href="https://wagingnonviolence.org/archives/?topics=history">History</a></li>
-	<li id="menu-item-21469" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-21469"><a href="https://wagingnonviolence.org/archives/?topics=media">Media</a></li>
-	<li id="menu-item-22415" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22415"><a href="https://wagingnonviolence.org/archives/?topics=religion">Religion</a></li>
-	<li id="menu-item-22411" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22411"><a href="https://wagingnonviolence.org/archives/?topics=sports">Sports</a></li>
-	<li id="menu-item-22414" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22414"><a href="https://wagingnonviolence.org/archives/?topics=technology">Technology</a></li>
-</ul>
-</li>
-<li id="menu-item-21454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21454"><a href="https://wagingnonviolence.org/archives?topics=regions">Regions</a>
-<ul class="sub-menu">
-	<li id="menu-item-22418" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22418"><a href="https://wagingnonviolence.org/archives/?topics=africa">Africa</a></li>
-	<li id="menu-item-22420" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22420"><a href="https://wagingnonviolence.org/archives/?topics=asia">Asia</a></li>
-	<li id="menu-item-22419" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22419"><a href="https://wagingnonviolence.org/archives/?topics=europe">Europe</a></li>
-	<li id="menu-item-22416" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22416"><a href="https://wagingnonviolence.org/archives/?topics=latin-america">Latin America</a></li>
-	<li id="menu-item-22417" class="menu-item menu-item-type-taxonomy menu-item-object-topics current-feature-ancestor menu-item-22417"><a href="https://wagingnonviolence.org/archives/?topics=north-america">North America</a></li>
-	<li id="menu-item-22424" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22424"><a href="https://wagingnonviolence.org/archives/?topics=oceania">Oceania and Pacific islands</a></li>
-</ul>
-</li>
-<li id="menu-item-21455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21455"><a href="https://wagingnonviolence.org/archives?topics=issues">Issues</a>
-<ul class="sub-menu">
-	<li id="menu-item-21470" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-21470"><a href="https://wagingnonviolence.org/archives/?topics=economic-justice">Economic justice</a></li>
-	<li id="menu-item-22423" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22423"><a href="https://wagingnonviolence.org/archives/?topics=environment">Environment</a></li>
-	<li id="menu-item-21472" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-21472"><a href="https://wagingnonviolence.org/archives/?topics=human-rights-issues">Human Rights</a></li>
-	<li id="menu-item-22422" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-22422"><a href="https://wagingnonviolence.org/archives/?topics=militarism">Militarism</a></li>
-</ul>
-</li>
-<li id="menu-item-21456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21456"><a href="https://wagingnonviolence.org/archives?series=all">Series</a>
-<ul class="sub-menu">
-	<li id="menu-item-33060" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-33060"><a href="https://wagingnonviolence.org/archives/?series=beautiful-trouble">Beautiful Trouble</a></li>
-	<li id="menu-item-33830" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-33830"><a href="https://wagingnonviolence.org/archives/?series=beyond-borders">Beyond Borders</a></li>
-	<li id="menu-item-22440" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-22440"><a href="https://wagingnonviolence.org/archives/?series=idlenomore">#IdleNoMore</a></li>
-	<li id="menu-item-26969" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-26969"><a href="https://wagingnonviolence.org/archives/?series=sans-tar-sands">Sans Tar Sands</a></li>
-	<li id="menu-item-22439" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-22439"><a href="https://wagingnonviolence.org/archives/?series=wildcat-winter">Wildcat Winter</a></li>
-</ul>
-</li>
-<li id="menu-item-21457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21457"><a href="https://wagingnonviolence.org/archives?columns=all">Columns</a>
-<ul class="sub-menu">
-	<li id="menu-item-22441" class="menu-item menu-item-type-taxonomy menu-item-object-column menu-item-22441"><a href="https://wagingnonviolence.org/archives/?column=at-the-crossroads">At the Crossroads</a></li>
-	<li id="menu-item-22442" class="menu-item menu-item-type-taxonomy menu-item-object-column menu-item-22442"><a href="https://wagingnonviolence.org/archives/?column=little-insurrections">Little Insurrections</a></li>
-	<li id="menu-item-22443" class="menu-item menu-item-type-taxonomy menu-item-object-column current-feature-ancestor current-menu-parent current-feature-parent menu-item-22443"><a href="https://wagingnonviolence.org/archives/?column=living-revolution">Living Revolution</a></li>
-</ul>
-</li>
-<li id="menu-item-21462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21462"><a href="https://wagingnonviolence.org/archives/?all=post">Blog</a></li>
-<li id="menu-item-21415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21415"><a href="https://wagingnonviolence.org/archives/?all=experiments">Experiments</a></li>
-</ul>		
-		</div>
-		</li>
-	</div>		
-
-</div>		
-				</div>
-
-	<div id="single_8-skills-o" class="onepage">
-		
-		<div class="content">
-		
-			
-					<header>
-						
-		<div class="series_header">
-								<div class="one_column column_headline">
-						<div class="col_img"><a href="https://wagingnonviolence.org/column/living-revolution"><img src="https://wagingnonviolence.org/wp-content/uploads/2013/02/Lakey_sketch_v2-68x75.jpg" alt="WNV Series Living Revolution" /></a></div>
-						<div class="col_data">
-							<h5 class="headline bold"><a href="https://wagingnonviolence.org/column/living-revolution">Living Revolution</a></h5>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-					</div>
-		
-						<h1 class="headline bold huge">8 skills of a well-trained activist</h1>
-						<div class="pf_data">
-							<p>Original article at <a href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/">https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/</a></p>
-							<p class="imagePf print_none"><a href="#" class="imageToggle">Images Shown. Click to Hide Images</a></p>
-						</div>
-						
-						<ul class="metadata menu_horizontal fancyfont">
-							<li><a href="https://wagingnonviolence.org/author/georgelakey/" title="Posts by George Lakey" rel="author">George Lakey</a></li>
-							<li class="last_one">June 11, 2013</li>
-						</ul>
-						
-						
-	<div class="actionbar ">
-				<ul class="menu_horizontal fancyfont">
-			<li class="fb_like_actionbar"><fb:like send="false" layout="button_count" width="150" show_faces="false"></fb:like></li>
-			<li><div class="bottomcontainerBox" style="">
-			<div style="float:left; width:75px;padding-right:10px; margin:4px 4px 4px 4px;height:30px;">
-			<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/"  data-text="8 skills of a well-trained activist" data-count="horizontal" data-via="wagingnv"></a>
-			</div>			
-			</div><div style="clear:both"></div><div style="padding-bottom:4px;"></div></li>
-			<li><a class="fancy_popup" href="#content_send">Email</a></li>
-			<li><a class="print_box" href="?pf=true">Print</a></li>
-			<li class="last_one"><a href="/support/donate">Leave a Tip</a></li>
-		</ul>					
-	</div>
-	
-		<div class="fancy_container">
-			<div id="content_send">
-				<div class="email_share_box">
-					<h3>Share This Article</h3>
-					<form class="email_share_form">
-						<input type="text" class="clearMeFocus required email" id="user_email_source" value="Your Email" title="Your Email" />
-						<input type="text" class="clearMeFocus required email" id="user_email_destination" value="Destination Email" title="Destination Email" />
-						<textarea title="Message (optional)" class="requestinput clearMeFocus" id="user_email_message">Message (optional)</textarea> 
-						<input type="hidden" id="email_refer_link" value="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/" />
-						<input type="submit" value="Send" class="ww_button" />
-					</form>	
-					<div class="email_share_response normal_font">
-						<p class="response_text"></p>
-					</div>
-				</div>
-			</div>
-		</div>
-					
-					</header>
-					
-					<section class="copy">
-
-						<div id="attachment_29623" style="width: 357px" class="wp-caption alignright"><img class="size-medium wp-image-29623" alt="Rev. Martin Luther King Jr., Pete Seeger, Charis Horton, Rosa Parks and the Rev. Ralph Abernathy at the Highlander Center in 1957. (Pete Seeger)" src="https://wagingnonviolence.org/wp-content/uploads/2013/06/bilde-300x257.png" width="347" height="298" srcset="https://wagingnonviolence.org/wp-content/uploads/2013/06/bilde-300x257.png 300w, https://wagingnonviolence.org/wp-content/uploads/2013/06/bilde.png 615w" sizes="(max-width: 347px) 100vw, 347px" /><p class="wp-caption-text">Rev. Martin Luther King Jr., Pete Seeger, Charis Horton, Rosa Parks and the Rev. Ralph Abernathy at the Highlander Center in 1957. (Pete Seeger)</p></div>
-<p>As I write this dozens of trainers in Philadelphia near completion of a 17-day intensive called the “Super-T,” a kind of boot camp for trainers. In the 1950s, there was no place I could go to learn this kind of activist facilitation training, even though Paulo Freire was doing groundbreaking work in his “pedagogy of the oppressed” and the Gandhi-influenced Muslim leader Abdul Ghaffar Khan had used training to prepare <a href="http://nvdatabase.swarthmore.edu/content/pashtuns-campaign-against-british-empire-india-1930-1931">his Pashtun nonviolent army</a> for combat with the British Empire.</p>
-<p>We’ve come a long way since the 1950s, when the <a href="http://nvdatabase.swarthmore.edu/content/core-activists-practice-nonviolent-action-miami-lunch-counters-1959">civil rights movement was being seeded by Congress of Racial Equality trainings</a> in church basements and <a href="http://nvdatabase.swarthmore.edu/content/african-americans-boycott-buses-integration-montgomery-alabama-us-1955-1956">Rosa Parks attended workshops at the Highlander Center in Tennessee</a>. Now even advanced training for activist trainers is available. Training for Change, an organization I co-founded, has led over 20 Super-Ts. These facilitator marathons have attracted activists from dozens of countries on five continents.</p>
-<p>I’m grateful that today’s teenagers don’t need to get lucky and find a mentor, as I did by apprenticing to <a href="http://www.highbeam.com/doc/1P2-9224338.html">Charlie Walker</a> in the 1950s. Today the Ruckus Society, Seeds of Peace UK, Pace e Bene, the Centre for Applied Non Violent Actions and Strategies — that is, CANVAS — and many other training organizations exist to help people gain skills. Training organizations in turn use Training for Change to upgrade their own skills and work collaboratively on projects like the Global Power Shift this week in Istanbul. We’ve made major progress just in my lifetime, but much more is needed to meet the multiplying opportunities for change.</p>
-<p><b>Why more training now?</b></p>
-<p>The history of training is a history of playing catch-up. Very few movements seem to realize that the pace of change can accelerate so rapidly that it outstrips the movement’s ability to use its opportunities fully. In Istanbul a small group of environmentalists sit down to save a park, and suddenly there are protests in over 60 Turkish cities; the agenda expands, from green space to governance to capitalism; doors open everywhere. It would be a good moment to have tens of thousands of skilled organizers ready to seize the day, supporting smart direct action and building prefigurative institutions. But excitement alone may slacken; as with the Occupy movement, spontaneous creativity has its limits.</p>
-<p>With the right skills, movements can sustain themselves for years against punishing, murderous resistance. The mass direct action phase of the civil rights movement pushed on effectively for a decade after 1955. Mass excitement doesn’t need to fizzle in a year. A movement thrives by solving the problems it faces.</p>
-<p>Anti-authoritarians don’t want to count on a movement’s top leaders to be the problem-solvers, but instead to develop shared leadership by fostering problem-solving smarts at the grassroots. There’s nothing automatic about grassroots problem-solving. How well people strategize, organize, invent creative tactics, reach effectively to allies, use the full resources of the group and persevere at times of discouragement — all that can be enhanced by training.</p>
-<p>Nothing is more predictable than that there will be increased turbulence in the United States and many other societies. Activists cause some of the turbulence by rising up; other turbulence results from things like climate change, the 1 percent’s austerity programs and other forces outside activists’ immediate control.</p>
-<p>Increased turbulence scares a lot of people. It’s only natural that people will look around for reassurance. The ruling class will offer one kind of reassurance. The big question is: What reassurance will the movement offer?</p>
-<p>When <a href="http://nvdatabase.swarthmore.edu/content/french-students-and-workers-campaign-reform-may-revolt-1968">students in Paris in May 1968 launched a campaign that quickly moved into nationwide turbulence</a>, with 11 million workers striking and occupying, there was a momentary chance for the middle class to side with the students and workers instead of siding with the 1 percent. The movement, though, didn’t understand enough about the basic human need for security and failed to use its opportunity. That was a strategic error, but to choose a different path the movement would have required participants with more skills. Training would have been necessary. We can learn from this, inventory the skills needed and train ourselves accordingly.</p>
-<p><b>What is training ready to do for us?</b></p>
-<p>Here are a few of the key benefits that we should expect to gain from one another through training:</p>
-<p><i>1. </i><i>Increase the creativity of direct action strategy and tactics.</i> The Yes Men and the Center for Story-Based Strategy lead workshops in which activist groups break out of the lockstep of “marches-and-rallies.&#8221; We need to have a broad array of tactics at our disposal, and we have to be ready to invent new ones when necessary.</p>
-<p><i>2. </i><i>Prepare participants psychologically for the struggle.</i> The Pinochet regime in Chile depended, as dictatorships usually do, on fear to maintain its control. In the 1980s <a href="http://nvdatabase.swarthmore.edu/content/chileans-overthrow-pinochet-regime-1983-1988">a group committed to nonviolent struggle encouraged people to face their fears directly</a> in a three-step process: small group training sessions in living rooms, followed by “hit-and-run” nonviolent actions, followed by debriefing sessions. By teaching people to control their fear, trainers were building a movement to overthrow the dictator.</p>
-<p><i>3. </i><i>Develop group morale and solidarity for more effective action.</i> In 1991 members of ACT UP — a militant group protesting U.S. AIDS policy — were beaten up by Philadelphia police during a demonstration. The police were found guilty of using unnecessary force and the city paid damages, but ACT UP members realized they could reduce the chance of future brutality by working in a more united and nonviolent way. Before their next major action they invited a trainer to conduct a workshop where they clarified the strategic question of nonviolence and then role-played possible scenarios. The result: a high-spirited, unified and effective action.</p>
-<p><i>4. </i><i>Deepen participants’ understanding of the issues.</i> The War Resisters League’s <i>Handbook for Nonviolent Action</i> is an example of the approach that takes even a civil disobedience training as an opportunity to assist participants to take a next step regarding racism, sexism and the like. When we understand how seemingly separate struggles are connected, it helps us create a broader, stronger, more interconnected movement.</p>
-<p><i>5. </i><i>Build skills for applying nonviolent action in situations of threat and turbulence. </i>In Haiti a hit squad abducted a young man just outside the house where a trained peace team was staying; the team immediately intervened and, although surrounded by twice their number of guards with weapons, succeeded in saving the man from being hung. Through training, we can learn how to react to emergencies like this in disciplined, effective ways.</p>
-<p><i>6. </i><i>Build alliances across movement lines</i>. In Seattle in the 1980s, a workshop drew striking workers from the Greyhound bus company and members of ACT UP. The workshop reduced the prejudice each group had about the other, and it led some participants to support each other’s struggle. Trainings are a valuable opportunity to bring people from different walks of life together and help them work toward their common goals.</p>
-<p><i>7. </i><i>Create activist organizations that don’t burn people out.</i> The Action Mill, Spirit in Action, and the Stone House all offer workshops to help activists to stay active in the long run. I’ve seen a lot of accumulated skill lost to movements over the years because people didn&#8217;t have the support or endurance to stay in the fight.</p>
-<p><i>8. </i><i>Increase democracy within the movement.</i> In the 1970s the Movement for a New Society <a href="http://www.akpress.org/opposeandpropose.html">developed a pool of training tools and designs that it shared with the grassroots movement against nuclear power</a>. The anti-nuclear movement went up against some of the largest corporations in America and won. The movement delayed construction, which raised costs, and planted so many seeds of doubt in the public mind about safety that the eventual meltdown of the Three Mile Island plant brought millions of people to the movement’s point of view. The industry’s goal of building 1,000 nuclear plants evaporated. Significantly, the campaign succeeded without needing to create a national structure around a charismatic leader. Activists learned the skills of shared leadership and democratic decision-making through workshops, practice and feedback. In my book <a href="http://www.amazon.com/dp/0470768630"><i>Facilitating Group Learning</i></a>, I share many lessons that have evolved from Freire’s day to ours.</p>
-<p>I hope that readers of this column will add to the list of training providers in the comments, since I’ve only named some. My intention is to remind us that this could be the right moment, before the next wave of turbulence has all of us in crisis-mode again, to increase training capacity for grassroots skill-building. We’ll be very glad we did.</p>
-<!-- iCopyright Interactive Copyright Notice -->
-<a class="repubhubtoolbar"
-   data-publication-id="19738"
-   data-article-id="29622"
-   data-type="footer"
-   href="/freePost.act?tag=3.19738?icx_id=29622" target="_blank">
-  <span style="font-size: 7pt;">Click here for reuse options!</span><br/>Copyright 2013 Waging Nonviolence</a>
-<script async src="//static.icopyright.net/rights/js/repubhub.toolbar.js"></script>
-<!-- iCopyright Interactive Copyright Notice -->						
-						<p style="text-align: center;">—</p>
-						<p style="text-align: center;"><em>This story was made possible by our members. <a href="http://wagingnonviolence.org/support/membership/">Become one today</a>.</em>
-						</p>
-
-					</section>
-					
-					
-					<div class="article_footer">
-						
-	<div class="actionbar footeractionbar articlefooter_module">
-		<h4>Help Us Spread The Word</h4>		<ul class="menu_horizontal fancyfont">
-			<li class="fb_like_actionbar"><fb:like send="false" layout="button_count" width="150" show_faces="false"></fb:like></li>
-			<li><div class="bottomcontainerBox" style="">
-			<div style="float:left; width:75px;padding-right:10px; margin:4px 4px 4px 4px;height:30px;">
-			<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/"  data-text="8 skills of a well-trained activist" data-count="horizontal" data-via="wagingnv"></a>
-			</div>			
-			</div><div style="clear:both"></div><div style="padding-bottom:4px;"></div></li>
-			<li><a class="fancy_popup" href="#content_send">Email</a></li>
-			<li><a class="print_box" href="?pf=true">Print</a></li>
-			<li class="last_one"><a href="/support/donate">Leave a Tip</a></li>
-		</ul>					
-	</div>
-	
-		<div class="fancy_container">
-			<div id="content_send">
-				<div class="email_share_box">
-					<h3>Share This Article</h3>
-					<form class="email_share_form">
-						<input type="text" class="clearMeFocus required email" id="user_email_source" value="Your Email" title="Your Email" />
-						<input type="text" class="clearMeFocus required email" id="user_email_destination" value="Destination Email" title="Destination Email" />
-						<textarea title="Message (optional)" class="requestinput clearMeFocus" id="user_email_message">Message (optional)</textarea> 
-						<input type="hidden" id="email_refer_link" value="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/" />
-						<input type="submit" value="Send" class="ww_button" />
-					</form>	
-					<div class="email_share_response normal_font">
-						<p class="response_text"></p>
-					</div>
-				</div>
-			</div>
-		</div>
-
-									<div class="fancyfont related_topics articlefooter_module related_topics">
-				<ul class="menu_horizontal taxlist_topics">
-											<li class="labeling">Topics:</li>
-																<li class="tax_topics"><a href="https://wagingnonviolence.org/archives/?topics=united-states">United States</a>
-						</li>						<li class="tax_topics"><a href="https://wagingnonviolence.org/archives/?topics=conferences">Conferences</a>
-						</li>						<li class="tax_topics"><a href="https://wagingnonviolence.org/archives/?topics=anarchism">Anarchism</a>
-						</li>						<li class="tax_topics"><a href="https://wagingnonviolence.org/archives/?topics=civil-rights-movement">Civil rights movement</a>
-						</li>						<li class="tax_topics last-item"><a href="https://wagingnonviolence.org/archives/?topics=training-and-organizing">Training and organizing</a>
-						</li>				</ul>
-		</div>
-	
-													<div class="author_data articlefooter_module">
-								<p>George Lakey co-founded Earth Quaker Action Group which just won its five-year campaign to force a major U.S. bank to give up financing mountaintop removal coal mining.  Along with college teaching he has led 1,500 workshops on five continents and led activist projects on local, national, and international levels. Among many other books and articles, he is author of “<a href="http://www.trainingforchange.org/node/181">Strategizing for a Living Revolution</a>” in David Solnit’s book <em>Globalize Liberation</em> (City Lights, 2004). His first arrest was for a civil rights sit-in and most recent was with Earth Quaker Action Team while protesting mountain top removal coal mining.</p>
-							</div>
-												
-									<div class="contentPickUps articlefooter_module">
-			<h4><a href="#articlePickup" class="accordion_link">Pick-ups</a></h4>
-			<div id="articlePickup" class="headline pickup_headlines">
-				<p><a href="http://www.wakingtimes.com/2013/06/12/8-skills-of-a-well-trained-activist/">Waking Times</a></p>
-			</div>
-		</div>
-		
-						
-								
-		<div class="relatedposts articlefooter_module">
-			<h4>Related</h4>
-
-				
-				
-				<div class="clearfix"></div>
-		</div>
-
-						<div class="commentarea">
-								<div id="comments">
-	
-		
-	
-	
-			<h2 id="comments-title">
-			13 comments		</h2>
-
-		
-		<ol class="commentlist">
-				<li class="comment byuser comment-author-nathanschneider even thread-even depth-1" id="li-comment-259892">
-		<article id="comment-259892" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='https://wagingnonviolence.org/author/nathanschneider/' rel='external nofollow' class='url'>Nathan Schneider</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-259892"><time pubdate datetime="2013-06-11T22:58:46+00:00">June 11, 2013 at 10:58 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>George had another great column on training last year: <a href="https://wagingnonviolence.org/feature/break-out-of-your-class-bubble-get-training-and-win/" rel="nofollow">https://wagingnonviolence.org/feature/break-out-of-your-class-bubble-get-training-and-win/</a></p>
-<p>Also, don&#8217;t miss Ken Butigan&#8217;s column early last year that lists lots and lots of training resources: <a href="https://wagingnonviolence.org/feature/ready-set-go/" rel="nofollow">https://wagingnonviolence.org/feature/ready-set-go/</a></p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-260201">
-		<article id="comment-260201" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont">Ali</span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-260201"><time pubdate datetime="2013-06-12T12:11:50+00:00">June 12, 2013 at 12:11 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Thanks for this article! I would love it if people could share recommendations of trainings, and experiences that they&#8217;ve had. </p>
-<p>Last summer, I attended the Sierra Student Coalition&#8217;s SPROG and the Responsible Endowments Coalition&#8217;s Summer Organizing Retreat, and learned a lot at each.</p>
-<p>SPROG is a week-long training that teaches a lot of basic organizing and campaigning skills. Its focussed on environmental organizing, but not exclusively so&#8211;a lot of the participants were doing other types of organizing. <a href="http://ssc.org/sprog" rel="nofollow">http://ssc.org/sprog</a></p>
-<p>REC&#8217;s training is for students who are doing activism around their school&#8217;s endowments. In addition to teaching you organizing skills, we learned a lot about how college and university endowments work, and how to build effective campaigns around them. <a href="http://www.endowmentethics.org/apply-now-2013-summer-organizing-retreat/" rel="nofollow">http://www.endowmentethics.org/apply-now-2013-summer-organizing-retreat/</a></p>
-<p>Both trainings were week-long, where all of the trainers and participants lived together, so in addition to learning skills in the workshops, we build fun relationships with each other, and got to learn a lot about what other organizers were up to. I&#8217;d recommend both if they seem relevant to your interests and you have the time.</p>
-<p>What sort of trainings do other people know about? Any recommendations?</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment even thread-even depth-1" id="li-comment-260685">
-		<article id="comment-260685" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://google' rel='external nofollow' class='url'>banpot thontiravong</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-260685"><time pubdate datetime="2013-06-13T04:22:36+00:00">June 13, 2013 at 4:22 am</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Appreciated your activist group<br />
-I have some experience of nonvioient action in Thailand to share with.<br />
-Glad to join.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-261002">
-		<article id="comment-261002" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont">Rick wayman</span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-261002"><time pubdate datetime="2013-06-13T16:17:30+00:00">June 13, 2013 at 4:17 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Check out Paul K. Chappell&#8217;s Peace Leadership workshop &#8211; <a href="http://www.beapeaceleader.org" rel="nofollow">http://www.beapeaceleader.org</a></p>
-<p>Paul is a West Point grad and former Army captain now working full time for peace with the Nuclear Age Peace Foundation.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment even thread-even depth-1" id="li-comment-261049">
-		<article id="comment-261049" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://plantowin.net.au/' rel='external nofollow' class='url'>Holly Hammond</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-261049"><time pubdate datetime="2013-06-13T17:20:27+00:00">June 13, 2013 at 5:20 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Many thanks for this George. </p>
-<p>As an activist educator I sometimes struggle to get groups to prioritise development by putting time and resources into it. Many movements have a culture of urgency and reaction &#8211; there often isn&#8217;t a lot of value placed on reflection, planning and learning. Your list will be handy for persuading folks to prioritise training. The more people experience it, the more they love it! </p>
-<p>In Australia we&#8217;re some years behind the US in terms of the number and diversity of movement support projects. I look forward to my work becoming much less peculiar to people and part of the scenery of flourishing movements and communities. </p>
-<p>For readers in Australia and Aotearoa/New Zealand check out:<br />
-Plan to Win <a href="http://plantowin.net.au" rel="nofollow">http://plantowin.net.au</a><br />
-the Change Agency <a href="http://www.thechangeagency.org" rel="nofollow">http://www.thechangeagency.org</a><br />
-the Kotare Trust <a href="http://www.kotare.org.nz" rel="nofollow">http://www.kotare.org.nz</a></p>
-<p>For more links to activist education projects see:<br />
-<a href="http://plantowin.net.au/resources/" rel="nofollow">http://plantowin.net.au/resources/</a></p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-261129">
-		<article id="comment-261129" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://Activism101.ning.com' rel='external nofollow' class='url'>Ice Goldberg</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-261129"><time pubdate datetime="2013-06-13T18:51:15+00:00">June 13, 2013 at 6:51 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Many resources about how activists organize listed here;<br />
-<a href="http://activism101.ning.com/profiles/blogs/how-activists-organize?overrideMobileRedirect=1" rel="nofollow">http://activism101.ning.com/profiles/blogs/how-activists-organize?overrideMobileRedirect=1</a></p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment even thread-even depth-1" id="li-comment-261221">
-		<article id="comment-261221" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont">JAMes warren</span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-261221"><time pubdate datetime="2013-06-13T20:33:27+00:00">June 13, 2013 at 8:33 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>George, I love stopping by to read the incredible information on peace tips and peace activism by you and your fellow contributors. You are making a difference in my life.</p>
-<p>When Jeremiah Wright&#8217;s video during the Obama campaign was released, he was seen saying &#8220;God damn America.&#8221; Most of the immature and ignorant reactivity provoked by his speech was from people who have forgotten human history. Wright was merely repeated what the great Old Testament prophets said to the Hebrew people: If we don&#8217;t stop where we are going we are going to wind up where we&#8217;re headed.</p>
-<p>I learn so much from your personal take on nonviolent strategies. My irrational hope is that, like President Dwight Eisenhower once said, some day people are going to rise up and demand peace so effectively that the government will have to get out of their way and let them have it.<br />
-If we could get more of the power structure to learn skillful communication techniques, negotiation and mediation skills and collaborative problem-solving, the efforts of the most activist among us will be easier because the real soil of the grassroots will be prepared in a new way.</p>
-<p>I used to be a journalist and I need to vent here. I have written a query letter to Waging Nonviolence about a short piece I had envisioned and have never heard back. I feel frustrated and angry about this because I enclosed a self-addressed envelop for their reply. I am an adult and can take the word &#8220;no&#8221; and I am just surprised that I did not get a reply.</p>
-<p>Otherwise, thank you George so much. Your writings always teach me something and lift my spirit of hope.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-261616">
-		<article id="comment-261616" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://pajoll.org' rel='external nofollow' class='url'>Denise Lang</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-261616"><time pubdate datetime="2013-06-14T09:30:06+00:00">June 14, 2013 at 9:30 am</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Fellowship of Reconciliation offers trainings periodically.  This is an inter-faith organization that has provided support &amp; training since WWI.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment even thread-even depth-1" id="li-comment-263360">
-		<article id="comment-263360" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://TRAINERSaLLIANCE.ORG' rel='external nofollow' class='url'>Lisa Fithian</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-263360"><time pubdate datetime="2013-06-16T22:47:00+00:00">June 16, 2013 at 10:47 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Great piece George, thank you for it.    Our collective ACT,the Alliance of Community Trainers, which hosts Earth Activist Trainings, Organizing for Power trainings and an array of others is so often overlooked.  Just wanted to share these resources as well.    <a href="http://organizingforpower.org/" rel="nofollow">http://organizingforpower.org/</a>, <a href="http://www.earthactivisttraining.org/" rel="nofollow">http://www.earthactivisttraining.org/</a>   thanks for all you do&#8230;.peace.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-264373">
-		<article id="comment-264373" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://www.emergentdiplomacy.org' rel='external nofollow' class='url'>Merle Lefkoff</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-264373"><time pubdate datetime="2013-06-18T02:13:00+00:00">June 18, 2013 at 2:13 am</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Our NGO, based in Santa Fe, New Mexico, does training and action research in the application of the principles of the new science of Complex Adaptive Systems to transforming the way diplomatic negotiations are conducted.  We are presently working with grass-roots activists in Israel and Palestine on new models for breaking impasse, as well as civil society activists around the world interested in applying Bhutan&#8217;s Gross National Happiness Index to the transformation of the global economic paradigm.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment even thread-even depth-1" id="li-comment-319691">
-		<article id="comment-319691" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont">Linda S</span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-319691"><time pubdate datetime="2013-08-07T16:26:34+00:00">August 7, 2013 at 4:26 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>I found training from the Midwest Academy (<a href="http://www.midwestacademy.com/" rel="nofollow">http://www.midwestacademy.com/</a> ) to be useful in learning strategies and, to some extent, connecting with and supporting other activists.  In my current work I strive to see more cohesion among advocates on environmental and animal issues, especially regarding saving companion animals rather than holding and killing them.  I appreciate the contextualization of activism and training for activism, and try to share that with the people I am working with.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-320985">
-		<article id="comment-320985" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://WWW.ECODHARMA.COM' rel='external nofollow' class='url'>guhyapati</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-320985"><time pubdate datetime="2013-08-08T10:52:17+00:00">August 8, 2013 at 10:52 am</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>You might find some of the courses we are developing in Catalunya relevant to several of the trainign aims listed above. We do a lot of work on the personal/interpersonal interface, and are running an ongoing program on activist sustainability and burn out. have alook at <a href="http://www.ecodharma.com/self-society-a-radical-response/self-society-a-radical-response---an-overview" rel="nofollow">http://www.ecodharma.com/self-society-a-radical-response/self-society-a-radical-response&#8212;an-overview</a></p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-	<li class="comment even thread-even depth-1" id="li-comment-322766">
-		<article id="comment-322766" class="comment">
-			<footer class="comment-meta">
-				<div class="comment-author vcard">
-					<span class="fn commentauthorid blue_text fancyfont"><a href='http://sustainingcommunity.wordpress.com' rel='external nofollow' class='url'>Graeme Stuart</a></span> <br /><a class="commentmeta" href="https://wagingnonviolence.org/feature/8-skills-of-a-well-trained-activist/#comment-322766"><time pubdate datetime="2013-08-09T18:45:58+00:00">August 9, 2013 at 6:45 pm</time></a>
-					
-				</div><!-- .comment-author .vcard -->
-
-				
-			</footer>
-
-			<div class="comment-content"><p>Thanks for a great article. A while ago I explored the implication of nonviolence for youth workers &#8211; not as activists but as youth workers. It was wonderful immersing myself in nonviolence literature. As part of the process I suggested 10 principles of nonviolence (<a href="http://sustainingcommunity.wordpress.com/2011/05/05/principles-of-nonviolence/" rel="nofollow">http://sustainingcommunity.wordpress.com/2011/05/05/principles-of-nonviolence/</a>). </p>
-<p>The idea of 17 days training on nonviolence sounds fantastic. Nonviolence has implications for some many aspects of our lives.</p>
-</div>
-
-			<div class="reply">
-							</div><!-- .reply -->
-		</article><!-- #comment-## -->
-
-	</li><!-- #comment-## -->
-		</ol>
-
-		
-	
-	
-
-</div><!-- #comments -->
-						</div>										
-					</div>
-
-					
-		</div>
-		
-		<div class="sidebar innerpages">
-
-
-
-
-	<div class="sidebar_module module headlines_module">
-	
-		<div class="module_title">
-			<h2>Top Headlines</h2>
-		</div>
-		
-		<div class="module_content">
-								<div class="one_column one_headline column1">
-							<div class="col_img"><a href="https://wagingnonviolence.org/feature/support-nonviolent-fighters-syria/"><img width="180" height="120" src="https://wagingnonviolence.org/wp-content/uploads/2017/04/syriaprotest-180x120.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://wagingnonviolence.org/wp-content/uploads/2017/04/syriaprotest-180x120.png 180w, https://wagingnonviolence.org/wp-content/uploads/2017/04/syriaprotest-300x199.png 300w, https://wagingnonviolence.org/wp-content/uploads/2017/04/syriaprotest-615x408.png 615w, https://wagingnonviolence.org/wp-content/uploads/2017/04/syriaprotest.png 742w" sizes="(max-width: 180px) 100vw, 180px" /></a></div>
-							<div class="col_data">
-								<h5 class="headline"><a href="https://wagingnonviolence.org/feature/support-nonviolent-fighters-syria/">Why support for Syria&#8217;s nonviolent fighters is key to ending the war</a></h5>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-					
-											<div class="one_column one_headline column2">
-							<div class="col_img"><a href="https://wagingnonviolence.org/feature/cosecha-day-without-immigrant-strike/"><img width="180" height="120" src="https://wagingnonviolence.org/wp-content/uploads/2017/04/16831198_1204320732996561_4710844440300359934_n-180x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a></div>
-							<div class="col_data">
-								<h5 class="headline"><a href="https://wagingnonviolence.org/feature/cosecha-day-without-immigrant-strike/">Meet the organizers behind the next &#8216;Day Without an Immigrant&#8217; strike</a></h5>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-					
-											<div class="one_column one_headline column3">
-							<div class="col_img"><a href="https://wagingnonviolence.org/2017/04/alt-right-trump-break/"><img width="180" height="120" src="https://wagingnonviolence.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-17-at-11.12.44-AM-180x120.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a></div>
-							<div class="col_data">
-								<h5 class="headline"><a href="https://wagingnonviolence.org/2017/04/alt-right-trump-break/">As the &#8216;alt-right&#8217; breaks from Trump, so goes its moment in the sun</a></h5>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-					
-										
-		</div>
-		
-	</div>	
-	
-
-	<div class="sidebar_module module ad_module location_AdLocation_sidebar1 sidebar_ad">
-							<div class="debug"></div>
-					<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
-<!-- Top article ad --><br />
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1112344357250973"
-     data-ad-slot="8397713448"
-     data-ad-format="auto"></ins><br />
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>
-									
-		<div class="clearfix"></div>
-	</div>	
-	
-
-	<div class="sidebar_module module popular_posts">
-	
-		<div class="module_title">
-			<h2>Most Commented</h2>
-		</div>
-		
-		<div class="module_content">
-			<!--<ul class="menu_horizontal fancyfont">
-			<li><a class="tab_clicker opened_tab_clicker" href="#shared">Shared</a></li>
-				<li><a class="tab_clicker" href="#commented">Commented</a></li>
-			</ul>
-			-->
-			<div class="tab_holder">
-			<!--	<div class="populartab" id="shared">
-					
-									</div>
-				-->
-				
-				<div class="populartab" id="commented">
-													<div class="popular_result result1">
-									<h5 class="headline"><a href="https://wagingnonviolence.org/feature/preparing-next-movement-moment-smucker-hegemony/">Preparing for the next &#8216;movement moment&#8217;</a></h5>
-									<div class="comment_display results_comment fancyfont result_module"><a href="https://wagingnonviolence.org/feature/preparing-next-movement-moment-smucker-hegemony/#comments">3 Comments</a></div>
-								</div>											
-													<div class="popular_result result2">
-									<h5 class="headline"><a href="https://wagingnonviolence.org/2017/04/alt-right-trump-break/">As the &#8216;alt-right&#8217; breaks from Trump, so goes its moment in the sun</a></h5>
-									<div class="comment_display results_comment fancyfont result_module"><a href="https://wagingnonviolence.org/2017/04/alt-right-trump-break/#comments">3 Comments</a></div>
-								</div>											
-													<div class="popular_result result3">
-									<h5 class="headline"><a href="https://wagingnonviolence.org/feature/support-nonviolent-fighters-syria/">Why support for Syria&#8217;s nonviolent fighters is key to ending the war</a></h5>
-									<div class="comment_display results_comment fancyfont result_module"><a href="https://wagingnonviolence.org/feature/support-nonviolent-fighters-syria/#comments">2 Comments</a></div>
-								</div>											
-							
-				
-				</div>												
-
-
-			
-			</div>
-		</div>
-		
-	</div>
-	
-
-		<div class="sidebar_module module author_module">
-		
-			<div class="module_title">
-				<h2>More By George Lakey</h2>
-			</div>
-			
-			<div class="module_content">
-										
-								<h5 class="headline"><a href="https://wagingnonviolence.org/feature/preparing-next-movement-moment-smucker-hegemony/">Preparing for the next &#8216;movement moment&#8217;</a></h5>
-
-										
-								<h5 class="headline"><a href="https://wagingnonviolence.org/feature/sweden-riots-economic-inequality-racism-immigrants/">Inequality is the real backstory to Sweden&#8217;s riots</a></h5>
-
-										
-								<h5 class="headline"><a href="https://wagingnonviolence.org/feature/stop-trump-10-point-strategy/">A 10-point plan to stop Trump and make gains in justice and equality</a></h5>
-
-						
-			</div>
-			
-		</div>	
-		
-	
-	<div class="sidebar_module module blog_modules sidebar_blog_archive">
-	
-		<div class="module_title">
-			<h2>Blog</h2>
-		</div>
-		
-		<div class="module_content">
-								<div class="blog_result result post">
-
-						<h4 class="headline result_module"><a href="https://wagingnonviolence.org/2017/04/alt-right-trump-break/">As the &#8216;alt-right&#8217; breaks from Trump, so goes its moment in the sun</a></h4>
-						<div class="result_author fancyfont result_module"><a href="https://wagingnonviolence.org/author/shaneburley/" title="Posts by Shane Burley" rel="author">Shane Burley</a></div>
-						<div class="result_date fancyfont result_module">April 17, 2017</div>
-						<div class="results_comment fancyfont result_module"><a class="comment_display comment_display_right" href="https://wagingnonviolence.org/2017/04/alt-right-trump-break/#comments">3</a></div>
-						<div class="clearfix"></div>
-					</div>			
-	
-								<div class="blog_result result post">
-
-						<h4 class="headline result_module"><a href="https://wagingnonviolence.org/2017/04/police-solidarity-syrian-people/">What a policy of real solidarity with the Syrian people looks like</a></h4>
-						<div class="result_author fancyfont result_module"><a href="https://wagingnonviolence.org/author/jamestrimarco/" title="Posts by James Trimarco" rel="author">James Trimarco</a></div>
-						<div class="result_date fancyfont result_module">April 10, 2017</div>
-						<div class="results_comment fancyfont result_module"><a class="comment_display comment_display_right" href="https://wagingnonviolence.org/2017/04/police-solidarity-syrian-people/#comments">1</a></div>
-						<div class="clearfix"></div>
-					</div>			
-	
-								<div class="blog_result result post">
-
-						<h4 class="headline result_module"><a href="https://wagingnonviolence.org/2017/03/satirical-candidate-president-serbia/">Satirical candidate for president awakens Serbian youth</a></h4>
-						<div class="result_author fancyfont result_module"><a href="https://wagingnonviolence.org/author/sarahfreemanwoolpert/" title="Posts by Sarah Freeman-Woolpert" rel="author">Sarah Freeman-Woolpert</a></div>
-						<div class="result_date fancyfont result_module">March 31, 2017</div>
-						<div class="results_comment fancyfont result_module"><a class="comment_display comment_display_right" href="https://wagingnonviolence.org/2017/03/satirical-candidate-president-serbia/#comments">2</a></div>
-						<div class="clearfix"></div>
-					</div>			
-	
-								<div class="blog_result result post">
-
-						<h4 class="headline result_module"><a href="https://wagingnonviolence.org/2017/03/denmark-refugees-support-deportation-lockdowns/">Danes confront deportations with lockdowns and refugee support</a></h4>
-						<div class="result_author fancyfont result_module"><a href="https://wagingnonviolence.org/author/philwilmot/" title="Posts by Phil Wilmot" rel="author">Phil Wilmot</a></div>
-						<div class="result_date fancyfont result_module">March 2, 2017</div>
-						<div class="results_comment fancyfont result_module"><a class="comment_display comment_display_right" href="https://wagingnonviolence.org/2017/03/denmark-refugees-support-deportation-lockdowns/#comments">1</a></div>
-						<div class="clearfix"></div>
-					</div>			
-	
-								<div class="blog_result result post">
-
-						<h4 class="headline result_module"><a href="https://wagingnonviolence.org/2017/02/conversation-zimbabwe-protest-pastor-evan-mawarire/">&#8216;Our challenges are bigger than Mugabe&#8217; — a conversation with Zimbabwe’s &#8216;protest pastor&#8217; Evan Mawarire</a></h4>
-						<div class="result_author fancyfont result_module"><a href="https://wagingnonviolence.org/author/philwilmot/" title="Posts by Phil Wilmot" rel="author">Phil Wilmot</a></div>
-						<div class="result_date fancyfont result_module">February 22, 2017</div>
-						<div class="results_comment fancyfont result_module"><a class="comment_display comment_display_right" href="https://wagingnonviolence.org/2017/02/conversation-zimbabwe-protest-pastor-evan-mawarire/#comments">1</a></div>
-						<div class="clearfix"></div>
-					</div>			
-	
-								<div class="blog_result result post">
-
-						<h4 class="headline result_module"><a href="https://wagingnonviolence.org/2017/02/community-makes-big-struggles-possible/">Having community makes big struggles possible</a></h4>
-						<div class="result_author fancyfont result_module"><a href="https://wagingnonviolence.org/author/kirstenhan/" title="Posts by Kirsten Han" rel="author">Kirsten Han</a></div>
-						<div class="result_date fancyfont result_module">February 8, 2017</div>
-						<div class="results_comment fancyfont result_module"><a class="comment_display comment_display_right" href="https://wagingnonviolence.org/2017/02/community-makes-big-struggles-possible/#comments">1</a></div>
-						<div class="clearfix"></div>
-					</div>			
-	
-				
-		</div>
-		
-		<div class="multimedia_bar">
-			<ul class="menu_horizontal fancyfont">
-				<li class="last_one"><a class="fancyfont" href="https://wagingnonviolence.org/archives/?all=post">More Blog Posts</a></li>
-			</ul>
-			<div class="clearfix"></div>
-		</div>	
-					
-		
-		
-		
-	</div>
-	
-
-	<div class="sidebar_module module get_involved">
-	
-		<div class="module_title">
-			<h2>Get Involved</h2>
-		</div>
-		
-		<div class="module_content">
-			<div class="sidebar_module module">
-									
-					<div class="module_page donate_module">
-						<p>If you have an interest in promoting stories of nonviolence, building this community and correcting the mainstream media’s misrepresentation of nonviolent action, please consider donating to <em>Waging Nonviolence</em>.	</p>
-						<a class="button blue_bg shadow_module fancyfont" href="https://wagingnonviolence.org/support/donate/">Donate</a>
-					</div>				
-										
-					<div class="module_page membership_module">
-						<p>If you’d like to develop a more ongoing supporting relationship with <em>WNV</em>, consider joining our membership program instead of making a one-time donation.	</p>
-						<a class="button orange_bg shadow_module fancyfont" href="https://wagingnonviolence.org/support/membership/">Become a Member</a>
-					</div>
-			</div>	
-					
-		</div>
-		
-	</div>	
-	
-
-	<div class="sidebar_module module columns_module">
-	
-		<div class="module_title">
-			<h2>Columns</h2>
-		</div>
-		
-		<div class="module_content">
-							<div class="one_column columncolumn">
-						<div class="col_img"><a href="https://wagingnonviolence.org/column/little-insurrections"><img src="https://wagingnonviolence.org/wp-content/uploads/2013/02/sketch1_v23.jpg" alt="WNV Column Little Insurrections" /></a></div>
-						<div class="col_data">
-							<h5 class="headline"><a href="https://wagingnonviolence.org/column/little-insurrections">Little Insurrections</a></h5>
-							<p class="column_description">by Frida Berrigan </p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									<div class="one_column columncolumn">
-						<div class="col_img"><a href="https://wagingnonviolence.org/column/living-revolution"><img src="https://wagingnonviolence.org/wp-content/uploads/2013/02/Lakey_sketch_v2-68x75.jpg" alt="WNV Column Living Revolution" /></a></div>
-						<div class="col_data">
-							<h5 class="headline"><a href="https://wagingnonviolence.org/column/living-revolution">Living Revolution</a></h5>
-							<p class="column_description">by George Lakey</p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									<div class="one_column columncolumn">
-						<div class="col_img"><a href="https://wagingnonviolence.org/column/the-arts-of-protest"><img src="https://wagingnonviolence.org/wp-content/uploads/2013/02/nadine-sketch2-75x73.jpg" alt="WNV Column The Arts of Protest" /></a></div>
-						<div class="col_data">
-							<h5 class="headline"><a href="https://wagingnonviolence.org/column/the-arts-of-protest">The Arts of Protest</a></h5>
-							<p class="column_description">by Nadine Bloch</p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									
-		</div>
-		
-	</div>	
-	
-
-	<div class="sidebar_module module ad_module location_AdLocation_sidebar2 sidebar_ad">
-							<div class="debug"></div>
-					<p><a href="https://wagingnonviolence.org/support/membership/"><img class="alignnone size-full wp-image-28827" src="https://wagingnonviolence.org/wp-content/uploads/2013/04/joinusad-310.jpg" alt="Image by Itzy Ramirez." width="310" height="261" srcset="https://wagingnonviolence.org/wp-content/uploads/2013/04/joinusad-310.jpg 310w, https://wagingnonviolence.org/wp-content/uploads/2013/04/joinusad-310-300x252.jpg 300w" sizes="(max-width: 310px) 100vw, 310px" /></a></p>
-									
-		<div class="clearfix"></div>
-	</div>	
-	
-
-	<div class="sidebar_module experiment_module">
-		<div class="module_title">
-			<h2>Experiments with Truth</h2>
-		</div>
-		
-		<div class="module_content module_experiments_news">
-			<h3>News</h3>
-			
-			<div class="experiment_container scrolling_pane">
-								
-						<h5 class="serif_text experiments_title"><a href="https://wagingnonviolence.org/experiments/people-across-us-gather-to-protest-recent-police-shootings/">People across US gather to protest recent police shootings</a></h5>		
-								
-						<h5 class="serif_text experiments_title"><a href="https://wagingnonviolence.org/experiments/%ef%bb%bf-wnba-teams-show-what-black-lives-matter-solidarity-looks-like/">﻿ WNBA teams show what Black Lives Matter solidarity looks like</a></h5>		
-								
-						<h5 class="serif_text experiments_title"><a href="https://wagingnonviolence.org/experiments/photo-of-young-womans-arrest-in-baton-rouge-becomes-viral-symbol-for-racial-justice/">Photo of woman being arrested in Baton Rouge becomes viral symbol</a></h5>		
-								
-						<h5 class="serif_text experiments_title"><a href="https://wagingnonviolence.org/experiments/former-guard-launches-hunger-strike-to-protest-private-prison-company/">Former guard launches hunger strike to protest private prison company</a></h5>		
-								
-						<h5 class="serif_text experiments_title"><a href="https://wagingnonviolence.org/experiments/job-boycott-shuts-down-much-of-zimbabwe-as-discontent-grows/">Job boycott shuts down much of Zimbabwe as discontent grows</a></h5>		
-								
-						<h5 class="serif_text experiments_title"><a href="https://wagingnonviolence.org/experiments/chilcot-report-protests-in-westminster-as-seven-year-iraq-inquiry-wait-comes-to-end/">Protests in London as seven-year Iraq Inquiry wait comes to end</a></h5>		
-											
-			
-			</div>
-
-		</div>			
-		
-		<div class="module_content module_experiments_analysis">
-			<h3>Analysis</h3>
-			
-			<div class="experiment_container scrolling_pane">
-								
-						<h5 class="serif_text experiments_title analysis_title"><a href="https://wagingnonviolence.org/experiments/why-black-lives-matter-has-gained-momentum-in-a-country-where-police-shootings-are-rare/">Why Black Lives Matter has gained momentum in Britain &#8211; a country where police shootings are rare</a></h5>		
-								
-						<h5 class="serif_text experiments_title analysis_title"><a href="https://wagingnonviolence.org/experiments/what-the-media-got-wrong-about-the-house-sit-in-for-gun-control/">What the media got wrong about the House sit-in for gun control</a></h5>		
-								
-						<h5 class="serif_text experiments_title analysis_title"><a href="https://wagingnonviolence.org/experiments/black-and-proud-from-black-power-to-black-lives-matter/">From Black Power to Black Lives Matter</a></h5>		
-								
-						<h5 class="serif_text experiments_title analysis_title"><a href="https://wagingnonviolence.org/experiments/neil-young-says-there-is-no-place-to-play-protest-songs/">Neil Young says there is no place to play protest songs today</a></h5>		
-								
-						<h5 class="serif_text experiments_title analysis_title"><a href="https://wagingnonviolence.org/experiments/the-value-of-protesting-bernie-sanders/">The value of protesting Bernie Sanders</a></h5>		
-								
-						<h5 class="serif_text experiments_title analysis_title"><a href="https://wagingnonviolence.org/experiments/how-could-they/">How could they?</a></h5>		
-											
-			
-			</div>
-		</div>
-		
-		<div class="multimedia_bar">
-			<ul class="menu_horizontal fancyfont">
-				<li class="last_one"><a class="fancyfont" href="https://wagingnonviolence.org/archives/?all=experiments">More Experiments</a></li>
-			</ul>
-			<div class="clearfix"></div>
-		</div>	
-		
-		
-		
-	</div>
-	
-
-	<div class="fp_module series_module">
-	
-		<div class="module_title">
-			<h2>Series</h2>
-		</div>
-		
-		<div class="module_content">
-							<div class="one_column one_series">
-						<div class="col_img"><a href="https://wagingnonviolence.org/series/longform"><img src="https://wagingnonviolence.org/wp-content/uploads/2014/05/Tribal-leaders-at-Reject-and-Protect-180x120.jpg" alt="WNV Series Longform" /></a></div>
-						<div class="col_data">
-							<h5 class="headline bold"><a href="https://wagingnonviolence.org/series/longform">Longform</a></h5>
-							<p class="series_description">In-depth storytelling that captures the universal human drama of people building power from the ground up.</p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									<div class="one_column one_series">
-						<div class="col_img"><a href="https://wagingnonviolence.org/series/we-are-many"><img src="https://wagingnonviolence.org/wp-content/uploads/2013/12/WeAreManyRectangleSeries2-180x120.png" alt="WNV Series We Are Many" /></a></div>
-						<div class="col_data">
-							<h5 class="headline bold"><a href="https://wagingnonviolence.org/series/we-are-many">We Are Many</a></h5>
-							<p class="series_description">A podcast about people working for change and how that work, in turn, changes them. Subscribe on <a href="https://itunes.apple.com/us/podcast/waging-nonviolence-podcast/id726574920">iTunes</a>, <a href="http://www.stitcher.com/podcast/waging-nonviolence">Stitcher</a>, <a href="http://tunein.com/radio/We-Are-Many-p654436">Tune In</a> and <a href="https://www.prx.org/series/34374-we-are-many">PRX</a> or by <a href="http://feeds.soundcloud.com/users/soundcloud:users:59629355/sounds.rss">RSS</a>.</p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									<div class="one_column one_series">
-						<div class="col_img"><a href="https://wagingnonviolence.org/series/beautiful-trouble"><img src="https://wagingnonviolence.org/wp-content/uploads/2014/01/hammerhorn-rec.jpg" alt="WNV Series Beautiful Trouble" /></a></div>
-						<div class="col_data">
-							<h5 class="headline bold"><a href="https://wagingnonviolence.org/series/beautiful-trouble">Beautiful Trouble</a></h5>
-							<p class="series_description">The people who brought you <a href="http://beautifultrouble.org/">Beautiful Trouble</a> track the new creative edge emerging among movements across the globe. </p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									<div class="one_column one_series">
-						<div class="col_img"><a href="https://wagingnonviolence.org/series/beyond-borders"><img src="https://wagingnonviolence.org/wp-content/uploads/2014/03/border-fence-WNV-180x120.jpg" alt="WNV Series Beyond Borders" /></a></div>
-						<div class="col_data">
-							<h5 class="headline bold"><a href="https://wagingnonviolence.org/series/beyond-borders">Beyond Borders</a></h5>
-							<p class="series_description">Through provocative and courageous action, immigrants are challenging the very existence of the border.  </p>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				
-									
-		</div>
-
-	</div>
-	
-
-	<div class="clearfix"></div> 
-
-</div>
-
-<div class="clearfix"></div> 		
-	</div>
-	
-	<div class="clearfix"></div>
-
-
-	
-			<div id="footer">
-				
-				
-<div class="footer_inner">
-
-	<div class="footermenu fancyfont menu_horizontal">
-			<ul id="menu-footer" class="menu"><li id="menu-item-26516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-26516"><a href="https://wagingnonviolence.org">Home</a></li>
-<li id="menu-item-21428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21428"><a href="https://wagingnonviolence.org/about/">About</a></li>
-<li id="menu-item-21479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21479"><a href="https://wagingnonviolence.org/support/">Support</a></li>
-<li id="menu-item-26761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26761"><a href="https://wagingnonviolence.org/feeds/">Subscribe</a></li>
-<li id="menu-item-33416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33416"><a href="https://wagingnonviolence.org/feed/">Feed</a></li>
-<li id="menu-item-33001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33001"><a href="https://wagingnonviolence.org/terms-use/">Terms of Use</a></li>
-<li id="menu-item-21438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21438"><a href="https://wagingnonviolence.org/about/contact/">Contact</a></li>
-</ul>	</div>	
-
-	<div class="sitecredits">
-		<p><em>Waging Nonviolence</em> content falls under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a></p>
-		<p><a href="http://social-ink.net" title="This site proudly designed and developed by Social Ink, Brooklyn-based outfit that works with nonprofits & foundations, educators & creatives and businesses large and small.">Site designed and developed by Social Ink</a> <a href="https://plus.google.com/114408881998058377701" rel="publisher">[+]</a></p>
-	</div>
-	
-
-	 
-
-</div>
-			</div>
-			
-							<script type="text/javascript">
-				jQuery(document).ready(function($) {
-					jQuery('#dc_jqmegamenu_widget-2-item .menu').dcMegaMenu({
-						rowItems: 1,
-						subMenuWidth: '',
-						speed: 'fast',
-						effect: 'fade',
-						event: 'click'
-											});
-				});
-			</script>
-		
-			<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=4.7.4'></script>
-<script type='text/javascript' src='https://wagingnonviolence.org/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
-<script type='text/javascript' src='https://wagingnonviolence.org/wp-includes/js/comment-reply.min.js?ver=4.7.4'></script>
-
-			</div> <!-- close the white body container div -->
-		
-		</div> <!-- close the container div -->
-
-	</body>
-
+</body>
 </html>

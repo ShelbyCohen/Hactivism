@@ -1,628 +1,488 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-<head>
-    <title>APPO - A New Social Movement In Oaxaca - New Social Movements</title>
-    
-    
-    
-    <script type='text/javascript'>
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head> 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5140834233256479",
+    enable_page_level_ads: true
+  });
 </script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.pulsamerica.co.uk/xmlrpc.php" />
+<title>Mexico: Revisiting the 2006 Oaxaca uprising | Pulsamerica: Impartial, Direct, Independent | The Impartial Latin American News Magazine</title>
 
-<script type='text/javascript'>
-googletag.cmd.push(function() {
-    // DEFINE DFP SLOTS
-googletag.defineSlot('/1030917/wikidot_free_sites_top_728x90', [728, 90], 'div-gpt-ad-1410946564449-1').addService(googletag.pubads());
-googletag.defineSlot('/1030917/wikidot_free_sites_bottom_300x250', [300, 250], 'div-gpt-ad-1410946564449-0').addService(googletag.pubads());
-googletag.defineOutOfPageSlot('/1030917/out_of_page', 'div-gpt-ad-1411637977813-0-oop').addService(googletag.pubads());
+<!-- This site is optimized with the Yoast SEO plugin v3.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The formation of the Popular Assembly of the Peoples of Oaxaca was at the centre of the 2006 Oaxaca uprising that aimed to oust the Oaxacan governor Ulises Ruíz form power."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.pulsamerica.co.uk/2015/09/mexico-revisiting-the-2006-oaxaca-uprising/" />
+<!-- / Yoast SEO plugin. -->
 
-// googletag.pubads().enableSingleRequest();
-googletag.pubads().collapseEmptyDivs(true, true);
-googletag.pubads().setTargeting("w_name", "latinamericansocialmovements");
-googletag.pubads().setTargeting("w_domain", "com.wikidot.latinamericansocialmovements");
-googletag.pubads().setTargeting("w_verified", "false");
-if(null){googletag.pubads().setTargeting("w_cats", null);}
-if(false){googletag.pubads().setTargeting("w_mn", "true");}
-googletag.enableServices();
-});
-</script>
-<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--javascript/init.combined.js"></script>
-    <script  type="text/javascript">
-        var URL_HOST = 'www.wikidot.com';
-        var URL_DOMAIN = 'wikidot.com';
-        var USE_SSL =  true ;
-        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba';
-        // global request information
-        
-        var WIKIREQUEST = {};
-        WIKIREQUEST.info = {};
-        
-        WIKIREQUEST.info.domain = "latinamericansocialmovements.wikidot.com";
-        WIKIREQUEST.info.siteId = 109360;
-        WIKIREQUEST.info.siteUnixName = "latinamericansocialmovements";
-        WIKIREQUEST.info.categoryId = 604192;
-        WIKIREQUEST.info.themeId = 56;
-        WIKIREQUEST.info.requestPageName = "appo-a-new-social-movement-in-oaxaca";
-        OZONE.request.timestamp = 1493157836;
-        OZONE.request.date = new Date();
-        WIKIREQUEST.info.lang = 'en';
-                WIKIREQUEST.info.pageUnixName = "appo-a-new-social-movement-in-oaxaca";
-        WIKIREQUEST.info.pageId = 3400518;
-                        WIKIREQUEST.info.lang = "en";
-        OZONE.lang = "en";
-        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    </script>
-    
-    
-
-
-    
-        <script  type="text/javascript">
-    
-        require.config({
-            baseUrl: URL_STATIC + '/common--javascript',
-            paths: {
-                'jquery.ui': 'jquery-ui.min',
-                'jquery.form': 'jquery.form'
-            }
-        });
-    
-    </script>
-    
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
-            
-    
-    
-    
-    
-    <meta http-equiv="content-language" content="en"/>
-    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--javascript/WIKIDOT.combined.js"></script>
-        
-    
-    <style type="text/css">
-body {
-  background-position: center 24px;
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PULSAMERICA &raquo; Feed" href="http://www.pulsamerica.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PULSAMERICA &raquo; Comments Feed" href="http://www.pulsamerica.co.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.pulsamerica.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
 </style>
-<style type="text/css" id="internal-style">
-        
-        /* modules */
-        
-                
-        /* theme */
-                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
-                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/co/css/style.css);
-            </style>
-    
-        
-        
-        
-    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
-    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
-    
-            <link rel="apple-touch-icon" href="/common--images/apple-touch-icon-57x57.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="/common--images/apple-touch-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="/common--images/apple-touch-icon-114x114.png" />
-        
-        
-            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
-    
-        <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-18234656-1']);
-        _gaq.push(['_setDomainName', 'none']);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_trackPageview']);
-
-        _gaq.push(['old._setAccount', 'UA-68540-5']);
-        _gaq.push(['old._setDomainName', 'none']);
-        _gaq.push(['old._setAllowLinker', true]);
-        _gaq.push(['old._trackPageview']);
-
-            </script>
-    
-    <script type="text/javascript">
-        window.google_analytics_uacct = 'UA-18234656-1';
-        window.google_analytics_domain_name = 'none';
-    </script>
-    
-    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--modules/js/misc/NewPageHelperModule.js"></script>
-</head>
-<body id="html-body">
-<div id="skrollr-body">
-<a name="page-top"></a>
-<div id="navi-bar">
-  <a class="logo" href="http://www.wikidot.com">
-    <span>Wikidot.com</span>
-  </a>
-  
-  <div class="new-site">
-    <form method="get" action="http://www.wikidot.com/new-site">
-      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
-    </form>
-  </div>
-  
-    <div class="share">
-    <span>Share on</span>
-    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
-      title="Share on Twitter"
-    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--images/social/twitter.png" alt="twitter"/></a>  
-    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
-      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--images/social/facebook.gif" alt="Facebook"
-      /></a>  
-    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
-      title="Share on Delicious"
-      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--images/social/delicious.png" alt="Delicious"/></a>
-    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
-      title="Post to Digg"
-      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--images/social/digg.png" alt="Digg"/></a>
-    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
-      title="Post to Reddit"
-      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
-    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
-      title="Post to StumbleUpon"
-      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
-  </div>
-    
-      <a class="join" href="javascript:;" onclick="WIKIDOT.page.listeners.join(event, 'unified')">Join this site</a>
-    
-      <div class="action-buttons">
-      <a href="javascript:;" onclick="WIKIDOT.page.listeners.editClick(event)"
-      title="Click here to edit contents of this page.">Edit</a>
-      <a href="javascript:;" onclick="WIKIDOT.page.listeners.historyClick(event)"
-      title="Check out how this page has evolved in the past.">History</a>
-      <a href="javascript:;" onclick="WIKIDOT.page.listeners.editTags(event)"
-      title="Edit tags for this page.">Tags</a>
-      <a href="javascript:;" onclick="WIKIDOT.page.listeners.viewSourceClick(event)"
-      title="View wiki source for this page without editing.">Source</a>
-    </div>
-    
-  <a class="random-site" href="/random-site.php"
-  title="Go to a random Wikidot site.">Explore &raquo;</a>
-  </div>
-<div id="navi-bar-shadow">&nbsp;</div>
-
-
+<link rel='stylesheet' id='email-subscription_css-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/email-subscription/assets/email-subscription.css?ver=0.50' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='social_comments-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/social/assets/comments.css?ver=3.1.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='mh-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Oswald:400,700,300|PT+Serif:400,400italic,700,700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-font-awesome-css'  href='http://www.pulsamerica.co.uk/wp-content/themes/mh-newsdesk-lite/includes/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-style-css'  href='http://www.pulsamerica.co.uk/wp-content/themes/mh-newsdesk-lite/style.css?ver=1.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-cpl-base-css-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-theme.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_cpl_css_0-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-light.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_cpl_css_1-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-dark.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_cpl_css_2-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-giant-gold-fish.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_cpl_css_3-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-adrift-in-dreams.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://www.pulsamerica.co.uk/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal disabled - https://www.monsterinsights.com/ -->
 <script type="text/javascript">
-  //<![CDATA[
-  $j(function(){
-    var uri = window.location.href;
-    var title = document.title
-    
-    $j('#navi-bar .share a').each(function(){
-      $t = $j(this);
-      var u = $t.attr('href');
-      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
-      $t.attr('href', u);
-    });
-    
-    $j('#navi-bar .share .facebook').click(function(e){
-      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
-      e.preventDefault();
-    });
-    $j('#navi-bar .share .delicious').click(function(e){
-      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
-      e.preventDefault();
-    });
-  });
-  
-	$j('#navi-bar .new-site form').submit(function(e){
-	  e.preventDefault();
-	  var $i = $j('#navi-bar .new-site form input.text');
-	  if($i.hasClass('empty')){
-	    	var w = new OZONE.dialogs.ErrorDialog();
-  			w.content = "You need to enter a valid web address for your new wiki.";
-  			w.show();
-  			return;
-    }
-    var siteName = $i.attr('value');
-    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
-		var p = {};
-		p.action = 'wiki/special/NewWikiWidgetAction';
-		p.event = 'newWiki';
-		p.siteName = siteName;
-		OZONE.ajax.requestModule(null, p, function(r){
-		  if(r.status == 'site_exists'){
-		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
-		    return;
-		  }
-		  if(!WIKIDOT.utils.handleError(r)) {return;}
-  		// seems fine.
-  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
-		});
-	});
-	$j('#navi-bar .new-site form input.text').focus(function(){
-	  var $t = $j(this);
-	  if($t.hasClass('empty')){
-	    $t.removeClass('empty');
-	    $t.attr('value', '');
-	  }
-	});
-	//]]>
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-19855111-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
 </script>
-
-
-<div id="container-wrap-wrap">
-    <div id="container-wrap">
-        <div id="container">
-            <div id="header">
-              <h1><a href="/"><span>New Social Movements</span></a></h1>
-                
-                    <h2><span>Latin American Social Movements and Neoliberalism</span></h2>
-                
-                
-                <!-- google_ad_section_start(weight=ignore) -->
-                
-                <div id="search-top-box" class="form-search">
-    <form id="search-top-box-form" action="dummy" class="input-append">
-        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
-    </form>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://www.pulsamerica.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.pulsamerica.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.pulsamerica.co.uk/wp-content/themes/mh-newsdesk-lite/js/scripts.js?ver=4.6.5'></script>
+<link rel='https://api.w.org/' href='http://www.pulsamerica.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pulsamerica.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pulsamerica.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.5" />
+<link rel='shortlink' href='http://www.pulsamerica.co.uk/?p=31798' />
+<link rel="alternate" type="application/json+oembed" href="http://www.pulsamerica.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pulsamerica.co.uk%2F2015%2F09%2Fmexico-revisiting-the-2006-oaxaca-uprising%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.pulsamerica.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pulsamerica.co.uk%2F2015%2F09%2Fmexico-revisiting-the-2006-oaxaca-uprising%2F&#038;format=xml" />
+<meta name="description" content="March during the 2006 Oaxaca uprising Source: https://www.indymedia.org/images/2006/11/875600.jpg Tall palms cast shadows over the broad central square of" />
+<meta name="keywords" content="2006,appo,calderón,fox,human rights,marcha de las cacerolas,media,mexico,oaxaca,pan,pfp,pri,radio,sección 22,snte,ulises ruíz,uprising" />
+<link rel="canonical" href="http://www.pulsamerica.co.uk/2015/09/mexico-revisiting-the-2006-oaxaca-uprising/" />
+<meta name="google-site-verification" content="3DfOEky3xN2X-QQtYWqzeBCqxn-279-eieSRCLy3C68" /><meta name="google-site-verification" content="3DfOEky3xN2X-QQtYWqzeBCqxn-279-eieSRCLy3C68" /><!--[if lt IE 9]>
+<script src="http://www.pulsamerica.co.uk/wp-content/themes/mh-newsdesk-lite/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2f2f2; }
+</style>
+<link rel="icon" href="http://www.pulsamerica.co.uk/wp-content/uploads/2016/02/cropped-pulsamerica-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.pulsamerica.co.uk/wp-content/uploads/2016/02/cropped-pulsamerica-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.pulsamerica.co.uk/wp-content/uploads/2016/02/cropped-pulsamerica-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.pulsamerica.co.uk/wp-content/uploads/2016/02/cropped-pulsamerica-270x270.jpg" />
+<meta data-pso-pv="1.2.1" data-pso-pt="singlePost" data-pso-th="706e01539d32531007207702d7c933b7"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script pagespeed_no_defer="" data-pso-version="20170403_083938">window.dynamicgoogletags={config:[]};dynamicgoogletags.config=["ca-pub-5140834233256479",[[[["DIV",null,null,["tagcloud"]],["10px","10px",0],3,[0],"3448049143",0,null,null,7]]],[[[],[[["BODY",0,null,[]],["10px","10px",1],1,[4],null,0,null,null,2],[["BODY",0,null,[]],["10px","10px",1],2,[5],null,0,null,null,2],[["DIV",null,"mh-wrapper",[]],["10px","10px",1],2,[5],null,0,null,null,3],[["DIV",null,"mh-wrapper",[]],["10px","10px",1],3,[5],null,0,null,null,3],[["HEADER",0,null,[]],["10px","10px",1],0,[4],null,0,null,null,4],[["HEADER",0,null,[]],["10px","30px",1],3,[2],null,0,null,null,4],[["DIV",null,null,["slicknav_menu"]],["10px","10px",1],0,[2],null,0,null,null,6],[["DIV",null,null,["slicknav_menu"]],["10px","10px",1],1,[2],null,0,null,null,6],[["DIV",null,"main-content",[]],["10px","10px",1],3,[1],null,0,null,null,5],[["DIV",null,null,["author-box-desc"]],["10px","10px",1],3,[1],null,0,null,null,7],[["DIV",null,"emailSub-widget",[]],["10px","10px",1],3,[1],null,0,null,null,7],[["DIV",null,null,["tagcloud"]],["10px","10px",1],3,[1],null,0,null,null,7],[["DIV",null,null,["wrapper-inner"]],["10px","10px",1],0,[5],null,0,null,null,4],[["DIV",null,null,["wrapper-inner"]],["10px","10px",1],3,[5],null,0,null,null,4],[["ARTICLE",0,null,[],1],["10px","20px",0],0,[0],null,0,null,null,8],[["ARTICLE",0,null,[],2],["10px","20px",0],0,[0],null,0,null,null,8],[["ARTICLE",0,null,[],3],["10px","20px",0],0,[0],null,0,null,null,8],[["ARTICLE",0,null,[],-1],["10px","20px",0],3,[0],null,0,null,null,8],[["ARTICLE",1,null,[],1],["10px","10px",0],0,[0],null,0],[["ARTICLE",1,null,[],2],["10px","10px",0],0,[0],null,0],[["ARTICLE",1,null,[],3],["10px","10px",0],0,[0],null,0],[["ARTICLE",1,null,[],-1],["10px","10px",0],3,[0],null,0],[["ARTICLE",2,null,[],1],["10px","10px",0],0,[0],null,0],[["ARTICLE",2,null,[],2],["10px","10px",0],0,[0],null,0],[["ARTICLE",2,null,[],3],["10px","10px",0],0,[0],null,0],[["ARTICLE",2,null,[],-1],["10px","10px",0],3,[0],null,0]],["8855454347","1332187543","2808920744","4285653942","5762387147"],["ARTICLE",null,null,[]],"20170214_040801",1]],"WordPressSinglePost","5227663541",null,0.01,null,[null,1494929562526],0.01,1,null,null,"http://www.pulsamerica.co.uk"];(function(){var h=this,aa=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";
+else if("function"==b&&"undefined"==typeof a.call)return"object";return b},p=function(a){return"number"==typeof a},ba=function(a,b){var c=Array.prototype.slice.call(arguments,1);return function(){var b=c.slice();b.push.apply(b,arguments);return a.apply(this,b)}},r=function(a,b){function c(){}c.prototype=b.prototype;a.Ra=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.Ta=function(a,c,f){for(var d=Array(arguments.length-2),e=2;e<arguments.length;e++)d[e-2]=arguments[e];return b.prototype[c].apply(a,
+d)}};var ca=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},da=function(a,b){return a<b?-1:a>b?1:0},ea=function(a){return String(a).replace(/\-([a-z])/g,function(a,c){return c.toUpperCase()})};var fa=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var d=a.length,e="string"==typeof a?a.split(""):a,f=0;f<d;f++)f in e&&b.call(c,e[f],f,a)};var ga=function(a){ga[" "](a);return a};ga[" "]=function(){};var ia=function(a,b){var c=ha;Object.prototype.hasOwnProperty.call(c,a)||(c[a]=b(a))};var t;a:{var ja=h.navigator;if(ja){var ka=ja.userAgent;if(ka){t=ka;break a}}t=""}var v=function(a){return-1!=t.indexOf(a)};var la=v("Opera"),w=v("Trident")||v("MSIE"),ma=v("Edge"),na=v("Gecko")&&!(-1!=t.toLowerCase().indexOf("webkit")&&!v("Edge"))&&!(v("Trident")||v("MSIE"))&&!v("Edge"),oa=-1!=t.toLowerCase().indexOf("webkit")&&!v("Edge"),pa=function(){var a=h.document;return a?a.documentMode:void 0},qa;
+a:{var ra="",sa=function(){var a=t;if(na)return/rv\:([^\);]+)(\)|;)/.exec(a);if(ma)return/Edge\/([\d\.]+)/.exec(a);if(w)return/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(oa)return/WebKit\/(\S+)/.exec(a);if(la)return/(?:Version)[ \/]?(\S+)/.exec(a)}();sa&&(ra=sa?sa[1]:"");if(w){var ta=pa();if(null!=ta&&ta>parseFloat(ra)){qa=String(ta);break a}}qa=ra}
+var ua=qa,ha={},va=function(a){ia(a,function(){for(var b=0,c=ca(String(ua)).split("."),d=ca(String(a)).split("."),e=Math.max(c.length,d.length),f=0;0==b&&f<e;f++){var g=c[f]||"",k=d[f]||"";do{g=/(\d*)(\D*)(.*)/.exec(g)||["","","",""];k=/(\d*)(\D*)(.*)/.exec(k)||["","","",""];if(0==g[0].length&&0==k[0].length)break;b=da(0==g[1].length?0:parseInt(g[1],10),0==k[1].length?0:parseInt(k[1],10))||da(0==g[2].length,0==k[2].length)||da(g[2],k[2]);g=g[3];k=k[3]}while(0==b)}return 0<=b})},wa;var xa=h.document;
+wa=xa&&w?pa()||("CSS1Compat"==xa.compatMode?parseInt(ua,10):5):void 0;var x=function(){},ya="function"==typeof Uint8Array,z=function(a,b,c){a.a=null;b||(b=[]);a.Va=void 0;a.M=-1;a.l=b;a:{if(a.l.length){b=a.l.length-1;var d=a.l[b];if(d&&"object"==typeof d&&"array"!=aa(d)&&!(ya&&d instanceof Uint8Array)){a.R=b-a.M;a.G=d;break a}}a.R=Number.MAX_VALUE}a.Ua={};if(c)for(b=0;b<c.length;b++)d=c[b],d<a.R?(d+=a.M,a.l[d]=a.l[d]||y):a.G[d]=a.G[d]||y},y=[],A=function(a,b){if(b<a.R){b+=a.M;var c=a.l[b];return c===y?a.l[b]=[]:c}c=a.G[b];return c===y?a.G[b]=[]:c},Aa=function(a){a=
+A(za,a);return null==a?a:+a},B=function(a,b,c){b<a.R?a.l[b+a.M]=c:a.G[b]=c},C=function(a,b,c){a.a||(a.a={});if(!a.a[c]){var d=A(a,c);d&&(a.a[c]=new b(d))}return a.a[c]},D=function(a,b,c){a.a||(a.a={});if(!a.a[c]){for(var d=A(a,c),e=[],f=0;f<d.length;f++)e[f]=new b(d[f]);a.a[c]=e}b=a.a[c];b==y&&(b=a.a[c]=[]);return b},Ba=function(a,b,c){a.a||(a.a={});c=c||[];for(var d=[],e=0;e<c.length;e++)d[e]=E(c[e]);a.a[b]=c;B(a,b,d)},Ca=function(a){if(a.a)for(var b in a.a){var c=a.a[b];if("array"==aa(c))for(var d=
+0;d<c.length;d++)c[d]&&E(c[d]);else c&&E(c)}},E=function(a){Ca(a);return a.l};x.prototype.toString=function(){Ca(this);return this.l.toString()};var Da=function(a){var b;if("array"==aa(a)){for(var c=Array(a.length),d=0;d<a.length;d++)null!=(b=a[d])&&(c[d]="object"==typeof b?Da(b):b);return c}if(ya&&a instanceof Uint8Array)return new Uint8Array(a);c={};for(d in a)null!=(b=a[d])&&(c[d]="object"==typeof b?Da(b):b);return c};var Ea=function(a,b){this.events=[];this.Ga=b||h;var c=null;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.events=b.google_js_reporting_queue,c=b.google_measure_js_timing);this.ia=null!=c?c:Math.random()<a};Ea.prototype.disable=function(){fa(this.events,this.ya,this);this.events.length=0;this.ia=!1};Ea.prototype.ya=function(a){var b=this.Ga.performance;a&&b&&b.clearMarks&&(b.clearMarks("goog_"+a.uniqueId+"_start"),b.clearMarks("goog_"+a.uniqueId+"_end"))};var Fa=function(){var a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});h.addEventListener("test",null,b)}catch(c){}return a}();var Ha=function(){var a=Ga;try{var b;if(b=!!a&&null!=a.location.href)a:{try{ga(a.foo);b=!0;break a}catch(c){}b=!1}return b}catch(c){return!1}},Ia=function(a,b){for(var c in a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void 0,a[c],c,a)};var Ja=function(a,b,c,d,e){this.la=c||4E3;this.H=a||"&";this.wa=b||",$";this.T=void 0!==d?d:"trn";this.Sa=e||null;this.va=!1;this.V={};this.Ja=0;this.L=[]},Ma=function(a,b,c,d){b=b+"//"+c+d;var e=Ka(a)-d.length-0;if(0>e)return"";a.L.sort(function(a,b){return a-b});d=null;c="";for(var f=0;f<a.L.length;f++)for(var g=a.L[f],k=a.V[g],m=0;m<k.length;m++){if(!e){d=null==d?g:d;break}var l=La(k[m],a.H,a.wa);if(l){l=c+l;if(e>=l.length){e-=l.length;b+=l;c=a.H;break}else a.va&&(c=e,l[c-1]==a.H&&--c,b+=l.substr(0,
+c),c=a.H,e=0);d=null==d?g:d}}f="";a.T&&null!=d&&(f=c+a.T+"="+(a.Sa||d));return b+f+""},Ka=function(a){if(!a.T)return a.la;var b=1,c;for(c in a.V)b=c.length>b?c.length:b;return a.la-a.T.length-b-a.H.length-1},La=function(a,b,c,d,e){var f=[];Ia(a,function(a,k){(a=Na(a,b,c,d,e))&&f.push(k+"="+a)});return f.join(b)},Na=function(a,b,c,d,e){if(null==a)return"";b=b||"&";c=c||",$";"string"==typeof c&&(c=c.split(""));if(a instanceof Array){if(d=d||0,d<c.length){for(var f=[],g=0;g<a.length;g++)f.push(Na(a[g],
+b,c,d+1,e));return f.join(c[d])}}else if("object"==typeof a)return e=e||0,2>e?encodeURIComponent(La(a,b,c,d,e+1)):"...";return encodeURIComponent(String(a))};var Ra=function(a,b,c,d){var e=Pa;if((c?e.Pa:Math.random())<(d||e.za))try{var f;b instanceof Ja?f=b:(f=new Ja,Ia(b,function(a,b){var c=f,d=c.Ja++,e={};e[b]=a;a=[e];c.L.push(d);c.V[d]=a}));var g=Ma(f,e.Ma,e.Ba,e.La+a+"&");g&&Qa(g)}catch(k){}},Qa=function(a){h.google_image_requests||(h.google_image_requests=[]);var b=h.document.createElement("img");b.src=a;h.google_image_requests.push(b)};var Sa;if(!(Sa=!na&&!w)){var Ta;if(Ta=w)Ta=9<=Number(wa);Sa=Ta}Sa||na&&va("1.9.1");w&&va("9");var F=function(a,b,c,d){this.top=a;this.right=b;this.bottom=c;this.left=d};F.prototype.floor=function(){this.top=Math.floor(this.top);this.right=Math.floor(this.right);this.bottom=Math.floor(this.bottom);this.left=Math.floor(this.left);return this};var Ua=document,Va=window;var Wa=!!window.google_async_iframe_id,Ga=Wa&&window.parent||window;var Pa,G;if(Wa&&!Ha()){var Xa="."+Ua.domain;try{for(;2<Xa.split(".").length&&!Ha();)Ua.domain=Xa=Xa.substr(Xa.indexOf(".")+1),Ga=window.parent}catch(a){}Ha()||(Ga=window)}G=Ga;var Ya=new Ea(1,G);Pa=new function(){this.Ma="http:"===Va.location.protocol?"http:":"https:";this.Ba="pagead2.googlesyndication.com";this.La="/pagead/gen_204?id=";this.za=.01;this.Pa=Math.random()};
+if("complete"==G.document.readyState)G.google_measure_js_timing||Ya.disable();else if(Ya.ia){var Za=function(){G.google_measure_js_timing||Ya.disable()};G.addEventListener?G.addEventListener("load",Za,Fa?void 0:!1):G.attachEvent&&G.attachEvent("onload",Za)};var H=function(a){this.na={};this.na.c=a;this.o=[];this.u=null;this.v=[];this.ea=0};H.prototype.g=function(a){for(var b=0;b<this.o.length;b++)if(this.o[b]==a)return this;this.o.push(a);return this};var $a=function(a,b){a.u=a.u?a.u:b;return a};H.prototype.C=function(a){for(var b=0;b<this.v.length;b++)if(this.v[b]==a)return this;this.v.push(a);return this};
+H.prototype.getData=function(a){var b=this.na,c={},d;for(d in b)c[d]=b[d];0<this.ea&&(c.t=this.ea);c.err=this.o.join();c.warn=this.v.join();if(this.u){c.excp_n=this.u.name;c.excp_m=this.u.message&&this.u.message.substring(0,512);if(b=this.u.stack){d=this.u.stack;try{-1==d.indexOf("")&&(d="\n"+d);for(var e;d!=e;)e=d,d=d.replace(/((https?:\/..*\/)[^\/:]*:\d+(?:.|\n)*)\2/,"$1");b=d.replace(/\n */g,"\n")}catch(f){b=""}}c.excp_s=b}c.w=0<a.innerWidth?a.innerWidth:null;c.h=0<a.innerHeight?a.innerHeight:
+null;return c};var bb=function(a,b){ab(a,a.Ea,a.X,b)},ab=function(a,b,c,d){var e=d.u;d=d.getData(a.K);a.Ha?(d.type=b,a.K.console.log(d),e&&a.K.console.error(e)):0<c&&(d.r=c,Ra(b,d,"jserror"!=b,c))};var I=function(a){return a.dynamicgoogletags=a.dynamicgoogletags||{}};var J=function(a){z(this,a,cb)};r(J,x);var cb=[4];J.prototype.getId=function(){return A(this,3)};var K=function(a){z(this,a,null)};r(K,x);var db=function(a){z(this,a,null)};r(db,x);var L=function(a){return C(a,J,1)},fb=function(a){z(this,a,eb)};r(fb,x);var eb=[1];fb.prototype.i=function(){return D(this,db,1)};fb.prototype.pa=function(a){Ba(this,1,a)};var M=function(a){z(this,a,gb)};r(M,x);var gb=[2];M.prototype.ka=function(){return A(this,3)};M.prototype.qa=function(a){B(this,3,a)};var hb=function(a){z(this,a,null)};r(hb,x);var N=function(a){z(this,a,ib)};r(N,x);var ib=[1,2,3];N.prototype.i=function(){return D(this,db,2)};
+N.prototype.pa=function(a){Ba(this,2,a)};var O=function(a){z(this,a,jb)};r(O,x);var jb=[3];O.prototype.A=function(){return A(this,1)};O.prototype.D=function(){return C(this,fb,2)};O.prototype.O=function(){return A(this,4)};O.prototype.ka=function(){return A(this,5)};O.prototype.qa=function(a){B(this,5,a)};O.prototype.N=function(){return C(this,kb,9)};var kb=function(a){z(this,a,null)};r(kb,x);var lb=function(a){this.m=a;this.sa=[]};lb.prototype.f=function(){return 0<D(this.m,N,3).length?D(this.m,N,3)[0]:null};var mb=function(a){var b=["adsbygoogle-placeholder"];a=a.className?a.className.split(/\s+/):[];for(var c={},d=0;d<a.length;++d)c[a[d]]=!0;for(d=0;d<b.length;++d)if(!c[b[d]])return!1;return!0};var nb=function(a,b){for(var c=0;c<b.length;c++){var d=b[c],e=ea(d.Wa);a[e]=d.value}},qb=function(a,b){var c=ob;b.setAttribute("data-adsbygoogle-status","reserved");b={element:b};(c=c&&c.Na)&&(b.params=c);pb(a).push(b)},pb=function(a){return a.adsbygoogle=a.adsbygoogle||[]};var rb=function(a,b){if(!a)return!1;a=b.getComputedStyle?b.getComputedStyle(a,null):a.currentStyle;if(!a)return!1;a=a.cssFloat||a.styleFloat;return"left"==a||"right"==a},sb=function(a){for(a=a.previousSibling;a&&1!=a.nodeType;)a=a.previousSibling;return a?a:null},tb=function(a){return!!a.nextSibling||!!a.parentNode&&tb(a.parentNode)};var ub=function(a,b){var c=a.length;if(null!=c)for(var d=0;d<c;d++)b.call(void 0,a[d],d)};var vb=function(a,b,c,d){this.ma=a;this.$=b;this.aa=c;this.P=d};vb.prototype.query=function(a){var b=[];try{b=a.querySelectorAll(this.ma)}catch(f){}if(!b.length)return[];a=b;b=a.length;if(0<b){for(var c=Array(b),d=0;d<b;d++)c[d]=a[d];a=c}else a=[];a=wb(this,a);p(this.$)&&(b=this.$,0>b&&(b+=a.length),a=0<=b&&b<a.length?[a[b]]:[]);if(p(this.aa)){b=[];for(c=0;c<a.length;c++){var d=xb(a[c]),e=this.aa;0>e&&(e+=d.length);0<=e&&e<d.length&&b.push(d[e])}a=b}return a};
+vb.prototype.toString=function(){return JSON.stringify({nativeQuery:this.ma,occurrenceIndex:this.$,paragraphIndex:this.aa,ignoreMode:this.P})};
+var wb=function(a,b){if(null==a.P)return b;switch(a.P){case 1:return b.slice(1);case 2:return b.slice(0,b.length-1);case 3:return b.slice(1,b.length-1);case 0:return b;default:throw Error("Unknown ignore mode: "+a.P);}},xb=function(a){var b=[];ub(a.getElementsByTagName("p"),function(a){100<=yb(a)&&b.push(a)});return b},yb=function(a){if(3==a.nodeType)return a.length;if(1!=a.nodeType||"SCRIPT"==a.tagName)return 0;var b=0;ub(a.childNodes,function(a){b+=yb(a)});return b},zb=function(a){return 0==a.length||
+isNaN(a[0])?a:"\\"+(30+parseInt(a[0],10))+" "+a.substring(1)};var Ab=function(a,b){var c=0,d=A(a,6);if(void 0!==d)switch(d){case 0:c=1;break;case 1:c=2;break;case 2:c=3}var d=null,e=A(a,7);if(A(a,1)||a.getId()||0<A(a,4).length){var f=a.getId(),g=A(a,1),e=A(a,4),d=A(a,2);a=A(a,5);var k="";g&&(k+=g);f&&(k+="#"+zb(f));if(e)for(f=0;f<e.length;f++)k+="."+zb(e[f]);d=(e=k)?new vb(e,d,a,c):null}else e&&(d=new vb(e,A(a,2),A(a,5),c));return d?d.query(b):[]},Bb=function(a,b){if(a==b)return!0;if(!a||!b||A(a,1)!=A(b,1)||A(a,2)!=A(b,2)||a.getId()!=b.getId()||A(a,7)!=A(b,
+7)||A(a,5)!=A(b,5)||A(a,6)!=A(b,6))return!1;a=A(a,4);b=A(b,4);if(a||b)if(a&&b&&a.length==b.length)for(var c=0;c<a.length;c++){if(a[c]!=b[c])return!1}else return!1;return!0};var Cb=function(a){a=a.document;return("CSS1Compat"==a.compatMode?a.documentElement:a.body)||{}},Db=function(a){return void 0===a.pageYOffset?(a.document.documentElement||a.document.body.parentNode||a.document.body).scrollTop:a.pageYOffset};var Eb=function(a,b){b=L(b);if(!b)return null;a=Ab(b,a);return 0<a.length?a[0]:null},Gb=function(a,b){b=Fb(a,b,!0);return p(b)&&!(b<=Cb(a).clientHeight)},Hb=function(a,b){return a.body?b-a.body.getBoundingClientRect().top:b},Fb=function(a,b,c){if(!c||!p(A(b,8))){var d=Eb(a.document,b);if(d){var e=null!=C(b,K,2)?A(C(b,K,2),3):void 0;c=a.document.createElement("div");c.className="googlepublisherpluginad";var f=c.style;f.textAlign="center";f.width="100%";f.height="0px";f.clear=e?"both":"none";Ib(c,d,
+A(b,3));d=c.getBoundingClientRect().top+Db(a);c.parentNode.removeChild(c);B(b,8,d)}}b=A(b,8);return p(b)?b-Db(a):null},Jb={0:0,1:1,2:2,3:3},Kb={0:"auto",1:"horizontal",2:"vertical",3:"rectangle"},Lb=function(a,b){a.sort(function(a,d){a=Fb(b,a,!0);a=p(a)?a:Number.POSITIVE_INFINITY;d=Fb(b,d,!0);d=p(d)?d:Number.POSITIVE_INFINITY;return a-d})},Ib=function(a,b,c){switch(Jb[c]){case 0:b.parentNode&&b.parentNode.insertBefore(a,b);break;case 3:if(c=b.parentNode){var d=b.nextSibling;if(d&&d.parentNode!=c)for(;d&&
+8==d.nodeType;)d=d.nextSibling;c.insertBefore(a,d)}break;case 1:b.insertBefore(a,b.firstChild);break;case 2:b.appendChild(a)}if(1!=b.nodeType?0:"INS"==b.tagName&&mb(b))b.style.display="block"};var ob=new function(){this.ha="googlepublisherpluginad";this.Na={google_tag_origin:"pso"}},P=function(a){this.b=a;this.j=[];this.da=0;this.o=[];this.v=[];this.Y=null;this.oa=!1},Mb=function(a,b){a=C(a.f(),J,4);if(!(a&&b&&A(b,1)==A(a,1)&&b.getId()==a.getId()&&p(A(b,2))&&p(A(b,5))))return!1;a=A(a,4);b=A(b,4);if(a.length!=b.length)return!1;for(var c=0;c<a.length;++c)if(b[c]!=a[c])return!1;return!0},Nb=function(a){var b=p(void 0)?void 0:20,c=a.f(),d=c.i(),e=C(c,J,4);if(!(a.oa||0>=b)&&e&&0!=Ab(e,a.b.document).length){a.oa=
+!0;for(var c=[],f=0;f<d.length;++f){var g=d[f],k=L(g);if(Mb(a,k)){var m=A(k,2),k=A(k,5);null!=m&&null!=k&&0<=m&&0<=k&&(!c[m]||A(L(c[m]),5)<k)&&(c[m]=g)}}k=0;d=Ab(e,a.b.document);for(m=0;m<c.length&&k<b;++m){var e=k,f=a,l=d[m],g=c[m],k=b-k,u=f.f().i(),q=0;if(l&&g){l=xb(l).length;switch(A(L(g),6)){case 0:case 1:--l;break;case 2:l-=2}for(var n=A(L(g),5)+1;n<l&&q<k;++n){var Oa=new g.constructor(Da(E(g))),Hc=L(Oa);B(Hc,5,n);u.push(Oa);q++}}q&&f.f().pa(u);k=e+q}}};
+P.prototype.g=function(a){for(var b=0;b<this.o.length;++b)if(this.o[b]==a)return;this.o.push(a)};P.prototype.C=function(a){for(var b=0;b<this.v.length;++b)if(this.v[b]==a)return;this.v.push(a)};
+var Ob=function(a,b,c){var d=Jb[A(b,3)],e=Eb(a.b.document,b);if(e){var f=L(b)?A(L(b),2):void 0,g;a:{g=a.b;if(null!=f)switch(d){case 0:g=rb(sb(e),g);break a;case 3:g=rb(e,g);break a;case 2:f=e.lastChild;g=rb(f?1==f.nodeType?f:sb(f):null,g);break a}g=!1}if(!g&&(c||2!=d||tb(e))&&(c=1==d||2==d?e:e.parentNode,!c||(1!=c.nodeType?0:"INS"==c.tagName&&mb(c))||!(0>=c.offsetWidth)))a:if(A(b,7))a.C(8);else{b:if(A(b,5))c=A(b,5);else{if(c=Q(a).f())if(c=A(c,3),a.da<c.length){c=c[a.da++];break b}a.g(4);c=null}if(null!=
+c){B(b,7,!0);d=[];(g=a.O())&&d.push(g);g=Q(a).sa;for(f=0;f<g.length;++f)d.push(g[f]);p(A(b,9))&&d.push("pso-lv-"+A(b,9));var k=a.b.document;g=a.A();var f=A(b,6),f=null!=f?Kb[f]:f,m=C(b,K,2),l={};m&&(l.ra=A(m,1),l.ga=A(m,2),l.xa=!!A(m,3));var m=c,u=ob,q=k.createElement("div"),n=q.style;n.textAlign="center";n.width="100%";n.height="auto";n.clear=l.xa?"both":"none";l.Ka&&nb(n,l.Ka);k=k.createElement("ins");n=k.style;n.display="block";n.margin="auto";n.backgroundColor="transparent";l.ra&&(n.marginTop=
+l.ra);l.ga&&(n.marginBottom=l.ga);l.ta&&nb(n,l.ta);q.appendChild(k);k.setAttribute("data-ad-format",f?f:"auto");if(f=u&&u.ha)q.className=f;k.className="adsbygoogle";k.setAttribute("data-ad-client",g);m&&k.setAttribute("data-ad-slot",m);d.length&&k.setAttribute("data-ad-channel",d.join("+"));Ib(q,e,A(b,3));try{qb(a.b,k)}catch(Oa){A(b,5)!=c&&a.da--;B(b,7,!1);a.C(6);q&&q.parentNode&&q.parentNode.removeChild(q);break a}a.j.push(q)}}}},Pb=function(a,b){for(var c=Number.POSITIVE_INFINITY,d=0;d<a.j.length;++d)var e=
+a.j[d].getBoundingClientRect().top,f=a.j[d].getBoundingClientRect().bottom,c=Math.min(c,b<e?e-b:f<b?b-f:0);return c},Q=function(a){a=I(a.b).ps||null;if(!a)throw Error("No placementState");return a},Qb=function(a,b){var c=Q(a).m;if(!c||!c.A())return a.g(5),!1;c=D(c,N,3)[0];return c?A(c,3).length<b?(a.g(4),a.g(5),!1):!0:(a.g(5),!1)};P.prototype.A=function(){return Q(this).m.A()||""};P.prototype.O=function(){return Q(this).m.O()||void 0};P.prototype.D=function(){return Q(this).m.D()||new fb};
+P.prototype.f=function(){var a=Q(this).f();if(!a)throw Error("No mConfig");return a};var Rb=function(a){a=A(a.f(),6);return null!=a&&0<a};var Sb=function(){this.I=this.J=this.ba=null};var R=function(a){P.call(this,a)};r(R,P);R.prototype.apply=function(a){var b;(b=Q(this).m)&&b.A()&&b.D()?b=!0:(this.g(5),b=!1);if(b){b=this.D().i();for(var c=0;c<b.length;c++){var d=b[c];A(d,7)||Ob(this,d,a)}}};R.prototype.B=function(){return(0==this.D().i().length||0<this.j.length)&&0==this.o.length};var Tb=function(a){P.call(this,a);if(Qb(this,0)){a=this.D().i();for(var b=this.f().i(),c=0;c<a.length;c++){var d=a[c],e;a:{e=d;var f=b;if(e&&L(e))for(var g=0;g<f.length;g++){var k=f[g];if(A(e,3)==A(k,3)&&Bb(L(e),L(k))){e=k;break a}}e=null}e&&C(e,K,2)&&(e=C(e,K,2),d.a||(d.a={}),f=e?E(e):e,d.a[2]=e,B(d,2,f))}}};r(Tb,R);var Vb=function(a,b){var c=void 0===b.pageXOffset?(b.document.documentElement||b.document.body.parentNode||b.document.body).scrollLeft:b.pageXOffset,d=Db(b);if(a.getBoundingClientRect)return a=a.getBoundingClientRect(),Ub(a)?new F(a.top+d,a.right+c,a.bottom+d,a.left+c):new F(0,0,0,0);b=b.document.createRange();b.selectNodeContents(a);return b.collapsed?new F(0,0,0,0):b.getBoundingClientRect?(a=b.getBoundingClientRect(),Ub(a)?new F(a.top+d,a.right+c,a.bottom+d,a.left+c):new F(0,0,0,0)):new F(0,0,0,
+0)},Ub=function(a){return!!a&&p(a.top)&&!isNaN(a.top)&&p(a.right)&&!isNaN(a.right)&&p(a.bottom)&&!isNaN(a.bottom)&&p(a.left)&&!isNaN(a.left)};var $b=function(a){this.K=a;this.Fa=Wb(a);this.ua=S("ins.adsbygoogle",a);this.fa=Xb(a);this.Oa=S("[__lsu_res=reserved]",a);this.U=[];a=Yb(this);for(var b=0;b<a.length;b++)this.U.push(new Zb(a[b]))},Wb=function(a){var b=a.googletag;if(!b||"function"!=typeof b.pubads)return S("div[id^=div-gpt-ad]",a);var c=[];try{for(var d=b.pubads().getSlots(),b=0;b<d.length;b++){var e=d[b].getSlotElementId(),f=a.document.getElementById(e);null!=f&&c.push(f)}}catch(g){Ra("ladd_evt",{ok:0,err:g.toString()},!0,.1)}return c},
+Xb=function(a){return S("iframe[id^=aswift_],iframe[id^=google_ads_frame]",a)},S=function(a,b){return Array.prototype.slice.call(b.document.querySelectorAll(a))},Yb=function(a){return[].concat(a.Fa,a.ua,a.fa,a.Oa)},Zb=function(a){this.Ca=a;this.W=null};var T=function(a){P.call(this,a)};r(T,P);T.prototype.apply=function(){};T.prototype.B=function(){var a;if(Rb(this)){a=this.b;var b=Wb(a);a=0<[].concat(b,S("ins.adsbygoogle",a),Xb(a),S("[__lsu_res=reserved]",a)).length}else a=!0;return a};var ac=function(a){P.call(this,a);this.F=null};r(ac,P);
+ac.prototype.apply=function(a){if(a&&Qb(this,2)){Nb(this);a=Cb(this.b).clientHeight||640;null==this.F&&(this.F=new $b(this.b));var b=this.F.fa.length;if(!(5<=b)){var b=Math.min(2,5-b),c=this.f().i();Lb(c,this.b);for(var d=0;d<c.length&&this.j.length<b;++d){var e=c[d];if(Gb(this.b,e)){var f=Fb(this.b,e,!0);if(void 0!==f){var g;a:{g=this.F;for(var k=a,m=f,l=0;l<g.U.length;l++){var u=m,q=k,n;n=g.U[l];n.W||(n.W=Vb(n.Ca,g.K));n=n.W;if(n.top-q<u&&u<n.bottom+q){g=!0;break a}}g=!1}g||Pb(this,f)<a||Ob(this,
+e,!0)}}}0==this.j.length&&this.C(1)}}};ac.prototype.B=function(){return Rb(this)?0<Yb(this.F).length:!0};var bc=function(a){P.call(this,a);this.Z=!1};r(bc,T);
+bc.prototype.apply=function(a){if(a&&!this.Z){var b;a:{var c=this.b.document;b=c.body;if(a&&b){a=this.A();var d=ob,e=c.createElement("div");e.style.display="block";if(d=d&&d.ha)e.className=d;c=c.createElement("ins");c.className="adsbygoogle";c.setAttribute("data-ad-client",a);c.setAttribute("data-reactive-ad-format","1");c.style.display="none";e.appendChild(c);Ib(e,b,2);try{qb(this.b,c)}catch(f){this.C(6);e&&e.parentNode&&e.parentNode.removeChild(e);b=5;break a}this.j.push(e);b=0}else b=4}this.Z=
+0==b}};bc.prototype.B=function(){return this.Z&&T.prototype.B.call(this)};var cc=function(a){P.call(this,a);a=Cb(a).clientHeight;this.Aa=.1*a;this.Ia=.75*a};r(cc,P);
+cc.prototype.apply=function(a){if(Qb(this,3)&&!this.B()){Nb(this);var b=this.f().i();Lb(b,this.b);var c;c=this.Aa;var d;d=document;d=d.querySelectorAll?d.querySelectorAll("header,#header,#masthead,.header,.site-header"):[];for(var e=d.length,f=0<e?d[0]:null,g=1;g<e;g++)d[g].getBoundingClientRect().top<f.getBoundingClientRect().top&&(f=d[g]);(d=f)&&(d=d.getBoundingClientRect())&&d.top!=d.bottom&&d.left!=d.right&&(c=Math.min(c,Hb(document,d.bottom)));for(d=0;d<b.length&&3>this.j.length;d++){e=b[d];
+var f=c,g=this.b.document,k=Fb(this.b,e,!1);!p(k)||Hb(g,k)<f?f=!1:(f=Pb(this,k),f=this.Ia<f);f&&(f=Gb(this.b,e),g=A(e,6)||0,f&&0==g&&B(e,6,3),!f&&a||Ob(this,e,a))}}};cc.prototype.B=function(){return 3==this.j.length};var U={};U[16]=R;U[17]=R;U[19]=T;U[29]=ac;U[33]=T;U[30]=bc;U[28]=cc;U[34]=cc;U[32]=Tb;U[1]=R;U[8]=T;U[11]=R;var dc=[19,29,33,30,16,32,17,34],ec=[16,19,33,30,17,1,6,8,11];var fc=function(a,b){a=a.google_ad_modifications=a.google_ad_modifications||{};(a.ad_channels=a.ad_channels||[]).push(b)};var gc=function(a){return 0>a||99<a?null:10>a?"0"+a:""+a};var hc=function(a,b){a=a.google_ad_modifications=a.google_ad_modifications||{};a=a.loeids=a.loeids||[];for(var c=0;c<b.length;c++)a.push(b[c])};var ic=function(a,b,c){this.ja=a;this.Da=c?c:new kb};ic.prototype.N=function(){return this.Da||new kb};var jc=function(a){if(!p(a))return!1;for(var b=0;b<dc.length;++b)if(a==dc[b])return!1;return!0},oc=function(){var a=V,b=kc,c=lc,d=b.f();if(!d)return mc(16);var e=null,f;a:{var g=D(d,M,1);for(f=0;f<g.length;++f){for(var k=!0,m=0;m<ec.length;++m)A(g[f],4)==ec[m]&&(k=!1);if(k){g=[];0==d.i().length&&g.push("PsoInvalidVariant");0==A(d,3).length&&g.push("PsoNoAdSlotCodes");f=g;break a}}f=[]}g=c.ja;if(0==f.length)a:{e=D(d,M,1);if(p(g))for(f=0;f<e.length;f++)if(k=e[f],U[A(k,4)])for(var m=D(k,hb,2),l=0;l<
+m.length;l++){var u=m[l],q=A(u,1),u=A(u,2);if(p(q)&&p(u)&&g>=q&&g<=u){e=k;break a}}e=null}else for(k=0;k<f.length;++k)b.sa.push(f[k]);if(!e){f=D(d,M,1);e={};for(k=0;k<f.length;k++)e[A(f[k],4)]=!0;f=null;e[19]||e[8]?f=19:e[16]||e[1]?f=16:0<d.i().length&&0<A(d,3).length&&e[34]&&(f=34);null!=f?(e=new M,B(e,6,3),B(e,4,f),16!=f&&19!=f&&e.qa("pso-ama-fallback")):e=null}(f=!e)||(!p(g)||800>g?f=!1:820>g?(hc(a,["26835111"]),f=!0):(840>g&&hc(a,["26835112"]),f=!1));if(f)return mc(16);(g=e.ka())&&fc(a,g);g=!0;
+A(c.N(),2)&&(Date.now?Date.now():+new Date)<A(c.N(),2)||(fc(a,"pso-ama-exd"),g=!1);A(b.m,11)&&(fc(a,"pso-ama-stl-tmp"),g=!1);g&&fc(a,"pso-ama-elig");2==A(e,6)&&(b=A(e,1),null!=b&&hc(a,[""+b]));if(g&&(2==A(e,6)||1==A(e,6))){d=D(d,M,1);if(null===c.ja)c=[];else{b={};c=[];for(g=0;g<d.length;g++)f=nc(d[g]),null==f||b[f]||(b[f]=!0,c.push(f));b=nc(e);if(null!=b){d=[];b=gc(b);g=!1;if(b)for(f=0;f<c.length;f++)k=gc(c[f]),b==k&&(g=!0),k&&d.push("950"+b+k);g||(d=[]);c=d}else c=[]}hc(a,c)}a=new Sb;a.ba=A(e,5);
+a.J=A(e,4);return a},mc=function(a){var b=new Sb;b.J=a;return b},pc=function(a){a=a.google_ad_modifications=a.google_ad_modifications||{};a.remove_ads_by_default=!0;a.ad_whitelist=[{ad_tag_origin:"pso"}];a.ad_blacklist=[];a.space_collapsing="slot"},nc=function(a){var b;switch(A(a,6)){case 1:b=A(a,4);break;case 2:b=A(a,7)}return null!=b?b:null};var qc=function(a){this.document=a};var W=function(a){H.call(this,a)};r(W,H);W.prototype.getData=function(a){var b=W.Ra.getData.call(this,a),c;a:{c=(new qc(a.document)).document.getElementsByTagName("script");for(var d=0;d<c.length;++d)if(c[d].hasAttribute("data-pso-version")){c=c[d].getAttribute("data-pso-version");break a}c=null}b.sv=c;if(d=I(a).ps||null){c=d.m;var d=d.f(),e=b.wpc;b.wpc=null!=e?e:c.A();b.su=A(c,14);b.tn=c.O();b.ev=d&&A(d,5)}if(a=I(a).ss||null)b.s=a.J,b.st=a.ba;return b};var rc=null,sc=!1,vc=function(a){var b=tc,c=uc;b.addEventListener?(a&&b.addEventListener("DOMContentLoaded",a,!1),c&&b.addEventListener("load",c,!1)):b.attachEvent&&c&&b.attachEvent("onload",c)},xc=function(a){p(rc)&&a.clearInterval&&(a.clearInterval(rc),rc=null);sc||wc(a,!1);wc(a,!0)},yc=function(a,b){try{xc(b);var c=I(b).ss||null;if(c&&c.I){var d=c.I,e=d.B(),f=d.o,g=d.v,k=d.Y,m=d.j.length;e||0!=m||f.push(6);for(var l=new W(m),c=0;c<g.length;c++)l.C(g[c]);if(e&&0==f.length&&null===k)ab(a,a.Qa,a.ca,
+l);else{for(e=0;e<f.length;e++)l.g(f[e]);bb(a,$a(l,k))}}else bb(a,(new W(0)).g(2))}catch(u){bb(a,$a((new W(0)).g(1),u))}I(b).loaded=!0},wc=function(a,b){b||(sc=!0);if((a=I(a).ss||null)&&a.I){a=a.I;try{a.apply(b)}catch(c){a.g(1),null===a.Y&&(a.Y=c)}}},zc=function(){wc(window,!1)};var X=new function(a){this.Qa="pso_success";this.Ea="pso_failure";this.X=this.ca=.01;this.Ha=!1;this.K=a}(window);
+try{var V=window,za,Ac=I(V).config;za=Ac?new O(Ac):null;if(!za)throw Error("No config");var Bc=Aa(10),Cc=Aa(7);X.ca=null!=Bc?Bc:X.ca;X.X=null!=Cc?Cc:X.X;var kc=new lb(za),Dc=kc;I(V).ps=Dc;var Y,lc;if(v("iPad")||v("Android")&&!v("Mobile")||v("Silk")||!(v("iPod")||v("iPhone")||v("Android")||v("IEMobile")))Y=mc(16);else{var Ec,Fc=/^#([^=]*)=(\d+)$/.exec(V.location.hash);if((Ec=Fc&&3==Fc.length&&"pso_strategy"==Fc[1]?+Fc[2]:null)&&U[Ec]){Y=mc(Ec);var Gc=V;jc(Ec)&&pc(Gc)}else{var Ic=V,Jc=kc.m.N(),Z;try{var Kc=
+parseInt(Ic.localStorage.getItem("PSO_EXP0"),10);Z=isNaN(Kc)?null:Kc}catch(a){Z=null}if(null==Z){Z=Math.floor(1024*Math.random());var Lc=Z;try{Ic.localStorage.setItem("PSO_EXP0",Lc.toString())}catch(a){}}lc=new ic(Z,0,Jc);Y=oc()}if(1==Y.ba){var Mc=V;jc(Y.J)&&pc(Mc)}}if(!Y)throw Error("No strategyState created!");var Nc=Y;I(V).ss=Nc;var Oc=V,Pc=Y,Qc=Pc.J;if(p(Qc)){var Rc=U[Qc];Qc&&Rc&&(Pc.I=new Rc(Oc))}var tc=V,uc=ba(yc,X,tc),Sc=ba(xc,tc);switch(tc.document.readyState){case "complete":uc();break;case "interactive":Sc();
+vc();break;default:var Tc=tc,Uc=pb(Tc);Uc.loaded||(Uc.onload=zc);rc=Tc.setInterval(zc,10);vc(Sc)}}catch(a){bb(X,$a(new W(0),a))};})();
+</script></head>
+<body class="single single-post postid-31798 single-format-standard custom-background mh-right-sb">
+<div id="mh-wrapper">
+<header class="mh-header">
+	<div class="header-wrap clearfix">
+		<a href="http://www.pulsamerica.co.uk/" title="PULSAMERICA" rel="home">
+<div class="logo-wrap" role="banner">
+<img src="http://www.pulsamerica.co.uk/wp-content/uploads/2016/09/cropped-0-pulsamerica-3a-copy-1.jpg" height="197" width="1500" alt="PULSAMERICA" />
 </div>
-                
-                
-                    <div id="top-bar">
-                        
-
-<ul>
-<li><a href="javascript:;">Social Movements</a>
-<ul>
-<li><a class="newpage" href="/indigenous-movements">Indigenous Movements</a></li>
-<li><a class="newpage" href="/peasant-movements">Peasant Movements</a></li>
-<li><a href="/women-s-movements">Women's Movements</a></li>
-<li><a class="newpage" href="/workers-movements">Workers' Movements</a></li>
+</a>
+	</div>
+	<div class="header-menu clearfix">
+		<nav class="main-nav clearfix">
+			<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-32249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32249"><a href="http://www.pulsamerica.co.uk">Home</a></li>
+<li id="menu-item-32223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32223"><a href="http://www.pulsamerica.co.uk/about-us/">About</a></li>
+<li id="menu-item-32226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32226"><a href="http://www.pulsamerica.co.uk/write-for-us/">Write For Us</a></li>
+<li id="menu-item-32224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32224"><a href="http://www.pulsamerica.co.uk/contributors/">Contributors</a></li>
+<li id="menu-item-32225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32225"><a href="http://www.pulsamerica.co.uk/contact-us/">Contact</a></li>
+<li id="menu-item-33067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33067"><a href="http://www.pulsamerica.co.uk/pulsamerica-app/">Download App</a></li>
+<li id="menu-item-32230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32230"><a href="http://www.pulsamerica.co.uk/category/andean-region/">Andes</a></li>
+<li id="menu-item-32234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32234"><a href="http://www.pulsamerica.co.uk/category/caribbean/">Caribbean</a></li>
+<li id="menu-item-32229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32229"><a href="http://www.pulsamerica.co.uk/category/central-america/">Central Am</a></li>
+<li id="menu-item-32232" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-32232"><a href="http://www.pulsamerica.co.uk/category/north-america/">North Am &#038; Mexico</a></li>
+<li id="menu-item-32228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32228"><a href="http://www.pulsamerica.co.uk/category/southern-cone/">Southern Cone &#038; Brazil</a></li>
+<li id="menu-item-32235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32235"><a href="http://www.pulsamerica.co.uk/category/international/">International</a></li>
+<li id="menu-item-32914" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32914"><a href="http://www.pulsamerica.co.uk/category/regional-issues/">Regional</a></li>
+<li id="menu-item-32240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32240"><a href="http://www.pulsamerica.co.uk/category/culture/">Culture</a></li>
+<li id="menu-item-32231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32231"><a href="http://www.pulsamerica.co.uk/category/economics/">Economy</a></li>
+<li id="menu-item-32238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32238"><a href="http://www.pulsamerica.co.uk/category/environment-2/">Environment</a></li>
+<li id="menu-item-32435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32435"><a href="http://www.pulsamerica.co.uk/category/history-2/">History</a></li>
+<li id="menu-item-32434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32434"><a href="http://www.pulsamerica.co.uk/category/leadership-analysis/">Leadership Analysis</a></li>
+<li id="menu-item-32237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32237"><a href="http://www.pulsamerica.co.uk/category/politics/">Politics</a></li>
+<li id="menu-item-32433" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32433"><a href="http://www.pulsamerica.co.uk/category/security/">Security</a></li>
+<li id="menu-item-33652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33652"><a href="http://www.pulsamerica.co.uk/category/sports-2/">Sports</a></li>
+<li id="menu-item-32437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32437"><a href="http://www.pulsamerica.co.uk/category/oped/">OP-ED</a></li>
+<li id="menu-item-33060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33060"><a href="http://www.pulsamerica.co.uk/category/columnist-directory/">Columns</a></li>
+</ul></div>		</nav>
+	</div>
+</header><div class="mh-section mh-group">
+	<div id="main-content" class="mh-content"><article id="post-31798" class="post-31798 post type-post status-publish format-standard has-post-thumbnail hentry category-mexico category-north-america tag-9687 tag-appo tag-calderon tag-fox tag-human-rights tag-marcha-de-las-cacerolas tag-media tag-mexico tag-oaxaca tag-pan tag-pfp tag-pri tag-radio tag-seccion-22 tag-snte tag-ulises-ruiz tag-uprising">
+	<header class="entry-header clearfix">
+		<h1 class="entry-title">Mexico: Revisiting the 2006 Oaxaca uprising</h1>
+		<div class="entry-tags clearfix"><span>TOPICS:</span><a href="http://www.pulsamerica.co.uk/tag/2006/" rel="tag">2006</a><a href="http://www.pulsamerica.co.uk/tag/appo/" rel="tag">APPO</a><a href="http://www.pulsamerica.co.uk/tag/calderon/" rel="tag">Calderón</a><a href="http://www.pulsamerica.co.uk/tag/fox/" rel="tag">Fox</a><a href="http://www.pulsamerica.co.uk/tag/human-rights/" rel="tag">Human Rights</a><a href="http://www.pulsamerica.co.uk/tag/marcha-de-las-cacerolas/" rel="tag">marcha de las cacerolas</a><a href="http://www.pulsamerica.co.uk/tag/media/" rel="tag">Media</a><a href="http://www.pulsamerica.co.uk/tag/mexico/" rel="tag">Mexico</a><a href="http://www.pulsamerica.co.uk/tag/oaxaca/" rel="tag">Oaxaca</a><a href="http://www.pulsamerica.co.uk/tag/pan/" rel="tag">PAN</a><a href="http://www.pulsamerica.co.uk/tag/pfp/" rel="tag">PFP</a><a href="http://www.pulsamerica.co.uk/tag/pri/" rel="tag">pri</a><a href="http://www.pulsamerica.co.uk/tag/radio/" rel="tag">radio</a><a href="http://www.pulsamerica.co.uk/tag/seccion-22/" rel="tag">Sección 22</a><a href="http://www.pulsamerica.co.uk/tag/snte/" rel="tag">SNTE</a><a href="http://www.pulsamerica.co.uk/tag/ulises-ruiz/" rel="tag">Ulises Ruíz</a><a href="http://www.pulsamerica.co.uk/tag/uprising/" rel="tag">uprising</a></div>	</header>
+	
+<div class="entry-thumbnail">
+<img width="500" height="374" src="http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234.jpg" class="attachment-content-single size-content-single wp-post-image" alt="875600" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234.jpg 500w, http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234-300x224.jpg 300w, http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234-280x210.jpg 280w" sizes="(max-width: 500px) 100vw, 500px" /></div>
+	<p class="entry-meta">
+<span class="entry-meta-author vcard author">Posted By: <a class="fn" href="http://www.pulsamerica.co.uk/author/william/">William Costa</a></span>
+<span class="entry-meta-date updated">September 30, 2015</span>
+</p>
+	<div class="entry-content clearfix">
+		<div id="attachment_31804" style="width: 510px" class="wp-caption alignnone"><a href="http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234.jpg"><img class="wp-image-31804 size-full" src="http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234.jpg" alt="875600" width="500" height="374" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234.jpg 500w, http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234-300x224.jpg 300w, http://www.pulsamerica.co.uk/wp-content/uploads/2015/09/875600-e1443653071234-280x210.jpg 280w" sizes="(max-width: 500px) 100vw, 500px" /></a><p class="wp-caption-text">March during the 2006 Oaxaca uprising Source: https://www.indymedia.org/images/2006/11/875600.jpg</p></div>
+<p style="text-align: justify;">Tall palms cast shadows over the broad central square of Oaxaca, the capital city of the Mexican state of the same name. Their shade is welcomed both by those of the city’s 250,000 residents that find themselves on foot in the strong mountain sun, and by the many foreign tourists attracted to Oaxaca by a rich history and famed gastronomical traditions.</p>
+<p style="text-align: justify;">The scene, taking in souvenir sellers plying their trade to unhurried visitors, and local brass bands blowing melodies alongside the stone walls of the colonial cathedral, does little to give indication of a series of events that took place in the grand plaza over a six-month period just under a decade ago.</p>
+<p style="text-align: justify;">The second half of 2006 saw Oaxaca placed in the ever-wandering international spotlight, as images were broadcast of a quickly developing popular movement that brought thousands of the city’s residents into the streets under the banner of the newly formed Popular Assembly of the Peoples of Oaxaca (Asamblea Popular de los Pueblos de Oaxaca &#8211; APPO). They moved in united protest against a state governor whose mandate they considered illegitimate, and used their large numbers to take control of the city away from authorities &#8211; officials and law enforcement bodies were effectively banished, as Oaxacans pushed for the political changes that they deemed essential for the state.</p>
+<p style="text-align: justify;">This process of transformation, that saw central Oaxaca converted from the heart of the highly important tourist industry (tourism is the state’s largest source of revenue) into the site of mass sit-ins and activism, has its origins in protests undertaken in May 2006 by some 40,000 members of Section 22 (Sección 22) &#8211; the Oaxacan branch of the National Education Workers Union (Síndicato Nacional de Trabajadores de la Educación &#8211; SNTE).</p>
+<p style="text-align: justify;">Section 22 has long been considered the most radical branch of the SNTE &#8211; which with 1.5 million members is the largest union in Latin America &#8211; since it became highly politicised in the early 1980s. At that time, teachers began to campaign strongly, as they continue to do to the present day, for increased salaries and improved educational resources.</p>
+<p style="text-align: justify;">Oaxaca, the second poorest of Mexico’s 31 states, is consistently ranked as having the country’s worst schooling system. Primary and secondary schools in the many isolated populations often do not have such basic resources as permanent roofing and bathrooms. Furthermore, teachers consistently report having to use their own salaries to provide educational equipment for pupils. There is also a widely held sentiment that the educational needs of the two thirds of Oaxaca’s 3.6 million inhabitants that belong to indigenous groups are not met, most specifically mother-tongue education in the state’s 16 autochthonous languages.</p>
+<p style="text-align: justify;">Section 22 teachers have established a tradition of yearly strikes and sit-ins to maintain pressure on authorities to take notice of educational hardships in the state. In May 2006 teachers from across the state of Oaxaca congregated in its capital’s central square to participate in the 26th anual strike. They aimed to pressure Governor Ulises Ruíz into negotiating a rise in salaries and improved classroom conditions. Furthermore, Section 22 was critical of Díaz’s controversial spending of state funds on modernising historical parts of the city, as well as the questionable circumstances in which he had been elected two years earlier.</p>
+<p style="text-align: justify;">The teachers union&#8217;s occupation of the central square was met by mixed responses from Oaxacans. Though certain sectors of society supported the annual strike, others saw the time that teachers were spent away from their pupils as highly damaging to young Oaxacans. Many also held the belief that teachers already enjoyed salaries far higher than many others in the workforce, and that they only employed industrial action to seek increasingly disproportionate wages. As a result, local newspapers often wrote critically of the teachers’ continued presence in the central square as the strike extended through May into June.</p>
+<p style="text-align: justify;">However, events that took place on 14th June  would largely bring this resentment to an end. Of the 40,000 teachers that had arrived to begin the sit-in, only 10,000 remained, however, they continued to push to negotiate their demands with Governor Ruíz. The politician refused to engage in dialogues, and instead sought to end the strike by force. On June 14 police units were deployed to storm the teachers’ camps to disband the sit-in, whilst helicopters hovering overhead dropped tear gas on the teaching professionals. Beatings and rape were reported during this official operation.</p>
+<p style="text-align: justify;">A change in the attitude of Oaxacans came about following these events. No longer ambivalent or critical, 300,000 residents took to the streets in outrage at the perceived abuse of power that Ruíz had shown upon ordering the forceful disbandment of the Section 22 strike. The swollen numbers quickly retook the city’s main square, and with calls of “Ulises out!” (“¡Fuera Ulises!”) demanded that the governor step down.</p>
+<p style="text-align: justify;">Within days, the Oaxacan popular uprising, which incorporated many sectors of society, adopted a formal shape. Followingly the lead of the numerically vital Section 22, the Popular Assembly of the Peoples of Oaxaca (Asamblea Popular de Pueblos de Oaxaca &#8211; APPO) was formed. The group unified more than 350 local organisations that were opposed to the governor, and began to maintain constant sit-ins in the main square and outside all public buildings. APPO’s unignorable presence was to extend until November.</p>
+<p style="text-align: justify;">It must be noted that the radical change observed in Oaxacans did not represent sudden approval of the frequent Section 22 strikes and demands for increased salaries for teachers. Rather, the people of Oaxaca shared teachers’ criticisms of the governor, and were appalled by his aggressive use of force against an entirely legal, though controversial, union movement. The events of June 14 merely acted to unite the many Oaxacans that already held anger towards the Ruíz administration, subsequently allowing a city-wide popular movement to emerge.</p>
+<p style="text-align: justify;">Animosity towards Governor Ruíz had initially arisen after he gained election in 2004 amidst circumstances that many considered fraudulent. Subsequently, in the first two years of his the governor’s administration, accusations of human rights violations, wasteful spending, nepotism and corruption had been frequent and prevalent. People felt indignation at the failure of the federal system, specifically the Federal Electoral Court (Tribunal Federal Electoral), to respond to these worries.</p>
+<p style="text-align: justify;">Gustavo Esteva, a Oaxacan intellectual and key figure in the APPO movement, wrote during APPO&#8217;s apogee that the organisation considered itself to have risen against ‘an oppressive power structure’. He wrote that a political class had spent 25 years effectively dismantling Mexico’s state apparatus, acting in its own restricted interests whilst disregarding the welfare of the population. As such, APPO did not merely wish to take power in order to position its own representatives within the existing system, but rather, pushed for a profound restructuring of Mexican politics. APPO aimed to strengthen formal democracy, and to provide raised levels of honesty, transparency and civil involvement in Oaxacan, and Mexican, governance.</p>
+<p style="text-align: justify;">Local and state police were no longer willing to obey Ruíz’s commands to break up the protests. Respectful of the vast numbers of their fellow citizens on the streets of the city centre, police were barely to be seen in areas ‘held’ by APPO until events came to a head in late October. Despite this lack of official law enforcement, a human rights organisation reported that during the months that APPO operated in the city centre, there were fewer incidents of civil violence that in any other period in the preceding 10 years. This comparative calm was even maintained during the eight ‘mega marches’, each boasting more than 100,000 participants, that were held over the period of the uprising.</p>
+<p style="text-align: justify;">However, mainstream reporting of happenings in central Oaxaca often did not communicate the tendency towards pacifism that APPO proclaimed and largely achieved. APPO members complained that local radio and television stations were used as a tool by Governor Ruíz and other authorities to produce propaganda, displaying the activists&#8217; movement as illegitimate, anarchic and violent.</p>
+<p style="text-align: justify;">The lack of correspondence between the lived experiences of APPO members and the information they received from media outlets produced increasing frustration. Protesters’ disillusionment with the press culminated on August 1st, when between 2,500 and 5,000 women participated in what was dubbed the ‘March of the Pots and Pans’ (La Marcha de las Cacerolas) to protest Ruíz’s continued refusal to renounce power. During the march a number of women made their way to the city’s public-service radio station, and forcefully took control of the building and its equipment. Despite having no knowledge of broadcasting, they quickly gained a grasp of the necessary techniques and began to use the station, which was renamed ‘Radio Cacerola’, to divulge the experiences of APPO members that mainstream media did not touch upon.</p>
+<p style="text-align: justify;">When Governor Ruíz had the station’s signal blocked several weeks later, APPO protesters retaliated by taking control of all of the city’s radio and television stations. This mass occupation lasted for several days, after which control was returned to the owners of all but one of the media outlets. APPO’s heavy focus on media resources displayed a keen awareness of the vital role held by local and national press in shaping the perception and success of popular movements.</p>
+<p style="text-align: justify;">The presence of activists in central Oaxaca was further felt when more than 1,000 road barricades were established. These blocks were put in place at 11pm each evening, leaving streets intransitable for vehicles till they were removed at 6am. This drastic measure was deemed necessary after a series of attacks on APPO members participating in sit-ins. ‘Mercenaries’ loyal to Ruíz had circulated the city in a convoy of 4x4s, firing into the air above protesters heads in an attempt to disband the movement. However, APPO’s use of overwhelming numbers effectively locked official forces out of the city centre, and increasingly distanced Ruíz from the power that he claimed; the governor was forced to secretly hold meetings with his staff on private property throughout the period of the uprising.</p>
+<p style="text-align: justify;">The predominant response of the federal government to events unfurling in Oaxaca was inaction. Politicians from the ruling National Action Party (Partido Acción Nacional &#8211; PAN), and the highly influential Institutional Revolutionary Party (Partido Revolucionario Institucional &#8211; PRI), declared their support for Ruíz, refusing to consider the step of declaring the state ‘without government’, which would have implicated the need to impose an interim governor.</p>
+<p style="text-align: justify;">President Vicente Fox was pressured by those with large vested interests in the Oaxacan economy to ‘put an end’ to the APPO movement. Tourism, which is vital to the state’s economy, had been all but eradicated following the uprising. Foreign governments, including that of the United States, issued warnings to their citizens to discourage travel to the state. Furthermore, the ​<em>Guelagetza</em> &#8211; a yearly festival held to showcase the traditions of Oaxaca’s culturally diverse population &#8211; was cancelled by Governor Ruíz, resulting in an estimated loss of many millions of dollars for the local economy. APPO responded by organising a ​&#8217;Popular Guelagetza&#8217;​; a free event that aimed to give the many Oaxaca previously excluded from the official Guelagetza, due to high prices, an opportunity to form part of the state-wide celebration.</p>
+<p style="text-align: justify;">Oaxacans aimed to pressure the federal government to act in their favour and remove Ruíz from power. On September 21st 5,000 APPO members left Oaxaca on foot in direction of Mexico City, as part of an effort to bring their state’s plight to the nation’s capital. Throughout the journey of 17 days &#8211; the group arrived in Mexico City on October 8th &#8211; it is reported that they received broad support from fellow Mexicans through whose states they passed.</p>
+<p style="text-align: justify;">Days before the arrival of the 5,000 in Mexico City, the Minister of the Interior had convened a meeting of 100 prominent Oaxacans in the capital in order to negotiate a solution to the impasse. However, those present at the talks did not reach an agreement, and important artists, intellectuals and indigenous leaders walked out of the discussions in protest at the scant representation of Oaxacan’s indigenous majority.</p>
+<p style="text-align: justify;">On October 10th, following months of inaction, the Mexican Senate decided to finally turn its attention to the issue of Oaxaca, and on the 19th October  declared that a “disappearance of government” should be called. This would implicate the removal of Ruíz from office, due to a lack of functioning authority in Oaxaca. However, legal complexities meant that the Federal Governement never formally moved to end the governor’s mandate, despite a further petition being released on 29th October by the Senate and the Chamber of Representatives calling for Ruíz’s renunciation. The Oaxacan governor’s response to these federal measures was to appeal to the Supreme Court, and to state that he would never resign from his post.</p>
+<p style="text-align: justify;">APPO members continued to insist that their actions had not disrupted the rule of law in the city, given that it had never existed. They argued that the political class had stripped official authority of all its credibility through a disregard for the rights and duties declared in Mexican law. They stated that the Federal Government’s failure to act conclusively and effectively to remove Ruíz was a further example of a failed political system controlled by a class that acted to protect its own, without regard for popular, democratic will.</p>
+<p style="text-align: justify;">Nonetheless, progress in negotiations between APPO and the government seemed to appear in late October when members of Section 22 &#8211; the teachers’ union &#8211; agreed to return to their classrooms. In return, the government agreed to meet original demands for improved salaries and conditions, as well as to grant freedom to Section 22 members imprisoned during the strike. Other sectors of APPO reacted to this development by accusing the teachers of having ‘sold out’ by ending their strike without demanding the resignation of Governor Ruíz. The inevitable result was internal fracturing within APPO &#8211; the organisation’s dependency on the large teachers’ union meant that Section 22’s departure represented a strong blow to the movement’s strength.</p>
+<p style="text-align: justify;">Any hope of further progress in negotiations between APPO and the government was dashed on 27th October . A group composed of police officers faithful to the governor and paramilitaries attacked the barricades maintained by APPO in the city centre. During the clash Brad Will, an American journalist working for Indymedia, was shot and killed. The death of the foreign national brought the turmoil in Oaxaca firmly into the view of the American mainstream media, and provided President Fox with ample justification to deploy 4,000 members of the Federal Preventative Police (Policía Preventativa Federal &#8211; PFP) to ‘restore law and order’.</p>
+<p style="text-align: justify;">The PFP arrived in Oaxaca on October 28th and began their task of taking control of the city. APPO members retreated to the campus of the Benito Juárez Autonomous University of Oaxaca (Universidad Autónoma Benito Juárez de Oaxaca &#8211; UABJO), in order to protect the university’s radio station, which had been used as the protesters’ main media output. Although APPO leaders had declared that they were firmly determined to maintain a policy of nonviolence throughout the intervention by federal police, as the day drew to a close three members of the organisation had died, alongside many injured, and many ‘disappeared’. Fears for the human rights of protesters were rife, as APPO members were captured in their homes and at the barricades.</p>
+<p style="text-align: justify;">Despite the pressure imposed by the intervening police force, on 29th October  APPO organised three large marches to display their opposition to the PFP’s occupation. On 2nd November the federal police attacked UABJO grounds, provoking what has been described as the most brutal clash between civilians and police in Mexico’s recent history. The highly superior force of the police could not be long resisted by APPO.</p>
+<p style="text-align: justify;">On 6th November, an interim report was released stating that during the violence of late October and early November 17 people had died, and 138 had been injured. In the months that followed, and with the arrival of Felipe Calderón to the Mexican presidency, also a member of the PAN, hundreds of APPO leaders and supporters were imprisoned. As a result, the structure and strength of the organisation was highly damaged, and possibilities of further efforts to achieve the removal of Ruíz were crippled. The governor continued in power, completing his term.</p>
+<p style="text-align: justify;">From the overwhelming 300,000 people that intitially took to the streets in the days following the attack on the teachers’ sit-in in the main square in mid-June, Ronald Waterbury writes that barely 4,000 emerged to show their support for APPO during a march organised on January 11 2007. The harsh blows received from the federal government broke the internal strength of APPO, largely ending the cohesion of the varied groups that had originally united to form the assembly. Likewise, the ideological differences held by the many factions within APPO, most notably evidenced by the early departure of Section 22, weakened the movement. The organisation had brought together the great ideological and cultural diversity of the Oaxacan population, but was unable to gain the wider national backing that may have seen it achieve its principal goal of ousting Governor Ruíz.</p>
+<p style="text-align: justify;">Sources:</p>
+<p style="text-align: justify;">Arenal, E. (2007). Women in the Oaxaca Teachers&#8217; Strike and Citizens&#8217; Uprising. <i>Feminist Studies,</i><i>33</i>(1), 107-117.</p>
+<p style="text-align: justify;">Esteva, G., Breña, M., Rus, J., &amp; Lerager, J. (2007). The Asamblea Popular de los Pueblos de Oaxaca: A Chronicle of Radical Democracy. <i>Latin American Perspectives,</i> <i>34</i>(1), 129-144.</p>
+<p style="text-align: justify;">Favela, Alejandra, Lasting Lessons from Oaxaca:. Teachers as Luchadores Sociales: An Inside Account of the Historic 2006 Oaxacan Teachers’ Movement and Why It Is Still Relevant Today. (2010). <i>Radical Teacher: A Socialist, Feminist and Anti-Racist Journal on the Theory and Practice of Teaching,</i> <i>1</i>(88), 63-72.</p>
+<p style="text-align: justify;">Howell, J. (2009). Vocation or Vacation? Perspectives on Teachers&#8217; Union Struggles in Southern Mexico 1. <i>Anthropology of Work Review,</i> <i>30</i>(3), 87-98.</p>
+<p style="text-align: justify;">Stephen, Lynn. (2013). <i>We Are the Face of Oaxaca: Testimony and Social Movements</i>. Duke University Press.</p>
+<div style="height:33px; padding-top:2px; padding-bottom:2px; clear:both;" class="kon_tergos"></div> 
+   <div class="post_author_plugin"><div class="post_author_avatar"><a href="http://www.pulsamerica.co.uk/author/william/" title="More about William Costa "><img alt='More about William Costa' src='http://0.gravatar.com/avatar/e1a02a7084fcad081dd48003704f79c1?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' align='left' /></a></div><span class="post_author_author">Written By:  <a href="http://www.pulsamerica.co.uk/author/william/" title="More about William Costa ">William Costa</a> </span><span class="post_author_create">on September 30, 2015.</span><span class="post_author_modify"><br/>Last revised by: <a href="https://www.linkedin.com/in/ailananavarez" target="_blank" title="More about Ailana Navarez ">Ailana Navarez</a>, our reviewer, on </span><span class="post_author_modify_dat">July 31, 2016.</span></div>	</div>
+</article><nav class="post-nav-wrap" role="navigation">
+<ul class="post-nav clearfix">
+<li class="post-nav-prev">
+<a href="http://www.pulsamerica.co.uk/2015/09/pope-francis-in-america-does-not-mention-us-sanctions-against-cuba/" rel="prev"><i class="fa fa-chevron-left"></i>Previous post</a></li>
+<li class="post-nav-next">
+<a href="http://www.pulsamerica.co.uk/2015/10/u-n-general-assembly-2015-what-latin-american-leaders-had-to-stay/" rel="next">Next post<i class="fa fa-chevron-right"></i></a></li>
 </ul>
-</li>
-<li><a href="javascript:;">NSM Organizations</a></li>
-<li><a href="javascript:;">Resources</a>
-<ul>
-<li><a href="/bibliography">Bibliography</a></li>
-<li><a href="/films">Films</a></li>
-<li><a href="/glossary-of-terms">Glossary of Terms</a></li>
-<li><a href="/acronyms">Acronyms</a></li>
-</ul>
-</li>
-</ul>
-
-                    </div>
-                
-                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> </div>
-                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
-            </div>
-            
-            <div id="content-wrap">
-                
-                    <div id="side-bar">
-                        
-
-
-                        
-
-<div class="image-container aligncenter"><a href="/start"><img src="/local--files/nav:side/NSMpic.jpg" alt="NSMpic.jpg" class="image" /></a></div>
-<ul>
-<li><a href="/start">Welcome page</a></li>
-</ul>
-<hr />
-<ul>
-<li><a href="/latin-american-nsms">Latin American NSMs</a></li>
-<li><a href="/maps">Maps</a></li>
-<li><a href="/concepts-relevant-to-nsms">Concepts Relevant to NSMs</a></li>
-<li><a href="/glossary-of-terms">Glossary of Terms</a></li>
-<li><a href="/links">Links</a></li>
-</ul>
-<hr />
-<ul>
-<li><a href="/system:join">How to join this site?</a></li>
-<li><a href="/system:list-all-pages">List all pages</a></li>
-<li><a href="/system:page-tags-list">Page Tags</a></li>
-</ul>
-<hr />
-<ul>
-<li><a href="/contact">contact</a></li>
-<li><a href="/admin:manage">Site Manager</a></li>
-</ul>
-<h2 ><span>Add a new page</span></h2>
-
-<div class="new-page-box" style="text-align: center; margin: 1em 0;">
-	<form action="dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
-		<input class="text" name="pageName" type="text" size="15" maxlength="128" style="margin: 1px"/>
-				<input type="submit" class="button" value="new page" style="margin: 1px;"/>
-																
-	</form>
+</nav>
+	</div>
+	<aside class="mh-sidebar">
+	<div id="social-widget-5" class="sb-widget clearfix Social_Widget"><h4 class="widget-title"><span>Follow PULSAMÉRICA On:</span></h4><div class="socialmedia-buttons smw_left"><a href="http://www.facebook.com/pages/Pulsamericacouk/147505195297626" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.pulsamerica.co.uk/wp-content/plugins/social-media-widget/images/default/32/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://twitter.com/#!/Pulsamerica" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.pulsamerica.co.uk/wp-content/plugins/social-media-widget/images/default/32/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="Follow Us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div></div><div id="text-9" class="sb-widget clearfix widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Ad 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5140834233256479"
+     data-ad-slot="2448993943"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="emailsubscriptionwidget-9" class="sb-widget clearfix EmailSubscriptionWidget"><h4 class="widget-title"><span>Subscribe to Pulsamerica</span></h4>        <div id='emailSub-widget'>
+            <div id="emailSub-output" style="display:none;"></div>
+            <form id="emailSub-form" action="http://www.pulsamerica.co.uk/wp-admin/admin-ajax.php">
+                <input type="hidden" name="success_msg" id="emailSub-success" value="Thank you for subscribing" />
+                <input type="hidden" name="fail_msg" id="emailSub-fail" value="Some unexpected error occurred" />
+                                <input type="text" name="email" id="emailSub-email" placeholder="Email:" />
+                <br />
+                <input type="submit" class="submit" value="Subscribe" />
+                            </form>
+        </div>
+        </div><div id="tag_cloud-3" class="sb-widget clearfix widget_tag_cloud"><h4 class="widget-title"><span>Popular Tags</span></h4><div class="tagcloud"><a href='http://www.pulsamerica.co.uk/tag/ailana-navarez/' class='tag-link-9733 tag-link-position-1' title='59 topics' style='font-size: 8.9859154929577pt;'>ailana navarez</a>
+<a href='http://www.pulsamerica.co.uk/tag/argentina/' class='tag-link-9602 tag-link-position-2' title='165 topics' style='font-size: 17.661971830986pt;'>Argentina</a>
+<a href='http://www.pulsamerica.co.uk/tag/bolivia/' class='tag-link-9603 tag-link-position-3' title='91 topics' style='font-size: 12.535211267606pt;'>Bolivia</a>
+<a href='http://www.pulsamerica.co.uk/tag/brazil/' class='tag-link-9604 tag-link-position-4' title='272 topics' style='font-size: 22pt;'>Brazil</a>
+<a href='http://www.pulsamerica.co.uk/tag/central-america/' class='tag-link-9605 tag-link-position-5' title='103 topics' style='font-size: 13.718309859155pt;'>Central America</a>
+<a href='http://www.pulsamerica.co.uk/tag/chile/' class='tag-link-9610 tag-link-position-6' title='146 topics' style='font-size: 16.676056338028pt;'>Chile</a>
+<a href='http://www.pulsamerica.co.uk/tag/china/' class='tag-link-87 tag-link-position-7' title='89 topics' style='font-size: 12.338028169014pt;'>China</a>
+<a href='http://www.pulsamerica.co.uk/tag/colombia-2/' class='tag-link-91 tag-link-position-8' title='179 topics' style='font-size: 18.450704225352pt;'>colombia</a>
+<a href='http://www.pulsamerica.co.uk/tag/corruption/' class='tag-link-223 tag-link-position-9' title='95 topics' style='font-size: 12.929577464789pt;'>Corruption</a>
+<a href='http://www.pulsamerica.co.uk/tag/costa-rica/' class='tag-link-9612 tag-link-position-10' title='66 topics' style='font-size: 9.9718309859155pt;'>Costa Rica</a>
+<a href='http://www.pulsamerica.co.uk/tag/cuba/' class='tag-link-9613 tag-link-position-11' title='122 topics' style='font-size: 15.098591549296pt;'>Cuba</a>
+<a href='http://www.pulsamerica.co.uk/tag/dilma-rousseff/' class='tag-link-172 tag-link-position-12' title='106 topics' style='font-size: 13.915492957746pt;'>Dilma Rousseff</a>
+<a href='http://www.pulsamerica.co.uk/tag/dominican-republic/' class='tag-link-26 tag-link-position-13' title='66 topics' style='font-size: 9.9718309859155pt;'>dominican republic</a>
+<a href='http://www.pulsamerica.co.uk/tag/economy/' class='tag-link-40 tag-link-position-14' title='92 topics' style='font-size: 12.732394366197pt;'>economy</a>
+<a href='http://www.pulsamerica.co.uk/tag/ecuador/' class='tag-link-9606 tag-link-position-15' title='106 topics' style='font-size: 13.915492957746pt;'>Ecuador</a>
+<a href='http://www.pulsamerica.co.uk/tag/education/' class='tag-link-142 tag-link-position-16' title='73 topics' style='font-size: 10.760563380282pt;'>Education</a>
+<a href='http://www.pulsamerica.co.uk/tag/elections/' class='tag-link-76 tag-link-position-17' title='74 topics' style='font-size: 10.957746478873pt;'>elections</a>
+<a href='http://www.pulsamerica.co.uk/tag/el-salvador/' class='tag-link-193 tag-link-position-18' title='106 topics' style='font-size: 13.915492957746pt;'>El Salvador</a>
+<a href='http://www.pulsamerica.co.uk/tag/farc/' class='tag-link-276 tag-link-position-19' title='78 topics' style='font-size: 11.352112676056pt;'>FARC</a>
+<a href='http://www.pulsamerica.co.uk/tag/guatemala/' class='tag-link-153 tag-link-position-20' title='71 topics' style='font-size: 10.56338028169pt;'>Guatemala</a>
+<a href='http://www.pulsamerica.co.uk/tag/haiti/' class='tag-link-28 tag-link-position-21' title='62 topics' style='font-size: 9.3802816901408pt;'>haiti</a>
+<a href='http://www.pulsamerica.co.uk/tag/honduras/' class='tag-link-47 tag-link-position-22' title='70 topics' style='font-size: 10.366197183099pt;'>Honduras</a>
+<a href='http://www.pulsamerica.co.uk/tag/hugo-chavez/' class='tag-link-330 tag-link-position-23' title='129 topics' style='font-size: 15.492957746479pt;'>Hugo Chavez</a>
+<a href='http://www.pulsamerica.co.uk/tag/human-rights/' class='tag-link-221 tag-link-position-24' title='158 topics' style='font-size: 17.267605633803pt;'>Human Rights</a>
+<a href='http://www.pulsamerica.co.uk/tag/inflation/' class='tag-link-335 tag-link-position-25' title='59 topics' style='font-size: 8.9859154929577pt;'>inflation</a>
+<a href='http://www.pulsamerica.co.uk/tag/latin-america/' class='tag-link-1076 tag-link-position-26' title='53 topics' style='font-size: 8pt;'>Latin America</a>
+<a href='http://www.pulsamerica.co.uk/tag/mercosur/' class='tag-link-207 tag-link-position-27' title='58 topics' style='font-size: 8.7887323943662pt;'>mercosur</a>
+<a href='http://www.pulsamerica.co.uk/tag/mexico/' class='tag-link-9607 tag-link-position-28' title='191 topics' style='font-size: 18.845070422535pt;'>Mexico</a>
+<a href='http://www.pulsamerica.co.uk/tag/nicaragua/' class='tag-link-48 tag-link-position-29' title='57 topics' style='font-size: 8.5915492957746pt;'>Nicaragua</a>
+<a href='http://www.pulsamerica.co.uk/tag/nicolas-maduro/' class='tag-link-2277 tag-link-position-30' title='82 topics' style='font-size: 11.746478873239pt;'>Nicolás Maduro</a>
+<a href='http://www.pulsamerica.co.uk/tag/oil/' class='tag-link-160 tag-link-position-31' title='61 topics' style='font-size: 9.1830985915493pt;'>Oil</a>
+<a href='http://www.pulsamerica.co.uk/tag/panama/' class='tag-link-9611 tag-link-position-32' title='55 topics' style='font-size: 8.3943661971831pt;'>Panama</a>
+<a href='http://www.pulsamerica.co.uk/tag/peru-2/' class='tag-link-249 tag-link-position-33' title='108 topics' style='font-size: 14.112676056338pt;'>peru</a>
+<a href='http://www.pulsamerica.co.uk/tag/pinera/' class='tag-link-244 tag-link-position-34' title='60 topics' style='font-size: 9.1830985915493pt;'>Piñera</a>
+<a href='http://www.pulsamerica.co.uk/tag/police/' class='tag-link-246 tag-link-position-35' title='63 topics' style='font-size: 9.5774647887324pt;'>police</a>
+<a href='http://www.pulsamerica.co.uk/tag/protest/' class='tag-link-379 tag-link-position-36' title='57 topics' style='font-size: 8.5915492957746pt;'>protest</a>
+<a href='http://www.pulsamerica.co.uk/tag/protests/' class='tag-link-127 tag-link-position-37' title='113 topics' style='font-size: 14.507042253521pt;'>protests</a>
+<a href='http://www.pulsamerica.co.uk/tag/puerto-rico/' class='tag-link-27 tag-link-position-38' title='59 topics' style='font-size: 8.9859154929577pt;'>puerto rico</a>
+<a href='http://www.pulsamerica.co.uk/tag/rafael-correa/' class='tag-link-158 tag-link-position-39' title='60 topics' style='font-size: 9.1830985915493pt;'>Rafael Correa</a>
+<a href='http://www.pulsamerica.co.uk/tag/security/' class='tag-link-607 tag-link-position-40' title='54 topics' style='font-size: 8.1971830985915pt;'>security</a>
+<a href='http://www.pulsamerica.co.uk/tag/united-nations/' class='tag-link-358 tag-link-position-41' title='78 topics' style='font-size: 11.352112676056pt;'>United Nations</a>
+<a href='http://www.pulsamerica.co.uk/tag/united-states/' class='tag-link-205 tag-link-position-42' title='76 topics' style='font-size: 11.154929577465pt;'>united states</a>
+<a href='http://www.pulsamerica.co.uk/tag/uruguay/' class='tag-link-9609 tag-link-position-43' title='82 topics' style='font-size: 11.746478873239pt;'>Uruguay</a>
+<a href='http://www.pulsamerica.co.uk/tag/venezuela-2/' class='tag-link-88 tag-link-position-44' title='166 topics' style='font-size: 17.661971830986pt;'>venezuela</a>
+<a href='http://www.pulsamerica.co.uk/tag/violence/' class='tag-link-247 tag-link-position-45' title='53 topics' style='font-size: 8pt;'>violence</a></div>
+</div><div id="mh_newsdesk_lite_custom_posts-3" class="sb-widget clearfix widget_mh_newsdesk_lite_custom_posts">		<div class="mh-cp-widget clearfix">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/op-ed-can-leftist-populism-be-defeated-in-south-america/" title="OP-ED: POLITICS: Can Leftist Populism be Defeated in South America?"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/venezuela-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="Barbaro: &quot;These anti-liberal policies seemed to be the solution to underdevelopment in South America, but were the opposite.&quot; Photo (c) Centro Tampa 2017" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/venezuela-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/venezuela-777x437.jpg 777w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/venezuela-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 25, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/op-ed-can-leftist-populism-be-defeated-in-south-america/" title="OP-ED: POLITICS: Can Leftist Populism be Defeated in South America?" rel="bookmark">OP-ED: POLITICS: Can Leftist Populism be Defeated in South America?</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/culture-use-travel-agent-book-latin-america-caribbean-cruise/" title="CULTURE: Should You Use a Travel Agent to Book Your Latin America and Caribbean Cruise?"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/crucero-cuba-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="Cruising Latin America and the Caribbean is a timeless travel bucket list item. But is a travel agent necessary to arranging this? Photo (c) 20 Minutos 2016" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/crucero-cuba-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/crucero-cuba-777x437.jpg 777w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/crucero-cuba-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 25, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/culture-use-travel-agent-book-latin-america-caribbean-cruise/" title="CULTURE: Should You Use a Travel Agent to Book Your Latin America and Caribbean Cruise?" rel="bookmark">CULTURE: Should You Use a Travel Agent to Book Your Latin America and Caribbean Cruise?</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/jamaica-perversion-in-pardise/" title="JAMAICA: Perversion in Paradise"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-jamaica-child-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="COHA: &quot;The horrifying statistics and details of Jamaica’s sex abuse crisis begs the question of why this is happening.&quot; Photo (c) Flicker 2017" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-jamaica-child-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-jamaica-child-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 17, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/jamaica-perversion-in-pardise/" title="JAMAICA: Perversion in Paradise" rel="bookmark">JAMAICA: Perversion in Paradise</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/world_cup_2018_latin_america_teams_looking_sharpin_world_cup_qualifiers/" title="WORLD CUP 2018: Latin American Teams Looking Sharp in World Cup Qualifiers"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/Churta-Fondo-Eliminatorias-Rusia-2018-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="World Cup qualifiers are well under way and we&#039;ve already seen our fair share of surprises." srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/Churta-Fondo-Eliminatorias-Rusia-2018-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/Churta-Fondo-Eliminatorias-Rusia-2018-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 13, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/world_cup_2018_latin_america_teams_looking_sharpin_world_cup_qualifiers/" title="WORLD CUP 2018: Latin American Teams Looking Sharp in World Cup Qualifiers" rel="bookmark">WORLD CUP 2018: Latin American Teams Looking Sharp in World Cup Qualifiers</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/economy_the_limited_resilience_of_south_america_commodity_boom/" title="ECONOMY: The Limited Resilience of South America&#8217;s Commodity Boom"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-commodity-boom-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="High commodity prices and mineral royalties increased government revenue. Extra money was invested in education, healthcare, and social-assistance programs. Photo (c) Shale Seguro 207" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-commodity-boom-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-commodity-boom-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 7, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/economy_the_limited_resilience_of_south_america_commodity_boom/" title="ECONOMY: The Limited Resilience of South America&#8217;s Commodity Boom" rel="bookmark">ECONOMY: The Limited Resilience of South America&#8217;s Commodity Boom</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/op-ed-panama-neutralizing-vs-honoring-power-ex-zsar-dariens-fate/" title="PANAMA: Neutralizing vs. Honoring Power &#8211; The Ex-&#8220;Zsar of the Darien&#8217;s&#8221; Fate"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/Pulsamerica-abrego-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="Zsars don&#039;t topple quietly. So why did Panama&#039;s powerful border patrol head Frank Abrego suddenly disappear off public radar? The spotlight-to-shadow transition results one-year later shed light on modern power dynamics. Photo (c) Panama America 2015" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/Pulsamerica-abrego-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/Pulsamerica-abrego-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 4, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/op-ed-panama-neutralizing-vs-honoring-power-ex-zsar-dariens-fate/" title="PANAMA: Neutralizing vs. Honoring Power &#8211; The Ex-&#8220;Zsar of the Darien&#8217;s&#8221; Fate" rel="bookmark">PANAMA: Neutralizing vs. Honoring Power &#8211; The Ex-&#8220;Zsar of the Darien&#8217;s&#8221; Fate</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/04/culture-6-unrivalled-travel-experiences-in-the-amazon/" title="CULTURE: 6 Unrivalled Travel Experiences in the Amazon"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-amazon-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="The Amazon promises adventure, untouched natural environments and insights into ancient tribal traditions. Photo (c) G Adventures 2017" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-amazon-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/04/pulsamerica-amazon-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">April 4, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/04/culture-6-unrivalled-travel-experiences-in-the-amazon/" title="CULTURE: 6 Unrivalled Travel Experiences in the Amazon" rel="bookmark">CULTURE: 6 Unrivalled Travel Experiences in the Amazon</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/03/top-places-latin-america-bang-buck/" title="CULTURE: Top Places in Latin America Which are a Bang for the Buck"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/Cafayate-Horse-Riding-LO-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="Latin America is home to some really affordable locations cities that are quite popular among the travelers for an extended stay. Photo (c) Zehren &amp; Associates" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/Cafayate-Horse-Riding-LO-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/Cafayate-Horse-Riding-LO-777x437.jpg 777w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/Cafayate-Horse-Riding-LO-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">March 27, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/03/top-places-latin-america-bang-buck/" title="CULTURE: Top Places in Latin America Which are a Bang for the Buck" rel="bookmark">CULTURE: Top Places in Latin America Which are a Bang for the Buck</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/03/south-america-geopolitical-forecast-of-2017/" title="POLITICS: South American Geopolitical Forecast of 2017"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/maduro-temer-macri-cartes-ppk-bachelet-santos-vasquez-copy-120x67.jpg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="Since many South American nations have dollar driven debts, the fact that the U.S dollar is expected to remain strong in the immediate future, many governments will struggle to pay their debt fees and experience a decline in budget revenues." srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/maduro-temer-macri-cartes-ppk-bachelet-santos-vasquez-copy-120x67.jpg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/maduro-temer-macri-cartes-ppk-bachelet-santos-vasquez-copy-260x146.jpg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">March 23, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/03/south-america-geopolitical-forecast-of-2017/" title="POLITICS: South American Geopolitical Forecast of 2017" rel="bookmark">POLITICS: South American Geopolitical Forecast of 2017</a></h3>
+				</article>
+				<hr class="mh-separator">				<article class="cp-wrap cp-small clearfix">
+					<div class="cp-thumb-small">
+						<a href="http://www.pulsamerica.co.uk/2017/03/culture-cafayate-argentina-undiscovered-wine-region/" title="CULTURE: CAFAYATE, ARGENTINA &#8211; &#8220;Undiscovered Wine Region&#8221;"><img width="120" height="67" src="http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/vineyards-120x67.jpeg" class="attachment-cp-thumb-small size-cp-thumb-small wp-post-image" alt="Enchanting Travels guest writer Rhonda Ainsworth and her daughter traveled to Argentina, stopping for a night in Cafayate to experience the renowned Argentine wines. Photo (c) Enchanting Travels 2017" srcset="http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/vineyards-120x67.jpeg 120w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/vineyards-777x437.jpeg 777w, http://www.pulsamerica.co.uk/wp-content/uploads/2017/03/vineyards-260x146.jpeg 260w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					</div>
+					<p class="entry-meta"><span class="updated">March 20, 2017</span></p>
+					<h3 class="cp-title-small"><a href="http://www.pulsamerica.co.uk/2017/03/culture-cafayate-argentina-undiscovered-wine-region/" title="CULTURE: CAFAYATE, ARGENTINA &#8211; &#8220;Undiscovered Wine Region&#8221;" rel="bookmark">CULTURE: CAFAYATE, ARGENTINA &#8211; &#8220;Undiscovered Wine Region&#8221;</a></h3>
+				</article>
+				<hr class="mh-separator">		</div></div><div id="archives-7" class="sb-widget clearfix widget_archive"><h4 class="widget-title"><span>Archives</span></h4>		<ul>
+			<li><a href='http://www.pulsamerica.co.uk/2017/04/'>April 2017</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2017/03/'>March 2017</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2017/02/'>February 2017</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2017/01/'>January 2017</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/12/'>December 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/11/'>November 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/10/'>October 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/09/'>September 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/08/'>August 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/07/'>July 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/06/'>June 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/05/'>May 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/04/'>April 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/03/'>March 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/02/'>February 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2016/01/'>January 2016</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/12/'>December 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/11/'>November 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/10/'>October 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/09/'>September 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/08/'>August 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/07/'>July 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/06/'>June 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/05/'>May 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/04/'>April 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/03/'>March 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/02/'>February 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2015/01/'>January 2015</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/12/'>December 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/11/'>November 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/10/'>October 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/09/'>September 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/08/'>August 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/07/'>July 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/06/'>June 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/05/'>May 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/04/'>April 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/03/'>March 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/02/'>February 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2014/01/'>January 2014</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/12/'>December 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/11/'>November 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/10/'>October 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/09/'>September 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/08/'>August 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/07/'>July 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/06/'>June 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/05/'>May 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/04/'>April 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/03/'>March 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/02/'>February 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2013/01/'>January 2013</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/12/'>December 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/11/'>November 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/10/'>October 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/09/'>September 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/08/'>August 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/07/'>July 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/06/'>June 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/05/'>May 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/04/'>April 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/03/'>March 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/02/'>February 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2012/01/'>January 2012</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/12/'>December 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/11/'>November 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/10/'>October 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/09/'>September 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/08/'>August 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/07/'>July 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/06/'>June 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/05/'>May 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/04/'>April 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/03/'>March 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/02/'>February 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2011/01/'>January 2011</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2010/12/'>December 2010</a></li>
+	<li><a href='http://www.pulsamerica.co.uk/2010/11/'>November 2010</a></li>
+		</ul>
+		</div><div id="meta-5" class="sb-widget clearfix widget_meta"><h4 class="widget-title"><span>Meta</span></h4>			<ul>
+						<li><a rel="nofollow" href="http://www.pulsamerica.co.uk/wp-login.php" id="social_login">Log in</a></li>
+			<li><a href="http://www.pulsamerica.co.uk/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.pulsamerica.co.uk/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div></aside>
 </div>
-
-<p style="text-align: center;"><span style="font-size:80%;"><a href="/nav:side">edit this panel</a></span></p>
-
-                        
-
-
-                    </div>
-                
-                
-                <!-- google_ad_section_end -->
-                
-                <div id="main-content">
-                    <div id="action-area-top"></div>
-                    
-                    
-                        <div id="page-title">
-                            APPO - A New Social Movement In Oaxaca
-                        </div>
-                    
-
-                    
-
-                                    <!-- wikidot_top_728x90 -->
-<div id="div-gpt-ad-1410946564449-1" style="display: none" class="wd-adunit wd-adunit-dfp wd-adunit-above_content">
-
+</div>
+<footer class="mh-footer">
+	<div class="wrapper-inner">
+		<p class="copyright">Copyright 2017 | MH Newsdesk lite by <a href="http://www.mhthemes.com/" rel="nofollow">MH Themes</a></p>
+	</div>
+</footer>
+<script type='text/javascript' src='http://www.pulsamerica.co.uk/wp-content/plugins/email-subscription/assets/email-subscription.js?ver=1.0'></script>
 <script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410946564449-1'); });
+/* <![CDATA[ */
+var Sociali18n = {"commentReplyTitle":"Post a Reply"};
+/* ]]> */
 </script>
-</div>
-
-            
-
-
-                    <div id="page-content">
-                        
-
-<p>Oaxaca, a modern Mexican state suffered in 2006 what can be considered one of the worst times of turmoil in the last 50 years. During this year, a strike of the teachers union suddenly and with radical activism transformed into what it became a fully grown, well developed social movement where the different identities that consolidate the state gathered together under a single cause, designing a better, more optimistic and democratic society. This social movement called Asamblea Popular de los Pueblos de Oaxaca (APPO) rapidly gain momentum to denounce condemn and defy the corrupt government of Ulises Ruiz. This paper offers a short description of the movement, the circumstances than lead to its creation and why can be put under the umbrella of New Social Movement.</p>
-<p>In order to understand what went on that year, it should be first study couple different points. The first key point is the role that teachers have played in the state of Oaxaca. In a context where more than 30&nbsp;% of the population is at the margin of the educational system and thousands of children have to leave school to help or become the support of poor families, state educators have been converted into the sole individuals educated enough and capable enough to challenge the hegemonic and clientelist government that rules the entity (Gálvez de Aguinaga 2007:39). This means that the masses think of teachers not only as influential figures in the classrooms but also in the political sphere like community leaders, local organizers, local authority advisors and in some cases like municipal presidents themselves. This ideology have created a bilateral relationship where teachers feel the need to do something for the community where they work because they, or at least seem to, understand the precarious lifestyles that predominates in the rural areas of the state.</p>
-<p>Another key issue that must be study first in order to appreciate the social movement that was born in Oaxaca during the summer of 2006 is that year itself. 2006 represented a very political year not only for the Oaxacan state but for the whole Mexican nation. With presidential campaigns getting to the last part of the long, conflicting run, the media was paying more attention to what was going on at the Mexican capital that with the teachers strike back in Oaxaca (Hernández Navarro 2006: 72). This help to rush the euphoria of the people of Oaxaca, particularly of the teachers who saw that their message wasn’t reaching the majority of the Mexican residents. Adding to this, the state government also launched a media campaign to discredit the teacher strike so that the people, who had helped them in the past, didn’t do so in 2006 ((Hernández Navarro 2006:71).</p>
-<p>The last point that must be considered to comprehend the events of 2006 is the hegemony and the political machine build by the state government. In what Gálvez de Aguinaga calls a fraudulent and suspicion election (Gálvez de Aguinaga 2006); state Governor Ulises Ruiz stole the elections to keep the fraudulent PRI (Institutional Revolutionary Party) in power. In order to pacify the people who haven’t elected at the polls, Ulises Ruiz dedicated his first months as Governor to suppress indigenous and farmer movements as well as NGOs and, as it was said, he used the media on his favor and censored the parts that spoke against him.</p>
-<p>In this state of repression and censorship as well as ideological turmoil, only more violence could take place. In June 14, the governor ordered a violent repression of the teachers strike and using tear gas and helicopters, hundreds of state police started what people referred as “open aggression by the state government” causing 92 injured and many more intoxicated (Beas Torres 2006). In the chaos of the day, the teachers were able to resist the police charge regaining control of Oaxaca’s main plaza. This event bombarded the already agitated people of Oaxaca calling them to take actions against the repressive and now violent government.</p>
-<p>Using the events of June 14 as the prime mover and the idea of change, 360 organizations congregate in a popular assembly with the goal to eradicate the no-longer legitimate state government. Among these groups there where different indigenous organizations, farmers organizations, student bodies, women-rights advocators, environmentalist, clergy and NGOs that from this point on would use the acronym of APPO (Popular Assembly of the Peoples of Oaxaca- Asamble Popular De Los Pueblos de Oaxaca in Spanish) to fight back the repressive actions that the government was constantly doing against the now more organized social movement (Rendón Corona 2008). Using Radical civil disobedience, APPO set barricades to gain control of state capital, used sit-ins to expand the movement into the streets and took control of local and state, and later also private, radio stations as well as TV states that were used to give a better more clearer view of the movement and to call for masses and help from the citizens of Oaxaca (Beas Torres 2006: 237-240). For several months the state of Oaxaca was submerged under the confrontation between the different organizations that formed APPO and the police, often resulting in violent gunshots, hundreds of imprisonments and fear from citizens that, after seeing the aggressive atmosphere Oaxaca city was suffering, didn’t had any option but to called for ending the struggle so peace could came back to the city (Gálvez de Aguinaga 2007). What all this violence caused was the partition of population in two sides, the ones that supported the movement and wanted to continue the fight until the goals were achieved and the opposite side that were against APPO because of the aggressiveness and radicalism of the movement, even though the government was also a key player in all this hostility. At the end, APPO failed to realize its stated goals but it didn’t die either, it lives in the minds of the peoples of Oaxaca who saw a spark of hope when common citizens challenged the hegemony of the government.</p>
-<p>Now the question is why are all these actions taken by the APPO categorized as a new social movement? Besides many aspects, the main factor that marks APPO as a new social movement is the factor that the organizations didn’t want to deal with any political party, liberal or conservative, because they saw that the political parties are part of the big machine that runs the state. This leads us to the second point why APPO is a NSM, the idea that APPO was formed to face the neoliberal ideology represented by the political machine of the Mexican government that embraces capitalist ideas at the expense of citizens (Beas Torres 2006). Another point that puts APPO into the new social movements in Latin America is the fact that it was able to solidify different and vary identities creating a collective ideology under which it manage to support the popular uprising.</p>
-<p>Lastly, because of the big number of grassroots organizations that took part in the creation of APPO, it is difficult to place it under a particular type of social movement. It might be seen as an Indigenous movement, since a lot of the organizations were from indigenous rural areas but most of the people who took part in the sit-ins were common citizens from the city of Oaxaca. Also, there was a branch made by women who was very active in the movement taking the radio stations and the local channels but where a minority within APPO, however. So, in order to understand the nature of APPO, one should recognize the plurality of identities that formed APPO, plurality crucial to the activism of the movement. Therefore, trying to categorize APPO within the demarcations of a particular type of popular movement only shows the multiplicity of identities that form the human ideology. Whatever the case is, APPO, a social movement born within the streets of Oaxaca City, represents more than a violent reaction to the hegemony of the government, it represent hope for a more perfect Oaxacan society.</p>
-<p><strong>References Cited</strong><br />
-Beas Torres, Carlos<br />
-2006 Oaxaca, Una Rebelión Plebeya. Revista del Observatorio Social de América Latina 21: 231-244.</p>
-<p>Gálvez de Aguinaga, Fernando<br />
-2007 Dictadura y Levantamiento Popular. Biodiversidad Sustento y Culturas 50-51: 37-44.</p>
-<p>Hernández Navarro, Luis<br />
-2006 Oaxaca: Sublevación y Crisis de un Sistema Regional de Dominio. Revista del Observatorio Social de América Latina 20: 70-77.</p>
-<p>Rendón Corona, Armando<br />
-2008 El Poder Popular y la Asamblea Popular de los Pueblos de Oaxaca. APPO, 2006. Polis, Investigación y Análisis Sociopolítico y Psicosocial 4: 39-70.</p>
-
-                    </div>
-
-                                    <!-- wikidot_bottom_300x250 -->
-<div id="div-gpt-ad-1410946564449-0" style="display: none" class="wd-adunit wd-adunit-dfp wd-adunit-below_content">
-
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410946564449-0'); });
-</script>
-</div>
-
-            
-
-
-                    
-
-                    <div id="page-info-break"></div>
-                    
-                        <div id="page-options-container">
-                            <div id="page-info">page revision: 0, last edited: <span class="odate time_1241988522 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">10 May 2009 20:48</span></div>
-            <div id="page-options-bottom"  class="page-options-bottom">
-            <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
-<a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
-
-<a href="javascript:;" class="btn btn-default" id="history-button">History</a>
-<a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
-<a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
-<a href="javascript:;" class="btn btn-default" id="site-tools-button">Site tools</a>
-<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Options</a> 
-</div>
-<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
-    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edit Sections</a>
-    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Append</a>
-    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edit Meta</a>
-    <a href="javascript:;" class="btn btn-default" id="watchers-button">Watchers</a> 
-    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Backlinks</a> 
-    <a href="javascript:;" class="btn btn-default" id="view-source-button">Page Source</a> 
-    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Parent</a> 
-    <a href="javascript:;" class="btn btn-default" id="page-block-button">Lock Page</a>    
-    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Rename</a> 
-    <a href="javascript:;" class="btn btn-default" id="delete-button">Delete</a> 
-</div>
-<div id="page-options-area-bottom">
-</div>
-
-                        </div>
-                    
-                    <div id="action-area" style="display: none;"></div>
-                </div>
-            </div>
-            
-            
-            
-            <div id="footer" style="display: block; visibility: visible;">
-                <div class="options" style="display: block; visibility: visible;">
-    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
-    &nbsp;|
-    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
-    &nbsp;|
-    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
-    &nbsp;|
-    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
-    &nbsp;|
-    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
-</div>
-Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
-            </div>
-            
-                <div id="license-area" class="license-area">
-                    Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
-                </div>
-            
-            
-            
-
-
-
-            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
-            
-            
-            
-            
-                <div id="footer-bar">
-  <div>
-     </div>
-  <h2>Other interesting sites</h2>
-  
-  <div class="units">
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ecomind.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ecomind.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ecomind.wikidot.com">Ecology, Mind, &amp; Systems</a></h3>
-            <div class="desc">          
-              Personal, Social, Cultural, Technological, and Ecological Explorations
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://biol-117.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol-117.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://biol-117.wikidot.com">Principles of Biology II</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://ds10.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/ds10.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://ds10.wikidot.com">מבני נתונים</a></h3>
-            <div class="desc">          
-              סמסטר ב&#039;, תש&quot;ע
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://indexhibit.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/indexhibit.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://indexhibit.wikidot.com">indexhibit customisations</a></h3>
-            <div class="desc">          
-              
-            </div>
-          </div>
-        </div>
-        </div>
-  </div>
-
-            
-        </div>
-        
-    </div>
-<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
-<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
-<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
-</div>
-                <!-- out_of_page -->
-
-<div id="div-gpt-ad-1411637977813-0-oop">
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411637977813-0-oop'); });
-</script>
-</div>
-
-            
-
-</div>
-<div id="dummy-ondomready-block" style="display: none;" ></div>
-    <!-- Google Analytics load -->
-    <script type="text/javascript">
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-
-    <!-- Quantcast -->
-    <script type="text/javascript">
-    _qoptions={
-        qacct:"p-edL3gsnUjJzw-"
-    };
-    (function() {
-        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
-        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
-    })();
-    </script>
-    <noscript>
-        <img src="http://pixel.quantserve.com/pixel/p-edL3gsnUjJzw-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-    </noscript>
-
-
-
-<script type="text/javascript">
-  var vglnk = { api_url: '//api.viglink.com/api',
-                key: '3755fbf465dcd24d7f23d703cb98f0bd' };
-
-  (function(d, t) {
-    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
-             '//cdn.viglink.com/api') + '/vglnk.js';
-    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
-  }(document, 'script'));
-</script>
-
-<div id="page-options-bottom-tips" style="display: none;">
-    <div id="edit-button-hovertip">
-        Click here to edit contents of this page.    </div>
-</div>
-<div id="page-options-bottom-2-tips"  style="display: none;">
-    <div id="edit-sections-button-hovertip">
-        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
-    <div id="edit-append-button-hovertip">
-        Append content without editing the whole page source.    </div>
-    <div id="history-button-hovertip">
-        Check out how this page has evolved in the past.    </div>
-    <div id="discuss-button-hovertip">
-        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
-    <div id="files-button-hovertip">
-        View and manage file attachments for this page.    </div>
-    <div id="site-tools-button-hovertip">
-        A few useful tools to manage this Site.    </div>
-    <div id="backlinks-button-hovertip">
-        See pages that link to and include this page.    </div>
-    <div id="rename-move-button-hovertip">
-        Change the name (also URL address, possibly the category) of the page.    </div>
-    <div id="view-source-button-hovertip">
-        View wiki source for this page without editing.    </div>
-    <div id="parent-page-button-hovertip">  
-        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
-            <div id="abuse-report-button-hovertip">
-            Notify administrators if there is objectionable content in this page.        </div>
-        <div id="bug-report-button-hovertip">
-            Something does not work as expected? Find out what you can do.        </div>
-        <div id="wikidot-help-button-hovertip">
-            General Wikidot.com documentation and help section.        </div>
-        <div id="wikidot-tos-button-hovertip">
-            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
-        <div id="wikidot-privacy-button-hovertip">
-            Wikidot.com Privacy Policy.          
-        </div>
-    </div>
+<script type='text/javascript' src='http://www.pulsamerica.co.uk/wp-content/plugins/social/assets/social.js?ver=3.1.1'></script>
+<script type='text/javascript' src='http://www.pulsamerica.co.uk/wp-includes/js/wp-embed.min.js?ver=4.6.5'></script>
 </body>
 </html>
+<!-- Dynamic page generated in 0.563 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-05-04 14:59:51 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

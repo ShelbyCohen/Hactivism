@@ -1,73 +1,33 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html lang="en-us" class="no-js ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>    <html lang="en-us" class="no-js ie lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>    <html lang="en-us" class="no-js ie lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en-us" class="no-js"> <!--<![endif]-->
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<title>Is the Pro-Choice Movement Is Losing the Fight for Abortion Rights? | TIME.com</title>
-	
-<meta name="description" content="Cover Photograph by Jamie Chung for TIME In January 1973, the Supreme Court made access to abortion a federally protected right. As I write in this week’s TIME cover story, that seemingly decisive victory 40 years ago kicked off a war that the pro-choice movement has been losing ever since." />
-<meta name="keywords" content="health &amp; science, law, medicine, politics, public health, state &amp; local governments, u.s., abortion rights, prochoice, roe v. wade" />
-<meta name="news_keywords" content="health &amp; science, law, medicine, politics, public health, state &amp; local governments, u.s., abortion rights, prochoice, roe v. wade" />
-		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=ideas.time.com&amp;id=27622548&amp;t=1493157845&amp;back=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F' type="text/javascript"></script>
-		<script type="text/javascript">
-		/* <![CDATA[ */
-			if ( 'function' === typeof WPRemoteLogin ) {
-				document.cookie = "wordpress_test_cookie=test; path=/";
-				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
-					WPRemoteLogin();
-				}
-			}
-		/* ]]> */
-		</script>
-		<link rel='dns-prefetch' href='//s2.wp.com' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//tiads.time.com' />
-<link rel='dns-prefetch' href='//admin.brightcove.com' />
-<link rel='dns-prefetch' href='//cdn.optimizely.com' />
-<link rel='dns-prefetch' href='//time.com' />
-<link rel='dns-prefetch' href='//s1.wp.com' />
-<link rel='dns-prefetch' href='//timeopinions.wordpress.com' />
-	<script>
-	theme_url = 'http://ideas.time.com/wp-content/themes/vip/time2012';
-	ajaxurl = 'http://ideas.time.com/wp-admin/admin-ajax.php';
-	ajax_nonce = '7b1c4db23c';
-	ad_mode = 'desktop';
-	</script>
-	<link rel="alternate" type="application/rss+xml" title="Ideas &raquo; Has The Fight For Abortion Rights Been Lost? Comments Feed" href="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/feed/" />
-<link rel="canonical" href="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" />
-	<script type="text/javascript">
-		/* <![CDATA[ */
-		function addLoadEvent(func) {
-			var oldonload = window.onload;
-			if (typeof window.onload != 'function') {
-				window.onload = func;
-			} else {
-				window.onload = function () {
-					oldonload();
-					func();
-				}
-			}
-		}
-		/* ]]> */
-	</script>
-	<meta property="og:site_name" content="TIME.com"/>
-<meta property="og:type" content="article"/>
-<meta property="og:title" content="Has The Fight For Abortion Rights Been Lost?"/>
-<meta property="og:url" content="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/"/>
-<meta property="og:description" content="Getting an abortion is more difficult today than at any point since the 1970s. Is the pro-choice movement losing the battle?"/>
-<meta property="article:publisher" content="http://www.facebook.com/time"/>
-<meta property="og:image" content="https://timeopinions.files.wordpress.com/2013/01/1500_prochoice.jpg?w=600"/>
-<meta property="fb:admins" content="1124331582,512158401,808970553,100000018008769"/>
-<meta property="fb:app_id" content="53177223193"/>
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.4"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
+<!DOCTYPE html><html><head><title>Designer Babies and the Pro-Choice Movement | Dissent Magazine</title><meta
+name="norton-safeweb-site-verification" content="jp8eq9wcf3j69a1j8nsb0a1kip1twtirsdpm33x5-q2cxh8qn9vl8egi0x6bq8cnvwxycgskx2txfd93y53yuln98nfzoz2tc7ta2ogt82z6olmgnz5ydwnn2q7jxuc0" /><link
+rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><link
+rel="icon" type="image/x-icon" href="/favicon.ico" /><meta
+name="robots" content="noodp"/><link
+rel="canonical" href="https://www.dissentmagazine.org/article/designer-babies-and-the-pro-choice-movement" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Designer Babies and the Pro-Choice Movement | Dissent Magazine" /><meta
+property="og:description" content="Over the last century, the link between sex and reproduction has weakened. Feminist activism, aided by technological advances, has given middle-class women in the United States widespread access to effective contraception and safe, legal abortion. Although far too many exceptions &hellip;Continue Reading&hellip;" /><meta
+property="og:url" content="https://www.dissentmagazine.org/article/designer-babies-and-the-pro-choice-movement" /><meta
+property="og:site_name" content="Dissent Magazine" /><meta
+property="article:publisher" content="https://www.facebook.com/dissentmag" /><meta
+property="article:tag" content="Feminism" /><meta
+property="article:section" content="Article" /><meta
+property="fb:admins" content="100005126706773" /><meta
+property="og:image" content="https://www.dissentmagazine.org/wp-content/uploads/Issue-covers-2016-for-FB-1200.png" /><meta
+name="twitter:card" content="summary_large_image" /><meta
+name="twitter:description" content="Over the last century, the link between sex and reproduction has weakened. Feminist activism, aided by technological advances, has given middle-class women in the United States widespread access to effective contraception and safe, legal abortion. Although far too many exceptions &hellip;Continue Reading&hellip;" /><meta
+name="twitter:title" content="Designer Babies and the Pro-Choice Movement | Dissent Magazine" /><meta
+name="twitter:site" content="@dissentmag" /><meta
+name="twitter:image" content="https://www.dissentmagazine.org/wp-content/uploads/Issue-covers-2016-for-FB-1200.png" /><meta
+name="twitter:creator" content="@dissentmag" /><link
+rel='dns-prefetch' href='//ajax.googleapis.com' /><link
+rel='dns-prefetch' href='//fonts.typotheque.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Dissent Magazine &raquo; Feed" href="https://www.dissentmagazine.org/feed" /><link
+rel="alternate" type="application/rss+xml" title="Dissent Magazine &raquo; Comments Feed" href="https://www.dissentmagazine.org/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Dissent Magazine &raquo; Designer Babies and the Pro-Choice Movement Comments Feed" href="https://www.dissentmagazine.org/article/designer-babies-and-the-pro-choice-movement/feed" /> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dissentmagazine.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script> <style type="text/css">img.wp-smiley,
 img.emoji {
 	display: inline !important;
 	border: none !important;
@@ -78,816 +38,299 @@ img.emoji {
 	vertical-align: -0.1em !important;
 	background: none !important;
 	padding: 0 !important;
-}
-</style>
-<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJx9j9EOgjAMRX/IWUE08mD8ljEbGayjWYeEv7dIfFHDS9Pe3JN7CxMbN8SMMQONhsP48FFgYjeQEfIB569r70R28B8LvkeBDjNb15v3tWV3Q0LViW1eHIR3bzEgqW0LIz5/qGVtNWszZq3fNJxQxOgkP5LJrQb9cqsMT8+QPWF5KEp9q0k2zWBFMGttERCXEONC3+haVKe6rIr6eOlevNd8wA==' type='text/css' media='all' />
-<link rel='stylesheet' id='time-header-footer-css'  href='http://time.com/wp-content/themes/vip/time2014/css/header-footer.css?m=1487966328h&#038;ver=4.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJx9i9EKgzAMAH9oXRAydA9j31JLFjPSRmxkv7/6MiaCb3dwBwLFXJKV+oNrqvUCnzk0cSoOeQ2zriytYbKglqKLlZ2El0ZZztaFRjVuyNCqPz1MPlGmChMCq41Rt+CZHx3e7ohD3+H7C83dQx4=' type='text/css' media='all' />
-<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyNkFsOgjAQRTdkKRCM/BjXUmCEqX3ZKRBZvcVgApEEv5pMT+6ZO3x0rLYmgAlcEte2QgWsJ/CijTOG5m4TSSceOTS16hugGZTPHvxreQ4BprH1IkCi0XzhldVZChqIonLnd6tCMyCMh5iE4ET9YB4Ip5/U0EH08QEdD6ghT7OcK6y8iAGCCMKnQpzMF2nAG5z8evdNUbIm3yv2n6QD5cDTEnDT16woL3mZnYtUvgGe+Zie'></script>
-<script type='text/javascript' src='http://tiads.time.com/ads/tgx.js?ver=2.0.3'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://timeopinions.wordpress.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress.com" />
-<link rel='shortlink' href='http://wp.me/p1RTSY-731' />
-<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/4a5a5789fb6022cca3cfc269d8bcb536?s=32" sizes="16x16" />
-<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/4a5a5789fb6022cca3cfc269d8bcb536?s=32" sizes="16x16" />
-<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/4a5a5789fb6022cca3cfc269d8bcb536?s=114" />
-<link rel='openid.server' href='http://timeopinions.wordpress.com/?openidserver=1' />
-<link rel='openid.delegate' href='http://timeopinions.wordpress.com/' />
-<link rel="search" type="application/opensearchdescription+xml" href="http://ideas.time.com/osd.xml" title="Ideas" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
-<script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>	<script>
-		var adConfig, adFactory;
-		adConfig = new TiiAdConfig('3475.tim'); 
-		adConfig.setCmSitename("cm.tim");
-		adConfig.setRevSciTracking(true);
-		adFactory = new TiiAdFactory(adConfig, 'opinions');
-		if( getCookie('time_visit') != null ) adFactory.setParam('rvisit', 'yes');
-		adFactory.setParam('aid', '27095');
-adFactory.setParam('ctype', 'article');
-adFactory.setParam('sch', 'healthscience');
-adFactory.setParam('!c', 'ugc');
-adFactory.setParam('ptype', 'blogs');
-		if( window.location.search.indexOf("scu=bt_news") >= 0 ) {
-			adFactory.setParam('pub', 'siemens');
-		}
-	</script>
-		<script> 
-	var $buoop = {vs:{i:8,f:15,s:4,n:9},reminder:24};
-	$buoop.ol = window.onload; 
-	window.onload=function(){ 
-	 try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
-	 var e = document.createElement("script"); 
-	 e.setAttribute("type", "text/javascript"); 
-	 e.setAttribute("src", "http://browser-update.org/update.js"); 
-	 document.body.appendChild(e); 
-	} 
-	</script> 
-	<meta name="application-name" content="Ideas" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Essential Insights. Great Debates. Informed Opinions." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://ideas.time.com/feed/;icon-uri=http://0.gravatar.com/blavatar/4a5a5789fb6022cca3cfc269d8bcb536?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
-	<script src="http://fonts.timeinc.net/epq2dmc.js"></script>
-	<script>try{Typekit.load();}catch(e){}</script>
-	</head>
-
-<body class="post-template-default single single-post postid-27095 section single-format-article mp6 customizer-styles-applied article single-article time-vertical">
-	
-			<div id="omniture" style="display:none;">
-		<script type="text/javascript">
-					var s_account = 'timecom';
-					</script>
-		<script type="text/javascript" src="http://img.timeinc.net/tii/omniture/h/config/time_s_code.js"></script>	
-		<script type="text/javascript">
-			s_time.prop11 = 'opinions';
-s_time.prop16 = 'opinions';
-s_time.tag = 'op';
-s_time.channel = 'time';
-s_time.pageName = 'opinions|article|has the fight for abortion rights been lost?';
-s_time.prop7 = 'blog';
-s_time.prop14 = 'http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/';
-s_time.prop19 = 'article';
-s_time.prop26 = '2013-01-03';
-s_time.prop28 = 'Kate Pickert';
-s_time.prop30 = 'Has The Fight For Abortion Rights Been Lost?';
-s_time.prop5 = 'Health &amp; Science';
-s_time.prop8 = '27095|opinions';
-			var s_code=s_time.t();
-			if(s_code){
-				document.write(s_code);
-			}
-		</script>					
-	</div>
-		
-		<style>
-	.main-nav{
-		top: 82px !important ;
+}</style><style type="text/css">.powerpress_player .wp-audio-shortcode { max-width: 435px; }</style><link
+rel='stylesheet' id='easy-modal-site-css'  href='https://www.dissentmagazine.org/wp-content/plugins/easy-modal/assets/styles/easy-modal-site.css?ver=0.1' type='text/css' media='all' /><link
+rel='stylesheet' id='dissent-css'  href='https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/styles/dissent.css' type='text/css' media='all' /><link
+rel='stylesheet' id='web-fonts-css'  href='//fonts.typotheque.com/WF-012646-007580.css' type='text/css' media='all' /><link
+rel='stylesheet' id='wp-pagenavi-css'  href='https://www.dissentmagazine.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' /><link
+rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='https://www.dissentmagazine.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13' type='text/css' media='all' /><style id='A2A_SHARE_SAVE-inline-css' type='text/css'>.a2a_svg, .a2a_count { border-radius: 0 !important; }</style> <script type="text/javascript" data-cfasync="false">/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
 	}
-</style>
-<header class="main-header " role="banner">
-	<div class="hat_container">
-		<div id="time_inc_hat">
-		</div>
-	</div>
-  <div class="left-rail-header" role="banner">
-    <a class="header-nav-button time-icons time-icons-menu"
- title="Click to show site navigation"></a>
-<div class="logo-wrap" itemscope itemtype="http://schema.org/Organization">
-        <a itemprop="url" href="http://time.com/" class="logo">
-        <img itemprop="logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAAAyCAYAAADSinAfAAAAAXNSR0IArs4c6QAADLNJREFUeAHtnW3MXUURx58HUctLrdIKImqlFAVrpaWVqkHAEGIETYwK0ogGiAQUiyJiAmjiS0w0MREKFKs29QMoHxoTadEPSqyoH9BiKdSXSqAgBSu2IC3UFlrr7384c7t379m995yz5z73Xp9Jprs7OzM7Oztnd8+efW7HxiZh0gMD5IHxAbKlqyn79++XvS8FXxgfH9/fVcBhQPYgigdXkZWavG1lMyjbvsnVTV07qtqAjpdgh3yxFx376toUks9tld81bkrdfBsNO56WnoMRel4Z4IUcZaDhf/O8Bl95ofIuUszAAsRSN9iVL0Iz0lI5ylAOEyoAr8Pgb5GehL3rSRUgsns3uAdU3lDtSO7l4BRL4RdtDD2LSH6vfEm4DB3LJIOOtSTvUb6fQPvq2yOkb1C7pCdjS+aPknZcg+zXcx17SZ8D5Uuh4sCC1ALXxkGpUHTZInCDrJWXreCLHF3+pQ8aO41Xpnwfgho4DfxAAgbrQRBsJP8m0hk5Hkm6BPtPIu0AeH8B8efgVvJbSZ8CN4FVYJYjdDptvh6djzm0fmRPo90sGPPG3kxaJSCXYvtPkJ0OHgXOBK9Ct9KJgFbkKtptsCfCkF7bzGzEiXqaH8wxk8WJZ5EpDEjoP0Pm+oyx/j/HmgraRO34xyh/02h9Si/w2lFAlgZs34HQn11B+vQRyke7tD7mbbbNZsi/YeC1NK5BdzFkj4R9/CodekeRALpvg/5DUE+BIdkoSL+WBeGpYMtg8j60ni6/InHZnSGlWsHRt4DEv1rSzlXDDmi1SAVBPzKGy2lkLajl3Pj8sTQ6LK3xsnGzeLElXavxIeBU8DXg58EMNEM+TYNa1ioDzro8IrwZ/b+M1Eer0L0XhvkRJtcREbbaVce5GrBrDjifvlVZMl1VveY/QHvTPObjvXKdou0bi3T8hn7eXlRRl0afDkXH1aZHETvoS7aWF3vSzG43bdx+nDYdfIXbaJ7/eAGtKZJmZB9m+4Qa5cb9WGQbgb4L+i78m42xAjLFDJNCR5G9ou0EZWcImmzb2gwN/GIcqW1Fo0AbR9DA2X4j0F8l9OkNlJv28ZPYrNU6G+gJeTJKOE1HErGA7If9hUsjwaD9z1kl+lKV9aO0pX1XEYQeliLeQaVtw7DswdZAx/YOg9ABBWRsyW766ZUP5kYc8YlIXaqqCyOKTozUDUvVgYBkDe9YCgasF89gzx0Rm/oRkG+LtP9BZq+i/WVEpPcqdJ8InhKReEukbliqvoyhOpSPLoUD0RkeGH3eeiBiTD8CMnTOqa8lOr7wj2Mi5pauurCLxJwu9QNfzfjeC2YrdWxvVqYj/QiKkD2Ntk3AvRrsdmB8Sci4OnTa1Ua/25t8bDtRp/kJkU0VkBNifN5oowFJG8HZ0TpN4CwC327lhOnZ3R4G6meC/vlkQhP6q2oUAjLmsRTB2jUgcwOuiBlSse6TPcqlmCVT+KpHc8NsoxCQTTtyXth9bTXnMVPpokISQNdrUdTrC2evNla1rWkft+wahYBsdaahTNsMyea7cHAIoJfR/mUJbbgYnb0euqcIyNjRWsJuxVWlCsjCQYo3Pfi1BIQuNLTO+QjGLZTvjFiuO5MKzFqADo1La7mm3R3gmojStocmwherGogxTBWQsY4Oc50uUOhN12AdmeB1Nnj15eY8Y66RvhddMx35FeRjF1TeCn+vs6mjdmKy2KrLuzou64BRCMgmn2x/KVzHTHUXuLHDkwcInz2QrZy71CRpS59GbwT/YDQ/ZXCnQDvBp5cs93PJ1u2tlUX2jUJAFvUrFc0PSAuKG0INEBwLwXeF6rvRkT0Gnvc7fHcQlJspryfVVbwQaJDrQJMPtm/XbAiFdxAmA9J3VXvZD8h78+rbCI7t7axtpTqz5KUEpbv8ZlsE2vsPLbTd8m5rcWzsZK88yEV97txTZGCqgOzn01XUj+Q0gkJLWOtlQbOUBWEeHN+LNPoh5F8XqS+sQkY3elpffWjnPvDXDrP2sCGoO0OG9Cal535dgNLnixS7G/ai+mGgNbX3ORbnuZcmbLk2n9xMsFwNT4cPRaPuchivMeYe0w8jqxcjA39roIC82Cq9tG5Axvz4bez6Ut6eJh9DkSxvk5KVVSff6NRBpxXCw8Cp6DoI/9xMvgM6nNnBMdwEc1KVXvjLddvshEMfx7GrUHx+QPkl1H8NPi21vYKCOAPkniTz47xoSZsNRlRKW9PAWcg97NJL5IO+Qq8O6YUpYXIPWdKb/ozjz5BSl+3vivQyiNOhX1BUV0SDfx54qlN3C8Hl77Puh6Y/tArBMO0j3X1yqz+jPkO2Oloh05ohCQLNHvZC01IF/R6CSLioRWzP6Pv299tJwVLrWzh6tb+6xeeEvoe2dOTkPyzGqr2ZZu0qEFyyaVdbh7tA3VnUQ6KHQjOcrowJ9+apzXqmS6lQ7ypKtXzriOomcDIgcUIZcAd9E4OyMyCswfpRUR3BowPrM5HVYAYBnhlULnYYbkfmn07ZzerBcG1z6+rMkMElmwbuwZ7VbkN18vRXW4/CgByFt2x7Guv4qE0Wh+kOpM4DDYqWa6tbxWA9boWCtJcjIB31aOYwCG4FYOiYqU2IVDPkMMAmjCz8xJoqIIfBCWVs9GegYEASjFq+lkWUn0OwHReqp05HPe7LzN3oXB/ihx4MSHTpz3VnRmQHpWozhqjfHTAZkB0uyQg9B2Quvpwg0v6qAwgQ+XhJR8UBgv6i8OgDxfCLUs6jFxvt2UIwDLOkHvDCLcAoBGTyJRtntQKSwdemfUNo9EWHZzvJrRGeiwi6qYH6K42OHs0cP7VyUQqPXir+VFSX0wY+IOnDo6B/pJWZPwoBGRmbylWtgETDX3BeL2eJN4RaIxh1wH6RXw/9DNB9EbmRtuxN1Wd3y390C15+oVdOUWzioS+0K1VAxt7QChtOSEzqrHwmO96x7z4nH8wSSPqpwNjbtH420Pf3VaYQ2Z3kV1i5SxrcRyI38DNkrG++g2K8/y91OqB2g3xDiY7HZsnZ6DnHdNGGrou1yuRXEpQ7rL5LGpwh0asXmzd2kR/Y6lEPyCozt7uEauDKBOSdBNVDkdF2j4C+YIGPjJbppRE5v2pDLuPTrTy0s+QoBKQ7m9mA1En9wXygV2XdAosAPBPUYbkuULifFdd0CeQ2E+DdBUFneSFoYh8ZaispfTIgO93ZCkgGfhu4tZMlSum29OoT4ecISt1+MfiOZUqksbPKJv5GvIRp1VlTBWSVpbG61Q1JEiSHo1p7O4P7LdNrSgDvhHdlhF8z46esHn4tv2utXCKNvWwtoC+pV44SplVnTRWQ1S2oL5nS8fMZSNcnPS/XXjeCxzfoPwTUMZBBldlRssGHBf2vpF4vUUMB2HsCeK2MdZ0/FMYXGJkyIOd5+isFJDOeXmzWeLo6ivBpO1B4QNzB3En4ayepjZJy2U7p4zYj88JRpNOUH4WAzPuUJPHfsDfW0Hp9D7K6da6rZlXg78jq5SYEp4QqBpB+JDZln0NHISBTPr2tgGSwtS+OfaKLjivyvwKDMyx1+vb93aiSSGVu34MRlmEKSH3LnwxIdzDZw0yh7P745yMM+rMuT4V88KAcXbeif1sFna5I7OhH++HCGzWugh7zKR/6oia1ZCcNyNhbdtOzcCpnzWUA3Rv0lWdHx+P6c9lQ0MWC1VERzQYP4fMHbG5Uur0yNk7uEVW7VJqSzmWzgHQHII3qTi1NdyYWkLEHxbd0gUeos3/MVBGMuwmM5RSuc3VD13JeWz86H3b1FuQXQgt+ZvT4tUKEQD/top8+UdCE0JX1x8Qv67a44kKoGNT2IntJG4WApC9B8B0RZKTCD8gUM6TaW0bwfZEBdZfPpTFDStQ91oXX71OMvfAGtwSw/VwSYWOAj3TR+cX/G6RMKxin6XUJqENknafpzOudYAjeh8wPqPw3+Ay4E9TPg3R7umFrB/RMh/IZ8AhQeWFs834FMqfDo2VzB6i29SVlC/QryR8DzgD1J56LQBc+Dc8ZEP4FSvZ3yN1NWgqQeQI9qxBaLEHKj5KsVr4soOd8ZOaA6r/sngXGQJd/dVtdfRA+BX4DXAC+G9T4SZf6795woth3qLxk627gOlAXAvaBiuybcLQUKi+6lkrtSTQDG+oJ1FQt3A1WgUMR0jKkdveAT4B6OXiW9DlQRyiqU1tagg4HdTFWqKMFzVIKDoGWINnxEKjZcDV6JC/bZaOWE9NzGPnYkkZ1FL6C7n/kHPqxKtlYBWSz7FO/N4O/RdcKUvldqBVBtqufst1QZRsH8SiQTwMlo/HcDupBlT/Mh7JRY2hjZnpdXaKJx9Avm7ylbr3scHEL5bH/AZIljIwybv85AAAAAElFTkSuQmCC" alt="TIME" />
-                <h2>Time.com</h2>
-            </a>
-    </div>
-    
-<nav class="main-nav" role="navigation">
 
-			<div class="sign-sub-sideRail login-nav-wrapper paywall ">
-			<a href="http://time.com//digital-account/" class="my-account time-icons-user">MY ACCOUNT</a>
-			<a href="#" class="login-nav-item sign-in time-icons-user" data-event="nav-login">SIGN IN</a>
-			<a href="https://auth.time.com/logout.php?turl=http://time.com/" class="login-nav-item sign-out" data-event="nav-login">SIGN OUT</a>
-			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1019480.html" class="subscribe subscribe-except-mobile">SUBSCRIBE</a>
-			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1019575.html" class="subscribe subscribe-mobile">SUBSCRIBE</a>
-		</div>
-	
-	
-	<div class="tertiary-vertical-nav">
-		<div id="main-time-nav" role="navigation">
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-2777126-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
 
-										<a class="main-nav-section" href="http://time.com/" aria-controls="rail-articles" data-event="nav-home">
-					<span>Home</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/us/" aria-controls="rail-articles" data-event="nav-us">
-					<span>U.S.</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/politics/" aria-controls="rail-articles" data-event="nav-politics">
-					<span>Politics</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/world/" aria-controls="rail-articles" data-event="nav-world">
-					<span>World</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/business/" aria-controls="rail-articles" data-event="nav-business">
-					<span>Business</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/tech/" aria-controls="rail-articles" data-event="nav-tech">
-					<span>Tech</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/health/" aria-controls="rail-articles" data-event="nav-health">
-					<span>Health</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/time-health/?iid=HB_time_TFH" aria-controls="rail-articles" data-event="nav-time-health">
-					<span>TIME Health</span>
-				</a>
-				<a class="main-nav-section nav-motto" href="http://motto.time.com/" aria-controls="rail-articles" data-event="nav-motto">
-					<span>Motto</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/entertainment/" aria-controls="rail-articles" data-event="nav-entertainment">
-					<span>Entertainment</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/science/" aria-controls="rail-articles" data-event="nav-science">
-					<span>Science</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/newsfeed/" aria-controls="rail-articles" data-event="nav-newsfeed">
-					<span>Newsfeed</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/living/" aria-controls="rail-articles" data-event="nav-living">
-					<span>Living</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/sports/" aria-controls="rail-articles" data-event="nav-sports">
-					<span>Sports</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/history/" aria-controls="rail-articles" data-event="nav-h  istory">
-					<span>History</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/vault/" aria-controls="rail-articles" data-event="nav-vault">
-					<span>The TIME Vault</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/magazine/" aria-controls="rail-articles" data-event="nav-magazine">
-					<span>Magazine</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/ideas/" aria-controls="rail-articles" data-event="nav-ideas">
-					<span>Ideas</span>
-				</a>
-				<a class="main-nav-section" href="http://time.com/parents/" aria-controls="rail-articles" data-event="nav-parents">
-					<span>Parents</span>
-				</a>
-				<a class="main-nav-section" href="http://labs.time.com/" aria-controls="rail-articles" data-event="nav-labs" target="_blank">
-					<span>TIME Labs</span>
-				</a>
-					</div>
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
 
-		<div class="main-nav-vertical">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-							<a href="http://time.com/money" id="nav-money" aria-controls="rail-articles" data-event="nav-money" >
-					<span>Money</span>
-				</a>
-			
-			<a href="http://time.com/photography/life/" id="nav-life" aria-controls="rail-articles" data-event="nav-life" >
-				<span>LIFE</span>
-			</a>
-
-			
-			<a href="http://www.dailycut.com/" id="nav-dailycut" aria-controls="rail-articles" data-event="nav-dailycut" >
-				<span>The Daily Cut</span>
-			</a>
-		</div>
-	</div>
-
-	
-		<div class="main-nav-media">
-			<a href="http://time.com/photography/" aria-controls="rail-articles" data-event="nav-photography">
-				<span>Photography</span>
-				<span class="time-icons time-icons-photo"></span>
-			</a>
-			<a href="http://time.com/videos/" aria-controls="rail-articles" data-event="nav-video">
-				<span>Videos</span>
-				<span class="time-icons time-icons-video"></span>
-			</a>
-			<a href="http://time.com/section/the-goods/" aria-controls="rail-articles" data-event="nav-the-goods">
-				<span>The Goods</span>
-				<span class="time-icons"></span>
-			</a>
-			<a href="https://shop.time.com/storefront/subscribe-to-time/link/1032684.html?xid=cm-TIMEShopHamburger" aria-controls="rail-articles" >
-				<span>TIME Shop</span>
-			</a>
-			<a href="http://time.com/press-room/" >
-				<span>Press Room</span>
-			</a>
-		</div>
-
-		<div class="tertiary-nav-wrapper tertiary-nav-special">
-			<a href="http://time.com/collection/2016-time-100/">The 100 Most Influential People</a>
-<a href="http://time.com/collection/american-voices/">American Voices</a>
-<a href="http://time.com/finding-home/">Finding Home</a>
-<a href="http://time.com/tag/longevity-2017/">Longevity 2017</a>
-<a href="http://time.com/money/topic/looking-forward/">Looking Forward</a>
-<a href="http://time.com/collection/next-generation-leaders/">Next Generation Leaders</a>
-<a href="http://time.com/time-person-of-the-year-2016-donald-trump-choice/">Person of the Year 2016</a>
-<a href="http://time.com/world-trade-center/">Top of the World</a>
-		</div>
-
-	
-	<div class="main-nav-social">
-				<a href="http://www.facebook.com/time" class="time-icons time-icons-fb" data-event="nav-fb"></a>
-		<a href="http://www.twitter.com/time" class="time-icons time-icons-tw" data-event="nav-twitter"></a>
-		<a href="https://www.pinterest.com/timemagazine/" class="time-icons time-icons-pinterest" data-event="nav-pinterest"></a>
-		<a href="http://timemagazine.tumblr.com/" class="time-icons time-icons-tumblr" data-event="nav-tumblr"></a>
-			</div>
-
-
-		<div class="tertiary-nav-wrapper">
-		<a class="legal-nav-item" href="https://subscription.time.com/storefront/subscribe-to-time/link/1023466.html" data-event="nav-subscribe">Subscribe</a>
-		<a class="legal-nav-item" href="https://pages.email.time.com/newsletters?source=time_nav" data-event="nav-newsletters">Newsletters</a>
-		<a class="legal-nav-item" href="mailto:feedback@time.com" data-event="nav-feedback">Feedback</a>
-		<a class="legal-nav-item" href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time?dnp_source=E" data-event="nav-privacy">Privacy Policy</a>
-		<a class="legal-nav-item" href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california" data-event="nav-cal-privacy">Your California Privacy Rights</a>
-		<a class="legal-nav-item" href="http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/time" data-event="nav-terms">Terms of Use</a>
-		<a class="legal-nav-item" href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html" data-event="nav-ad-choices">Ad Choices <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAMAAACq939wAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAECAwQFBgcICPn6+/z9/vIxqCigAAAFZJREFUCB0FwQECwiAMBLCw4axS4f7/WhMn3wtAknwGIL/ZOTVAmmdnP5D2ZNbJnqTda7hW8pX2zs21E2mVOSrZU1plnewHaZWcGpDT1TWAJC8Aa90A/nKrBC08aQTRAAAAAElFTkSuQmCC" alt="Ad Choices"></a>
-	</div>
-
-	<div class="tertiary-nav-wrapper">
-		<a class="legal-nav-item" href="http://content.time.com/time/rss" data-event="nav-rss">RSS</a>
-		<a class="legal-nav-item" href="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-learnmore1111/lp.html" data-event="nav-apps">TIME Apps</a>
-		<a class="legal-nav-item" href="http://www.timeforkids.com/TFK/" data-event="nav-tfk">TIME for Kids</a>
-		<a class="legal-nav-item" href="http://www.timemediakit.com/" data-event="nav-ads">Advertising</a>
-		<a class="legal-nav-item" href="http://content.time.com/time/reprints" data-event="nav-reprints">Reprints and Permissions</a>
-		<a class="legal-nav-item" href="http://time.com/html-sitemap/" data-event="nav-sitemap">Site Map</a>
-		<a class="legal-nav-item" href="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-learnmore1111/lp.html" data-event="nav-help">Help</a>
-		<a class="legal-nav-item" href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSMAG=TD" data-event="nav-contact">Customer Service</a>
-		<span class="copywrite legal-nav-item">&copy; 2017 Time Inc. All rights reserved.</span>
-	</div>
-	
-
+	__gaTracker('create', 'UA-2777126-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');</script>  <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=4.7.4'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/useful-banner-manager/scripts.js?ver=4.7.4'></script> <link
+rel='https://api.w.org/' href='https://www.dissentmagazine.org/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dissentmagazine.org/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dissentmagazine.org/wp-includes/wlwmanifest.xml" /><link
+rel='shortlink' href='https://www.dissentmagazine.org/?p=15282' /><link
+rel="alternate" type="application/json+oembed" href="https://www.dissentmagazine.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement" /><link
+rel="alternate" type="text/xml+oembed" href="https://www.dissentmagazine.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&#038;format=xml" /> <script type="text/javascript">var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+a2a_config.icon_color = "black";
+a2a_config.templates.twitter = "${title} ${link} via @DissentMag";</script> <script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script> <script type="text/javascript">function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}</script> <!--[if lt IE 9]> <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]--> <script>(function() {
+      var cx = '001011412572148409241:lldtnwdfmsw';
+      var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+          '//www.google.com/cse/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+    })();</script>  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '552845971584446', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');</script> <noscript><img
+height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=552845971584446&ev=PageView&noscript=1"
+/></noscript></head><body
+class="article-template-default single single-article postid-15282 single-author singular two-column right-sidebar"><div
+class="wrapper"><header
+id="header">
+<hgroup
+class="clearfix"><h1 class="dissent-logo">
+<a
+href="/">
+<img
+src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/logo-dissent.png" alt="Dissent" />
+</a></h1><nav
+class="navigation actions horizontal plain-links"><ul
+class="text-right inline"><li><a
+href="/login" id="login_button">Login</a></li><li><a
+href="/about-dissent-magazine">About Us</a></li><li><form
+id="search-bar" name="input" action="/search" method="get">
+<input
+type="text" name="q" value="Search" /></form></li>
+</nav><nav
+class="navigation primary horizontal bold plain-links"><ul
+class="inline"><li><a
+class="nav-link" title="Dissent Magazine" href="/issue">Magazine</a></li><li><a
+class="nav-link" title="Online Articles" href="/online-articles">Online</a></li><li><a
+class="nav-link" title="Blog" href="/blog">Blog</a></li><li><a
+href="/category/podcast">Podcasts</a></li><li><a
+href="/events">Events</a></li><li><a
+class="nav-link" title="Support" href="/donate">Donate</a></li><li><a
+class="nav-link" title="Subscribe" href="/subscribe?src=navbar">Subscribe</a></li></ul>
 </nav>
-           <a href="https://subscription.time.com/storefront/subscribe-to-time/link/1019480.html" id="mobile-subscribe-link" class="clearfix" target="_blank">Subscribe</a>
-      </div>
-  <div class="section-rail-tabs"></div>
-  <section class="top-banner">
-    <div class="home-banner">
-      <div class="ad-unit">
-        <script type="text/javascript">
-        if ( 'function' === typeof( responsiveAd ) ) {
-          responsiveAd({
-              className: "ad ad-454x40",
-              ads: [
-                  {
-                      type: "desktop",
-                      min: 1024,
-                      size: "454x40",
-                      cm: {
-                          position: "globalheaderarch",
-                          type: "tout"
-                      }
-                  }
-              ]
-          });
-        }
-        </script>
-        <!--[if IE]><script>if ( 'function' === typeof( responsiveAd ) ) { responsiveAd.shim(); }</script><![endif]--></div>
-      <div class="header-user-module">
-        <span class="signedin-wrap"></span>
-        <span class="sign-sub-wrap"><a href="#signin">Sign In</a><a href="https://subscription.time.com/storefront/subscribe-to-time/link/1019480.html">Subscribe</a></span>
-      </div>
-      <div id="home-banner-ad" data-cb-ad-id="home-banner-ad"></div>
-    </div>
-  </section>
-</header>
-<!--
-	generated in 0.109 seconds
-	16149 bytes batcached for 300 seconds
--->
-<div id="leaderboard-ad" class="constrain advertisement" data-cb-ad-id="leaderboard-ad">
-	<script>leaderboardAd = adFactory.getAd(['728x90','101x1','1x1','970x418']);leaderboardAd.setParam('pos', '1');leaderboardAd.write('leaderboard-ad');</script>
-</div>		
-					
-		<div id="content-body" class="constrain">
-		
-			
-			
-		<div class="primary-col">		
-			<article id="article-27095" class="post-27095 post type-post status-publish has-post-thumbnail hentry category-health-science category-law category-medicine category-politics category-public-health category-state-local-governments category-u-s tag-abortion-rights tag-prochoice tag-roe-v-wade time_post_format-time-post-format-article format-article has-thumbnail position-right">
-	
-	<div class="spacer"></div>
-	
-	<header class="entry-header">
-		
-	
-	<div class="entry-context">
-	
-			
-		<h3 class="entry-category"><a href="http://ideas.time.com/category/health-science/" title="View all posts in Health &amp; Science">Health &amp; Science</a></h3>
-		
-	</div>
-
-	<h1 class="entry-title">Has The Fight For Abortion Rights Been Lost?</h1>
-
-	<p class="entry-deck">Getting an abortion is more difficult today than at any point since the 1970s. Is the pro-choice movement losing the battle?</p>	
-	<div class="entry-meta">
-		<span class="entry-byline">By <a href="http://ideas.time.com/contributor/kate-pickert/" title="Posts by Kate Pickert" rel="author">Kate Pickert</a> <a href='http://www.twitter.com/katepickert' class='author-twitter'>@katepickert</a></span><span class="entry-date">Jan. 03, 2013</span>	</div>
-	
-</header>	
-	<div class="entry-sharing group">
-	
-		<div id="share-ad" class="ad-unit sm" data-cb-ad-id="share-ad">
-		<script>
-		var shareAd = adFactory.getAd(['88x31']);
-		shareAd.setParam('pos', 8);
-		shareAd.write();
-		</script>
-	</div>
-	
-	<ul class="entry-share-buttons ">
-		<li>
-			<a href="#">Share</a>
-			<ul>
-								<li class="share-fb" data-omniture-event="fb-like">
-					<div class="fb-like" data-send="false" data-href="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" data-layout="button_count" data-width="450" data-show-faces="false"></div>
-				</li><!--/.share-fb-->
-
-				<li class="share-fb-button" data-omniture-event="fb-share">
-					<div class="fb-share"></div>
-				</li><!--/.share-fb-button-->
-				
-				<li class="share-tw" data-omniture-event="tweet">
-					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://ti.me/130HTvd" data-counturl="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" data-text="Is the pro-choice movement losing the abortion battle? |" data-via="TIMEIdeas" data-count="horizontal"></a>
-				</li><!--/.share-tw-->
-
-				<li class="share-gp" data-omniture-event="google+">
-					<g:plusone size="medium" href="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" callback="plusone_vote"></g:plusone>
-				</li><!--/.share-gp-->
-
-				<li class="share-in" data-omniture-event="linkedin">
-					<script type="IN/Share" data-url="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" data-counter="right"></script>
-				</li><!--/.share-in-->
-
-				<li class="share-pn" data-omniture-event="pinterest">
-					<a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&media=https%3A%2F%2Ftimeopinions.files.wordpress.com%2F2013%2F01%2F1500_prochoice.jpg%3Fw%3D100%26h%3D100%26crop%3D1&description=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" data-pin-do="buttonPin" data-pin-config="none"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a>
-				</li><!--/.share-pn-->
-			</ul>
-		</li>
-		<li class="read-later">
-			<a href="#">Read Later</a>
-			<ul>
-								<li class="share-kindle" data-omniture-event="kindle">
-					<div class="kindleWidget" style="white-space:nowrap;vertical-align:top;display:inline-block;padding:3px;cursor:pointer;font-size:11px;font-family:Arial;border-radius:3px;border:#ccc thin solid;color:black;background:transparent url('https://d1xnn692s7u6t6.cloudfront.net/button-gradient.png') repeat-x;background-size:contain;"><img style="vertical-align:middle;" src="https://d1xnn692s7u6t6.cloudfront.net/white-15.png" /><span style="vertical-align:middle;margin-left:3px;">Send&nbsp;to&nbsp;Kindle</span></div>
-				</li><!--/.share-kindle-->
-								<li class="share-readability">
-					<div class="rdbWrapper" data-show-read-now="0" data-show-read-later="1" data-show-send-to-kindle="0" data-show-print="0" data-show-email="0" data-orientation="0" data-version="1"></div><script type="text/javascript">(function() {var s = document.getElementsByTagName("script")[0],rdb = document.createElement("script"); rdb.type = "text/javascript"; rdb.async = true; rdb.src = document.location.protocol + "//www.readability.com/embed.js"; s.parentNode.insertBefore(rdb, s); })();</script>
-				</li>
-				<li class="share-pocked">
-						<a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
-<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
-				</li>
-			</ul>
-		</li><!--/.read-later-->
-
-	</ul>
-
-</div><!--/.share-buttons-->
-
-	
-	<div class="entry-content">
-	
-		<figure class="entry-thumb entry-thumb-l  "><div class="responsive" data-responsive><!-- {"title":"1500_prochoice","alt":"1500_prochoice","sources":{"xxs":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=150&h=100&crop=1","xs":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=200&h=133&crop=1","s":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=250&h=167&crop=1","m":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=360&h=240&crop=1","l":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=720&h=480&crop=1","xl":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=1000&h=667&crop=1","xxl":"https:\/\/timeopinions.files.wordpress.com\/2013\/01\/1500_prochoice.jpg?w=1500&h=1000&crop=1"},"breakpoints":{"0":"m 1x, l 2x","476":"l 1x, xxl 2x","740":"xl 1x, xxl 2x","951":"l 1x, xxl 2x"}} --><noscript><img src="https://timeopinions.files.wordpress.com/2013/01/1500_prochoice.jpg?w=480&#038;h=320&#038;crop=1" alt="1500_prochoice" title="1500_prochoice"/></noscript></div><!-- .responsive --><figcaption><small class="entry-thumb-credit">Jamie Chung for TIME</small><p class="entry-thumb-caption">A patient at Red River clinic awaits consultation with a doctor</p></figcaption></figure>		
-					<aside class="post-rail">
-
-	<div class="post-rail-ad" data-set="sidebar-ad"></div>
-
-	<div class="post-rail-content" data-set="post-rail">
-
-		<div class="moving-markup">
-
-			<div class="related-content"><h3>Related</h3><ul class="related-stories"><li><a href="http://ideas.time.com/2012/02/14/shouldnt-pro-lifers-be-anti-death/">Shouldn&#8217;t Pro-Lifers Be Anti-Death?</a></li><li><a href="http://ideas.time.com/2011/11/17/why-radical-pro-lifers-are-wasting-their-time/">Why Radical Pro-Lifers Are Wasting Their Time</a></li><li><a href="http://ideas.time.com/2012/07/12/sorry-rome-us-catholics-more-like-melinda-gates/">Sorry, Rome, U.S. Catholics Are More like Melinda Gates</a></li></ul></div>			
-			<div class="entry-tools group">
-
-	<ul class="share-tools content-actions group">
-		<li class="email ca-1"><a href="http://cgi.timeinc.net/cgi-bin/mail/mailurl2friend.cgi?path=/time/emailFriend&#038;url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&#038;group=time&#038;title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" data-omniture-event="email" target="_blank"><span class="icon"></span>Email</a></li>
-		<li class="print ca-2"><a href="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/print/" target="_blank" data-omniture-event="print"><span class="icon"></span>Print</a></li>
-		<li class="share ca-3">
-			<a href="#"><span class="icon"></span>Share</a>
-			<ul class="share-icons">
-				<li class="facebook"><a href="http://www.facebook.com/sharer.php?s=100&p[url]=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&p[title]=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F&p[summary]=Getting+an+abortion+is+more+difficult+today+than+at+any+point+since+the+1970s.+Is+the+pro-choice+movement+losing+the+battle%3F%0A&p[images][]=https://timeopinions.files.wordpress.com/2013/01/1500_prochoice.jpg?w=240" target="_blank">Facebook</a></li><li class="twitter"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fti.me%2F130HTvd&text=Is the pro-choice movement losing the abortion battle? |&via=TIMEIdeas" target="_blank">Twitter</a></li><li class="tumblr"><a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&name=" target="_blank">Tumblr</a></li><li class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F&summary=Getting+an+abortion+is+more+difficult+today+than+at+any+point+since+the+1970s.+Is+the+pro-choice+movement+losing+the+battle%3F%0A&source=TIME" target="_blank">LinkedIn</a></li><li class="stumbleupon"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" target="_blank">StumbleUpon</a></li><li class="reddit"><a href="http://reddit.com/submit?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" target="_blank">Reddit</a></li><li class="digg"><a href="http://digg.com/submit?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" target="_blank">Digg</a></li><li class="mixx"><a href="http://mixx.com/submit?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" target="_blank">Mixx</a></li><li class="delicious"><a href="http://delicious.com/post?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F&title=Has+The+Fight+For+Abortion+Rights+Been+Lost%3F" target="_blank">Delicious</a></li><li class="google"><a href="https://plusone.google.com/share?url=http%3A%2F%2Fideas.time.com%2F2013%2F01%2F03%2Fhas-the-fight-for-abortion-rights-been-lost%2F" target="_blank">Google+</a></li>			</ul>
-		</li>
-	</ul>
-
-		
-		<div class="follow">
-			<p><span class="icon twitter"></span> Follow <a href="http://twitter.com/TIMEIdeas" target="_blank">@TIMEIdeas</a></p>
-		</div>
-	
-	
-</div><!--/.entry-tools-->
-
-
-		
-		</div><!-- .moving-markup -->
-
-	</div><!-- .post-rail-content -->
-	
+</hgroup>
+</header><section
+id="article" class="single">
+<article
+class="article">
+<header><h1 class="article-header">Designer Babies and the Pro-Choice Movement</h1><aside
+class="article-meta">
+<a
+class="author-link" href="https://www.dissentmagazine.org/author/rebeccatuhusdubrow">Rebecca Tuhus-Dubrow</a> &squarf; <a
+href="https://www.dissentmagazine.org/issue/summer-2007">Summer 2007</a>      </aside><figure
+class="article-image">
+<img
+src=""/>
+</figure>
+</header><p>Over the last century, the link between sex and reproduction has weakened. Feminist activism, aided by technological advances, has given middle-class women in the United States widespread access to effective contraception and safe, legal abortion. Although far too many exceptions persist, for large numbers of women, sex today has no necessary relationship to childbearing. Meanwhile, a burgeoning fertility industry has, for thousands, taken baby-making from the bedroom to the laboratory.</p><p>In vitro fertilization (IVF) does not merely help the infertile to procreate; increasingly, it allows parents to determine the genetic makeup of their offspring. Initially, preimplantation genetic diagnosis (PGD) targeted severe childhood diseases, such as Tay-Sachs and sickle cell anemia. Now, more parents use it to screen out genes for late-onset, treatable diseases, such as colon cancer; sex selection is also popular. According to a 2006 survey conducted by the Genetics and Public Policy Center at Johns Hopkins University, 42 percent of 137 IVF-PGD clinics allowed parents to select for gender. Scientists predict that parents will be able to choose such characteristics as blue eyes or curly hair. Less certain, but plausible, is that scientists will be able to identify genes for more complex traits, such as intelligence and homosexuality. Genetic engineering, which will enable not merely the selection but the insertion of desired genes, is on the horizon. In the United States, this rapidly advancing technology is unchecked by any regulatory mechanism.</p><p>It will emerge as an important political issue, complicated by competing values, such as individual liberty and social equality. Nowhere will this tension be more conspicuous than in the reproductive rights movement. There is a lot of messy overlap between reproductive rights and what could emerge as a neo-eugenics: both benefit from the separation of sex and reproduction and both entail increased “choice.” Pro-choice advocates already find themselves associated with advocates of this “reprogenetic” technology, who often appropriate pro-choice language. “It’s about Reproductive Rights, Stupid,” reads the title of an article on the Web site betterhumans.com, which promotes the use of biotechnologies to improve the human species.</p><p>Even without the borrowed buzzwords, the pro-choice movement would be uneasily close to the issue. Historically, pro-choice arguments have focused on the right to privacy and freedom from government interference. Legally, those are the terms that define reproductive rights. The landmark Supreme Court cases Connecticut v. Griswold (1965) and Roe v. Wade (1973) recognized the right of individuals to control their reproductive destinies. Legal scholars predict that when the question of selecting the traits of offspring inevitably arrives in court, it will be considered in this framework.</p><p>Like it or not, pro-choice groups, then, will be compelled to take a stand. They will have to distinguish their concept of reproductive rights from that advanced by neo-eugenicists and to decide whether and how to endorse regulation of reproductive technologies without jeopardizing already tenuous rights. But along with these challenges come opportunities. By incorporating concerns about the abuse of reproductive technologies into a pro-choice platform, the movement can shift away from an individual-liberties paradigm toward a social justice orientation; move away from a single-issue focus on abortion toward a more comprehensive agenda; and form coalitions with other segments of the left.</p><p>&nbsp;</p><div
+style="text-align: left;"><b>The Twentieth Century</b></div><p>The link between reproductive rights and eugenics is not new; in fact, it has dogged the movement since its early days. Margaret Sanger, the tireless pioneer of birth control in the United States, started out in the early twentieth century as a radical socialist and feminist. A nurse with working-class origins, she saw firsthand the travails of poor women drained physically and financially by endless births. Sanger believed that birth control—legally restricted at the time—was all but a panacea for society’s ills. She launched a crusade, even subordinating other values to the cause: during World War I, for example, she kept quiet about her pacifist beliefs out of fear that her unpopular opinion would undermine support for birth control.</p><p>By 1919, Sanger’s far-left political background was a liability in a climate hostile to radicalism. At the same time, the eugenics movement was seen as socially responsible and forward-thinking by the public and many intellectuals. Eugenicists argued that society would benefit if families with “good genes” reproduced prolifically, while the “unfit” refrained from procreating.</p><p>To advance the latter goal, some eugenicists advocated sterilization, by force, if necessary. This option was presented as a humane alternative: the “dysgenic” would not have to be permanently institutionalized or even remain celibate to avoid propagating their undesirable genes. Forced sterilization received Supreme Court approval in Buck v. Bell (1927). Justice Oliver Wendell Holmes, Jr., famously wrote, “It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind . . . . Three generations of imbeciles are enough.” Numerous state laws were enacted to authorize forced sterilization.</p><p>In an attempt to gain the imprimatur of science, and in a move that has since haunted her legacy, Sanger became associated with the eugenics movement. She had promoted birth control for the poor because she saw that they suffered most for the lack of it. The well-off always managed to procure means for controlling their fertility; Sanger’s poor patients begged her for the secrets of the rich. When she embraced eugenics, her rhetoric adapted easily to the values of the movement. “While I personally believe in the sterilization of the feeble-minded, the insane and the syphiletic [sic],” she wrote in 1919, “I have not been able to discover that these measures are more than superficial deterrents when applied to the constantly growing stream of the unfit. . . . Birth control, on the other hand, not only opens the way to the eugenist [sic], but it preserves his work.”</p><p>This early association, along with certain government policies, helped to taint birth control and abortion in the eyes of many minorities. Plenty of poor white people suffered under eugenic policies, but black, Hispanic, and indigenous women were targeted disproportionately. (In the rural South, sterilizations of black women—often performed without their knowledge following childbirth, abortion, or other operations—were known as the “Mississippi appendectomy,” a term coined by Fannie Lou Hamer to describe her own.) In the 1960s and 1970s, the Black Panther Party and the Nation of Islam both denounced birth control as genocidal. Other groups, such as the National Association for the Advancement of Colored People and the Student Non-violent Coordinating Committee, also harbored suspicions. When the government funded birth control rather than health care or child care in poor communities, some activists angrily pointed out that reducing the number of poor people was not the same as reducing poverty. Fears ran deep that contraception and abortion, as well as sterilization, were means of controlling, if not eliminating, these communities.</p><p>Meanwhile, the mainstream pro-choice movement was operating from a vastly different perspective. Mainstream feminists wanted the choice not to have children, to be emancipated from the constraints of the traditional female role. Rarely did white women have to fight to have children; the struggle was to avoid having them. In the 1960s and 1970s, abortion rights activists framed the debate in terms of feminism and sexual liberation. The movement triumphed with Roe v. Wade.</p><p>In the following decades, some strands of the mainstream pro-choice movement, notably NARAL (then known as the National Abortion Rights Action League), modified their approach in the face of changing political realities. In the aftermath of the Webster v. Reproductive Health Services Supreme Court decision (1989), which upheld a Missouri statute prohibiting the use of public facilities for abortions, NARAL launched its successful “Who Decides?” campaign, which toned down the women’s liberation language and focused on the right to freedom from government intervention. As Kate Michelman, until recently NARAL’s president, recalls in her 2005 book, With Liberty and Justice for All, “The issue was not whether abortion was morally right or wrong; that was a matter of individual conscience. The question was, who had the right to decide—women or the government?” On the defensive against a passionately committed (and sometimes murderous) anti-abortion movement, many feminists focused more intensively on abortion, shifting energy away from other goals, such as child care, maternity leave, and support for alternative sexual lifestyles. All of these had once been integral parts of the feminist pro-choice agenda, as Carole Joffe discussed in these pages (“It’s Not Just Abortion, Stupid,” Winter 2005).</p><p>Although arguably a political necessity at the time, focusing on abortion and adopting an individual liberties paradigm had its costs. (William Saletan has analyzed the campaign in his book Bearing Right: How Conservatives Won the Abortion War.) One was the loss of a compelling moral narrative, which left a vacuum for the anti-abortion side to fill. Another was the alienation of poor minority women. Abortion was less of a priority for women struggling with multiple reproductive challenges: environmental hazards, lack of health care and child care, the fear of coerced sterilization. Some of those who wanted abortions couldn’t afford to pay for them, so the freedom from government intervention was inadequate. The racial component of reproductive politics has been analyzed by scholars such as Dorothy Roberts in Killing the Black Body and Jennifer Nelson in Women of Color and the Reproductive Rights Movement.</p><p>Currently, the pro-choice movement is under siege to a greater degree than any time since 1973, a situation that has led it to reassess its strategy. Now, some supporters of abortion rights want to move beyond the stagnant terms of the debate. Efforts to rethink the conventional approach are evident in the work of Frances Kissling, former president of Catholics for a Free Choice; “reproductive justice” advocates, including Loretta Ross; mainstream players in the Democratic Party, such as George Lakoff, a linguist and consultant; and would-be presidential nominee Hillary Clinton; as well as many other feminists and activists. The term “choice” itself has come under scrutiny, often criticized as a problematic concept and a weak and morally flaccid competitor with “life.” Recent documents, such as Beyond Choice, a 2004 book by Alexander Sanger, grandson of Margaret and chair of the International Planned Parenthood Council, and More than a Choice, a 2006 paper by the Center for American Progress, reflect this attitude.</p><p>Choice rhetoric has seeped into other aspects of feminism as well, with mixed results. Linda Hirschman caused a stir in 2005 with an article in the American Prospect decrying “choice feminism”—the notion that staying home with the kids is as feminist as working, provided that it’s the woman’s “choice.” Her article focused on the “mommy wars” debate, but the same rationale can apply to other aspects of female life. Some women assert that anything from wearing lipstick to topless dancing can be a feminist act, because a woman is empowered by her choice to perform it. (Ariel Levy discusses this phenomenon in her book Female Chauvinist Pigs.) Hirschman argued that women, with the goal of collective advancement in mind, ought to aggressively pursue high-power, high-paying positions.</p><p>Although I don’t agree with everything Hirschman wrote—for instance, that we should eschew low-paying, socially beneficial work in favor of cutthroat corporate success—I think she was onto something. “Choice feminism” is uncomfortably close to the ethos of consumer culture. A feminism that consecrates individual choices, endorsing them all as equally valid, has lost its mission and its soul. (Indeed, “choice feminism” is Hirschman’s term, not a movement with an agenda; but some women do subscribe to the idea.)</p><p>And here is where the reprogenetic technologies fit in. What is a “designer baby” but a new consumer choice? When a vague, distorted feminism is conflated with enthusiastic consumerism, when “choice” is the catchword of both, designer babies can easily emerge as the natural, if not inevitable, next step in the evolution of our liberated, capitalist society, in which choices will continue to multiply for consumers—especially for those consumers par excellence, women.</p><p>&nbsp;</p><div
+style="text-align: left;"><b>Assessing the “New Eugenics”</b></div><p>Eugenics is a bad word, and “designer baby” is a term the media use to conjure science fiction dystopias, but is it really wrong to use new technologies to improve the human species?</p><p>There’s no easy answer. Many people instinctively react against the idea of tinkering with genetics. It evokes fears of playing God, of technological experimentation gone horribly awry, even of the end of humanity as we know it. If only, or primarily, out of pure nostalgia, a lot of us bristle at the prospect.</p><p>Approached on the level of specifics, however, the questions appear more complicated. A couple profiled in the New York Times underwent elective in vitro fertilization—even though they could likely have conceived without it—in order to choose an embryo without a gene that would predispose their child to colon cancer. There are several possible criticisms of their decision. Colon cancer is a late-onset, treatable disease. By the time the child is an adult, a cure may be found. The gene is not even certain to cause the disease. How can they justify the expenditure and the godlike control they’ve assumed? On the other hand, their family has suffered immensely from this disease, and they want to ensure that their child avoids that suffering. If the technology is available, and they choose to spend their money on it, how can we deprive them of that option?</p><p>This example leads us down the slippery slope. Where, and how, do we draw the line between acceptable and unacceptable? Many people condone health-related genetic tinkering, but not a cosmetic kind. Or, we may feel comfortable with treatment, but not enhancement. Yet, in a culture in which health and beauty are increasingly conflated, as are treatments and enhancements (as more natural variation is pathologized), these distinctions are exceedingly difficult to make. It is even more difficult to imagine how they would be regulated.</p><p>The “new eugenics” is in many ways the opposite of its predecessor. The original eugenics was largely “negative”: its goal was to curtail the population growth of the “unfit,” often through involuntary, state-sanctioned, sometimes state-funded sterilization. Today’s version is “positive”: it allows for the creation of more desirable babies. (Granted, it could be interpreted as negative because, at this stage, it involves discarding “unfit” embryos. And the original eugenics also included a “positive” element: encouraging “fit families” to breed.) The more meaningful distinction is that the original eugenics involved coercion, depriving people of their rights and liberties. Today’s variety technically does the opposite: the technologies offer more choices. Indeed, some proponents of their use accuse “bio-Luddites” of being the true descendants of eugenicists—for proposing state interference in the arena, for seeking to circumscribe the full range of available “reproductive choices.”</p><p>But individual choices can have larger social consequences. Princeton professor Lee Silver has outlined a nightmarish scenario in which an essentially new species evolves: “The GenRich class and the Natural class will become entirely separate species with no ability to crossbreed, and with as much romantic interest in each other as a current human would have for a chimpanzee.” Others, such as bioethicist George Annas, have worried that such a scenario could undermine the notion of human rights, which is based on a concept of our shared humanity. On a less existentially threatening but disturbing note, Annas and others have also predicted an “arms race” among relatively affluent parents: added to pressure to enroll kids in the most prestigious preschools will be pressure to provide them with the best genes. The result could be an increased tendency to see children as commodities and status markers; on the other hand, parents who choose to forgo these measures could be seen as negligent.</p><p>Clearly, there is great potential for good as well as harm in these technologies. They shouldn’t be left, as they currently are, entirely to the market. It’s time for a society-wide conversation about their use and abuse. The United States is lagging in this regard. Many countries, mostly in Europe, but also Canada, Australia, and Trinidad and Tobago have passed laws or regulations restricting or proscribing various kinds of genetic modifications. The United Kingdom has the Human Fertilization and Embryology Authority (HFEA), which licenses and monitors all fertility clinics.</p><div
+style="text-align: center;"></div><div
+style="text-align: left;"><b>Responses and Political Possibilities</b></div><p>This issue creates strange bedmates. The common political assumption is that conservatives would oppose the potentially radical change promised by reprogenetic technologies, while liberals would embrace the scientific progress they represent. And indeed, the religious right, concerned about the embryo and the blasphemy of playing God, condemns them, while some liberals are more inclined to welcome them on the grounds of “progress”—and, perhaps, in opposition to “culture of life” priorities. At the same time, economic libertarians oppose regulation of this three-billion-dollar-a-year industry, and a fringe of neo-eugenicists wants to create a super race. Qualms on the left include the potential exacerbation of inequalities, the eugenic overtones, and the environmental implications of meddling with nature.</p><p>Other progressive contingents have their worries. Disability activists are wary of technologies that essentially aim to eliminate their community. Gay and lesbian people have an especially complex relationship to assisted reproductive technology. I spoke to staff at the GLBT (Gay, Lesbian, Bisexual and Trans-gendered) Community Center in New York, who said that to the extent that it helps them have genetically related families, they welcome the technology. But if a “gay gene” is ever identified, their communities, too, could be threatened. Many feminists are troubled by sex selection, but fear that regulating any aspect of reproduction could jeopardize abortion rights.</p><p>The relevant legal infrastructure adds another complication. The court decisions that uphold rights valued by progressives could also afford protection to the right to design babies. This applies to all of the major cases affirming the right to contraception and abortion: Griswold and Roe, but also Eisenstadt v. Baird (1972), which recognized the right of unmarried people to use contraception, and even Planned Parenthood v. Casey (1992), which allowed some restrictions on abortion but reiterated the essential right of people to make decisions regarding reproduction. Further, Lawrence v. Texas (2003), hailed by the left for striking down sodomy laws, dramatically limits the ability of government to restrict personal decisions “absent injury to a person or abuse of an institution the law protects.” Although progressives welcome these freedoms, the implications for the unfettered use of reprogenetic technologies are disturbing. (Of course, the recent decision in Gonzalez v. Carhart raises questions about the durability of these liberties under the current Supreme Court.)</p><p>Legal issues aside, in the court of public opinion reproductive rights may be conflated with a libertarian view on genetic technologies. University of Texas law professor John Robertson has defended the use of reprogenetic technologies on the grounds of “procreative liberty.” His argument goes like this: people have the right to procreate; sometimes the choice whether to procreate depends on the qualities of the prospective offspring; therefore, enhancement must be permitted (although he endorses limited restrictions). British author Nicholas Agar, in his recent book Liberal Eugenics, writes, “The eugenics defended here [is] primarily concerned with the protection and extension of reproductive freedom.” Thus can the concept of reproductive choice be appropriated and abused.</p><p>The first and least controversial task for pro-choice activists, then, is to make it very clear that the rights for which they have fought are fundamentally different from the right to determine the genetic makeup of offspring. Whether the latter right is legitimate or not, it is not the same as or an extension of the former. Pro-choice activists have struggled for women’s freedom to control their own lives and bodies, not to control the lives and bodies of their children.</p><p>Drawing this distinction could lead to another step: emphasizing the morality of abortion rights. Abortion should be legal because women should have the same rights as men to shape their lives; because sometimes bringing a child into the world is the wrong thing to do; because without legal abortion, women suffer and die. Abortion-rights advocates can frame abortion as a matter of social justice, not just of freedom from government interference.</p><p>As an alternative to “choice,” women of color have created the concept of “reproductive justice.” In the literature of SisterSong Women of Color Reproductive Health Collective, the national coordinator, Loretta Ross, defines the term, coined in 1994, as “(1) the right to have a child; (2) the right not to have a child; (3) the right to parent the children we have . . . . We also fight for the necessary enabling conditions to realize these rights.” This more comprehensive notion of reproductive justice can be useful in confronting the issue of designer babies. Although not currently one of the main items on the reproductive justice agenda, a position on reprogenetic technologies can easily be added to the list of concerns, which include environmental hazards and health care. In fact, of the reproductive rights activists I’ve spoken to, Ross was the most sympathetic to the prospect of regulating these technologies.</p><p>As Joffe pointed out in the <i>Dissent</i> article mentioned earlier, “the logic of seeing abortion as just one part of the mosaic of reproductive and sexual rights and services is not simply that it is persuasive to others. It is also the most authentic position of the reproductive freedom movement itself.” Reproductive technologies did not factor into the original movement, because they didn’t yet exist. But now that they do, promoting sensible policies on their use should fit into a broader platform. Such a platform could appeal to other factions of the left as well as moderates, who might be turned off by the focus on abortion but who share concerns about related issues, including the abuse of reprogenetic technologies.</p><p>The concept of reproductive justice has already made inroads into the mainstream movement. The pro-choice movement eludes generalization, because different organizations have different priorities and approaches, but many parts of it have already begun to shift toward a social justice focus and a broader platform. The literature of Choice USA, a fifteen-year-old organization founded by Gloria Steinem, uses the term reproductive justice, and Planned Parenthood sponsored a conference in 2005 at Smith College titled “Reproductive Justice for All.”</p><p>Concerns about reprogenetics have also surfaced. The Planned Parenthood conference devoted a quarter of the agenda to reproductive technologies. The Center for Genetics and Society, billed as “a pro-choice organization working for sensible policies on genetic engineering technology,” aims to initiate and facilitate conversations about the subject. One effort was a retreat in October 2006 with representatives from various progressive organizations, including Planned Parenthood, Choice USA, the ACLU, the disability rights group Not Dead Yet, and the LGBT Community Center of New York.</p><p>According to Sujatha Jesudason of the Center for Genetics and Society, the groups that attended that retreat were enthusiastic about continuing the conversations within their own organizations and forming coalitions to address the issue. The pro-choice advocates in particular started a process of reflection on the tensions—between individual liberties and social justice—that are especially prominent in their movement.</p><p>In contemplating regulation, an example from the past might prove illuminating. In 1975, in New York, a multiracial coalition called the Advisory Committee on Sterilization helped implement guidelines for regulating sterilization, including a mandatory waiting period. The aim was to ensure informed consent, because so many poor minority women had been sterilized without it, in haste. Planned Parenthood and NARAL opposed the restrictions, arguing that they infringed on reproductive freedom. (White women, who frequently could not persuade doctors to sterilize them, did not want to make the process more cumbersome.) This conflict was perhaps the clearest manifestation of the discordant outlooks of different feminists.</p><p>The opposition of the mainstream groups was understandable, but it also reflected a degree of myopia. Likewise, Margaret Sanger was so single-minded in the promotion of her cause that she endorsed wrongheaded ideas that she believed would serve it. Now, we who support abortion rights may fear that regulating reproductive technologies could endanger our cause. There is no doubt that maintaining the legality of abortion—and fighting to reverse harmful restrictions of it—is paramount. But it is also important for us to sustain a larger moral vision. We have to find a way to advance that multifaceted program, including views on reproductive technologies, while protecting the right to abortion.</p><p>It appears inevitable that genetic technologies of all kinds will become one of the major issues of this century. It appears equally inevitable that the pro-choice movement will become entangled in the debate. In this new challenge, Margaret Sanger provides an instructive example—today’s reproductive-rights advocates should emulate her passionate advocacy and avoid repeating her mistakes.</p><hr
+/><p><b>Rebecca Tuhus-Dubrow</b> is a journalist based in Brooklyn.</p><p><em>Listen to an <a>interview</a> with Rebecca Tuhus-Dubrow on Margaret Sanger.</em></p><div
+class="addtoany_share_save_container addtoany_content_bottom"><div
+class="a2a_kit a2a_kit_size_40 addtoany_list" data-a2a-url="https://www.dissentmagazine.org/article/designer-babies-and-the-pro-choice-movement" data-a2a-title="Designer Babies and the Pro-Choice Movement"><a
+href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&amp;linkname=Designer%20Babies%20and%20the%20Pro-Choice%20Movement" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&amp;linkname=Designer%20Babies%20and%20the%20Pro-Choice%20Movement', '');" class="a2a_button_facebook"  title="Facebook" rel="nofollow" target="_blank"></a><a
+href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&amp;linkname=Designer%20Babies%20and%20the%20Pro-Choice%20Movement" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&amp;linkname=Designer%20Babies%20and%20the%20Pro-Choice%20Movement', '');" class="a2a_button_twitter"  title="Twitter" rel="nofollow" target="_blank"></a><a
+href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&amp;linkname=Designer%20Babies%20and%20the%20Pro-Choice%20Movement" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.dissentmagazine.org%2Farticle%2Fdesigner-babies-and-the-pro-choice-movement&amp;linkname=Designer%20Babies%20and%20the%20Pro-Choice%20Movement', '');" class="a2a_button_email"  title="Email" rel="nofollow" target="_blank"></a></div></div><footer></footer>
+</article><div
+class="sidebar"><div
+class="hidden">Newsletter signup and New issue</div><div
+class="textwidget"><div
+class="widget" id="newsletter_widget"><div
+class="issue_subscribe"><div
+class="issue_image"><a
+href="https://www.dissentmagazine.org/issue/spring-2017"><img
+width="240" src="https://www.dissentmagazine.org/wp-content/uploads/Dissent-Spring-2017-front-COVER-final-no-barcode-337-1.png" alt="Cover Image"/></a></div>
+<br>
+<a
+href="https://www.dissentmagazine.org/subscribe-spring-2017?src=sidebar" id="subscribe_link"><h3>Subscribe now!</h3></a></div></div></div><div
+id="recent-posts-widget" class="widget"><h4>
+<a
+href="/blog">Blog</a></h4><ul><li
+class="recent-post"><div
+class="title">
+<strong
+class="plain-links">
+<a
+title="Brazil on Strike" href="https://www.dissentmagazine.org/blog/brazil-general-strike-austerity-temer">Brazil on Strike</a>
+</strong></div><div
+class="author">
+<a
+class="author-link" href="https://www.dissentmagazine.org/author/lucas-iberico-lozada">Lucas Iberico Lozada</a></div><div
+class="post-date">
+May 1, 2017</div></li><li
+class="recent-post"><div
+class="title">
+<strong
+class="plain-links">
+<a
+title="The Case of Judith Clark" href="https://www.dissentmagazine.org/blog/case-judith-clark-communism-dissent">The Case of Judith Clark</a>
+</strong></div><div
+class="author">
+<a
+class="author-link" href="https://www.dissentmagazine.org/author/paulberman">Paul Berman</a></div><div
+class="post-date">
+April 28, 2017</div></li><li
+class="recent-post"><div
+class="title">
+<strong
+class="plain-links">
+<a
+title="[EVENT | May 22] Spring Issue Launch: Capitalism Today" href="https://www.dissentmagazine.org/blog/event-may-22-spring-issue-launch-capitalism-today">[EVENT | May 22] Spring Issue Launch: Capitalism Today</a>
+</strong></div><div
+class="author">
+<a
+class="author-link" href="https://www.dissentmagazine.org/author/editor">Editors</a></div><div
+class="post-date">
+April 26, 2017</div></li></ul></div><div
+class="hidden">Social media buttons [+ newsletter sign up?]</div><div
+class="textwidget"><table
+width="220" border="0"><tr><td
+width="55" align="left"><a
+href="https://www.facebook.com/dissentmag" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/fb-logo-black-square.png" alt="Facebook" width="45" height="45" align="absbottom"></a></td><td
+width="55" align="left"><a
+href="https://twitter.com/DissentMag" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/twitter-logo-black-square.png" alt="Facebook" width="45" height="45" align="absbottom"></a></td><td
+width="55" align="left"><a
+href="http://dissentmag.tumblr.com/" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/tumblr-logo-black-square.png" alt="Facebook" width="45" height="45" align="absbottom"></a></td><td
+width="55" align="left"><a
+href="https://www.dissentmagazine.org/feed" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/images/rss-logo-black-square.png" alt="Facebook" width="45" height="45" align="absbottom"></a><a
+href="http://dissentmag.tumblr.com/" target="_blank"></a></td></tr></table></div><div
+class="hidden">Sign up for our newsletter:</div><form
+action="/article/designer-babies-and-the-pro-choice-movement" id="ns_widget_mailchimp_form-2" method="post">
+<input
+type="hidden" name="ns_mc_number" value="2" />
+<label
+for="ns_widget_mailchimp-email-2">Email Address :</label>
+<input
+id="ns_widget_mailchimp-email-2" type="text" name="ns_widget_mailchimp_email" />
+<input
+class="button" type="submit" name="Subscribe" value="Subscribe" /></form> <script>jQuery('#ns_widget_mailchimp_form-2').ns_mc_widget({"url" : "/index.php", "cookie_id" : "ns_widget_mailchimp-2", "cookie_value" : "0d87642fa57c02ec8a92e786ced3534f", "loader_graphic" : "https://www.dissentmagazine.org/wp-content/plugins/mailchimp-widget/images/ajax-loader.gif"});</script> <div
+class="hidden">Sidebar ads</div><div
+class="textwidget"><div
+style="padding-bottom:12px;"><a
+href="http://www.zonebooks.org/titles/COOP_FAM.html?src=dissent" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/Zone-Books-Family-Values-sidebar-April_2017.jpg" alt="Melinda Cooper | Family Values [Advertisement]" width="240" /></a></div><div
+style="padding-bottom:12px;"><a
+href="http://www.ucpress.edu/book.php?isbn=9780520294790&utm_source=dissent&utm_medium=banner&utm_campaign=edwards" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/dissent_edwards_240x360.jpg" alt="David B. Edwards | Caravan of Martyrs [Advertisement]" width="240" /></a></div><div
+style="padding-bottom:12px;"><a
+href="http://csh.gn.apc.org/TopWindow/pages/WebsiteTop.htm" target="_blank"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/CentforSocialHist-ad-Spring2017-online-fix-240x190.png" alt="Center for Socialist History [Advertisement]" width="240" /></a></div></div><div
+class="hidden">Democratiya link</div><div
+class="textwidget"><div
+style="padding-bottom:6px"><a
+href="https://www.dissentmagazine.org/democratiya-issue"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/democratiya_ad_larger_text_3.png" width="230"></a></div></div><div
+class="hidden">Democratiya sidebar</div><div
+class="textwidget"></div></div>
+</section><div
+class="ubm_banner"><a
+href="http://www.ucpress.edu/book.php?isbn=9780520293502&utm_source=dissent&utm_campaign=shafir&utm_medium=banner" target="_self" rel="dofollow"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/useful_banner_manager_banners/3-UC-Press-Half-Century-Occupation-banner-April_2017.jpg" alt="Half Century of Occupation [advertisement]"></a></div><footer
+class="footer">
+<nav
+class="navigation"><ul><li><a
+href="/about-dissent-magazine">About</a></li><li><a
+href="/about-dissent-magazine/contact">Contact</a></li><li><a
+href="/about-dissent-magazine/advertising">Advertise</a></li></ul>
+</nav><nav
+class="navigation"><ul><li><a
+href="/donate?src=page-footer">Donate</a></li><li><a
+href="/subscribe?src=page-footer">Subscribe</a></li><li><a
+href="/subscription-settings?src=page-footer">Your account</a></li></ul>
+</nav><nav
+class="navigation"><ul><li><a
+href="https://www.facebook.com/dissentmag" target="_blank">Facebook</a></li><li><a
+href="https://twitter.com/dissentmag" target="_blank">Twitter</a></li><li><a
+href="http://bit.ly/dissent-newsletter" target="_blank">Newsletter</a></li></ul>
+</nav><aside
+class="copyright">
+This website and its content &copy; Dissent Magazine 2017. All rights reserved.
 </aside>
-				
-		<div class="entry-thumb mceTemp alignleft" style="width:24%;"><img class="alignleft size-medium wp-image-27104" alt="TIME Magazine, Jan. 14, 2013" src="http://timeopinions.files.wordpress.com/2013/01/1500_cover_0114.jpg?w=360" srcset="http://timeopinions.files.wordpress.com/2013/01/1500_cover_0114.jpg?w=360 360w, http://timeopinions.files.wordpress.com/2013/01/1500_cover_0114.jpg?w=720 720w, http://timeopinions.files.wordpress.com/2013/01/1500_cover_0114.jpg?w=240 240w, http://timeopinions.files.wordpress.com/2013/01/1500_cover_0114.jpg?w=180 180w, http://timeopinions.files.wordpress.com/2013/01/1500_cover_0114.jpg?w=300 300w" sizes="(max-width: 360px) 100vw, 360px" /></p>
-<div class="figcaption"><small class="entry-thumb-credit">Cover Photograph by Jamie Chung for TIME</small></div>
-</div>
-<p>In January 1973, the Supreme Court made access to abortion a federally protected right. As I write in this week’s TIME <a href="http://www.time.com/time/magazine/article/0,9171,2132761,00.html">cover story</a>, that seemingly decisive victory 40 years ago kicked off a war that the pro-choice movement has been losing ever since. In many parts of the country today, obtaining an abortion is more difficult than at any point since the 1970s.</p>
-<p>There are fewer doctors willing to perform the procedure and fewer abortion clinics open for business. Pro-choice activists have been outflanked by their prolife counterparts, who have successfully lobbied for state-based regulations that limit access. Scores of states now require women to undergo counseling, waiting periods or ultrasounds prior to obtaining abortions. Minors across the country must often get permission from their parents if they want to terminate pregnancies. And pro-life state legislators are passing laws that require clinics to comply with arcane requirements—such as a hallway having to be more than five feet wide— that make it difficult for them to stay open.</p>
-<p>(<strong>Viewpoint</strong>: <a href="http://www.time.com/time/magazine/article/0,9171,2132761,00.html">Pro-life and Feminism Aren&#8217;t Mutually Exclusive</a>)</p>
-<p>The pro-life cause has been winning the abortion war, in part, because it has pursued an organized and well-executed strategy. But public opinion is also increasingly on their side. Thanks to prenatal ultrasound and advanced neonatology, Americans now understand what a fetus looks like and that babies born as early as 24 weeks can now survive. Although three-quarters of Americans believe abortion should be legal in some or all cases, most support state laws regulating the procedure and fewer and fewer are identifying themselves as “pro-choice” in public opinion surveys.</p>
-<p>The prochoice establishment has also been hampered by a generational divide within the cause. Young abortion rights activists today complain that the leaders of feminist organizations, who were in their 20s and 30s when Roe was decided, aren’t eager to pass the torch to a new generation whose activism is more nimble and Internet-based. But the most pressing challenge for prochoice activists may simply be that abortion is legal. In a dynamic democracy like America, defending the status quo is always harder than fighting to change it.</p>
-<div data-videoid="2070890116001" class="vid-embed bcove-player"><div style="display:none"></div>
-<object class="BrightcoveExperience">
-<param name="bgcolor" value="#000000" />
-<param name="width" value="100%" />
-<param name="height" value="100%" />
-<param name="playerID" value="1847503743001"/>
-<param name="playerKey" value="AQ~,AAAAABGEUMg,hNlIXLTZFZkptbFZWyhVNa2P0Pl5hvzc" />
-<param name="isVid" value="true" />
-<param name="isUI" value="true" />
-<param name="videoSmoothing" value="true" />
-<param name="includeAPI" value="true" />
-<param name="dynamicStreaming" value="true" />
-<param name="templateLoadHandler" value="omni_myTemplateLoaded" />
-<param name="autoStart" value="" /><param name="linkBaseURL" value="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" /><param name="@videoPlayer" value="2070890116001" /></object></div>
-<p><strong>MORE</strong>: <a href="http://www.time.com/time/magazine/article/0,9171,2132761,00.html">Read TIME&#8217;s cover story, &#8220;What Choice?&#8221; By Kate Pickert</a></p>
-
-	</div>
-	
-		
-	<footer class="entry-footer">
-
-	
-	
-	
-	<div class="post-rail-ad" data-set="sidebar-ad"></div>
-	<div class="post-rail" data-set="post-rail"></div>
-
-</footer>	
-</article><div class="OUTBRAIN" data-src="http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/" data-widget-id="AR_4" data-ob-template="timemag" ></div><script type="text/javascript" src="https://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
-
-<script type="text/javascript">function __s2k_widget_init(){window.$SendToKindle&&window.$SendToKindle.Widget?$SendToKindle.Widget.init({"content":"article","pagination":".next","exclude":".wp-paginate, .entry-tools, .entry-sharing, .page, .next-item, .right-col, .last-slide","title":".entry-title","author":".entry-byline","published":".entry-date"}):setTimeout(__s2k_widget_init,500)}__s2k_widget_init();</script>
-		</div>
-	
-		<aside class="right-col">
-			
-
-		<div id="sidebar-ad" class="advertisement" data-cb-ad-id="sidebar-ad">
-		<script>sidebarAd = adFactory.getAd(['300x250','336x280','468x648','300x600']);sidebarAd.write('sidebar-ad');</script>
-	</div>
-	
-<section id="time_paid_content-2" class="module mobile-right widget widget_time_paid_content"><h3 class="section-title"><span class="subtext"><a href="https://subscription.time.com/storefront/subscribe-to-time/link/1017006.html" class="subscribe">Subscribe</a></span>Popular Among Subscribers</h3>					<article class="clearfix">
-													<a href="http://content.time.com/time/magazine/article/0,9171,1818203,00.html?pcd=pw-magic">
-								<figure><img src="http://img.timeinc.net/time/daily/2008/0806/a_postcard_tokyo_0617.jpg" /></figure>
-							</a>
-												<h4 class="entry-title locked">
-							<a href="http://content.time.com/time/magazine/article/0,9171,1818203,00.html?pcd=pw-magic">Japan&#039;s Booming Sex Niche: Elder Porn</a>		
-						</h4>
-					</article>
-										<article class="clearfix">
-													<a href="http://content.time.com/time/magazine/article/0,9171,2166067,00.html?pcd=pw-magic">
-								<figure><img src="http://img.timeinc.net/time/daily/2014/1402/wkids_0303.jpg" /></figure>
-							</a>
-												<h4 class="entry-title locked">
-							<a href="http://content.time.com/time/magazine/article/0,9171,2166067,00.html?pcd=pw-magic">Young Kids, Old Bodies</a>		
-						</h4>
-					</article>
-										<article class="clearfix">
-													<a href="http://content.time.com/time/magazine/article/0,9171,2154986,00.html?pcd=pw-magic">
-								<figure><img src="http://img.timeinc.net/time/daily/2013/1310/int_cover_1028.jpg" /></figure>
-							</a>
-												<h4 class="entry-title locked">
-							<a href="http://content.time.com/time/magazine/article/0,9171,2154986,00.html?pcd=pw-magic">Benedict Cumberbatch Talks Secrets, Leaks, and Sherlock</a>		
-						</h4>
-					</article>
-										<article class="clearfix">
-													<a href="http://content.time.com/time/magazine/article/0,9171,2166770,00.html?pcd=pw-magic">
-								<figure><img src="http://img.timeinc.net/time/daily/2014/1402/cover_0310.jpg" /></figure>
-							</a>
-												<h4 class="entry-title locked">
-							<a href="http://content.time.com/time/magazine/article/0,9171,2166770,00.html?pcd=pw-magic">Obama&#039;s Trauma Team</a>		
-						</h4>
-					</article>
-					<div class="subscribe-text">Get all access to digital and print<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1017006.html" class="subscribe">Subscribe</a></div></section><section id="time_most_popular-8" class="module mobile-left widget widget_time_most_popular">
-		<ul class="widget_tab_nav">
-			<li class="current">Most Popular</li>
-			<li class="ad">
-							<div id="most-popular-ad" data-cb-ad-id="most-popular-ad">
-					<script>
-					mostPopAd = adFactory.getAd(['88x31']);
-					mostPopAd.setParam('pos', 9);
-					mostPopAd.write();
-					</script>
-				</div>
-						</li>
-		</ul>
-		<div class="widget_subtabs">
-
-			<div class="widget_subtab_name">
-				From Ideas			</div>
-			<div class="popular-content">
-				<ol>
-					<li><a href="http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/?iid=op-article-mostpop1">Who’s Biggest? The 100 Most Significant Figures in History</a></li><li><a href="http://ideas.time.com/2012/07/30/the-tyranny-of-the-sexy-mom/?iid=op-article-mostpop1">The Tyranny of the &#8216;Sexy&#8217; Mom</a></li><li><a href="http://ideas.time.com/2013/08/16/singing-changes-your-brain/?iid=op-article-mostpop1">Singing Changes Your Brain</a></li><li><a href="http://ideas.time.com/2013/09/19/was-sex-with-children-ever-okay/?iid=op-article-mostpop1">Was Sex With Children Ever O.K.?</a></li><li><a href="http://ideas.time.com/2012/10/24/the-single-largest-advantage-parents-can-give-their-kids/?iid=op-article-mostpop1">Why Parenting Is More Important Than Schools</a></li>				</ol>
-			</div>
-
-			<div class="widget_subtab_name">
-				From Time.com
-			</div>
-			<div class="popular-content">
-				<ol><li><a href="http://time.com/41490/russia-ukraine-crimea-putin/?iid=op-article-mostpop2">Russian Forces Double Along Ukraine Border</a></li><li><a href="http://time.com/41310/rugby-sevens-hongkong-african-women-thieves-gangs/?iid=op-article-mostpop2">Gangs of &#8216;Powerfully Built&#8217; Women Are Mugging Tourists on the Streets of Hong Kong</a></li><li><a href="http://time.com/42323/putin-phones-obama-ukraine/?iid=op-article-mostpop2">Putin Phones Obama To Discuss Ukraine, White House Says</a></li><li><a href="http://time.com/41453/stephen-colbert-report-tweet/?iid=op-article-mostpop2">Colbert Tweet Draws Accusations of Racism and #CancelColbert</a></li><li><a href="http://time.com/40254/theres-a-scientific-reason-for-why-you-look-weird-in-selfies/?iid=op-article-mostpop2">There&#8217;s A Scientific Reason for Why You Look Weird In Selfies</a></li></ol>			</div>
-		</div>
-		</section><section id="time_connect-2" class="module mobile-right widget widget_time_connect"><h3 class="section-title">Connect With TIME</h3>
-		<ul class="clearfix social-items">
-							<li class="twitter">
-					<a href="https://twitter.com/TIME" class="twitter-follow-button" data-show-count="true"></a>
-				</li>
-										<li class="facebook">
-					<div class="fb-like" data-send="false" data-href="http://www.facebook.com/time" data-layout="button_count" data-show-faces="false"></div></li>
-										<li class="google">
-					<g:plus height="69" width="300" href="https://plus.google.com/110038350445855508357" rel="author"></g:plus>
-				</li>
-										<li class="tumblr">
-					<a href="http://timemagazine.tumblr.com/"></a>
-				</li>
-										<li class="linkedin">
-					<a href="http://www.linkedin.com/company/time-inc"></a>
-				</li>
-								</ul>
-		
-				
-		<div class="clear"></div>
-
-		</section><section id="time_letters-2" class="module mobile-left widget widget_time_letters"><h3 class="section-title">Letters to the Editor<span class="subtext"><a href="http://ideas.time.com/letters/">View More</a></span></h3>				<article >
-										<div class="details">
-						<h4>	<a href="http://ideas.time.com/letters/providing-an-incentive-to-reduce-carbon-emissions/?iid=op-article-lettereditor" title="Permalink to Providing an Incentive to Reduce Carbon Emissions" rel="bookmark">Providing an Incentive to Reduce Carbon Emissions</a>
-	</h4>
-						<div class="entry-date">October 22, 2013</div>
-						<div class="entry-content"><p>It won&#8217;t be easy to pay for reducing greenhouse gas emissions when we won&#8217;t be the primary beneficiaries</p>
-</div>
-					</div>
-				</article>
-								<article >
-										<div class="details">
-						<h4>	<a href="http://ideas.time.com/letters/the-nsa-has-changed-the-american-way-of-life/?iid=op-article-lettereditor" title="Permalink to The NSA Has Changed the American Way of Life" rel="bookmark">The NSA Has Changed the American Way of Life</a>
-	</h4>
-						<div class="entry-date">August 18, 2013</div>
-						<div class="entry-content"><p><i>It&#8217;s clear that a reasonable person will not expect very much privacy regarding personal information in the future</i></p>
-</div>
-					</div>
-				</article>
-								<article class="last">
-										<div class="details">
-						<h4>	<a href="http://ideas.time.com/letters/childless-by-choice-its-not-always-family-v-career/?iid=op-article-lettereditor" title="Permalink to Childless By Choice: It&#8217;s Not Always Family v. Career" rel="bookmark">Childless By Choice: It&#8217;s Not Always Family v. Career</a>
-	</h4>
-						<div class="entry-date">August 15, 2013</div>
-						<div class="entry-content"><p>Quite a number of women know better than to take parental responsibilities they&#8217;re not up to.</p>
-</div>
-					</div>
-				</article>
-				<p class="send"><a href="http://ideas.time.com/submit-a-letter/"><button class="submit">Send us your letters</button></a></p></section><section id="text-9" class="module mobile-right widget widget_text">			<div class="textwidget"><p>Send a letter to the editor <u><a href="http://ideas.time.com/submit-a-letter/">here</a></u>. These letters may be edited and posted on TIME Ideas.</p>
-<p><i>Note: The views expressed on TIME Ideas are solely those of the authors.</i></p>
-</div>
-		</section>		</aside>
-	
-	
-			
-		</div><!-- #content-body -->
-
-		<script data-main="https://s0.wp.com/wp-content/themes/vip/time2012/library/assets/js/main.min" src="https://s0.wp.com/wp-content/themes/vip/time2012/library/assets/js/libs/require-jquery.min.js"></script>
-					
-		<footer class="site-footer ">
-	<ul class="footer-site-links">
-		<li>
-			<a href="http://time.com/">Home</a>
-		</li>
-		<li>
-			<a href="http://time.com/us/">U.S.</a>
-		</li>
-		<li>
-			<a href="http://time.com/politics/">Politics</a>
-		</li>
-		<li>
-			<a href="http://time.com/world/">World</a>
-		</li>
-		<li>
-			<a href="http://time.com/business/">Business</a>
-		</li>
-		<li>
-			<a href="http://time.com/tech/">Tech</a>
-		</li>
-		<li>
-			<a href="http://time.com/health/">Health</a>
-		</li>
-		<li>
-			<a href="http://time.com/science/">Science</a>
-		</li>
-		<li>
-			<a href="http://time.com/entertainment/">Entertainment</a>
-		</li>
-		<li>
-			<a href="http://time.com/newsfeed/">Newsfeed</a>
-		</li>
-		<li>
-			<a href="http://time.com/living/">Living</a>
-		</li>
-		<li>
-			<a href="http://time.com/ideas/">Ideas</a>
-		</li>
-		<li>
-			<a href="http://time.com/parents/">Parents</a>
-		</li>
-		<li>
-			<a href="http://time.com/sports/">Sports</a>
-		</li>
-		<li>
-			<a href="http://time.com/history/">History</a>
-		</li>
-		<li>
-			<a href="http://time.com/vault/">The TIME Vault</a>
-		</li>
-		<li>
-			<a href="http://time.com/magazine/">Magazine</a>
-		</li>
-		<li>
-			<a class="subscribe-link" href="https://subscription.time.com/storefront/subscribe-to-time/link/1002093.html">Subscribe</a>
-		</li>
-		<li>
-			<a class="gift-link" href="https://subscription.time.com/storefront/subscribe-to-time/link/1023465.html">Give a Gift</a>
-		</li>
-		<li>
-			<a href="http://time.com/section/the-goods/">The Goods</a>
-		</li>
-		<li>
-			<a href="https://shop.time.com/storefront/subscribe-to-time/link/1032684.html?xid=cm-TIMEShopFooter">TIME Shop</a>
-		</li>
-		<li>
-			<a href="http://time.com/press-room/">Press Room</a>
-		</li>
-		<li>
-			<a href="https://pages.email.time.com/newsletters?source=time_footer">Newsletters</a>
-		</li>
-		<li>
-			<a href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSM%20%20%20%20%20AG=TD">Customer
-				Service</a>
-		</li>
-		<li>
-			<a href="http://time.com/html-sitemap/">Site Map</a>
-		</li>
-		<li>
-			<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E">Privacy
-				Policy</a>
-		</li>
-		<li>
-			<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california">Your
-				California Privacy Rights</a>
-		</li>
-		<li>
-			<a href="https://subscription.timeinc.com/storefront/privacy/time/privacy_terms_service.html">Terms of
-				Use</a>
-		</li>
-		<li>
-			<a href="http://www.timemediakit.com/">Advertising</a>
-		</li>
-		<li>
-			<a href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html">Ad Choices <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAMAAACq939wAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAECAwQFBgcICPn6+/z9/vIxqCigAAAFZJREFUCB0FwQECwiAMBLCw4axS4f7/WhMn3wtAknwGIL/ZOTVAmmdnP5D2ZNbJnqTda7hW8pX2zs21E2mVOSrZU1plnewHaZWcGpDT1TWAJC8Aa90A/nKrBC08aQTRAAAAAElFTkSuQmCC" alt="Ad Choices"></a>
-		</li>
-		<li>
-			<a href="http://www.timeinc.com/careers/">Careers</a>
-		</li>
-	</ul>
-	
-	<span>&copy; 2017 Time Inc. All rights reserved.</span>
-	</footer>
-	<div id="Sign_In_Modal" class="modal-container--signin modal-container">
-		<div class="modal paywall">
-		<div class="modal__close time-icons time-icons-close close-button paywall"></div>
-		<iframe scrolling="no" id="signinOverlay" class="paywall-overlay-frame" width="100%" height="710" border="0" data-url="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-pcslogin/login.html"></iframe>
-
-		</div>
-	</div><!-- wpcom_wp_footer -->
-	<script type="text/javascript">
-		var _sf_async_config = {uid: 3088, domain: "ideas.time.com", pingServer: "ptimeinc.chartbeat.net"};
-		_sf_async_config.authors = 'TIME Contributor';
-		_sf_async_config.path = '/2013/01/03/has-the-fight-for-abortion-rights-been-lost/';
-		_sf_async_config.sections = 'IdeasIdeas';
-		_sf_async_config.domain = 'time.com';
-		_sf_async_config.zone = 'Ideas';
-		(function () {
-			function loadChartbeat() {
-				window._sf_endpt = (new Date()).getTime();
-				var e = document.createElement('script');
-				e.setAttribute('language', 'javascript');
-				e.setAttribute('type', 'text/javascript');
-				e.setAttribute('src',
-					(("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-						"static.chartbeat.com/js/chartbeat_pub.js");
-				document.body.appendChild(e);
-			}
-
-			var oldonload = window.onload;
-			window.onload = (typeof window.onload != 'function') ?
-				loadChartbeat : function () {
-				oldonload();
-				loadChartbeat();
-			};
-		})();
-	</script>
-
-<!-- simple reach plugin -->
-<script>
-__reach_config = {
-pid: '4e87f81ca782f3404200000a',
-title: 'Has The Fight For Abortion Rights Been Lost?',
-url: 'http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/',
-date: '2013-01-03 7:44:30 -0400',
-authors: ['TIME Contributor'],
-channels: ['ideas'],
-tags: ['Health &amp; Science','Law'],
-landing_url: 'http://ideas.time.com/2013/01/03/has-the-fight-for-abortion-rights-been-lost/' // Optional parameter for the main page of slideshows, galleries, multipage articles, etc.
-};
-(function(){
-var s = document.createElement('script');
-s.async = true;
-s.type = 'text/javascript';
-s.src = document.location.protocol + '//simple-cdn.s3.amazonaws.com/js/reach.js';
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
-})();
-</script>
-<!-- end simple reach -->
-
-		<div style="display:none">
-	</div>
-<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/mu-plugins/likes/queuehandler.js,/wp-content/themes/vip/time2012/library/assets/js/plugins.min.js?m=1467034812j'></script>
-<script type='text/javascript' src='http://admin.brightcove.com/js/BrightcoveExperiences.js'></script>
-<script type='text/javascript' src='http://cdn.optimizely.com/js/230919112.js'></script>
-<script type='text/javascript' src='http://time.com/wp-content/themes/vip/time2014/js/dist/header-footer.js?m=1433874637h'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://s2.wp.com/_static/??-eJxtjsEKgzAQRH+o6ZrUQz2UfstqFruSxJBdFf/eWCiF0tMMA29mYMtmmJNSUoiLyWEZOQk4s3KGSaCKwYRhVx7kOskF/gPoIyfTY4GIolSqM/NKpbAn+Wa/DfqiSO8VUI7kGusgcF+w7IAipHKe2NiPp83I/oPWpmd82PbeNU1rb910AOPMScc='></script>
-<script type="text/javascript">
-// <![CDATA[
-(function() {
-try{
-  if ( window.external &&'msIsSiteMode' in window.external) {
-    if (window.external.msIsSiteMode()) {
-      var jl = document.createElement('script');
-      jl.type='text/javascript';
-      jl.async=true;
-      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(jl, s);
-    }
-  }
-}catch(e){}
-})();
-// ]]>
-</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
-<script type="text/javascript">
-_tkq = window._tkq || [];
-_stq = window._stq || [];
-_tkq.push(['storeContext', {'blog_id':'27622548','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
-_stq.push(['view', {'blog':'27622548','v':'wpcom','tz':'-4','user_id':'0','post':'27095','subd':'timeopinions'}]);
-function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=27622548&v=wpcomvt&tz=-4&user_id=0&post=27095&subd=timeopinions&rand="+Math.random();}
-_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdsSFdvdng4SDNxaV9hL0NfZktMXy0mXWk2cFJ1Tms0Q3JFeGVZVXlQTGJ2MnVPdlNKSX5BRi51U3klJWpBTDlmVGNZR0VoYW9DQ114bTNMRllhJnd+dmpHaytjP21udVV6ZkI/fmR8X3pYN2pFMlgrWiZzfEhFY2lxVlhia0N6cFs2aSY2WDlKZlBqU2V+UWh2LF09dUFWJWw0aDJpeVdlV1N3ZDNiQ2JdLTMwYixuLyVFNHwtMX5MUlBRJkJHQ2N2TGhvTVA='}]);
-_stq.push([ 'clickTrackerInit', '27622548', '27095' ]);
-	</script>
-<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
-<script>
-if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
-
-	wpcom_mobile_user_agent_info.init();
-	var mobileStatsQueryString = "";
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
-		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
-		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
-	
-	if( wpcom_mobile_user_agent_info.isIPad() )
-		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
-
-	if( "" != mobileStatsQueryString ) {
-		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
-	}
-	
-}
-</script></body>
-</html>
+</footer></div> <script>window.jQuery || document.write('<script src="https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/javascript/min/jquery-local-min.js">\x3C/script>')</script> <div
+id="eModal-12" class="emodal theme-1 custom" data-emodal="{&quot;id&quot;:&quot;12&quot;,&quot;theme_id&quot;:&quot;1&quot;,&quot;meta&quot;:{&quot;id&quot;:&quot;12&quot;,&quot;modal_id&quot;:&quot;12&quot;,&quot;display&quot;:{&quot;overlay_disabled&quot;:0,&quot;size&quot;:&quot;custom&quot;,&quot;custom_width&quot;:45,&quot;custom_width_unit&quot;:&quot;%&quot;,&quot;custom_height&quot;:0,&quot;custom_height_unit&quot;:&quot;em&quot;,&quot;custom_height_auto&quot;:1,&quot;location&quot;:&quot;center top&quot;,&quot;position&quot;:{&quot;top&quot;:100,&quot;left&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0,&quot;fixed&quot;:0},&quot;animation&quot;:{&quot;type&quot;:&quot;fade&quot;,&quot;speed&quot;:&quot;350&quot;,&quot;origin&quot;:&quot;center top&quot;}},&quot;close&quot;:{&quot;overlay_click&quot;:0,&quot;esc_press&quot;:1}}}"><div
+class="emodal-content"><p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><br
+/><html
+xmlns="http://www.w3.org/1999/xhtml"><br
+/><head><link
+href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"><style type="text/css">/*<![CDATA[*/#mc_embed_signup{background:#fff; clear:left; font:18px Helvetica,Arial,sans-serif;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */  </p>/*]]>*/</style><p></head><body></p><div
+id="mc_embed_signup" style="color:white; background-color:black; padding:8px; max-width:600"><div
+style="padding-left:10%;padding-right:10%;padding-bottom:15px" align="">
+<strong>Want to read our Spring issue for free? Sign up for our newsletter by March 31 to receive a full PDF when the issue launches. </strong></div><div
+align="center"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/Dissent-Spring2015-Cover-Final-nobarcode-350x500.png" style="max-width:20%;padding:3px;"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/Dissent-Spring2015-previewpageTK-5001.png" style="max-width:20%;padding:3px;"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/Dissent-Spring2015-previewpageSJquote-500.png" style="max-width:20%;padding:3px;"><img
+src="https://www.dissentmagazine.org/wp-content/uploads/Dissent-Spring2015-BackCover-Final-694x1000.png" style="max-width:20%;padding:3px;"></div><p></p><div
+id="mc_embed_signup" style="color:white; background-color:black;padding-left:10%;padding-right:10%;padding-top:10px;padding-bottom:10px"><form
+action="//dissentmagazine.us5.list-manage.com/subscribe/post?u=3071b88d3d2c436f85e72f072&amp;id=a1e9be80de" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><div
+id="mc_embed_signup_scroll"><div
+class="mc-field-group">
+<label
+for="mce-EMAIL">Email Address  </label>	<input
+type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="color:black"></div><div
+id="mce-responses" class="clear"><div
+class="response" id="mce-error-response" style="display:none;"></div><div
+class="response" id="mce-success-response" style="display:none"></div></p></div><p></p><div
+style="position: absolute; left: -5000px;"><input
+type="text" name="b_3071b88d3d2c436f85e72f072_a1e9be80de" tabindex="-1" value=""></div><div
+class="clear"><input
+type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div></p></div></form></div></div><p><br
+/></body></html></p></div><a
+class="emodal-close">&#215;</a></div><div
+id="eModal-33" class="emodal theme-1 custom" data-emodal="{&quot;id&quot;:&quot;33&quot;,&quot;theme_id&quot;:&quot;1&quot;,&quot;meta&quot;:{&quot;id&quot;:&quot;33&quot;,&quot;modal_id&quot;:&quot;33&quot;,&quot;display&quot;:{&quot;overlay_disabled&quot;:0,&quot;size&quot;:&quot;custom&quot;,&quot;custom_width&quot;:666,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height&quot;:500,&quot;custom_height_unit&quot;:&quot;px&quot;,&quot;custom_height_auto&quot;:0,&quot;location&quot;:&quot;center top&quot;,&quot;position&quot;:{&quot;top&quot;:100,&quot;left&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0,&quot;fixed&quot;:0},&quot;animation&quot;:{&quot;type&quot;:&quot;fade&quot;,&quot;speed&quot;:&quot;350&quot;,&quot;origin&quot;:&quot;center top&quot;}},&quot;close&quot;:{&quot;overlay_click&quot;:1,&quot;esc_press&quot;:1}},&quot;autoopen&quot;:{&quot;modal_id&quot;:33,&quot;delay&quot;:500,&quot;cookie&quot;:{&quot;time&quot;:&quot;2 days&quot;,&quot;path&quot;:&quot;\/&quot;}}}"><div
+class="emodal-content"><p><body></p><div
+style="width:666px; height:500px; background-image:url(https://www.dissentmagazine.org/wp-content/uploads/UMW-protest-bw-bmp-666x500.jpg); padding-left:40px;padding-right:28px;padding-top:292px;padding-bottom:20px;margin-left:auto;margin-right:auto;margin-top:auto;margin-bottom:auto;"></p><div
+id="mc_embed_signup" style="font-size:24px; background:none"><div
+style="padding-left:18px; padding-right:18px; color:white; "><p><strong>Movements need ideas.</strong></p><p
+style="font-size:18px"><strong>Sign up to the <em>Dissent</em> email list to receive weekly article roundups, issue previews, event invitations, and more. </strong></p></div><form
+action="//dissentmagazine.us5.list-manage.com/subscribe/post?u=3071b88d3d2c436f85e72f072&amp;id=a1e9be80de" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><div
+id="mc_embed_signup_scroll"><table><tr><td
+width="66%"><div
+class="mc-field-group"  style="font-size:16px;">
+<label
+for="mce-EMAIL"></label>	<input
+type="email" value="" placeholder="Email address" name="EMAIL" class="required email" id="mce-EMAIL" style="width:100%; color:#0f2c35;"></div><div
+id="mce-responses" class="clear"><div
+class="response" id="mce-error-response" style="display:none;"></div><div
+class="response" id="mce-success-response" style="display:none"></div></p></div><p></p><div
+style="position: absolute; left: -5000px;"><input
+type="text" name="b_3071b88d3d2c436f85e72f072_a1e9be80de" tabindex="-1" value=""></div></td><td
+width="5%"></td><td
+width="24%" style="padding-top:13px;"><div
+class="clear"><input
+type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width:100%; min-width:100px; height:40px; font-size:15px; "></div></td></tr></table></div></form></div></div><p></p><p></body></p></div><a
+class="emodal-close">&#215;</a></div>
+ <script type='text/javascript' src='https://www.dissentmagazine.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/easy-modal/assets/scripts/jquery.transit.min.js?ver=0.9.11'></script> <script type='text/javascript'>/*  */
+var emodal_themes = [];
+emodal_themes = {"1":{"id":"1","theme_id":"1","overlay":{"background":{"color":"#ffffff","opacity":75}},"container":{"padding":0,"background":{"color":"#000000","opacity":100},"border":{"style":"solid","color":"#140000","width":0,"radius":0},"boxshadow":{"inset":"no","horizontal":1,"vertical":1,"blur":3,"spread":0,"color":"#020202","opacity":23}},"close":{"text":"x","location":"topright","position":{"top":"0","left":"0","bottom":"0","right":"0"},"padding":8,"background":{"color":"#0a0707","opacity":0},"font":{"color":"#ffffff","size":12,"family":"Sans-Serif"},"border":{"style":"none","color":"#ffffff","width":1,"radius":0},"boxshadow":{"inset":"no","horizontal":0,"vertical":0,"blur":0,"spread":-11,"color":"#020202","opacity":23},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#000000","opacity":23}},"title":{"font":{"color":"#d8d8d8","size":28,"family":"Sans-Serif"},"text":{"align":"left"},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#020202","opacity":23}},"content":{"font":{"color":"#ffffff","family":"Sans-Serif"}}}};;
+/*  */</script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/easy-modal/assets/scripts/easy-modal-site.js?defer&#038;ver=2' defer='defer'></script> <script type='text/javascript'>/*  */
+var DM_Root = {"root_url":"WP_HOME"};
+/*  */</script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/themes/Dissent-Rumors/javascript/global.js'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/easy-modal/assets/scripts/jquery.cookie.js?ver=1.4.1'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/easy-modal/assets/scripts/emodal-utilities-strtotime.js?defer&#038;ver=1' defer='defer'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-content/plugins/easy-modal-auto-open/assets/scripts/easy-modal-auto-open-site.js?defer&#038;ver=1' defer='defer'></script> <script type='text/javascript' src='https://www.dissentmagazine.org/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script> <div
+id="fb-root"></div> <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=214067098624442";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </body></html>

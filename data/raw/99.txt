@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.southasiaanalysis.org/sites/default/files/favicon.png" type="image/png" />
+<meta content="Tibetan Independence (Rangzen) Movement Spreads" about="/node/1205" property="dc:title" />
+<link rel="canonical" href="/node/1205" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/1205" />
+  <title>Tibetan Independence (Rangzen) Movement Spreads | South Asia Analysis Group</title>
+  <style type="text/css" media="all">@import url("http://www.southasiaanalysis.org/modules/system/system.base.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/system/system.menus.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/system/system.messages.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/system/system.theme.css?nbst5q");</style>
+<style type="text/css" media="all">@import url("http://www.southasiaanalysis.org/modules/comment/comment.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/field/theme/field.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/node/node.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/search/search.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/user/user.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/modules/forum/forum.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/sites/all/modules/views/css/views.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/sites/all/modules/back_to_top/css/back_to_top.css?nbst5q");</style>
+<style type="text/css" media="all">@import url("http://www.southasiaanalysis.org/sites/all/modules/ckeditor/ckeditor.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/sites/all/modules/ctools/css/ctools.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/sites/all/modules/print/print_ui/css/print_ui.theme.css?nbst5q");</style>
+<style type="text/css" media="all">@import url("http://www.southasiaanalysis.org/sites/all/themes/corporateclean/style.css?nbst5q");
+@import url("http://www.southasiaanalysis.org/sites/default/files/color/corporateclean-542c49a2/colors.css?nbst5q");</style>
+  <script type="text/javascript" src="http://www.southasiaanalysis.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.southasiaanalysis.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.southasiaanalysis.org/misc/drupal.js?nbst5q"></script>
+<script type="text/javascript" src="http://www.southasiaanalysis.org/misc/ui/jquery.effects.core.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.southasiaanalysis.org/sites/all/modules/back_to_top/js/back_to_top.js?nbst5q"></script>
+<script type="text/javascript" src="http://www.southasiaanalysis.org/sites/all/themes/corporateclean/js/jquery.cycle.all.min.js?nbst5q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var switchTo5x = true;
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (stLight !== undefined) { stLight.options({"publisher":"dr-9dbc28e3-c1cd-9bfc-d785-3bde479501c","version":"5x"}); }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.southasiaanalysis.org/sites/all/modules/google_analytics/googleanalytics.js?nbst5q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-34839565-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {  
+	
+	$("#slideshow").cycle({
+		fx:    "scrollHorz",
+		speed:  "slow",
+		timeout: "10000",
+		pager:  "#slider-navigation",
+		pagerAnchorBuilder: function(idx, slide) {
+			return "#slider-navigation li:eq(" + (idx) + ") a";
+		},
+		height: 300,
+		after: onAfter
+	});
+	
+	function onAfter(curr, next, opts, fwd){
+		var $ht = $(this).height();
+		$(this).parent().animate({height: $ht});
+	}
+	
+	});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"corporateclean","theme_token":"CfOCUIlxUNY3qT_YuG2Y1O6DUFnGOU1xXjAIpZZAG5M","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"sites\/all\/themes\/corporateclean\/js\/jquery.cycle.all.min.js":1,"0":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"3":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1}},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_prevent_on_mobile":1,"back_to_top_prevent_in_admin":1,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1205 node-type-article" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- Header. -->
+
+ <div style = "text-align:right; float:right;"> <a href="https://twitter.com/southasiaanalys" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @southasiaanalys</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>  </div>
+ 
+<div id="header">
+
+    <div id="header-inside">
+    
+        <div id="header-inside-left">
+        <div class="globe"><img src="/sites/all/themes/corporateclean/mockup/globe.gif"/></div>
+            <div class="logoset">
+                        <a href="/" title="Home"><img src="http://www.southasiaanalysis.org/sites/default/files/color/corporateclean-542c49a2/logo.png" alt="Home" /></a>
+                        
+            </div>
+     
+                        
+        </div>
+            
+        <div id="header-inside-right">
+		    
+        </div>
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- Header Menu. -->
+<div id="header-menu">
+
+<div id="header-menu-inside">
+    <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/about-us">ABOUT US</a></li>
+<li class="leaf"><a href="/papers" title="">PAPERS</a></li>
+<li class="leaf"><a href="/notes" title="">NOTES</a></li>
+<li class="leaf"><a href="/forum" title="">FORUM</a></li>
+<li class="leaf"><a href="/contact" title="">FEEDBACK</a></li>
+<li class="leaf"><a href="/node/2">LINKS</a></li>
+<li class="leaf"><a href="/search" title="">SEARCH</a></li>
+<li class="last leaf"><a href="/node/111">CONTACT US</a></li>
+</ul></div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- Banner. -->
+<div id="banner">
+
+		
+        
+        
+	  
+
+</div><!-- EOF: #banner -->
+
+
+<!-- Content. -->
+<div id="content">
+
+    <div id="content-inside" class="inside">
+    
+        <div id="main">
+            
+            <div class="breadcrumb"><a href="/">Home</a> <span class="breadcrumb-separator">/</span> Tibetan Independence (Rangzen) Movement Spreads</div>            
+                   
+                 
+                        
+                        
+			                        <h1>Tibetan Independence (Rangzen) Movement Spreads</h1>
+                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-1205" class="node node-article node-promoted" about="/node/1205" typeof="sioc:Item foaf:Document">
+
+  
+      
+      <div class="submitted"><span property="dc:date dc:created" content="2013-03-19T04:56:39+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name">asiaadmin2</span> on Tue, 03/19/2013 - 04:56</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong style="font-size: 12px;">Paper No. 5428                                           Dated 19-Mar-2013</strong></p>
+<p>By B. Raman</p>
+<p>The Tibetan independence (Rangzen) movement, started on November 23, 2001, by Thubten Jigme Norbu, former Abbot of the Kumbum monastery and Professor Emeritus at the Indiana University in the US, has been slowly spreading.</p>
+<p>2. The movement, which was launched by a group of Tibetans who constituted themselves into what was called the Rangzen Alliance, describes its objectives as follows: “The Rangzen Alliance is a movement of committed Tibetans and friends, world-over, who have joined together to provide a common platform of action for the realization of three goals:</p>
+<p style="margin-left:1cm;">a.       The restoration of Tibetan independence.</p>
+<p style="margin-left:1cm;">b.       The return of His Holiness the Dalai Lama to Tibet as the sovereign head-of-state of an independent nation.</p>
+<p style="margin-left:1cm;">c.       The establishment of a fully democratic system of government in exile Tibetan society and in free Tibet – based on the rule of law and the primacy of individual freedom.”</p>
+<p>3. The Rangzen movement enjoys the support of the Tibetan Youth League (TYC) and many members of the Tibetan diaspora spread across the world. While the movement has reservations about the middle road policy advocated by His Holiness the Dalai Lama envisaging autonomy for all the Tibetan areas of China in the Tibetan Autonomous Region, Gansu, Qinghai, Sichuan and Yunnan, it has been strongly backing the leadership of His Holiness.</p>
+<p>4. The movement, which had lost some momentum after the brutal suppression of the Tibetans by the People’s Liberation Army after the anti-Chinese riots of March 2008, is again showing signs of gathering strength as resentment builds up among the Tibetans of China and the diaspora over the Chinese indifference to the continuing self-immolation of Tibetan monks and others in the Tibetan areas since March 2009. 108 Tibetans have so far committed self-immolation, the majority of them in the Sichuan province.</p>
+<p> 5. The total Chinese indifference to the self-immolations and their attempts to arrest and persecute relatives and friends of those committing self-immolation on charges of complicity have added to the resentment and injected fresh oxygen into the Rangzen movement. On February 13, 2013, the TYC organised a two-day Rangzen Conference, which was attended by around 35 independence activists.</p>
+<p>6. The Rangzen Conference also marked 100 years of His Holiness the 13th Dalai Lama’s Proclamation of Tibetan Independence. Speaking at the Conference, Dhondup Lhadar, vice-president of TYC, stressed that every Tibetan had the responsibility to “preserve the legacy of the 13th Dalai Lama and uphold the truth of an independent and sovereign Tibet.”</p>
+<p>7.  “More than a hundred Tibetans have given the ultimate non-violent sacrifice of setting themselves on fire protesting China’s occupation,” Lhadar said. “It is our sacred duty to repeat history a 100 years later and realise the return of our most beloved leader His Holiness the Dalai Lama.”</p>
+<p>8. The same day, activists of the Tibetan diaspora in New York and Paris announced the formation of a   Tibetan National Congress (TNC) to disseminate the views of independence-minded Tibetans in the Tibetan community and in Tibet’s democratic government in exile.</p>
+<p>9. A spokesman of the TNC Jigme Ugen told Radio Free Asia in an interview as follows: “Naturally there will be different viewpoints about what is the best course to take, but I believe that Tibetan democracy is ready at this point for those viewpoints to be respectfully and openly debated through constructive political participation.”</p>
+<p> 10. “We expect more members to come out from other organizations and from the broader Tibetan society who really believe not just in Rangzen [independence] but in democracy. TNC will help form a common platform.” </p>
+<p>11. The supporters of the TNC plan to hold a global conference in September next to work out their programme of action.  The total silence of Xi Jinping, the General Secretary of the Communist Party of China, who took over as the President of China on March 14, 2013, on the Tibetan issue has added to the determination of the independence activists to strengthen their movement even if its goals are at variance with the Middle Road policy of His Holiness.</p>
+<p>12. His Holiness has not yet expressed his views on the emergence of the TNC, but he may not discourage any movement that uses non-violent means for asserting the rights of the Tibetans---whether the rights are for autonomy or independence. The Chinese calculations that somehow the Tibetan struggle will peter out as they forge ahead with their programme for economic development have been belied so far. The fact that the new generation of Tibetans is even more determined than the older generation to assert Tibetan rights indicates that the Chinese may not be able to suppress the Tibetans.</p>
+<p><span style="font-size:10px;"><em>(The writer is Additional Secretary (retd), Cabinet Secretariat, Govt. of India, New Delhi, and, presently, Director, Institute For Topical Studies, Chennai, and Associate of the Chennai Centre For China Studies. Twitter: @SORBONNE75)</em></span></p>
+</div></div></div><div class="sharethis-buttons"><div class="sharethis-wrapper"><span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_facebook_button" displayText="facebook"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_twitter_button" st_via="southasiaanalys" st_username="southasiaanalys" displayText="twitter"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_linkedin_button" displayText="linkedin"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_email_button" displayText="email"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_sharethis_button" displayText="sharethis"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_pinterest_button" displayText="pinterest"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_plusone_button" displayText="plusone"></span>
+<span st_url="http://www.southasiaanalysis.org/node/1205" st_title="Tibetan Independence (Rangzen) Movement Spreads" class="st_fblike_button" displayText="fblike"></span>
+</div></div>
+<div class="field field-name-field-category field-type-taxonomy-term-reference field-label-above"><div class="field-label">Category:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/papers" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Papers</a></div></div></div><div class="field field-name-field-countries field-type-taxonomy-term-reference field-label-above"><div class="field-label">Countries:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/china" typeof="skos:Concept" property="rdfs:label skos:prefLabel">China</a></div></div></div><div class="field field-name-field-topics field-type-taxonomy-term-reference field-label-above"><div class="field-label">Topics:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/political" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Political</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"></li>
+<li class="print_html"><a href="/print/1205" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow">Print</a></li>
+<li class="print_pdf last"><a href="/printpdf/1205" title="Display a PDF version of this page." class="print-pdf" rel="nofollow">Download</a></li>
+</ul></div>
+    
+      </div>
+
+</div></div>
+</div>  </div>
+            
+                        
+        </div><!-- EOF: #main -->
+        
+        <div id="sidebar">
+             
+              <div class="region region-sidebar-first">
+    <div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/node/1205" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-AOkLl53k8oTMGJmvK9uDIeI_HVcTP5XSpeV9etljzmo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div><div id="block-menu-menu-index" class="block block-menu">
+
+<h2>INDEX</h2>
+
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/afganistan" title="">Afganistan</a></li>
+<li class="leaf"><a href="/africa" title="">Africa</a></li>
+<li class="leaf"><a href="/bangladesh" title="">Bangladesh</a></li>
+<li class="leaf"><a href="/bhutan" title="">Bhutan</a></li>
+<li class="leaf"><a href="/china" title="">China</a></li>
+<li class="leaf"><a href="/east-asia" title="">East Asia</a></li>
+<li class="leaf"><a href="/europe" title="">Europe</a></li>
+<li class="leaf"><a href="/fiji" title="">Fiji</a></li>
+<li class="leaf"><a href="/india" title="">India</a></li>
+<li class="leaf"><a href="/iraq" title="">Iraq</a></li>
+<li class="leaf"><a href="/japan" title="">Japan</a></li>
+<li class="leaf"><a href="/maldives" title="">Maldives</a></li>
+<li class="leaf"><a href="/middle-east" title="">Middle East</a></li>
+<li class="leaf"><a href="/myanmar" title="">Myanmar</a></li>
+<li class="leaf"><a href="/nepal" title="">Nepal</a></li>
+<li class="leaf"><a href="/pakistan" title="">Pakistan</a></li>
+<li class="leaf"><a href="/russia" title="">Russia </a></li>
+<li class="leaf"><a href="/se-asia" title="">SEAsia</a></li>
+<li class="leaf"><a href="/south-asia-general" title="">South Asia (General)</a></li>
+<li class="leaf"><a href="/sri-lanka" title="">Sri Lanka</a></li>
+<li class="leaf"><a href="/united-nations" title="">United Nations</a></li>
+<li class="leaf"><a href="/united-states" title="">United States</a></li>
+<li class="leaf"><a href="/west-asia" title="">West Asia</a></li>
+<li class="last leaf"><a href="/others" title="">others</a></li>
+</ul></div>
+</div><div id="block-menu-menu-topics" class="block block-menu">
+
+<h2>TOPICS</h2>
+
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/economy" title="">Economy</a></li>
+<li class="leaf"><a href="/general" title="">General</a></li>
+<li class="leaf"><a href="/global" title="">Global</a></li>
+<li class="leaf"><a href="/human-rights" title="">Human Rights</a></li>
+<li class="leaf"><a href="/indian-political-party" title="">Indian Political Party</a></li>
+<li class="leaf"><a href="/insurgency" title="">Insurgency</a></li>
+<li class="leaf"><a href="/intelligence" title="">Intelligence</a></li>
+<li class="leaf"><a href="/islamic-affairs" title="">Islamic Affairs</a></li>
+<li class="leaf"><a href="/media" title="">Media</a></li>
+<li class="leaf"><a href="/taxonomy/term/54" title="">Minorities</a></li>
+<li class="leaf"><a href="/non-proliferation" title="">Non Proliferation</a></li>
+<li class="leaf"><a href="/parties-institutions" title="">Parties/Institutions</a></li>
+<li class="leaf"><a href="/political" title="">Political</a></li>
+<li class="leaf"><a href="/refugees" title="">Refugees</a></li>
+<li class="leaf"><a href="/strategic-affairs-and-security" title="">Strategic Affairs &amp; Security</a></li>
+<li class="leaf"><a href="/technology" title="">Technology</a></li>
+<li class="leaf"><a href="/terrorism" title="">Terrorism</a></li>
+<li class="last leaf"><a href="/wmd" title="">WMD</a></li>
+</ul></div>
+</div>  </div>
+
+        </div><!-- EOF: #sidebar -->
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- Footer -->    
+<div id="footer">
+
+    <div id="footer-inside">
+    
+        <div class="footer-area first">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area second">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area third">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- Footer -->    
+<div id="footer-bottom">
+
+    <div id="footer-bottom-inside">
+    
+    	<div id="footer-bottom-left">
+        
+                        
+              <div class="region region-footer">
+    <div id="block-block-3" class="block block-block">
+
+
+<div class="content">
+<p><span><span><span>Copyright ©2012. All Rights are Reserved. </span></span></span></p>
+<p align="center">
+	 </p>
+</div>
+</div>  </div>
+            
+        </div>
+        
+        <div id="footer-bottom-right">
+        
+        	  <div class="region region-footer-bottom-right">
+    <div id="block-block-5" class="block block-block">
+
+
+<div class="content">
+<p>Designed and Developed By : <a href="http://www.eisols.com"> Eminence Interactive Solutions</a></p>
+</div>
+</div>  </div>
+        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+
+</div><!-- EOF: #footer -->
+  </body>
+</html>

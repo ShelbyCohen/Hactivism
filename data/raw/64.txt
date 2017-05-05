@@ -32,7 +32,7 @@
 <script type="text/javascript" src="http://www.socialist.ca/sites/default/files/js/js_EQlpHYIyOpHxHB0wB2vj1jPvh6dvA68UEzKO8eZmpnM.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"worker","theme_token":"hqjhvNcwlMUUfbK8WMIVSZGELOpFx31238I2rzHNu1Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/fb\/fb.js":1,"sites\/all\/modules\/fb\/fb_connect.js":1,"sites\/all\/modules\/fb\/fb_stream.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/modules\/views_accordion\/views-accordion.js":1,"sites\/all\/themes\/worker\/js\/jquery.collapse.js":1,"sites\/all\/themes\/worker\/js\/jquery.easing.js":1,"sites\/all\/themes\/worker\/js\/collasper.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/widgets\/widgets.css":1,"sites\/all\/modules\/fb\/fb.theme.css":1,"sites\/all\/modules\/views_accordion\/views-accordion.css":1,"public:\/\/spamicide\/feed_me.css":1,"sites\/all\/themes\/worker\/css\/style.css":1}},"fb_connect":{"front_url":"\/","fbu":0,"uid":0},"views_accordion":{"views-accordion-recent_videos-block_1":{"collapsible":0,"rowstartopen":0,"animated":"slide","autoheight":0,"event":"click","fillspace":0,"navigation":0,"clearstyle":1,"grouping":0,"display":"block_1","viewname":"recent_videos","usegroupheader":0,"header":".views-accordion-header","newoptions":false}},"urlIsAjaxTrusted":{"\/node\/1825":true,"\/node\/1825?destination=node\/1825":true}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"worker","theme_token":"udULPxssEztPgaZwOWF9EtXmv5yFA0yxxfP3333Q4MM","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/fb\/fb.js":1,"sites\/all\/modules\/fb\/fb_connect.js":1,"sites\/all\/modules\/fb\/fb_stream.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/modules\/views_accordion\/views-accordion.js":1,"sites\/all\/themes\/worker\/js\/jquery.collapse.js":1,"sites\/all\/themes\/worker\/js\/jquery.easing.js":1,"sites\/all\/themes\/worker\/js\/collasper.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/widgets\/widgets.css":1,"sites\/all\/modules\/fb\/fb.theme.css":1,"sites\/all\/modules\/views_accordion\/views-accordion.css":1,"public:\/\/spamicide\/feed_me.css":1,"sites\/all\/themes\/worker\/css\/style.css":1}},"fb_connect":{"front_url":"\/","fbu":0,"uid":0},"views_accordion":{"views-accordion-recent_videos-block_1":{"collapsible":0,"rowstartopen":0,"animated":"slide","autoheight":0,"event":"click","fillspace":0,"navigation":0,"clearstyle":1,"grouping":0,"display":"block_1","viewname":"recent_videos","usegroupheader":0,"header":".views-accordion-header","newoptions":false}},"urlIsAjaxTrusted":{"\/node\/1825":true,"\/node\/1825?destination=node\/1825":true}});
 //--><!]]>
 </script>
 </head>
@@ -78,7 +78,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/worker/images/spyglass14x14.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-dncJKRgQ9sRFlF6xZoeXnLKaNm5umsNE1BJTvThG_Mc" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/worker/images/spyglass14x14.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-EFjr-AFVNB6Qn6E9e0tN11LZbNgd5_U9wVVeVygzlT8" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>  </div>
@@ -103,7 +103,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <div class="view view-back-issues view-id-back_issues view-display-id-block view-dom-id-24fb3eed2260b4527a801fd748ec38bb">
+    <div class="view view-back-issues view-id-back_issues view-display-id-block view-dom-id-b45f45e1025e5be78795506f66d2f3b0">
         
   
   
@@ -323,7 +323,7 @@ if (!document.getElementById("fb-root")) {
  <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
 </div>
 <div class="item-list"><ul><li class="first last"><a href="/ISSI_member/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul></div><input type="hidden" name="form_build_id" value="form-LZ02aMUsh_3CjhKiB2UrS7mIBRIdfIT4zEManAhVv1Y" />
+</ul></div><input type="hidden" name="form_build_id" value="form-LlXYzXGcphKHA021Y1R-jUa0QS1gd0pJCb-uOa5sXj4" />
 <input type="hidden" name="form_id" value="user_login_block" />
 <div class="edit-feed-me-wrapper"><div class="form-item form-type-textfield form-item-feed-me">
   <label for="edit-feed-me">feed me </label>
@@ -352,7 +352,7 @@ if (!document.getElementById("fb-root")) {
     <h2>Featured Event</h2>
   
   <div class="content">
-    <div class="view view-featured-event-right-column view-id-featured_event_right_column view-display-id-block view-dom-id-afd4b950aae482d5c96190662cbd9206">
+    <div class="view view-featured-event-right-column view-id-featured_event_right_column view-display-id-block view-dom-id-369d02c16de12f03ed3ecab77302b685">
         
   
   
@@ -374,7 +374,7 @@ if (!document.getElementById("fb-root")) {
     <h2>Recent Videos</h2>
   
   <div class="content">
-    <div class="view view-recent-videos view-id-recent_videos view-display-id-block_1 view-dom-id-45ca92c26575ccfdd077ea1a2c164115">
+    <div class="view view-recent-videos view-id-recent_videos view-display-id-block_1 view-dom-id-1935cdfc3a5e872a50f75a6efea35351">
         
   
   

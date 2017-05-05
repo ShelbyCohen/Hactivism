@@ -1,43 +1,68 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-
-<head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
- 
-<title>The Food Movement, Rising | Michael Pollan</title>
-
-<!-- Facebook Opengraph additions -->
-    <meta property="fb:admins" content="1157875769" />
-    <meta property="og:url" content="http://michaelpollan.com/articles-archive/the-food-movement-rising/" />
-    <meta property="og:title" content="The Food Movement, Rising" />
-    <meta property="og:description" content="It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically speaking, until very recently. At least until the early 1970s, when a bout of food price inflation and the appearance of books critical of industrial agriculture (by Wendell Berry, Francis Moore Lappé, and Barry Commoner, among others) threatened to propel the subject to the top of the national agenda, Americans have not had to think very hard about where their food comes from, or what it is doing to the planet, their bodies, and their society." />
-    <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0963810952" />
-<!-- End Opengraph Stuff -->
-
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/style.css" type="text/css" media="screen" />
-<link rel="stylesheet" type="text/css" media="print" href="http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/print.css" />
-<link rel="pingback" href="http://michaelpollan.com/wordpress/xmlrpc.php" />
-
-
-
-<style type='text/css'>
-					.no-break br {
-						display: none !important;
-					}
-			</style>
-<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Design[292,348] -->
-<meta name="description"  content="It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically" />
-
-<meta name="keywords"  content="eating,farm policy &amp; agricultural subsidies,food safety,health &amp; obesity,sustainable agriculture &amp; organics,articles,the new york review of books" />
-
-<link rel="canonical" href="http://michaelpollan.com/articles-archive/the-food-movement-rising/" />
-<!-- /all in one seo pack -->
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+    <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes &#039;fear and deception&#039;? | Genetic Literacy Project</title>
+        <link rel="profile" href="https://gmpg.org/xfn/11" />
+        <link rel="pingback" href="https://www.geneticliteracyproject.org/xmlrpc.php" />
+        <link rel="stylesheet" href="https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/nav/superfish.css"/>
+       <!--
+        <link rel='stylesheet' id='FA_Lite_title_navigation-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/featured-articles-lite/themes/title_nav_large/stylesheet.css?ver=4.1.1' type='text/css' media='all' />
+        <link rel='stylesheet' id='FA_Lite_title_navigation-glp.css-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/featured-articles-lite/themes/title_nav_large/colors/glp.css?ver=4.1.1' type='text/css' media='all' /> 
+        -->
+                <!--[if lt IE 9]>
+        <script src="https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+        <![endif]-->
+                <!-- Performance scores of this site is tuned by WP Performance Score Booster plugin v1.7.2 - http://wordpress.org/plugins/wp-performance-score-booster -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/michaelpollan.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.14"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		var ajaxurl = 'https://www.geneticliteracyproject.org/wp-admin/admin-ajax.php';
+		</script>
+		
+<!-- This site is optimized with the Yoast SEO Premium plugin v4.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Scientists and science journalists call OCA--the organization funding the attack on university biotechnology researchers, as a leading promoter of junk science and misinformation about food and nutrition."/>
+<meta name="news_keywords" content="science" />
+<meta name="original-source" content="https://www.geneticliteracyproject.org/glp-facts/organic-consumers-association-2/" />
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://www.geneticliteracyproject.org/glp-facts/organic-consumers-association-2/" />
+<link rel="publisher" href="https://plus.google.com/u/0/+GeneticliteracyprojectOrg1/"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes &#039;fear and deception&#039;? | Genetic Literacy Project" />
+<meta property="og:description" content="Scientists and science journalists call OCA--the organization funding the attack on university biotechnology researchers, as a leading promoter of junk science and misinformation about food and nutrition." />
+<meta property="og:url" content="https://www.geneticliteracyproject.org/glp-facts/organic-consumers-association-2/" />
+<meta property="og:site_name" content="Genetic Literacy Project" />
+<meta property="article:publisher" content="https://www.facebook.com/GeneticLiteracyProject" />
+<meta property="article:author" content="https://www.facebook.com/TheFarmersDaughterUSA?ref=hl" />
+<meta property="og:image" content="https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/69.png" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="243" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Scientists and science journalists call OCA--the organization funding the attack on university biotechnology researchers, as a leading promoter of junk science and misinformation about food and nutrition." />
+<meta name="twitter:title" content="Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes &#039;fear and deception&#039;? | Genetic Literacy Project" />
+<meta name="twitter:site" content="@GeneticLiteracy" />
+<meta name="twitter:image" content="https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/69.png" />
+<meta name="twitter:creator" content="@farmdaughterusa" />
+<meta property="DC.date.issued" content="2015-02-11T08:00:50-04:00" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Genetic Literacy Project &raquo; Feed" href="https://www.geneticliteracyproject.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Genetic Literacy Project &raquo; Comments Feed" href="https://www.geneticliteracyproject.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Genetic Literacy Project &raquo; Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes &#8216;fear and deception&#8217;? Comments Feed" href="https://www.geneticliteracyproject.org/glp-facts/organic-consumers-association-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.geneticliteracyproject.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -53,514 +78,761 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2' type='text/css' media='all' />
-<link rel='stylesheet' id='se-link-styles-css'  href='http://michaelpollan.com/wordpress/wp-content/plugins/search-everything/static/css/se-styles.css?ver=4.2.14' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-paginate-css'  href='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/publish2/js/json2.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/publish2/js/pagination.js?ver=1.5.1'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.hoverIntent.minified.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.bgiframe.min.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/superfish.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/supersubs.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/mp.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.colorbox-min.js?ver=4.2.14'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://michaelpollan.com/wordpress/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://michaelpollan.com/wordpress/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='The 2010 TIME 100' href='http://michaelpollan.com/interviews/the-2010-time-100/' />
-<link rel='next' title='Syracuse, NY' href='http://michaelpollan.com/all-appearances/syracuse-ny/' />
-<meta name="generator" content="WordPress 4.2.14" />
-<link rel='shortlink' href='http://michaelpollan.com/?p=678' />
-<script type="text/javascript">
-	window._se_plugin_version = '8.1.3';
-</script>
-<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'44bc6d5b-c4ac-4cc8-ac5d-8be7ad8c9da7'});var st_type='wordpress3.1.3';</script>
-
-<style type="text/css" media="screen">
-	body {
-		background-image: url(/images/bg_body_line.gif);
-		background-repeat: repeat-x;
-		background-position: 0 126px;	
-	}
-</style>
-
-<!--[if IE 6]>
-wp_enqueue_script('tilebg', '/wp-content/themes/mp_wp/js/iepngfix_tilebg.js');
-<link rel="stylesheet" type="text/css" media="print" href="/wordpress/wp-content/themes/mp_wp/ie6.css" />
-<style>
-	img, a.logo, input.btn { behavior: url(/iepngfix.htc); }
-	body.page-template-tpl_home-php #nav { bottom: 40px!important; }
-	#nav li.page-item-531 ul { left: 0px!important; }
-	#nav li.page-item-535 ul { left: 345px!important; }
-	#nav li.page-item-538 ul { left: 660px!important; }
-</style>
+<link rel='stylesheet' id='printomatic-css-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/print-o-matic/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ce_responsive-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/simple-embed-code/css/video-container.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-
-<!--[if IE 7]>
-<style>
-	body.page-template-tpl_home-php #nav { bottom: 40px!important; }
-	#nav li.page-item-531 ul { left: 0px!important; }
-	#nav li.page-item-535 ul { left: 345px!important; }
-	#nav li.page-item-538 ul { left: 660px!important; }
-</style>
-<![endif]-->
-<style>
-
-</style>
-<!--[if IE]>
-
-<![endif]-->
-
-</head>
-<body class="single single-post postid-678 single-format-standard">
-<div id="container">
-
-
-<div id="header" >
-		 
-		<div id="header-promo"><a href="/books/cooked/netflix-documentary-series-cooked/"><img src="/images/header-netflix-now.jpg" alt="Netflix Documentary Series: Cooked" width="211" height="118"></a></div>
-			
-				
-		 
-		<a class="logo" href="http://michaelpollan.com/">&nbsp</a>
-		<div id="header-images">&nbsp;</div>
-<!-- <ul id="nav">
-		<li class="page_item page-item-531 page_item_has_children"><a href="http://michaelpollan.com/books/">Books</a>
-<ul class='children'>
-	<li class="page_item page-item-2203 page_item_has_children"><a href="http://michaelpollan.com/books/cooked/">Cooked</a></li>
-	<li class="page_item page-item-1970 page_item_has_children"><a href="http://michaelpollan.com/books/food-rules-illustrated-edition/">Food Rules: Illustrated Edition</a></li>
-	<li class="page_item page-item-543"><a href="http://michaelpollan.com/books/food-rules/">Food Rules</a></li>
-	<li class="page_item page-item-1035"><a href="http://michaelpollan.com/books/in-defense-of-food/">In Defense of Food</a></li>
-	<li class="page_item page-item-579"><a href="http://michaelpollan.com/books/the-omnivores-dilemma/">The Omnivore&#8217;s Dilemma</a></li>
-	<li class="page_item page-item-1039"><a href="http://michaelpollan.com/books/the-omnivores-dilemma-young-readers-edition/">The Omnivore&#8217;s Dilemma: Young Readers Edition</a></li>
-	<li class="page_item page-item-1046"><a href="http://michaelpollan.com/books/the-botany-of-desire/">The Botany of Desire</a></li>
-	<li class="page_item page-item-1050"><a href="http://michaelpollan.com/books/a-place-of-my-own/">A Place of My Own</a></li>
-	<li class="page_item page-item-1055"><a href="http://michaelpollan.com/books/second-nature/">Second Nature</a></li>
-</ul>
-</li>
-<li class="page_item page-item-533"><a href="http://michaelpollan.com/articles/">Articles</a></li>
-<li class="page_item page-item-532"><a href="http://michaelpollan.com/appearances/">Appearances</a></li>
-<li class="page_item page-item-535 page_item_has_children"><a href="http://michaelpollan.com/media/">Media</a>
-<ul class='children'>
-	<li class="page_item page-item-593"><a href="http://michaelpollan.com/media/interviews-and-profiles/">Interviews &#038; Profiles</a></li>
-	<li class="page_item page-item-1102"><a href="http://michaelpollan.com/media/videos/">Videos</a></li>
-	<li class="page_item page-item-1103"><a href="http://michaelpollan.com/media/reviews/">Reviews</a></li>
-	<li class="page_item page-item-1522"><a href="http://michaelpollan.com/media/documentary-films/">Documentary Films</a></li>
-</ul>
-</li>
-<li class="page_item page-item-536"><a href="http://michaelpollan.com/press-kit/">Press Kit</a></li>
-<li class="page_item page-item-537"><a href="http://michaelpollan.com/news/">News</a></li>
-<li class="page_item page-item-538 page_item_has_children"><a href="http://michaelpollan.com/resources/">Resources</a>
-<ul class='children'>
-	<li class="page_item page-item-1071"><a href="http://michaelpollan.com/resources/sustainable-eating-nutrition/">Sustainable Eating &#038; Nutrition</a></li>
-	<li class="page_item page-item-2194"><a href="http://michaelpollan.com/resources/cooking/">Cooking</a></li>
-	<li class="page_item page-item-1073"><a href="http://michaelpollan.com/resources/growing-food/">Growing Food</a></li>
-	<li class="page_item page-item-1075"><a href="http://michaelpollan.com/resources/politics-policy/">Politics &#038; Policy</a></li>
-	<li class="page_item page-item-1078"><a href="http://michaelpollan.com/resources/animal-welfare/">Animal Welfare</a></li>
-	<li class="page_item page-item-1080"><a href="http://michaelpollan.com/resources/journalism-writing/">Journalism &#038; Writing</a></li>
-	<li class="page_item page-item-1082"><a href="http://michaelpollan.com/resources/for-parents-kids/">For Parents &#038; Kids</a></li>
-</ul>
-</li>
-<li class="page_item page-item-539"><a href="http://michaelpollan.com/todays-link/">Today&#8217;s Links</a></li>
-	</ul> -->
-
-<div class="menu-primary-nav-container"><ul id="menu-primary-nav" class="menu"><li id="menu-item-2848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2848"><a href="http://michaelpollan.com/books/">Books</a>
-<ul class="sub-menu">
-	<li id="menu-item-2864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2864"><a href="http://michaelpollan.com/books/cooked/">Cooked</a></li>
-	<li id="menu-item-2865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2865"><a href="http://michaelpollan.com/books/food-rules-illustrated-edition/">Food Rules: Illustrated Edition</a></li>
-	<li id="menu-item-2863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2863"><a href="http://michaelpollan.com/books/food-rules/">Food Rules</a></li>
-	<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862"><a href="http://michaelpollan.com/books/in-defense-of-food/">In Defense of Food</a></li>
-	<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a href="http://michaelpollan.com/books/the-omnivores-dilemma/">The Omnivore&#8217;s Dilemma</a></li>
-	<li id="menu-item-2860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2860"><a href="http://michaelpollan.com/books/the-omnivores-dilemma-young-readers-edition/">The Omnivore&#8217;s Dilemma: Young Readers Edition</a></li>
-	<li id="menu-item-2866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2866"><a href="http://michaelpollan.com/books/the-botany-of-desire/">The Botany of Desire</a></li>
-	<li id="menu-item-2867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2867"><a href="http://michaelpollan.com/books/a-place-of-my-own/">A Place of My Own</a></li>
-	<li id="menu-item-2868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2868"><a href="http://michaelpollan.com/books/second-nature/">Second Nature</a></li>
-</ul>
-</li>
-<li id="menu-item-2849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2849"><a href="http://michaelpollan.com/appearances/">Appearances</a></li>
-<li id="menu-item-2850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2850"><a href="http://michaelpollan.com/media/">Media</a>
-<ul class="sub-menu">
-	<li id="menu-item-3003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="http://michaelpollan.com/media/interviews-and-profiles/">Interviews &#038; Profiles</a></li>
-	<li id="menu-item-3001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001"><a href="http://michaelpollan.com/media/videos/">Videos</a></li>
-	<li id="menu-item-3002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3002"><a href="http://michaelpollan.com/media/reviews/">Reviews</a></li>
-	<li id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a href="http://michaelpollan.com/media/documentary-films/">Documentary Films</a></li>
-</ul>
-</li>
-<li id="menu-item-2857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2857"><a href="http://michaelpollan.com/press-kit/">Press Kit</a></li>
-<li id="menu-item-2851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2851"><a href="http://michaelpollan.com/articles/">Articles</a></li>
-<li id="menu-item-2852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2852"><a href="http://michaelpollan.com/news/">News</a></li>
-<li id="menu-item-2858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2858"><a href="http://michaelpollan.com/resources/">Resources</a></li>
-<li id="menu-item-2875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2875"><a href="http://michaelpollan.com/todays-link/">On Twitter</a></li>
-</ul></div>
-	<img src="/images/logo.png" alt="" id="printheader">
-</div>
-
-
-	<div id="content">
-	
-	
-		
-	<style>
-						.page-item-533 > a {
-				color:#932A29;
-				text-decoration:none;
-				}
-				div#header-images {
-					background-position: 0 -750px!important;	
-				}
-			
-	</style>
-
-	
-		
-			
-		<img class="pubtitle-img" src="/images/publications/93.gif" alt="" >
-				
-		<div class="post-678 post type-post status-publish format-standard hentry category-articles-archive category-the-new-york-review-of-books tag-eating tag-farm-policy-agricultural-subsidies tag-food-safety tag-health-obesity tag-sustainable-agriculture-organics" id="post-678">
-		
-			
-			
-			<h1>The Food Movement, Rising</h1>
-			<h2></h2>
-			<h3 class="byline" style="margin:10px 0">By Michael Pollan<br /><i>The New York Review of Books</i>, May 20, 2010</h3>
-				<div>
-<p><em> <a href="http://www.amazon.com/gp/product/0963810952?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0963810952" target="_blank">Everything I Want to Do Is Illegal: War Stories from  the Local Food Front</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0963810952" border="0" alt="" width="1" height="1" /> </em><br />
-by Joel Salatin<br />
-Polyface, 338 pp.,  $23.95 (paper)</p>
-<p><em> <a href="http://www.amazon.com/gp/product/1583228543?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1583228543" target="_blank">All You Can Eat: How Hungry Is America?</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=1583228543" border="0" alt="" width="1" height="1" /> </em><br />
-by Joel Berg<br />
-Seven Stories, 351 pp.,  $22.95 (paper)</p>
-<p><em> <a href="http://www.amazon.com/gp/product/0316086649?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0316086649" target="_blank">Eating Animals</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0316086649" border="0" alt="" width="1" height="1" /> </em><br />
-by Jonathan Safran Foer<br />
-Little, Brown, 341  pp., $25.99</p>
-<p><em> <a href="http://www.amazon.com/gp/product/1603582630?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1603582630" target="_blank">Terra Madre: Forging a New Global Network of  Sustainable Food Communities</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=1603582630" border="0" alt="" width="1" height="1" /> </em><br />
-by Carlo Petrini, with a foreword by  Alice Waters<br />
-Chelsea Green, 155 pp., $20.00 (paper)</p>
-<p><em> <a href="http://www.amazon.com/gp/product/0252076737?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0252076737" target="_blank"> The Taste for Civilization: Food, Politics, and  Civil Society</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0252076737" border="0" alt="" width="1" height="1" /> </em><br />
-by Janet A. Flammang<br />
-University of Illinois  Press, 325 pp., $70.00; $25.00 (paper)</p>
-</div>
-<h3>1.</h3>
-<p><em>Food Made Visible </em></p>
-<p>It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically speaking, until very recently. At least until the early 1970s, when a bout of food price inflation and the appearance of books critical of industrial agriculture (by Wendell Berry, Francis Moore Lappé, and Barry Commoner, among others) threatened to propel the subject to the top of the national agenda, Americans have not had to think very hard about where their food comes from, or what it is doing to the planet, their bodies, and their society.</p>
-<p>Most people count this a blessing. Americans spend a smaller percentage of their income on food than any people in history—slightly less than 10 percent—and a smaller amount of their time preparing it: a mere thirty-one minutes a day on average, including clean-up. The supermarkets brim with produce summoned from every corner of the globe, a steady stream of novel food products (17,000 new ones each year) crowds the middle aisles, and in the freezer case you can find “home meal replacements” in every conceivable ethnic stripe, demanding nothing more of the eater than opening the package and waiting for the microwave to chirp. Considered in the long sweep of human history, in which getting food dominated not just daily life but economic and political life as well, having to worry about food as little as we do, or did, seems almost a kind of dream.</p>
-<p>The dream that the age-old “food problem” had been largely solved for most Americans was sustained by the tremendous postwar increases in the productivity of American farmers, made possible by cheap fossil fuel (the key ingredient in both chemical fertilizers and pesticides) and changes in agricultural policies. Asked by President Nixon to try to drive down the cost of food after it had spiked in the early 1970s, Agriculture Secretary Earl Butz shifted the historical focus of federal farm policy from supporting prices for farmers to boosting yields of a small handful of commodity crops (corn and soy especially) at any cost.</p>
-<p>The administration’s cheap food policy worked almost too well: crop prices fell, forcing farmers to produce still more simply to break even. This led to a deep depression in the farm belt in the 1980s followed by a brutal wave of consolidation. Most importantly, the price of food came down, or at least the price of the kinds of foods that could be made from corn and soy: processed foods and sweetened beverages and feedlot meat. (Prices for fresh produce have increased since the 1980s.) Washington had succeeded in eliminating food as a political issue—an objective dear to most governments at least since the time of the French Revolution.</p>
-<p>But although cheap food is good politics, it turns out there are significant costs—to the environment, to public health, to the public purse, even to the culture—and as these became impossible to ignore in recent years, food has come back into view. Beginning in the late 1980s, a series of food safety scandals opened people’s eyes to the way their food was being produced, each one drawing the curtain back a little further on a food system that had changed beyond recognition. When BSE, or mad cow disease, surfaced in England in 1986, Americans learned that cattle, which are herbivores, were routinely being fed the flesh of other cattle; the practice helped keep meat cheap but at the risk of a hideous brain-wasting disease.</p>
-<p>The 1993 deaths of four children in Washington State who had eaten hamburgers from Jack in the Box were traced to meat contaminated with <em>E.coli</em> 0157:H7, a mutant strain of the common intestinal bacteria first identified in feedlot cattle in 1982. Since then, repeated outbreaks of food-borne illness linked to new antibiotic-resistant strains of bacteria (campylobacter, salmonella, MRSA) have turned a bright light on the shortsighted practice of routinely administering antibiotics to food animals, not to treat disease but simply to speed their growth and allow them to withstand the filthy and stressful conditions in which they live.</p>
-<p>In the wake of these food safety scandals, the conversation about food politics that briefly flourished in the 1970s was picked up again in a series of books, articles, and movies about the consequences of industrial food production.Beginning in 2001 with the publication of Eric Schlosser’s <em>Fast Food Nation</em>, a surprise best-seller, and, the following year, Marion Nestle’s <em>Food Politics</em>, the food journalism of the last decade has succeeded in making clear and telling connections between the methods of industrial food production, agricultural policy, food-borne illness, childhood obesity, the decline of the family meal as an institution, and, notably, the decline of family income beginning in the 1970s.</p>
-<p>Besides drawing women into the work force, falling wages made fast food both cheap to produce and a welcome, if not indispensible, option for pinched and harried families. The picture of the food economy Schlosser painted resembles an upside-down version of the social compact sometimes referred to as “Fordism”: instead of paying workers well enough to allow them to buy things like cars, as Henry Ford proposed to do, companies like Wal-Mart and McDonald’s pay their workers so poorly that they can afford <em>only</em> the cheap, low-quality food these companies sell, creating a kind of nonvirtuous circle driving down both wages and the quality of food. The advent of fast food (and cheap food in general) has, in effect, subsidized the decline of family incomes in America.</p>
-<h3>2.</h3>
-<p><em>Food Politics </em></p>
-<p>Cheap food has become an indispensable pillar of the modern economy. But it is no longer an invisible or uncontested one. One of the most interesting social movements to emerge in the last few years is the “food movement,” or perhaps I should say “movements,” since it is unified as yet by little more than the recognition that industrial food production is in need of reform because its social/environmental/public health/animal welfare/gastronomic costs are too high.</p>
-<p>As that list suggests, the critics are coming at the issue from a great many different directions. Where many social movements tend to splinter as time goes on, breaking into various factions representing divergent concerns or tactics, the food movement starts out splintered. Among the many threads of advocacy that can be lumped together under that rubric we can include school lunch reform; the campaign for animal rights and welfare; the campaign against genetically modified crops; the rise of organic and locally produced food; efforts to combat obesity and type 2 diabetes; “food sovereignty” (the principle that nations should be allowed to decide their agricultural policies rather than submit to free trade regimes); farm bill reform; food safety regulation; farmland preservation; student organizing around food issues on campus; efforts to promote urban agriculture and ensure that communities have access to healthy food; initiatives to create gardens and cooking classes in schools; farm worker rights; nutrition labeling; feedlot pollution; and the various efforts to regulate food ingredients and marketing, especially to kids.</p>
-<p>It’s a big, lumpy tent, and sometimes the various factions beneath it work at cross-purposes. For example, activists working to strengthen federal food safety regulations have recently run afoul of local food advocates, who fear that the burden of new regulation will cripple the current revival of small-farm agriculture. Joel Salatin, the Virginia meat producer and writer who has become a hero to the food movement, fulminates against food safety regulation on libertarian grounds in his <em>Everything I Want to Do Is Illegal: War Stories From the Local Food Front</em>. Hunger activists like Joel Berg, in <em>All You Can Eat: How Hungry Is America?</em>, criticize supporters of “sustainable” agriculture—i.e., producing food in ways that do not harm the environment—for advocating reforms that threaten to raise the cost of food to the poor. Animal rights advocates occasionally pick fights with sustainable meat producers (such as Joel Salatin), as Jonathan Safran Foer does in his recent vegetarian polemic, <em>Eating Animals</em>.</p>
-<p>But there are indications that these various voices may be coming together in something that looks more and more like a coherent movement. Many in the animal welfare movement, from PETA to Peter Singer, have come to see that a smaller-scale, more humane animal agriculture is a goal worth fighting for, and surely more attainable than the abolition of meat eating. Stung by charges of elitism, activists for sustainable farming are starting to take seriously the problem of hunger and poverty. They’re promoting schemes and policies to make fresh local food more accessible to the poor, through programs that give vouchers redeemable at farmers’ markets to participants in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) and food stamp recipients. Yet a few underlying tensions remain: the “hunger lobby” has traditionally supported farm subsidies in exchange for the farm lobby’s support of nutrition programs, a marriage of convenience dating to the 1960s that vastly complicates reform of the farm bill—a top priority for the food movement.</p>
-<p>The sociologist Troy Duster reminds us of an all-important axiom about social movements: “No movement is as coherent and integrated as it seems from afar,” he says, “and no movement is as incoherent and fractured as it seems from up close.” Viewed from a middle distance, then, the food movement coalesces around the recognition that today’s food and farming economy is “unsustainable”—that it can’t go on in its current form much longer without courting a breakdown of some kind, whether environmental, economic, or both.</p>
-<p>For some in the movement, the more urgent problem is environmental: the food system consumes more fossil fuel energy than we can count on in the future (about a fifth of the total American use of such energy) and emits more greenhouse gas than we can afford to emit, particularly since agriculture is the one human system that <em>should</em> be able to substantially rely on photosynthesis: solar energy. It will be difficult if not impossible to address the issue of climate change without reforming the food system. This is a conclusion that has only recently been embraced by the environmental movement, which historically has disdained all agriculture as a lapse from wilderness and a source of pollution.<sup id="fnr1-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn1-717352544">1</a></sup> But in the last few years, several of the major environmental groups have come to appreciate that a diversified, sustainable agriculture—which can sequester large amounts of carbon in the soil—holds the potential not just to mitigate but actually to help solve environmental problems, including climate change. Today, environmental organizations like the Natural Resources Defense Council and the Environmental Working Group are taking up the cause of food system reform, lending their expertise and clout to the movement.</p>
-<p>But perhaps the food movement’s strongest claim on public attention today is the fact that the American diet of highly processed food laced with added fats and sugars is responsible for the epidemic of chronic diseases that threatens to bankrupt the health care system. The Centers for Disease Control estimates that fully three quarters of US health care spending goes to treat chronic diseases, most of which are preventable and linked to diet: heart disease, stroke, type 2 diabetes, and at least a third of all cancers. The health care crisis probably cannot be addressed without addressing the catastrophe of the American diet, and that diet is the direct (even if unintended) result of the way that our agriculture and food industries have been organized.</p>
-<p>Michelle Obama’s recent foray into food politics, beginning with the organic garden she planted on the White House lawn last spring, suggests that the administration has made these connections. Her new “Let’s Move” campaign to combat childhood obesity might at first blush seem fairly anodyne, but in announcing the initiative in February, and in a surprisingly tough speech to the Grocery Manufacturers Association in March,<sup id="fnr2-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn2-717352544">2</a></sup> the First Lady has effectively shifted the conversation about diet from the industry’s preferred ground of “personal responsibility” and exercise to a frank discussion of the way food is produced and marketed. “We need you not just to tweak around the edges,” she told the assembled food makers, “but to entirely rethink the products that you’re offering, the information that you provide about these products, and how you market those products to our children.”</p>
-<p>Mrs. Obama explicitly rejected the conventional argument that the food industry is merely giving people the sugary, fatty, and salty foods they want, contending that the industry “doesn’t just respond to people’s natural inclinations—it also actually helps to shape them,” through the ways it creates products and markets them.</p>
-<p>So far at least, Michelle Obama is the food movement’s most important ally in the administration, but there are signs of interest elsewhere. Under Commissioner Margaret Hamburg, the FDA has cracked down on deceptive food marketing and is said to be weighing a ban on the nontherapeutic use of antibiotics in factory farming. Attorney General Eric Holder recently avowed the Justice Department’s intention to pursue antitrust enforcement in agribusiness, one of the most highly concentrated sectors in the economy.<sup id="fnr3-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn3-717352544">3</a></sup> At his side was Agriculture Secretary Tom Vilsack, the former governor of Iowa, who has planted his own organic vegetable garden at the department and launched a new “Know Your Farmer, Know Your Food” initiative aimed at promoting local food systems as a way to both rebuild rural economies and improve access to healthy food.</p>
-<p>Though Vilsack has so far left mostly undisturbed his department’s traditional deference to industrial agriculture, the new tone in Washington and the appointment of a handful of respected reformers (such as Tufts professor Kathleen Merrigan as deputy secretary of agriculture) has elicited a somewhat defensive, if not panicky, reaction from agribusiness. The Farm Bureau recently urged its members to go on the offensive against “food activists,” and a trade association representing pesticide makers called CropLife America wrote to Michelle Obama suggesting that her organic garden had unfairly maligned chemical agriculture and encouraging her to use “crop protection technologies”—i.e., pesticides.</p>
-<p>The First Lady’s response is not known; however, the President subsequently rewarded CropLife by appointing one of its executives to a high-level trade post. This and other industry-friendly appointments suggest that while the administration may be sympathetic to elements of the food movement’s agenda, it isn’t about to take on agribusiness, at least not directly, at least until it senses at its back a much larger constituency for reform.</p>
-<p>One way to interpret Michelle Obama’s deepening involvement in food issues is as an effort to build such a constituency, and in this she may well succeed. It’s a mistake to underestimate what a determined First Lady can accomplish. Lady Bird Johnson’s “highway beautification” campaign also seemed benign, but in the end it helped raise public consciousness about “the environment” (as it would soon come to be known) and put an end to the public’s tolerance for littering. And while Michelle Obama has explicitly limited her efforts to exhortation (“we can’t solve this problem by passing a bunch of laws in Washington,” she told the Grocery Manufacturers, no doubt much to their relief), her work is already creating a climate in which just such a “bunch of laws” might flourish: a handful of state legislatures, including California’s, are seriously considering levying new taxes on sugar in soft drinks, proposals considered hopelessly extreme less than a year ago.</p>
-<p>The political ground is shifting, and the passage of health care reform may accelerate that movement. The bill itself contains a few provisions long promoted by the food movement (like calorie labeling on fast food menus), but more important could be the new political tendencies it sets in motion. If health insurers can no longer keep people with chronic diseases out of their patient pools, it stands to reason that the companies will develop a keener interest in preventing those diseases. They will then discover that they have a large stake in things like soda taxes and in precisely which kinds of calories the farm bill is subsidizing. As the insurance industry and the government take on more responsibility for the cost of treating expensive and largely preventable problems like obesity and type 2 diabetes, pressure for reform of the food system, and the American diet, can be expected to increase.</p>
-<h3>3.</h3>
-<p><em>Beyond the Barcode </em></p>
-<p>It would be a mistake to conclude that the food movement’s agenda can be reduced to a set of laws, policies, and regulations, important as these may be. What is attracting so many people to the movement today (and young people in particular) is a much less conventional kind of politics, one that is about something more than food. The food movement is also about community, identity, pleasure, and, most notably, about carving out a new social and economic space removed from the influence of big corporations on the one side and government on the other. As the Diggers used to say during their San Francisco be-ins during the 1960s, food can serve as “an edible dynamic”—a means to a political end that is only nominally about food itself.</p>
-<p>One can get a taste of this social space simply by hanging around a farmers’ market, an activity that a great many people enjoy today regardless of whether they’re in the market for a bunch of carrots or a head of lettuce. Farmers’ markets are thriving, more than five thousand strong, and there is a lot more going on in them than the exchange of money for food. Someone is collecting signatures on a petition. Someone else is playing music. Children are everywhere, sampling fresh produce, talking to farmers. Friends and acquaintances stop to chat. One sociologist calculated that people have ten times as many conversations at the farmers’ market than they do in the supermarket. Socially as well as sensually, the farmers’ market offers a remarkably rich and appealing environment. Someone buying food here may be acting not just as a consumer but also as a neighbor, a citizen, a parent, a cook. In many cities and towns, farmers’ markets have taken on (and not for the first time) the function of a lively new public square.</p>
-<p>Though seldom articulated as such, the attempt to redefine, or escape, the traditional role of consumer has become an important aspiration of the food movement. In various ways it seeks to put the relationship between consumers and producers on a new, more neighborly footing, enriching the kinds of information exchanged in the transaction, and encouraging us to regard our food dollars as “votes” for a different kind of agriculture and, by implication, economy. The modern marketplace would have us decide what to buy strictly on the basis of price and self-interest; the food movement implicitly proposes that we enlarge our understanding of both those terms, suggesting that not just “good value” but ethical and political values should inform our buying decisions, and that we’ll get more satisfaction from our eating when they do.</p>
-<p>That satisfaction helps to explain why many in the movement don’t greet the spectacle of large corporations adopting its goals, as some of them have begun to do, with unalloyed enthusiasm. Already Wal-Mart sells organic and local food, but this doesn’t greatly warm the hearts of food movement activists. One important impetus for the movement, or at least its locavore wing—those who are committed to eating as much locally produced food as possible—is the desire to get “beyond the barcode”—to create new economic and social structures outside of the mainstream consumer economy. Though not always articulated in these terms, the local food movement wants to decentralize the global economy, if not secede from it altogether, which is why in some communities, such as Great Barrington, Massachusetts, local currencies (the “BerkShare”) have popped up.</p>
-<p>In fact it’s hard to say which comes first: the desire to promote local agriculture or the desire to promote local economies more generally by cutting ties, to whatever degree possible, to the national economic grid.<sup id="fnr4-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn4-717352544">4</a></sup> This is at bottom a communitarian impulse, and it is one that is drawing support from the right as well as the left. Though the food movement has deep roots in the counterculture of the 1960s, its critique of corporate food and federal farm subsidies, as well as its emphasis on building community around food, has won it friends on the right. In his 2006 book <em>Crunchy Cons</em>, Rod Dreher identifies a strain of libertarian conservatism, often evangelical, that regards fast food as anathema to family values, and has seized on local food as a kind of culinary counterpart to home schooling.</p>
-<p>It makes sense that food and farming should become a locus of attention for Americans disenchanted with consumer capitalism. Food is the place in daily life where corporatization can be most vividly felt: think about the homogenization of taste and experience represented by fast food. By the same token, food offers us one of the shortest, most appealing paths out of the corporate labyrinth, and into the sheer diversity of local flavors, varieties, and characters on offer at the farmers’ market.</p>
-<p>Put another way, the food movement has set out to foster new forms of civil society. But instead of proposing that space as a counterweight to an overbearing state, as is usually the case, the food movement poses it against the dominance of corporations and their tendency to insinuate themselves into any aspect of our lives from which they can profit. As Wendell Berry writes, the corporations</p>
-<blockquote><p>will grow, deliver, and cook your food for you and (just like your mother) beg you to eat it. That they do not yet offer to insert it, prechewed, into your mouth is only because they have found no profitable way to do so.</p></blockquote>
-<p>The corporatization of something as basic and intimate as eating is, for many of us today, a good place to draw the line.</p>
-<p>The Italian-born organization Slow Food, founded in 1986 as a protest against the arrival of McDonald’s in Rome, represents perhaps the purest expression of these politics. The organization, which now has 100,000 members in 132 countries, began by dedicating itself to “a firm defense of quiet material pleasure” but has lately waded into deeper political and economic waters. Slow Food’s founder and president, Carlo Petrini, a former leftist journalist, has much to say about how people’s daily food choices can rehabilitate the act of consumption, making it something more creative and progressive. In his new book <em>Terra Madre: Forging a New Global Network of Sustainable Food Communities</em>, Petrini urges eaters and food producers to join together in “food communities” outside of the usual distribution channels, which typically communicate little information beyond price and often exploit food producers. A farmers’ market is one manifestation of such a community, but Petrini is no mere locavore. Rather, he would have us practice on a global scale something like “local” economics, with its stress on neighborliness, as when, to cite one of his examples, eaters in the affluent West support nomad fisher folk in Mauritania by creating a market for their bottarga, or dried mullet roe. In helping to keep alive such a food tradition and way of life, the eater becomes something more than a consumer; she becomes what Petrini likes to call a “coproducer.”</p>
-<p>Ever the Italian, Petrini puts pleasure at the center of his politics, which might explain why Slow Food is not always taken as seriously as it deserves to be. For why <em>shouldn’t</em> pleasure figure in the politics of the food movement? Good food is potentially one of the most democratic pleasures a society can offer, and is one of those subjects, like sports, that people can talk about across lines of class, ethnicity, and race.</p>
-<p>The fact that the most humane and most environmentally sustainable choices frequently turn out to be the most delicious choices (as chefs such as Alice Waters and Dan Barber have pointed out) is fortuitous to say the least; it is also a welcome challenge to the more dismal choices typically posed by environmentalism, which most of the time is asking us to give up things we like. As Alice Waters has often said, it was not politics or ecology that brought her to organic agriculture, but rather the desire to recover a certain taste—one she had experienced as an exchange student in France. Of course democratizing such tastes, which under current policies tend to be more expensive, is the hard part, and must eventually lead the movement back to more conventional politics lest it be tagged as elitist.</p>
-<p>But the movement’s interest in such seemingly mundane matters as taste and the other textures of everyday life is also one of its great strengths. Part of the movement’s critique of industrial food is that, with the rise of fast food and the collapse of everyday cooking, it has damaged family life and community by undermining the institution of the shared meal. Sad as it may be to bowl alone, eating alone can be sadder still, not least because it is eroding the civility on which our political culture depends.</p>
-<p>That is the argument made by Janet Flammang, a political scientist, in a provocative new book called <em>The Taste for Civilization: Food, Politics, and Civil Society</em>. “Significant social and political costs have resulted from fast food and convenience foods,” she writes, “grazing and snacking instead of sitting down for leisurely meals, watching television during mealtimes instead of conversing”—40 percent of Americans watch television during meals—”viewing food as fuel rather than sustenance, discarding family recipes and foodways, and denying that eating has social and political dimensions.” The cultural contradictions of capitalism—its tendency to undermine the stabilizing social forms it depends on—are on vivid display at the modern American dinner table.</p>
-<p>In a challenge to second-wave feminists who urged women to get out of the kitchen, Flammang suggests that by denigrating “foodwork”—everything involved in putting meals on the family table—we have unthinkingly wrecked one of the nurseries of democracy: the family meal. It is at “the temporary democracy of the table” that children learn the art of conversation and acquire the habits of civility—sharing, listening, taking turns, navigating differences, arguing without offending—and it is these habits that are lost when we eat alone and on the run. “Civility is not needed when one is by oneself.”<sup id="fnr5-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn5-717352544">5</a></sup></p>
-<p>These arguments resonated during the Senate debate over health care reform, when <em>The New York Times</em> reported that the private Senate dining room, where senators of both parties used to break bread together, stood empty. Flammang attributes some of the loss of civility in Washington to the aftermatch of the 1994 Republican Revolution, when Newt Gingrich, the new Speaker of the House, urged his freshman legislators <em>not</em> to move their families to Washington. Members now returned to their districts every weekend, sacrificing opportunities for socializing across party lines and, in the process, the “reservoirs of good will replenished at dinner parties.” It is much harder to vilify someone with whom you have shared a meal.</p>
-<p>Flammang makes a convincing case for the centrality of food work and shared meals, much along the lines laid down by Carlo Petrini and Alice Waters, but with more historical perspective and theoretical rigor. A scholar of the women’s movement, she suggests that “American women are having second thoughts” about having left the kitchen.<sup id="fnr6-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn6-717352544">6</a></sup> However, the answer is not for them simply to return to it, at least not alone, but rather “for everyone—men, women, and children—to go back to the kitchen, as in preindustrial days, and for the workplace to lessen its time demands on people.” Flammang points out that the historical priority of the American labor movement has been to fight for money, while the European labor movement has fought for time, which she suggests may have been the wiser choice.</p>
-<p>At the very least this is a debate worth having, and it begins by taking food issues much more seriously than we have taken them. Flammang suggests that the invisibility of these issues until recently owes to the identification of food work with women and the (related) fact that eating, by its very nature, falls on the wrong side of the mind–body dualism. “Food is apprehended through the senses of touch, smell and taste,” she points out,</p>
-<blockquote><p>which rank lower on the hierarchy of senses than sight and hearing, which are typically thought to give rise to knowledge. In most of philosophy, religion, and literature, food is associated with body, animal, female, and appetite—things civilized men have sought to overcome with reason and knowledge.</p></blockquote>
-<p>Much to our loss. But food is invisible no longer and, in light of the mounting costs we’ve incurred by ignoring it, it is likely to demand much more of our attention in the future, as eaters, parents, and citizens. It is only a matter of time before politicians seize on the power of the food issue, which besides being increasingly urgent is also almost primal, indeed is in some deep sense proto- political. For where do all politics begin if not in the high chair?—at that fateful moment when mother, or father, raises a spoonful of food to the lips of the baby who clamps shut her mouth, shakes her head no, and for the very first time in life awakens to and asserts her sovereign power.</p>
-<div>
-<ol>
-<li id="fn1-236030181">Al Gore&#8217;s <em>An Inconvenient Truth</em> made scant mention of food or agriculture, but in his recent follow-up book, <em>Our Choice: A Plan to Solve the Climate Crisis </em>(2009), he devotes a long chapter to the subject of our food choices and their bearing on climate. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr1-236030181">↩</a></li>
-<li id="fn2-236030181">Ms. Obama&#8217;s speech can be read at <a href="http://www.whitehouse.gov/the-press-office/remarks-first-lady-a-grocery-manufacturers-association-conference">www.whitehouse.gov/the-press-office/remarks-first-lady-a-grocery-manufacturers-association-conference</a>. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr2-236030181">↩</a></li>
-<li id="fn3-236030181">Speaking in March at an Iowa &#8220;listening session&#8221; about agribusiness concentration, Holder said, &#8220;long periods of reckless deregulation have restricted competition&#8221; in agriculture. Indeed: four companies (JBS/Swift, Tyson, Cargill, and National Beef Packers) slaughter 85 percent of US beef cattle; two companies (Monsanto and DuPont) sell more than 50 percent of US corn seed; one company (Dean Foods) controls 40 percent of the US milk supply. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr3-236030181">↩</a></li>
-<li id="fn4-236030181">For an interesting case study about a depressed Vermont mining town that turned to local food and agriculture to revitalize itself, see Ben Hewitt, <em>The Town That Food Saved: How One Community Found Vitality in Local Food</em> (Rodale, 2009). <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr4-236030181">↩</a></li>
-<li id="fn5-236030181">See David M. Herszenhorn, &#8220;In Senate Health Care Vote, New Partisan Vitriol,&#8221; <em>The New York Times</em>, December 23, 2009: &#8220;Senator Max Baucus, Democrat of Montana and chairman of the Finance Committee, said the political—and often personal—divisions that now characterize the Senate were epitomized by the empty tables in the senators&#8217; private dining room, a place where members of both parties used to break bread. &#8216;Nobody goes there anymore,&#8217; Mr. Baucus said. &#8216;When I was here 10, 15, 30 years ago, that the place you would go to talk to senators, let your hair down, just kind of compare notes, no spouses allowed, no staff, nobody. It is now empty.'&#8221;<a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr5-236030181">↩</a></li>
-<li id="fn6-236030181">The stirrings of a new &#8220;radical homemakers&#8221; movement lends some support to the assertion. See Shannon Hayes&#8217;s <em>Radical Homemakers: Reclaiming Domesticity from a Consumer Culture</em> (Left to Write Press, 2010).<a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr6-236030181">↩</a></li>
-</ol>
-</div>
-		
-							<div class="clearfix">&nbsp;</div>
-		</div>
-		<div class="article-footer">	
-			
-		
-			Filed under:  <a href="http://michaelpollan.com/tag/eating/" rel="tag">Eating</a>, <a href="http://michaelpollan.com/tag/farm-policy-agricultural-subsidies/" rel="tag">Farm Policy &amp; Agricultural Subsidies</a>, <a href="http://michaelpollan.com/tag/food-safety/" rel="tag">Food Safety</a>, <a href="http://michaelpollan.com/tag/health-obesity/" rel="tag">Health &amp; Obesity</a>, <a href="http://michaelpollan.com/tag/sustainable-agriculture-organics/" rel="tag">Sustainable Agriculture &amp; Organics</a>, <a href="http://michaelpollan.com/category/media/the-new-york-review-of-books/"><i>The New York Review of Books</i></a>
-
-			<p class="sharebutton"><span class='st_facebook_buttons' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_twitter_buttons' st_title='The Food Movement, Rising via @MichaelPollan' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_plusone_button' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_email_buttons' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='Email'></span></p>
-					</div>					
-		
-				
-		
-	
-	</div>
-
-<div id="right">
-	
-	
-	<form id="thesearch" action="/" method="get" accept-charset="utf-8">
-
-    <input type="text" name="s" id="searchform" value="search this site" />
-    <input type="image" alt="?" id="searchbtn" src="/images/searcharrow.png" />
-
-</form>	
-		
-		
-			
-			<div class="widget"><h2 class="widget-title">Articles  </h2>			<div class="execphpwidget"><img src="/images/sidebar-titles/h2/articles.png" class="header2" />
-<ul>
-<li class="categories"><h3><img src="/images/sidebar-titles/h3/recent.png"  /></h3>
-		<li>			
-				<h4><a href="http://michaelpollan.com/articles-archive/big-food-strikes-back-why-did-the-obamas-fail-to-take-on-corporate-agriculture/" rel="bookmark" title="Permanent Link to Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture?">Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture?</a></h4>
-			<p class="byline"><i>The New York Times Magazine</i><br /> 
-			October 9, 2016</p>
-		</li>
-
-				<li>			
-				<h4><a href="http://michaelpollan.com/articles-archive/a-secret-weapon-to-fight-climate-change-dirt/" rel="bookmark" title="Permanent Link to A secret weapon to fight climate change: dirt">A secret weapon to fight climate change: dirt</a></h4>
-			<p class="byline"><i>The Washington Post</i><br /> 
-			December 15, 2015</p>
-		</li>
-
-				<li>			
-				<h4><a href="http://michaelpollan.com/articles-archive/the-trip-treatment/" rel="bookmark" title="Permanent Link to The Trip Treatment">The Trip Treatment</a></h4>
-			<p class="byline"><i>The New Yorker</i><br /> 
-			February 9, 2015</p>
-		</li>
-
-		</ul>
-
-<ul>
-<li class="categories"><h3><img src="/images/sidebar-titles/h3/by-topic.png"  /></h3>
-<li>
-<a href="http://michaelpollan.com/tag/animal-welfare/" title="View all posts in Animal Welfare" >Animal Welfare</a><br /><a href="http://michaelpollan.com/tag/architecture-design/" title="View all posts in Architecture &amp; Design" >Architecture &amp; Design</a><br /><a href="http://michaelpollan.com/tag/cooking/" title="View all posts in Cooking" >Cooking</a><br /><a href="http://michaelpollan.com/tag/corn/" title="View all posts in Corn" >Corn</a><br /><a href="http://michaelpollan.com/tag/drugs/" title="View all posts in Drugs" >Drugs</a><br /><a href="http://michaelpollan.com/tag/eating/" title="View all posts in Eating" >Eating</a><br /><a href="http://michaelpollan.com/tag/environment/" title="View all posts in Environment" >Environment</a><br /><a href="http://michaelpollan.com/tag/farm-policy-agricultural-subsidies/" title="View all posts in Farm Policy &amp; Agricultural Subsidies" >Farm Policy &amp; Agricultural Subsidies</a><br /><a href="http://michaelpollan.com/tag/farmers-markets/" title="View all posts in Farmers' Markets" >Farmers' Markets</a><br /><a href="http://michaelpollan.com/tag/food-safety/" title="View all posts in Food Safety" >Food Safety</a><br /><a href="http://michaelpollan.com/tag/foraging/" title="View all posts in Foraging" >Foraging</a><br /><a href="http://michaelpollan.com/tag/gardening/" title="View all posts in Gardening" >Gardening</a><br /><a href="http://michaelpollan.com/tag/genetically-modified-organisms-gmo/" title="View all posts in Genetically Modified Organisms (GMO)" >Genetically Modified Organisms (GMO)</a><br /><a href="http://michaelpollan.com/tag/health-obesity/" title="View all posts in Health &amp; Obesity" >Health &amp; Obesity</a><br /><a href="http://michaelpollan.com/tag/lincoln-taiz/" title="View all posts in Lincoln Taiz" >Lincoln Taiz</a><br /><a href="http://michaelpollan.com/tag/meat/" title="View all posts in Meat" >Meat</a><br /><a href="http://michaelpollan.com/tag/nature/" title="View all posts in Nature" >Nature</a><br /><a href="http://michaelpollan.com/tag/nutrition/" title="View all posts in Nutrition" >Nutrition</a><br /><a href="http://michaelpollan.com/tag/plant-intelligence/" title="View all posts in plant intelligence" >plant intelligence</a><br /><a href="http://michaelpollan.com/tag/plants/" title="View all posts in plants" >plants</a><br /><a href="http://michaelpollan.com/tag/science-friday/" title="View all posts in Science Friday" >Science Friday</a><br /><a href="http://michaelpollan.com/tag/seeds/" title="View all posts in Seeds" >Seeds</a><br /><a href="http://michaelpollan.com/tag/sustainable-agriculture-organics/" title="View all posts in Sustainable Agriculture &amp; Organics" >Sustainable Agriculture &amp; Organics</a><br /><a href="http://michaelpollan.com/tag/the-new-yorker-2/" title="View all posts in the new yorker" >the new yorker</a><br /><a href="http://michaelpollan.com/tag/the-secret-life-of-plants/" title="View all posts in The Secret Life of Plants" >The Secret Life of Plants</a><br /><a href="http://michaelpollan.com/tag/travel/" title="View all posts in Travel" >Travel</a><br /></li>
-</ul>
-
-<ul>
-<li class="categories"><h3><img src="/images/sidebar-titles/h3/by-date.png"  /></h3>
-<li><a href="/articles/articles-from-2011-2016/">2011-2016</a><br />
-<a href="/articles/articles-from-2006-2010/">2006-2010</a><br />
-<a href="/articles/articles-from-2001-2005/">2001-2005</a><br />
-<a href="/articles/articles-from-1996-2000/">1996-2000</a><br />
-<a href="/articles/articles-from-1988-1995/">1988-1995</a></li>
-</ul>
-
-<ul>
-<li class="feed-link"><a href="/category/articles-archive/feed/">RSS Feed: Articles</a></li>
-</ul></div>
-		</div><div class="widget"><h2 class="widget-title">Follow Michael  </h2>			<div class="execphpwidget"><img class="header2" src="/images/sidebar-titles/h2/follow-michael.png" />
-<ul>
-<li class="categories"><img src="/images/sidebar-titles/h3/twitter.png" /></li>
-<li class="twit-link"><a href="http://twitter.com/michaelpollan">@michaelpollan</a></li>
-</ul>
-
-<ul>
-<li class="categories"><img src="/images/sidebar-titles/h3/facebook.png" /></li>
-<li class="facebook-link"><a href="http://www.facebook.com/pages/Michael-Pollan/125708780820038">Author page</a></li>
-</ul></div>
-		</div><div class="widget"><h2 class="widget-title">News Updates  </h2>			<div class="execphpwidget"><img src="/images/sidebar-titles/h2/news-updates.png" class="header2" />
-<ul>
-<li>Receive updates from Michael about in-person and media appearances, as well as news about food politics and other unpredictable items of interest.</li>
-
-<li>
-
-					<!-- Begin MailChimp Signup Form -->
-
-<!--[if IE 7]>
-<style type="text/css" media="screen">
-	.mc-field-group {overflow:visible;}
-</style>
-<![endif]-->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
-<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.validate.js"></script>
-<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form.js"></script>
-
-<form action="http://michaelpollan.us1.list-manage.com/subscribe/post?u=7fccf730f9f0eb11247da57db&amp;id=b7ddd5609d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-
-
-<input type="text" value="email address" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value=" " name="subscribe" id="mc-embedded-subscribe" class="btn">
-<span class="clearfix">&nbsp;</span>
-		<div id="mce-responses">
-			<div class="response" id="mce-error-response" style="display:none"></div>
-			<div class="response" id="mce-success-response" style="display:none"></div>
-		</div>
-
-
-</form>
-
-<script type="text/javascript">
-var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';var err_style = '';
-try{
-    err_style = mc_custom_error_style;
-} catch(e){
-    err_style = 'margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: rgb(255, 238, 238) none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(255, 0, 0);';
-}
-var mce_jQuery = jQuery.noConflict();
-mce_jQuery(document).ready( function($) {
-  var options = { errorClass: 'mce_inline_error', errorElement: 'div', errorStyle: err_style, onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
-  var mce_validator = mce_jQuery("#mc-embedded-subscribe-form").validate(options);
-  options = { url: 'http://michaelpollan.us1.list-manage1.com/subscribe/post-json?u=7fccf730f9f0eb11247da57db&id=b7ddd5609d&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
-                beforeSubmit: function(){
-                    mce_jQuery('#mce_tmp_error_msg').remove();
-                    mce_jQuery('.datefield','#mc_embed_signup').each(
-                        function(){
-                            var txt = 'filled';
-                            var fields = new Array();
-                            var i = 0;
-                            mce_jQuery(':text', this).each(
-                                function(){
-                                    fields[i] = this;
-                                    i++;
-                                });
-                            mce_jQuery(':hidden', this).each(
-                                function(){
-                                	if ( fields[0].value=='MM' && fields[1].value=='DD' && fields[2].value=='YYYY' ){
-                                		this.value = '';
-									} else if ( fields[0].value=='' && fields[1].value=='' && fields[2].value=='' ){
-                                		this.value = '';
-									} else {
-	                                    this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
-	                                }
-                                });
-                        });
-                    return mce_validator.form();
-                }, 
-                success: mce_success_cb
-            };
-  mce_jQuery('#mc-embedded-subscribe-form').ajaxForm(options);
-
-});
-function mce_success_cb(resp){
-    mce_jQuery('#mce-success-response').hide();
-    mce_jQuery('#mce-error-response').hide();
-    if (resp.result=="success"){
-        mce_jQuery('#mce-'+resp.result+'-response').show();
-        mce_jQuery('#mce-'+resp.result+'-response').html(resp.msg);
-        mce_jQuery('#mc-embedded-subscribe-form').each(function(){
-            this.reset();
-    	});
-    } else {
-        var index = -1;
-        var msg;
-        try {
-            var parts = resp.msg.split(' - ',2);
-            if (parts[1]==undefined){
-                msg = resp.msg;
-            } else {
-                i = parseInt(parts[0]);
-                if (i.toString() == parts[0]){
-                    index = parts[0];
-                    msg = parts[1];
-                } else {
-                    index = -1;
-                    msg = resp.msg;
-                }
-            }
-        } catch(e){
-            index = -1;
-            msg = resp.msg;
-        }
-        try{
-            if (index== -1){
-                mce_jQuery('#mce-'+resp.result+'-response').show();
-                mce_jQuery('#mce-'+resp.result+'-response').html(msg);            
-            } else {
-                err_id = 'mce_tmp_error_msg';
-                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
-                
-                var input_id = '#mc_embed_signup';
-                var f = mce_jQuery(input_id);
-                if (ftypes[index]=='address'){
-                    input_id = '#mce-'+fnames[index]+'-addr1';
-                    f = mce_jQuery(input_id).parent().parent().get(0);
-                } else if (ftypes[index]=='date'){
-                    input_id = '#mce-'+fnames[index]+'-month';
-                    f = mce_jQuery(input_id).parent().parent().get(0);
-                } else {
-                    input_id = '#mce-'+fnames[index];
-                    f = mce_jQuery().parent(input_id).get(0);
-                }
-                if (f){
-                    mce_jQuery(f).append(html);
-                    mce_jQuery(input_id).focus();
-                } else {
-                    mce_jQuery('#mce-'+resp.result+'-response').show();
-                    mce_jQuery('#mce-'+resp.result+'-response').html(msg);
-                }
-            }
-        } catch(e){
-            mce_jQuery('#mce-'+resp.result+'-response').show();
-            mce_jQuery('#mce-'+resp.result+'-response').html(msg);
-        }
-    }
-}
-</script>
-<!--End mc_embed_signup-->				
-			
-</li>
-
-<li><a href="/news">Recent news updates &raquo;</a></li>
-</ul></div>
-		</div>		
-	
-		
-
-	
-	
-			
-	</div>
-
-</div> <!-- /#container -->
-<div class="clearfix">&nbsp;</div>
-<div id="footer">
-	<div id="bottomnav"><a href="/privacy-policy/">PRIVACY POLICY</a> | <a href="/terms-of-use/">TERMS OF USE</a> | <a href="/credits/">CREDITS</a> | <a href="/contact/">CONTACT</a></div>
-	<p>&copy; 2017 Michael Pollan. All rights reserved.<p>
-</div>
-
-
-
-
-		<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<link rel='stylesheet' id='author-avatars-widget-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/author-avatars/css/widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='author-avatars-shortcode-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/author-avatars/css/shortcode.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fasc-buttons-style-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/forget-about-shortcode-buttons/assets/css/button-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-style-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/forget-about-shortcode-buttons/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='https://www.geneticliteracyproject.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css' type='text/css' media='screen' />
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/michaelpollan.com\/wordpress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+var related_posts_js_options = {"post_heading":"h4"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2'></script>
-		
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/jetpack/modules/related-posts/related-posts.js'></script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/print-o-matic/printomat.js'></script>
+<link rel='https://api.w.org/' href='https://www.geneticliteracyproject.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.geneticliteracyproject.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.geneticliteracyproject.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.4" />
+<link rel='shortlink' href='https://www.geneticliteracyproject.org/?p=279824' />
+<link rel="alternate" type="application/json+oembed" href="https://www.geneticliteracyproject.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.geneticliteracyproject.org%2Fglp-facts%2Forganic-consumers-association-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.geneticliteracyproject.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.geneticliteracyproject.org%2Fglp-facts%2Forganic-consumers-association-2%2F&#038;format=xml" />
+<link rel="stylesheet" href="https://www.geneticliteracyproject.org/wp-content/plugins/multi-column-taxonomy-list/css/multi-column-taxonomy-link.css" type="text/css" />
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.geneticliteracyproject.org') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
+
+<style>
+.pom-small, .pom-small-black {
+float:right;
+background-image: url('https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/images/print-me-printer.png');
+width:20px;height:20px;
+}
+.print-me {float:right;}
+.printomatictext {
+font-family:'Open Sans';
+margin-right:5px;
+float:right;
+font-size:9px;
+text-transform:uppercase;
+text-decoration:none;}
+</style>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	window._se_plugin_version = '8.1.9';
 </script>
+<style type="text/css">
+			.wpsdc-drop-cap {color: #08089B;
+float: left;
+padding-top: 0.23em;
+padding-right: 0.1em;
+padding-bottom: 0;
+padding-left: 0;
+font-size: 3em;
+font-weight: bold;color : #274d9f;}
+		</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="icon" href="https://www.geneticliteracyproject.org/wp-content/uploads/2013/07/cropped-GLP_logo_2013_square-highres-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.geneticliteracyproject.org/wp-content/uploads/2013/07/cropped-GLP_logo_2013_square-highres-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.geneticliteracyproject.org/wp-content/uploads/2013/07/cropped-GLP_logo_2013_square-highres-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.geneticliteracyproject.org/wp-content/uploads/2013/07/cropped-GLP_logo_2013_square-highres-1-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.mc4wp-form-theme-dark button, .mc4wp-form-theme-dark input[type=submit] {
+    width: 100%;
+}		</style>
+	        <script type="text/javascript" src="https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/nav/superfish.js"></script>
+        <script type="text/javascript"> jQuery(function() {  jQuery('ul.sf-menu').superfish({ delay: 100, speed: 'fast', autoArrows:  0, dropShadows: 1,animation:   {height:'show',easing:'bounce'} });  }); </script>
+<meta name="google-translate-customization" content="97d92ba3f55d3c9c-beafb3e2e1fd7af3-gb52a414d4f68573d-1e"></meta>
+
+	<script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+     
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+     
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+    </head>
+
+    <body data-rsssl=1 class="glp-facts-template-default single single-glp-facts postid-279824 single-format-standard custom-font-enabled">
+	<!-- Facebook SDK -->
+    <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=185461311634754";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+	<!-- END Facebook SDK -->    				
+               <div id="site" class="one-sidebar-right"> <!-- #site // Wraps #header, #page-main, #footer - closed in footer -->
+            <div id="page"> <!-- #page // Wraps #header, #page-main - closed in footer -->
+                <div id="page-canvas">
+                    <div id="header" class="site-header container fix">
+                        <div class="outline">
+                            <div id="branding" class="container fix">
+                                <div class="texture">
+                                    <div class="content">
+                                        <div class="content-pad">
+                                            <div class="branding_wrap">
+	                                            <div id="google_translate_element"></div><script type="text/javascript">
+												function googleTranslateElementInit() {
+												  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-31190752-1'}, 'google_translate_element');
+												}
+												</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                                            
+                                                <!-- Javascript Date Here -->
+                                                <div class="icons">
+                                                                                                        <form onsubmit="this.submit();return false;" action="https://www.geneticliteracyproject.org/" class="searchform" method="get">
+                                                        <fieldset style="float:right">
+                                                            <input type="text" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}; this.style.color = '#000'" class="searchfield" name="s" value="Search">
+
+                                                            <input type="image" alt="&rarr;" src="https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/images/search-btn.png" name="submit" class="submit btn">
+                                                        </fieldset>
+                                                    </form>
+                                                    
+                                                  <form class="ppform-header" action="https://www.paypal.com/cgi-bin/webscr" method="post" name="ppform"><input type="hidden" name="cmd" value="_s-xclick" /> <input type="hidden" name="hosted_button_id" value="XCBXZHDM6WLWY" /> <input type="image" alt="PayPal - The safer, easier way to pay online!" name="submit" src="/wp-content/uploads/2015/01/btn_donate_92x26-glp.png" /><img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" border="0" /></form>
+                                                    <!-- Place this tag where you want the widget to render. -->
+														<div style="position:absolute;left:-16px;top:5px"><div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/117992287196524820891" data-rel="publisher"></div></div>
+                                                    
+                                                    <!-- Place this tag after the last widget tag. -->
+                                                    <script type="text/javascript">
+                                                      (function() {
+                                                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                                        po.src = '//apis.google.com/js/platform.js';
+                                                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                                      })();
+                                                    </script>
+                                                    
+                                                    
+                                                    <div class="fb-like" data-href="https://www.facebook.com/GeneticLiteracyProject" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false" style="position:absolute;text-align:center;top:5px;left:105px;height:20px;"></div>
+                                                   
+                                                    
+                                                    <div  style="position:absolute;text-align:center;top:5px;left:195px;height:20px;">
+                                                    <a href="https://twitter.com/GeneticLiteracy" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" data-lang="en">Follow @GeneticLiteracy</a>
+                                                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                                                    </div>
+ 
+                                                    <div class="subscribe_form">
+                                                        <form method="post" target="_blank" action="https://visitor.r20.constantcontact.com/d.jsp" name="ccoptin">
+                                                        <p>Subscribe to Our Daily or Weekly Newsletter  <input type="text" style="border:1px solid gray;margin-top:2px;width:250px;text-align:center;" class="emailarea" onblur="this.value=!this.value?'Enter Your Email Address':this.value;" onfocus="this.select()" onclick="if (this.value == 'Enter Your Email Address') {this.value='';}" value="Enter Your Email Address" size="32" name="ea">
+                                                        <input style="float:right;margin-left:4px;margin-right:0;margin-top:2px;" type="submit" class="submit" value="&rarr;" name="go"></p>
+                                                        <input type="hidden" value="fevxg4iab" name="llr">
+                                                        <input type="hidden" value="1109148816517" name="m">
+                                                        <input type="hidden" value="oi" name="p">
+                                                        </form>
+                                                    </div>
+                                                    
+	
+                                              </div>
+                                                                                                    <a href="https://www.geneticliteracyproject.org/"><img src="https://www.geneticliteracyproject.org/wp-content/uploads/2016/09/GLP_logo_2016-06.png" class="header-image" width="1026" height="94" alt="" /></a>
+                                                                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="primary-nav" class="main-navigation container fix" role="navigation">
+                                <div class="texture">
+                                    <div class="content">
+                                        <div class="content-pad">
+                                            <div id="nav_row" class="main_nav fix">
+                                                <div class="menu-main-container"><ul id="menu-main" class="main-nav nav-menu nosearch sf-menu sf-js-enabled sf-shadow"><li id='menu-item-20534'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a  href="#link" class='sf-with-ul'>About</a> 
+<ul class="sub-menu" style="visibility: hidden; display: none;">
+<li id='menu-item-420'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/mission-financials-governorship/" >Mission, Financial Transparency, Governorship</a> </li>
+<li id='menu-item-419'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/our-team/" >Our Team</a> </li>
+<li id='menu-item-113658'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.geneticliteracyproject.org/our-team/#advisory" >Advisory Board</a> </li>
+<li id='menu-item-121434'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/contributors/" >Contributing Writers</a> </li>
+<li id='menu-item-285188'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/contributors/#write" >Write for the GLP</a> </li>
+<li id='menu-item-149685'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/donate/" >Donate</a> </li>
+<li id='menu-item-210596'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/copyright/" >Copyright</a> </li>
+<li id='menu-item-418'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/contact/" >Contact</a> </li>
+</ul>
+</li>
+<li id='menu-item-20639'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a  href="/category/human/" class='sf-with-ul'>Human</a> 
+<ul class="sub-menu" style="visibility: hidden; display: none;">
+<li id='menu-item-6691'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/ancestry-evolution/" >Ancestry &#038; Evolution</a> </li>
+<li id='menu-item-276100'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/bio-drugs/" >Bio Drugs</a> </li>
+<li id='menu-item-246335'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/biotechnology/" >Biotechnology</a> </li>
+<li id='menu-item-299252'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/gene-editing/" >Gene Editing</a> </li>
+<li id='menu-item-321071'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/gene-therapy/" >Gene Therapy</a> </li>
+<li id='menu-item-6687'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/epigenetics/" >Epigenetics</a> </li>
+<li id='menu-item-278247'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/health-wellness/" >Health &#038; Wellness</a> </li>
+<li id='menu-item-304683'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/microbiome/" >Microbiome</a> </li>
+<li id='menu-item-278427'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/nanotechnology/" >Nanotechnology</a> </li>
+<li id='menu-item-6685'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/genomics-medicine/" >Genomics &#038; Medicine</a> </li>
+<li id='menu-item-246336'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/regulation-bioethics/" >Regulation &#038; Bioethics</a> </li>
+<li id='menu-item-66796'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/stem-cells/" >Stem Cells</a> </li>
+<li id='menu-item-11556'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/synthetic-biology/" >Synthetic Biology</a> </li>
+<li id='menu-item-193668'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/transhumanism/" >Transhumanism</a> </li>
+<li id='menu-item-282444'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/infographics-human/" >Infographics: Human</a> </li>
+</ul>
+</li>
+<li id='menu-item-20643'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a  href="/category/food-agriculture/" class='sf-with-ul'>Food &#038; Agriculture</a> 
+<ul class="sub-menu" style="visibility: hidden; display: none;">
+<li id='menu-item-193669'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/animal-biotechnology/" >Animal Biotechnology</a> </li>
+<li id='menu-item-193670'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/biotechnology/" >Biotechnology</a> </li>
+<li id='menu-item-279931'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/biofuels/" >Biofuels</a> </li>
+<li id='menu-item-332053'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/chemicals-pesticides/" >Chemicals &#038; Pesticides</a> </li>
+<li id='menu-item-299248'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/gene-editing/" >Gene Editing</a> </li>
+<li id='menu-item-6694'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/crops-food/" >Crops &#038; Food</a> </li>
+<li id='menu-item-304290'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/gmo-beyond-the-science-2/" >GMO Beyond the Science</a> </li>
+<li id='menu-item-6695'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/green-genes-sustainability/" >Green Genes &#038; Sustainability</a> </li>
+<li id='menu-item-278428'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/nanotechnology/" >Nanotechnology</a> </li>
+<li id='menu-item-304289'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/pollinators/" >Real facts on Pollinators</a> </li>
+<li id='menu-item-239618'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/regulation-bioethics/" >Regulation &#038; Bioethics</a> </li>
+<li id='menu-item-281905'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/infographics-food-agriculture/" >Infographics: Food &#038; Ag</a> </li>
+<li id='menu-item-312453'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="http://gmo.geneticliteracyproject.org" >GMO FAQ</a> </li>
+</ul>
+</li>
+<li id='menu-item-20642'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a  href="#link" class='sf-with-ul'>Special Sections</a> 
+<ul class="sub-menu" style="visibility: hidden; display: none;">
+<li id='menu-item-355668'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/epigenetics/" >Epigenetics Around The Web</a> </li>
+<li id='menu-item-246337'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/glp-facts/" >Biotech Gallery Archives</a> </li>
+<li id='menu-item-10486'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  title="Gene-ius" href="https://www.geneticliteracyproject.org/category/gene-ius/" >Gene-ius: Human</a> </li>
+<li id='menu-item-277980'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/genetrends-food-agriculture/" >GeneTrends: Food &#038; Ag</a> </li>
+<li id='menu-item-276993'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/gmo-beyond-the-science/" >GMO Beyond the Science I</a> </li>
+<li id='menu-item-343021'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/gmo-beyond-the-science-2/" >GMO Beyond the Science II</a> </li>
+<li id='menu-item-312452'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="http://gmo.geneticliteracyproject.org" >GMO FAQ</a> </li>
+<li id='menu-item-284568'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/glyphosate/" >Is glyphosate dangerous?</a> </li>
+<li id='menu-item-293215'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/pollinators/" >Facts about pesticides &#038; pollinators</a> </li>
+<li id='menu-item-290573'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/talking-biotech/" >Talking Biotech w/Kevin Folta</a> </li>
+<li id='menu-item-278462'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="/tag/top-6" >Weekly Top 6</a> </li>
+<li id='menu-item-306370'  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a  href="https://www.geneticliteracyproject.org/category/video/" >Video</a> </li>
+</ul>
+</li>
+<li id='menu-item-193671'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a  href="#link" class='sf-with-ul'>Resources</a> 
+<ul class="sub-menu" style="visibility: hidden; display: none;">
+<li id='menu-item-42125'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/external-resources-links/" >External Resources &#038; Links</a> </li>
+<li id='menu-item-30685'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/weekly-newsletter/" >GLP Newsletter Archive</a> </li>
+</ul>
+</li>
+<li id='menu-item-20635'  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a  href="#link" class='sf-with-ul'>Browse</a> 
+<ul class="sub-menu" style="visibility: hidden; display: none;">
+<li id='menu-item-30561'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/authors/" >Authors  (GLP and excerpted)</a> </li>
+<li id='menu-item-30560'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://www.geneticliteracyproject.org/sources/" >Sources</a> </li>
+<li id='menu-item-30559'  class="menu-item menu-item-type-custom menu-item-object-custom"><a  href="https://www.geneticliteracyproject.org/?s=%20&amp;asearch=new" >Advanced Search</a> </li>
+</ul>
+</li>
+</ul></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><!-- #site-navigation -->
+                        </div>
+
+
+
+
+
+                    </div><!-- #header -->
+                    <div id="page-main" class="container-group fix"> <!-- #page-main // closed in footer -->
+                        <div id="maincontent" class="outline fix">
+                            <div class="texture">
+                                <div class="content  "><div class="column-wrap ">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+                    
+
+			
+				
+<article id="post-279824" class="post-279824 glp-facts type-glp-facts status-publish format-standard has-post-thumbnail hentry glp-types-ngos">
+    <header class="entry-header">
+		<h1 class="entry-title biotechgallery"><a href="https://www.geneticliteracyproject.org/glp-facts/">Biotech Gallery</a></h1>
+		<h2 class="entry-title">Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes &#8216;fear and deception&#8217;?        </h2>
+	
+    <span class="wt_meta vcard">Last Updated: 
+		<span class='published updated'>May 11, 2016</span>    </span>
+        
+    </header><!-- .entry-header -->
+
+	<div class="entry-content">
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5208fec66e143891" async="async"></script>
+        <script type="text/javascript">
+			var addthis_share = 
+			{ 
+				 // ... other options
+				 url_transforms : {
+					  shorten: {
+						   twitter: 'bitly'
+					  }
+				 }, 
+				 shorteners : {
+					  bitly : {} 
+				 },
+				 templates: {
+							   twitter: '{{title}} {{url}} via @GeneticLiteracy',
+						   }
+			}
+			</script>
+        <div class="addthis_sharing_toolbox" data-title="Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes &#8216;fear and deception&#8217;?">
+        </div>
+    <!-- AddThis Button END -->
+		<div id="insidestory">
+   						  <div class="row1"><h2><span class="highlight">Archives</span><br/>Organic Consumers Association</h2><hr/>
+														 <p><a href="https://www.geneticliteracyproject.org/2017/03/30/worst-10-list-advocacy-groups-put-ideology-ahead-science-food-farming-issues/">Worst 10 list: Advocacy groups that put ideology ahead of science on food and farming issues</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/andrew-porterfield/" rel="author" class="author fn">Andrew Porterfield</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2017/03/29/gmos-cause-allergies-no-anti-gmo-parent-just-might-contribute/">Do GMOs cause allergies? No, but being an anti-GMO parent just might contribute</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/david-warmflash/" rel="author" class="author fn">David Warmflash</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2017/02/03/scientist-hire-anti-nenonic-activist-david-goulson-produce-pre-determined-research-funders/">Scientist for hire? Does anti-neonic activist David Goulson produce pre-determined 'research' for funders?</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/jon-entine/" rel="author" class="author fn">Jon Entine</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/10/27/gmo-advocate-faux-monsanto-tribunal-registration-canceled-forcibly-removed/">GMO advocate at faux Monsanto tribunal: My registration canceled and I was forcibly removed</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/david-zaruk/" rel="author" class="author fn">David Zaruk</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/10/20/gmosmonoculturebio-disaster-time-to-revise-simplistic-ideological-narrative/">GMOs=Monoculture=Bio-disaster? Time to revise simplistic ideological narrative</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/andrew-porterfield/" rel="author" class="author fn">Andrew Porterfield</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/10/13/alison-van-eenennaam-anti-gmo-activists-target-public-scientists/">Alison Van Eenennaam: Anti-GMO activists target public scientists</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/alison-van-eenennaam/" rel="author" class="author fn">Alison Van Eenennaam</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/10/12/crimes-humanity-behind-international-monsanto-tribunal-circus/">'Crimes Against Humanity'? Who is behind the International Monsanto Tribunal circus?</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/julie-kelly/" rel="author" class="author fn">Julie Kelly</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/09/20/bayer-acquiring-monsatan-anti-gmo-activists-need-new-bogeyman/">With Bayer acquiring 'Monsatan', anti-GMO activists need new bogeyman</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/hank-campbell/" rel="author" class="author fn">Hank Campbell</a> | <a href="https://www.geneticliteracyproject.org/source/american-council-on-science-and-health/" rel="tag">American Council on Science and Health</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/09/15/funds-grassroots-anti-gmo-movement/">Who funds the grassroots anti-GMO movement?</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/michelle-miller/" rel="author" class="author fn">Michelle Miller</a> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/08/23/mark-lynas-us-right-know-funded-anti-vaccine-activists/">Mark Lynas: US Right to Know funded by anti-vaccine activists</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/mark-lynas/" rel="author" class="author fn">Mark Lynas</a> | <a href="https://www.geneticliteracyproject.org/source/blog/" rel="tag">Blog</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/08/05/boycotting-companies-that-backed-gmo-labeling-compromise-is-hypocritical/">Boycotting companies that backed GMO labeling compromise is hypocritical</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/james-cooper/" rel="author" class="author fn">James Cooper</a> | <a href="https://www.geneticliteracyproject.org/source/blog/" rel="tag">Blog</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/08/04/science-communicators-condemn-facebooks-censorship-pro-science-love-gmos-vaccines/">Science communicators condemn Facebook's censorship of pro-science "We Love GMOs and Vaccines"</a></p><span class="wt_meta vcard"> | <a href="https://www.geneticliteracyproject.org/source/genetic-literacy-project/" rel="tag">GLP</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/08/03/organic-consumers-association-organizes-boycott-of-brands-that-use-qr-code-gmo-labels/">Organic Consumers Association organizes boycott of brands that use QR code GMO labels</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/lydia-wheeler/" rel="author" class="author fn">Lydia Wheeler</a> | <a href="https://www.geneticliteracyproject.org/source/hill-2/" rel="tag">Hill</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/08/01/organic-industry-bitterly-split-over-newly-signed-gmo-label-law/">Organic industry bitterly split over newly signed GMO label law</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/kavin-senapathy/" rel="author" class="author fn">Kavin Senapathy</a> | <a href="https://www.geneticliteracyproject.org/source/forbes/" rel="tag">Forbes</a></span>
+														 <p><a href="https://www.geneticliteracyproject.org/2016/07/12/anti-gmo-movement-began-30-years-ago-jeremy-rifkin/">Anti-GMO movement began more than 30 years ago with Jeremy Rifkin</a></p><span class="wt_meta vcard"><a href="https://www.geneticliteracyproject.org/author/louis-anslow/" rel="author" class="author fn">Louis Anslow</a> | <a href="https://www.geneticliteracyproject.org/source/timeline/" rel="tag">Timeline</a></span></div>
+				           </div><div id="placeholdersection">
+						<div id="infobox">
+							<img width="170" height="138" src="https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/69.png" class="attachment-170x200 size-170x200 wp-post-image" alt="" />
+							<div class="infoboxsection">
+<div class="infoboxsection_left">Name</div>
+<div class="infoboxsection_right">Organic Consumers Association</div>
+<div class="clearfix"></div>
+</div>
+<div class="infoboxsection">
+<div class="infoboxsection_left">Founded</div>
+<div class="infoboxsection_right">1998</div>
+<div class="clearfix"></div>
+</div>
+<div class="infoboxsection">
+<div class="infoboxsection_left">Location (primary)</div>
+<div class="infoboxsection_right">Wisconsin, USA</div>
+<div class="clearfix"></div>
+</div>
+<div class="infoboxsection">
+<div class="infoboxsection_left">TYPE</div>
+<div class="infoboxsection_right">NGO</div>
+<div class="clearfix"></div>
+</div>
+<div class="infoboxsection">
+<div class="infoboxsection_left">STATUS</div>
+<div class="infoboxsection_right">US 501c3 &amp; 501c4</div>
+<div class="clearfix"></div>
+</div>
+<div class="infoboxsection">
+<div class="infoboxsection_left">Founder(s)</div>
+<div class="infoboxsection_right">Ronnie Cummins</div>
+<div class="clearfix"></div>
+</div>
+<div class="infoboxsection">
+<div class="infoboxsection_left">Website</div>
+<div class="infoboxsection_right">http://www.organicconsumers.org/</div>
+<div class="clearfix"></div>
+</div>
+
+						</div>
+					 
+						<div id="tableofcontent">
+							<h2>Contents</h2>
+							<ul class="toc">
+<li><a href="#toc_history">HISTORY</a>
+<ul>
+<li><a href="#toc_organization">Organization</a></li>
+</ul>
+</li>
+<li><a href="#toc_campaignsactivities">CAMPAIGNS / ACTIVITIES</a>
+<ul>
+<li><a href="#toc_pure-food">Pure Food</a></li>
+<li><a href="#toc_toxic-taters">Toxic Taters</a></li>
+<li><a href="#toc_millions-against-monsanto">Millions Against Monsanto</a></li>
+<li><a href="#toc_safeguard-organic-standards-sos-campaign">Safeguard Organic Standards (SOS) Campaign</a></li>
+</ul>
+</li>
+<li><a href="#toc_key-people">KEY PEOPLE</a></li>
+<li><a href="#toc_funding-sources">FUNDING SOURCES</a>
+<ul>
+<li><a href="#toc_funded-sources">FUNDED SOURCES</a></li>
+</ul>
+</li>
+<li><a href="#toc_affiliations">AFFILIATIONS</a></li>
+<li><a href="#toc_criticisms">CRITICISMS</a></li>
+<li><a href="#toc_resources">Resources</a></li>
+<li><a href="#toc_references">References</a></li>
+</ul>
+
+						</div>
+					 </div>		<p><strong>Organic Consumers Association</strong> (OCA) led by Ronnie Cummins is listed by the USDA as an &#8220;organic agricultural products marketing and trade resource&#8221; organization.<a id="ref_1_text" href="#ref_1">[1]</a> OCA is one of the most aggressive of North America’s anti-GMO activist groups. It has contributed <a href="http://usrtk.org/donors/" target="_blank">$274.500 to start up and fund the US Right to Know </a>organization, which is targeting scientists and science communicators with controversial Freedom of Information requests in an attempt to tie them to the biotech industry.</p>
+<p><strong>See Biotech Gallery: <a href="https://www.geneticliteracyproject.org/glp-facts/us-right-to-know/" target="_blank">USRTK</a></strong></p>
+<p>Its original name was the “Pure Food Campaign” (in 1988) when anti-technology futurist Jeremy Rifkin at the Foundation on Economic Trends helped launch the initiative as a spin off of their &#8220;Beyond Beef&#8221; initiative with Andrew Kimbrell.</p>
+<p>Kimbrell and Cummins spun off their campaign into a new organization called the International Center for Technology Assessment, from which the Pure Food Campaign was later spun off to become the Organic Consumers Association. One of OCA’s stated goals is to achieve 100 percent organic agriculture in the next 50 years<a id="ref_2_text" href="#ref_2">[2]</a> and the group tackles a range of issues which disparage conventional production (including conventional pesticide use, animal welfare and corporate control of farming), its major area of focus for the past 10-plus years has been GMOs.</p>
+<h2 id="toc_history">HISTORY</h2>
+<p><a href="https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/cummins.jpg" target="_blank" rel="lightbox[279824]" title="cummins"><img class="alignleft size-medium wp-image-279844" src="https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/cummins-300x227.jpg" alt="cummins" width="300" height="227" srcset="https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/cummins-300x227.jpg 300w, https://www.geneticliteracyproject.org/wp-content/uploads/2015/02/cummins.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>OCA founder Ronnie Cummins got his start campaigning against animal agriculture with Andrew Kimbrell at the Foundation on Economic Trends, then later as part of the <a href="https://www.geneticliteracyproject.org/2014/09/29/gmo-farming-abject-failure-claims-center-for-food-safety-is-it/" target="_blank">Center for Food Safety</a>. OCA was formally recognized as a separate 501c3 entity by the IRS in 1998. They added the 501c4 campaign organization Organic Consumers Fund (OCF) in 2002 to engage in political lobbying and ballot initiative campaigns.</p>
+<p>OCA’s claims their membership database to contain between 850,000 and 2,000,000 names and email addresses, and OCA “partners” include at least 3,000 food co-ops and organic retailers. The group cloaks its agenda in the guise of food safety, children’s health, fair trade, and environmental sustainability, but its principal aim is to promote the demand for organic retail products.</p>
+<p>To raise money, Cummins has cast Monsanto as villain (along with other biotech companies). OCA has also been critical of large-scale organic marketers including Dean Foods and Aurora Organic Dairy. Its stated reason is that these companies have “corporatized” organic in a way that has strayed from the movement’s social justice mission. That criticism generally reflects the fact that larger organic companies’ have been reluctant to contribute money to his cause. OCA also maintains a 501c4 political lobbying arm.</p>
+<p>OCA also funds attack NGOs, such as the U.S. Right to Know (USRTK), a group specifically established, with $47,500 in seed money from OCA, to <a href="http://usrtk.org/gmo/u-s-right-to-know-foias-profs-who-wrote-for-gmo-pr-website/" target="_blank">target biotechnology researchers </a>by using the Freedom of Information Act. <a href="https://www.geneticliteracyproject.org/2015/02/11/mimicking-climategate-organic-and-anti-gmo-activists-fund-legal-attack-on-biotech/" target="_blank"><em>Science</em></a> magazine likened this tactic to Climategate, in which global warming deniers attempted to smear climate change scientists by abusing the Freedom of Information Act.</p>
+<h3 id="toc_organization">Organization</h3>
+<p>* Organic Consumers Association 501(c)3</p>
+<dl>
+<dd>Ronald Cummins, president and CEO, board chair</dd>
+<dd>6771 South Silver Hill Drive, Finland, MN 55603</dd>
+<dd>Registration office: 6010 Cliff Estate Road, Little Marais, MN 55614</dd>
+<dd>Federal EIN: 41-1908341</dd>
+<dd>MN State nonprofit corporation file #1R-635 filing date 5/22/1998</dd>
+<dd>Latest report budget (2013): income &#8211; $3,073,719; expenditures: $2,842,517; carried over net assets at end of year: $969,111<a id="ref_3_text" href="#ref_3">[3]</a></dd>
+<dd>5 voting board members, claimed 19 paid employees in 2012 with a total of $720,000 paid in salaries.</dd>
+<dd>Stated organization purpose: &#8220;Consumer education &#8211; to increase consumer awareness/knowledge of organic and agricultural production to promote the development/ expansion of the organic/ sustainable agriculture model.&#8221;<a id="ref_4_text" href="#ref_4">[4]</a></dd>
+</dl>
+<p>* Organic Consumers Fund 501(c)4</p>
+<dl>
+<dd>Ronald Cummins, president and CEO, board chair</dd>
+<dd>6771 South Silver Hill Drive, Finland, MN 55603</dd>
+<dd>Federal EIN: 41-2020937</dd>
+<dd>MN nonprofit corporation file #1y-475 &#8211; filing date: 10/26/2001</dd>
+<dd>Latest report budget (2012): income &#8211; $1,671,937; expenditures: $1,679,573</dd>
+<dd>3 voting members, no claimed employees in 2012</dd>
+<dd>Stated organization purpose: &#8220;To improve public health and the environment&#8221;<a id="ref_5_text" href="#ref_5">[5]</a></dd>
+</dl>
+<h2 id="toc_campaignsactivities">CAMPAIGNS / ACTIVITIES</h2>
+<p>Via OCA and their OCF lobbying arm this group engages in various grassroots campaigns attacking GMOs, pesticides and other non-organic conventional agriculture practices funded by their organic food and alternative health and supplements industry &#8220;sponsors.&#8221; Their claims range from GMOs are killing bees and butterflies to allegations that consumers can protect themselves against Mad Cow Disease by purchasing organic meat. They oppose the pasteurization of milk and promote the raw milk movement.</p>
+<p>They promote their campaign claims via partnership with a range of commercial organic, natural product, herbal supplement and alternative health marketers including <a href="https://www.geneticliteracyproject.org/2014/07/28/fbi-turns-up-heat-on-mike-adams-as-health-ranger-fiasco-widens-plus-adams-archive/" target="_blank">Mike Adams</a> Natural News, Joe Mercola&#8217;s Mercola.com and via joint advocacy initiatives with groups like the Weston A. Price Foundation and <a href="https://www.geneticliteracyproject.org/glp-facts/greenpeace/" target="_blank">Greenpeace</a> <a id="ref_6_text" href="#ref_6">[6]</a> and frequently repost stories from &#8220;junk&#8221; sites that attack science journalists or science journalists that have critiqued OCA&#8217;s practices or allies. Their anti-GMO campaigns include the &#8220;GE Food Alert&#8221; partnership with Friends of the Earth, Center for Food Safety, Institute for Agriculture Trade Policy, National Environmental Trust, and various state Public Interest Research Groups<a id="ref_7_text" href="#ref_7">[7]</a></p>
+<p>OCA leadership also engages in anti-vaccine campaigns promoting claims that vaccines are dangerous and opposing measures to make vaccinating children mandatory<a id="ref_8_text" href="#ref_8">[8]</a> <a id="ref_9_text" href="#ref_9">[9]</a> and claim there are no long term benefits to vaccines.<a id="ref_10_text" href="#ref_10">[10]</a> Cummins <a href="http://inthesetimes.com/article/6330" target="_blank">calls</a> therapeutic antibiotics in animals &#8220;a slippery slope,” writing that its use would “undermine consumer confidence in organics. It’s the same position [I have] as on human vaccines. They are dangerous, and that’s why I didn’t vaccinate my kid.”</p>
+<h3 id="toc_pure-food">Pure Food</h3>
+<p>Claiming, &#8220;Organic Consumers Association wants a moratorium on genetically engineered food and encouraging organic food. Stop GMO pollution&#8221; this was the first campaign of OCA launched in 2008 with the PureFood.org website set up by OCA consultant Steve Urow of Green People.<a id="ref_11_text" href="#ref_11">[11]</a></p>
+<h3 id="toc_toxic-taters">Toxic Taters</h3>
+<p>OCA is one of the Spring 2013 founding members of the Toxic Taters coalition with the <a href="http://www.panna.org" target="_blank">Pesticide Action Network North America</a>, <a href="http://www.foodandwaterwatch.org" target="_blank">Food and Water Watch</a>, Campaign for Food Justice Now, Clean Up the River Environment, Corporate Accountability International, Family Farm Defenders, the Green Party of Minnesota, Headwaters Food Sovereignty Council, Indigenous Environmental Network, the Institute for Agriculture and Trade Policy, Land Stewardship Project, Minnesota Public Interest Research Group (MPIRG), Northwest Center for Alternatives to Pesticides, Real Food Challenge and the White Earth Land Recovery Project.<a id="ref_12_text" href="#ref_12">[12]</a></p>
+<h3 id="toc_millions-against-monsanto">Millions Against Monsanto</h3>
+<p>OCA’s “<a href="https://www.organicconsumers.org/campaigns/millions-against-monsanto" target="_blank">Millions Against Monsanto</a>” campaign initially never drew more than a few hundred supporters to any single protest, but that didn&#8217;t stop Cummins from branding it in a grandiose fashion. OCA was one of the few members of the coalition that cooked up the StarLink corn scare, and it was through this exercise that they demonstrated the effectiveness of discipline in online grassroots organizing. In 2000 when the National Organic Standards began to take shape, Cummins (armed with money from Aveda founder Horst Rechelbacher) organized thousands of organic food devotees to deluge the USDA with political ultimatums. In a later newsletter, he claimed the USDA had “given in to most of the demands of the organic community.”</p>
+<h3 id="toc_safeguard-organic-standards-sos-campaign">Safeguard Organic Standards (SOS) Campaign</h3>
+<p>The Safeguard Organic Standards (SOS) campaign focuses on attacking large corporations investing in organic production. OCA claims these commercial players want to lower standards to claim their foods are &#8220;organic&#8221; and can market them accordingly and sell them to an unaware public. The campaign targets various companies, including Horizon and Aurora organic dairy products, such as the brand Silk (soy milk).</p>
+<p>OCA claimed, &#8220;In late 2005, despite receiving over 350,000 letters and phone calls from OCA members and the organic community, Republican leaders in Congress attached a rider to the 2006 Agricultural Appropriations Bill to weaken the nation&#8217;s organic food standards in response to pressure from large-scale food manufacturers.&#8221;</p>
+<h2 id="toc_key-people">KEY PEOPLE</h2>
+<ul class="listlist">
+<li>Ronnie Cummins, president and board chair of both OCA and OCF &#8211; paid $99,590 in 2013</li>
+<li>Alexis Baden-Mayer, political director<a id="ref_13_text" href="#ref_13">[13]</a> (arrested at 2014 USDA organic NOSB meeting)<a id="ref_14_text" href="#ref_14">[14]</a></li>
+<li>Rosemary Welch, OCA board treasurer, OCF general manager, board director (Ronnie Cummins spouse) &#8211; paid $53,600 in 2013 by OCA, paid $$31,145 by OCF<a id="ref_15_text" href="#ref_15">[15]</a></li>
+<li>Pat Kerrigan, OCA board secretary, paid 29,677 in 2013, also paid OCA Field Organizer since 2013<a id="ref_16_text" href="#ref_16">[16]</a></li>
+<li>Tom Taylor, OCA director</li>
+<li>David Abazs, OCA director</li>
+<li>Robyn Seydel, OCA director</li>
+<li>Honor Schauland, OCF board secretary and content management and office management assistant<a id="ref_17_text" href="#ref_17">[17]</a></li>
+<li>Judy Linman, OCF treasurer 2012, secretary 2011</li>
+<li>Amy Gardner, OCF treasurer 2011</li>
+<li>Mary Anselment, OCA office manager<a id="ref_18_text" href="#ref_18">[18]</a></li>
+<li>Zack Kaldveer, OCA Assistant Media Director/ Yes on Prop 37 Right to Know Campaign<a id="ref_19_text" href="#ref_19">[19]</a></li>
+<li>Katherin Paul, OCA associate director (writer, fundraiser, communications manager), formerly with CommonDreams.org.<a id="ref_20_text" href="#ref_20">[20]</a></li>
+<li>Kaare Melby, OCA social media coordinator<a id="ref_21_text" href="#ref_21">[21]</a></li>
+<li>Lindsey Merkel, OCA intern<a id="ref_22_text" href="#ref_22">[22]</a></li>
+<li>Ben Lilliston, former OCA communications director, current vice president with Institute for Agriculture Trade Policy<a id="ref_23_text" href="#ref_23">[23]</a></li>
+<li>Beka Mulberg, OCA documentary production assistant for &#8220;Stop Monsanto from Poisoning Hawai&#8217;i&#8221; in partnershpi with Hawaii GMO Justice Coalition<a id="ref_24_text" href="#ref_24">[24]</a></li>
+</ul>
+<p>OCA’s national advisory board has included Will Allen, the Vermont farmer and author of The War on Bugs; Maude Barlow of the Council of Canadians; Jay Feldman of the National Coalition Against the Misuse of Pesticides; Jim and Rebecca Goodman, the Wisconsin organic farmers who have been plaintiffs in lawsuits covering everything from GMOs to mad cow disease; Jean Halloran of the <a href="http://consumersunion.org" target="_blank">Consumers Union</a>; Annie Hoy of the Ashland (Oregon) Community Food Store; John Kinsman of Family Farm Defenders, Diet for a Small Planet author Frances Moore Lappé; Mad Cowboy author Howard Lyman; “La Vida Locavore” blogger Jill Richardson, and the Indian GMO critic <a href="https://www.geneticliteracyproject.org/2014/11/18/vandana-shiva-ambassador-of-famine/" target="_blank">Vandana Shiva</a>.</p>
+<ul class="listlist">
+<li>Sarah Streat, OCA writer and researcher (based in Maine)<a id="ref_25_text" href="#ref_25">[25]</a></li>
+<li>Ryan Zynn, OCA National Campaign Director, currently Organic &amp; Fair Trade Coordinator at Dr Bronner&#8217;s Magic Soaps<a id="ref_26_text" href="#ref_26">[26]</a></li>
+<li>Elizabeth Darrow Nardi, former OCA East Coast Campaign Manager and Center for Food safety Pure Food Campaign project manager, currently operations director at New Seasons Organic Market.<a id="ref_27_text" href="#ref_27">[27]</a></li>
+</ul>
+<h2 id="toc_funding-sources">FUNDING SOURCES</h2>
+<p>OCA reports donations from a range of organic, alternative health and natural product marketing company sponsors, foundations and individual donors.</p>
+<ul class="listlist">
+<li>2007 reported revenue: $1,026,092</li>
+<li>2008 reported revenue: $1,082,413</li>
+<li>2009 reported revenue: $896,684</li>
+<li>2010 reported revenue: $1,373,096</li>
+<li>2011 reported revenue: $2,009,522</li>
+<li>2012 reported revenue: $2,174,024</li>
+<li>2013 reported revenue: $3,073,719</li>
+</ul>
+<p>OCF does not report income sources</p>
+<ul class="listlist">
+<li>2010 report revenue: $0 (assets on hand 2010 $94,486)</li>
+<li>2011 reported revenue: $241,487</li>
+<li>2012 reported revenue: $1,672,299</li>
+</ul>
+<p>Primary income sources: Contributions (corporate, individual, foundations) &#8211; including:</p>
+<ul class="listlist">
+<li>Eden Organic</li>
+<li>Nutiva</li>
+<li>Dr. Bronner&#8217;s Magic Soaps $100,000 in 2014</li>
+<li>Joe Mercola $100,000 in 2014<a id="ref_28_text" href="#ref_28">[28]</a></li>
+</ul>
+<h3 id="toc_funded-sources">FUNDED SOURCES</h3>
+<p>OCA reports giving out annual grants (2012) exceeding $500,000 to other (non-OCA) individuals and organizations both inside and outside of the United States (principally noted as Mexico and Canada).</p>
+<ul class="listlist">
+<li>Hudson Bay Conmpany, Lincoln, NE is paid (2012) by OCA $450,000 and (2012) by OCF $160,512 for fundraising phone solicitations.</li>
+<li>Organic Consumer Fund (2011) transfer $28,400</li>
+</ul>
+<p>In 2014 OCA claimed to have donated more than $500,000 to mandatory GMO labeling legislative and ballot initiatives in WA, MD, VT, OR, and CA.<a id="ref_28_text" href="#ref_28">[28]</a></p>
+<p>Via grants, OCA supports:</p>
+<ul class="listlist">
+<li>New Organizing Institute, 1133 19th Street, NW, Washington, DC 20036 (2012) $70,000in support of VT mandatory GMO labeling initiative</li>
+<li>Vermont Public Interest Research and Education Fund (V-PIRG), 141 Main street, Montpelier, VT 05602 (2012) $30,000 &#8211; statewide citizen mobilization</li>
+<li>Rural Vermont, 13 Barre St, Montpelier, VT 05602 (2012) $15,000 in support of VT mandatory GMO labeling initiative</li>
+</ul>
+<p>Via grants, OCF supports:</p>
+<ul class="listlist">
+<li>Label Genetically Engineered Foods 501(c)4, 1814 Franklin Street, Oakland, CA 94612 (2012) $1,185,000 to promote California Ballot Initiative Prop 37 in support of mandatory labeling of GMO foods</li>
+<li><a href="https://www.geneticliteracyproject.org/glp-facts/just-label-it-campaign/" target="_blank">Just Label It Campaign</a> 501(c)4, 1436 U Street, Washington, DC 20009 (2012) $60,000 support for Washington State GMO labeling bill</li>
+<li>Vermont Public Interest Research Group 501(c)3, 141 Main Street, Montpelier, VT 05602 (2012) $10,000 for mobilizing citizens statewide</li>
+<li>Rural Vermont 501(c)3, 15 Barre Street, Montpelier, VT 05602 (2012) $10,000 in support for Vermont GMO labeling bill</li>
+<li>Northeast Organic Farming Association of Vermont 501(c)3 (2012) $10,000 in support for Vermont GMO labeling bill</li>
+</ul>
+<h2 id="toc_affiliations">AFFILIATIONS</h2>
+<ul class="listlist">
+<li>Center for Food Safety &#8211; OCA was originally a campaign of this organization</li>
+<li>U.S. Right to Know &#8211; in 2014 OCA was the founding funder for this initiative.</li>
+<li>Pamm Larry</li>
+<li>Adam Eidinger</li>
+<li>Max Goldberg, Living Maxwell</li>
+</ul>
+<h2 id="toc_criticisms">CRITICISMS</h2>
+<ul class="listlist">
+<li>Discover Magazine science writer Keith Kloor says OCA uses &#8220;fear and deception to advance their cause.&#8221;<a id="ref_30_text" href="#ref_30">[30]</a></li>
+</ul>
+<ul class="listlist">
+<li>Genetic Literacy Project contributing writer Layla Katiraee, PhD claims OCA engages in &#8220;misleading claims at best&#8221; &#8220;to play on people’s sentiments and biases&#8221; in raising money and campaigning against GMOs.<a id="ref_31_text" href="#ref_31">[31]</a></li>
+</ul>
+<ul class="listlist">
+<li>The American Council on Science and Health calls the Organic Consumers Association &#8220;always unreliable&#8221; and criticizes them for promoting unproven natural cures for diseases like Ebola while demonizing modern medicine and vaccines.<a id="ref_32_text" href="#ref_32">[32]</a></li>
+</ul>
+<ul class="listlist">
+<li>Forbes Magazine columnist Jon Entine says, &#8220;OCA’s misinformation campaigns have become templates for other organic and foodie groups, obscure and mainstream.&#8221;<a id="ref_33_text" href="#ref_33">[33]</a></li>
+</ul>
+<h2 id="toc_resources">Resources</h2>
+<ul class="listlist">
+<li><a href="https://www.facebook.com/organicconsumers" target="_blank">Organic Consumers Association Facebook page</a></li>
+<li><a href="https://twitter.com/OrganicConsumer" target="_blank">Organic Consumers Association on Twitter</a></li>
+<li><a href="https://www.youtube.com/user/organicconsumer" target="_blank">OCA on YouTube</a></li>
+<li><a href="http://oca-orca.org/" target="_blank">Organic Retail and Consumer Alliance</a>, project of the Organic Consumers Association</li>
+</ul>
+<h2 id="toc_references">References</h2>
+<ul class="reflink">
+<li id="ref_1"><span class="refid"><a href="#ref_1_text">1</a></span>   <span class="reflink"><a href="http://pubs.nal.usda.gov/sites/pubs.nal.usda.gov/files/srb0301v2005.pdf" target="_blank">http://pubs.nal.usda.gov/sites/pubs.nal.usda.gov/files/srb0301v2005.pdf</a></span></li>
+<li id="ref_2"><span class="refid"><a href="#ref_2_text">2</a></span>   <span class="reflink"><a href="https://www.youtube.com/watch?v=cEBtO25xW-o" target="_blank">Greatest Man to Ever Live: Interview with OCA&#8217;s Simon Harris</a>, Penn &amp; Teller Bullshit, Showtime, 2006.</span></li>
+<li id="ref_3"><span class="refid"><a href="#ref_3_text">3</a></span>   <span class="reflink"><a href="https://www.organicconsumers.org/sites/default/files/oca_990_2013.pdf" target="_blank">https://www.organicconsumers.org/sites/default/files/oca_990_2013.pdf</a></span></li>
+<li id="ref_4"><span class="refid"><a href="#ref_4_text">4</a></span>   <span class="reflink"><a href="http://www.guidestar.org/FinDocuments/2012/411/908/2012-411908341-09deba65-9.pdf" target="_blank">2012 Organic Consumers Association IRS 990 tax return</a></span></li>
+<li id="ref_5"><span class="refid"><a href="#ref_5_text">5</a></span>   <span class="reflink"><a href="http://www.guidestar.org/FinDocuments/2012/412/020/2012-412020937-09e05833-9O.pdf" target="_blank">2012 Organic Consumers Fund IRS 990 tax return</a></span></li>
+<li id="ref_6"><span class="refid"><a href="#ref_6_text">6</a></span>   <span class="reflink"><a href="http://www.greenpeace.org/usa/en/media-center/news-releases/greenpeace-and-the-organic-con/" target="_blank">http://www.greenpeace.org/usa/en/media-center/news-releases/greenpeace-and-the-organic-con/</a></span></li>
+<li id="ref_7"><span class="refid"><a href="#ref_7_text">7</a></span>   <span class="reflink"><a href="https://www.organicconsumers.org/old_articles/ge/tacobellban.php" target="_blank">https://www.organicconsumers.org/old_articles/ge/tacobellban.php</a></span></li>
+<li id="ref_8"><span class="refid"><a href="#ref_8_text">8</a></span>   <span class="reflink"><a href="http://www.centralmaine.com/2015/02/03/proposal-to-require-vaccine-counseling-a-slap-in-the-parental-face/" target="_blank">http://www.centralmaine.com/2015/02/03/proposal-to-require-vaccine-counseling-a-slap-in-the-parental-face/</a></span></li>
+<li id="ref_9"><span class="refid"><a href="#ref_9_text">9</a></span>   <span class="reflink"><a href="http://inthesetimes.com/article/6330 " target="_blank">http://inthesetimes.com/article/6330 </a></span></li>
+<li id="ref_10"><span class="refid"><a href="#ref_10_text">10</a></span>   <span class="reflink"><a href="https://www.organicconsumers.org/news/no-historical-benefit-vaccines-polish-study" target="_blank">https://www.organicconsumers.org/news/no-historical-benefit-vaccines-polish-study</a></span></li>
+<li id="ref_11"><span class="refid"><a href="#ref_11_text">11</a></span>   <span class="reflink"><a href="http://whois.domaintools.com/purefood.org" target="_blank">http://whois.domaintools.com/purefood.org</a></span></li>
+<li id="ref_12"><span class="refid"><a href="#ref_12_text">12</a></span>   <span class="reflink"><a href="http://www.toxictaters.org/take-action-3/campaign-supporters/" target="_blank">http://www.toxictaters.org/take-action-3/campaign-supporters/</a></span></li>
+<li id="ref_13"><span class="refid"><a href="#ref_13_text">13</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/alexis-baden-mayer/10/316/a24" target="_blank">https://www.linkedin.com/pub/alexis-baden-mayer/10/316/a24</a></span></li>
+<li id="ref_14"><span class="refid"><a href="#ref_14_text">14</a></span>   <span class="reflink"><a href="https://www.youtube.com/watch?v=tpKH11T48cQ&amp;feature=youtu.be" target="_blank">https://www.youtube.com/watch?v=tpKH11T48cQ&amp;feature=youtu.be</a></span></li>
+<li id="ref_15"><span class="refid"><a href="#ref_15_text">15</a></span>   <span class="reflink"><a href="http://www.linkedin.com/pub/rosemary-welch/13/a0a/363/en" target="_blank">http://www.linkedin.com/pub/rosemary-welch/13/a0a/363/en</a></span></li>
+<li id="ref_16"><span class="refid"><a href="#ref_16_text">16</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/patrick-kerrigan/16/67/a89" target="_blank">https://www.linkedin.com/pub/patrick-kerrigan/16/67/a89</a></span></li>
+<li id="ref_17"><span class="refid"><a href="#ref_17_text">17</a></span>   <span class="reflink"><a href="https://www.linkedin.com/in/honorific" target="_blank">https://www.linkedin.com/in/honorific</a></span></li>
+<li id="ref_18"><span class="refid"><a href="#ref_18_text">18</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/mary-anselment/1b/444/817" target="_blank">https://www.linkedin.com/pub/mary-anselment/1b/444/817</a></span></li>
+<li id="ref_19"><span class="refid"><a href="#ref_19_text">19</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/zack-kaldveer/5/186/b57" target="_blank">https://www.linkedin.com/pub/zack-kaldveer/5/186/b57</a></span></li>
+<li id="ref_20"><span class="refid"><a href="#ref_20_text">20</a></span>   <span class="reflink"><a href="http://www.linkedin.com/pub/katherine-paul/7/405/1a7/en" target="_blank">http://www.linkedin.com/pub/katherine-paul/7/405/1a7/en</a></span></li>
+<li id="ref_21"><span class="refid"><a href="#ref_21_text">21</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/kaare-melby/66/728/422" target="_blank">https://www.linkedin.com/pub/kaare-melby/66/728/422</a></span></li>
+<li id="ref_22"><span class="refid"><a href="#ref_22_text">22</a></span>   <span class="reflink"><a href="http://www.linkedin.com/pub/lindsey-merkel/22/311/470/en" target="_blank">http://www.linkedin.com/pub/lindsey-merkel/22/311/470/en</a></span></li>
+<li id="ref_23"><span class="refid"><a href="#ref_23_text">23</a></span>   <span class="reflink"><a href="http://www.linkedin.com/pub/ben-lilliston/3/932/659/en" target="_blank">http://www.linkedin.com/pub/ben-lilliston/3/932/659/en</a></span></li>
+<li id="ref_24"><span class="refid"><a href="#ref_24_text">24</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/bekah-mulberg/98/742/5b7" target="_blank">https://www.linkedin.com/pub/bekah-mulberg/98/742/5b7</a></span></li>
+<li id="ref_25"><span class="refid"><a href="#ref_25_text">25</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/sarah-streat/85/1a5/1ab" target="_blank">https://www.linkedin.com/pub/sarah-streat/85/1a5/1ab</a></span></li>
+<li id="ref_26"><span class="refid"><a href="#ref_26_text">26</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/ryan-zinn/3/b75/638" target="_blank">https://www.linkedin.com/pub/ryan-zinn/3/b75/638</a></span></li>
+<li id="ref_27"><span class="refid"><a href="#ref_27_text">27</a></span>   <span class="reflink"><a href="https://www.linkedin.com/pub/elizabeth-nardi/4/255/531" target="_blank">https://www.linkedin.com/pub/elizabeth-nardi/4/255/531</a></span></li>
+<li id="ref_28"><span class="refid"><a href="#ref_28_text">28</a></span>   <span class="reflink"><a href="http://salsa3.salsalabs.com/o/50865/t/0/blastContent.jsp?email_blast_KEY=1277004" target="_blank">http://salsa3.salsalabs.com/o/50865/t/0/blastContent.jsp?email_blast_KEY=1277004</a></span></li>
+<li id="ref_29"><span class="refid"><a href="#ref_29_text">29</a></span>   <span class="reflink"><a href="http://salsa3.salsalabs.com/o/50865/t/0/blastContent.jsp?email_blast_KEY=1277004" target="_blank">http://salsa3.salsalabs.com/o/50865/t/0/blastContent.jsp?email_blast_KEY=1277004</a></span></li>
+<li id="ref_30"><span class="refid"><a href="#ref_30_text">30</a></span>   <span class="reflink"><a href="http://blogs.discovermagazine.com/collideascape/2014/03/28/gmo-opponents-use-fear-deception-advance-cause/#.VNowWPnF-So" target="_blank">GMO Opponents Use Fear and Deception to Advance Their Cause</a>, by Keith Kloor, Discover Magazine, March 28, 2014.</span></li>
+<li id="ref_31"><span class="refid"><a href="#ref_31_text">31</a></span>   <span class="reflink"><a href="https://www.geneticliteracyproject.org/2014/07/01/vermont-pro-gmo-labeling-groups-play-monsanto-fear-card-in-deceptive-fund-raising-effort/" target="_blank">Vermont pro-GMO labeling groups play Monsanto ‘fear card’ in deceptive fund-raising effort</a>, by Layla Katiraee, Genetic Literacy Project, July 1, 2014</span></li>
+<li id="ref_32"><span class="refid"><a href="#ref_32_text">32</a></span>   <span class="reflink"><a href="http://acsh.org/2014/10/ebola-quackery-come-surprise-says-jon-entine/" target="_blank">Ebola quackery should come as no surprise</a>, ACSH, October 29, 2014.</span></li>
+<li id="ref_33"><span class="refid"><a href="#ref_33_text">33</a></span>   <span class="reflink"><a href="http://www.forbes.com/sites/jonentine/2013/05/21/organic-lobby-attacks-biotech-advances-obscures-own-sustainability-and-nutrition-doubletalk/" target="_blank">Organic Lobby Attacks Biotech Advances, Obscures Own Sustainability And Nutrition Doubletalk</a>, by Jon Entine, Forbes Magazine, May 21, 2013.</span></li>
+</ul>
+
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline">Related Stories</h3>
+</div>	</div><!-- .entry-content -->
+    <footer class="entry-meta">
+        
+                    </footer><!-- .entry-meta -->
+</article><!-- #post -->
+
+<div id="disqus_thread">
+    </div>
+
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<footer id="colophon" role="contentinfo" class="content">
+    </footer><!-- #colophon -->
+
+
+</div>
+<!-- Powered by WPtouch Pro: 4.3.13 --><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16337107-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</body>
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8});
+});
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/themes/twentytwelve/js/navigation.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var boxzilla_options = {"testMode":"","boxes":[{"id":354091,"icon":"&times;","content":"<p>&nbsp;<\/p>\n<p style=\"text-align: center; font-size: 17px;\"><img class=\"alignnone size-full wp-image-349141\" style=\"padding-bottom: 10px;\" src=\"\/wp-content\/uploads\/2017\/04\/GLP-newsletter-slidein.png\" alt=\"\" width=\"75\" height=\"30\" \/><\/p>\n<p style=\"text-align: center; font-size: 17px; line-height: 105%;\">News on human &amp; agricultural genetics and biotechnology delivered to your inbox.<\/p>\n<script type=\"text\/javascript\">(function() {\n\tif (!window.mc4wp) {\n\t\twindow.mc4wp = {\n\t\t\tlisteners: [],\n\t\t\tforms    : {\n\t\t\t\ton: function (event, callback) {\n\t\t\t\t\twindow.mc4wp.listeners.push({\n\t\t\t\t\t\tevent   : event,\n\t\t\t\t\t\tcallback: callback\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n})();\n<\/script><!-- MailChimp for WordPress v4.1.1 - https:\/\/wordpress.org\/plugins\/mailchimp-for-wp\/ --><form id=\"mc4wp-form-1\" class=\"mc4wp-form mc4wp-form-354085 mc4wp-form-theme mc4wp-form-theme-dark\" method=\"post\" data-id=\"354085\" data-name=\"Weekly Right Bottom Slide In\" ><div class=\"mc4wp-form-fields\"><p style=\"padding-left: 9%;\">\r\n  <label><\/label>\r\n    <label>\r\n        <input name=\"INTERESTS[3846665629][]\" type=\"checkbox\" value=\"7db2867245\"\r\n        checked=\"true\"> <span>Weekly Newsletter<\/span>\r\n    <\/label>\r\n    <label>\r\n        <input name=\"INTERESTS[3846665629][]\" type=\"checkbox\" value=\"2ff02ea3a4\"\r\n        checked=\"true\"> <span>Daily Digest<\/span>\r\n    <\/label>\r\n<\/p>\r\n<p>\r\n  <label><\/label>\r\n    <input type=\"text\" name=\"FNAME\" placeholder=\"Your name\">\r\n<\/p>\r\n<p>\r\n<p>\r\n\t<label><\/label>\r\n\t<input type=\"email\" name=\"EMAIL\" placeholder=\"Your email address\" required \/>\r\n<\/p>\r\n\r\n<p>\r\n\t<input type=\"submit\" value=\"Sign up\" \/>\r\n<\/p><div style=\"display: none;\"><input type=\"text\" name=\"_mc4wp_honeypot\" value=\"\" tabindex=\"-1\" autocomplete=\"off\" \/><\/div><input type=\"hidden\" name=\"_mc4wp_timestamp\" value=\"1493924559\" \/><input type=\"hidden\" name=\"_mc4wp_form_id\" value=\"354085\" \/><input type=\"hidden\" name=\"_mc4wp_form_element_id\" value=\"mc4wp-form-1\" \/><\/div><div class=\"mc4wp-response\"><\/div><\/form><!-- \/ MailChimp for WordPress Plugin -->\n","css":{"background_color":"#c9cde4","color":"#23282d","width":300,"border_color":"#23282d","border_width":3,"border_style":"solid","position":"bottom-right"},"trigger":{"method":"time_on_page","value":"7"},"animation":"slide","cookie":{"triggered":0,"dismissed":672},"rehide":false,"position":"bottom-right","screenWidthCondition":null,"closable":true,"post":{"id":354091,"title":"Weekly Right Bottom Slide In","slug":"weekly-right-bottom-slide"}}]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/boxzilla/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js'></script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.7.4","language":""},"disqusIdentifier":"279824 https:\/\/www.geneticliteracyproject.org\/?post_type=glp-facts&p=279824","disqusShortname":"geneticliteracyproject","disqusTitle":"Organic Consumers Association: Activist trade group funding Biogate FOIA scandal promotes \u2018fear and deception\u2019?","disqusUrl":"https:\/\/www.geneticliteracyproject.org\/glp-facts\/organic-consumers-association-2\/","options":{"manualSync":false},"postId":"279824"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/disqus-comment-system/media/js/disqus.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"geneticliteracyproject"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/disqus-comment-system/media/js/count.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://www.geneticliteracyproject.org/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://stats.wp.com/e-201718.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'81977256',post:'279824',tz:'-4',srv:'www.geneticliteracyproject.org'} ]);
+	_stq.push([ 'clickTrackerInit', '81977256', '279824' ]);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-31190752-1', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
 </html>
-
-<!-- Dynamic page generated in 0.318 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2017-04-25 21:55:20 -->
-
-<!-- super cache -->

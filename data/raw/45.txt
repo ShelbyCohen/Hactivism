@@ -1,1208 +1,459 @@
-<!doctype html>
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<!DOCTYPE html>
+<html xml:lang="en" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# dc: http://purl.org/dc/elements/1.1/# v: http://rdf.data-vocabulary.org/# op: http://media.facebook.com/op#">
 <head>
-	<script>var CN={}; var TNY = {};</script>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta name="HandheldFriendly" content="true">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="The New Yorker">
-<link rel="shortcut icon" href="/favicon.ico">
-<meta name="environment" content="prod">
-<meta name="cache-version" content="20170425195131">
-<meta name="account-url" content="https://account.newyorker.com">
-<meta name="id" content="3084053">
-<meta name="google-site-verification" content="_jvLA9pRQom0-f6587wRKrNwfRtqyKzjfYWvwcZ5fxc">
-<link rel="apple-touch-icon" href="/wp-content/assets/dist/img/icon/apple-touch-icon.png">
-<link rel="apple-touch-icon-precomposed" href="/wp-content/assets/dist/img/icon/apple-touch-icon-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/wp-content/assets/dist/img/icon/apple-touch-icon-57x57-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/assets/dist/img/icon/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wp-content/assets/dist/img/icon/apple-touch-icon-144x144-precomposed.png">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>The Night Berkeley Betrayed The Free Speech Movement - Breitbart</title>
+	<link rel="preconnect" href="//media.breitbart.com">
+	<link rel="dns-prefetch" href="//breitbartproduction.disqus.com">
+	<link rel="preload" href="https://fonts.googleapis.com/css?family=Fjalla+One" as="style" crossorigin>
+	<link rel="preload" href="/t/assets/fonts/bbn.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/t/style-014939622.css" as="style">
+	<script>if ( ! document.cookie || document.cookie.indexOf('Cs04') === -1 ) { var a=document.createElement("link");a.rel="preload";a.as="image";a.href="/t/assets/i/store/leader/v2/" + ( 'ontouchstart' in window?"m-":'') + "opened.png";document.head.appendChild(a); }</script>
+	<link rel="stylesheet" href="/t/style-014939622.css" type="text/css" media="all">
+	<link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+	<meta name="description" content="In the 1960s, leftists at UC Berkeley fought for their free speech. Now they use violence and mayhem to trample on the rights of others.">
+	<meta name="robots" content="noodp">
+	<meta name="keywords" content="Free speech, free speech movement, milo, UC Berkeley">
+	<link rel="canonical" href="http://www.breitbart.com/milo/2017/02/01/milo-true-heir-berkeley-free-speech-movement/">
+	<link rel="publisher" href="https://plus.google.com/110812411499982071387">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="The Night Berkeley Betrayed The Free Speech Movement - Breitbart">
+	<meta property="og:description" content="In the 1960s, leftists at UC Berkeley fought for their free speech. Now they use violence and mayhem to trample on the rights of others.">
+	<meta property="og:url" content="http://www.breitbart.com/milo/2017/02/01/milo-true-heir-berkeley-free-speech-movement/">
+	<meta property="og:site_name" content="Breitbart">
+	<meta property="article:publisher" content="https://www.facebook.com/Breitbart">
+	<meta property="article:tag" content="College Campuses">
+	<meta property="article:tag" content="Dangerous Faggot Tour">
+	<meta property="article:tag" content="free speech">
+	<meta property="article:tag" content="UC Berkeley">
+	<meta property="article:section" content="Milo">
+	<meta property="article:published_time" content="2017-02-01T21:12:15-07:00">
+	<meta property="article:modified_time" content="2017-02-03T07:29:38-07:00">
+	<meta property="og:updated_time" content="2017-02-03T07:29:38-07:00">
+	<meta property="fb:app_id" content="1243316582352556">
+	<meta property="og:image" content="http://media.breitbart.com/media/2017/02/C3okajKWcAI4C__-Cropped.jpg">
+	<meta property="og:image:width" content="1093">
+	<meta property="og:image:height" content="820">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:description" content="In the 1960s, leftists at UC Berkeley fought for their free speech. Now they use violence and mayhem to trample on the rights of others.">
+	<meta name="twitter:title" content="The Night Berkeley Betrayed The Free Speech Movement - Breitbart">
+	<meta name="twitter:site" content="@BreitbartNews">
+	<meta name="twitter:image" content="http://media.breitbart.com/media/2017/02/C3okajKWcAI4C__-Cropped.jpg">
+	<meta name="twitter:creator" content="@BreitbartNews">
+	<meta property="article:categories" content="Tech,Social Justice,Milo">
+	<link rel="amphtml" href="http://www.breitbart.com/milo/2017/02/01/milo-true-heir-berkeley-free-speech-movement/amp/"><link rel="icon" href="http://www.breitbart.com/t/assets/i/w-logo-orange.png" sizes="32x32">
+	<link rel="icon" href="http://www.breitbart.com/t/assets/i/w-logo-orange.png" sizes="192x192">
+	<link rel="apple-touch-icon-precomposed" href="http://www.breitbart.com/t/assets/i/w-logo-orange.png">
+	<meta name="msapplication-TileImage" content="http://www.breitbart.com/t/assets/i/w-logo-orange.png">	<link rel="home" href="http://www.breitbart.com/" title="Home">
+	<link rel="copyright" href="#copyrighttext">
+	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/breitbart" title="Breitbart News Feed">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" href="/t/assets/i/w-logo-orange.png">
+	<link rel="icon" href="/t/assets/i/w-logo-orange.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+	<meta property="op:markup_version" content="v1.0">
+	<meta property="fb:use_automatic_ad_placement" content="true">
+	<meta property="fb:pages" content="95475020353">
+	<script type="text/javascript">var isc_js_debug=!1,isc_is_dev=!1,isc_js_bc='author-3906 category-milo post-template-default single single-post postid-6067182 js',isc_js_lock=14939622;(function(b,c,d,a,f,e,g,h,k){c.className+=" "+d;e.start=1*new Date;e.end=g=function(){c.className=c.className.replace(RegExp(" ?"+d),"")};(b[a]=b[a]||[]).hide=e;setTimeout(function(){g();e.end=null},f);e.timeout=f})(window,document.documentElement,"async-hide","dataLayer",4E3,{"GTM-PP4D92G":!0});(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-9229289037503472",enable_page_level_ads:!0});var isc_metric2=3;
+document.cookie&&-1<document.cookie.indexOf("Ba2=")&&(isc_metric2=-1<document.cookie.indexOf("Ba2=1")?1:2);var _informq=_informq||[],_ndnq=_ndnq||[],_nw2e=_nw2e||[];_informq.push(["hook","inform-player-1/videoLoad",function(b){console.debug("$$$ INFORM: "+b.eventName+" "+b.containerElement.id);_informq.push(["command","inform-player-2/destruct"])}]);
+var isc_is_mobile=/IEMobile|BB10|Android|Silk|Kindle|Opera Mini|Opera Mobi|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)?!0:!1,isc_is_mobile_plus=isc_is_mobile||/mobile/i.test(navigator.userAgent)?!0:!1,isc_js_bc=isc_is_mobile?"ismobile "+isc_js_bc:isc_js_bc,isc_is_prod=10===window.location.href.indexOf(".breitbart.com"),isc_is_preview=-1<window.location.href.indexOf("preview=true")&&-1<window.location.href.indexOf("preview_id="),isc_is_single=-1<isc_js_bc.indexOf("single"),isc_is_home=
+/home blog /.test(isc_js_bc),isc_is_video=0===window.location.pathname.indexOf("/video/"),isc_is_wire=0===window.location.pathname.indexOf("/news/")||-1<isc_js_bc.indexOf("-wire"),isc_is_cookie=document.cookie&&0<document.cookie.length,isc_is_ssl="https:"===document.location.protocol?!0:!1,isc_is_canvas=-1<isc_js_bc.indexOf("cat-view-customize"),isc_is_qazy=!isc_is_canvas&&!isc_is_ssl&&!isc_is_preview&&!isc_is_home&&!isc_is_mobile_plus&&!(isc_is_video&&!isc_is_single);
+if(isc_is_qazy&&window.addEventListener){var qazy={runs:0,io:null,x:0,dimg:"data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAUAAAAALAAAAAABAAEAAAICRAEAOw==",RunIO:function(){30<qazy.runs++&&qazy.StopIO();qazy.MakeList()},StopIO:function(){"number"===typeof qazy.io&&(clearInterval(qazy.io),qazy.io=null)},MakeList:function(){if(0===qazy.x){qazy.x=1;var b=document.querySelectorAll("img[data-qazy='true']"),c=b.length;if(0<c)for(var d=0;d<c;d++){var a=b[d];a.src&&10<a.src.length&&(a.setAttribute("data-qazy",
+"false"),a.setAttribute("data-qazy-src",a.src),a.src=qazy.dimg)}qazy.x=0}}};qazy.io=setInterval(qazy.RunIO,150);window.addEventListener("load",qazy.StopIO,!1)};
+</script>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async></script><script src="https://www.googletagservices.com/tag/js/gpt.js" async></script><div id="ds_default_anchor"></div></head>
+<body class="author-3906 category-milo post-template-default single single-post postid-6067182 no-js">
+<div id="GlobalW" class="hfeed site">
+<script>document.body.className=isc_js_bc;(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-715222-1",{siteSpeedSampleRate:5,cookieDomain:"breitbart.com"});ga("set","transport","beacon");ga('set','anonymizeIp',true);ga('set',{'dimension1':'Tom Ciccotta','dimension2':'milo social-justice tech ','dimension4':'college-campuses dangerous-faggot-tour free-speech uc-berkeley ','metric2':window.isc_metric2||3});ga('require','GTM-PP4D92G');var bW5=window,brU=function(){var a=bW5.location;-1!==a.href.indexOf("utm")&&bW5.history.replaceState&&bW5.history.replaceState({},"",a.pathname)};ga('send','pageview',{'hitCallback': brU});var GMa=[],google_ad_client="ca-pub-9229289037503472",googletag=window.googletag||{};googletag.cmd=window.googletag.cmd||[];
+googletag.cmd.push(function(){var b=googletag.sizeMapping().addSize([468,480],[[336,280],[300,250],[320,250],[320,480],[468,60],[320,100],[320,50],[250,250],[250,225],[300,75],[300,100],[468,15],[468,100],[468,225],[200,200],[200,90],[180,90],[234,60],[216,54],[216,36],[180,90],[180,150],[168,42],[168,28],[160,90],[125,125],[120,90],[120,60],[120,30],[120,20]]).addSize([468,250],[[336,280],[300,250],[320,250],[320,480],[468,60],[320,100],[320,50],[250,250],[250,225],[300,75],[300,100],[468,15],[468,
+100],[468,225],[200,200],[200,90],[180,90],[234,60],[216,54],[216,36],[180,90],[180,150],[168,42],[168,28],[160,90],[125,125],[120,90],[120,60],[120,30],[120,20]]).addSize([336,280],[[336,280],[300,250],[320,250],[320,480],[320,100],[320,50],[250,250],[250,225],[300,75],[300,100],[200,200],[200,90],[180,90],[234,60],[216,54],[216,36],[180,90],[180,150],[168,42],[168,28],[160,90],[125,125],[120,90],[120,60],[120,30],[120,20]]).addSize([320,250],[[300,250],[320,250],[320,480],[320,100],[320,50],[250,
+250],[300,75],[300,100],[200,200],[200,90],[180,90],[234,60],[216,54],[216,36],[180,90],[180,150],[168,42],[168,28],[160,90],[125,125],[120,90],[120,60],[120,30],[120,20]]).addSize([300,250],[[300,250],[250,250],[300,75],[300,100],[200,200],[200,90],[180,90],[234,60],[216,54],[216,36],[180,90],[180,150],[168,42],[168,28],[160,90],[125,125],[120,90],[120,60],[120,30],[120,20]]).build(),d=googletag.sizeMapping().addSize([970,100],[[300,100],[300,50],[728,90],[468,60],[320,100],[970,90],[980,120],[970,
+250],[930,180],[750,300],[580,400],[320,50],[200,200]]).addSize([336,100],[[300,100],[300,50],[320,100],[320,50],[200,200]]).addSize([320,50],[[300,100],[300,50],[320,100],[320,50],[200,200]]).build(),f=googletag.sizeMapping().addSize([468,480],[[468,100],[468,60],[300,75],[300,100],[300,50],[480,320],[475,245],[468,225],[336,280],[300,250],[320,250]]).build(),c=googletag.sizeMapping().addSize([300,100],[[300,1050],[300,600],[300,250],[250,360],[250,250],[200,200],[300,100],[300,175],[300,75],[300,
+50],[250,225],[240,133],[240,400],[200,90],[160,600],[200,446],[234,60],[216,54],[216,36],[220,90],[180,150],[180,90],[234,60],[160,600],[160,90],[120,600],[120,240],[120,90]]).build(),e=googletag.sizeMapping().addSize([970,100],[[750,300],[970,250],[930,180],[750,200],[728,90],[980,120],[950,90],[960,90],[970,66],[750,100],[480,320],[475,245],[468,225],[970,90],[935,24],[468,60]]).addSize([750,100],[[750,300],[750,200],[728,90],[750,100],[480,320],[475,245],[468,225],[468,60]]).addSize([728,100],
+[[728,90],[480,320],[475,245],[468,225],[468,60]]).build();isc_is_home?isc_is_mobile?(GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.HP.Header",[320,50],"mobile-hp-header").defineSizeMapping(d).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.HP.Body1",[300,250],"mobile-hp-body1").defineSizeMapping(b).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.HP.Body2",[300,250],"mobile-hp-body2").defineSizeMapping(b).addService(googletag.pubads())),
+GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.HP.Body3",[300,250],"mobile-hp-body3").defineSizeMapping(b).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.HP.Body4",[300,250],"mobile-hp-body4").defineSizeMapping(b).addService(googletag.pubads()))):(GMa.push(googletag.defineSlot("/1003622/Breitbart.HP.Top.Leader",[728,90],"desktop-HP-Top-Leader").defineSizeMapping(e).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.HP.Rail1",
+[300,250],"desktop-HP-Rail1").defineSizeMapping(c).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.HP.Rail2",[300,250],"desktop-HP-Rail2").defineSizeMapping(c).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.HP.Body1",[468,225],"desktop-HP-Body1").defineSizeMapping(f).addService(googletag.pubads()))):isc_is_mobile?(GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Header",[320,50],"mobile-ROS-header").defineSizeMapping(d).addService(googletag.pubads())),
+GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body1",[300,250],"mobile-ROS-body1").defineSizeMapping(b).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body2",[300,250],"mobile-ROS-body2").defineSizeMapping(b).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body3",[300,250],"mobile-ROS-body3").defineSizeMapping(b).addService(googletag.pubads()))):(GMa.push(googletag.defineSlot("/1003622/Breitbart.ROS.Top.Leader",
+[728,90],"desktop-ROS-Top-Leader").defineSizeMapping(e).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.ROS.Rail1",[300,250],"desktop-ROS-Rail1").defineSizeMapping(c).addService(googletag.pubads())),GMa.push(googletag.defineSlot("/1003622/Breitbart.ROS.Rail2",[300,250],"desktop-ROS-Rail2").defineSizeMapping(c).addService(googletag.pubads())));googletag.pubads().addEventListener("slotRenderEnded",function(a){var b=a.slot.getName();a.isEmpty?(console.debug("GGGGGG: slotRenderEnded:  EMPTY!!!  Refreshing  Slot: %s   AdUnitPath: %s   DivID: %s   CId: %s  LId: %s",
+b,a.slot.getAdUnitPath(),a.slot.getSlotElementId(),a.sourceAgnosticCreativeId,a.sourceAgnosticLineItemId),a=document.getElementById(a.slot.getSlotElementId()),a.parentNode.parentNode.removeChild(a.parentNode)):(isc_js_debug&&console.debug("GGGGGG: slotRenderEnded:  Slot: %s   AdUnitPath: %s   DivID: %s   CId: %s  LId: %s  Size: %s",b,a.slot.getAdUnitPath(),a.slot.getSlotElementId(),a.sourceAgnosticCreativeId,a.sourceAgnosticLineItemId,a.size[0]+"x"+a.size[1]),document.getElementById(a.slot.getSlotElementId()).parentNode.className+=
+" padok adi"+a.size[0]+"x"+a.size[1])});googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs(!0);googletag.enableServices();for(b=0;b<GMa.length;b++)googletag.display(GMa[b].getSlotElementId());GMa=null});
+</script>
+<a class="H" accesskey="2" rel="nofollow" href="#ContentW">Skip to content</a>
+	<div class="ad Hmobi"><div id='desktop-ROS-Top-Leader'></div></div>
+		<header id="headerHeadW">
+	<div id="HeadW">
+		<div id="HWIC">
+			<div id="HWI">
+				<a rel="index" class="logo" accesskey="1" href="http://www.breitbart.com/" title="Breitbart News Network"></a>
+				<div class="mobile menu-toggle"><span></span><span></span><span></span></div>
+				<ul id="HTlinks"><li><a title="Breitbart News Network" href="http://www.breitbart.com/">Home</a></li><li><a rel="nofollow" href="/newsletter-signup/">Subscribe</a></li></ul>
+				<ul id="BBLoggedIn" class="H"></ul>
 
+				<div class="mobile mobile-search"><form class="search-form" method="get" action="/search/"><label for="searchiscq1"></label><input type="text" placeholder="SEARCH" name="s" id="searchiscq1" value="" /><input type="submit" value="search" /></form></div>
 
-<meta property="fb:admins" content="501890909">
-<meta property="fb:admins" content="757909316">
-<meta name="apple-itunes-app" content="app-id=1081530898">
-
-<title>The Fight for Free Speech - The New Yorker</title>
-		<meta itemprop="name" content="The Hell You Say">
-				<meta name="pub-type" content="article" >
-				<meta name="numericpub" content="August 10, 2015">
-			<meta name="numericpub" content="August 10, 2015">
-	
-<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Kelefa Sanneh on “End of Discussion,” by Mary Katharine Ham and Guy Benson, and “The Silencing: How the Left Is Killing Free Speech,” by Kirsten Powers."/>
-<meta name="robots" content="noodp"/>
-<link rel="canonical" href="http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say" />
-<link rel="publisher" href="https://plus.google.com/+newyorker"/>
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Who’s Fighting Free Speech?" />
-<meta property="og:description" content="Between the rise of online harassment and alarmist warnings about political correctness, it’s hard to tell who’s speaking and who’s censoring." />
-<meta property="og:url" content="http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say" />
-<meta property="og:site_name" content="The New Yorker" />
-<meta property="article:tag" content="Books" />
-<meta property="article:tag" content="Fairness Doctrine" />
-<meta property="article:tag" content="First Amendment" />
-<meta property="article:tag" content="Free Speech" />
-<meta property="article:tag" content="Guy Benson" />
-<meta property="article:tag" content="Kirsten Powers" />
-<meta property="article:tag" content="Mary Katharine Ham" />
-<meta property="article:tag" content="Robin Thicke" />
-<meta property="og:image" content="http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-1200-630-30133736.jpg" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Between the rise of online harassment and alarmist warnings about political correctness, it’s hard to tell who’s speaking and who’s censoring." />
-<meta name="twitter:title" content="Who’s Fighting Free Speech?" />
-<meta name="twitter:site" content="@newyorker" />
-<meta name="twitter:image" content="http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-1200-630-30133736.jpg" />
-<meta name="twitter:creator" content="@newyorker" />
-<!-- / Yoast SEO plugin. -->
-
-<style type="text/css" id="css-site-overrides">
-#parallax9x2_frame {
-    display: none !important;
-}
-
-h2 {
-text-transform:none
-}
-input#createpass1, input#createpass2{
-    text-transform:none!important
-}
-input#userpass, input#userpass-link{
-    text-transform:none!important
-}
-.most-popular .post-byline {
-    text-transform:none!important
-}
-#tny-overlay .credit {
-    text-transform:none!important
-}
-article figure .credit {
-    text-transform:none!important
-}
-.module.contributors h2, .the-latest-container h2{
-    text-transform:none!important
-}
-#mobi-nav-link{
-    font-size:63%!important;
-    font-weight:normal!important;
-}
-.signin-sub,.modal-intro{
-    font-weight:normal!important
-}
-
-.hamburger-dropdowns-navigation__flyout-link-text{
-    font-weight:normal!important
-}
-
-.primary-nav>ul a {
-    font-weight:normal!important;
-}
-article>header .title {
-    margin: 5px 0 12px!important;
-}
-article>header .contributors, article>header .contributors+.comma{
-    position:static!important;
-    font-weight:normal!important;
-    bottom:0;
-}
-article>header time {
-    position: static!important;
-}
-.the-latest-container h2 {
-    font-weight:normal!important
-}
-.header-ad .advertisement.loaded {
-    margin-top: 15px;
-    padding-bottom:24px;
-}
-
-header#hd li.n-store a {
-  color: #df3331;
-}
-
-.module.contributors h2{
-    text-transform:none!important
-}
-#mobi-nav-link{
-    font-size:63%!important;
-    font-weight:normal!important;
-}
-
-.body.cartoons div#caption-contest-first {
-height:auto;
-}
-h3{
-font-weight:normal!important;
-}
-@media (min-width: 600px) {
-.featured-header .normal-feature section h2 span {
-font-size: 38px;
-}
-}
-
-#hd .primary-nav {
-  max-height: 225px;
-}
-
-
-.cns-ads-slot-type-modal-0.cns-ads-slot-size-9x4 {
-    z-index: 16777275 !important;
-}
-</style>
-<link rel='https://api.w.org/' href='http://www.newyorker.com/wp-json/' />
-<link rel='shortlink' href='http://www.newyorker.com/?p=3084053' />
-        <!-- Start BounceX tag. Deploy at the beginning of document head. -->
-        <script>
-        (function(d) {
-            var e = d.createElement('script');
-            e.src = d.location.protocol + '//tag.bounceexchange.com/1990/i.js';
-            e.async = true;
-            d.getElementsByTagName("head")[0].appendChild(e);
-        }(document));
-        </script>
-        <!-- End BounceX Tag-->
-        			<style>
-				img:not([src]) {
-					visibility: hidden;
-				}
-				img:not([src]):not([srcset]) {
-					visibility: hidden;
-				}
-				/* Fixes Firefox anomaly during image load */
-				@-moz-document url-prefix() {
-					img:-moz-loading {
-						visibility: hidden;
-					}
-				}
-			</style>
-			<meta name="news_keywords" content="Books, Fairness Doctrine, First Amendment, Free Speech, Guy Benson, Kirsten Powers, Mary Katharine Ham, Robin Thicke"><link rel='https://github.com/WP-API/WP-API' href='http://www.newyorker.com/wp-json' />
-<!-- BEGIN wp-parsely Plugin Version 1.10.1 -->
-<meta name='wp-parsely_version' id='wp-parsely_version' content='1.10.1' />
-	<script type="application/ld+json">
-	{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.newyorker.com\/magazine\/2015\/08\/10\/the-hell-you-say"},"headline":"The Hell You Say","url":"http:\/\/www.newyorker.com\/magazine\/2015\/08\/10\/the-hell-you-say","thumbnailUrl":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2015\/08\/150810_r26835-320-240-30133558.jpg","image":{"@type":"ImageObject","caption":"Free speech really can be harmful, and its defenders should be willing to say so.","description":"Illustration by Post Typography","contentUrl":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2015\/08\/150810_r26835-320.jpg","url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2015\/08\/150810_r26835-320.jpg","width":"320px","height":"438px"},"dateCreated":"2015-08-03T04:00:00Z","datePublished":"2015-08-03T04:00:00Z","dateModified":"2015-08-03T00:00:01Z","articleSection":"Dept. of Disputation","author":[{"@type":"Person","name":"Kelefa Sanneh","url":"http:\/\/www.newyorker.com\/contributors\/kelefa-sanneh"}],"creator":[{"@type":"Person","name":"Kelefa Sanneh","url":"http:\/\/www.newyorker.com\/contributors\/kelefa-sanneh"}],"publisher":{"@type":"Organization","name":"The New Yorker","url":"http:\/\/www.newyorker.com\/","logo":{"@type":"ImageObject","url":"http:\/\/www.newyorker.com\/\/wp-content\/assets\/dist\/img\/icon\/apple-touch-icon-114x114-precomposed.png","width":"114px","height":"114px"}},"keywords":["books","fairness doctrine","first amendment","free speech","guy benson","kirsten powers","mary katharine ham","robin thicke"],"@id":"http:\/\/www.newyorker.com\/magazine\/2015\/08\/10\/the-hell-you-say","articleId":"3084053","custom_metadata":{"id":3084053,"title_alt":"Who\u2019s Fighting Free Speech?","featured_image_url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2015\/08\/150810_r26835-728-375-30133654.jpg"}}	</script>
-			<meta name='parsely-metadata' content='{"id":3084053,"title_alt":"Who\u2019s Fighting Free Speech?","featured_image_url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2015\/08\/150810_r26835-728-375-30133654.jpg"}' />
-		<!-- END wp-parsely Plugin Version 1.10.1 -->
-
-		<style type="text/css">
-			body.customize-support #hd.collapsed #nav-container {
-				margin-top: 28px;
-			}
-		</style><link rel="amphtml" href="http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say/amp" />            <script type="text/javascript" id="evolok-include">
-                var EVOLOK = {
-                "activeMeter"    : {
-                    "metername"  : "dft",
-                    "max"        : "6",
-                    "count"      : "1",
-                    "viewed"     : "0",
-                    "abGroup"    : "",
-                    "abValue"    : ""
-                },
-                "cnee"             : {
-                    "subscription" : "",
-                    "entitlement"  : "",
-                },
-                 "sessionInfo"    : {
-                    "ev_sid"     : "58ffc624e4b07cee8f87f3ea",
-                    "ev_did"     : "",
-                    "ev_ss"      : "",
-                },
-                "exceededMeter"  : "0",
-                "pid"            : "",
-                "paywall_status" : "ALLOW_ACCESS"
-            };
-            </script>
-            <script type="text/javascript" id="evolok-debug">
-                if ( typeof EVOLOK === "undefined" ) {
-                    /* Default Object */
-                    var EVOLOK = {
-                        "activeMeter": { "metername": "", "max": "", "count": "", "viewed": "0", "abGroup": "", "abValue": ""  },
-                        "cnee": { "subscription": "", "entitlement": "" },
-                        "sessionInfo": { "ev_sid": "", "ev_did": "", "ev_ss": "" },
-                        "exceededMeter": "0",
-                        "pid": "",
-                        "paywall_status": "ALLOW_ACCESS"
-                    };
-                }
-
-                /* Quick and dirty cookie set */
-                if ( EVOLOK.sessionInfo.ev_sid !== "" ) {
-                    matchsid = document.cookie.match(new RegExp('ev_sid' + '=([^;]+)'));
-                    if ( matchsid === null || ( matchsid && ( matchsid[1] !== EVOLOK.sessionInfo.ev_sid ) ) ) {
-                        // Set the cookie, or replace an existing sid cookie that doesn't match the sid
-                        document.cookie = "ev_sid=" + EVOLOK.sessionInfo.ev_sid +";domain=.newyorker.com;path=/;max-age=" + ( 60*60*24*30 ); // 30 days
-                    }
-                }
-                if ( EVOLOK.sessionInfo.ev_did !== "" ) {
-                    matchdid = document.cookie.match(new RegExp('ev_did' + '=([^;]+)'));
-                    if ( matchdid === null || ( matchdid && ( matchdid[1] !== EVOLOK.sessionInfo.ev_did ) ) ) {
-                        // Set the cookie, or replace an existing did cookie that doesn't match the did
-                        document.cookie = "ev_did=" + EVOLOK.sessionInfo.ev_did +";domain=.newyorker.com;path=/;max-age=" + ( 60*60*24*30 ); // 30 days
-                    }
-                }
-
-                /* TNY object */
-                var TNY = TNY || {};
-                TNY.meterVar = {
-                    'meter_name'     : EVOLOK.activeMeter.metername || "",
-                    'meter_max'      : EVOLOK.activeMeter.max || "",           // Max articles to view
-                    'meter_count'    : EVOLOK.activeMeter.count || "",         // Articles viewed
-                    'meter_viewed'   : EVOLOK.activeMeter.viewed || "0",       // Previously viewed article - [ 'false' || 'true' ]
-                    'meter_ab_group' : EVOLOK.activeMeter.abGroup || "",
-                    'meter_ab_value' : EVOLOK.activeMeter.abValue || "",
-                    'subscription'   : EVOLOK.cnee.subscription || "false",    // User has a subscription [ Active || 'false' ]
-                    'entitlement'    : EVOLOK.cnee.entitlement || "false",          // comma-separated list of strings that were passed back by the CNEE auth API
-                    'loggedin'       : "false",
-                    'barrier_status' : "none",                                 // none || half || full
-                    'paywall_status' : EVOLOK.paywall_status || "ALLOW_ACCESS" // ALLOW_ACCESS || REQUIRE_LOGIN || REQUIRE_ENTITLEMENT
-                };
-
-                if ( ( TNY.meterVar.meter_count == ( (TNY.meterVar.meter_max/2)+1 ) ) ) {
-                    /* User has seen half */
-                    TNY.meterVar.barrier_status = 'half';
-
-                } else if ( TNY.meterVar.paywall_status !== 'ALLOW_ACCESS' ) {
-                    /* Full barrier time! */
-                    TNY.meterVar.barrier_status = 'full';
-                }
-
-                // Check for amg_user cookie
-                matchee_login = document.cookie.match(new RegExp('amg_user' + '=([^;]+)'))
-                if ( matchee_login != null && matchee_login[1] !== '' ) {
-                    TNY.meterVar.loggedin = 'true';
-                }
-
-                // Check for ee_status cookie
-                matchee_status = document.cookie.match(new RegExp('ee_status' + '=([^;]+)'));
-                if ( matchee_status != null && matchee_status[1] == 'true' ) {
-                    TNY.meterVar.subscription = 'Active';
-                }
-
-                // Check for ev_entitlements cookie
-                matchee_details = document.cookie.match(new RegExp('ev_entitlements' + '=([^;]+)'));
-                if ( matchee_details != null && matchee_details[1] != 'false' ) {
-                    TNY.meterVar.entitlement = JSON.parse( matchee_details[1] );
-                }
-
-                // Manage the localStorage variables that omniture uses for barrier tracking
-                if ( typeof localStorage !== undefined ) {
-                    // Meter Counting
-                    var current_meter = TNY.meterVar.meter_name;
-                    if ( TNY.meterVar.meter_count <= TNY.meterVar.meter_max && EVOLOK.exceededMeter !== '1' ) {
-                        // If user hasn't exceeded the meter, sync the meter_count and visitedCount.
-                        localStorage.setItem( "visitedCount_"+current_meter, TNY.meterVar.meter_count );
-                    } else {
-                        // Once the meter is exceeded start incrementing local storage from the current value
-                        visitedCount = localStorage.getItem( "visitedCount_"+current_meter );
-                        if ( TNY.meterVar.meter_viewed !== '1' ) {
-                            visitedCount++;
-                        }
-                        localStorage.setItem( "visitedCount_"+current_meter, visitedCount );
-                    }
-                }
-
-                /* Default to no barriers */
-                TNY.meterVar.isBarrierHalf = false;
-                TNY.meterVar.isBarrierFull = false;
-
-                if ( TNY.meterVar.meter_count === "" || TNY.meterVar.meter_max === "" ) {
-                    /* oh noes, default values */
-
-                } else if ( TNY.meterVar.meter_viewed === '1' || TNY.meterVar.subscription === 'Active' ) {
-                    /* Page was already viewed, or user has a subscription */
-
-                } else if ( TNY.meterVar.barrier_status === 'half' && TNY.meterVar.meter_viewed !== '1' ) {
-                    /* User has seen half */
-                    TNY.meterVar.isBarrierHalf = true;
-
-                } else if ( TNY.meterVar.barrier_status === 'full' && TNY.meterVar.meter_viewed !== '1' ) {
-                    /* Full barrier time! */
-                    TNY.meterVar.isBarrierFull = true;
-                }
-            </script>
-                		<!-- MINIFIED NO CACHE -->
-		<script>
-		!function(b,c,d){"use strict";var e=b.location.hostname,f=""!==b.location.port?":"+b.location.port:"",g=location.search.match(/CNS_SB=([^&\s]+)[&\s]?/)||[],h=e+f+"/cns"+(g.length?"-sandbox/"+g[1]:"")+"/services.min.js",i=d||"//"+h;b.cns=b.cns||{async:function(b,c){this.queue[b]||(this.queue[b]=[]),"function"==typeof c&&this.queue[b].push(c)},queue:{},embed:{backup:d}};var j;j=c.createElement("script"),j.async=!0,j.src=i,c.head.appendChild(j)}(window,document,null);
-		</script>
-	<script>
-		window.configCNS = {
-			env:'production',
-			channel: "magazine",
-			subchannel: "channel_culture"
-		}
-	</script>
-	<link rel="stylesheet" href="/wp-content/assets/dist/css/critical.min.css?v=20170425195131" />
-
-</head>
-<body class="article">
-
-<header class="hamburger-dropdowns-navigation__header-overrides js-main-nav-outer">
-	<nav class="hamburger-dropdowns-navigation js-main-nav">
-		<figure class="hamburger-dropdowns-navigation__hamburger-icon js-hamburger-icon">
-						<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-		</figure>
-				<div class="hamburger-dropdowns-navigation__horizontal-bar js-nav-bar">
-			<section class="hamburger-dropdowns-navigation__top-level">
-								<div class="hamburger-dropdowns-navigation__pseudo-hover-state js-pseudo-hover-state"></div>
-								<div class="hamburger-dropdowns-navigation__active-state js-active-state"></div>
-								<ul class="hamburger-dropdowns-navigation__meta-option-list">
-					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--sections js-expand-flyout js-meta-option">
-						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Sections</h3>
-					</li>
-					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--latest js-meta-option" data-activate-panel="latest">
-						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Latest</h3>
-					</li>
-					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--popular js-meta-option" data-activate-panel="popular">
-						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Popular</h3>
-					</li>
-					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--search js-meta-option" data-activate-panel="search">
-						<div class="icon"></div>
-						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Search</h3>
-					</li>
-					<li class="hamburger-dropdowns-navigation__meta-option--subscribe">
-						        <div id="AMS_NYR_MOBILE_NAVBAR"></div>					</li>
-				</ul>
-				<a href="/" class="hamburger-dropdowns-navigation__home-link" ><figure class="hamburger-dropdowns-navigation__tny-logo" ></figure></a>
-				<ul class="hamburger-dropdowns-navigation__misc-links">
-					<li class="hamburger-dropdowns-navigation__misc-link hamburger-dropdowns-navigation__misc-link--primary-signin js-user-actions" >
-						<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--signin js-user-sign-in" >Sign in</h5>
-						<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--account-signout js-user-account-and-sign-out" ><a href="#" class="js-user-account">My Account</a> <span class="pipe">|</span> <span class="js-user-signout">Sign Out</span></h5>
-					</li>
-					<li class="hamburger-dropdowns-navigation__misc-link">
-						<a target="_blank" href="http://www.condenaststore.com/~/new-yorker-store?utm_medium=referral&utm_source=NewYorker&utm_content=SHOP&AID=1247905545">
-							<h5 class="hamburger-dropdowns-navigation__misc-link-text">TNY Store</h5>
-						</a>
-					</li>
-					<li class="hamburger-dropdowns-navigation__misc-link hamburger-dropdowns-navigation__misc-link--cm-unit">
-						          <div id="ARTICLE_NAVBAR"></div>					</li>
-				</ul>
-			</section>
-			<section class="hamburger-dropdowns-navigation__secondary-level">
-				<ul class="hamburger-dropdowns-navigation__secondary-content">
-					<li class="hamburger-dropdowns-navigation__secondary-content-panel js-secondary-content-panel" data-panel-id="latest">
-						<div class="hamburger-dropdowns-navigation__secondary-content-inner" data-deferred-feed="latest">
-									<ol class="hamburger-dropdowns-navigation__article-list">
-			<li class="hamburger-dropdowns-navigation__article ">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Lizza-Trump-wall-1-320x240-1493154686.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/ryan-lizza/how-trump-gave-up-on-his-border-wall"><h6 class="hamburger-dropdowns-navigation__article-title">How Trump Gave Up On His Border Wall</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/ryan-lizza" title="Ryan Lizza" rel="author">Ryan Lizza</a></span></p>
-			</div>
-		</div>
-	</li>	<li class="hamburger-dropdowns-navigation__article ">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Davidson-What-Did-Trump-Just-Say-320x240-1493147183.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/amy-davidson/donald-trumps-unintelligible-presidency"><h6 class="hamburger-dropdowns-navigation__article-title">Donald Trump’s Unintelligible Presidency</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/amy-davidson" title="Amy Davidson" rel="author">Amy Davidson</a></span></p>
-			</div>
-		</div>
-	</li>	<li class="hamburger-dropdowns-navigation__article ">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Schulman-Not-Exactly-Golden-Tickets-320x240-1493136220.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/culture/culture-desk/not-exactly-golden-tickets-charlie-and-the-chocolate-factory-and-anastasia-on-broadway"><h6 class="hamburger-dropdowns-navigation__article-title">Not Exactly Golden Tickets: “Charlie and the Chocolate Factory” and “Anastasia” on Broadway</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/michael-schulman" title="Michael Schulman" rel="author">Michael Schulman</a></span></p>
-			</div>
-		</div>
-	</li>	<li class="hamburger-dropdowns-navigation__article ">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Larson-Norman-Lear-Podcaster-320x240-1493134518.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/culture/sarah-larson/norman-lear-podcaster"><h6 class="hamburger-dropdowns-navigation__article-title">Norman Lear, Podcaster</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/sarah-larson" title="Sarah Larson" rel="author">Sarah Larson</a></span></p>
-			</div>
-		</div>
-	</li>		</ol>
-								</div>
-					</li>
-					<li class="hamburger-dropdowns-navigation__secondary-content-panel js-secondary-content-panel" data-panel-id="popular">
-						<div class="hamburger-dropdowns-navigation__secondary-content-inner" data-deferred-feed="popular">
-									<ol class="hamburger-dropdowns-navigation__article-list">
-			<li class="hamburger-dropdowns-navigation__article post">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Borowitz-Obama-Complete-Sentences-320-240.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/humor/borowitz-report/obamas-barrage-of-complete-sentences-seen-as-brutal-attack-on-trump"><h6 class="hamburger-dropdowns-navigation__article-title">Obama’s Barrage of Complete Sentences Seen as Brutal Attack on Trump</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/andy-borowitz" title="Andy Borowitz" rel="author">Andy Borowitz</a></span></p>
-			</div>
-		</div>
-	</li>	<li class="hamburger-dropdowns-navigation__article post">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Lizza-Trump-wall-1-320x240-1493154686.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/ryan-lizza/how-trump-gave-up-on-his-border-wall"><h6 class="hamburger-dropdowns-navigation__article-title">How Trump Gave Up On His Border Wall</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/ryan-lizza" title="Ryan Lizza" rel="author">Ryan Lizza</a></span></p>
-			</div>
-		</div>
-	</li>	<li class="hamburger-dropdowns-navigation__article post">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Davidson-What-Did-Trump-Just-Say-320x240-1493147183.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/amy-davidson/donald-trumps-unintelligible-presidency"><h6 class="hamburger-dropdowns-navigation__article-title">Donald Trump’s Unintelligible Presidency</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/amy-davidson" title="Amy Davidson" rel="author">Amy Davidson</a></span></p>
-			</div>
-		</div>
-	</li>	<li class="hamburger-dropdowns-navigation__article post">
-		<div class="hamburger-dropdowns-navigation__article-container" >
-		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Burton-Finance-Bros-320x240-1493064739.jpg');'" ></figure>
-			<div class="hamburger-dropdowns-navigation__article-details">
-				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/humor/daily-shouts/things-i-learned-about-finance-bros-by-briefly-dating-a-finance-bro"><h6 class="hamburger-dropdowns-navigation__article-title">Things I Learned About Finance Bros by (Briefly) Dating a Finance Bro</h6></a>
-				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/tara-isabella-burton" title="Tara Isabella Burton" rel="author">Tara Isabella Burton</a></span></p>
-			</div>
-		</div>
-	</li>		</ol>
-								</div>
-					</li>
-					<li class="hamburger-dropdowns-navigation__secondary-content-panel hamburger-dropdowns-navigation__secondary-content-panel--search js-secondary-content-panel" data-panel-id="search">
-						<div class="hamburger-dropdowns-navigation__secondary-content-inner">
-							<form class="hamburger-dropdowns-navigation__search-form js-search-form" action="/search">
-								<input type="search" class="hamburger-dropdowns-navigation__search-input js-header-search-input" placeholder="Search The New Yorker" name="q" autocomplete="off"/>
-								<button type="submit" class="hamburger-dropdowns-navigation__search-submit">Go</button>
-							</form>
-						</div>
-					</li>
-				</ul>
-			</section>
-		</div>
-		<section class="hamburger-dropdowns-navigation__flyout-menu js-flyout-menu">
-			<div class="hamburger-dropdowns-navigation__misc-link--flyout js-user-actions">
-				<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--signin js-user-sign-in" >Sign in</h5>
-				<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--account-signout js-user-account-and-sign-out" ><a href="#" class="js-user-account">My Account</a> <span class="pipe">|</span> <span class="js-user-signout">Sign Out</span></h5>
-			</div>
-			<ul class="hamburger-dropdowns-navigation__flyout-link-list">
-				<!-- <li class="hamburger-dropdowns-navigation__misc-link hamburger-dropdowns-navigation__misc-link--flyout js-user-actions" >
-				</li> -->
-
-		    <li class="hamburger-dropdowns-navigation__flyout-link tny-nav-news menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/news">News</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-culture menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/culture">Culture</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-books menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  title="Books &#038; Fiction" href="http://www.newyorker.com/books">Books</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/business">Business & Tech</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-humor menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/humor">Humor</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/cartoons">Cartoons</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-magazine menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/magazine">Magazine</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://video.newyorker.com/">Video</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/podcast">Audio</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-archive menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/archive">Archive</a></h3></li>
-<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="/goings-on-about-town/">Goings On</a></h3></li>
-
-				<li class="hamburger-dropdowns-navigation__flyout-link hamburger-dropdowns-navigation__flyout-search">
-					<a href="/search" class="hamburger-dropdowns-navigation__flyout-search-icon"><h3 class="hamburger-dropdowns-navigation__flyout-link-text">Search</h3></a>
-				</li>
-			</ul>
-
-			<div class="hamburger-dropdowns-navigation__flyout-menu-cm-unit">
-				        <div id="ARTICLE_HAMBURGER"></div>			</div>
-
-		</section>
-		<div class="hamburger-dropdowns-navigation__no-clicky js-no-click"></div>
-	</nav>
-
-</header>
-
-
-			<div class="header-ad"></div>
-		<div class="header-fail"></div>
-	
-	<div data-jivox-ad-id="constellation-crown" data-constellation-id="crown"></div>
-	<script>
-		var TNY = TNY || {};
-		TNY.tags = ["article","Books","Fairness Doctrine","First Amendment","Free Speech","Guy Benson","Kirsten Powers","Mary Katharine Ham","Robin Thicke","","magazine","2015","08","10","the-hell-you-say"];
-	</script>
-	<div id="promotion-header"></div>
-	<div id="topBanner728x90_frame"></div>
-
-	<article class="two-column" data-details="{&quot;title&quot;:&quot;The Hell You Say&quot;,&quot;author&quot;:[28408,&quot;Kelefa Sanneh&quot;,&quot;http:\/\/www.newyorker.com\/contributors\/kelefa-sanneh&quot;],&quot;wordCount&quot;:4109,&quot;paragraphCount&quot;:29}" itemscope itemtype="http://schema.org/NewsArticle" itemid="http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say">
-				<meta itemprop="articleSection" content="Dept. of Disputation">
-				<meta name="pubdate" content="20150803">
-				<meta itemprop="mainEntityOfPage" content="http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say" />
-				<div itemprop="publisher" itemtype="http://schema.org/Organization" itemscope>
-			<meta itemprop="name" content="The New Yorker" >
-			<meta itemprop="url" content="http://www.newyorker.com" >
-			<div itemprop="logo" itemscope itemtype="http://schema.org/ImageObject" >
-								<meta itemprop="url" content="http://www.newyorker.com//wp-content/assets/dist/img/icon/ie-square310x310logo.png" />
-			</div>
-		</div>
-
-				 <meta itemProp="keywords" content="article,Books,Fairness Doctrine,First Amendment,Free Speech,Guy Benson,Kirsten Powers,Mary Katharine Ham,Robin Thicke,,magazine,2015,08,10,the-hell-you-say">
-
-
-
-		<div class="floatingAd-wrapper">          <div id="floatingAd" style="display:none;">
-            <div id="floatingAd_content">
-              <div id="AMS_NYR_POPUP_FLOATINGAD"></div>
-              <div id="floatingAd_header"><a href="javascript:void(0)" class="close">Close</a></div>
-            </div>
-          </div></div>
-	<header id="page" >
-		 				<hgroup id="masthead">
+				<nav>
+				
+<ul id="NavP" class="menu"><li class="category-big-government"><a href="http://www.breitbart.com/big-government/">Big Government</a></li><li class="category-big-journalism"><a href="http://www.breitbart.com/big-journalism/">Big Journalism</a></li><li class="category-big-hollywood"><a href="http://www.breitbart.com/big-hollywood/">Big Hollywood</a></li><li class="category-national-security"><a href="http://www.breitbart.com/national-security/">National Security</a></li><li class="category-tech"><a href="http://www.breitbart.com/tech/">Tech</a></li><li class="category-video"><a href="http://www.breitbart.com/video/">Video</a></li><li class="category-sports"><a href="http://www.breitbart.com/sports/">Sports</a></li><li class="post-type-archive-wire"><a href="http://www.breitbart.com/news/">The Wires</a></li></ul><!--NavP-3--><!--NavP-3-->
 
 				
-				<div class="rubric-and-issue-date">
-										<h4 class="rubric">
-						<a href="http://www.newyorker.com/magazine/dept-of-disputation" title="Dept. of Disputation">Dept. of Disputation</a>
-					</h4>
-																	<a class="issue-publish-date-link" href="http://www.newyorker.com/magazine/2015/08/10" title="Published in 2015-08-10">
-								<time class="issue" itemprop="datePublished" content="2015-08-03">August 10 &amp; 17, 2015 Issue</time>
-							</a>
-															<meta itemprop="dateModified" content="August 3, 2015" />
-				</div>
-				<h1 class="title" itemprop="headline">The Hell You Say</h1>
-		<h2 class="dek" itemprop="alternativeHeadline">The new battles over free speech are fierce, but who is censoring whom?</h2><div class="byline-and-date">
-<div style="background-image: url(http://www.newyorker.com/wp-content/uploads/2014/07/sanneh-kelefa.svg)" class="contributor-image" ></div><h3 class="contributors">By<span itemscope itemprop="author" itemtype="http://schema.org/Person"> <meta itemprop="url" content="http://www.newyorker.com/contributors/kelefa-sanneh" > <a href="http://www.newyorker.com/contributors/kelefa-sanneh" title="Kelefa Sanneh" rel="author" itemprop="url"><span itemprop="name">Kelefa Sanneh</span></a></span></h3></div>		</hgroup>
-	
-<div class="social-module js-social-module">
-	<ul class="options">
-				<li class="option facebook js-option-facebook">
-
-			
-			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say&display=popup&ref=plugin" target="_blank">
-				<!-- <div class="icon"> -->
-					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="156.5 249.1 295.7 296.3" enable-background="new 156.5 249.1 295.7 296.3" xml:space="preserve"><path id="White_2_" fill="#FFFFFF" d="M429.7,249.1H179.4c-9,0-22.9,13.9-22.9,22.9v250.3c0,9,13.9,22.9,22.9,22.9h135.3V430.5H276	V386h38.7v-32.9c0-38.3,23.5-59.3,57.7-59.3c16.4,0,30.3,1.3,34.5,1.6v39.9H383c-18.7,0-22.2,8.7-22.2,21.9V386h44.1l-5.8,44.8	h-38.7v114.7h68.9c9,0,22.9-13.9,22.9-22.9V272C452.9,263,438.7,249.1,429.7,249.1z"/></svg>				<!-- </div> -->
-			</a>
-		</li>
-
-		<li class="option twitter js-option-twitter">
-
-			
-			<a class="twitter" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say&text=The+Hell+You+Say&tw_p=tweetbutton&url=http://www.newyorker.com/magazine/2015/08/10/the-hell-you-say&via=newyorker" target="_blank">
-				<!-- <div class="icon"> -->
-					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="153 274.6 305.4 248.7" enable-background="new 153 274.6 305.4 248.7" xml:space="preserve"><g>	<path fill="#FFFFFF" d="M458.4,304.2c-11.3,4.8-23.2,8.4-36.1,10c12.9-7.7,22.9-20,27.7-34.8c-12.2,7.1-25.4,12.6-39.9,15.1		c-11.6-12.2-27.7-20-45.7-20c-34.8,0-62.8,28-62.8,62.8c0,4.8,0.6,9.7,1.6,14.2c-52.2-2.6-98.2-27.4-129.2-65.4		c-5.5,9.3-8.4,20-8.4,31.6c0,21.9,11,40.9,28,52.2c-10.3-0.3-20-3.2-28.3-7.7c0,0.3,0,0.6,0,0.6c0,30.3,21.6,55.7,50.2,61.5		c-5.2,1.3-11,2.3-16.4,2.3c-4.2,0-8.1-0.3-11.9-1c8.1,24.8,31.2,43.2,58.6,43.5c-21.6,16.7-48.6,26.7-77.9,26.7		c-5.2,0-10-0.3-14.8-1c27.7,17.7,60.9,28.3,96.3,28.3c115.3,0,178.4-95.7,178.4-178.4c0-2.6,0-5.5-0.3-8.1 C439.4,327.7,450,316.8,458.4,304.2L458.4,304.2z"/></g></svg>				<!-- </div> -->
-			</a>
-		</li>
-
-		<li class="option email js-option-email">
-
-			
-			<a class="email" href="mailto:?subject=From%20newyorker.com:%20The%20Hell%20You%20Say&amp;body=The%20Hell%20You%20Say%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2015%2F08%2F10%2Fthe-hell-you-say" target="_blank">
-				<!-- <div class="icon"> -->
-					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="156.2 305.2 297.9 193.6" enable-background="new 156.2 305.2 297.9 193.6" xml:space="preserve"><g>	<polygon fill="#FFFFFF" points="305,438.8 453.8,305.2 156.2,305.2 	"/>	<polygon fill="#FFFFFF" points="454.2,334.8 454.2,468.8 379.4,401.8 	"/>	<polygon fill="#FFFFFF" points="156.2,334.8 156.2,468.8 230.9,401.8 	"/>	<polygon fill="#FFFFFF" points="305,465.9 247.4,416.6 156.2,498.8 453.8,498.8 363,416.6 	"/></g></svg>				<!-- </div> -->
-			</a>
-		</li>
-
-		<li class="option print js-option-print">
-
-			
-			<a class="print" href="#" target="_blank">
-				<!-- <div class="icon"> -->
-					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="159.1 247.8 295 294.7" enable-background="new 159.1 247.8 295 294.7" xml:space="preserve"><g>	<path fill="#FFFFFF" d="M232.6,266.2h147.5v37h18.4v-37c0-10.3-8.4-18.4-18.4-18.4H232.6c-10.3,0-18.4,8.4-18.4,18.4v37h18.4V266.2		z"/>	<path fill="#FFFFFF" d="M435.8,321.6H177.5c-10.3,0-18.4,8.4-18.4,18.4v92.1c0,10.3,8.4,18.4,18.4,18.4h37v73.8		c0,10.3,8.4,18.4,18.4,18.4h147.5c10.3,0,18.4-8.4,18.4-18.4v-73.4h37c10.3,0,18.4-8.4,18.4-18.4V340		C454.2,330,445.8,321.6,435.8,321.6z M380.4,524.5H232.6V395.4h147.5v129.2H380.4z M417.1,377c-10.3,0-18.4-8.4-18.4-18.4		c0-10.3,8.4-18.4,18.4-18.4c10.3,0,18.4,8.4,18.4,18.4C435.8,368.6,427.4,377,417.1,377z"/>	<rect x="251.2" y="414" fill="#FFFFFF" width="73.8" height="18.4"/>	<rect x="251.2" y="450.8" fill="#FFFFFF" width="110.8" height="18.4"/>	<rect x="251.2" y="487.8" fill="#FFFFFF" width="110.8" height="18.4"/></g></svg>				<!-- </div> -->
-			</a>
-		</li>
+<ul id="NavS" class="menu"><li class="category-london"><a href="http://www.breitbart.com/london/">Breitbart London</a></li><li class="menu-breitbart-jerusalem"><a href="http://www.breitbart.com/jerusalem/">Breitbart Jerusalem</a></li><li class="category-texas"><a href="http://www.breitbart.com/texas/">Breitbart Texas</a></li><li class="category-california"><a href="http://www.breitbart.com/california/">Breitbart California</a></li><li class="bbstorelink"><a title="The Breitbart Store" target="_blank" href="https://store.breitbart.com/">STORE</a></li></ul><!--NavS-3--><!--NavS-3-->
 
 
-	</ul>
-		<div class="expand js-expand-contract">
-		<div class="container">
-			<svg class="icon ellipsis" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="156.2 363.5 297.9 81.2" enable-background="new 156.2 363.5 297.9 81.2" xml:space="preserve"><path fill="white" d="M414.9,363.5c-21.6,0-39.3,17.7-39.3,40.6s17.7,40.6,39.3,40.6c21.6,0,39.3-17.7,39.3-40.6	S436.5,363.5,414.9,363.5z M305.4,363.5c-21.6,0-39.3,17.7-39.3,40.6s17.7,40.6,39.3,40.6s39.3-17.7,39.3-40.6	S326.9,363.5,305.4,363.5z M195.5,363.5c-21.6,0-39.3,17.7-39.3,40.6s17.7,40.6,39.3,40.6s39.3-17.7,39.3-40.6	S217.4,363.5,195.5,363.5z"/></svg>
-			<svg class="icon close" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="164.5 248.2 278.5 296.8" enable-background="new 164.5 248.2 278.5 296.8" xml:space="preserve"><g>	<path fill="white" d="M303.7,445.6l90.2,92.4c9,9.3,14.8,9.3,24.2,0l18-18.7c9-9,9.3-15.1,0-24.8l-95.7-97.9l95.7-97.9		c9-9.3,9-15.5,0-24.8l-18-18.7c-9.3-9.7-15.1-9-24.2,0l-90.2,92.4l-90.2-92.4c-9-9-14.8-9.7-24.2,0l-18,18.7c-9,9.3-9,15.5,0,24.8		l95.7,97.9l-95.7,97.9c-9.3,9.7-9,15.8,0,24.8l18,18.7c9,9.3,15.1,9.3,24.2,0L303.7,445.6z"/></g></svg>
-		</div>
-	</div>
+				<ul id="HTuls"><li><a class="fb" href="https://www.facebook.com/Breitbart">Facebook</a></li><li><a class="tw" href="https://twitter.com/#!/BreitbartNews">Twitter</a></li><li><a class="rs" href="http://feeds.feedburner.com/breitbart">RSS</a></li></ul>
+				</nav>
+				<form class="search-form" method="get" action="/search/"><label for="searchiscq"></label><input type="text" placeholder="SEARCH" name="s" id="searchiscq" value="" /><input type="submit" value="search" /></form>
+			</div><!--HWI-->
+		</div><!--HWIC-->
+		<div class="ad if-mobile"><div id='mobile-ROS-header' style="display:none"></div></div>
+		<div id="HeadWB"></div>
+	</div><!--HeadW-->
+	</header>
+	<div id="ContentW" class="site-content">
+		
+<div id="BBStoreW">
+	<a id="bb_shop_now" href="https://store.breitbart.com/" rel="nofollow" title="SHOP NOW" target="_blank"></a>
+	<span id="bb_store_toggle"></span>
 </div>
-		</header>
+		<div id="ContainerW">
+			<div id="fb-root"></div>
+<div id="MainW">
+			<article id="post-6067182" class="the-article post-6067182 post type-post has-post-thumbnail category-milo category-social-justice category-tech"  itemscope itemtype="http://schema.org/BlogPosting">
+			<header class="articleheader">
+				<h1 itemprop="headline">The Night Berkeley Betrayed The Free Speech Movement</h1>
+				<div id="bbvb" title="http://www.breitbart.com/milo/2017/02/01/milo-true-heir-berkeley-free-speech-movement/"><div class="addthis_toolbox addthis_default_style"><div class="adhold5 adh1"><a class="addthis_button_facebook" target="_blank" title="Share this page on Facebook" href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fwww.breitbart.com%2Fmilo%2F2017%2F02%2F01%2Fmilo-true-heir-berkeley-free-speech-movement%2F&amp;pubid=ra-536db77a775cf072&amp;text=The+Night+Berkeley+Betrayed+The+Free+Speech+Movement" rel="nofollow"></a></div><div class="adhold5 adh2"><a class="addthis_button_email" rel="nofollow"></a></div><div class="adhold5 adh3"><a class="addthis_button_google_plusone_share" target="_blank" title="Share Google+" href="http://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=http%3A%2F%2Fwww.breitbart.com%2Fmilo%2F2017%2F02%2F01%2Fmilo-true-heir-berkeley-free-speech-movement%2F&amp;pubid=ra-536db77a775cf072&amp;text=The+Night+Berkeley+Betrayed+The+Free+Speech+Movement" rel="nofollow"></a></div><div class="adhold6 adh4"><a class="addthis_button_twitter" target="_blank" tw:count="none" title="Share on twitter" href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fwww.breitbart.com%2Fmilo%2F2017%2F02%2F01%2Fmilo-true-heir-berkeley-free-speech-movement%2F&amp;pubid=ra-536db77a775cf072&amp;text=The+Night+Berkeley+Betrayed+The+Free+Speech+Movement&amp;shortener=bitly" rel="nofollow"></a></div></div></div><!--bbvb-->				<figure class="figurearticlefeatured">
+				<div class="featured-container"><img itemprop="image" width="640" height="480" src="http://media.breitbart.com/media/2017/02/C3okajKWcAI4C__-Cropped-640x480.jpg" class="attachment-isc-bbn-full size-isc-bbn-full wp-post-image" alt="" /><div class="attribution"><a rel="nofollow" href="https://twitter.com/wbtradio/status/827013521930145792">Twitter / @WBTRadio</a></div></div>				</figure>
+				<p class="byline"><span class="by-author"><span class="by">by</span> <a class="byauthor" href="/author/tomciccotta/">Tom Ciccotta</a></span><span class="bydate">1 Feb 2017</span><a rel="nofollow" class="bycount" href="http://www.breitbart.com/milo/2017/02/01/milo-true-heir-berkeley-free-speech-movement/#disqus_thread" data-dsqi="6067182" >0</a></p>				<time class="op-published H" datetime="2017-02-01T21:12:15Z">1 Feb, 2017</time>
+				<time class="op-modified H" datetime="2017-02-03T07:29:38Z">3 Feb, 2017</time>
+			</header>
+			<div class="entry-content">
+					<div class="ndn_embed" id="inform-player-1" data-config-distributor-id="90085" style="width:100%" data-config-height="9/16w" data-config-pb="6" data-config-float="bottom right"></div>
+	<script type="text/javascript">var _ndnq=_ndnq||[];_ndnq.push(["embed"]);</script>
+					<div class="desktop" id="iscembox"><p class="sh2"><span>SIGN UP</span> FOR OUR NEWSLETTER</p><div class="gform_wrapper"><a name="gf_1" class="gform_anchor"></a><form method="post" action="/newsletter-signup/"><div class="gform_body"><ul class="gform_fields top_label description_below"><li class="gfield"><input name="input_1" type="text" value="" placeholder="email address" /></li></ul><input type="submit" value="Submit" onclick="if(window['gf_submitting_1']){return false;} window['gf_submitting_1']=true;" /></div><div class="H"><input type="hidden" name="is_submit_1" value="1" /><input type="hidden" name="gform_submit" value="1" /><input type="hidden" name="gform_target_page_number_1" value="0" /><input type="hidden" name="gform_source_page_number_1" value="1" /></div></form></div></div><h2>On Wednesday night, fires blazed across the University of California, Berkeley campus, the site of the student <a href="https://en.wikipedia.org/wiki/Free_Speech_Movement">Free Speech Movement of the 1960s,</a> as protesters <a href="http://www.breitbart.com/milo/2017/02/01/protesters-gather-uc-berkeley-milo-show-police-helicopters-appear/">violently derailed the finale of MILO&#8217;s college lecture tour.</a></h2>
+<p>In 1964, Berkeley student Mario Savio addressed his peers in a speech about the importance of the free and open discussion on college campuses. In his address, Savio argued that the university must return to it&#8217;s intended function where students are invited to explore all ideas &#8211; both radical and mainstream &#8211; freely and without fear of social or academic repercussion.</p><div style="display:none; position: relative;" class="ad fbaud adinbody if-mobile">
+	<iframe style="display:none;"></iframe>
+	<script type="text/javascript">
+	if ( isc_is_mobile ) {
+		var data = {
+			placementid: '1243316582352556_1906884935995714',
+			format: 'fullwidth',
+			testmode: false,
+			onAdLoaded: function(element) {
+				console.log('Audience Network [1243316582352556_1906884935995714] ad loaded');
+				element.style.display = 'block';
+			},
+			onAdError: function(errorCode, errorMessage) {
+				console.log('Audience Network [1243316582352556_1906884935995714] error (' + errorCode + ') ' + errorMessage);
+				// PASSBACK goes here
+			}
+		};
+
+		(function(w,l,d,t){var a=t();var b=d.currentScript||(function(){var c=d.getElementsByTagName('script');return c[c.length-1];})();var e=b.parentElement;e.dataset.placementid=data.placementid;var f=function(v){try{return v.document.referrer;}catch(e){}return'';};var g=function(h){var i=h.indexOf('/',h.indexOf('://')+3);if(i===-1){return h;}return h.substring(0,i);};var j=[l.href];var k=false;var m=false;if(w!==w.parent){var n;var o=w;while(o!==n){var h;try{m=m||(o.$sf&&o.$sf.ext);h=o.location.href;}catch(e){k=true;}j.push(h||f(n));n=o;o=o.parent;}}var p=l.ancestorOrigins;if(p){if(p.length>0){data.domain=p[p.length-1];}else{data.domain=g(j[j.length-1]);}}data.url=j[j.length-1];data.channel=g(j[0]);data.width=screen.width;data.height=screen.height;data.pixelratio=w.devicePixelRatio;data.placementindex=w.ADNW&&w.ADNW.Ads?w.ADNW.Ads.length:0;data.crossdomain=k;data.safeframe=!!m;var q={};q.iframe=e.firstElementChild;var r='https://www.facebook.com/audiencenetwork/web/?sdk=5.3';for(var s in data){q[s]=data[s];if(typeof(data[s])!=='function'){r+='&'+s+'='+encodeURIComponent(data[s]);}}q.iframe.src=r;q.tagJsInitTime=a;q.rootElement=e;q.events=[];w.addEventListener('message',function(u){if(u.source!==q.iframe.contentWindow){return;}u.data.receivedTimestamp=t();if(this.sdkEventHandler){this.sdkEventHandler(u.data);}else{this.events.push(u.data);}}.bind(q),false);q.tagJsIframeAppendedTime=t();w.ADNW=w.ADNW||{};w.ADNW.Ads=w.ADNW.Ads||[];w.ADNW.Ads.push(q);w.ADNW.init&&w.ADNW.init(q);})(window,location,document,Date.now||function(){return+new Date;});
+	}
+	</script>
+	<script type="text/javascript" src="https://connect.facebook.net/en_US/fbadnw.js" async defer></script>
+</div>
+
+<blockquote>
+<div class="caption-line-text">
+<p>It&#8217;s been said, that&#8230; you know&#8230; we&#8217;ve been revolutionaries, and all this sort of thing&#8230; uh&#8230; in a way that&#8217;s true. We&#8217;ve gone back to a traditional view of the university. The traditional view of the university is a community of scholars&#8230; of faculty and students&#8230; get together who&#8230; um&#8230; you know, with complete honesty&#8230; who bring the hard light of free inquiry to bear&#8230; upon important matters in the sciences&#8230; but also in the social sciences&#8230; the question of just what ought to be&#8230; not just&#8230; what is.</p>
+</div>
+</blockquote>
+<p><iframe width="990" height="557" src="https://www.youtube.com/embed/hlYk-WoBEEg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Before discovering the work that the Berkeley free speech activists did under Savio in the 1960s, MILO inspired me to write <a href="http://www.breitbart.com/tech/2016/02/29/my-fellow-students-its-time-to-challenge-our-lazy-politically-homogeneous-teachers/">a manifesto</a> for college students who, in 2016, desired a similar return to form for American universities. Interestingly, a lot of the language in my manifesto echoed the sentiment offered by Savio over 50 years ago.</p>
+
+<div class="ad adinbody if-mobile"><div class="inbodyad" id="mobile-ROS-body1"></div></div>
+
+
+<p>Savio directly called for a return to the university&#8217;s original function; a place where scholars of all political persuasions can come together and participate in free inquiry. In my early 2016 rally cry to my conservative and libertarian peers, I argued for something very similar.</p>
+<blockquote><p>The tides are changing on the American college campus. Authoritarian administrators and faculty members and pearl-clutching campus social justice warriors are finally being challenged by a new brand of radicals poised to reclaim the American university and return it to its original function and purpose: expanding young minds.</p></blockquote>
+<p>When I first learned about Savio, I felt an instant connection to him. Aside from being 22-year-old champions of free speech and intellectual freedom on our campuses, Savio and I are both of Sicilian-American ancestry. We also both put in time as altar servers at our local Catholic churches. Despite our similarities, Savio and I diverge when it comes to personal politics &#8212; except when it comes to free speech.</p>
+<p>Savio joined the socialist party as a symbolic rejection of the two-party system that dominated the politics of not only the country but also the University of California in the 1960s. But despite our ideological differences, Savio and I sought something very similar for our campuses &#8211; the return of the university to a place where students and faculty of all political persuasions are encouraged and feel welcome in expressing themselves without fear of social or academic repercussion.</p>
+
+<div class="ad adinbody if-mobile"><div class="inbodyad" id="mobile-ROS-body2"></div></div>
+
+
+<p><iframe width="990" height="557" src="https://www.youtube.com/embed/XImz4b2KtAw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Tonight, fires blazed across the same parts of the University of California, Berkeley campus from which Savio once addressed his fellow students. Attendees were attacked and left bleeding by mask-wearing thugs. Windows were smashed. A girl was pepper-sprayed.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Antifa are out of control attacking people and setting off fires. <a href="https://t.co/3s3swrYSzf">pic.twitter.com/3s3swrYSzf</a></p>
+<p>&mdash; Just Call Me Mister (@MisterMetokur) <a href="https://twitter.com/MisterMetokur/status/826981145762025472">February 2, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8" defer></script></p>
+
+<div class="ad adinbody if-mobile"><div class="inbodyad" id="mobile-ROS-body3"></div></div>
+
+
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">My friend was giving an interview when some coward peppersprayed her <a href="https://twitter.com/hashtag/Berkeley?src=hash">#Berkeley</a> <a href="https://t.co/CDpEqDsw2A">pic.twitter.com/CDpEqDsw2A</a></p>
+<p>&mdash; janey (@janeygak) <a href="https://twitter.com/janeygak/status/826998516144697344">February 2, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8" defer></script></p>
+<p>By responding to MILO&#8217;s call for &#8220;no restrictions on the content of speech&#8221; as Savio did so many years ago with riots and violence, the Berkeley socialists of 2017 that participated in the riots have betrayed the efforts of those that came before them.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Tree is now on fire at UC Berkeley <a href="https://twitter.com/hashtag/MiloAtCal?src=hash">#MiloAtCal</a> <a href="https://twitter.com/hashtag/UCBerkeley?src=hash">#UCBerkeley</a>. People keep shouting &quot;it&#39;s lit!&quot; <a href="https://t.co/ypgu6D3T4t">pic.twitter.com/ypgu6D3T4t</a></p>
+<p>&mdash; Gillian Edevane (@GillianNBC) <a href="https://twitter.com/GillianNBC/status/826982753879019520">February 2, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8" defer></script></p>
+<p>Tonight, Fox 10 Phoenix anchor John Hook, during a live broadcast of the Berkeley riots, argued that &#8220;MILO made his point without saying a word.&#8221;</p>
+<p>Now more than ever, we need to listen to Savio&#8217;s impassioned plea for a return to a university that values a diversity of perspectives, keeping in mind that, tonight, some of the students who follow in the tradition of socialistic activism at UC Berkeley burned the ground on which he once spoke in the demand that the university censor speech that they found objectionable.</p>
+<p>Tonight, Berkeley betrayed the free speech movement for which the institution is famous. The university has much work to do if it is to protect the legacy of Mario Savio and reclaim the values espoused by the Free Speech Movement of some 50 years ago.</p>
+<p>For the rioters, engaging with MILO&#8217;s call for open discussion and intellectual freedom on college campuses wouldn&#8217;t be a bad start.</p>
+<p><em>Tom Ciccotta is a libertarian who writes about social justice and libertarian issues for Breitbart News. You can follow him on Twitter <a class="" href="http://twitter.com/tciccotta" target="_blank" rel="noopener">@tciccotta</a> or email him at tciccotta@breitbart.com</em></p>
+			</div>
+			<footer class="articlefooter">
+						<aside>
+		<h3>Read More Stories About:</h3>
+		<p><a href="/milo/">Milo</a>, <a href="/social-justice/">Social Justice</a>, <a href="/tech/">Tech</a>, <a href="/tag/college-campuses/">College Campuses</a>, <a href="/tag/dangerous-faggot-tour/">Dangerous Faggot Tour</a>, <a href="/tag/free-speech/">free speech</a>, <a href="/tag/uc-berkeley/">UC Berkeley</a></p>
+		</aside>
+						<div id="iscbbshar"><div class="addthis_toolbox addthis_default_style"><a class="addthis_button_twitter" target="_blank" tw:count="none" title="Share on twitter" href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fwww.breitbart.com%2Fmilo%2F2017%2F02%2F01%2Fmilo-true-heir-berkeley-free-speech-movement%2F&amp;pubid=ra-536db77a775cf072&amp;text=The+Night+Berkeley+Betrayed+The+Free+Speech+Movement&amp;shortener=bitly" rel="nofollow"><span class="bbbtmspan"></span></a><a class="addthis_button_facebook" target="_blank" title="Share this page on Facebook" href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fwww.breitbart.com%2Fmilo%2F2017%2F02%2F01%2Fmilo-true-heir-berkeley-free-speech-movement%2F&amp;pubid=ra-536db77a775cf072&amp;text=The+Night+Berkeley+Betrayed+The+Free+Speech+Movement" rel="nofollow"><span class="bbbtmspan"></span></a></div></div><!--iscbbshar-->			</footer>
+		</article>
+
+		<div id='taboola-bottom-main-column-mix'></div>
 
 		
-		<div id="content" >
-			<div itemprop="articleBody" class="articleBody" id="articleBody">
-			<figure id="featured-item" class="main_column featured vertical attachment-medium img-expandable portrait">
-		<a class="image" title="View larger" href="http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-876.jpg"><img src="http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-320.jpg" class="vertical attachment-medium img-expandable portrait lazyload" alt="Free speech really can be harmful, and its defenders should be willing to say so." itemprop="image" srcset="http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-320.jpg 320w, http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-690.jpg 690w, http://www.newyorker.com/wp-content/uploads/2015/08/150810_r26835-876.jpg 876w" sizes="(max-width: 320px) 100vw, 320px" data-id="3084723" data-ratio="0.731" /></a>			<figcaption class="caption" >
-			<span class="caption-text">Free speech really can be harmful, and its defenders should be willing to say so.</span><span class="credit" title="Illustration by Post Typography"><span class="hideFromView">Credit</span>Illustration by Post Typography</span>			</figcaption>
-				</figure>
-	<!-- Barrier Status: 'none' --><a class="tny-slot" name="/2" data-total-words="0"></a><a class="tny-page" name="/1" data-total-words="0"></a><p class="descender" word_count="56" data-wc="56">Fitzgerald’s is an Irish pub in Chapel Hill, near the campus of the University of North Carolina, that counts among its attractions cheap burgers, flip-cup tournaments, and jolly music. One night last year, the soundtrack included “Blurred Lines,” the 2013 Robin Thicke hit, in which a night-club Lothario delivers a breathy proposition to a “good girl”:</p> <blockquote><p word_count="5" data-wc="5">I hate these blurred lines</p><div class="content-ad-wrapper first"><div class="advertisement" data-ismobile="true" data-name="yrailTop" data-sz="320x251" data-kw="topBox"><div id="yrailTop320x251_frame" class="displayAd displayAd320x251Js" data-cb-ad-id="yrailTop320x251_frame"></div></div><div class="advertisement" data-ismobile="false" data-name="yrailTop" data-sz="300x250" data-kw="topBox"><div id="yrailTop300x250_frame" class="displayAd displayAd300x250Js" data-cb-ad-id="yrailTop300x250_frame"></div></div></div> <p word_count="5" data-wc="5">I know you want it</p> <p word_count="5" data-wc="5">I know you want it</p> <p word_count="5" data-wc="5">I know you want it</p> </blockquote> <p class="no-indent" word_count="102" data-wc="102">A patron stepped into the d.j. booth to ask that the song be cut short—she later explained that she wanted to “create a safe space,” and that Thicke’s lyrics evoked threats of sexual violence. The d.j. rebuffed her, and in the days that followed she and her allies took to social media to voice their dissatisfaction, suggesting that the pub was promoting “rape culture.” Before long, Fitzgerald’s conceded defeat, apologizing to the patron on Facebook and promising that “Blurred Lines” would not be played there again and that the offending d.j. would never be invited back.</p> <p word_count="169" data-wc="169">This was a small story, but something about it resonated: an account in the student paper, the <em>Daily Tar Heel</em>, was picked up by an irreverent site called Barstool Sports, which expressed its certainty that the complaining student was a “crazy ass feminist” who hated fun, and then by Yahoo News. The same month, Brendan Eich, the C.E.O. of the software company Mozilla, was forced to resign after critics discovered that he had donated a thousand dollars to supporters of Proposition 8, a 2008 ballot initiative to ban same-sex marriage in California. And when Dan Cathy, the president of the fast-food chain Chick-fil-A, voiced his own opposition to same-sex marriage, in 2012, two big-city mayors—Rahm Emanuel, in Chicago, and Thomas Menino, in Boston—suggested that new Chick-fil-A restaurants would be unwelcome in their cities. Both later clarified that they would not block any of the company’s expansion plans. But the episode was further evidence, for those collecting it, that American free speech was being muffled by soft censorship.</p> <p word_count="189" data-wc="189">“Is this the type of country we want to live in?” That is the question posed by Mary Katharine Ham and Guy Benson, a pair of waggish conservative commentators, as they ponder the fate of the d.j. who got fired for playing “Blurred Lines.” They are the authors of a new book titled “End of Discussion: How the Left’s Outrage Industry Shuts Down Debate, Manipulates Voters, and Makes America Less Free (and Fun).” They argue that what might seem like hypersensitivity is actually a form of political combat. Borrowing from the language of soccer, they write, “America is turning into a country of floppers, figuratively grabbing our shins in fabricated agony over every little possible offense in hopes of working the refs.” Kirsten Powers, a liberal—though a heterodox one—and a Fox News pundit, delivers an even starker verdict in “The Silencing: How the Left Is Killing Free Speech.” She detects, among those she might once have considered ideological allies, “an aggressive, illiberal impulse to silence people,” which often takes the form of meta-intolerance—that is, intolerance of any view that is judged to be intolerant.</p> <p word_count="119" data-wc="119">Half a century ago, the defense of free speech was closely identified with groups like the Free Speech Movement, a confederation of activists who came together at the University of California, Berkeley, after a student was arrested for setting up a table of civil-rights literature, in defiance of anti-solicitation rules. Defending free speech meant defending Lenny Bruce and Abbie Hoffman, and, later, Larry Flynt, Robert Mapplethorpe, and the 2 Live Crew. In a 1990 public-service announcement, Madonna, wearing red lingerie and an American flag, delivered a civics lesson, in verse: “Dr. King, Malcolm X / Freedom of speech is as good as sex.” She was urging young people to vote, in partnership with Rock the Vote, whose slogan was “Censorship is Un-American.”</p> <p word_count="199" data-wc="199">But as the nineteen-nineties progressed, fights over obscenity subsided and fights over so-called political correctness intensified; “free speech” became a different kind of rallying cry, especially on college campuses. Often, “free speech” meant not the right to protest a war but the right to push back against campus restrictions designed to shield marginalized groups from, say, “racial and ethnic harassment”—that was the term used by Central Michigan University, in its speech code, which banned “demeaning” expressions. The campus speech wars have since grown broader but vaguer, and many prominent recent incidents, like the “Blurred Lines” dispute, don’t involve legal claims. Instead, there are open letters and social-media campaigns, rescinded invitations and cancelled events. Young people who might, a generation earlier, have sided with the 2 Live Crew now ask to be delivered from Robin Thicke. Powers, in her book, accuses fellow-liberals of having switched sides. “Liberals are supposed to believe in diversity, which should include diversity of thought and belief,” she writes. This is a rather paradoxical formulation. (Is it possible to believe in diversity of belief?) But then the current free-speech debate is rather paradoxical, too—it can be hard to tell the speakers from the censors.</p> <a class="tny-slot" name="/3" data-total-words="854"></a><a class="tny-page" name="/2" data-total-words="854"></a><p class="descender" word_count="178" data-wc="178">The freedom of speech promised by the First Amendment has fluctuating limits—in general, elected politicians want more, and unelected ones (that is, judges) want fewer. In 1919, the Supreme Court ruled that speech could be regulated only if it presented “a clear and present danger,” and then, more narrowly, in 1969, only if it was likely to incite “imminent lawless action.” Each of these cases concerned a political protest: a socialist anti-conscription flyer, in the first, and a speech by a Klansman, in the second. Courts have generally allowed exceptions only for “content-neutral” regulations that restrict how people may speak, not what they can say. When private business or government funding is involved, the legal lines are more tangled. For decades, the Federal Communications Commission attempted to insure balanced news coverage with its fairness doctrine, which compelled broadcasters to present “discussion of conflicting views of public importance.” And when disputes arise on campus, courts typically distinguish between public institutions, which are bound by the First Amendment, and private ones, which may retain stronger rights to set their own rules.</p> <p word_count="193" data-wc="193">For many modern free-speech advocates, the First Amendment is irrelevant: their main target is not repressive laws but shifting norms and values. In “End of Discussion,” Ham and Benson argue that the real problem is the politicization of everyday life. “Grievance mongering, apology demanding, and scalp collecting are modeled at the national level by ruthless professionals,” they write, “then replicated straight on down the line.” In their view, the effect of all this complaining is “an insidious strain of self-censorship” among regular folks. Ham and Benson have the requisite stories to tell, including a picturesque episode involving a Minnesota university that arranged to bring a camel to campus, as a stress-relief treatment, only to cancel the appearance after protests; one student explained online that “camels are associated with stereotypes that reinforce harmful Western (read: white) perceptions of Arab people.” What Ham and Benson want is to reënergize “the rich American tradition of a loud, raucous, messy, free speech free-for-all,” complete with camels and lecherous pop songs. It is this vision of how we should speak to one another—and not an abstract belief in the right to speak—that animates their book.</p> <p word_count="135" data-wc="135">Ham and Benson, conservatives striving to be evenhanded, describe hostility to free speech as a sickness to which both conservatives and liberals are susceptible, even though, in their judgment, conservatives have a stronger immune system. Powers, revelling in her status as a liberal speaking truth to the liberal powers that be, makes a more partisan case, and in some ways a more convincing one. She is battling an underlying ideology, one essential to modern liberalism: a belief that we have an urgent duty not merely to fight discrimination but to signal our disapproval of those who support it. Her examples include Voice for Life, a pro-life group that was initially denied recognition by the student government of Johns Hopkins University, partly out of concern that its “sidewalk counselling” sessions could be considered harassment of women.</p> <p word_count="326" data-wc="326">Like Ham and Benson, Powers struggles to find worthy sparring partners. There is no advocacy group or high-profile politician avowedly devoted to the cause of cracking down on political speech, no national spokesperson for the war on camels. So the authors are forced to argue with evanescent Facebook groups or obscure junior faculty members or young people who had the misfortune to be quoted in the college newspaper. No doubt many liberals have grown increasingly sensitive to the uses and abuses of language. This might be a consequence of previously marginalized groups demanding respect, or it might have something to do with technological change, as the atomized Internet age gives way to the non-stop commentary of the social-media age. And it may be the case that this focus on language will prove, in the long run, unhelpful to the progressive movement. But it is hard to see how, as Powers argues, “the left is killing free speech” merely by paying too much attention to it. Last month, speaking about criminal-justice reform, President Obama issued twin exhortations. “We should not be tolerating rape in prison,” he said. “And we shouldn’t be making jokes about it in our popular culture.” To someone like Powers, this might have sounded faintly oppressive: the President telling citizens what jokes not to tell. Yet our discourse is shaped by innumerable taboos. (Just think of all the things one shouldn’t say about members of the military.) Certainly, some new taboos are emerging, even as some older ones fade away, but no one with Internet access will find it easy to claim that, in general, our speech is more inhibited than it used to be. Taboos discourage some speech, but the system of taboos is also maintained through speech. If you say the unsayable, you might well be shamed—and that shaming can have consequences—but you will not be arrested. Mostly, what inhibits speech is the fear of being spoken about.</p> <a class="tny-slot" name="/4" data-total-words="1686"></a><p class="descender" word_count="191" data-wc="191">Earlier this year, Powers took part in a debate over the proposition that “liberals are stifling intellectual diversity on campus.” One of the people on the other side was Angus Johnston, a historian of student activism. He cited the case of Robert J. Birgeneau, the former chancellor of the University of California, Berkeley, who was invited to deliver the commencement address at Haverford College last year, but declined in the face of protests; students had demanded that he apologize for the actions of U.C.B. police officers who arrested seven students during a 2011 demonstration. Powers considers Birgeneau the victim of a “campaign of intolerance,” but Johnston sees him as a perpetrator. “Birgeneau, an administrator who presided over the <em>beating and arrest</em> of student protesters, is portrayed as a free-speech martyr,” he said. “The students who just wanted to talk to him about that are portrayed as his oppressors.” Johnston conceded that “stifling” was worrisome, but insisted that the true culprits were administrators—liberal, perhaps, in political outlook, but motivated merely by “opposition to disruptiveness and clamor.” These days, just about everyone claims to be on the side of free speech.</p> <a class="tny-page" name="/3" data-total-words="1877"></a><p word_count="136" data-wc="136">Two decades ago, the argument was more even. On one side were conservative advocates like Dinesh D’Souza, who, in his 1991 best-seller “Illiberal Education,” denounced what he called “the new censorship.” On the other side were liberal scholars willing to question both the cultural norms and the legal traditions underlying free-speech claims. In 1993, the legal scholar Cass Sunstein published “Democracy and the Problem of Free Speech,” which argued that the First Amendment was meant to protect “democratic deliberation.” With that goal in mind, he wrote, the government might justifiably act to promote healthy debate, as the F.C.C. did with its fairness doctrine, or to ban corrosive and nonpolitical speech, such as violent pornography. The so-called marketplace of ideas was, just like any other market, imperfect, and could similarly be improved by careful government intervention.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="a19231"><a href="http://www.newyorker.com/cartoons/a19231" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2015/08/150810_a19231-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2015/08/150810_a19231-690.jpg"></a><figcaption><span class="caption">“How regularly would you say you ride off into the sunset?”</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/a19231&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/a19231&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/a19231&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fa19231" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="166" data-wc="166">Stanley Fish, the literary scholar, had even more fundamental objections to free-speech rhetoric. His mischievous contribution to the debate, published the next year, was “There’s No Such Thing as Free Speech: And It’s a Good Thing, Too,” which argued that free expression was no one’s “primary value.” On college campuses, for instance, the core educational mission routinely trumps students’ rights to express themselves. (Rules against plagiarism and disruptive behavior are both, in a sense, campus speech regulations.) Free speech, in Fish’s unsentimental account, was a “political prize,” a tag awarded by politically powerful groups to whatever forms of expression they approved of. And since all meaningful speech existed within a community, where it was shaped by what he called “productive constraint,” alarmist warnings about creeping political correctness were absurd. The question of whether to regulate so-called “hate speech” was “no more or less difficult than the question of whether spectators at a trial can applaud or boo the statements of opposing counsels.”</p> <p word_count="135" data-wc="135">In the years since, restrictive campus speech codes have been widely repealed, which is why modern free-speech advocates are often left to battle less draconian forms of censorship, like cancelled commencement addresses. Sunstein’s and Fish’s books now seem radical—but only in America, which is virtually the only place in the world that takes such an expansive view of free speech. (The U.S. is one of a handful of countries that refuse to honor a United Nations convention calling for laws against “dissemination of ideas based on racial superiority or hatred.”) In this respect, the First Amendment has something in common with the Second Amendment, which secures the right to “keep and bear arms”: both are unusually broad legal guarantees that mark a difference between America and the rest of the world.</p> <p word_count="129" data-wc="129">Perhaps it is no coincidence that one of the most influential free-speech skeptics in America today is an immigrant. Jeremy Waldron is a law professor from New Zealand who teaches at New York University. In 2012, he published “The Harm in Hate Speech,” a powerful little book that seeks to dismantle familiar defenses of the right to indefensible speech. Waldron is unimpressed by the “liberal bravado” of free-speech advocates who say, “I hate what you say but I will defend to the death your right to say it.” In his view, the people who say this rarely feel threatened by the speech they say they hate. Unfettered political expression came to seem like a bedrock American value only in the twentieth century, when the government no longer feared radical pamphleteers.</p> <a class="tny-slot" name="/5" data-total-words="2443"></a><p word_count="205" data-wc="205">This, in essence, was Justice Holmes’s rationale, in 1919, when he argued in an influential dissent that antiwar anarchists should be free to agitate. “Nobody can suppose that the surreptitious publishing of a silly leaflet by an unknown man, without more, would present any immediate danger,” he wrote. Free-speech advocates typically claim that the value of unfettered expression outweighs any harm it might cause, offering assurances that any such harm will be minimal. But what makes them so sure? America’s free-speech regime is shot through with exceptions, including civil (and, in some states, criminal) laws against libel. By what rationale do we insist that groups—races, communities of faith—don’t deserve similar protection? Waldron uses the term “hate speech” in a particular sense, to denote not speech that expresses hatred but speech likely to inspire it. If we want a society that recognizes the dignity of marginalized groups, he argues, then we should be willing to enact “laws that prohibit the mobilization of social forces to exclude them.” This would involve carving out an exception to the First Amendment. But there are plenty of exceptions already, and taken together they form a rough portrait of what we value and what we don’t.</p> <p word_count="110" data-wc="110">Many free-speech arguments turn on a deceptively simple question: what is speech? It’s clear that the protected category excludes all sorts of statements. (The First Amendment will be of no use to someone who writes a fraudulent contract, or who says, “Hand over your wallet and iPhone,” and means it.) But judges have also agreed that some forms of speech are more important than others, and therefore more protected. They sometimes talk about “expressive conduct,” which can seem like another way of saying “useless speech”: utterances that do little more than disclose a point of view. When speech serves a clear purpose, we tend to call it something else.</p> <p word_count="207" data-wc="207">One example is political advertising; its apparent efficacy is precisely the reason that some reformers want to limit it. In the case of Citizens United v. Federal Election Commission, the Supreme Court considered the case of a conservative political group, Citizens United, that wanted to broadcast and advertise a documentary critical of Hillary Clinton, who was then a senator and a Presidential candidate. The F.E.C. viewed the film as an improper “electioneering communication.” The Court ruled against the F.E.C., declaring that “prohibition on corporate independent expenditures is an outright ban on speech.” Citizens United was probably the most consequential free-speech ruling of the modern era, although its detractors would say that it wasn’t about free speech at all. (Powers has said that she disagrees with the Citizens United decision, which explains why she wrote a book about free speech without mentioning it.) Earlier this year, on the first day of her current Presidential campaign, Clinton called for a constitutional amendment to get “unaccountable money” out of politics, as a response to the Citizens United decision. For opponents of the decision, it is awkward, to say the least, that their leading ally is the same politician whom the plaintiffs’ film sought to criticize.</p> <a class="tny-page" name="/4" data-total-words="2965"></a><p word_count="176" data-wc="176">Waldron argues that hate speech could, in theory, be very consequential, and therefore a proper target for regulation. His book, which is rigorous, if rather cool-blooded, has little to say on the subject of how these harms actually occur. It begins with the hypothetical example of a Muslim father who sees a sign that shows a picture of Muslim children along with the words “They are all called Osama.” Waldron’s point is that such signs would constitute an assault on the dignity and the status of Muslims in America. (A British man who displayed similar signs in his window was sentenced to a year in prison, for “religiously aggravated harassment.”) But Waldron doesn’t succeed in showing that such a provocation really would undermine civil society. He cites the same hoary examples that have shaped recent jurisprudence: neo-Nazis marching through an Illinois town, far-flung Klansmen and their crosses. Waldron would be more persuasive if he had more to say about newer forms of hate speech, which tend to be more personal—and possibly more damaging.</p> <p class="descender" word_count="180" data-wc="180">Who was the d.j. that night at Fitzgerald’s? In “End of Discussion,” Ham and Benson say they tried and failed to identify him; they call him “some dude who was just trying to pay his bills by spinning records.” The complaining student, on the other hand, has been named in numerous accounts of the incident, including Ham and Benson’s, and, as a result, she has become the target of online vituperation. More than a year after the incident, a Google search for her name brings up, on the first page, a comment thread titled “Eata<small>DICK</small> dumbcunt.” We live in a world, evidently, where a college-town d.j. who plays a popular song can inspire a Facebook protest that will eventually cost him his gig. But we also live in a world where an undergraduate who protests at her local bar can find herself vilified around the world, achieving the sort of Internet infamy that will eventually fade but never entirely dissipate. And it’s not obvious that the first development should trouble us more than the second.</p> <a class="tny-slot" name="/6" data-total-words="3321"></a><p word_count="127" data-wc="127">Perhaps America’s First Amendment, like the Second, is ultimately a matter of national preference. In Britain, Twitter users have been jailed for sending abusive tweets; in France, Twitter was compelled to help a prosecutor identify pseudonymous users accused of sending anti-Semitic tweets. But legislators in this country have had a harder time outlawing online harassment. Last year, Arizona enacted a law aimed at curbing so-called “revenge porn,” the popular term for sharing naked or sexual images of people without their consent. The American Civil Liberties Union sued, calling the law overly broad, because it could have been used to imprison anyone who shared the Abu Ghraib photographs, or the ruinous self-portraits of Anthony Weiner, the former congressman. In a settlement, Arizona agreed not to enforce it.</p> <p word_count="142" data-wc="142">Speech nuts, like gun nuts, have amassed plenty of arguments, but they—we—are driven, too, by a shared sensibility that can seem irrational by European standards. And, just as good-faith gun-rights advocates don’t pretend that every gun owner is a third-generation hunter, free-speech advocates need not pretend that every provocative utterance is a valuable contribution to a robust debate, or that it is impossible to make any distinctions between various kinds of speech. In the case of online harassment, that instinctive preference for “free speech” may already be shaping the kinds of discussions we have, possibly by discouraging the participation of women, racial and sexual minorities, and anyone else likely to be singled out for ad-hominem abuse. Some kinds of free speech really can be harmful, and people who want to defend it anyway should be willing to say so.</p> <p word_count="248" data-wc="248">On social media, the posts are often public, but the forum itself is decidedly not. Most of the time, disputes about online harassment are handled not by government investigators but by administrators from the small number of companies that dominate social media. We are outsourcing some of our most important free-speech decisions to these sites, which must do what the First Amendment often prevents government from doing, at least explicitly: balance the value of free speech against other, competing values. Earlier this year, a journalist named Lindy West wrote about the many ways she has been harassed online: she said that just about every day someone calls her “a fat bitch (or some pithy variation thereof)”; one particularly enterprising foe apparently created a satirical Twitter account in the voice of West’s father, who had recently died. In the aftermath, Dick Costolo, the C.E.O. of Twitter, conceded, “We suck at dealing with abuse.” A few months later, Twitter announced that it would begin allowing users to report abuse even if they weren’t the targets, and that it would require users suspected of harassment to provide their phone numbers, to make it harder for people banned from the site to re-register. Compared with a jail sentence, the threat of account termination may seem mild. But, as social networks grow more powerful, online erasure may come to seem more intimidating. And free-speech activists might find that tech executives make even more effective censors than college administrators do.</p> <a class="tny-page" name="/5" data-total-words="3838"></a><p word_count="133" data-wc="133">The rise of social media illuminates the incoherence in Ham and Benson’s book, which both celebrates the power of the First Amendment and mourns the kind of “free speech free-for-all” that, they suggest, the First Amendment is powerless to protect. The Constitution, as currently interpreted, seems to offer little help in fostering the kinds of conversations they believe to be so vital. It’s not hard to imagine a time, not long from now, when advocates decide that more proactive measures are needed in order to protect our speech rights online. Imagine a law written to make sure that controversial users—pastors dedicated to “curing” gay people, say, or activists reproducing the <em>Charlie Hebdo</em> images of the Prophet Muhammad—wouldn’t be blocked or suspended by social-media networks merely for speaking out.</p> <p word_count="119" data-wc="119">When government officials tell a private corporation to allow citizens to speak, are they upholding the First Amendment or flouting it? That was the question that President Reagan considered in 1987, when Congress moved to enshrine the fairness doctrine, arguing that it was necessary to “ensure the widest possible dissemination of information from diverse and antagonistic sources.” Reagan vetoed the bill, and delivered a stern statement explaining why. He said that government had no business telling radio and television stations what kinds of political discussions they should broadcast. Any effort in that direction would be “antagonistic to the freedom of expression guaranteed by the First Amendment.” In his view, robust debate was important—but free speech was more important still. <span class="dingbat">♦</span></p> 			</div>
-		</div><!-- #content -->
+<div id="comments">
+<p><br />Comment count on this article reflects comments made on Breitbart.com and Facebook. Visit <a href="https://www.facebook.com/Breitbart" target="_blank">Breitbart's Facebook Page</a>.</p>
+	<div id="disqus_thread"></div><!--disqus_thread-->
+</div><!--comments-->
 
-		<footer>
-								<section class="article-contributors">
-					
-<aside class="author-details" itemscope itemtype="http://schema.org/Person">
-	<meta itemprop="name" content="Kelefa Sanneh">
-	<meta itemprop="url" content="http://www.newyorker.com/contributors/kelefa-sanneh">
-	<meta itemprop="image" content="http://www.newyorker.com/wp-content/uploads/2014/07/sanneh-kelefa.svg">
-	<div rel="me" itemprop="url" class="author-details-wrap" >
-		<div class="author-image-wrap">
-			<img class="author-image" src="http://www.newyorker.com/wp-content/uploads/2014/07/sanneh-kelefa.svg" />
+	<script>var disqus_identifier = '6067182',disqus_title="The Night Berkeley Betrayed The Free Speech Movement",disqus_url='http://www.breitbart.com/milo/2017/02/01/milo-true-heir-berkeley-free-speech-movement/';</script>
+	
+
+	</div><!--MainW-->
+<aside id="asideSideW">
+<div id="SideW" class="widget-area col6 endcol">
+
+
+		<div class="ad Hmobi SWW">
+		<div class="ad-wrapper">			<div id='desktop-ROS-Rail1' style="display:none;"></div>
 		</div>
-		<div class="author-masthead has-bio">
-				<div class="contributor-info">
-					<p>Kelefa Sanneh has contributed to the magazine since 2001.</p>
-					<ul class="author-links">
-											<li>
-							<a class="more-link" href="http://www.newyorker.com/contributors/kelefa-sanneh"  title="Kelefa Sanneh">More</a>
-						</li>
-										</ul>
+	</div><!--SWW-->
+
+
+	
+<div id="BBOnAirSide" data-tb-region="BBOnAirSide">
+	<a id="acurtschilling" href="/whatever-it-takes-curt-schilling/" target="_blank" rel="nofollow">
+		<img class="onairbodylink" src="/t/assets/i/on-air/curtschilling-sidebar.jpg" srcset="/t/assets/i/on-air/curtschilling-sidebar@2x.jpg 2x" alt="">
+	</a>
+</div>
+
+
+
+		
+		<div class="ad Hmobi SWW">
+			<div class="ad-wrapper">
+				<div id='desktop-ROS-Rail2'></div>
+			</div>
+		</div><!--SWW-->
+
+	
+
+	
+
+		<div id="iscscon" class="SWW">
+		<p class="head">BREITBART <span>CONNECT</span></p>
+		<div class="content">
+			<div id="iscsconicons" class="sbicons">
+				<a id="SCFacebook" class="facebook" href="http://www.facebook.com/breitbart" title="Breitbart Facebook" rel="nofollow" target="_blank"></a>
+				<a id="SCTwitter" class="twitter" href="http://www.twitter.com/breitbartnews" title="Breitbart Twitter" rel="nofollow" target="_blank"></a>
+				<a id="SCYouTube" class="youtube" href="https://www.youtube.com/channel/UCmgnsaQIK1IR808Ebde-ssA" title="Breitbart YouTube" rel="nofollow" target="_blank"></a>
+				<a id="SCInstagram" class="instagram" href="https://www.instagram.com/wearebreitbart/" title="Breitbart Instagram" rel="nofollow" target="_blank"></a>
+				<a id="SCPodcasts" class="podcasts" href="http://www.breitbart.com/podcasts/" title="Breitbart Podcasts"></a>
+			</div>
+			<div class="signup">
+				<p class="sh3"><span>Sign Up</span> For Our Newsletter</p>
+				<div class='gform_wrapper' id='gform_wrapper_1'>
+					<a id='gf_1' class='gform_anchor'></a>
+					<form method='post' id='gform_1' action='/newsletter-signup/'>
+						<div class='gform_body'>
+							<ul id='gform_fields_1' class='gform_fields top_label description_below'>
+								<li id='field_1_1' class='gfield'>
+									<input name='input_1' id='input_1_1' type='text' value='' placeholder='email address'/>
+								</li>
+							</ul>
+							<input type='submit' id='gform_submit_button_1' value='Submit' onclick='if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;'/>
+						</div>
+						<div class='H'>
+							<input type='hidden' name='is_submit_1' value='1' />
+							<input type='hidden' name='gform_submit' value='1' />
+							<input type='hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+							<input type='hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+						</div>
+					</form>
 				</div>
 			</div>
-	</div>
-			
+		</div>
+	</div><!--iscscon-->
+
+
+	<div id="isctaboolawidget1" class="H"></div><!--isctaboolawidget1-->
+
+
+	
+
+	<div id="iscnewsmaxwidgetid" class="H"></div><!--iscnewsmaxwidgetid-->
+
+	
+
+		<div class="SWW">
+		<h2>MOST POPULAR</h2>
+		<ul id="disqus-popularUL"><li><a href="/big-hollywood/2017/05/03/no-regret-stephen-colbert-responds-firestorm-use-homophobic-slur/" title="No Regrets: Stephen Colbert Responds to Firestorm over Use of Homophobic Slur" data-n="1">No Regrets: Stephen Colbert Responds to Firestorm over Use of Homophobic Slur</a><span><a class="bycount" href="/big-hollywood/2017/05/03/no-regret-stephen-colbert-responds-firestorm-use-homophobic-slur/#disqus_thread" data-dsqi="6652470" title="No Regrets: Stephen Colbert Responds to Firestorm over Use of Homophobic Slur" rel="nofollow" data-n="1">0</a> comments - 15 hours ago</span></li><li><a href="/london/2017/05/04/macrons-deplorables-moment/" title="Macron’s ‘Deplorables’ Moment? Establishment Candidate Brands 8m Le Pen Voters ‘Hateful Cowards’" data-n="2">Macron’s ‘Deplorables’ Moment? Establishment Candidate Brands 8m Le Pen Voters ‘Hateful Cowards’</a><span><a class="bycount" href="/london/2017/05/04/macrons-deplorables-moment/#disqus_thread" data-dsqi="6651146" title="Macron’s ‘Deplorables’ Moment? Establishment Candidate Brands 8m Le Pen Voters ‘Hateful Cowards’" rel="nofollow" data-n="2">0</a> comments - 10 hours ago</span></li><li><a href="/big-government/2017/05/04/gop-propose-american-workers-replacement-bill-amnesty-immigration/" title="Two GOP Legislators Propose American Replacement Bill, Plus Amnesty" data-n="3">Two GOP Legislators Propose American Replacement Bill, Plus Amnesty</a><span><a class="bycount" href="/big-government/2017/05/04/gop-propose-american-workers-replacement-bill-amnesty-immigration/#disqus_thread" data-dsqi="6653186" title="Two GOP Legislators Propose American Replacement Bill, Plus Amnesty" rel="nofollow" data-n="3">0</a> comments - 11 hours ago</span></li><li><a href="/big-government/2017/05/03/sean-spicer-promotes-ballard-wall-fencing-to-satisfy-budget-critics/" title="Sean Spicer Promotes ‘Ballard Wall’ Fencing to Satisfy Budget Critics" data-n="4">Sean Spicer Promotes ‘Ballard Wall’ Fencing to Satisfy Budget Critics</a><span><a class="bycount" href="/big-government/2017/05/03/sean-spicer-promotes-ballard-wall-fencing-to-satisfy-budget-critics/#disqus_thread" data-dsqi="6650154" title="Sean Spicer Promotes ‘Ballard Wall’ Fencing to Satisfy Budget Critics" rel="nofollow" data-n="4">0</a> comments - 23 hours ago</span></li><li><a href="/london/2017/05/04/obama-backs-french-presidential-candidate-globalist-macron-just-hours-campaigning-finishes/" title="Obama Backs French Presidential Candidate Globalist Macron Just Hours Before Campaigning Finishes" data-n="5">Obama Backs French Presidential Candidate Globalist Macron Just Hours Before Campaigning Finishes</a><span><a class="bycount" href="/london/2017/05/04/obama-backs-french-presidential-candidate-globalist-macron-just-hours-campaigning-finishes/#disqus_thread" data-dsqi="6654802" title="Obama Backs French Presidential Candidate Globalist Macron Just Hours Before Campaigning Finishes" rel="nofollow" data-n="5">0</a> comments - 4 hours ago</span></li><li><a href="/radio/2017/05/04/rep-desantis-five-key-facts-obamacare-replacement-bill/" title="Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill" data-n="6">Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill</a><span><a class="bycount" href="/radio/2017/05/04/rep-desantis-five-key-facts-obamacare-replacement-bill/#disqus_thread" data-dsqi="6655738" title="Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill" rel="nofollow" data-n="6">0</a> comments - 3 hours ago</span></li><li><a href="/big-government/2017/05/03/house-to-vote-on-heathcare-bill-thursday/" title="House to Vote on Heathcare Bill Thursday" data-n="7">House to Vote on Heathcare Bill Thursday</a><span><a class="bycount" href="/big-government/2017/05/03/house-to-vote-on-heathcare-bill-thursday/#disqus_thread" data-dsqi="6651566" title="House to Vote on Heathcare Bill Thursday" rel="nofollow" data-n="7">0</a> comments - 18 hours ago</span></li><li><a href="/texas/2017/05/04/refugees-fleeing-u-s-canada-open-border-report-says/" title="Refugees Fleeing U.S. for Canada over Open Border, Report Says" data-n="8">Refugees Fleeing U.S. for Canada over Open Border, Report Says</a><span><a class="bycount" href="/texas/2017/05/04/refugees-fleeing-u-s-canada-open-border-report-says/#disqus_thread" data-dsqi="6652870" title="Refugees Fleeing U.S. for Canada over Open Border, Report Says" rel="nofollow" data-n="8">0</a> comments - 3 hours ago</span></li><li><a href="/big-government/2017/05/04/delingpole-trump-edges-closer-to-pulling-out-of-paris-climate-agreement/" title="Delingpole: Trump Edges Closer To Pulling Out Of Paris Climate Agreement" data-n="9">Delingpole: Trump Edges Closer To Pulling Out Of Paris Climate Agreement</a><span><a class="bycount" href="/big-government/2017/05/04/delingpole-trump-edges-closer-to-pulling-out-of-paris-climate-agreement/#disqus_thread" data-dsqi="6655458" title="Delingpole: Trump Edges Closer To Pulling Out Of Paris Climate Agreement" rel="nofollow" data-n="9">0</a> comments - 2 hours ago</span></li><li><a href="/big-government/2017/05/03/comey-defends-himself-says-makes-him-mildly-nauseous-to-think-he-affected-election/" title="Comey Defends Himself, Says Makes Him ‘Mildly Nauseous’ to Think He Affected Election" data-n="10">Comey Defends Himself, Says Makes Him ‘Mildly Nauseous’ to Think He Affected Election</a><span><a class="bycount" href="/big-government/2017/05/03/comey-defends-himself-says-makes-him-mildly-nauseous-to-think-he-affected-election/#disqus_thread" data-dsqi="6647982" title="Comey Defends Himself, Says Makes Him ‘Mildly Nauseous’ to Think He Affected Election" rel="nofollow" data-n="10">0</a> comments - 1 day ago</span></li></ul>	</div><!--SWW-->
+
+
+	
+
+		<div id="HPSW" class="SWW">
+		<h2>FROM THE HOMEPAGE</h2>
+		<ul id="HPSWUL"><li><a href="/big-government/2017/05/04/house-passes-revised-american-health-care-act/" title="House Republicans passed a revised version of the American Health &hellip;" data-n="1"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/MarkMeadows-CPAC-Gage-Skidmore-200x150.png" class="qazy" alt="House Passes Revised American Health Care Act" title="House Republicans passed a revised version of the American Health &hellip;" /><div>House Passes Revised American Health Care Act</div></a><span><a class="bycount" rel="nofollow" href="/big-government/2017/05/04/house-passes-revised-american-health-care-act/#disqus_thread" title="House Passes Revised American Health Care Act" data-dsqi="6654362" data-n="1">0</a> Comments</span></li><li class="flr"><a href="/radio/2017/05/04/rep-desantis-five-key-facts-obamacare-replacement-bill/" title="Rep. Ron DeSantis (R-FL) joined SiriusXM host Alex Marlow to &hellip;" data-n="2"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/AHCA-Obamacare-Replacement-640x480-Getty-200x150.jpg" class="qazy" alt="Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill" title="Rep. Ron DeSantis (R-FL) joined SiriusXM host Alex Marlow to &hellip;" /><div>Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill</div></a><span><a class="bycount" rel="nofollow" href="/radio/2017/05/04/rep-desantis-five-key-facts-obamacare-replacement-bill/#disqus_thread" title="Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill" data-dsqi="6655738" data-n="2">0</a> Comments</span></li><li><a href="/radio/2017/05/04/amac-ceo-obamacare-replacement-bill-a-positive-step-in-lowering-the-cost-of-health-care/" title="Dan Weber, founder of the Association of Mature American Citizens &hellip;" data-n="3"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/bill-200x150.jpg" class="qazy" alt="AMAC CEO: Obamacare Replacement Bill a &#8216;Positive Step in Lowering the Cost of Health Care&#8217;" title="Dan Weber, founder of the Association of Mature American Citizens &hellip;" /><div>AMAC CEO: Obamacare Replacement Bill a &#8216;Positive Step in Lowering the Cost of Health Care&#8217;</div></a><span><a class="bycount" rel="nofollow" href="/radio/2017/05/04/amac-ceo-obamacare-replacement-bill-a-positive-step-in-lowering-the-cost-of-health-care/#disqus_thread" title="AMAC CEO: Obamacare Replacement Bill a &#8216;Positive Step in Lowering the Cost of Health Care&#8217;" data-dsqi="6655646" data-n="3">0</a> Comments</span></li><li class="flr"><a href="/big-government/2017/05/04/senate-passes-1-trillion-plus-omnibus-bipartisan-bill-to-temporarily-fund-government/" title="The Senate on Thursday passed the more than $1 trillion &hellip;" data-n="4"><img data-qazy="true" width="200" height="133" src="http://media.breitbart.com/media/2017/04/wi/ap/07/1aql896-200x133.jpg" class="qazy" alt="Senate Passes $1 Trillion Omnibus ‘Bipartisan’ Bill to Fund Government Through September" title="The Senate on Thursday passed the more than $1 trillion &hellip;" /><div>Senate Passes $1 Trillion Omnibus ‘Bipartisan’ Bill to Fund Government Through September</div></a><span><a class="bycount" rel="nofollow" href="/big-government/2017/05/04/senate-passes-1-trillion-plus-omnibus-bipartisan-bill-to-temporarily-fund-government/#disqus_thread" title="Senate Passes $1 Trillion Omnibus ‘Bipartisan’ Bill to Fund Government Through September" data-dsqi="6657358" data-n="4">0</a> Comments</span></li><li><a href="/big-government/2017/05/03/whiteboard-rabbi-shmuley-steve-bannon-israel/" title="Yesterday, insofar as anyone can recall, was the first-ever White &hellip;" data-n="5"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/C-2qNuMXsAEJW_v-200x150.jpg" class="qazy" alt="RABBI SHMULEY: For Steve Bannon, Israel Is on the Whiteboard" title="Yesterday, insofar as anyone can recall, was the first-ever White &hellip;" /><div>RABBI SHMULEY: For Steve Bannon, Israel Is on the Whiteboard</div></a><span><a class="bycount" rel="nofollow" href="/big-government/2017/05/03/whiteboard-rabbi-shmuley-steve-bannon-israel/#disqus_thread" title="RABBI SHMULEY: For Steve Bannon, Israel Is on the Whiteboard" data-dsqi="6652342" data-n="5">0</a> Comments</span></li><li class="flr"><a href="/london/2017/05/04/video-le-pen-pelted-with-eggs-keeps-smiling/" title="Populist French presidential candidate Marine Le Pen has been pelted &hellip;" data-n="6"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/Screen-Shot-2017-05-04-at-17.45.22-200x150.jpg" class="qazy" alt="VIDEO: Le Pen Pelted With Eggs, Keeps Smiling" title="Populist French presidential candidate Marine Le Pen has been pelted &hellip;" /><div>VIDEO: Le Pen Pelted With Eggs, Keeps Smiling</div></a><span><a class="bycount" rel="nofollow" href="/london/2017/05/04/video-le-pen-pelted-with-eggs-keeps-smiling/#disqus_thread" title="VIDEO: Le Pen Pelted With Eggs, Keeps Smiling" data-dsqi="6656506" data-n="6">0</a> Comments</span></li><li><a href="/video/2017/05/04/gowdy-congress-may-subpoena-susan-rice-testify-unmasking-necessary/" title="Thursday on Fox News Channel&#039;s &quot;America&#039;s Newsroom,&quot; while discussing President &hellip;" data-n="7"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2015/02/gowdy-200x150.jpg" class="qazy" alt="Gowdy: Congress May Subpoena Susan Rice to Testify About Unmasking If Necessary" title="Thursday on Fox News Channel&#039;s &quot;America&#039;s Newsroom,&quot; while discussing President &hellip;" /><div>Gowdy: Congress May Subpoena Susan Rice to Testify About Unmasking If Necessary</div></a><span><a class="bycount" rel="nofollow" href="/video/2017/05/04/gowdy-congress-may-subpoena-susan-rice-testify-unmasking-necessary/#disqus_thread" title="Gowdy: Congress May Subpoena Susan Rice to Testify About Unmasking If Necessary" data-dsqi="6656982" data-n="7">0</a> Comments</span></li><li class="flr"><a href="/texas/2017/05/04/refugees-fleeing-u-s-canada-open-border-report-says/" title="Foreign refugees are continuing to flee the U.S. to Canada &hellip;" data-n="8"><img data-qazy="true" width="200" height="133" src="http://media.breitbart.com/media/2017/03/wi/afp/04/ubepso-200x133.jpg" class="qazy" alt="Refugees Fleeing U.S. for Canada over Open Border, Report Says" title="Foreign refugees are continuing to flee the U.S. to Canada &hellip;" /><div>Refugees Fleeing U.S. for Canada over Open Border, Report Says</div></a><span><a class="bycount" rel="nofollow" href="/texas/2017/05/04/refugees-fleeing-u-s-canada-open-border-report-says/#disqus_thread" title="Refugees Fleeing U.S. for Canada over Open Border, Report Says" data-dsqi="6652870" data-n="8">0</a> Comments</span></li><li><a href="/london/2017/05/04/french-police-defy-unions-vote-le-pen/" title="Despite being told by their unions not to vote for &hellip;" data-n="9"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/rsz_GettyImages-461346290-200x150.jpg" class="qazy" alt="French Police Defy Their Unions to Vote For Le Pen" title="Despite being told by their unions not to vote for &hellip;" /><div>French Police Defy Their Unions to Vote For Le Pen</div></a><span><a class="bycount" rel="nofollow" href="/london/2017/05/04/french-police-defy-unions-vote-le-pen/#disqus_thread" title="French Police Defy Their Unions to Vote For Le Pen" data-dsqi="6653962" data-n="9">0</a> Comments</span></li><li class="flr"><a href="/national-security/2017/05/04/armored-vehicle-runs-protesters-venezuela/" title="Demonstrations in Caracas, Venezuela turned violent on Wednesday, bringing a &hellip;" data-n="10"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/wi/afp/01/r05ann-e1493913646615-200x150.jpg" class="qazy" alt="VIDEO: Armored Vehicle Drives into Crowd of Protesters in Venezuela" title="Demonstrations in Caracas, Venezuela turned violent on Wednesday, bringing a &hellip;" /><div>VIDEO: Armored Vehicle Drives into Crowd of Protesters in Venezuela</div></a><span><a class="bycount" rel="nofollow" href="/national-security/2017/05/04/armored-vehicle-runs-protesters-venezuela/#disqus_thread" title="VIDEO: Armored Vehicle Drives into Crowd of Protesters in Venezuela" data-dsqi="6655850" data-n="10">0</a> Comments</span></li><li><a href="/video/2017/05/03/hannity-comey-testimony-stupid-think/" title="Wednesday on Fox News Channel&#039;s &quot;Hannity,&quot; host Sean Hannity reacted &hellip;" data-n="11"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/Hannity53-200x150.jpg" class="qazy" alt="Hannity on Comey Testimony: &#8216;How Stupid Do They Think We Are?&#8217;" title="Wednesday on Fox News Channel&#039;s &quot;Hannity,&quot; host Sean Hannity reacted &hellip;" /><div>Hannity on Comey Testimony: &#8216;How Stupid Do They Think We Are?&#8217;</div></a><span><a class="bycount" rel="nofollow" href="/video/2017/05/03/hannity-comey-testimony-stupid-think/#disqus_thread" title="Hannity on Comey Testimony: &#8216;How Stupid Do They Think We Are?&#8217;" data-dsqi="6652942" data-n="11">0</a> Comments</span></li><li class="flr"><a href="/big-government/2017/05/04/comey-refuses-publicly-address-fbi-ties-peeing-russian-prostitutes-dossier/" title="During yesterday’s Senate Judiciary Committee hearing on FBI oversight, FBI &hellip;" data-n="12"><img data-qazy="true" width="200" height="150" src="http://media.breitbart.com/media/2017/05/comey-200x150.jpg" class="qazy" alt="Comey Refuses To Publicly Address FBI Ties To ‘Peeing Russian Prostitutes’ Dossier" title="During yesterday’s Senate Judiciary Committee hearing on FBI oversight, FBI &hellip;" /><div>Comey Refuses To Publicly Address FBI Ties To ‘Peeing Russian Prostitutes’ Dossier</div></a><span><a class="bycount" rel="nofollow" href="/big-government/2017/05/04/comey-refuses-publicly-address-fbi-ties-peeing-russian-prostitutes-dossier/#disqus_thread" title="Comey Refuses To Publicly Address FBI Ties To ‘Peeing Russian Prostitutes’ Dossier" data-dsqi="6654106" data-n="12">0</a> Comments</span></li></ul>		<div><br class="C" /></div>
+	</div><!--SWW-->
+	<div><br class="C" /></div>
+
+
+		<div class="send-tip SWW"><img src="http://media.breitbart.com/media/2015/09/send-tip.jpg" alt="Send a Tip" width="310" height="170" data-qazy="true" class="qazy" /><p><a rel="nofollow" href="/send-a-tip/">Send A Tip</a></p></div><!--send-tip-->
+
+	<div class="mobile send-tip mobile-send-tip SWW"><p><a rel="nofollow" href="/send-a-tip/">Send A Tip</a></p></div><!--mobile-send-tip-->
+
+
+		<div id="rail5matched" class="SWW ad">
+		<div class="ad-wrapper padok">
+			<ins class="adsbygoogle" style="display:inline-block;width:300px;height:700px" data-ad-client="ca-pub-9229289037503472" data-ad-slot="5147843115"></ins>
+			<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+			<p>advertisement</p>
+		</div>
+	</div><!--SWW-->
+
+
+	<div id="iscamazonsbwidget" class="H"></div><!--iscamazonsbwidget-->
+
+
+	<div><br class="C" /></div>
+</div><!--SideW-->
 </aside>
-					</section>
-									<aside class="tags-recirc">
-					<h5 class="tags-recirc__label">More:</h5>
-					<ul class="tags-recirc__list">
-											<li class="tags-recirc__tag">
-							<a class="tags-recirc__link" href="/tag/books-tag" >
-								<span>Books</span>
-							</a>
-						</li>
-												<li class="tags-recirc__tag">
-							<a class="tags-recirc__link" href="/tag/first-amendment-tag" >
-								<span>First Amendment</span>
-							</a>
-						</li>
-												<li class="tags-recirc__tag">
-							<a class="tags-recirc__link" href="/tag/free-speech-tag" >
-								<span>Free Speech</span>
-							</a>
-						</li>
-											</ul>
-				</aside>
-				        <div id="AMS_NYR_ENDOFARTICLETOUT"></div>
+			<div class="clear"></div>
+		</div><!--ContainerW-->
+	</div><!--ContentW-->
+		<footer id="footerFootW">
+	<div id="FootW">
+		<div id="FWI">
+			<div class="colW col7">
+				<a class="logo" href="/" title="Breitbart"></a>
+				<div class="copyright">
+					<p id="copyrighttext"><small>Copyright &copy; 2017 Breitbart</small></p>
+					<form class="search-form" method="get" action="/search/"><label for="searchiscq2"></label><input type="text" placeholder="SEARCH" name="s" id="searchiscq2" value="" /><input type="submit" value="search" /></form>
+					<a rel="nofollow" href="/advertise-with-us/">Advertise With Us</a>
+				</div>
+			</div><!--col7-->
 
-		</footer>
+			<div class="colW col8">
+				<nav id="navNavF">
+				<h4>EXPLORE BREITBART</h4>
+				
+<ul id="NavF" class="menu"><li><a href="http://www.breitbart.com/big-government/" class="ddt" >Big Government</a><ul class="S" id="fm0"> <li><a href="http://www.breitbart.com/big-journalism/">Big Journalism</a></li> <li><a href="http://www.breitbart.com/big-hollywood/">Big Hollywood</a></li> <li><a href="http://www.breitbart.com/national-security/">National Security</a></li> <li><a href="http://www.breitbart.com/tech/">Tech</a></li> <li><a href="http://www.breitbart.com/video/">Video</a></li> <li><a href="http://www.breitbart.com/sports/">Sports</a></li> <li><a href="http://www.breitbart.com/news/">The Wires</a></li></ul></li><li><a href="http://www.breitbart.com/london/" class="ddt" >London</a><ul class="S" id="fm1"> <li><a href="http://www.breitbart.com/jerusalem/">Jerusalem</a></li> <li><a href="http://www.breitbart.com/texas/">Texas</a></li> <li><a href="http://www.breitbart.com/california/">California</a></li></ul></li><li><a href="http://www.breitbart.com/blog/" class="ddt" >The Conversation</a><ul class="S" id="fm2"> <li><a rel="nofollow" href="http://www.breitbart.com/privacy-policy/">Privacy Policy</a></li> <li><a rel="nofollow" href="http://www.breitbart.com/terms-of-use/">Terms of Use</a></li> <li><a rel="nofollow" href="http://www.breitbart.com/jobs/">Breitbart Jobs</a></li></ul></li></ul><!--NavF-3--><!--NavF-3-->
 
-						<div class="right-rail-fixed">
+				</nav>
+			</div><!--col8-->
 
-										<div class="js-sticky-wrap">
-						<div class="js-sticky-element">
-							<div class="js-inner-wrap">
+			<div class="colW col3 endcol">
+				<nav id="navFSocialUL">
+				<h4>Connect</h4>
+				<ul id="FSocialUL"><li><a href="https://www.facebook.com/Breitbart"><span class="fb"></span>Facebook</a></li><li><a href="https://twitter.com/#!/BreitbartNews"><span class="tw"></span>Twitter</a></li><li><a href="http://feeds.feedburner.com/breitbart"><span class="rs"></span>RSS</a></li><li><a rel="nofollow" href="/send-a-tip/"><span class="tp"></span>Send us a tip</a></li></ul>
+				<p id="foottools"><a class="logo mobile" href="/" title="Breitbart"></a><a rel="nofollow" class="subscribe" href="/newsletter-signup/">SUBSCRIBE TO THE BREITBART NEWSLETTER</a><a id="fullsiteswitch" class="full-site mobile" href="/">Switch to Full Site</a></p>
+				</nav>
+			</div><!--col3-->
+			<p class="copyright mobile"><small>Copyright &copy; 2017 Breitbart</small></p>
+		</div><!--FWI-->
+	</div><!--FootW-->
+	</footer>
+</div><!--GlobalW-->
 
-							<aside class="most-popular ">
-	<div class="wrap-content">
-		<h3 class="heading">Most Popular</h3>
-		<ol class="posts">
-						<li class="post">
-					<a href="http://www.newyorker.com/humor/borowitz-report/obamas-barrage-of-complete-sentences-seen-as-brutal-attack-on-trump" class="post-permalink">
-						<h5 class="post-title">Obama’s Barrage of Complete Sentences Seen as Brutal Attack on Trump</h5>
-					</a>
-					<p class="post-byline">
-						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/andy-borowitz" title="Andy Borowitz" rel="author">Andy Borowitz</a></span>					</p>
-				</li>
-								<li class="post">
-					<a href="http://www.newyorker.com/news/ryan-lizza/how-trump-gave-up-on-his-border-wall" class="post-permalink">
-						<h5 class="post-title">How Trump Gave Up On His Border Wall</h5>
-					</a>
-					<p class="post-byline">
-						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/ryan-lizza" title="Ryan Lizza" rel="author">Ryan Lizza</a></span>					</p>
-				</li>
-								<li class="post">
-					<a href="http://www.newyorker.com/news/amy-davidson/donald-trumps-unintelligible-presidency" class="post-permalink">
-						<h5 class="post-title">Donald Trump’s Unintelligible Presidency</h5>
-					</a>
-					<p class="post-byline">
-						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/amy-davidson" title="Amy Davidson" rel="author">Amy Davidson</a></span>					</p>
-				</li>
-								<li class="post">
-					<a href="http://www.newyorker.com/humor/daily-shouts/things-i-learned-about-finance-bros-by-briefly-dating-a-finance-bro" class="post-permalink">
-						<h5 class="post-title">Things I Learned About Finance Bros by (Briefly) Dating a Finance Bro</h5>
-					</a>
-					<p class="post-byline">
-						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/tara-isabella-burton" title="Tara Isabella Burton" rel="author">Tara Isabella Burton</a></span>					</p>
-				</li>
-								<li class="post">
-					<a href="http://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-25th-trump-talking-points" class="post-permalink">
-						<h5 class="post-title">Daily Cartoon: Tuesday, April 25th</h5>
-					</a>
-					<p class="post-byline">
-						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/pat-byrnes" title="Pat Byrnes" rel="author">Pat Byrnes</a></span>					</p>
-				</li>
-						</ol>
-		<a href="/popular?intcid=most-popular" class="full-popular-page">
-			<h5 class="callout">Our thirty most popular</h5>
+<style>
+#isc_front_takeover_overlay{position:fixed;top:0;width:100%;height:100%;left:0;bottom:0;right:0;z-index:999999998;opacity:.9;display:block;background:#222;max-width:100%;max-height:100%}
+#isc_front_takeover_div{position:fixed;top:10%;left:1%;right:1%;display:block;height:467px;width:98%;text-align:center;z-index:999999999;border:0;max-width:98%;max-height:100%}
+#isc_front_takeover_div div{position:relative;display:block;height:467px;width:806px;overflow:hidden;border:0;margin:0 auto;max-width:100%;max-height:100%}
+#isc_front_takeover_div div #isc_front_takeover{display:block;height:auto;width:auto;overflow:hidden;border:0;margin:0 auto;max-width:100%;max-height:100%}
+#isc_front_takeover_div div #isc_front_takeover_close{position:absolute;top:5px;right:5px;display:block;width:25px;height:25px;overflow:hidden;cursor:pointer; color:#f1f1f1}
+#isc_front_takeover_div div #isc_front_takeover .img1{display:block;visibility:visible}
+#isc_front_takeover_div div #isc_front_takeover .img2{display:none;visibility:hidden}
+#isc_front_takeover iframe {position:absolute; top:0; left:0;}
+
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (-webkit-min-device-pixel-ratio:2){
+	#isc_front_takeover_div{top:1%}
+	#isc_front_takeover_div div{height:467px;width:303px}
+	#isc_front_takeover_div div #isc_front_takeover .img1{display:none;visibility:hidden}
+	#isc_front_takeover_div div #isc_front_takeover .img2{display:block;visibility:visible}
+}
+@media only screen and (min-device-width:320px) and (max-device-width:568px) and (-webkit-min-device-pixel-ratio:2){
+	#isc_front_takeover_div{top:10%}
+	#isc_front_takeover_div div{height:467px;width:303px}
+	#isc_front_takeover_div div #isc_front_takeover .img1{display:none;visibility:hidden}
+	#isc_front_takeover_div div #isc_front_takeover .img2{display:block;visibility:visible}
+}
+@media only screen and (min-device-width:375px) and (max-device-width:667px) and (-webkit-min-device-pixel-ratio:2){
+	#isc_front_takeover_div{top:10%}
+	#isc_front_takeover_div div{height:467px;width:303px}
+	#isc_front_takeover_div div #isc_front_takeover .img1{display:none;visibility:hidden}
+	#isc_front_takeover_div div #isc_front_takeover .img2{display:block;visibility:visible}
+}
+@media only screen and (min-device-width:375px) and (max-device-width:667px) and (-webkit-min-device-pixel-ratio:2) and (orientation:landscape){
+	#isc_front_takeover_div{top:1%}
+	#isc_front_takeover_div div{height:auto;width:auto}
+	#isc_front_takeover_div div #isc_front_takeover .img1{display:block;visibility:visible}
+
+	#isc_front_takeover_div div #isc_front_takeover .img2{display:none;visibility:hidden}
+}
+
+@media only screen and (min-device-width:414px) and (max-device-width:736px) and (-webkit-min-device-pixel-ratio:3){
+	#isc_front_takeover_div{top:1%}
+	#isc_front_takeover_div div{height:467px;width:303px}
+	#isc_front_takeover_div div #isc_front_takeover .img1{display:none;visibility:hidden}
+	#isc_front_takeover_div div #isc_front_takeover .img2{display:block;visibility:visible}
+}
+@media only screen and (min-device-width:414px) and (max-device-width:736px) and (-webkit-min-device-pixel-ratio:3) and (orientation:landscape){
+	#isc_front_takeover_div{top:1%}
+	#isc_front_takeover_div div{height:auto;width:auto}
+	#isc_front_takeover_div div #isc_front_takeover .img1{display:block;visibility:visible}
+	#isc_front_takeover_div div #isc_front_takeover .img2{display:none;visibility:hidden}
+}
+@media only screen and (min-device-width:414px) and (max-device-width:736px) and (-webkit-min-device-pixel-ratio:3) and (orientation:portrait){
+	#isc_front_takeover_div{top:10%}
+}
+@media only screen and (min-device-width:320px) and (max-device-width:568px) and (-webkit-min-device-pixel-ratio:2) and (orientation:portrait){
+	#isc_front_takeover_div{top:3%}
+}
+@media only screen and (min-device-width:375px) and (max-device-width:667px) and (-webkit-min-device-pixel-ratio:2) and (orientation:landscape){
+	#isc_front_takeover_div{top:1%}
+}
+</style>
+
+<div id="isc_front_takeover_overlay" class="H"></div>
+<div class="H" id="isc_front_takeover_div">
+	<div>
+		<a id="isc_front_takeover" rel="nofollow" href="http://www.breitbart.com/trump-100-days/?utm_source=popup&utm_medium=homepage&utm_content=image-popup" target="_blank" title="BREITBART SPECIAL REPORT: THE FIRST 100 DAYS OF TRUMP">
+			<img class="img1" src="/t/assets/i/takeover/t100/bb-takeover-100days.jpg" srcset="/t/assets/i/takeover/t100/bb-takeover-100days@2x.jpg 2x" alt="">
+			<img class="img2" src="/t/assets/i/takeover/t100/bb-takeover-100days-mobile.jpg" srcset="/t/assets/i/takeover/t100/bb-takeover-100days-mobile@2x.jpg 2x" alt="">
 		</a>
-
-		<div id="AMS_NYR_ARTICLE_RIGHTRAIL"></div>
-
-	</div>
-</aside>
-
-
-							</div>
-						</div>
-					</div>
-										<div class="js-sticky-wrap strongbox-promo-wrapper">
-						<div class="js-sticky-element">
-							<div class="js-inner-wrap">
-								<p class="promo-find-out">
-									Do you  have a tip for <i>The New Yorker</i> that requires anonymity and security?
-	 								<a target="_blank" href="https://projects.newyorker.com/strongbox/"><div class="strongbox-promo-article" style="display:inline-block"></div>
-									</a>
-									<a class="goat-promo-link article-rail-link" target="_blank" href="https://projects.newyorker.com/strongbox/">Send it via SecureDrop. &raquo;
-									</a>
-								 </p>
-							</div>
-						</div>
-					</div>
-				</div>
-					</article>
-
-	<span id="article-bottom"></span>
-	<span id="article-end"></span>
-	<div id="recirc-pos-2">
-	
-	<section class="other-stories module other-stories-3 nocontent">
-		<h5>More From the New Yorker</h5>
-		<div class="story-content-table">
-			<div class="story-content-wrapper">
-								<div class="story">
-						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/culture/cultural-comment/censoring-twitter" data-src="http://www.newyorker.com/wp-content/uploads/2014/11/Sanneh-Twitter-censorship-728-375.jpg"></a>
-						<h4 class="story-section">Cultural Comment</h4>
-						<h2 class="story-title">
-							<a href="http://www.newyorker.com/culture/cultural-comment/censoring-twitter">Censoring Twitter</a>
-						</h2>
-						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/kelefa-sanneh" title="Kelefa Sanneh" rel="author">Kelefa Sanneh</a></h3>					</div>
-										<div class="story">
-						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/business/currency/what-to-do-when-your-app-is-racist" data-src="http://www.newyorker.com/wp-content/uploads/2015/07/Marantz-SketchFactor-Walk-of-Shame-728-375-28120518.jpg"></a>
-						<h4 class="story-section">Currency</h4>
-						<h2 class="story-title">
-							<a href="http://www.newyorker.com/business/currency/what-to-do-when-your-app-is-racist">When an App Is Called Racist</a>
-						</h2>
-						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/andrew-marantz" title="Andrew Marantz" rel="author">Andrew Marantz</a></h3>					</div>
-										<div class="story">
-						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/humor/borowitz-report/obamas-barrage-of-complete-sentences-seen-as-brutal-attack-on-trump" data-src="http://www.newyorker.com/wp-content/uploads/2017/04/Borowitz-Obama-Complete-Sentences-728x375-1493055539.jpg"></a>
-						<h4 class="story-section">Satire from the Borowitz Report</h4>
-						<h2 class="story-title">
-							<a href="http://www.newyorker.com/humor/borowitz-report/obamas-barrage-of-complete-sentences-seen-as-brutal-attack-on-trump">Obama’s Barrage of Complete Sentences Seen as Brutal Attack on Trump</a>
-						</h2>
-						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/andy-borowitz" title="Andy Borowitz" rel="author">Andy Borowitz</a></h3>					</div>
-										<div class="story">
-						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/news/ryan-lizza/how-trump-gave-up-on-his-border-wall" data-src="http://www.newyorker.com/wp-content/uploads/2017/04/Lizza-Trump-wall-1-728x375-1493154795.jpg"></a>
-						<h4 class="story-section">Ryan Lizza</h4>
-						<h2 class="story-title">
-							<a href="http://www.newyorker.com/news/ryan-lizza/how-trump-gave-up-on-his-border-wall">How Trump Gave Up On His Border Wall</a>
-						</h2>
-						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/ryan-lizza" title="Ryan Lizza" rel="author">Ryan Lizza</a></h3>					</div>
-								</div>
-		</div>
-	</section>
-
-	</div>
-
-			<script src="/wp-content/assets/js/vendors/lazyload/lazyload.min.js"></script>
-			<script>
-				if (typeof LazyLoad !== 'undefined' && typeof LazyLoad !== undefined) {
-					// Images
-					new LazyLoad({
-					    elements_selector: "img.lazyload,a.lazyload",
-					    data_src: "src",
-					    data_srcset: "srcset",
-					    //callback_processed: function() { console.warn( element ); }
-					});
-				}
-			</script>
-			<!--[if IE]>
-<style>
-<script src="/wp-content/assets/js/vendors/simplemodal/simplemodal.min.js"></script>
-#link-subscription-modal{
-  display:none;
-}
-
-#modal-overlay-full,.modal-frame{
-  position:fixed;
-  top:0;
-  right:0;
-  bottom:0;
-  left:0;
-  width:0;
-  height:0;
-  display:none;
-}
-.nyr-flex-modal{
-  display:block;
-}
-</style>
-<![endif]-->
-<style>
-#the-modal-overlay{
-  z-index:9999999999!important;
-}
-</style> 
-
-<div id="the-modal-overlay" class="modal-frame">
-  <div class="modal">
-        <div id="account-modal" class="modal-inset">
-      <div class="modal-body">
-              <div id="conf-view" class="hidden-m-item nyr-flex-modal"></div>
-              <div id="signin-view" class="hidden-m-item nyr-flex-modal"></div>
-              <div id="reg-view" class="hidden-m-item nyr-flex-modal"></div>
-              <div id="link-subscription-modal" class="hidden-m-item nyr-flex-modal"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<div id="main_overlay" class="modal-overlay"></div>
-<div class="small-flex-spacer-b"></div>
-<!-- Barrier Status: 'none' -->
-<style>
-
-	div#b-modal-overlay.modal-frame{
-		z-index: 99999931 !important;
-		overflow: visible;
-	}
-
-	div#b-modal-overlay iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 100% !important;
-    width: 100% !important;
-    min-width: 100% !important;
-	}
-
-	div#main_overlay{
-		z-index:9999999;
-	}
-
-	#close-b-modal {
-		z-index: 1;
-	}
-
-	div.barrier-type[style]{
-		position:static!important;
-		max-width:none;
-	}
-
-	div.half-b {
-		max-width:90%;
-		min-width: 465px;
-		top: 10px;
-		position: relative;
-		overflow: hidden;
-	}
-	.desktop-barrier .half-b-inset {
-		min-width:0px;
-		width: 520px;
-	}
-
-	.modal-inset {
-		min-width: 0;
-	}
-
-	div#PAYWALL_BARRIER_wrapper {
-		width: 100%;
-		height: 100%;
-	}
-
-	.mob-notification-container {
-		position: absolute;
-		bottom: 0;
-		background-color: #322F31;
-		color: #FFF;
-		text-align: center;
-		min-height: 58px;
-		margin: 0 auto auto auto;
-		margin-top: 8%;
-		width: 100%;
-		left: 0;
-	}
-
-	.mob-notification-item:nth-child(1),
-	.mob-notification-item:nth-child(3) {
-		margin: 0 auto;
-	}
-
-	@media only screen and (max-width: 600px) {
-		div.half-b {
-			min-width: 0;
-		}
-	}
-
-	@media screen and ( max-height: 610px) {
-	  #b-modal-overlay {
-	    display: block;
-	  }
-
-	  #b-modal-overlay .modal {
-	    margin: 0 auto;
-	  }
-	}
-</style>
-
-<span id="failsafe-BType" attr="half"></span>
-
-<div id="b-modal-overlay" class="modal-frame" data-cns="half_barrier">
-	<div class="modal half-b">
-		<div class="modal-inset half-b-inset">
-
-			<div id="CM-notification" class="barrier-type">
-				<div class="CM-wrapper">
-					<div id="close-b-modal" class="modal-close notification-b"></div>
-					<div id="CM-notification-home-link"></div>
-					<div id="CM-notification-home-line"></div>
-					<div id="PAYWALL_BARRIER_wrapper">
-											</div>
-					<div class="bottom-barrier-divide">
-						<div class="notification-pipe-spacer"></div>
-						<div class="mobile-bottom-barrier-divide-left"><a id="linksub-from-external" href="javascript:void(0)">Link your <br/> subscription</a></div>
-						<div class="bottom-barrier-divide-left"><a id="linksub-from-external-promo" href="javascript:void(0)">Link your subscription</a></div>
-					</div>
-					<div class="mobile-barrier-divide-right begin-notification-msg">
-						Have a login?
-						<br/>
-						<span><a id="sign-in-from-notfication-mob" href="javascript:void(0)">Sign In</a></span>
-					</div>
-					<div id="login-text-wrapper" class="bottom-barrier-divide-right">
-						<span>Already have a login?</span>
-						<span><a id="sign-in-from-notfication" href="javascript:void(0)">Sign in</a></span>
-					</div>
-					<div class="mob-notification-container">
-						<div class="mob-notification-item"><a class="linksub-from-external-mobi" href="javascript:void(0)">Link Your<br/>Subscription</a></div>
-						<div class="mob-notification-item pipe-spacer-image"></div>
-						<div id="mobile-login-text-wrap" class="mob-notification-item"><span>Have a login?</span>
-							<br/><a class="signin-from-external-mobi" id="sign-in-from-notfication-mobilink" href="javascript:void(0)">Sign in</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<span id="isc_front_takeover_close">X</span>
 	</div>
 </div>
-<div class="b-modal-overlay"></div>
-<script>window.digitalData={
-    "contributor": "Kelefa Sanneh",
-    "contentID": 3084053,
-    "contentLength": "",
-    "display": "The Hell You Say",
-    "pageType": "Article",
-    "searchTerms": "",
-    "canonical": "http:\/\/www.newyorker.com\/magazine\/2015\/08\/10\/the-hell-you-say",
-    "pageValue": "all",
-    "publishDate": "2015-08-03T00:00:00+00:00",
-    "section": "magazine",
-    "subsection": "2015",
-    "numOfSearchResults": "",
-    "modifiedDate": "2015-08-03T00:00:01+00:00",
-    "keywords": {
-        "display": "books-tag|fairness-doctrine-tag|first-amendment-tag|free-speech-tag|guy-benson-tag|kirsten-powers-tag|mary-katharine-ham-tag|robin-thicke-tag|article|dept-of-disputation|kelefa_sanneh"
-    },
-    "cnUserServices": true
-};</script><script>
-  var CN = CN || {};
-  /* <![CDATA[ */
-  var platformEnvironment = "production";
-  var sitehost = "http://www.newyorker.com";
-  var omniture_init = [];
-  CN.omniture = CN.omniture || {};
-  CN.omniture.conf = {"s_account":"conde-newyorker","server":"stats2.newyorker.com","secureServer":"sstats.newyorker.com","internalFilters":"javascript:,newyorker.com,advancemags.com"};
-  /* ]]> */
+
+
+
+<noscript>
+<img style="display:none" height="1" width="1" alt="" src="//pixel.quantserve.com/pixel/p-dcxh5b8qxvs6g.gif">
+<img style="display:none" height="1" width="1" alt="" src="https://www.facebook.com/tr?id=296280873867140&ev=PageView&noscript=1">
+<img style="display:none" height="1" width="1" alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=17674108&amp;cv=2.0&amp;cj=1">
+<img style="display:none" height="1" width="1" alt="" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=l2Y7o1IW1810vg">
+</noscript>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>var disqus_shortname="breitbartproduction",disqus_domain="disqus.com",DISQUSWIDGETS;
+"undefined"===typeof DISQUSWIDGETS&&(DISQUSWIDGETS=function(){var b=document,m=b.getElementById("ContainerW"),d={},v=b.head||b.body,l={};d.domain=disqus_domain;d.forum=disqus_shortname;d.proto="https:";d.getCount=function(){var a=encodeURIComponent;var w=d.proto+"//"+disqus_shortname+"."+d.domain+"/count-data.js?",e=[],c=0,n=60,u="",f={};f.reset&&(l={},u="&_="+ +new Date);for(var f=[m.getElementsByTagName("A")],p,h,k,g,q=0;q<f.length;q++){p=f[q];for(var r=0;r<p.length;r++){h=p[r];g="#disqus_thread"===
+h.hash&&h.href.replace("#disqus_thread","")||h.getAttribute("data-dsqu");if(k=h.getAttribute("data-dsqi"))g=1;else if(g)k=g,g=2;else continue;var t;l.hasOwnProperty(k)?t=l[k]:(t=l[k]={elements:[],type:g},e.push(a(g)+"="+a(k)));t.elements.push(h)}}e.sort();for(a=e.slice(c,n);a.length;)f=b.createElement("script"),f.src=w+a.join("&")+u,v.appendChild(f),c+=60,n+=60,a=e.slice(c,n)};d.displayCount=function(a){for(var b=a.text.comments,e,c,d=a.counts;a=d.shift();)if(e=l[a.id]){switch(a.comments){case 0:c=
+b.zero;break;case 1:c=b.one;break;default:c=b.multiple}a=c.replace("{num}",a.comments);e=e.elements;for(c=e.length-1;0<=c;c--)e[c].innerHTML=a}};return d}());DISQUSWIDGETS.getCount();_atrk_opts={atrk_acct:"l2Y7o1IW1810vg",domain:"breitbart.com",dynamic:!0};(function(){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var m=document.getElementsByTagName("script")[0];m.parentNode.insertBefore(b,m)})();
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" async defer></script>
+<script src="/t/style-014939622.js" type="text/javascript" async defer></script>
 
-<script src="/wp-content/assets/js/vendors/cn-fe-stats/s_code.js"></script>
-<script src="/wp-content/assets/dist/js/article2016.min.js?cb=20170425195131"></script>
-<script>
-/* Get the in Site Catalyst object instance. This is done by using the s_account variable or similar */
-var _scObj = s_gi(CN.omniture.conf.s_account);
-/* create instance of DIL*/
-var scDil = DIL.create({
-  partner : "condenast",
-  uuidCookie:{
-     name:'aam_uuid',
-     days:30
-   }
-  });
-/*Pass the dil Instance and SC instance to this module*/
-DIL.modules.siteCatalyst.init(_scObj, scDil);
-</script>
-            <script type="text/javascript" class="site_init">
-            //<!--
-                CN.site.init({
-                    code:             'NYR',
-                    title:            'The New Yorker',
-                    name:             'newyorker',
-                    alias:            'newyorker.com',
-                    domain:           'newyorker.com',
-                    tld:              'newyorker.com',
-                    baseUrl:          'http://www.newyorker.com',
-                    mobilecompatible: 'true',
-                    httpStatusCode:    200,
-            userServiceUrl: 'https://user-service.condenastdigital.com',
-userServiceKey: 'xTqYrbfganJDRIpQjk9DyPG76bQ=',
-ecomUrl: 'https://subscribe.newyorker.com/api/circ/xml/Transaction',
-                    env: 'PROD'  // Put something consistent last so we don't have a trailing comma (appease IE)
-                });
-
-                CN.isMobile = TNY.initIsMobile;
-                CN.isTablet = jQuery.devices.tablet();
-                CN.checkDeviceView = jQuery.devices.checkDeviceView;
-            //-->
-            </script>
-                        <!-- AD INIT: CN.dart.init version 2 -->
-            <script type="text/javascript">
-            //<!--
-                CN.dartKwsArray = [ "books_tag","fairness_doctrine_tag","first_amendment_tag","free_speech_tag","guy_benson_tag","kirsten_powers_tag","mary_katharine_ham_tag","robin_thicke_tag","magazine","2015","08","10","the_hell_you_say","article","dept_of_disputation","kelefa_sanneh" ];
-
-            
-                            /* Add keywords when the barriers are active */
-                if ( TNY.meterVar.isBarrierHalf ){
-                    CN.dartKwsArray.push('novideo');
-                    CN.dartKwsArray.push('paywall');
-                    CN.dartKwsArray.push('paywallhalf');
-
-                }
-                if ( TNY.meterVar.isBarrierFull ){
-                    CN.dartKwsArray.push('noads');
-                    CN.dartKwsArray.push('paywall');
-                    CN.dartKwsArray.push('paywallfull');
-                }
-
-                /* Add keywords for subscriber status */
-                if ( TNY.meterVar.subscription === 'Active' ) {
-                    CN.dartKwsArray.push('subscriber');
-                } else {
-                    CN.dartKwsArray.push('nonsubscriber');
-                }
-                            if(CN.dart !== undefined){
-                CN.dart.init({
-                    adUnits: {
-                        unit1: CN.isMobile ? 'newyorker.mobile.dart' : 'newyorker.dart',
-                        unit2: 'magazine',
-                        unit3: 'channel_culture',
-                        unit4: ''
-                    },
-                    kws: CN.dartKwsArray,
-                    contentType: 'Article',
-                                    gptCallback : function(event){TNY.Ads.eventPubadsCallback(event)},
-                                    charmap : {' ' : '+', '-' : '_'}
-                });
-            }
-                        //-->
-                </script>
-            <script src="https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-9cb2a39d627a819b6ca42ab76f651dbfa7b1a535.js"></script>
-            <script type="text/javascript">
-                CN.popups = CN.popups || {};
-                CN.popups.setCookieLife(48);
-                // No pops!  NONE!
-                CN.popups.setArriving(false).setExiting(false).setLayer(false);
-                CN.popups.setATGArriving(false).setATGExiting(false).setATGLayer(false);
-                CN.popups.init();
-            </script>
-            
-<!-- START Parse.ly Include: Standard -->
-<div id="parsely-root" style="display: none">
-  <div id="parsely-cfg" data-parsely-site="newyorker.com"></div>
-</div>
-<script data-cfasync="false">
-(function(s, p, d) {
-  var h=d.location.protocol, i=p+"-"+s,
-      e=d.getElementById(i), r=d.getElementById(p+"-root"),
-      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
-      :"static."+p+".com";
-  if (e) return;
-  e = d.createElement(s); e.id = i; e.async = true;
-  e.setAttribute('data-cfasync', 'false'); e.src = h+"//"+u+"/p.js"; r.appendChild(e);
-})("script", "parsely", document);
-</script>
-<!-- END Parse.ly Include: Standard -->
-            <script type="text/javascript">
-            //<!--
-                CN.config.set({
-                    title        : document.title,
-                                    facebook     : {pageid: "9258148868"},
-                                    isiFrame     : true
-                });
-            //-->
-            </script>
-            <script src="/wp-content/assets/dist/js/article.min.js?cb=20170425195131"></script><aside id="footer-ad-google"><div class="ad" data-lazyad data-matchmedia="only screen and (min-width: 850px)"><script type="text/lazyad">
-<!--
-<script>  google_ad_client = 'ca-conde_newyorker';  google_ad_channel = 'newyorker_standard_a newyorker_standard_b';  google_language = 'en';  google_ad_width = '728';  google_ad_height = '90';  google_ad_format = '728x90_pas_abgc';  google_ad_type = 'text';  google_alternate_ad_url = '';  google_alternate_color = '';  google_color_bg = 'edefee';  google_color_border = '';  google_color_line = '000000';  google_color_url = '000000';  google_color_link = '000000';  google_color_text = '000000';  google_encoding = 'utf8';  google_safe = 'high';  google_adtest = 'off';  google_ad_section = 'default';</script>
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>-->
-</script>
-</div>
-</aside>
-<footer>
-			<nav id="tny-footer">
-			  <ul>
-				<li><a href="/about/us/?src=tny-footer" title="About Us">About</a></li>
-			    <li><a href="/about/careers?src=tny-footer" title="">Careers</a></li>
-				<li><a href="http://www.condenaststore.com/~/cartoon-bank?utm_medium=referral&amp;utm_source=NewYorker&ampt;utm_content=tcb-footer&amp;AID=1247905545" title="">Cartoon Bank</a></li>
-
-				<li><a href="/about/contact/?src=tny-footer" title="">Contact</a></li>
-
-				<li><a href="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" title="Customer Care">Customer Care</a></li>
-
-				<li><a href="/about/faq/?src=tny-footer" title="Frequently Asked Questions">FAQ</a></li>
-
-				<li><a href="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer" title="">Media Kit</a></li>
-				<div class="footer-forced-break"></div>
-
-				<li><a href="http://www.newyorkeronthetown.com/?src=tny-footer" title="">On The Town</a></li>
-		 		<li><a href="/about/press/?src=tny-footer" title="Press Center">Press</a></li>
-
-		 		<li><a href="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer" title="">Reprints</a></li>
-
-				<li><a href="/about/feeds/?src=tny-footer" title="">RSS</a></li>
-
-		 		<li><a href="http://www.newyorker.com/sitemap.xml" title="">Site Map</a></li>
-	
-				<li><a href="http://www.condenaststore.com/-se/newyorkerstore.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545" title="">Store</a></li>
-				<li><a href="https://projects.newyorker.com/strongbox/" title="Strongbox">SecureDrop</a></li>
-			  </ul>
-			</nav>
-			<div id="conde-footer">
-<div class="global-footer-other-sites">
-      <form action="/" name="sites_dropmenus" id="sites_dropmenus">
-          <select name="mag_list" id="mag_list">
-            <option selected="selected" value="">About</option>
-            <option value="/about/us/?src=tny-footer">About</option>
-            <option value="/about/careers?src=tny-footer">Careers</option>
-            <option value="http://www.condenaststore.com/~/cartoon-bank?utm_medium=referral&amp;utm_source=NewYorker&ampt;utm_content=tcb-footer&amp;AID=1247905545">Cartoon Bank</option>
-            <option value="/about/contact/?src=tny-footer">Contact</option>
-            <option value="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" title="Customer Care">Customer Care</option>
-            <option value="/about/faq/?src=tny-footer">FAQ</option>
-            <option value="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer">Media Kit</option>
-            <option value="http://www.newyorkeronthetown.com/?src=tny-footer">On The Town</option>
-            <option value="/about/press/?src=tny-footer">Press</option>
-            <option value="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer">Reprints</option>
-            <option value="/about/feeds/?src=tny-footer">RSS</option>
-            <option value="http://www.newyorker.com/sitemap.xml">Site Map</option>
-            <option value="http://www.condenaststore.com/-se/newyorkerstore.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545">Store</option>
-            <option value="https://projects.newyorker.com/strongbox/>">Strongbox</option>
-          </select>
-      </form>
-  </div>
-<div class="mobile-divider"></div>
-  <div class="global-footer-logo">
-    <a href="http://www.condenast.com?src=tny-footer" title="Cond&eacute; Nast Digital">Cond&eacute; Nast Digital</a>
-  </div>
-  <div class="footer-copy-text">
-  © 2017 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" target="_blank">user agreement</a> (effective 1/2/2016) and <a href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank">privacy policy</a>  (effective 1/2/2016).  Your <a href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">California privacy rights</a>. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with prior written permission of Condé Nast.  </div>
-  <div class="global-footer-sister-sites">
-      <form action="/" name="mag_dropmenus" id="mag_dropmenus">
-          <select name="mag_list" id="mag_list">
-            <option selected="selected" value="">Our sites</option>
-            <option value="http://www.allure.com?src=tny-footer">Allure</option>
-            <option value="http://www.architecturaldigest.com?src=tny-footer">Architectural Digest</option>
-            <option value="http://www.arstechnica.com?src=tny-footer">Ars Technica</option>
-            <option value="http://www.backchannel.com?src=tny-footer">Backchannel</option>
-            <option value="http://www.bonappetit.com?src=tny-footer">Bon App&eacute;tit</option>
-            <option value="http://www.brides.com?src=tny-footer">Brides.com</option>
-            <option value="http://www.concierge.com/cntraveler?src=tny-footer">Cond&eacute; Nast Traveler</option>
-            <option value="http://www.epicurious.com?src=tny-footer">Epicurious</option>
-            <option value="http://www.glamour.com?src=tny-footer">Glamour</option>
-            <option value="http://www.golfdigest.com?src=tny-footer">Golf Digest</option>
-            <option value="http://www.golfworld.com?src=tny-footer">Golf World</option>
-            <option value="http://www.gq.com?src=tny-footer">GQ</option>
-            <option value="http://www.gq.com/style?src=tny-footer">GQ Style</option>
-            <option value="http://www.pitchfork.com?src=tny-footer">Pitchfork</option>
-            <option value="http://www.self.com?src=tny-footer">Self</option>
-            <option value="http://www.teenvogue.com?src=tny-footer">Teen Vogue</option>
-            <option value="http://www.vanityfair.com?src=tny-footer">Vanity Fair</option>
-            <option value="http://www.vogue.com?src=tny-footer">Vogue</option>
-            <option value="http://www.wmagazine.com?src=tny-footer">W</option>
-            <option value="http://www.wired.com?src=tny-footer">Wired</option>
-          </select>
-      </form>
-  </div>
-   <div class="footer-copy-text-mobile-only">
-  © 2017 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" target="_blank">user agreement</a> (effective 1/2/2016) and <a href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank">privacy policy</a>  (effective 1/2/2016).  Your <a href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">California privacy rights</a>. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with prior written permission of Condé Nast.  </div>
-</div>
-		</footer>
+<!-- 2 queries. 0.137 seconds. -->
 </body>
 </html>

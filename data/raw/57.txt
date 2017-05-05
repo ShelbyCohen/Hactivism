@@ -1,618 +1,1204 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<!doctype html>
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Susan B. Anthony House :: Labor Activist</title>
-<meta name="author" content="Web Wizardry - http://www.web-wizardry.com">
-<meta name="description" content="Home & artifacts of Susan B. Anthony in Rochester, NY. Museum and National Historic Landmark of the champion of suffrage, abolition, temperance and equal rights. The 19th Amendment granting women the right to vote was credited to her efforts.">
-<meta name="keywords" content="Susan B. Anthony, Susan B. Anthony House, national historic landmark, museum, suffrage, suffragette, suffragist, reformer, historian, woman's history, women history, women's history, woman's studies, women studies, women's studies, woman's rights, women rights, women's rights, woman's right to vote, women's right to vote, 19th amendment, voting, civil rights, equality, equal rights, hero, heroine, prohibition, temperance, labor, property law, abolition, slavery, frederick douglass, 19th century, 1800s, victorian era, progressive era, antiques, Rochester">
+	<script>var CN={}; var TNY = {};</script>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="HandheldFriendly" content="true">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="The New Yorker">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="environment" content="prod">
+<meta name="cache-version" content="20170503010843">
+<meta name="account-url" content="https://account.newyorker.com">
+<meta name="id" content="2815505">
+<meta name="google-site-verification" content="_jvLA9pRQom0-f6587wRKrNwfRtqyKzjfYWvwcZ5fxc">
+<link rel="apple-touch-icon" href="/wp-content/assets/dist/img/icon/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" href="/wp-content/assets/dist/img/icon/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/wp-content/assets/dist/img/icon/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/assets/dist/img/icon/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wp-content/assets/dist/img/icon/apple-touch-icon-144x144-precomposed.png">
 
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
-<link href="../styles.css" rel="stylesheet" type="text/css" />
-<link href="../nav-styles.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="../js/chrome.js"></script>
-</head>
 
-<body><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<meta property="fb:admins" content="501890909">
+<meta property="fb:admins" content="757909316">
+<meta name="apple-itunes-app" content="app-id=1081530898">
 
-  ga('create', 'UA-46688524-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+<title>Inside the Fast-Food Labor Protests - The New Yorker</title>
+		<meta itemprop="name" content="Dignity">
+				<meta name="pub-type" content="article" >
+				<meta name="numericpub" content="September 15, 2014">
+			<meta name="numericpub" content="September 15, 2014">
 	
-	<!--- START CONTAINER --->
-	<div id="container">
-		<!--- START LEFT --->
-		<div id="left">
-			<a href="../index.php"><div id="logo">
-				<h1>Susan B. Anthony House</h1>
-			</div></a>
-			
-			<!--- START NAV --->
-            <link href="../nav-styles.css" rel="stylesheet" type="text/css">
+<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="William Finnegan on the fast-food workers’ movement and the fight, with the help of the S.E.I.U., for a livable minimum wage and a union."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.newyorker.com/magazine/2014/09/15/dignity-4" />
+<link rel="publisher" href="https://plus.google.com/+newyorker"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Lasting Dignity for Fast-Food Workers" />
+<meta property="og:description" content="Fast-food workers aren&#039;t just kids earning gas money. Many are raising families, and often McJobs are the only jobs available." />
+<meta property="og:url" content="http://www.newyorker.com/magazine/2014/09/15/dignity-4" />
+<meta property="og:site_name" content="The New Yorker" />
+<meta property="og:image" content="http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-1200-630.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Fast-food workers aren&#039;t just kids earning gas money. Many are raising families, and often McJobs are the only jobs available." />
+<meta name="twitter:title" content="Lasting Dignity for Fast-Food Workers" />
+<meta name="twitter:site" content="@newyorker" />
+<meta name="twitter:image" content="http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-1200-630.jpg" />
+<meta name="twitter:creator" content="@newyorker" />
+<!-- / Yoast SEO plugin. -->
 
+<style type="text/css" id="css-site-overrides">
+#parallax9x2_frame {
+    display: none !important;
+}
 
+h2 {
+text-transform:none
+}
+input#createpass1, input#createpass2{
+    text-transform:none!important
+}
+input#userpass, input#userpass-link{
+    text-transform:none!important
+}
+.most-popular .post-byline {
+    text-transform:none!important
+}
+#tny-overlay .credit {
+    text-transform:none!important
+}
+article figure .credit {
+    text-transform:none!important
+}
+.module.contributors h2, .the-latest-container h2{
+    text-transform:none!important
+}
+#mobi-nav-link{
+    font-size:63%!important;
+    font-weight:normal!important;
+}
+.signin-sub,.modal-intro{
+    font-weight:normal!important
+}
 
-<style type="text/css">
+.hamburger-dropdowns-navigation__flyout-link-text{
+    font-weight:normal!important
+}
 
+.primary-nav>ul a {
+    font-weight:normal!important;
+}
+article>header .title {
+    margin: 5px 0 12px!important;
+}
+article>header .contributors, article>header .contributors+.comma{
+    position:static!important;
+    font-weight:normal!important;
+    bottom:0;
+}
+article>header time {
+    position: static!important;
+}
+.the-latest-container h2 {
+    font-weight:normal!important
+}
+.header-ad .advertisement.loaded {
+    margin-top: 15px;
+    padding-bottom:24px;
+}
 
+header#hd li.n-store a {
+  color: #df3331;
+}
 
-<!--
+.module.contributors h2{
+    text-transform:none!important
+}
+#mobi-nav-link{
+    font-size:63%!important;
+    font-weight:normal!important;
+}
 
+.body.cartoons div#caption-contest-first {
+height:auto;
+}
+h3{
+font-weight:normal!important;
+}
+@media (min-width: 600px) {
+.featured-header .normal-feature section h2 span {
+font-size: 38px;
+}
+}
 
-
-.style1 {
-
-
-
-	color: #3366CC;
-
-
-
-	font-weight: bold;
-
-
-
+#hd .primary-nav {
+  max-height: 225px;
 }
 
 
+.cns-ads-slot-type-modal-0.cns-ads-slot-size-9x4 {
+    z-index: 16777275 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://www.newyorker.com/wp-json/' />
+<link rel='shortlink' href='http://www.newyorker.com/?p=2815505' />
+        <!-- Start BounceX tag. Deploy at the beginning of document head. -->
+        <script>
+        (function(d) {
+            var e = d.createElement('script');
+            e.src = d.location.protocol + '//tag.bounceexchange.com/1990/i.js';
+            e.async = true;
+            d.getElementsByTagName("head")[0].appendChild(e);
+        }(document));
+        </script>
+        <!-- End BounceX Tag-->
+        			<style>
+				img:not([src]) {
+					visibility: hidden;
+				}
+				img:not([src]):not([srcset]) {
+					visibility: hidden;
+				}
+				/* Fixes Firefox anomaly during image load */
+				@-moz-document url-prefix() {
+					img:-moz-loading {
+						visibility: hidden;
+					}
+				}
+			</style>
+			<meta name="news_keywords" content=""><link rel='https://github.com/WP-API/WP-API' href='http://www.newyorker.com/wp-json' />
+<!-- BEGIN wp-parsely Plugin Version 1.10.1 -->
+<meta name='wp-parsely_version' id='wp-parsely_version' content='1.10.1' />
+	<script type="application/ld+json">
+	{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.newyorker.com\/magazine\/2014\/09\/15\/dignity-4"},"headline":"Dignity","url":"http:\/\/www.newyorker.com\/magazine\/2014\/09\/15\/dignity-4","thumbnailUrl":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/09\/140915_r25472-320-240-1.jpg","image":{"@type":"ImageObject","caption":"A demonstration by fast-food workers last week in Manhattan. One recent study found that fifty-two per cent of fast-food workers require some form of public assistance.","description":"Photograph by Mark Peterson\u00a0\/ Redux","contentUrl":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/09\/140915_r25472-690-658.jpg","url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/09\/140915_r25472-690-658.jpg","width":"690px","height":"658px"},"dateCreated":"2014-09-08T04:00:48Z","datePublished":"2014-09-08T04:00:48Z","dateModified":"2016-12-01T13:34:23Z","articleSection":"A Reporter at Large","author":[{"@type":"Person","name":"William Finnegan","url":"http:\/\/www.newyorker.com\/contributors\/william-finnegan"}],"creator":[{"@type":"Person","name":"William Finnegan","url":"http:\/\/www.newyorker.com\/contributors\/william-finnegan"}],"publisher":{"@type":"Organization","name":"The New Yorker","url":"http:\/\/www.newyorker.com\/","logo":{"@type":"ImageObject","url":"http:\/\/www.newyorker.com\/\/wp-content\/assets\/dist\/img\/icon\/apple-touch-icon-114x114-precomposed.png","width":"114px","height":"114px"}},"keywords":[],"@id":"http:\/\/www.newyorker.com\/magazine\/2014\/09\/15\/dignity-4","articleId":"2815505","custom_metadata":{"id":2815505,"title_alt":"Lasting Dignity for Fast-Food Workers","featured_image_url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/09\/140915_r25472-728-375.jpg"}}	</script>
+			<meta name='parsely-metadata' content='{"id":2815505,"title_alt":"Lasting Dignity for Fast-Food Workers","featured_image_url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/09\/140915_r25472-728-375.jpg"}' />
+		<!-- END wp-parsely Plugin Version 1.10.1 -->
 
--->
+		<style type="text/css">
+			body.customize-support #hd.collapsed #nav-container {
+				margin-top: 28px;
+			}
+		</style><link rel="amphtml" href="http://www.newyorker.com/magazine/2014/09/15/dignity-4/amp" />            <script type="text/javascript" id="evolok-include">
+                var EVOLOK = {
+                "activeMeter"    : {
+                    "metername"  : "dft",
+                    "max"        : "6",
+                    "count"      : "1",
+                    "viewed"     : "0",
+                    "abGroup"    : "",
+                    "abValue"    : ""
+                },
+                "cnee"             : {
+                    "subscription" : "",
+                    "entitlement"  : "",
+                },
+                 "sessionInfo"    : {
+                    "ev_sid"     : "590b79d1e4b075769f672255",
+                    "ev_did"     : "",
+                    "ev_ss"      : "",
+                },
+                "exceededMeter"  : "0",
+                "pid"            : "",
+                "paywall_status" : "ALLOW_ACCESS"
+            };
+            </script>
+            <script type="text/javascript" id="evolok-debug">
+                if ( typeof EVOLOK === "undefined" ) {
+                    /* Default Object */
+                    var EVOLOK = {
+                        "activeMeter": { "metername": "", "max": "", "count": "", "viewed": "0", "abGroup": "", "abValue": ""  },
+                        "cnee": { "subscription": "", "entitlement": "" },
+                        "sessionInfo": { "ev_sid": "", "ev_did": "", "ev_ss": "" },
+                        "exceededMeter": "0",
+                        "pid": "",
+                        "paywall_status": "ALLOW_ACCESS"
+                    };
+                }
+
+                /* Quick and dirty cookie set */
+                if ( EVOLOK.sessionInfo.ev_sid !== "" ) {
+                    matchsid = document.cookie.match(new RegExp('ev_sid' + '=([^;]+)'));
+                    if ( matchsid === null || ( matchsid && ( matchsid[1] !== EVOLOK.sessionInfo.ev_sid ) ) ) {
+                        // Set the cookie, or replace an existing sid cookie that doesn't match the sid
+                        document.cookie = "ev_sid=" + EVOLOK.sessionInfo.ev_sid +";domain=.newyorker.com;path=/;max-age=" + ( 60*60*24*30 ); // 30 days
+                    }
+                }
+                if ( EVOLOK.sessionInfo.ev_did !== "" ) {
+                    matchdid = document.cookie.match(new RegExp('ev_did' + '=([^;]+)'));
+                    if ( matchdid === null || ( matchdid && ( matchdid[1] !== EVOLOK.sessionInfo.ev_did ) ) ) {
+                        // Set the cookie, or replace an existing did cookie that doesn't match the did
+                        document.cookie = "ev_did=" + EVOLOK.sessionInfo.ev_did +";domain=.newyorker.com;path=/;max-age=" + ( 60*60*24*30 ); // 30 days
+                    }
+                }
+
+                /* TNY object */
+                var TNY = TNY || {};
+                TNY.meterVar = {
+                    'meter_name'     : EVOLOK.activeMeter.metername || "",
+                    'meter_max'      : EVOLOK.activeMeter.max || "",           // Max articles to view
+                    'meter_count'    : EVOLOK.activeMeter.count || "",         // Articles viewed
+                    'meter_viewed'   : EVOLOK.activeMeter.viewed || "0",       // Previously viewed article - [ 'false' || 'true' ]
+                    'meter_ab_group' : EVOLOK.activeMeter.abGroup || "",
+                    'meter_ab_value' : EVOLOK.activeMeter.abValue || "",
+                    'subscription'   : EVOLOK.cnee.subscription || "false",    // User has a subscription [ Active || 'false' ]
+                    'entitlement'    : EVOLOK.cnee.entitlement || "false",          // comma-separated list of strings that were passed back by the CNEE auth API
+                    'loggedin'       : "false",
+                    'barrier_status' : "none",                                 // none || half || full
+                    'paywall_status' : EVOLOK.paywall_status || "ALLOW_ACCESS" // ALLOW_ACCESS || REQUIRE_LOGIN || REQUIRE_ENTITLEMENT
+                };
+
+                if ( ( TNY.meterVar.meter_count == ( (TNY.meterVar.meter_max/2)+1 ) ) ) {
+                    /* User has seen half */
+                    TNY.meterVar.barrier_status = 'half';
+
+                } else if ( TNY.meterVar.paywall_status !== 'ALLOW_ACCESS' ) {
+                    /* Full barrier time! */
+                    TNY.meterVar.barrier_status = 'full';
+                }
+
+                // Check for amg_user cookie
+                matchee_login = document.cookie.match(new RegExp('amg_user' + '=([^;]+)'))
+                if ( matchee_login != null && matchee_login[1] !== '' ) {
+                    TNY.meterVar.loggedin = 'true';
+                }
+
+                // Check for ee_status cookie
+                matchee_status = document.cookie.match(new RegExp('ee_status' + '=([^;]+)'));
+                if ( matchee_status != null && matchee_status[1] == 'true' ) {
+                    TNY.meterVar.subscription = 'Active';
+                }
+
+                // Check for ev_entitlements cookie
+                matchee_details = document.cookie.match(new RegExp('ev_entitlements' + '=([^;]+)'));
+                if ( matchee_details != null && matchee_details[1] != 'false' ) {
+                    TNY.meterVar.entitlement = JSON.parse( matchee_details[1] );
+                }
+
+                // Manage the localStorage variables that omniture uses for barrier tracking
+                if ( typeof localStorage !== undefined ) {
+                    // Meter Counting
+                    var current_meter = TNY.meterVar.meter_name;
+                    if ( TNY.meterVar.meter_count <= TNY.meterVar.meter_max && EVOLOK.exceededMeter !== '1' ) {
+                        // If user hasn't exceeded the meter, sync the meter_count and visitedCount.
+                        localStorage.setItem( "visitedCount_"+current_meter, TNY.meterVar.meter_count );
+                    } else {
+                        // Once the meter is exceeded start incrementing local storage from the current value
+                        visitedCount = localStorage.getItem( "visitedCount_"+current_meter );
+                        if ( TNY.meterVar.meter_viewed !== '1' ) {
+                            visitedCount++;
+                        }
+                        localStorage.setItem( "visitedCount_"+current_meter, visitedCount );
+                    }
+                }
+
+                /* Default to no barriers */
+                TNY.meterVar.isBarrierHalf = false;
+                TNY.meterVar.isBarrierFull = false;
+
+                if ( TNY.meterVar.meter_count === "" || TNY.meterVar.meter_max === "" ) {
+                    /* oh noes, default values */
+
+                } else if ( TNY.meterVar.meter_viewed === '1' || TNY.meterVar.subscription === 'Active' ) {
+                    /* Page was already viewed, or user has a subscription */
+
+                } else if ( TNY.meterVar.barrier_status === 'half' && TNY.meterVar.meter_viewed !== '1' ) {
+                    /* User has seen half */
+                    TNY.meterVar.isBarrierHalf = true;
+
+                } else if ( TNY.meterVar.barrier_status === 'full' && TNY.meterVar.meter_viewed !== '1' ) {
+                    /* Full barrier time! */
+                    TNY.meterVar.isBarrierFull = true;
+                }
+            </script>
+                		<!-- MINIFIED NO CACHE -->
+		<script>
+		!function(b,c,d){"use strict";var e=b.location.hostname,f=""!==b.location.port?":"+b.location.port:"",g=location.search.match(/CNS_SB=([^&\s]+)[&\s]?/)||[],h=e+f+"/cns"+(g.length?"-sandbox/"+g[1]:"")+"/services.min.js",i=d||"//"+h;b.cns=b.cns||{async:function(b,c){this.queue[b]||(this.queue[b]=[]),"function"==typeof c&&this.queue[b].push(c)},queue:{},embed:{backup:d}};var j;j=c.createElement("script"),j.async=!0,j.src=i,c.head.appendChild(j)}(window,document,null);
+		</script>
+	<script>
+		window.configCNS = {
+			env:'production',
+			channel: "magazine",
+			subchannel: "channel_business"
+		}
+	</script>
+	<link rel="stylesheet" href="/wp-content/assets/dist/css/critical.min.css?v=20170503010843" />
+<style>small {
+text-transform: uppercase;
+}</style>
+</head>
+<body class="article">
+
+<header class="hamburger-dropdowns-navigation__header-overrides js-main-nav-outer">
+	<nav class="hamburger-dropdowns-navigation js-main-nav">
+		<figure class="hamburger-dropdowns-navigation__hamburger-icon js-hamburger-icon">
+						<div class="line"></div>
+			<div class="line"></div>
+			<div class="line"></div>
+		</figure>
+				<div class="hamburger-dropdowns-navigation__horizontal-bar js-nav-bar">
+			<section class="hamburger-dropdowns-navigation__top-level">
+								<div class="hamburger-dropdowns-navigation__pseudo-hover-state js-pseudo-hover-state"></div>
+								<div class="hamburger-dropdowns-navigation__active-state js-active-state"></div>
+								<ul class="hamburger-dropdowns-navigation__meta-option-list">
+					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--sections js-expand-flyout js-meta-option">
+						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Sections</h3>
+					</li>
+					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--latest js-meta-option" data-activate-panel="latest">
+						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Latest</h3>
+					</li>
+					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--popular js-meta-option" data-activate-panel="popular">
+						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Popular</h3>
+					</li>
+					<li class="hamburger-dropdowns-navigation__meta-option hamburger-dropdowns-navigation__meta-option--search js-meta-option" data-activate-panel="search">
+						<div class="icon"></div>
+						<h3 class="hamburger-dropdowns-navigation__meta-option-text">Search</h3>
+					</li>
+					<li class="hamburger-dropdowns-navigation__meta-option--subscribe">
+						        <div id="AMS_NYR_MOBILE_NAVBAR"></div>					</li>
+				</ul>
+				<a href="/" class="hamburger-dropdowns-navigation__home-link" ><figure class="hamburger-dropdowns-navigation__tny-logo" ></figure></a>
+				<ul class="hamburger-dropdowns-navigation__misc-links">
+					<li class="hamburger-dropdowns-navigation__misc-link hamburger-dropdowns-navigation__misc-link--primary-signin js-user-actions" >
+						<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--signin js-user-sign-in" >Sign in</h5>
+						<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--account-signout js-user-account-and-sign-out" ><a href="#" class="js-user-account">My Account</a> <span class="pipe">|</span> <span class="js-user-signout">Sign Out</span></h5>
+					</li>
+					<li class="hamburger-dropdowns-navigation__misc-link">
+						<a target="_blank" href="http://www.condenaststore.com/~/new-yorker-store?utm_medium=referral&utm_source=NewYorker&utm_content=SHOP&AID=1247905545">
+							<h5 class="hamburger-dropdowns-navigation__misc-link-text">TNY Store</h5>
+						</a>
+					</li>
+					<li class="hamburger-dropdowns-navigation__misc-link hamburger-dropdowns-navigation__misc-link--cm-unit">
+						          <div id="ARTICLE_NAVBAR"></div>					</li>
+				</ul>
+			</section>
+			<section class="hamburger-dropdowns-navigation__secondary-level">
+				<ul class="hamburger-dropdowns-navigation__secondary-content">
+					<li class="hamburger-dropdowns-navigation__secondary-content-panel js-secondary-content-panel" data-panel-id="latest">
+						<div class="hamburger-dropdowns-navigation__secondary-content-inner" data-deferred-feed="latest">
+									<ol class="hamburger-dropdowns-navigation__article-list">
+			<li class="hamburger-dropdowns-navigation__article ">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/Platt-Twelve-Tone-Technique-Schoenberg-320x240-1493836854.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/culture/culture-desk/wrestling-with-the-twelve-tone-technique-of-schoenberg"><h6 class="hamburger-dropdowns-navigation__article-title">Wrestling with the Twelve-Tone Technique of Schoenberg</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/russell-platt" title="Russell Platt" rel="author">Russell Platt</a></span></p>
+			</div>
+		</div>
+	</li>	<li class="hamburger-dropdowns-navigation__article ">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/Lavin-Cooking-With-Dog-320-240.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/culture/rabbit-holes/the-poodle-who-hosts-a-japanese-cooking-show-from-beyond-the-grave"><h6 class="hamburger-dropdowns-navigation__article-title">The Poodle Who Hosts a Japanese Cooking Show from Beyond the Grave</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/talia-lavin" title="Talia Lavin" rel="author">Talia Lavin</a></span></p>
+			</div>
+		</div>
+	</li>	<li class="hamburger-dropdowns-navigation__article ">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/Kim-Peter-Kwong-320x240-1493839738.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/news-desk/remembering-a-pioneer-of-asian-american-studies"><h6 class="hamburger-dropdowns-navigation__article-title">Remembering a Pioneer of Asian-American Studies</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/e-tammy-kim" title="E. Tammy Kim" rel="author">E. Tammy Kim</a></span></p>
+			</div>
+		</div>
+	</li>	<li class="hamburger-dropdowns-navigation__article ">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/Cassidy-James-Comey-Two-Door-Choice-320x240-1493844602.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/john-cassidy/james-comeys-two-door-choice"><h6 class="hamburger-dropdowns-navigation__article-title">James Comey’s Two-Door Story Isn&#8217;t Convincing</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/john-cassidy" title="John Cassidy" rel="author">John Cassidy</a></span></p>
+			</div>
+		</div>
+	</li>		</ol>
+								</div>
+					</li>
+					<li class="hamburger-dropdowns-navigation__secondary-content-panel js-secondary-content-panel" data-panel-id="popular">
+						<div class="hamburger-dropdowns-navigation__secondary-content-inner" data-deferred-feed="popular">
+									<ol class="hamburger-dropdowns-navigation__article-list">
+			<li class="hamburger-dropdowns-navigation__article post">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/Rothman-J-Crew-1-320x240-1493844106.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/business/currency/why-j-crews-vision-of-preppy-america-failed"><h6 class="hamburger-dropdowns-navigation__article-title">Why J. Crew’s Vision of Preppy America Failed</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/joshua-rothman" title="Joshua Rothman" rel="author">Joshua Rothman</a></span></p>
+			</div>
+		</div>
+	</li>	<li class="hamburger-dropdowns-navigation__article post">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/170508_r29898_rd-320x240-1493318757.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/magazine/2017/05/08/how-trump-could-get-fired"><h6 class="hamburger-dropdowns-navigation__article-title">How Trump Could Get Fired</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/evan-osnos" title="Evan Osnos" rel="author">Evan Osnos</a></span></p>
+			</div>
+		</div>
+	</li>	<li class="hamburger-dropdowns-navigation__article post">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/04/Collier-Tinder-Guy-Holding-a-Fish-320x240-1493302757.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/humor/daily-shouts/i-am-a-tinder-guy-holding-a-fish-and-i-will-provide-for-you"><h6 class="hamburger-dropdowns-navigation__article-title">I Am a Tinder Guy Holding a Fish and I Will Provide for You</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/amy-collier" title="Amy Collier" rel="author">Amy Collier</a></span></p>
+			</div>
+		</div>
+	</li>	<li class="hamburger-dropdowns-navigation__article post">
+		<div class="hamburger-dropdowns-navigation__article-container" >
+		 <figure class="hamburger-dropdowns-navigation__article-image" style="background-image: url('http://www.newyorker.com/wp-content/uploads/2017/05/Cassidy-James-Comey-Two-Door-Choice-320x240-1493844602.jpg');'" ></figure>
+			<div class="hamburger-dropdowns-navigation__article-details">
+				<a class="hamburger-dropdowns-navigation__article-title-link" href="http://www.newyorker.com/news/john-cassidy/james-comeys-two-door-choice"><h6 class="hamburger-dropdowns-navigation__article-title">James Comey’s Two-Door Story Isn’t Convincing</h6></a>
+				<p class="hamburger-dropdowns-navigation__article-byline">by <span class="author"><a href="http://www.newyorker.com/contributors/john-cassidy" title="John Cassidy" rel="author">John Cassidy</a></span></p>
+			</div>
+		</div>
+	</li>		</ol>
+								</div>
+					</li>
+					<li class="hamburger-dropdowns-navigation__secondary-content-panel hamburger-dropdowns-navigation__secondary-content-panel--search js-secondary-content-panel" data-panel-id="search">
+						<div class="hamburger-dropdowns-navigation__secondary-content-inner">
+							<form class="hamburger-dropdowns-navigation__search-form js-search-form" action="/search">
+								<input type="search" class="hamburger-dropdowns-navigation__search-input js-header-search-input" placeholder="Search The New Yorker" name="q" autocomplete="off"/>
+								<button type="submit" class="hamburger-dropdowns-navigation__search-submit">Go</button>
+							</form>
+						</div>
+					</li>
+				</ul>
+			</section>
+		</div>
+		<section class="hamburger-dropdowns-navigation__flyout-menu js-flyout-menu">
+			<div class="hamburger-dropdowns-navigation__misc-link--flyout js-user-actions">
+				<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--signin js-user-sign-in" >Sign in</h5>
+				<h5 class="hamburger-dropdowns-navigation__misc-link-text hamburger-dropdowns-navigation__misc-link-text--account-signout js-user-account-and-sign-out" ><a href="#" class="js-user-account">My Account</a> <span class="pipe">|</span> <span class="js-user-signout">Sign Out</span></h5>
+			</div>
+			<ul class="hamburger-dropdowns-navigation__flyout-link-list">
+				<!-- <li class="hamburger-dropdowns-navigation__misc-link hamburger-dropdowns-navigation__misc-link--flyout js-user-actions" >
+				</li> -->
+
+		    <li class="hamburger-dropdowns-navigation__flyout-link tny-nav-news menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/news">News</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-culture menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/culture">Culture</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-books menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  title="Books &#038; Fiction" href="http://www.newyorker.com/books">Books</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/business">Business & Tech</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-humor menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/humor">Humor</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/cartoons">Cartoons</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-magazine menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/magazine">Magazine</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://video.newyorker.com/">Video</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/podcast">Audio</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link tny-nav-archive menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="http://www.newyorker.com/archive">Archive</a></h3></li>
+<li class="hamburger-dropdowns-navigation__flyout-link menu-item"><h3 class="hamburger-dropdowns-navigation__flyout-link-text"><a  href="/goings-on-about-town/">Goings On</a></h3></li>
+
+				<li class="hamburger-dropdowns-navigation__flyout-link hamburger-dropdowns-navigation__flyout-search">
+					<a href="/search" class="hamburger-dropdowns-navigation__flyout-search-icon"><h3 class="hamburger-dropdowns-navigation__flyout-link-text">Search</h3></a>
+				</li>
+			</ul>
+
+			<div class="hamburger-dropdowns-navigation__flyout-menu-cm-unit">
+				        <div id="ARTICLE_HAMBURGER"></div>			</div>
+
+		</section>
+		<div class="hamburger-dropdowns-navigation__no-clicky js-no-click"></div>
+	</nav>
+
+</header>
+
+
+			<div class="header-ad"></div>
+		<div class="header-fail"></div>
+	
+	<div data-jivox-ad-id="constellation-crown" data-constellation-id="crown"></div>
+	<script>
+		var TNY = TNY || {};
+		TNY.tags = ["article","","magazine","2014","09","15","dignity-4"];
+	</script>
+	<div id="promotion-header"></div>
+	<div id="topBanner728x90_frame"></div>
+
+	<article class="two-column" data-details="{&quot;title&quot;:&quot;Dignity&quot;,&quot;author&quot;:[362401,&quot;William Finnegan&quot;,&quot;http:\/\/www.newyorker.com\/contributors\/william-finnegan&quot;],&quot;wordCount&quot;:7769,&quot;paragraphCount&quot;:70}" itemscope itemtype="http://schema.org/NewsArticle" itemid="http://www.newyorker.com/magazine/2014/09/15/dignity-4">
+				<meta itemprop="articleSection" content="A Reporter at Large">
+				<meta name="pubdate" content="20140908">
+				<meta itemprop="mainEntityOfPage" content="http://www.newyorker.com/magazine/2014/09/15/dignity-4" />
+				<div itemprop="publisher" itemtype="http://schema.org/Organization" itemscope>
+			<meta itemprop="name" content="The New Yorker" >
+			<meta itemprop="url" content="http://www.newyorker.com" >
+			<div itemprop="logo" itemscope itemtype="http://schema.org/ImageObject" >
+								<meta itemprop="url" content="http://www.newyorker.com//wp-content/assets/dist/img/icon/ie-square310x310logo.png" />
+			</div>
+		</div>
+
+				 <meta itemProp="keywords" content="article,,magazine,2014,09,15,dignity-4">
 
 
 
+		<div class="floatingAd-wrapper">          <div id="floatingAd" style="display:none;">
+            <div id="floatingAd_content">
+              <div id="AMS_NYR_POPUP_FLOATINGAD"></div>
+              <div id="floatingAd_header"><a href="javascript:void(0)" class="close">Close</a></div>
+            </div>
+          </div></div>
+	<header id="page" >
+		 				<hgroup id="masthead">
+
+				
+				<div class="rubric-and-issue-date">
+										<h4 class="rubric">
+						<a href="http://www.newyorker.com/magazine/a-reporter-at-large" title="A Reporter at Large">A Reporter at Large</a>
+					</h4>
+																	<a class="issue-publish-date-link" href="http://www.newyorker.com/magazine/2014/09/15" title="Published in 2014-09-15">
+								<time class="issue" itemprop="datePublished" content="2014-09-08">September 15, 2014 Issue</time>
+							</a>
+															<meta itemprop="dateModified" content="December 1, 2016" />
+				</div>
+				<h1 class="title" itemprop="headline">Dignity</h1>
+		<h2 class="dek" itemprop="alternativeHeadline">Fast-food workers and a new form of labor activism.</h2><div class="byline-and-date">
+<div style="background-image: url(http://www.newyorker.com/wp-content/uploads/2014/07/finnegan-william.svg)" class="contributor-image" ></div><h3 class="contributors">By<span itemscope itemprop="author" itemtype="http://schema.org/Person"> <meta itemprop="url" content="http://www.newyorker.com/contributors/william-finnegan" > <a href="http://www.newyorker.com/contributors/william-finnegan" title="William Finnegan" rel="author" itemprop="url"><span itemprop="name">William Finnegan</span></a></span></h3></div>		</hgroup>
+	
+<div class="social-module js-social-module">
+	<ul class="options">
+				<li class="option facebook js-option-facebook">
+
+			
+			<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/magazine/2014/09/15/dignity-4&display=popup&ref=plugin" target="_blank">
+				<!-- <div class="icon"> -->
+					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="156.5 249.1 295.7 296.3" enable-background="new 156.5 249.1 295.7 296.3" xml:space="preserve"><path id="White_2_" fill="#FFFFFF" d="M429.7,249.1H179.4c-9,0-22.9,13.9-22.9,22.9v250.3c0,9,13.9,22.9,22.9,22.9h135.3V430.5H276	V386h38.7v-32.9c0-38.3,23.5-59.3,57.7-59.3c16.4,0,30.3,1.3,34.5,1.6v39.9H383c-18.7,0-22.2,8.7-22.2,21.9V386h44.1l-5.8,44.8	h-38.7v114.7h68.9c9,0,22.9-13.9,22.9-22.9V272C452.9,263,438.7,249.1,429.7,249.1z"/></svg>				<!-- </div> -->
+			</a>
+		</li>
+
+		<li class="option twitter js-option-twitter">
+
+			
+			<a class="twitter" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/magazine/2014/09/15/dignity-4&text=Dignity&tw_p=tweetbutton&url=http://www.newyorker.com/magazine/2014/09/15/dignity-4&via=newyorker" target="_blank">
+				<!-- <div class="icon"> -->
+					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="153 274.6 305.4 248.7" enable-background="new 153 274.6 305.4 248.7" xml:space="preserve"><g>	<path fill="#FFFFFF" d="M458.4,304.2c-11.3,4.8-23.2,8.4-36.1,10c12.9-7.7,22.9-20,27.7-34.8c-12.2,7.1-25.4,12.6-39.9,15.1		c-11.6-12.2-27.7-20-45.7-20c-34.8,0-62.8,28-62.8,62.8c0,4.8,0.6,9.7,1.6,14.2c-52.2-2.6-98.2-27.4-129.2-65.4		c-5.5,9.3-8.4,20-8.4,31.6c0,21.9,11,40.9,28,52.2c-10.3-0.3-20-3.2-28.3-7.7c0,0.3,0,0.6,0,0.6c0,30.3,21.6,55.7,50.2,61.5		c-5.2,1.3-11,2.3-16.4,2.3c-4.2,0-8.1-0.3-11.9-1c8.1,24.8,31.2,43.2,58.6,43.5c-21.6,16.7-48.6,26.7-77.9,26.7		c-5.2,0-10-0.3-14.8-1c27.7,17.7,60.9,28.3,96.3,28.3c115.3,0,178.4-95.7,178.4-178.4c0-2.6,0-5.5-0.3-8.1 C439.4,327.7,450,316.8,458.4,304.2L458.4,304.2z"/></g></svg>				<!-- </div> -->
+			</a>
+		</li>
+
+		<li class="option email js-option-email">
+
+			
+			<a class="email" href="mailto:?subject=From%20newyorker.com:%20Dignity&amp;body=Dignity%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2014%2F09%2F15%2Fdignity-4" target="_blank">
+				<!-- <div class="icon"> -->
+					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="156.2 305.2 297.9 193.6" enable-background="new 156.2 305.2 297.9 193.6" xml:space="preserve"><g>	<polygon fill="#FFFFFF" points="305,438.8 453.8,305.2 156.2,305.2 	"/>	<polygon fill="#FFFFFF" points="454.2,334.8 454.2,468.8 379.4,401.8 	"/>	<polygon fill="#FFFFFF" points="156.2,334.8 156.2,468.8 230.9,401.8 	"/>	<polygon fill="#FFFFFF" points="305,465.9 247.4,416.6 156.2,498.8 453.8,498.8 363,416.6 	"/></g></svg>				<!-- </div> -->
+			</a>
+		</li>
+
+		<li class="option print js-option-print">
+
+			
+			<a class="print" href="#" target="_blank">
+				<!-- <div class="icon"> -->
+					<svg class="icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="159.1 247.8 295 294.7" enable-background="new 159.1 247.8 295 294.7" xml:space="preserve"><g>	<path fill="#FFFFFF" d="M232.6,266.2h147.5v37h18.4v-37c0-10.3-8.4-18.4-18.4-18.4H232.6c-10.3,0-18.4,8.4-18.4,18.4v37h18.4V266.2		z"/>	<path fill="#FFFFFF" d="M435.8,321.6H177.5c-10.3,0-18.4,8.4-18.4,18.4v92.1c0,10.3,8.4,18.4,18.4,18.4h37v73.8		c0,10.3,8.4,18.4,18.4,18.4h147.5c10.3,0,18.4-8.4,18.4-18.4v-73.4h37c10.3,0,18.4-8.4,18.4-18.4V340		C454.2,330,445.8,321.6,435.8,321.6z M380.4,524.5H232.6V395.4h147.5v129.2H380.4z M417.1,377c-10.3,0-18.4-8.4-18.4-18.4		c0-10.3,8.4-18.4,18.4-18.4c10.3,0,18.4,8.4,18.4,18.4C435.8,368.6,427.4,377,417.1,377z"/>	<rect x="251.2" y="414" fill="#FFFFFF" width="73.8" height="18.4"/>	<rect x="251.2" y="450.8" fill="#FFFFFF" width="110.8" height="18.4"/>	<rect x="251.2" y="487.8" fill="#FFFFFF" width="110.8" height="18.4"/></g></svg>				<!-- </div> -->
+			</a>
+		</li>
+
+
+	</ul>
+		<div class="expand js-expand-contract">
+		<div class="container">
+			<svg class="icon ellipsis" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="156.2 363.5 297.9 81.2" enable-background="new 156.2 363.5 297.9 81.2" xml:space="preserve"><path fill="white" d="M414.9,363.5c-21.6,0-39.3,17.7-39.3,40.6s17.7,40.6,39.3,40.6c21.6,0,39.3-17.7,39.3-40.6	S436.5,363.5,414.9,363.5z M305.4,363.5c-21.6,0-39.3,17.7-39.3,40.6s17.7,40.6,39.3,40.6s39.3-17.7,39.3-40.6	S326.9,363.5,305.4,363.5z M195.5,363.5c-21.6,0-39.3,17.7-39.3,40.6s17.7,40.6,39.3,40.6s39.3-17.7,39.3-40.6	S217.4,363.5,195.5,363.5z"/></svg>
+			<svg class="icon close" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="164.5 248.2 278.5 296.8" enable-background="new 164.5 248.2 278.5 296.8" xml:space="preserve"><g>	<path fill="white" d="M303.7,445.6l90.2,92.4c9,9.3,14.8,9.3,24.2,0l18-18.7c9-9,9.3-15.1,0-24.8l-95.7-97.9l95.7-97.9		c9-9.3,9-15.5,0-24.8l-18-18.7c-9.3-9.7-15.1-9-24.2,0l-90.2,92.4l-90.2-92.4c-9-9-14.8-9.7-24.2,0l-18,18.7c-9,9.3-9,15.5,0,24.8		l95.7,97.9l-95.7,97.9c-9.3,9.7-9,15.8,0,24.8l18,18.7c9,9.3,15.1,9.3,24.2,0L303.7,445.6z"/></g></svg>
+		</div>
+	</div>
+</div>
+		</header>
+
+		
+		<div id="content" >
+			<div itemprop="articleBody" class="articleBody" id="articleBody">
+			<figure id="featured-item" class="main_column featured horizontal attachment-large img-expandable landscape">
+		<a class="image" title="View larger" href="http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-1200.jpg"><img src="data:image/jpeg;base64,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" class="horizontal attachment-large img-expandable landscape lazyload preloader" alt="A demonstration by fast-food workers last week in Manhattan. One recent study found that fifty-two per cent of fast-food workers require some form of public assistance." itemprop="image" sizes="(max-width: 690px) 100vw, 690px" data-id="2820191" data-ratio="1.049" data-srcset="http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-690-658.jpg 690w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-320-305.jpg 320w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-1200.jpg 1200w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-768.jpg 768w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-200.jpg 200w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-400.jpg 400w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-800.jpg 800w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-500.jpg 500w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-600.jpg 600w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-1000.jpg 1000w, http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-640.jpg 640w" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_r25472-690-658.jpg" /></a>			<figcaption class="caption" >
+			<span class="caption-text">A demonstration by fast-food workers last week in Manhattan. One recent study found that fifty-two per cent of fast-food workers require some form of public assistance.</span><span class="credit" title="Photograph by Mark Peterson / Redux"><span class="hideFromView">Credit</span>Photograph by Mark Peterson / Redux</span>			</figcaption>
+				</figure>
+	<!-- Barrier Status: 'none' --><a class="tny-slot" name="/2" data-total-words="0"></a><a class="tny-page" name="/1" data-total-words="0"></a><p class="descender" word_count="199" data-wc="199">For the customers, nothing has changed in the big, busy McDonald’s on Broadway at West 181st Street, in Washington Heights. Promotions come and go—during the World Cup, the French-fry package was suddenly not red but decorated with soccer-related “street art,” and, if you held your phone up to the box, it would download an Augmented Reality app that let you kick goals with the flick of a finger. New menu items appear—recently, the Jalapeño Double and the Bacon Clubhouse, or, a while back, the Fruit and Maple Oatmeal. But a McDonald’s is a McDonald’s. This one is open twenty-four hours. It has its regulars, including a panel of older gentlemen who convene at a row of tables near the main door, generally wear guayaberas, and deliberate matters large and small in Spanish. The restaurant doesn’t suffer as much staff turnover as you might think. Mostly the same employees, mostly women, in black uniforms and gold-trimmed black visors, toil and serve and banter with the customers year after year. The longtime manager, Dominga de Jesus, bustles about, wearing a bright-pink shirt and a worried look, barking at her workers, “<em>La linea! La linea! </em>”</p> <p word_count="100" data-wc="100">Behind the counter, though, a great deal has changed in the past two years. Among the thirty-five or so non-salaried employees, fourteen, at last count, have thrown in their lot with Fast Food Forward, the New York branch of a growing campaign to unionize fast-food workers. Underneath the lighted images of Big Macs and Chicken McNuggets, back between the deep fryer and the meat freezer, the clamshell grill and the egg station, the order screens and the endless, hospital-like beeping of timers, there have been sharp and difficult debates about the wisdom of demanding better pay and forming a union.</p><div class="content-ad-wrapper first"><div class="advertisement" data-ismobile="true" data-name="yrailTop" data-sz="320x251" data-kw="topBox"><div id="yrailTop320x251_frame" class="displayAd displayAd320x251Js" data-cb-ad-id="yrailTop320x251_frame"></div></div><div class="advertisement" data-ismobile="false" data-name="yrailTop" data-sz="300x250" data-kw="topBox"><div id="yrailTop300x250_frame" class="displayAd displayAd300x250Js" data-cb-ad-id="yrailTop300x250_frame"></div></div></div> <p word_count="159" data-wc="159">Most of the workers here make minimum wage, which is eight dollars an hour in New York City, and receive no benefits. Rosa Rivera, a grandmother of four who has worked at McDonald’s for fourteen years, makes eight dollars and fifty cents. Exacerbating the problem of low pay in an expensive city, nearly everyone is effectively part time, getting fewer than forty hours of work a week. And none of the employees seem to know, from week to week, when, exactly, they will work. The crew-scheduling software used by McDonald’s is reputed to be sophisticated, but to the workers it seems mindless and opaque. The coming week’s schedule is posted on Saturday evenings. Most of those who, like Rivera, have sided with the union movement—going out on one-day wildcat strikes, marching in midtown protests—suspect that they have been penalized by managers with reductions in their hours. But just-in-time scheduling is not easy to analyze.</p> <p word_count="88" data-wc="88">Arisleyda Tapia, who has been working here for eight years, and makes eight dollars and thirty-five cents an hour, says she was fired last year by a supervisor for participating, on her own time, in a protest. She was reinstated three days later by cooler management heads, but Tapia, a single mother with a five-year-old daughter, says that she now gets only thirty hours a week. She used to average forty. “And they don’t really post the schedule anymore,” she told me. “They just give you these.”</p> <p word_count="61" data-wc="61">She waved a thin strip of paper in the air. It was like the stuff that comes out of a shredder. Tapia laughed, and mimicked a manager frantically snipping each line out of a printed schedule, for individual distribution. “This way, it’s harder for us to see what’s going on at the store. You see only your own hours.”</p> <p class="descender" word_count="195" data-wc="195">Tapia was a nurse in Santiago de los Caballeros, the second city of the Dominican Republic. She had two children, Scarlet and Steven. Her husband drove a taxi. Her mother, also a nurse, raised orchids. When Tapia’s marriage fell apart, she felt her hopes for her children dimming. It was 2003; a banking crisis had cratered the Dominican economy. With her mother’s blessing, she left her job at a big university hospital where she had worked for twelve years and moved, alone, to New York. She rented a shared room in Inwood, a working-class neighborhood in upper Manhattan, for fifty dollars a week, got a job at a McDonald’s in Inwood, and then a second job, at the 181st Street McDonald’s. She made minimum wage. Still, she was able to send most of her paychecks home. “I made more in a week here than I did in a month as a nurse there,” she said. Her children were provided for. College remained a possibility. Her Facebook cover photo has a woman’s closed eye with long lashes and a big tear trickling down. “That’s for missing my kids,” she told me.</p> <a class="tny-slot" name="/3" data-total-words="802"></a><a class="tny-page" name="/2" data-total-words="802"></a><p word_count="130" data-wc="130">Tapia struggled with depression. Her immigration status was work-authorized, letting her obtain a Social Security number, and then it wasn’t. She got scammed by a lawyer. She feared she would be deported. Tapia makes friends easily—if you walk the streets of Inwood with her, you will see her merrily accosted by neighbors—but she felt isolated. The <em>sueño americano</em>—the reason she still gives, half-ruefully, for emigrating—had taken on nightmarish colors. She felt trapped in a cold, foreign, overwhelming place. She felt that people were following her. She went for therapy at public clinics. Tapia, who is deeply religious, found herself looking for a sign from God. One night, in church, she got it. Her anxiety receded. She talks about the experience in awed, fierce tones.</p> <p word_count="106" data-wc="106">She took up with a man—a taxi-driver—and on New Year’s Day, 2009, she gave birth to a daughter, Ashley. The relationship with the taxi-driver did not last. Tapia was thirty-seven. She found an apartment on Sherman Avenue, in Inwood, across from the 207th Street Subway Yard. The apartment was small and dark, partitioned to create more rooms, and Tapia shared it with other renters. She and Ashley slept in a single bed in a closet-size alcove. They still sleep there. Tapia had already bought, sight unseen, a small rental house in Santiago; her mother manages it, and the rent helps support Scarlet and Steven.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="a18461"><a href="http://www.newyorker.com/cartoons/a18461" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2014/09/140915_a18461-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_a18461-600.jpg"></a><figcaption><span class="caption">“Take your pick—those people are talking schools. Next to them is real estate, and over by the stairs is money.”</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/a18461&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/a18461&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/a18461&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fa18461" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="104" data-wc="104">With an infant, Tapia had to quit one of her jobs. Money got tighter. She and Ashley received food stamps—a hundred and eighty-nine dollars a month—and, crucially, an earned-income tax-credit refund. But day care was expensive, and Tapia could never get enough hours at work. Wary of the courts, she received no child support. Still, her spirits were strong. Now she lived for Ashley, who was bright and mischievous. Friends and co-workers deluged the child with love and toys. Somebody gave her a little plastic cash register. She banged away on it, piping, “Welcome to McDonald’s. How may I help you?”</p> <p word_count="115" data-wc="115">One of Tapia’s closest friends was Dominga de Jesus, her manager. La Dominga, as everybody calls her, is also Dominican. She lives in the Bronx, started at the bottom herself at McDonald’s, and has a daughter slightly older than Ashley. The little girls are friends. La Dominga was kind to Tapia in her despair. In turn, Tapia helped Dominga when she had housing troubles. Between crises, the two women loved to party together. Tapia was delighted for Dominga when she went off to Hamburger University, the McDonald’s training center, in Oak Brook, Illinois, where she earned a degree in Hamburgerology. The course there “sounded like a good party,” Tapia told me, grinning.</p> <p word_count="71" data-wc="71">In 2012, community organizers from New York Communities for Change, a Brooklyn-based descendant of <small>ACORN</small>, started sniffing around the McDonald’s in Washington Heights. La Dominga—perhaps forewarned, or simply aware of the long-standing vigilance at McDonald’s against any stirrings of union sentiment—spotted a suspected organizer on one of her closed-circuit cameras. His name was Alfredo Miase. He was Dominican. Tapia recalled, “She told me, ‘Don’t talk to him.’ ”</p> <p word_count="96" data-wc="96">But Tapia had recently had a run-in with another manager, who kept her working, even though she had a fever, for hours. “Finally, I couldn’t take it,” she told me. “I just couldn’t stand up anymore, and I went home. She suspended me for a week for that. She’s gone now, but she was abusive. That experience left me ready to do something.” So Tapia met with Miase, down the block, beyond the closed-circuit cameras, skulking, scared. And she was not the only one. “He was a very thoughtful, sympathetic guy,” she said.</p> <p word_count="107" data-wc="107">A small group of workers, nearly all women, started meeting with Miase and another organizer, Marisol Vasquez, at a nearby Chinese restaurant called Jimmy’s. They discussed their problems and what might be done. Tapia, unlike some American workers, already had a solid grasp of what a union is. In the D.R., she had been a member of the national nurses’ union during a major dispute with the ministry of health. That fight culminated in strikes that caused a national furor. Doctors had also walked out. “Patients were dying,” she remembered. In the end, the government agreed to meet with the strikers and address their demands.</p> <p word_count="173" data-wc="173">The Service Employees International Union, the second-largest union in the United States, was quietly funding the fast-food campaign. The first public act was a one-day strike on November 29, 2012. Some two hundred workers, from around forty fast-food outlets in New York City, gathered at dawn outside a McDonald’s on Madison Avenue in midtown, chanting, “Hey, hey, what do you say, we demand fair pay.” They had walked off jobs at Burger King, Wendy’s, Taco Bell, Kentucky Fried Chicken, Domino’s Pizza, and McDonald’s. Their goals, they told reporters, were an industry-wide raise to fifteen dollars an hour and the right to form a union without retaliation. It was a day of rallies, walkouts, and a march through Times Square. The <em>Times</em> called it “the biggest wave of job actions in the history of America’s fast-food industry.” Tapia and several co-workers from Washington Heights were in the thick of it. La Dominga was shocked to see her friend’s face in the crowd in a photograph on her Facebook news feed.</p> <a class="tny-slot" name="/4" data-total-words="1704"></a><p class="descender" word_count="180" data-wc="180">The protests spread to the Midwest, with hundreds of fast-food workers demonstrating in Chicago, St. Louis, Kansas City, and Detroit. By the summer of 2013, workers in sixty cities across the United States, even in the traditionally anti-union South, were staging coördinated one-day walkouts and marches with a single message: fifteen and a union. In December, it was more than a hundred cities. The movement picked up political support. President Obama renewed a long-neglected pledge to raise the federal minimum wage, which is $7.25 an hour—it should be nine dollars, he first suggested, and then lifted his sights, in early 2014, to $10.10. That’s a modest proposal; in 1968, the minimum wage, in current dollars, was $10.95. Even so, minimum-wage legislation has no chance of passing in this Congress. But opinion polls show wide public support for a hike. Some cities and states have been bidding up their own minimum-wage laws. In June, Seattle decided to raise its minimum wage to fifteen dollars. Fast-food workers rightly took credit for having made plausible a minimum wage that, less than two years ago, sounded outlandish.</p> <a class="tny-page" name="/3" data-total-words="1884"></a><p word_count="87" data-wc="87">The fast-food giants have seemed clumsy, and wrong-footed by the surge of protest. Their traditional defense of miserable pay—that most of their employees are young, part time, just working for gas money, really—has grown threadbare. Most of their employees today are adults—median age twenty-eight. More than a quarter have children. Particularly since the onset of the global recession of 2009, McJobs are often the only jobs available. And seventy per cent of fast-food workers are indeed part time, working fewer than forty hours a week.</p> <p word_count="201" data-wc="201">McDonald’s has tried to acknowledge the real lives of its workforce by providing counselling through a Web site (since taken down) and a help line called McResource. A sample personal budget was offered online last year. The budget was full of odd assumptions: that employees worked two full-time jobs, for instance, and that health insurance could be bought for twenty dollars a month. The gesture made the corporation look painfully out of touch. The same thing happened with a health-advice page. Workers were advised to break food into pieces to make it go farther, sing to relieve stress, and take at least two vacations a year, since vacations are known to “cut heart attack risk by 50%.” Swimming, one learned, is great exercise. Fresh fruit and vegetables are good for you, McDonald’s declared. A mother of two in Chicago, who had worked at McDonald’s for ten years, called the help line and found herself counselled to apply for food stamps and Medicaid. This was, at least, realistic. A recent study by researchers at the University of California-Berkeley and the University of Illinois at Urbana-Champaign found that fifty-two per cent of fast-food workers are on some form of public assistance.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="a18481"><a href="http://www.newyorker.com/cartoons/a18481" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2014/09/140915_a18481-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_a18481-600.jpg"></a><figcaption><span class="caption">“Look, I know you think you’ve got the stuff, but I’m telling you: walk God.”</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/a18481&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/a18481&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/a18481&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fa18481" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="221" data-wc="221">Sensitive to the beating that their brands are taking in the escalating confrontation with employees, the fast-food giants have been leaving the hardball response to their lobby, the National Restaurant Association. “The other N.R.A.,” as it is known, is an enormous organization, with nearly half a million member businesses, but its strategic thinking seems to be dominated by the major chains. It has fought minimum-wage legislation, at every level of government, for decades. It has fought paid-sick-leave laws, the Affordable Care Act, worker-safety regulations, restrictions on the marketing of junk food to children, menu-labelling requirements, and a variety of public-health measures, such as limits on sugar, sodium, and trans fats. Its press releases now deride the demands of fast-food workers as “nothing more than big labor’s attempt to push their own agenda.” But internal N.R.A. documents, leaked this spring to Salon, show the group’s concern about the “reputational attacks on our industry.” They say that N.R.A. agents are “closely monitoring social media for any plans or signs of activity,” and are even tracking the movements of one activist. Scott DeFife, the chief N.R.A. spokesman, told me that the crowds at the protests actually consist of organizers: “There’s often not one restaurant worker to be found among the crowds of organizers.”</p> <p word_count="156" data-wc="156">McDonald’s has rarely hesitated to act aggressively on labor issues. In 1990, it sued a tiny group called London Greenpeace for libel, because of leaflets the group had distributed attacking the company. According to Eric Schlosser’s book “Fast Food Nation” (2001), McDonald’s had been successfully using Britain’s plaintiff-friendly libel laws to intimidate British mass media for many years. Two members of London Greenpeace fought back. Although they could not afford a lawyer, the court proceedings went on for more than a decade, revealing, among other things, the extensive use by McDonald’s of spies—some meetings of London Greenpeace apparently had as many spies in attendance as real members. The “McLibel trial” was, from start to finish, a public-relations fiasco. For the second-largest private employer in the world (after Walmart), with more than thirty-five thousand restaurants in a hundred and nineteen countries, McDonald’s can be, in the court of public opinion, remarkably inept.</p> <a class="tny-slot" name="/5" data-total-words="2549"></a><p word_count="166" data-wc="166">In recent months, Fast Food Forward and its many partners—Fight for 15 (Chicago), Stand Up KC (Kansas City), STL Can’t Survive on $7.35 (St. Louis)—have been rhetorically thrashing their corporate opponents. The Berkeley-University of Illinois study, commissioned by Fast Food Forward, found that American fast-food workers receive almost seven billion dollars a year in public assistance. That’s a direct taxpayer subsidy, the activists argue, for the fast-food industry. Taxpayers are also, by that logic, grossly overpaying the industry’s top management. According to the progressive think tank Demos, fast-food executives’ compensation packages quadrupled, in constant dollars, between 2000 and 2013. They now take home, on average, nearly twenty-four million dollars a year. Their front-line workers’ wages have barely risen in that time, and remain among the worst in U.S. industry. The differential between C.E.O. and worker pay in fast food is higher than in any other domestic economic sector—twelve hundred to one. In construction, by comparison, the differential is ninety-three to one.</p> <p word_count="123" data-wc="123">The fast-food chains insist that if they were to pay their employees more they would have to raise menu prices. Their wages are “competitive.” But in Denmark McDonald’s workers over the age of eighteen earn more than twenty dollars an hour—they are also unionized—and the price of a Big Mac is only thirty-five cents more than it is in the United States. There are regional American fast-food chains that take the high road with their employees. The starting wage at In-N-Out Burger, which is based in Southern California, and has two hundred and ninety-five restaurants in California and the Southwest, is eleven dollars. Full-time workers receive a complete benefits package, including life insurance—and the burgers are cheap and good.</p> <a class="tny-page" name="/4" data-total-words="2838"></a><p word_count="153" data-wc="153">McDonald’s, throughout its history, has denied responsibility for the labor practices of its franchisees, who own and operate nearly ninety per cent of its more than fourteen thousand outlets in the United States. In March, seven class-action lawsuits were filed against the company in three states—California, Michigan, and New York—alleging wage theft and other violations of labor law. In late July, the general counsel of the National Labor Relations Board ruled, in connection with another set of complaints, that McDonald’s is a “joint employer” with its franchisees. The corporation exercises, through its standard contract, the most elaborate possible control over virtually every aspect of its franchisees’ operations, and the pay and the treatment of workers are very largely determined by that control. Indeed, the lawsuits allege that the crew-scheduling software that McDonald’s franchisees are required to use leads directly to the cost-cutting practices that amount to wage theft.</p> <p word_count="109" data-wc="109">McDonald’s will fight the ruling and its implementation, both on its own behalf and on behalf of other major franchisors. The implications of the ruling, if it is upheld, are profound. Not only will the responsibility of corporations for millions of workers be increased sharply but the prospects for fast-food unionization will brighten. Shop-by-shop organizing in what the economist David Weil calls “the fissured workplace” is a Sisyphean chore. Having the legally chosen representatives of the industry’s workforce sit down with the leaders of McDonald’s, Burger King, and Wendy’s, all of whom are capable of a cost-benefit analysis of their business model, makes more sense.</p> <p class="descender" word_count="18" data-wc="18">I asked Arisleyda Tapia who she thought could raise her pay. “Bruce,” she said immediately. “He’s rich.”</p> <p word_count="96" data-wc="96">She meant Bruce Colley, the owner of the McDonald’s where she works. Colley owns twenty-nine McDonald’s franchises, including nineteen in Manhattan. He grew up in Westchester County, and graduated from the Trinity Pawling School and Cornell. When he joined the family business, in 1980, his father, Dean, owned more than a hundred McDonald’s franchises in the Northeast. Dean was master of foxhounds of the Golden’s Bridge (New York) Hounds. Bruce is a polo player. His net worth is not a matter of public record. Still, you can see where Tapia got her impression.</p> <a class="tny-slot" name="/6" data-total-words="3214"></a><p word_count="199" data-wc="199">Colley found himself in the news when, in 2003, he was reported to be having an affair with Kerry Kennedy Cuomo, triggering her divorce from Andrew Cuomo. According to the <em>Post</em>, Kerry was “crushed” when Bruce decided not to leave his then wife for her. Otherwise, Colley does a good job of staying out of the papers. (He declined to comment for this article.) In July, 2013, during a heat wave, Sheliz Mendez, one of Colley’s employees at the McDonald’s in Washington Heights, fainted in the kitchen and had to be hospitalized. Some of her co-workers walked off the job, protesting the lack of air-conditioning, and began chanting on the sidewalk outside. Reporters showed up. So did Colley. CBS New York described him as a “McDonald’s spokesman.” He apologized for the inconvenience to customers and employees and said that two of the store’s three air-conditioning units were already repaired. His workers said that they had been complaining about the heat for months and that the units were turned on only because camera crews had appeared. Jamne Izquierdo, who has worked at the Washington Heights outlet for nine years, said she had never seen the air-conditioning on before.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="a18496"><a href="http://www.newyorker.com/cartoons/a18496" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2014/09/140915_a18496-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_a18496-600.jpg"></a><figcaption><span class="caption">“As my stunt double, you’ll be doing all of my press conferences, court appearances, and family reunions.”</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/a18496&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/a18496&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/a18496&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fa18496" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="102" data-wc="102">A year later, on another hot July day, I stopped in the store and found it stifling. Managers were setting up big portable fans near the counter. Colley did not want another labor incident. I was waiting for Tapia to finish her shift. There was a new freestanding sign, touting the Bacon Clubhouse with a cryptic boast: “Artisan is how this club rolls.” On the workers’ uniform caps, multicolored stitching declared “<small>FAMOUS CRISPY FUN LOVEABLE</small>.” Was William Burroughs writing ad copy from the next world? Having clocked out, Tapia emerged, looking drained, and eating Fruit and Maple Oatmeal from a paper cup.</p> <p word_count="119" data-wc="119">We walked south on Broadway. A rainstorm had broken the heat. We passed through the spooky, puddled maw of the George Washington Bridge Bus Station, its concrete arms hulking overhead like a Soviet brutalist ruin. Tapia had sent Ashley, her five-year-old, to visit her grandmother in the Dominican Republic. She couldn’t afford to go. It had been eleven years. She Skyped with her kids and her mother several times a day, but it was strange, this free time that she suddenly had. There was a national conference of the fast-food workers’ movement coming up, in Chicago. The union was sending a couple of buses from New York. Maybe she could go. We found a Dominican restaurant down Broadway.</p> <p word_count="21" data-wc="21">Did she really believe that Bruce Colley could unilaterally raise the pay of all his employees to fifteen dollars an hour?</p> <p word_count="99" data-wc="99">Tapia looked down. “He used to give us just one shirt,” she said, finally. “We tried to give a petition to La Dominga about people getting their hours reduced, but she wouldn’t accept it. Then Bruce came and had a meeting with us. He came because we have a strong union committee. He didn’t go to any of his other stores. He listened to us. Then they gave us each a box with four uniforms. That was a real strike victory.” She sighed. “But we know who our real opponent is. It’s the corporation. McDonald’s.”</p> <p word_count="140" data-wc="140">The space between franchisees and a parent company is nowhere more opaque than at McDonald’s, where the price of admission is exceptionally high: applicants must show at least seven hundred and fifty thousand dollars of unborrowed money even to be considered for a franchise, and the investment costs go up from there. Very few franchisees fail to observe the code of <em>omertà</em> that governs their relationship with the corporation. One disgruntled franchisee in California recently broke the silence, telling the Washington <em>Post</em> that McDonald’s executives had advised her to “pay your employees less” if she wanted to take home more herself. Two former McDonald’s managers recently went public with confessions of systematic wage theft, claiming that pressure from both franchisees and the corporation forced them to alter time sheets and compel employees to work off the clock.</p> <a class="tny-page" name="/5" data-total-words="3894"></a><p word_count="121" data-wc="121">Having a union will put a stop to this type of injustice, Tapia believes. And she was not wrong, I thought, about the importance of tangible victories, however small. Building confidence was crucial, even in the fissured workplace—showing doubters that standing up for yourself need not always bring down the wrath of the bosses on your head and could actually achieve benefits. “Some people are too scared to say anything,” she said. “They’re scared to talk to you, for instance—the media.” I could confirm that. “It’s not that everybody working there supports the union. But they all want us to keep fighting. They’re afraid to fight themselves, but they know they’ll benefit when we win.”</p> <a class="tny-slot" name="/7" data-total-words="4015"></a><p word_count="7" data-wc="7">But would the boat parties be reinstated?</p> <p word_count="63" data-wc="63">Tapia laughed. Bruce Colley was famous for taking his employees on an annual summertime cruise on the Hudson. Tapia had to admit that they were a blast. Colley danced with all the women. But last year, she said, she had not been invited. She blamed her activism. And this year there had been no boat party at all, as far as she knew.</p> <p word_count="90" data-wc="90">More important to Tapia—far more important—was her friendship with La Dominga. Things between them had cooled lately, she said, but not really, not in her heart. It was only this situation at work. On Dominga’s birthday, Tapia and some of her co-workers had given her a big bunch of flowers. Dominga understood the message: none of this conflict was personal. When the fight for a union was over—after the workers had won their rights—“things between me and Dominga will be just like they were before.”</p> <p class="descender" word_count="171" data-wc="171">The modern American labor movement rose out of the struggle over the eight-hour day. Mary Kay Henry, the president of the Service Employees International Union, told me, “This fight for fifteen is growing way beyond fast food. It’s getting to be what the eight-hour day was in the twentieth century.” That may be so (or it may be a stretch), but labor unions, the centerpiece of the movement to improve working conditions in the last century, have definitely shrunk to the margins. Fewer than seven per cent of private-sector workers are union members today—that’s the lowest density in nearly a century. The landscape of American business has changed, reflecting the shift from a manufacturing to a service economy, but unions have not changed with it. The S.E.I.U., with more than two million members, has probably done the best job among large unions of adapting to the new workplace, organizing health-care workers and janitors, for instance, in circumstances that did not allow for traditional industrial organizing.</p> <p word_count="190" data-wc="190">The Justice for Janitors campaign of the nineteen-nineties offers a good precedent for the current fast-food campaign, Henry said. The janitors were fissured by the broad move of commercial property owners to subcontracting, much as fast-food workplaces are fissured by franchising. Their nominal employers, small cleaning companies, had no power and thin profit margins. The tactics of the janitors were unorthodox, and included mass civil disobedience: closing freeways in Los Angeles; blocking bridges into Washington, D.C. Their goal was to get building owners to the table, and in time they succeeded, in some cases nearly doubling with their first contract the compensation they had been earning. The movement was largely Latino, and crucially strengthened by undocumented immigrants who stepped up, risking deportation. But big-city janitors had been unionized, historically—and in some cities, like New York, still were—so the fight was really to reorganize and rebuild. There is no comparable history in fast food. More important, the fast-food workforce is just under four million and growing, and the main companies are so rich and powerful that the stakes are higher than in any labor struggle in recent memory.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="schwartz-2013-10-14"><a href="http://www.newyorker.com/cartoons/schwartz-2013-10-14" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2014/09/140915_schwartz-2013-10-14-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_schwartz-2013-10-14-600.jpg"></a><figcaption><span class="circulated-on">October 14, 2013</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/schwartz-2013-10-14&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/schwartz-2013-10-14&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/schwartz-2013-10-14&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fschwartz-2013-10-14" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="170" data-wc="170">To date, it’s been “more air war than ground war,” as Ruth Milkman, a sociologist of labor movements at the City University of New York Graduate Center, puts it. The one-day strikes, which aren’t really strikes, since they don’t usually close shops or try to shame (nonexistent) strikebreakers, get larger each time. This May, the fast-food workers staged simultaneous protests in two hundred and thirty cities worldwide. They have gathered endorsements from a very long list of labor groups and others, including the seventy-six-member Progressive Caucus in the United States Congress and the Boston Wobblies. For the fiftieth anniversary of the March on Washington, an editorial in the <em>Times</em> declared, “The marchers had it right 50 years ago. The fast-food strikers have it right today.” The percentage of the workforce actually committed to the movement still seems quite small, however, and the organizing tactics still decidedly nontraditional. None of this acclaim will translate anytime soon into a shop-floor union vote presided over by the National Labor Relations Board.</p> <p word_count="80" data-wc="80">The S.E.I.U. leadership sometimes suggests that it is merely following the lead of a spontaneous workers’ movement, but it invested about two million dollars in organizing in New York before the first public protest, in November, 2012, and it has continued to fund organizing nationwide—to the tune of more than ten million dollars. It has retained the services of BerlinRosen, a progressive political-consulting firm that helped propel Bill de Blasio from dark-horsedom into the mayor’s office.</p> <p word_count="125" data-wc="125">In the vacuum left by the subsidence of labor unions, a rough movement sometimes known as Alt-Labor—community groups, “worker centers”—has emerged. New York has an abundance of such groups, including the New York Taxi Workers Alliance, launched in 1998, which has successfully defended drivers against exploitation by medallion owners, and the Restaurant Opportunities Center, or <small>ROC</small>, which was originally founded as a help center for displaced restaurant workers after the September 11th terrorist attacks and has since grown into an all-purpose resource for food-sector employees, offering training, conducting research, and filing complaints and lawsuits. Thirty-two cities now have their own <small>ROC</small>. The group has thrown its energy behind the fast-food movement. The National Restaurant Association has targeted <small>ROC</small>, apparently considering it a serious threat.</p> <a class="tny-slot" name="/8" data-total-words="4911"></a><a class="tny-page" name="/6" data-total-words="4911"></a><p word_count="106" data-wc="106">Alt-Labor groups, by legal definition not unions, will never be bargaining units. Fast Food Forward and its numerous allies in the fast-food campaign, though all closely tied to their funding source, S.E.I.U., are in many ways Alt-Labor, which makes the movement’s path forward rather difficult to picture. Mary Kay Henry told me that the S.E.I.U. is supporting the movement “because it helps our members.” She said that “6.5 million workers have already had their wages increased owing to minimum-wage increases” driven by fast-food activism. Minimum-wage legislation is great, she said, but “collective bargaining can set a standard that obviates legislation.”</p> <p word_count="15" data-wc="15">So is she hoping to sign up millions of new members from the food industry?</p> <p word_count="88" data-wc="88">“Membership is not our foremost question,” she said. “Our first concern is winning fifteen dollars and a union. The workers will then choose whom they want to represent them.” That answer seems to dodge the question. Henry, like other labor leaders, likes to sketch a climactic meeting with the big fast-food employers: “The Big Three”—McDonald’s, Burger King, Wendy’s—“are going to have to see the union part, and not just the minimum-wage part, and get their heads around that, before they come to the table.”</p> <p class="descender" word_count="194" data-wc="194">The golden arches glowed at dawn above Danville, Pennsylvania, and, later, above other towns—Sharon, Mercer. For Tapia, they were a familiar touch in an unfamiliar land. Also Burger King, Dunkin’ Donuts. Tapia napped on and off all morning. She was near the front of the charter bus. It had departed from downtown Brooklyn at 2 <small>A.M.</small>, in a convoy with another bus. It got stuck in 3 <small>A.M.</small> traffic on Canal Street, but now they were flying westward. The driver and his alternate were chatting in Chinese. Tapia was the only person from her McDonald’s going to the conference. Across the aisle was Corina Garcia. She worked at another McDonald’s—at Broadway and 145th—that was owned by Bruce Colley. Garcia, who is fifty-six, looked very put-together, with a sweet smile and a sharp little travel bag. She had been an executive secretary for ten years in the Dominican Republic, she said. Stacked on the seat next to her were cases of water, bags of apples, and a box full of small cans of Pringles. People from farther back in the bus, which was packed, made occasional raids on the supplies.</p> <p word_count="230" data-wc="230">Tapia was excited about going to Chicago. She had never been west of New York. The cornfields of Ohio seemed to go on forever. It was so different from <em>el campo</em> back home. No grasslands, rain forest, cane fields, coffee farms. She wondered about the cost of living out here. It was surely cheaper than New York. But you would probably need a car, which was expensive. Hearing that South Bend, Indiana, had a famous Catholic university, she made a mental note—possible college for Ashley. At the rest stops, the younger men sauntered across the strangely wide Midwestern forecourts, wearing baggy basketball shorts, neck pillows still in place. But most of the conferencegoers were older. Alvin Major, the father of four teen-agers, was from Guyana and worked at a K.F.C. in Brooklyn. His oldest was going to college upstate this fall. He sometimes worked three jobs, collecting three paychecks, all from K.F.C.—but no overtime, which wasn’t right. Jorel Ware worked at a McDonald’s in midtown. He was thirty-one. He still made minimum wage, after two years. “They say the franchisee is just a small man in the middle,” he said. “If that’s true, then who am I? I’m just a dot on the wall. I just want to be able to get an unlimited MetroCard. I can’t afford <em>nothing</em>.”</p> <p word_count="66" data-wc="66">Shantel Walker, who works at a Papa John’s in Brooklyn, jumped up as the bus approached Chicago. She wore a gold-billed cap and a big crucifix. She had a microphone. “I work too hard,” she chanted, “for a little income.” The bus erupted, workers chanting the lyrics after her. “Your story is an inspiration / People are with you / New York is proud of you, <small>Hey</small>.”</p> <a class="tny-slot" name="/9" data-total-words="5610"></a><p word_count="41" data-wc="41">Tapia, who speaks little English, chanted softly: “People are with you / New York is proud of you, hey.” She was looking pretty sharp herself, in form-fitting jeans, black suède loafers, a black shirt with a cheetah-print panel, long gold earrings.</p> <p word_count="13" data-wc="13">Walker: “You got to work hard, <small>Hey</small> / To get a union and fifteen.”</p> <p word_count="13" data-wc="13">Tapia: “You got to work hard, hey / To get a union and fifteen.”</p> <p word_count="18" data-wc="18">Walker: “Detroit’s gonna be there, remember. Chicago. We gotta represent. We the original starter of this movement.”</p> <p word_count="3" data-wc="3">Cheers, shouts,whistles.</p> <p word_count="41" data-wc="41">Chicago, to Tapia’s disappointment, never appeared. Was it a very small city, then? No, the conference was in a convention center out in a western suburb, Villa Park, and the bus took a route that never went near Chicago proper.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="flake-2010-10-18"><a href="http://www.newyorker.com/cartoons/flake-2010-10-18" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2014/09/140915_flake-2010-10-18-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_flake-2010-10-18-600.jpg"></a><figcaption><span class="caption">“Looks like someone’s eyes are bigger than his liver.”</span><span class="circulated-on">October 18, 2010</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/flake-2010-10-18&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/flake-2010-10-18&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/flake-2010-10-18&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fflake-2010-10-18" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="208" data-wc="208">The conference, however, did not disappoint. Buses pulled in from every direction—St. Louis, Detroit, Greenville, North Carolina. Delegates in red T-shirts practiced their chants in the late-afternoon sun. Inside the convention center, twelve hundred workers filled one end of a vast space. There were elaborate shout-outs from each delegation, a ritual that seemed to go on for hours. But the energy stayed high. There were videos, rappers, a driving beat. The proceedings were directed by an organizing committee of a dozen-plus people on a stage. They never seemed to call for order. They just drove the thing forward. The New York rep, Naquasia LeGrand, a twenty-two-year-old K.F.C. employee from Canarsie, said, “I got to be on my feet all day, and you don’t want me to go to the foot doctor? You want me to smile at customers, but you won’t give me a dental plan?” Mary Kay Henry gave a passionate speech, declaring, “I am proud to bring into this room two million workers who are in this with you to win it!” After Henry’s speech, Tapia was on her feet, along with the rest of the crowd, chanting, “We believe that we can win!” She was rocking, clapping, smiling excitedly.</p> <a class="tny-page" name="/7" data-total-words="5947"></a><p word_count="138" data-wc="138">On the second day, delegates were directed to sit at tables with people from other cities. Tapia found herself at a Spanish-speaking table with workers from Denver and Chicago. The best part of the conference, she told me later, was sharing stories with Martina Ortega, who was originally from Guerrero State, in Mexico, and Otilia Sanchez, from Denver, about raising families on minimum wage in El Norte, and what their respective union committees were doing. Tapia filled a notebook with names and contact information. Each table was asked to report to the conference as a whole, and Otilia Sanchez rose and delivered a forceful speech, in Spanish, about how this would be not an armed struggle but a political fight waged by peaceful means—strikes, boycotts, media—and how if the workers stayed strong they would make history.</p> <p word_count="41" data-wc="41">Tapia said afterward that she was surprised to see that the movement was predominantly African-American. “That’s good,” she told me. “Because they’re not afraid. They have nothing to lose. We’re all afraid of getting deported. They’re not.”</p> <p word_count="198" data-wc="198">The history of the civil-rights struggle was constantly invoked. The N.A.A.C.P. had just formally endorsed the fast-food workers’ movement at its national convention (without mentioning the central demand for fifteen dollars an hour, possibly to spare the fast-food franchisees among its leadership the shock of that stark figure). The Reverend William Barber II, the head of the North Carolina N.A.A.C.P., gave a stand-up-and-shout sermon after lunch. Barber talked about President Franklin Roosevelt’s belief that a minimum wage should allow American workers to “live decently,” then offered his own gloss on that idea. “I want to be able to live,” Barber said. “I want to be able to pay my rent, feed my kids, put gas in my car, maybe buy a house—and every now and then<em> fix my hair!</em>” Representative Keith Ellison, co-chair of the Congressional Progressive Caucus, was on hand. “Income inequality is an existential threat to the American Dream,” he told me. “And these people are doing something about it.” In his conference speech, he said, “In the richest country in the world, you should not be working full time and still be on food stamps.”</p> <p word_count="70" data-wc="70">I noticed Tapia nodding seriously when this was said, as she did when Terrence Wise, a Burger King worker from Kansas City with three children, said, “Most of us are doing this for our kids. For the next generation. If somebody was hurting your kid, you would crush them. And that’s how we need to think about these corporations. They’re trying to destroy our families, hurt our kids.”</p> <p word_count="51" data-wc="51">The return bus left that afternoon, arriving in New York at nine the next morning. Tapia took the subway directly to work. She stashed her travelling bag under a storage bin, where the manager was unlikely to see it and ask questions. Fortunately, it was Sunday, La Dominga’s day off.</p> <a class="tny-slot" name="/10" data-total-words="6445"></a><p class="descender" word_count="166" data-wc="166">Tapia applied to ten charter schools for kindergarten for Ashley. She got into none. She was wait-listed at three, though, including at Tapia’s first choice, a new Success Academy school opening on Fort Washington Avenue, in Washington Heights. The school’s Web page wouldn’t load on Tapia’s phone. “I need to get Internet,” she said. We were in her apartment, and she pointed out an old Dell desktop wedged among other appliances on the dresser she shares with Ashley. Internet access is about twenty dollars a month. Something would have to give. It could not be her unlimited-ride MetroCard. That was a hundred and twelve dollars a month—a giant bite out of her paycheck, and a purchase that many people couldn’t manage, but it was indispensable. If she rode the train or the bus (she preferred the <em>guagua</em>, as everybody in her neighborhood calls the bus) eighty times a month, it cost less than half what it would for individual rides.</p> <p word_count="185" data-wc="185">If she got a raise to fifteen dollars an hour, she could buy new work shoes, help her mother, get Ashley a good winter coat. Even so, fifteen dollars an hour is not considered adequate for a basic household budget by economists who study the matter. Not in New York City, anyway. A recent study found that, assuming you get forty hours a week, which Tapia never does now, it might be enough for a single person living in Montana. In New York, the bare minimum comes to $22.66. For a single parent with a child, it’s $30.02. I didn’t mention these figures to Tapia. We were sitting in her tiny railroad kitchen, talking in whispers, because the other renters might be asleep. A message came in on Tapia’s phone. It was a photograph of her son, Steven, now a strapping fifteen-year-old and a serious baseball player. He was a lefty, looking snappy at bat, in full uniform. “I could not live without Facebook,” Tapia said. “I’ll get a photo of Steven when I’m at work, and McDonald’s cannot bother me.”</p> <p word_count="25" data-wc="25">She had told La Dominga about Chicago, after all. “She understands,” Tapia said. “We’re not fighting her. But she’s getting all this pressure.”</p> <a class="tny-page" name="/8" data-total-words="6821"></a><p word_count="47" data-wc="47">I had asked La Dominga for an interview. When we spoke, on a busy Saturday afternoon at the store, she had agreed that her own story was a good one for McDonald’s. But she needed Mr. Colley’s permission to talk, and that had not come.</p> <p word_count="66" data-wc="66">Tapia pointed to the light switch on the kitchen wall. It wasn’t a sign from God, but it was, in her opinion, close. Under many layers of paint, there was, still discernible, a raised plaster decoration around the switch which, after a moment’s study, revealed itself as a traditional depiction of Christ. Tapia carried a photograph of this odd little miracle in her phone.</p> <figure class="cartoon-image" data-track-location="embeddedCartoon" data-cartoon-id="cullum-1998-08-03"><a href="http://www.newyorker.com/cartoons/cullum-1998-08-03" target="_blank"><img class="cartoon post-load" alt="Cartoon" src="/wp-content/assets/dist/img/px.gif" data-src-mobile="http://www.newyorker.com/wp-content/uploads/2014/09/140915_cullum-1998-08-03-500.jpg" data-src="http://www.newyorker.com/wp-content/uploads/2014/09/140915_cullum-1998-08-03-600.jpg"></a><figcaption><span class="caption">“It’s not enough that I succeed. My friends must also be drawn and quartered.”</span><span class="circulated-on">August 3, 1998</span><div class="row social-hover">     <nav class="social-buttons-js social-buttons-circle"><ul class="share-tools-curated large-block-grid-5 medium-block-grid-5 small-block-grid-5"><li class="fb-share"><a class="facebook-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=http://www.newyorker.com/cartoons/cullum-1998-08-03&amp;display=popup&amp;ref=plugin" data-template="https://www.facebook.com/sharer/sharer.php?u={{{url}}}&amp;display=popup&amp;ref=plugin" target="_blank">Share<span></span></a></li> <li class="twitter-share"><a class="twitter-share-btn" href="https://twitter.com/intent/tweet?original_referer=http://www.newyorker.com/cartoons/cullum-1998-08-03&amp;text=A Cartoon from The New Yorker &amp;tw_p=tweetbutton&amp;url=http://www.newyorker.com/cartoons/cullum-1998-08-03&amp;via=newyorker" data-template="https://twitter.com/intent/tweet?original_referer={{{url}}}&amp;text={{{text}}}&amp;tw_p=tweetbutton&amp;url={{{url}}}&amp;via=newyorker" target="_blank">Tweet<span></span></a></li> <li class="email-share"><a href="mailto:?subject=From%20newyorker.com:%20A%20Cartoon%20from%20The%20New%20Yorker%20&amp;body=A%20Cartoon%20from%20The%20New%20Yorker%20%0Ahttp%3A%2F%2Fwww.newyorker.com%2Fcartoons%2Fcullum-1998-08-03" data-template="mailto:?subject=From%20newyorker.com:%20{{{escaped_text}}}&amp;body={{{escaped_text}}}%0A{{{escaped_url}}}" title="Email" class="email-share-btn"><span></span></a></li> <li class="cartoon-spacer"><div class="grey-spacer-share"></div></li><li class="cart-cartoon"><a class="cn-store-btn" href="http://www.condenaststore.com/-st/New-Yorker-Current-Issue-Prints_c148582_.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=NEWISSUE&amp;AID=1247905545" target="_blank">Buy a cartoon<span></span></a></li> </ul></nav></div></figcaption></figure>   <p word_count="140" data-wc="140">We took a walk through Inwood. Her church, the Church of the Good Shepherd, stands above Broadway. It is big, imposing yet sedate, Romanesque Revival, beautifully maintained. Wooden confessionals are built into the walls, along with a poor box with a brass door. Many of the Masses are in Spanish. Tapia tries to come every Tuesday evening. “They welcome you especially, and individually,” she whispered. “It’s a community of brothers.” She has done a great deal of crying here. “I had so much rancor toward my ex-husband,” she said. “It has finally left me now.” One of the best things about Good Shepherd was the number of young people it attracts. “I came here to pray when my mother said that my kids were becoming impossible teen-agers. I prayed for help. Now my mother says they are acting better.”</p> <p word_count="131" data-wc="131">We stopped at a McDonald’s on 207th Street. Tapia had worked here, long ago. We started talking about local politicians who now reliably show up at fast-food protests, and also at the next-morning “walk-backs,” when strikers are escorted by sympathetic crowds back to their restaurants. Some of the politicians are sincere; all want the media attention. Then Tapia shushed me. She texted me from across the table: Don’t talk union—the store manager had spotted her, and he was eavesdropping on us. I saw that she was right. Her expression was strangely mixed: fear, paranoia, mischief, pride. What could this manager possibly do to her? Her activism wasn’t a secret. But struggles for dignity are complex. We talked about Ashley. Tapia was praying hard for that charter school.</p> <a class="tny-slot" name="/11" data-total-words="7205"></a><p class="descender" word_count="109" data-wc="109">Speaking at a Laborfest rally in Milwaukee on Labor Day, President Obama declared, “All across the country right now, there’s a national movement going on made up of fast-food workers organizing to lift wages, so they can provide for their families with pride and dignity.” The President was blunt about the central issue. “You know what?” he said. “If I were looking for a good job that lets me build some security for my family, I’d join a union. If I were busting my butt in the service industry and wanted an honest day’s pay for an honest day’s work, I’d join a union.”</p> <p word_count="142" data-wc="142">A few days later, the fast-food campaign mounted actions in a hundred and fifty cities. In New York, there was an early-morning sit-in outside a McDonald’s in Times Square. Nineteen strikers were arrested for blocking traffic. Tapia missed it, because she was busy taking Ashley to school. (Her prayers had been answered. Ashley was admitted to Success Academy—a high-powered bête noire of New York’s teachers’ union.) Among the several hundred protesters, there were a fair number of labor organizers, but many more fast-food workers. I noticed Jorel Ware, Naquasia LeGrand, Shantel Walker, and other activists from the conference in Chicago, and an all-female delegation from the Washington Heights McDonald’s. Workers were also being arrested in Detroit, Chicago, Little Rock, and Las Vegas. Among those arrested in Times Square was an eighty-one-year-old McDonald’s janitor named Jose Carrillo.</p> <p word_count="179" data-wc="179">Tapia made it to the day’s second sit-in, a few hours later, outside a McDonald’s at Eighth Avenue and Fifty-sixth Street. The protesters first marched up Eighth, beating on drums, blowing vuvuzelas and kazoos, and chanting, “What do we want? Fifteen and a union!” There were rabbis, priests, preachers, a Buddhist monk, and a full complement of local politicians. Some of the marchers wore their McDonald’s uniforms. Tapia was in civilian clothes. It was midday, hot. She and the rest of the protesters were steered by police into a containment pen, built of interlocking metal barricades, on the east side of Eighth. Diners on the second floor of the adjacent McDonald’s looked out on the scene, chewing distractedly, and returned to their phones. Cars honked. Then fifteen protesters, quietly avoiding the pen, made their way into the center of the intersection, which was in full blazing sun, and sat down in a circle on the asphalt. Most were dressed in black. Most were women. Nearly all looked to be African-American. Shantel Walker was among them.</p> <p word_count="96" data-wc="96">Tapia, at the front of the pen, watched closely, her face full of anger and admiration, as the demonstrators were brought to their feet one by one, not roughly, by police, and had their hands cuffed behind them. The police used disposable restraints—white plastic “flexicuffs.” They led their captives toward two large white vans, herded them inside, and shut the doors. The energy level of the protest dropped. Tapia and the other women from the Washington Heights McDonald’s checked their phones. Some had shifts to work. Tapia had to pick up Ashley from school. <span class="dingbat">♦</span></p> 			</div>
+		</div><!-- #content -->
+
+		<footer>
+								<section class="article-contributors">
+					
+<aside class="author-details" itemscope itemtype="http://schema.org/Person">
+	<meta itemprop="name" content="William Finnegan">
+	<meta itemprop="url" content="http://www.newyorker.com/contributors/william-finnegan">
+	<meta itemprop="image" content="http://www.newyorker.com/wp-content/uploads/2014/07/finnegan-william.svg">
+	<div rel="me" itemprop="url" class="author-details-wrap" >
+		<div class="author-image-wrap">
+			<img class="author-image" src="http://www.newyorker.com/wp-content/uploads/2014/07/finnegan-william.svg" />
+		</div>
+		<div class="author-masthead has-bio">
+				<div class="contributor-info">
+					<p>William Finnegan has been a contributor to <em>The New Yorker</em> since 1984 and a staff writer since 1987. He is the author of <a href="https://www.amazon.com/dp/0143109391/?tag=thneyo0f-20">“Barbarian Days.”</a></p>
+					<ul class="author-links">
+											<li>
+							<a class="more-link" href="http://www.newyorker.com/contributors/william-finnegan"  title="William Finnegan">More</a>
+						</li>
+										</ul>
+				</div>
+			</div>
+	</div>
+			
+</aside>
+					</section>
+					<section class="newsletter-signup">
+	<h5 class="newsletter-header ">Sign up for the daily newsletter: The best of <i>The New Yorker</i> every day.</h5>
+		<div class="newsletterContainer">
+		<form action="/wp-admin/admin-ajax.php" method="post" name="newsletter-form" novalidate="novalidate" class="newsletter-signup-form single-newsletter 2815505">
+			<input type="hidden" name="action" value="newsletter_subscribe">
+			<input type="hidden" name="formName" value="newsletter-form">
+			<input type="hidden" name="url" value="http://www.newyorker.com">
+			<input type="hidden" name="source_code" value="right_rail_magazine">
+			<input type="hidden" name="newsletterId[]" value="217">
+			<input type="hidden" name="newsletter_name" value="daily">
+
+			<fieldset>
+				<label for="newsletter-email" class="replace">Enter e-mail address</label>
+				<input name="email" class="newsletter-email" type="email" placeholder="Enter e-mail address" required="">
+				<button type="submit" name="submit-newsletter" class="submit-newsletter-content">Go</button>
+			</fieldset>
+		</form>
+		<div class="newsletter-banner">Please enter a valid e-mail address</div>
+	</div>
+	<p class="submitting">Submitting<span>.</span><span>.</span><span>.</span></p>
+	<div class="newsletter-confirmation">Thank you for subscribing. You&rsquo;ll receive your first newsletter soon. <a href="/newsletters" class="newsletter-link">View all newsletters &raquo;</a></div>
+</section>
+
+
+		</footer>
+
+						<div class="right-rail-fixed">
+
+										<div class="js-sticky-wrap">
+						<div class="js-sticky-element">
+							<div class="js-inner-wrap">
+
+							<aside class="most-popular ">
+	<div class="wrap-content">
+		<h3 class="heading">Most Popular</h3>
+		<ol class="posts">
+						<li class="post">
+					<a href="http://www.newyorker.com/business/currency/why-j-crews-vision-of-preppy-america-failed" class="post-permalink">
+						<h5 class="post-title">Why J. Crew’s Vision of Preppy America Failed</h5>
+					</a>
+					<p class="post-byline">
+						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/joshua-rothman" title="Joshua Rothman" rel="author">Joshua Rothman</a></span>					</p>
+				</li>
+								<li class="post">
+					<a href="http://www.newyorker.com/magazine/2017/05/08/how-trump-could-get-fired" class="post-permalink">
+						<h5 class="post-title">How Trump Could Get Fired</h5>
+					</a>
+					<p class="post-byline">
+						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/evan-osnos" title="Evan Osnos" rel="author">Evan Osnos</a></span>					</p>
+				</li>
+								<li class="post">
+					<a href="http://www.newyorker.com/humor/daily-shouts/i-am-a-tinder-guy-holding-a-fish-and-i-will-provide-for-you" class="post-permalink">
+						<h5 class="post-title">I Am a Tinder Guy Holding a Fish and I Will Provide for You</h5>
+					</a>
+					<p class="post-byline">
+						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/amy-collier" title="Amy Collier" rel="author">Amy Collier</a></span>					</p>
+				</li>
+								<li class="post">
+					<a href="http://www.newyorker.com/news/john-cassidy/james-comeys-two-door-choice" class="post-permalink">
+						<h5 class="post-title">James Comey’s Two-Door Story Isn&#8217;t Convincing</h5>
+					</a>
+					<p class="post-byline">
+						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/john-cassidy" title="John Cassidy" rel="author">John Cassidy</a></span>					</p>
+				</li>
+								<li class="post">
+					<a href="http://www.newyorker.com/magazine/2017/05/08/exploitation-and-abuse-at-the-chicken-plant" class="post-permalink">
+						<h5 class="post-title">Exploitation and Abuse at the Chicken Plant</h5>
+					</a>
+					<p class="post-byline">
+						 <span class="post-author">By&nbsp;<a href="http://www.newyorker.com/contributors/michael-grabell" title="Michael Grabell" rel="author">Michael Grabell</a></span>					</p>
+				</li>
+						</ol>
+		<a href="/popular?intcid=most-popular" class="full-popular-page">
+			<h5 class="callout">Our thirty most popular</h5>
+		</a>
+
+		<div id="AMS_NYR_ARTICLE_RIGHTRAIL"></div>
+
+	</div>
+</aside>
+
+
+							</div>
+						</div>
+					</div>
+										<div class="js-sticky-wrap strongbox-promo-wrapper">
+						<div class="js-sticky-element">
+							<div class="js-inner-wrap">
+								<p class="promo-find-out">
+									Do you  have a tip for <i>The New Yorker</i> that requires anonymity and security?
+	 								<a target="_blank" href="https://projects.newyorker.com/strongbox/"><div class="strongbox-promo-article" style="display:inline-block"></div>
+									</a>
+									<a class="goat-promo-link article-rail-link" target="_blank" href="https://projects.newyorker.com/strongbox/">Send it via SecureDrop. &raquo;
+									</a>
+								 </p>
+							</div>
+						</div>
+					</div>
+				</div>
+					</article>
+
+	<span id="article-bottom"></span>
+	<span id="article-end"></span>
+	<div id="recirc-pos-2">
+	
+	<section class="other-stories module other-stories-3 nocontent">
+		<h5>More From the New Yorker</h5>
+		<div class="story-content-table">
+			<div class="story-content-wrapper">
+								<div class="story">
+						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/magazine/2016/04/11/the-sacrifices-of-an-immigrant-caregiver" data-src="http://www.newyorker.com/wp-content/uploads/2016/04/160411_r27950-728x375-1459539465.jpg"></a>
+						<h4 class="story-section">A Reporter at Large</h4>
+						<h2 class="story-title">
+							<a href="http://www.newyorker.com/magazine/2016/04/11/the-sacrifices-of-an-immigrant-caregiver">The Cost of Caring</a>
+						</h2>
+						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/rachel-aviv" title="Rachel Aviv" rel="author">Rachel Aviv</a></h3>					</div>
+										<div class="story">
+						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/magazine/2003/02/17/a-fleet-of-one" data-src="http://www.newyorker.com/wp-content/uploads/2003/02/030217_r11884_b-728-375.jpg"></a>
+						<h4 class="story-section">Annals of Transport</h4>
+						<h2 class="story-title">
+							<a href="http://www.newyorker.com/magazine/2003/02/17/a-fleet-of-one">A Fleet of One</a>
+						</h2>
+						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/john-mcphee" title="John McPhee" rel="author">John McPhee</a></h3>					</div>
+										<div class="story">
+						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/business/currency/why-j-crews-vision-of-preppy-america-failed" data-src="http://www.newyorker.com/wp-content/uploads/2017/05/Rothman-J-Crew-1-728x375-1493844273.jpg"></a>
+						<h4 class="story-section">Cultural Comment</h4>
+						<h2 class="story-title">
+							<a href="http://www.newyorker.com/business/currency/why-j-crews-vision-of-preppy-america-failed">Why J. Crew’s Vision of Preppy America Failed</a>
+						</h2>
+						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/joshua-rothman" title="Joshua Rothman" rel="author">Joshua Rothman</a></h3>					</div>
+										<div class="story">
+						<a class="content-image-wrapper story-image lazyload" href="http://www.newyorker.com/magazine/2017/05/08/how-trump-could-get-fired" data-src="http://www.newyorker.com/wp-content/uploads/2017/05/170508_r29898_rd-728x375-1493318792.jpg"></a>
+						<h4 class="story-section">The Political Scene</h4>
+						<h2 class="story-title">
+							<a href="http://www.newyorker.com/magazine/2017/05/08/how-trump-could-get-fired">How Trump Could Get Fired</a>
+						</h2>
+						<h3 class="story-author"><a href="http://www.newyorker.com/contributors/evan-osnos" title="Evan Osnos" rel="author">Evan Osnos</a></h3>					</div>
+								</div>
+		</div>
+	</section>
+
+	</div>
+
+			<script src="/wp-content/assets/js/vendors/lazyload/lazyload.min.js"></script>
+			<script>
+				if (typeof LazyLoad !== 'undefined' && typeof LazyLoad !== undefined) {
+					// Images
+					new LazyLoad({
+					    elements_selector: "img.lazyload,a.lazyload",
+					    data_src: "src",
+					    data_srcset: "srcset",
+					    //callback_processed: function() { console.warn( element ); }
+					});
+				}
+			</script>
+			<!--[if IE]>
+<style>
+<script src="/wp-content/assets/js/vendors/simplemodal/simplemodal.min.js"></script>
+#link-subscription-modal{
+  display:none;
+}
+
+#modal-overlay-full,.modal-frame{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  width:0;
+  height:0;
+  display:none;
+}
+.nyr-flex-modal{
+  display:block;
+}
+</style>
+<![endif]-->
+<style>
+#the-modal-overlay{
+  z-index:9999999999!important;
+}
+</style> 
+
+<div id="the-modal-overlay" class="modal-frame">
+  <div class="modal">
+        <div id="account-modal" class="modal-inset">
+      <div class="modal-body">
+              <div id="conf-view" class="hidden-m-item nyr-flex-modal"></div>
+              <div id="signin-view" class="hidden-m-item nyr-flex-modal"></div>
+              <div id="reg-view" class="hidden-m-item nyr-flex-modal"></div>
+              <div id="link-subscription-modal" class="hidden-m-item nyr-flex-modal"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="main_overlay" class="modal-overlay"></div>
+<div class="small-flex-spacer-b"></div>
+<!-- Barrier Status: 'none' -->
+<style>
+
+	div#b-modal-overlay.modal-frame{
+		z-index: 99999931 !important;
+		overflow: visible;
+	}
+
+	div#b-modal-overlay iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100% !important;
+    width: 100% !important;
+    min-width: 100% !important;
+	}
+
+	div#main_overlay{
+		z-index:9999999;
+	}
+
+	#close-b-modal {
+		z-index: 1;
+	}
+
+	div.barrier-type[style]{
+		position:static!important;
+		max-width:none;
+	}
+
+	div.half-b {
+		max-width:90%;
+		min-width: 465px;
+		top: 10px;
+		position: relative;
+		overflow: hidden;
+	}
+	.desktop-barrier .half-b-inset {
+		min-width:0px;
+		width: 520px;
+	}
+
+	.modal-inset {
+		min-width: 0;
+	}
+
+	div#PAYWALL_BARRIER_wrapper {
+		width: 100%;
+		height: 100%;
+	}
+
+	.mob-notification-container {
+		position: absolute;
+		bottom: 0;
+		background-color: #322F31;
+		color: #FFF;
+		text-align: center;
+		min-height: 58px;
+		margin: 0 auto auto auto;
+		margin-top: 8%;
+		width: 100%;
+		left: 0;
+	}
+
+	.mob-notification-item:nth-child(1),
+	.mob-notification-item:nth-child(3) {
+		margin: 0 auto;
+	}
+
+	@media only screen and (max-width: 600px) {
+		div.half-b {
+			min-width: 0;
+		}
+	}
+
+	@media screen and ( max-height: 610px) {
+	  #b-modal-overlay {
+	    display: block;
+	  }
+
+	  #b-modal-overlay .modal {
+	    margin: 0 auto;
+	  }
+	}
 </style>
 
+<span id="failsafe-BType" attr="half"></span>
 
+<div id="b-modal-overlay" class="modal-frame" data-cns="half_barrier">
+	<div class="modal half-b">
+		<div class="modal-inset half-b-inset">
 
-<div id="nav">
-
-
-
-				<div id="chromemenu">
-
-
-
-				   <ul class="list">
-
-
-
-					<li><a href="/index.php">Home</a></li>
-
-
-
-					<li><a href="/visit.php" rel="dropmenu4">Visit</a></li>
-
-
-
-                    <li><a href="/programs/main.php" rel="dropmenu2">Programs</a></li>
-
-
-
-					<li><a href="/her-story.php" rel="dropmenu1">Learn</a></li>
-
-
-
-					<li><a href="/programs.php" rel="dropmenu5">Support</a></li>
-
-
-
-					<li><a href="http://www.susanbanthonyhouseshop.org/Default.asp">Shop</a></li>
-
-
-
-					<li><a href="/about.php" rel="dropmenu8">About</a></li>
-
-
-
-					<li><a href="/contact-us.php">Contact</a></li>	
-
-
-
-                    <li><a href="/sitemap.php">Site Map</a></li>				    
-
-
-
-				   </ul>
-
-
-
+			<div id="CM-notification" class="barrier-type">
+				<div class="CM-wrapper">
+					<div id="close-b-modal" class="modal-close notification-b"></div>
+					<div id="CM-notification-home-link"></div>
+					<div id="CM-notification-home-line"></div>
+					<div id="PAYWALL_BARRIER_wrapper">
+											</div>
+					<div class="bottom-barrier-divide">
+						<div class="notification-pipe-spacer"></div>
+						<div class="mobile-bottom-barrier-divide-left"><a id="linksub-from-external" href="javascript:void(0)">Link your <br/> subscription</a></div>
+						<div class="bottom-barrier-divide-left"><a id="linksub-from-external-promo" href="javascript:void(0)">Link your subscription</a></div>
+					</div>
+					<div class="mobile-barrier-divide-right begin-notification-msg">
+						Have a login?
+						<br/>
+						<span><a id="sign-in-from-notfication-mob" href="javascript:void(0)">Sign In</a></span>
+					</div>
+					<div id="login-text-wrapper" class="bottom-barrier-divide-right">
+						<span>Already have a login?</span>
+						<span><a id="sign-in-from-notfication" href="javascript:void(0)">Sign in</a></span>
+					</div>
+					<div class="mob-notification-container">
+						<div class="mob-notification-item"><a class="linksub-from-external-mobi" href="javascript:void(0)">Link Your<br/>Subscription</a></div>
+						<div class="mob-notification-item pipe-spacer-image"></div>
+						<div id="mobile-login-text-wrap" class="mob-notification-item"><span>Have a login?</span>
+							<br/><a class="signin-from-external-mobi" id="sign-in-from-notfication-mobilink" href="javascript:void(0)">Sign in</a>
+						</div>
+					</div>
 				</div>
-
-
-
-
-
-
-
-					<!--1st drop down menu -->                                                   
-
-
-
-					<div id="dropmenu1" class="dropmenudiv">
-
-
-
-                    <div style="background-color:#3E2D63;">
-
-
-
-							<a href="" style="background-color:#f9eacd; color:#3e2d63; width:420px; border-bottom:#FFFFCC 1px solid;"><strong>Her Story</strong></a>
-
-
-
-							<div style="float:left; width:200px; clear:left; background-color:#3E2D63;">
-
-
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-life/">Biography</a>
-
-
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-work/#abolitionist">Abolitionist</a>
-
-
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-work/#EduReformer">Educational Reformer</a>
-
-
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-work/#LaborActivist">Labor Activist</a>
-
-                                
-
-                            </div>
-
-
-
-                            <div style="float:right; clear:right; width:200px; border-left:1px solid #917FB9; background-color:#3E2D63;">
-
-
-
-                               <a href="/alligatorbag.php">Alligator Purse</a>
-                               <a href="/her-story/nursing.php">Susan B. Anthony & Nursing</a>
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-work/#suffragist">Suffragist</a>
-
-
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-story/timelines/">Timelines</a>
-
-
-
-                                <a href="/her-story/dollarcoin.php">Dollar Coin</a>
-
-
-
-                                <a href="/her-story/suffrage-movement.php">Links to Suffrage Movement </a>                            </div>
-
-<a href="http://susanbanthonyhouse.org/blog/her-work/#Temperance">Temperance Worker</a>
-<a href="http://susanbanthonyhouse.org/blog/resources-for-teachers/">Resources for Teachers</a>
-
-                  <div style="clear:both;">
-
-
-
-                            
-
-
-
-                           </div>
-
-
-
-						<!-- <a href="#" style="background-color:#3e2d63;border-left: solid 1px #3e2d63;width: 199px;">&nbsp;</a> -->
-
-
-
-                    <p style="clear:both; margin:0; padding:0;"></p>
-
-
-
-                    </div>
-
-
-
-                    <div style="clear:both; background-color:#3E2D63;">			
-
-
-
-                    <a href="" style="background-color:#f9eacd; color:#3e2d63; width:420px; border-bottom:#FFFFCC 1px solid;"><strong>Her Home's Story</strong></a>
-
-
-
-							<div style="float:left; clear:both">
-
-
-
-                                <a href="http://susanbanthonyhouse.org/blog/her-home/" style="width:420px;">Timeline</a>
-
-                                <div style="clear:both; background-color:#3E2D63;">
-
-
-
-                      <a href="http://susanbanthonyhouse.org/blog/category/something-new-from-the-past" target="_blank" style="background-color:#f9eacd; color:#3e2d63; width:420px; border-bottom:#FFFFCC 1px solid;"><strong>Something New From The Past</strong></a>
-
-
-
-                     
-
-
-
-                    </div>
-
-
-
-                                <a href="/visit-us/restoration.php" style="width:420px;">Restoration</a>
-
-
-
-                                <a href="/visit-us/onlinetours.php" style="width:420px;">Photo Gallery</a>
-
-
-
-                            </div>	
-
-
-
-					</div>
-
-
-
-                    
-
-                    
-
-
-
-  </div>							
-
-
-
-					
-
-
-
-					<!--2nd drop down menu -->                                                   
-
-
-
-					<div id="dropmenu2" class="dropmenudiv2">
-
-
-
-							<div>
-
-
-
-							<a href="" style="background-color:#f9eacd; color:#3e2d63; border-bottom:#FFFFCC 1px solid; width: 250px;"><strong>Youth</strong></a>
-							<a href="http://susanbanthonyhouse.org/blog/scout-programs/#girlscout">Girl Scouts</a>
-                            <a href="/programs/changeit.php">Change It!</a>
-							<a href="http://susanbanthonyhouse.org/programs/bdaytour.php">Birthday Tea and Tour </a>
-                            <a href="/programs/connections.php">Neighborhood Connections</a>
-							<a href="/programs/virtualtours.php">Virtual Tours for Second Grade Classes</a>
-                            <a href="http://susanbanthonyhouse.org/blog/scout-programs/#boyscout">Cub / Boy Scouts </a>
-                            
-              
-
-
-
-
-                            </div>
-
-
-
-                            
-
-
-
-                            <div style="clear:both;">			
-
-
-
-                            <a href="" style="background-color:#f9eacd; color:#3e2d63; border-bottom:#FFFFCC 1px solid; width: 250px;"><strong>Adult</strong></a>
-
-
-
-                           <a href="http://susanbanthonyhouse.org/blog/2016-17-mls/">Monday Lecture Series</a>
-
-
-
-                            <a href="/programs/successfulaging.php">Healthy Aging Seminars</a>
-
-
-
-                            <a href="/programs/inspiring.php">Inspiring One Another</a>
-
-
-
-                            <a href="/programs/profdev.php">Professional Development</a>
-
-
-
-                            <a href="/programs/initiatives.php">Women's Initiative</a> </div>
-
-                            
-
-                     <div style="clear:both; background-color:#3E2D63;">
-
-                            <a href="http://susanbanthonyhouse.org/blog/category/events/" style="background-color:#f9eacd; color:#3e2d63; border-bottom:#FFFFCC 1px solid; width: 250px;"><strong>Events & Programs</strong></a>
-
-
-                            </div>
-
-                            <div style="clear:both; background-color:#3E2D63;">
-
-
-
-                      <a href="http://courageousleadership.org/" target="_blank" style="background-color:#f9eacd; color:#3e2d63; width:250px; border-bottom:#FFFFCC 1px solid;"><strong>Courageous Leadership Consortium</strong></a>
-
-
-
-                     <a href="http://courageousleadership.org/" target="_blank">Leadership Development Programs for Women</a>
-
-
-
-                    </div>
-
-
-
-					</div>
-
-
-
-                    
-
-
-
-					<!--4th drop down menu -->  
-
-
-
-					<div id="dropmenu4" class="dropmenudiv">
-
-
-
-							<a href="/visit-us/main.php">Hours, Admission & Directions</a>
-
-
-
-							<a href="/tours-rentals.php">Tour & Rentals</a>
-
-
-
-							<a href="/visit-us/restoration.php">Restoration Highlights</a>
-
-
-
-                    </div>
-
-
-
-				
-
-
-
-					<!--5th drop down menu -->  
-
-
-
-					<div id="dropmenu5" class="dropmenudiv">
-
-
-
-							<a href="/get-involved/become-member.php">Join</a>
-
-
-
-                            <a href="/get-involved/donation.php">Give</a>
-
-
-
-							<a href="/get-involved/volunteer-application.php">Volunteer</a>
-
-                            
-
-                            <a href="/get-involved/friends.php">Friends of Susan B. Anthony House</a>
-
-					     <a href="/get-involved/nursingfriends.php">Nursing Friends of Susan B. Anthony House</a>
-
-                            
-
-
-
-							<!--<a href="../get-involved/volunteer-application.php">Volunteer</a>-->
-
-
-
-					</div>
-
-
-
-						<!--6th drop down menu -->  
-
-
-
-					<div id="dropmenu6" class="dropmenudiv">
-
-
-
-						<a href="/get-involved/donation.php">Make a Donation</a>
-
-
-
-						
-
-
-
-					</div>
-
-
-
-					
-
-
-
-					<!--8th drop down menu -->  
-
-
-
-					<div id="dropmenu8" class="dropmenudiv">
-
-
-
-							<a href="/about-us/mission.php">Our Mission</a>
-
-
-
-							<a href="/about-us/trustees-and-staff.php">Trustees and Staff</a>
-
-
-
-							<a href="/about-us/partners.php">Partners</a>
-
-                            
-
-                            <a href="http://susanbanthonyhouse.org/blog/category/news/">News & Updates</a>
-
-
-
-                            <a href="http://susanbanthonyhouse.org/blog/category/press-releases">Press Releases</a>
-
-                            	
-
-                            <a href="http://susanbanthonyhouse.org/blog/category/perspectives/">From Our President & CEO</a>					
-
-
-
-                            </div>
-
-
-
-					
-
-
-
-<script type="text/javascript">
-
-
-
-						cssdropdown.startchrome("chromemenu")
-
-
-
-					</script>
-
-
-
-				
-
-
-
-			<!-- Dropdown Menus End Here -->
-
-
-
-</div>
-
-
-
-
-
-
-
-			<!--- END NAV --->
-			
-		  	<div id="content">
-<div style="clear:both;">
-			  <!-- InstanceBeginEditable name="pageContent" -->
-              <div id="breadcrumbs">
-              	<a href="../her-story.php">Learn</a> &gt; Her Story: Labor Activist</div>
-			  <h1>Labor Activist</h1>
-				<p>Susan B. Anthony's paper The Revolution, first published in 1868, advocated an eight- hour day and equal pay for equal work. It promoted a policy of purchasing American- made goods and encouraging immigration to rebuild the South and settle the entire country. Publishing The Revolution in New York brought her in contact with women in the printing trades.</p>
-			    <p> In 1868 Anthony encouraged working women from the printing and sewing trades in New York, who were excluded from men's trade unions, to form Workingwomen's Associations. As a delegate to the National Labor Congress in 1868 Anthony persuaded the committee on female labor to call for votes for women and equal pay for equal work, although the men at the conference deleted the reference to the vote.</p>
-			    <p> In 1870 Anthony formed and was elected president of the Workingwomen's Central Association. The Association drew up reports on working conditions and provided educational opportunities for working women. Anthony encouraged a cooperative workshop founded by the Sewing Machine Operators Union and boosted the newly-formed women typesetters' union in The Revolution. Anthony tried to establish trade schools for women printers. When printers in New York went on strike she urged employers to hire women instead, believing this would show how they could do the job as well as men, and therefore deserved equal pay. At the 1869 National Labor Union Congress the men's Typographical Union accused her of strike- breaking and running a non-union shop at The Revolution, and called her an enemy of labor.</p>
-			    <p> In the 1890s, while president of the National American Woman Suffrage Association, Anthony emphasized the importance of gaining the support of organized labor. She encouraged Florence Kelley and Jane Addams in their work in Chicago, and Gail Laughlin in her goal to seek protection for working women through trade unions.<br />
-		      </p>
-			  <!-- InstanceEndEditable -->
-            </div>
-		  </div>
+			</div>
 		</div>
-		<!--- END LEFT --->
-		
-		<!--- START RIGHT --->
-		<div id="right">
-			<div id="topRightImage">
-			  <!-- InstanceBeginEditable name="topRightImage" --><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><img src="/images/death2.jpg" alt="" width="401" height="417" border="0" /><!-- InstanceEndEditable -->
-            <form method="get" action="http://www.google.com/search" style="margin-left: 40px;;">
-
-<input type="text"   name="q" size="31"
- maxlength="255" value="" />
-<input type="submit" value="Search" />
-<input type=hidden name=domains value="http://susanbanthonyhouse.org">
-<input type=hidden name=sitesearch value="http://susanbanthonyhouse.org">          
-
-
-</form>
-
-<!-- Yahoo! Search --><!--
-<form method=get action="http://search.yahoo.com/search">
-<table cellpadding=0 cellspacing=0 border=0>
-<tr><td><div style="border: 1px solid #999; padding: 5px 4px 5px 3px;">
-  <input type="text" name="p" size=29>
-<input type="hidden" name="fr" value="yscpb">
-<input type="submit" value="Search"><br><font size="-2" face="arial, helvetica">
-<input type="hidden" name="vs" style="vertical-align: middle" value="http://susanbanthonyhouse.org">
-</font></div></td></tr>
-</table>
-</form>-->
-<!-- End Yahoo! Search --></div>
-			<div id="content2">	<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a class="addthis_button_preferred_3"></a>
-<a class="addthis_button_preferred_4"></a>
-<a class="addthis_button_compact"></a>
-<a class="addthis_counter addthis_bubble_style"></a>
-</div>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d9af84329c5d6f0"></script>
-<!-- AddThis Button END --></div><!-- InstanceBeginEditable name="pageContent2" -->
-				<p><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<a href="http://www.susanbanthonyhouseshop.org/donate.asp"><img src="/images/donationbutton.png" alt="Donate Today!" width="226" height="35" border="0"></a></p>
-				<!-- InstanceEndEditable -->
-			  
-		  </div>
-		</div>
-		<!--- END RIGHT --->
 	</div>
-	<!--- END CONTAINER --->
-	<div id="footer">
-		<div id="footerLeft">
-			<p><a href="../index.php">home</a> | <a href="../visit.php">visit</a> | <a href="../her-story.php">learn</a> | <a href="../get-involved/become-member.php">join</a> | <a href="../get-involved/donation.php">give</a> | <a href="../get-involved/volunteer-application.php">volunteer</a> | <a href="https://www.susanbanthonyhouseshop.org/" target="_blank">shop</a> | <a href="../about.php">about</a> | <a href="../contact-us.php">contact</a> | <a href="../sitemap.php">sitemap</a></p>
-			<p>&copy; 2013 <strong>Susan B. Anthony House</strong> |  <a href="http://burstmarketing.net">Web Design</a> by <a href="http://burstmarketing.net">Burst Marketing</a></p>
-		</div>
-		<div id="footerRight">
-			<p><strong>Visitor Center -            585-235-6124 <br />
-		    Administration           - 585-279-7490 </strong></p>
-		  <p>17 Madison Street, Rochester NY 14608</p>
-		</div>
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<div class="b-modal-overlay"></div>
+<script>window.digitalData={
+    "contributor": "William Finnegan",
+    "contentID": 2815505,
+    "contentLength": "",
+    "display": "Dignity",
+    "pageType": "Article",
+    "searchTerms": "",
+    "canonical": "http:\/\/www.newyorker.com\/magazine\/2014\/09\/15\/dignity-4",
+    "pageValue": "all",
+    "publishDate": "2014-09-08T00:00:48+00:00",
+    "section": "magazine",
+    "subsection": "2014",
+    "numOfSearchResults": "",
+    "modifiedDate": "2016-12-01T13:34:23+00:00",
+    "keywords": {
+        "display": "article|a-reporter-at-large|william_finnegan"
+    },
+    "cnUserServices": true
+};</script><script>
+  var CN = CN || {};
+  /* <![CDATA[ */
+  var platformEnvironment = "production";
+  var sitehost = "http://www.newyorker.com";
+  var omniture_init = [];
+  CN.omniture = CN.omniture || {};
+  CN.omniture.conf = {"s_account":"conde-newyorker","server":"stats2.newyorker.com","secureServer":"sstats.newyorker.com","internalFilters":"javascript:,newyorker.com,advancemags.com"};
+  /* ]]> */
 </script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-4745504-52");
-pageTracker._trackPageview();
-} catch(err) {}</script></body>
-<!-- InstanceEnd --></html>
+
+<script src="/wp-content/assets/js/vendors/cn-fe-stats/s_code.js"></script>
+<script src="/wp-content/assets/dist/js/article2016.min.js?cb=20170503010843"></script>
+<script>
+/* Get the in Site Catalyst object instance. This is done by using the s_account variable or similar */
+var _scObj = s_gi(CN.omniture.conf.s_account);
+/* create instance of DIL*/
+var scDil = DIL.create({
+  partner : "condenast",
+  uuidCookie:{
+     name:'aam_uuid',
+     days:30
+   }
+  });
+/*Pass the dil Instance and SC instance to this module*/
+DIL.modules.siteCatalyst.init(_scObj, scDil);
+</script>
+            <script type="text/javascript" class="site_init">
+            //<!--
+                CN.site.init({
+                    code:             'NYR',
+                    title:            'The New Yorker',
+                    name:             'newyorker',
+                    alias:            'newyorker.com',
+                    domain:           'newyorker.com',
+                    tld:              'newyorker.com',
+                    baseUrl:          'http://www.newyorker.com',
+                    mobilecompatible: 'true',
+                    httpStatusCode:    200,
+            userServiceUrl: 'https://user-service.condenastdigital.com',
+userServiceKey: 'xTqYrbfganJDRIpQjk9DyPG76bQ=',
+ecomUrl: 'https://subscribe.newyorker.com/api/circ/xml/Transaction',
+                    env: 'PROD'  // Put something consistent last so we don't have a trailing comma (appease IE)
+                });
+
+                CN.isMobile = TNY.initIsMobile;
+                CN.isTablet = jQuery.devices.tablet();
+                CN.checkDeviceView = jQuery.devices.checkDeviceView;
+            //-->
+            </script>
+                        <!-- AD INIT: CN.dart.init version 2 -->
+            <script type="text/javascript">
+            //<!--
+                CN.dartKwsArray = [ "magazine","2014","09","15","dignity_4","article","a_reporter_at_large","william_finnegan" ];
+
+            
+                            /* Add keywords when the barriers are active */
+                if ( TNY.meterVar.isBarrierHalf ){
+                    CN.dartKwsArray.push('novideo');
+                    CN.dartKwsArray.push('paywall');
+                    CN.dartKwsArray.push('paywallhalf');
+
+                }
+                if ( TNY.meterVar.isBarrierFull ){
+                    CN.dartKwsArray.push('noads');
+                    CN.dartKwsArray.push('paywall');
+                    CN.dartKwsArray.push('paywallfull');
+                }
+
+                /* Add keywords for subscriber status */
+                if ( TNY.meterVar.subscription === 'Active' ) {
+                    CN.dartKwsArray.push('subscriber');
+                } else {
+                    CN.dartKwsArray.push('nonsubscriber');
+                }
+                            if(CN.dart !== undefined){
+                CN.dart.init({
+                    adUnits: {
+                        unit1: CN.isMobile ? 'newyorker.mobile.dart' : 'newyorker.dart',
+                        unit2: 'magazine',
+                        unit3: 'channel_business',
+                        unit4: ''
+                    },
+                    kws: CN.dartKwsArray,
+                    contentType: 'Article',
+                                    gptCallback : function(event){TNY.Ads.eventPubadsCallback(event)},
+                                    charmap : {' ' : '+', '-' : '_'}
+                });
+            }
+                        //-->
+                </script>
+            <script src="https://assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-9cb2a39d627a819b6ca42ab76f651dbfa7b1a535.js"></script>
+            <script type="text/javascript">
+                CN.popups = CN.popups || {};
+                CN.popups.setCookieLife(48);
+                // No pops!  NONE!
+                CN.popups.setArriving(false).setExiting(false).setLayer(false);
+                CN.popups.setATGArriving(false).setATGExiting(false).setATGLayer(false);
+                CN.popups.init();
+            </script>
+            
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="newyorker.com"></div>
+</div>
+<script data-cfasync="false">
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.setAttribute('data-cfasync', 'false'); e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+            <script type="text/javascript">
+            //<!--
+                CN.config.set({
+                    title        : document.title,
+                                    facebook     : {pageid: "9258148868"},
+                                    isiFrame     : true
+                });
+            //-->
+            </script>
+            <script src="/wp-content/assets/dist/js/article.min.js?cb=20170503010843"></script><aside id="footer-ad-google"><div class="ad" data-lazyad data-matchmedia="only screen and (min-width: 850px)"><script type="text/lazyad">
+<!--
+<script>  google_ad_client = 'ca-conde_newyorker';  google_ad_channel = 'newyorker_standard_a newyorker_standard_b';  google_language = 'en';  google_ad_width = '728';  google_ad_height = '90';  google_ad_format = '728x90_pas_abgc';  google_ad_type = 'text';  google_alternate_ad_url = '';  google_alternate_color = '';  google_color_bg = 'edefee';  google_color_border = '';  google_color_line = '000000';  google_color_url = '000000';  google_color_link = '000000';  google_color_text = '000000';  google_encoding = 'utf8';  google_safe = 'high';  google_adtest = 'off';  google_ad_section = 'default';</script>
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>-->
+</script>
+</div>
+</aside>
+<footer>
+			<nav id="tny-footer">
+			  <ul>
+				<li><a href="/about/us/?src=tny-footer" title="About Us">About</a></li>
+			    <li><a href="/about/careers?src=tny-footer" title="">Careers</a></li>
+				<li><a href="http://www.condenaststore.com/~/cartoon-bank?utm_medium=referral&amp;utm_source=NewYorker&ampt;utm_content=tcb-footer&amp;AID=1247905545" title="">Cartoon Bank</a></li>
+
+				<li><a href="/about/contact/?src=tny-footer" title="">Contact</a></li>
+
+				<li><a href="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" title="Customer Care">Customer Care</a></li>
+
+				<li><a href="/about/faq/?src=tny-footer" title="Frequently Asked Questions">FAQ</a></li>
+
+				<li><a href="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer" title="">Media Kit</a></li>
+				<div class="footer-forced-break"></div>
+
+				<li><a href="http://www.newyorkeronthetown.com/?src=tny-footer" title="">On The Town</a></li>
+		 		<li><a href="/about/press/?src=tny-footer" title="Press Center">Press</a></li>
+
+		 		<li><a href="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer" title="">Reprints</a></li>
+
+				<li><a href="/about/feeds/?src=tny-footer" title="">RSS</a></li>
+
+		 		<li><a href="http://www.newyorker.com/sitemap.xml" title="">Site Map</a></li>
+	
+				<li><a href="http://www.condenaststore.com/-se/newyorkerstore.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545" title="">Store</a></li>
+				<li><a href="https://projects.newyorker.com/strongbox/" title="Strongbox">SecureDrop</a></li>
+			  </ul>
+			</nav>
+			<div id="conde-footer">
+<div class="global-footer-other-sites">
+      <form action="/" name="sites_dropmenus" id="sites_dropmenus">
+          <select name="mag_list" id="mag_list">
+            <option selected="selected" value="">About</option>
+            <option value="/about/us/?src=tny-footer">About</option>
+            <option value="/about/careers?src=tny-footer">Careers</option>
+            <option value="http://www.condenaststore.com/~/cartoon-bank?utm_medium=referral&amp;utm_source=NewYorker&ampt;utm_content=tcb-footer&amp;AID=1247905545">Cartoon Bank</option>
+            <option value="/about/contact/?src=tny-footer">Contact</option>
+            <option value="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" title="Customer Care">Customer Care</option>
+            <option value="/about/faq/?src=tny-footer">FAQ</option>
+            <option value="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer">Media Kit</option>
+            <option value="http://www.newyorkeronthetown.com/?src=tny-footer">On The Town</option>
+            <option value="/about/press/?src=tny-footer">Press</option>
+            <option value="http://www.condenast.com/brands/the-new-yorker/?src=tny-footer">Reprints</option>
+            <option value="/about/feeds/?src=tny-footer">RSS</option>
+            <option value="http://www.newyorker.com/sitemap.xml">Site Map</option>
+            <option value="http://www.condenaststore.com/-se/newyorkerstore.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545">Store</option>
+            <option value="https://projects.newyorker.com/strongbox/>">Strongbox</option>
+          </select>
+      </form>
+  </div>
+<div class="mobile-divider"></div>
+  <div class="global-footer-logo">
+    <a href="http://www.condenast.com?src=tny-footer" title="Cond&eacute; Nast Digital">Cond&eacute; Nast Digital</a>
+  </div>
+  <div class="footer-copy-text">
+  © 2017 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" target="_blank">user agreement</a> (effective 1/2/2016) and <a href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank">privacy policy</a>  (effective 1/2/2016).  Your <a href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">California privacy rights</a>. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with prior written permission of Condé Nast.  </div>
+  <div class="global-footer-sister-sites">
+      <form action="/" name="mag_dropmenus" id="mag_dropmenus">
+          <select name="mag_list" id="mag_list">
+            <option selected="selected" value="">Our sites</option>
+            <option value="http://www.allure.com?src=tny-footer">Allure</option>
+            <option value="http://www.architecturaldigest.com?src=tny-footer">Architectural Digest</option>
+            <option value="http://www.arstechnica.com?src=tny-footer">Ars Technica</option>
+            <option value="http://www.backchannel.com?src=tny-footer">Backchannel</option>
+            <option value="http://www.bonappetit.com?src=tny-footer">Bon App&eacute;tit</option>
+            <option value="http://www.brides.com?src=tny-footer">Brides.com</option>
+            <option value="http://www.concierge.com/cntraveler?src=tny-footer">Cond&eacute; Nast Traveler</option>
+            <option value="http://www.epicurious.com?src=tny-footer">Epicurious</option>
+            <option value="http://www.glamour.com?src=tny-footer">Glamour</option>
+            <option value="http://www.golfdigest.com?src=tny-footer">Golf Digest</option>
+            <option value="http://www.golfworld.com?src=tny-footer">Golf World</option>
+            <option value="http://www.gq.com?src=tny-footer">GQ</option>
+            <option value="http://www.gq.com/style?src=tny-footer">GQ Style</option>
+            <option value="http://www.pitchfork.com?src=tny-footer">Pitchfork</option>
+            <option value="http://www.self.com?src=tny-footer">Self</option>
+            <option value="http://www.teenvogue.com?src=tny-footer">Teen Vogue</option>
+            <option value="http://www.vanityfair.com?src=tny-footer">Vanity Fair</option>
+            <option value="http://www.vogue.com?src=tny-footer">Vogue</option>
+            <option value="http://www.wmagazine.com?src=tny-footer">W</option>
+            <option value="http://www.wired.com?src=tny-footer">Wired</option>
+          </select>
+      </form>
+  </div>
+   <div class="footer-copy-text-mobile-only">
+  © 2017 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" target="_blank">user agreement</a> (effective 1/2/2016) and <a href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank">privacy policy</a>  (effective 1/2/2016).  Your <a href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">California privacy rights</a>. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with prior written permission of Condé Nast.  </div>
+</div>
+		</footer>
+<script></script></body>
+</html>

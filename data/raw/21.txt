@@ -584,6 +584,6 @@
                 </div>
             </noscript>
         </div>
-        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"101c8130da","applicationID":"33102565","transactionName":"ZFYHbRQAVkdUAhEPDV0cJFoSCFdaGhEEAQdsUARaDgQ=","queueTime":0,"applicationTime":18,"atts":"SBEEG1waRUk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"101c8130da","applicationID":"33102565","transactionName":"ZFYHbRQAVkdUAhEPDV0cJFoSCFdaGhEEAQdsUARaDgQ=","queueTime":0,"applicationTime":25,"atts":"SBEEG1waRUk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 
 </html>

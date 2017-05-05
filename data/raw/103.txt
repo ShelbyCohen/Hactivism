@@ -1,0 +1,502 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/animals-earth-and-our-health-strategies-social-change-and-problem-animal-product-consumption" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="For the Animals, the Earth, and Our Health: Strategies for Social Change and the Problem of Animal-Product Consumption" about="/animals-earth-and-our-health-strategies-social-change-and-problem-animal-product-consumption" property="dc:title" />
+<link rel="shortlink" href="/node/22047" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/animals-earth-and-our-health-strategies-social-change-and-problem-animal-product-consumption" />
+  <title>For the Animals, the Earth, and Our Health: Strategies for Social Change and the Problem of Animal-Product Consumption | University of Chicago - SSA</title>
+  <style type="text/css" media="all">@import url("http://ssa.uchicago.edu/modules/system/system.base.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/system/system.menus.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/system/system.messages.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/system/system.theme.css?oflxf3");</style>
+<style type="text/css" media="all">@import url("http://ssa.uchicago.edu/modules/comment/comment.css?oflxf3");
+@import url("http://ssa.uchicago.edu/sites/all/modules/date/date_api/date.css?oflxf3");
+@import url("http://ssa.uchicago.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/field/theme/field.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/node/node.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/search/search.css?oflxf3");
+@import url("http://ssa.uchicago.edu/modules/user/user.css?oflxf3");
+@import url("http://ssa.uchicago.edu/sites/all/modules/views/css/views.css?oflxf3");</style>
+<style type="text/css" media="all">@import url("http://ssa.uchicago.edu/sites/all/modules/ctools/css/ctools.css?oflxf3");
+@import url("http://ssa.uchicago.edu/sites/all/modules/field_group/field_group.css?oflxf3");</style>
+<style type="text/css" media="all">@import url("http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_css/style.css?oflxf3");
+@import url("http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_css/colorbox.css?oflxf3");
+@import url("http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_css/implementation.css?oflxf3");</style>
+  <script type="text/javascript" src="http://ssa.uchicago.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/misc/drupal.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/modules/google_analytics/googleanalytics.js?oflxf3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-10287807-1", "auto");ga("require", "displayfeatures");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/modules/field_group/field_group.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/jquery.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/jquery.colorbox-min.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/mstoner.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/mstoner.ClearInput.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/mstoner.Tabs.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/mstoner.Banner.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/app.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_js/implementation.js?oflxf3"></script>
+<script type="text/javascript" src="http://ssa.uchicago.edu/sites/all/themes/universityofchicagossa/_flash/AC_RunActiveContent.js?oflxf3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"universityofchicagossa","theme_token":"3cs12CY97YpFTGGiyO35LxfqGB83x5o8C1aQD9wTU2I","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/jquery.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/jquery.colorbox-min.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/mstoner.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/mstoner.ClearInput.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/mstoner.Tabs.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/mstoner.Banner.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/app.js":1,"sites\/all\/themes\/universityofchicagossa\/_js\/implementation.js":1,"sites\/all\/themes\/universityofchicagossa\/_flash\/AC_RunActiveContent.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/field_group\/field_group.css":1,"sites\/all\/themes\/universityofchicagossa\/_css\/style.css":1,"sites\/all\/themes\/universityofchicagossa\/_css\/colorbox.css":1,"sites\/all\/themes\/universityofchicagossa\/_css\/implementation.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-22047 node-type-standard" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="primary-structure">
+    
+    <div class="primary-structure-inside">
+    	
+    	<div class="header-wrapper">
+    		
+    		
+				  <div class="region region-banner-area">
+    <div id="block-nodequeue-block-8" class="block block-nodequeue-block">
+
+    	<span class="block-title">banner-student-life</span>
+  
+  <div class="content">
+    <div class="background" style="background-image: url('http://ssa.uchicago.edu/sites/default/files/banner/student_life_studying_banner.jpg');"></div>
+  </div>
+</div>
+  </div>
+	    		
+	    	    		
+    		<div class="inner-wrapper">
+    			
+    			<div class="top">
+    				
+    				<div class="inner">
+    					
+    					<div class="left">
+    						
+    						<div class="logo"><a href="/">The University of Chicago - School of Social Service Administration</a></div>
+    						
+    					</div>
+    					
+    					<div class="right">
+    						
+    						<div class="row row-1 border">
+    							
+    							<div class="search">
+    									
+    								<div class="search-box">
+    								
+    									  <div class="region region-header-search">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/animals-earth-and-our-health-strategies-social-change-and-problem-animal-product-consumption" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input alt="search" type="image" id="edit-submit" name="submit" src="/sites/all/themes/universityofchicagossa/_images/buttons/search-submit.jpg" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ekeikP__Pih9nOAKiDLKgziB2zUCU6eCHG90MyAqbLM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+    									
+    								</div>
+    								
+    							</div>
+    							
+    						</div>
+    						
+    						<div class="row row-2 border">
+    							
+    							<div class="navigation tertiary">
+    								
+<!--     								<div class="label">Information For:</div> -->
+    								
+    								    								
+										<ul id="menu-audience-navigation" class="links"><li class="menu-377 first"><a href="/faculty-lecturers-staff" title="Faculty, Lecturers, &amp; Staff">Faculty, Lecturers, and Staff</a></li>
+<li class="menu-1012"><a href="/alumni" title="Alumni">Alumni</a></li>
+<li class="menu-376 last"><a href="/current-students" title="Current Students">Current Student Resources</a></li>
+</ul>										
+									    								
+    							</div>
+    							
+    						</div>
+    						
+    						<div class="row row-3">
+    							
+    							<div class="navigation primary">
+    								
+    								    								
+										
+<ul>
+    
+    <li class="first about"><a  href="/about-ssa">About SSA</a></li>
+    
+    <li class="academics"><a  href="/academics">Academics</a></li>
+    
+    <li class="admissions"><a  href="/admissions">Admissions</a></li>
+    
+    <li class="research"><a  href="/research">Research</a></li>
+    
+    <li class="student-life"><a  href="/student-life">Student Life</a></li>
+    
+    <li class="news-events"><a  href="/news-events">News &amp; Events</a></li>
+    
+    <li class="last giving"><a  href="/giving">Giving</a></li>
+    
+</ul>										
+									    								
+    							</div>
+    							
+    						</div>
+    						
+    					</div>
+    					
+    				</div>
+    				
+    			</div>
+    			
+    			<div class="bottom">
+    				
+    				<div class="bottom-inner inner">
+    					
+    					<div class="title">
+    						<a name="main-content"></a>
+    						<h1>For the Animals, the Earth, and Our Health: Strategies for Social Change and the Problem of Animal-Product Consumption</h1>    						
+    					</div>
+    					
+    				</div>
+    				
+    				<div class="bottom-bar">
+    					
+    					<div class="bottom-bar-inner inner">
+    						
+    						<div class="left">
+    							
+    							<div class="navigation go-to breadcrumb">
+    							    
+    							    <ul><li class="first last"><a href="/">Home</a></li></ul>    							    
+    							</div>
+    							
+    						</div>
+    						
+    						<div class="right">
+    							
+    							<div class="navigation go-to actions">
+    								
+    								<ul>
+    							    	
+    							    	<li class="first"><a href="/print/animals-earth-and-our-health-strategies-social-change-and-problem-animal-product-consumption">Print</a></li>
+    							    	
+    							    	<li class="last">
+											
+											<!-- AddThis Button BEGIN -->
+											
+											<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4de462417f7956df">Share This Page</a>
+											
+											<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4de462417f7956df"></script>
+											<!-- AddThis Button END -->											
+    							    		
+										</li>
+    							    	
+    							    </ul>
+    								
+    							</div>
+    							
+    						</div>
+    						
+    					</div>
+    					
+    				</div>
+    				
+    			</div>
+    			
+    		</div>
+    		
+    	</div>
+    	
+    	<div class="body-wrapper">
+    		
+    		<div class="inner">
+    			
+    			    			
+    				<div class="columns three-column col-s260">
+    					
+    					<div class="col u190 spacing">
+    						
+    						<div class="inner-col">
+    							
+    							    							
+    								    								
+	    							  <div class="region region-left-column-spif">
+    <div id="block-nodeblock-29" class="block block-nodeblock">
+
+    
+  <div class="content">
+    
+<div class="feature">
+    
+    
+    <div class="media">
+        
+        <div class="object">
+        
+				    	<img src="http://ssa.uchicago.edu/sites/default/files/styles/spif-image/public/spif/image/SSA_MAG_W17.jpg?itok=cRxc8HI4" alt="SSA Magazine Winter 2017" />
+	    	
+        </div>
+        
+    </div>
+    
+    <div class="content">
+    		
+		<div class="action tight">
+		    
+		    		   
+		    <div class="link">
+		       	<a href="/ssa-magazine" target="_blank">SSA Magazine</a>			</div>
+		    
+		</div>    		
+    	
+    </div>
+    
+</div>
+  </div>
+</div>
+  </div>
+	    							
+	    						    							
+    							    							
+    						</div>
+    						
+    					</div>
+    					
+    					<div class="col spacing s490">
+    						
+    						<div class="inner-col">
+    							
+    							<div class="content">
+									
+																		
+																		
+									  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    	
+	<span class="print-link"></span><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="center"><strong><span style="line-height: 1.45;"></span></strong></p><p style="text-align: left;" align="center"><a href="http://ssa.uchicago.edu/advocates-forum-2010">From the 2010 issue of the <em>Advocates' Forum</em></a><strong style="line-height: 1.45;"><br></strong></p><p align="center"><strong><span style="line-height: 1.45;">For the Animals, the Earth, and Our Health:&nbsp;</span><span style="line-height: 1.45;">Strategies for Social Change and the Problem of Animal-Product Consumption<br></span></strong><span style="line-height: 1.45;">Betsy Rubinstein</span></p><p style="text-align: left;" align="center"><strong>Abstract<br></strong><em><span style="line-height: 1.45;">How does an issue come to be defined as a social problem? Once a problem is defined as such, what are the processes through which activists engage and organize citizens to join the cause? What strategies can activists use to get their issue on the public agenda for change? Using the purported social problem of animal-product consumption, this paper will provide a response to these questions through the social change lens of the vegan/vegetarian (VEG) movement. The author will discuss how VEG activists have created meaning through the use of collective action frames, expanded the boundaries of the movement to mobilize an increasing number of individuals and groups, and utilized campaign tactics and policy windows to get the animal-product consumption problem on the public agenda. For the sake of our health, the environment, and animal rights, VEG activists have used these advocacy techniques to help bring an end to the consumption of animal products.</span></em></p><p><span style="line-height: 1.45;">In order to develop an understanding of how social problems come to be, it is important to recognize that what we perceive as “problems” are not simply conditions that preexist in the world, separate from human creation. Rather, as Spector and Kitsuse (1987) argue, social problems emerge from “the activities of those who assert the </span><em style="line-height: 1.45;">existence</em><span style="line-height: 1.45;"> of conditions and </span><em style="line-height: 1.45;">define</em><span style="line-height: 1.45;"> them as problems” (74). Individuals who make such assertions sometimes use value judgments to construct a problem through compelling and convincing language.</span></p><p>Within the context of social movements, activists act as claims-makers by effectively framing an issue as a pressing social problem. The <em>framing</em> technique can also be used as a strategic tool to <em>mobilize</em> and engage a diverse group of people around the issue.&nbsp; By broadening the frames through which a social problem can be understood, activists can effectively increase the amount of potential supporters, and thus make a larger impact.&nbsp; Once individuals and groups have been mobilized around an issue, activists try to set an agenda for change. With the power of effective frames and mobilized citizens, activists will engage in mass-communication to increase the likelihood of public support and policy adoption.</p><p>This paper will present an example of these advocacy techniques through their implementation by the vegan/vegetarian (VEG) movement. The VEG movement has effectively utilized these framing, mobilization, and agenda-setting techniques to advocate on behalf of animals, the environment, and our health and thus offers a clear example of how activists use these essential techniques to bring about social change.</p><p align="center"><strong>Framing the Issue</strong></p><p>In their assessment of social movements, Benford and Snow (2000) illustrate how framing creates meaning. When frames are used to mobilize groups to take action on a particular social movement, they are called “collective action frames.” Under the umbrella of collective action frames, there are three component parts: diagnostic framing, prognostic framing, and motivational framing. Diagnostic framing refers to the words that agents use to identify the problem and the sources of causality. In some cases, determining the causal source for a social problem is a difficult task. Change agents who agree that a given situation is a social problem may disagree about <em>what</em> or <em>who</em> specifically is causing the problem.</p><p>In the case of the VEG movement, the causal source of the social problem is intrinsic to the problem itself. According to Vegan Action’s website (vegan.org), animal-product consumption is a social problem due to its negative effects on animals, the environment, and our health so the obvious source of blame are the people who consume animal products, and the institutions that perpetuate the meat/dairy-production industry. Once a social problem and its cause have been identified in this way, the next task is to determine a course of action to respond to the problem. This is where prognostic framing is utilized.</p><p>Prognostic framing is used not only to identify the solution or plan of action, but also to articulate the strategies that will be used to carry out the plan. Activists within Vegan Outreach, for example, frame the solution to animal-product consumption as being a matter of educating the public about alternatives to eating meat and dairy, and the ethical issues around animal-cruelty. Their hope is to appeal to our human sense of right and wrong, and to help provide an alternative perspective to the notion that animal products must be a central component of our diet. Matt Ball (2008), a member of Vegan Outreach, stated that “effective advocates . . . recognize that they can’t <em>change</em> anyone’s mind. No matter how elegant the argument, real and lasting change comes only when others are free to explore new perspectives” (2). Furthermore, vegan activists use prognostic frames that do not involve the imposition of value judgments or the intention to make meat and dairy-eaters feel guilty about their diet choices. Rather, they focus their solution on the dispersion of information, increasing access to vegan/vegetarian options, and promoting a healthy and environmentally friendly lifestyle.</p><p>The third component to collective action frames is motivational framing. These frames are used to provide a rationale and motivation for individuals and groups to engage in collective action around a social problem. More specifically, motivational frames involve using a vocabulary that indicates a sense of “severity, urgency, efficacy and [or] propriety” (Benford and Snow 2000, 617).&nbsp; With respect to propriety, Bruce Friedrich (2004), the director of Vegan Campaigns with People for the Ethical Treatment of Animals (PETA), stated that the ultimate goal of the animal rights movement is to apply the golden rule to all animals: Do unto others as you would have them do unto you. By using this recognizable phrase, he intended to appeal to our society’s conventionally accepted beliefs and morals. Surely, we would not want to be locked in a cage unable to walk around or breathe fresh air. We would not want to be forced into a small space where there was no separation between our living area and the place where we expelled waste.</p><p>Peter Singer and Jim Mason (2006), both authors and activists for animal rights, use motivational frames that exemplify the severity of slaughterhouses.&nbsp; Throughout their book, <em>The Way We Eat: Why Our Food Choices Matter</em>, they explained in detail the extreme cruelty and pain that chickens experience in factory farming conditions. Their writing conjures “excrement-filled litter” and “premature death” of animals “crammed into cages” and “suffer[ing] dislocated and broken hips, broken wings, and internal bleeding” (24-5). By continuously using motivational framing that illustrates the distressing conditions of slaughterhouses, Singer and Mason have the capacity to potentially influence the reader to take action and change their diet.</p><p>“Master frames” are another form of framing that activists commonly use to mobilize action in social movements. While collective action frames use words and phrases that are specific to the social problem at hand, master frames are less restrictive and reach out to onnect with other social problems (Benford and Snow 2000). For example, Singer and Mason’s (2006) detailed description of the maltreatment of chickens in slaughterhouses provide a collective action frame, but the words like unethical, cruel, inhumane, gruesome, and destructive are all contribute to a master frame. While these words could certainly be used to describe factory-farming conditions and environmental destruction, they could also be used to describe a variety of other issues. Benford and Snow (2000) explain that the inclusive nature of master frames make them both beneficial and detrimental to their overall effectiveness in mobilizing individuals and groups. While a master frame has the ability to resonate with many people, its lack of specificity can limit its inability to capture the severity of the issue. For this reason, it is in the best interest of VEG activists to choose their framing strategically, and with the intention of revealing the ruthless nature of animal-product consumption.</p><p align="center"><strong>Mobilizing Individuals and Groups</strong></p><p>In the evolution of a social movement, the act of framing and the creation of collective action frames give advocates the ability to mobilize individuals and groups to join and support a cause. After all, the intention of the powerful and compelling language involved in framing is to convince the public (or specific audience) that the issue at hand is urgent and severe enough to require our attention and efforts. In addition to utilizing framing techniques, it is important that activists continually strive to broaden the boundaries of their movement, and thereby increase the number of potential supporters.&nbsp; As Valerie Jenness (1995) argues, “domain expansion” is a “necessary resource for ‘framing work’” (147) because it allows “claim-makers [to] offer new definitions for – and thus extend the boundaries of – the phenomena deemed problematic” (154).</p><p>The VEG movement has utilized the concept of domain expansion in its efforts to mobilize individuals and groups. In their advocacy efforts, VEG organizations such as Vegan Action seek to educate the public about the benefits of adopting a vegan lifestyle for the sake of animals, the environment, and our health (Vegan Action).&nbsp; By incorporating issues of animal-rights, environmentalism and health-consciousness into the VEG movement, vegan/vegetarian activists have the ability to influence a larger population and convince these individuals and groups that adopting a VEG lifestyle is the ultimate form of advocacy for these issues. How could a <em>true</em> environmentalist support the meat-production industry if “the raising of livestock takes up more than two-thirds of agricultural land” (Vegan Society) and uses an excess amount of energy and water simply to keep animals warm and able to perform bodily functions? According to the Vegan Society, beef production is an incredibly inefficient use of fossil fuels in that it uses “about three times the amount of energy as food energy produced” (Vegan Society). In comparison, corn and barley production creates 15 times the amount of energy of beef production for equal fossil fuel input. Furthermore, all of the energy that is lost on meat production could be used to sustain human beings on a vegan diet. Surely, a hamburger would be hard to swallow once an environmentalist became informed about the detrimental effects of meat-production on the environment.</p><p>Bruce Friedrich, an advocate for both animal-rights and veganism, illustrates how the VEG movement has utilized domain expansion by joining forces with the animal-rights movement to achieve a common goal. He suggests that being an effective vegan advocate means refraining from framing VEG activism in terms of personal purity and policing other vegans/vegetarians about the specific ingredients that they consume.&nbsp; Instead, VEG activism should be framed as a method to protect the well being of animals. Friedrich (2008, 4) stated, “Veganism is not a dogma . . . [it] is not a list of ingredients or a set of rules . . . veganism is about stopping suffering [and] . . . doing our best to help animals.” By framing the adoption of a VEG lifestyle in terms of preventing the suffering of innocent animals, activists have the ability to convince animal-lovers to be vegan/vegetarian instead of viewing such lifestyle options as policing and fanatical.</p><p>In addition to advocating for animal-rights and environmentalism, the VEG movement has been able to expand its domain to health-conscious people more generally by informing the public that a diet excluding animal products is better for our health. Vegan and vegetarian diets have become appealing as they have been shown to lower cholesterol, decrease the likelihood of obesity and decrease the risk of heart disease (Key et al. 2006, 37-8). Because health is a concern of <em>all</em> human beings (not just animal-lovers and environmentalists), the VEG movement has been able to increase its amount of supporters and advocates strictly on the basis of health considerations. In turn, those who adopt the VEG lifestyle expand the reach of advocates by increasing exposure to the issue.</p><p align="center"><strong>Setting an Agenda for Change</strong></p><p>The simple act of spreading knowledge about the benefits of living a VEG lifestyle is an essential component to the vegan/vegetarian movement, as it helps with agenda setting and moving issues forward. As mentioned previously, the VEG movement has focused a large amount of activist efforts on penetrating the popular agenda (the media and the mass public) by spreading the word about the benefits of being VEG, the realities of the meat/dairy production industry, and the variety of VEG alternatives to meat and dairy. In <em>PETA’s Guide to Becoming an Activist</em> (2009), animal-rights advocates encourage making displays, distributing leaflets and posting fliers as an effective method to educate the public. A persuasive leaflet, they argue, includes short and clear sentences, a photograph, a few bullet points outlining the issue, and contact information (PETA activists recognize that they will not be able to affect the public by handing out lengthy packets of information about their issue). Instead, one bold, eye-catching statement often has the power to make individuals consider or reconsider their views about a particular issue. For example, Vegan Outreach created a flyer with three large photographs of innocent animal faces and one bold statement in the center: “Boycott Cruelty!” This exemplifies how one bold statement, making use of the master frame of cruelty, makes its short, sharp appeal. Ultimately, an effective outreach strategy for getting on the popular agenda is to first capture public attention, and then guide interested individuals and groups to what Vegan Outreach, on its website (veganoutreah.org), calls “credible, persuasive, and focused literature [that will] provide well-documented and thorough answers for specific questions.”</p><p>With respect to initiatives for getting on the “public” or “governmental” agenda, the VEG movement has taken part in many campaigns to create change around issues of animal cruelty and the lack of accessibility to vegan/vegetarian food. VEG activists have recognized that the university student population tends to be more receptive to veganism/vegetarianism than the rest of society (veganoutreach.org).&nbsp; Vegan Action’s website features a description of its “Vegan Dorm Food” campaign, which helps to introduce students to a healthy, vegan lifestyle and the variety of dishes that can be made without the use of animal products.</p><p>Vegan Action’s website also describes an even broader campaign: their “Vegan Certification” campaign, which promotes a “certified vegan logo, an easy-to-recognize symbol applied to foods, clothing, cosmetics and other items that contain no animal products and are not tested on animals.” By administering a recognizable logo to all vegan goods, consumers will be able to choose vegan-friendly products with ease, and the word “vegan” will likely become a part of mainstream vocabulary over time. While a common excuse that VEG activists hear from individuals who are interested in, but unwilling to adopt the VEG lifestyle is that “being vegan or vegetarian would be such a burden because animal products are in everything.” With the implementation of the “Vegan Certification” and “Vegan Dorm Food” campaigns, interested individuals have an increased ability to gain knowledge about and access to the VEG lifestyle.</p><p>In addition to spreading the word and partaking in campaigns, the VEG movement has taken advantage of policy windows that open when a significant event, like a natural disaster, occurs. VEG organizations have thus capitalized on the issues of climate change through advocacy efforts to protect the environment. By spreading the word about the detrimental effects that animal agriculture has on the air, land, soil, water, and biodiversity (Food and Agriculture Organization of theUnited States), VEG organizations can effectively frame animal-product consumption as unethical and irresponsible.&nbsp; The VEG movement also has the opportunity to take advantage of rising health concerns in today’s society. Leitzmann (2005) found that “vegetarian diets are beneficial in the prevention and treatment of . . . cardiovascular disease, hypertension, diabetes, cancer, osteoporosis, renal disease and dementia, as well as . . . gallstones and rheumatoid arthritis” (147).&nbsp; VEG activists can also point to the finds that red meat has been shown to increase the risk of pancreatic cancer, one of the deadliest forms of the disease (Nothlings 2005).</p><p align="center"><strong>Conclusion</strong></p><p>In sum, I have illustrated the critical processes through which social change can occur, drawing on the VEG movement as evidence. First, I discussed the methods that VEG activists have used to frame animal-product consumption as a social problem. With diagnostic framing techniques, VEG organizations have shown that supporting the meat-production industry by eating meat, dairy and eggs is detrimental to animals, the environment and our health. As a proposed solution, these organizations have created prognostic frames that indicate the need to educate the community about the benefits of a VEG lifestyle and plausible alternatives to consuming animal products. Additionally, motivational and master frames have enabled VEG activists to illustrate the severity of animal-product consumption. Secondly, I showed how VEG organizations have utilized ‘domain expansion’ by including animal-rights, environmental and health issues under the umbrella of VEG activism. Domain expansion has allowed the VEG movement to increase the number of activists working toward the cause, and make a larger impact as a result. Finally, I have addressed the agenda-setting techniques that the VEG movement has used to get on the public/governmental and popular agenda for change. By utilizing informational and eye-catching leaflets, fliers and displays, the VEG movement has been able to capture public attention and ultimately educate individuals and groups about the benefits of veganism and vegetarianism. In an effort to get on the public agenda, VEG organizations like Vegan Action have initiated campaigns to increase accessibility to vegan/vegetarian food in college dormitories and grocery stores. The VEG movement has also taken advantage of policy windows that have opened as a result of natural and human factors, capitalizing on our society’s increasing concern about global climate change and life-threatening diseases by promoting the VEG lifestyle as a responsible and humane solution to these problems.</p><p><strong>REFERENCES</strong></p><p>Ball, Matt. 2008. <em>A meaningful life: Making a difference in today’s world.</em> Retrieved &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 23, 2009 from http://www.veganoutreach.org/advocacy/meaningfullife.html</p><p>Bedford, Robert D. and David A.&nbsp; (2000). Framing processes and social movements: An overview and assessment. <em>Annual Review of Sociology</em> 26: 611-639.</p><p>Food and Agriculture Organization of the United Nations (FAO). 2006. <em>Livestock’s long shadow: Environmental issues and options</em>. http://www.fao.org/docrep/010/a0701e/<span style="line-height: 1.45;">a0701e00.HTM. Retrieved March 17, 2009.</span></p><p>Friedrich, Bruce. 2004. <em>Effective advocacy: Stealing from the corporate playbook</em>. Retrieved &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 24, 2009 from http://www.goveg.com/effectiveAdvocacy.asp</p><p>Jenness, Valerie. (1995). Social movement growth, domain expansion, and framing processes:&nbsp;<span style="line-height: 1.45;">The gay/lesbian movement and violence against gays and lesbians as a social problem. </span><em style="line-height: 1.45;">Social Problems</em><span style="line-height: 1.45;"> 42(1): 145-170.</span></p><p>Key, Timothy J., Paul N. Appleby andMagdalenaS. Rosell. 2006. Health effects of vegetarian&nbsp;<span style="line-height: 1.45;">and vegan diets. </span><em style="line-height: 1.45;">Proceedings of the Nutrition Society </em><span style="line-height: 1.45;">65: 35-41.</span></p><p>Kingdon, John. 1995. <em>Agendas, alternatives and public policies</em>, 2<sup>nd</sup> ed.New York: Harper&nbsp;<span style="line-height: 1.45;">Collins Publishers.</span></p><p>Leitzmann, Claus. 2005. Vegetarian Diets: What Are the Advantages? In <em>Diet diversification and health promotion</em>, ed. Ibrahim Elmadfa, 147-156.Basel,Switzerland: Karger.</p><p>Nothlings, Ute. 2006. <em>Red and Processed Meat Associated with Increased Pancreatic Cancer Risk</em>. http://epi.grants.cancer.gov/documents/EGRPhighlightsSpring2006.pdf. Retrieved&nbsp;<span style="line-height: 1.45;">March 17, 2009.</span></p><p>PETA. 2009. <em>PETA’s Guide to Becoming an Activist</em>. Retrieved March 17, 2009 from &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://www.peta.org/actioncenter/AAactguide1.asp</p><p>Singer, Peter and Jim Mason. 2006. <em>The way we eat: Why our food choices matter</em>. Eammus,&nbsp;<span style="line-height: 1.45;">PA: Rodale, Inc.</span></p><p>Spector, Malcolm and John Kitsuse. 1987. <em>Constructing social problems</em>.&nbsp;Brunswick,NJ:&nbsp;<span style="line-height: 1.45;">Transaction.</span></p></div></div></div>	
+  </div>
+</div>
+  </div>
+    					    		
+    					    	</div>
+    							
+    						</div>
+    						
+    					</div>
+    					
+    					    						
+    						<div class="col s260">
+					
+    						    <div class="inner-col">
+    						    	
+    						    	    						    	
+    						    </div>
+    						        					    
+    						    <div class="inner-col">
+    						    	
+    						    	    						    		
+    						    		  <div class="region region-right-column-spif">
+    <div id="block-nodequeue-block-2" class="block block-nodequeue-block">
+
+    
+  <div class="content">
+    
+<div class="feature">
+
+    <div class="header dark tight"><h2><a>Called to Testify</a></h2></div>
+    
+    	
+	    <div class="media">
+        
+    	    <div class="object">
+        		
+        		
+								    	<img src="http://ssa.uchicago.edu/sites/default/files/styles/feature-spif-narrow/public/feature_basic/spif/Lepse_Ashley_4015a.png?itok=KihhdEqw" alt="Ashley Lepse" />
+
+			    
+    	    </div>
+        
+	    </div>
+	
+	    
+    <div class="content">
+    	
+    	<h3><a href="/child-welfare-witness">Child Welfare Witness</a></h3>
+    	
+    	<div class="caption">
+    		
+    		<p>Many scholars don’t get an opportunity during their entire career to testify on Capitol Hill. Ashley Lepse has already done so as a Master’s student at SSA.&nbsp;</p>    		
+			    		
+    	</div>
+    	
+    </div>
+    
+</div>
+  </div>
+</div>
+  </div>
+    						    		
+    						    	    						    	
+    						    </div>
+    						    
+    						</div> <!-- end col 3 -->
+					
+    					    					
+    				</div>
+    			
+    			    			
+    		</div>
+    		
+    	</div>
+    	
+    </div>
+    
+</div>
+
+<div class="secondary-structure">
+    
+    <div class="secondary-structure-inside">
+    	
+    	<div class="footer-wrapper">
+    		
+    		<div class="inner">
+    			
+    			<div class="top">
+    			
+    				<div class="left">
+    					
+    					<div class="info-wrapper">
+    						
+    						<div class="logo-wrapper">
+    						
+    							<div class="logo alternate"><a href="/">The University of Chicago - School of Social Service Administration</a></div>
+    						
+    						</div>
+    						
+    						<div class="address-wrapper">
+    							
+    							<address>
+    								
+    								<p>The University of Chicago<sup>&reg;</sup> SSA</p>
+    								
+    								<p>969 E. 60<sup>th</sup> Street | Chicago, IL 60637</p>
+    								
+    								<p>(773) 702-1250</p>
+    								
+    								<small><a href="http://www.uchicago.edu" target="_blank">University of Chicago</a></small>
+    								
+    							</address>
+    							
+    						</div>
+    						
+    					</div>
+    					
+    					<div class="copyright-wrapper">
+    						
+    						<p>&copy; 2017</p>
+    						
+    					</div>
+    					
+    				</div>
+    				
+    				<div class="right">
+    					
+    					<div class="navigation quicklinks">
+    						
+	    					<ul id="menu-quicklinks-1" class="links"><li class="menu-1633 first"><a href="/quick-links" title="">Quick Links</a></li>
+<li class="menu-1634"><a href="/building-hours" title="">Building Hours</a></li>
+<li class="menu-1635 last"><a href="https://chalk.uchicago.edu" title="">CHALK</a></li>
+</ul>    						
+    					</div>
+    					
+    					<div class="navigation quicklinks margin">
+    						
+	    					<ul id="menu-quicklinks-2" class="links"><li class="menu-1637 first"><a href="/course-catalog" title="">Course Listings</a></li>
+<li class="menu-1639"><a href="https://myssa.uchicago.edu" title="">MySSA</a></li>
+<li class="menu-1640"><a href="/directories" title="">SSA Directory</a></li>
+<li class="menu-1638 last"><a href="https://directory.uchicago.edu" title="">UChicago Directory</a></li>
+</ul>    						
+    					</div>
+    					
+    				</div>
+    			
+    			</div> <!-- top -->
+    			
+    			<div class="bottom">
+    			
+    					<div class="navigation footer">
+    						
+							<ul>
+							    
+							    <li class="first"><a href="mailto:ssamagazine@ssa.uchicago.edu">Contact Us</a></li>
+							    
+							    <li><a href="https://ssa.uchicago.edu/visit-us">Visit Us</a></li>
+							    
+							    <li class="last"><a href="https://ssa.uchicago.edu/employment-opportunities">Employment</a></li>
+							    
+							</ul>
+    						
+    					</div>
+    					
+    					<div class="navigation social">
+    						
+    						<ul>
+    							
+    							<li class="first facebook"><a href="http://www.facebook.com/UChicagoSSA">Facebook</a></li>
+    							
+    							<li class="twitter"><a href="http://www.twitter.com/UChicagoSSA">Twitter</a></li>
+    							
+    							<li class="youtube"><a href="http://www.youtube.com/playlist?list=PL4615F481CC8CC042">Youtube</a></li>
+    							
+    							<li class="linkedin"><a href="http://www.linkedin.com/groupInvitation?groupID=3679826&amp;sharedKey=0902047742FA">LinkedIn</a></li>
+    							
+    							<li class="last itunes"><a href="http://itunes.apple.com/us/itunes-u/school-social-service-administration/id391206382">iTunes</a></li>
+    							
+    						</ul>
+    						
+    					</div>
+	    			
+    			</div> <!-- bottom -->
+    			
+    		</div>
+    		
+    	</div>
+    	
+    </div>
+    
+</div>  </body>
+</html>

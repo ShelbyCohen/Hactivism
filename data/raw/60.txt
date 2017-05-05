@@ -1,502 +1,597 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
-
-<!-- go here http://api.drupal.org/api/globals for available global variables -->
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Struggling for the Rule of Law | Middle East Research and Information Project</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="/sites/default/files/merip_favicon.ico" type="image/x-icon" />
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_e0ca005e1d8965170dcf3fb2fbdb14ca.css" />
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_f3f1f2fa15582797d83cb0cd1c820bb5.css" />
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?y" />
-<![endif]-->
-  <script type="text/javascript" src="/sites/default/files/js/js_338d1a8dc0e5bd34f9f6e6fe1f6d3a17.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 }, "custom_search": { "form_target": "_self", "solr": 0 } });
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function() {$('#back-top').css('right','40px');$('#back-top .icon').css('background-color','#CCCCCC').fadeTo('fast',0.5); $('#back-top .icon').mouseover(function(){ $(this).css({'background-color':'#777777','opacity':'1'}).fadeTo('slow',1);}).mouseout(function(){ $(this).css({'background-color':'#CCCCCC'}).fadeTo('fast',0.5);});});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-	    addthis_pub = 'merip';
-	    addthis_logo = 'http://www.addthis.com/images/yourlogo.png';
-	    addthis_logo_background = 'EFEFFF';
-	    addthis_logo_color = '666699';
-	    addthis_brand = 'Middle East Research and Information Project';
-	    addthis_options = 'email, print, facebook, twitter';
-	    addthis_disable_flash = 'false';
-	
-//--><!]]>
-</script>
-  <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=merip"></script>
+	<title>Pakistan&#039;s struggle for democracy: The lawyers&#039; movement one year on (+ video) | Links International Journal of Socialist Renewal</title>
+    <!-- head -->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://links.org.au/files/abac_favicon.png" type="image/x-icon" />
+    <!-- styles -->
+		<style type="text/css" media="all">@import url("http://links.org.au/files/css/84fe717b3ad2c2238398347a4ed7c437.css");</style>
+    <!-- scripts -->
+		    <!-- print css -->
+		<style type="text/css" media="print">@import "/sites/all/themes/abac/print.css";</style>
 </head>
-<body class="not-front not-logged-in node-type-article-public two-sidebars page-mer-mer251-struggling-rule-law section-mer">
-
-	<!-- #page, #page-inner -->
-	<div id="page"><div id="page-inner">
-
-		 <!-- #header, #header-inner -->	
-		<div id="header"><div id="header-inner" class="clear-block">
-            <div id="site-name">Middle East Research and Information Project</div>
-		</div></div> 
-		<!-- /#header-inner, /#header -->
-
-		<!-- #navbar -->
-				<div id="navbar">
-        <div id="block-nice_menus-1" class="block block-nice_menus region-odd even region-count-1 count-10"><div class="block-inner">
-
-  
-  <div class="content">
-    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-236 menu-path-front first  odd "><a href="/" title="Home Page: Middle East Research and Information Project">Home</a></li>
-<li class="menu-3187 menu-path-about even "><a href="/about">About Us</a></li>
-<li class="menu-237 menuparent menu-path-mer odd "><a href="/mer" title="Middle East Report">Middle East Report</a><ul><li class="menu-262 menu-path-mer-latest first  odd "><a href="/mer/latest" title="">Latest Issue</a></li>
-<li class="menu-2476 menu-path-mer-issues even "><a href="/mer/issues" title="Current and recent back issues of MER">Back Issues</a></li>
-<li class="menu-238 menu-path-authors odd "><a href="/authors" title="Authors for the Middle East Report and Middle East Research and Information Project">Authors</a></li>
-<li class="menu-239 menuparent menu-path-mer-articles even "><a href="/mer/articles" title="">Articles</a><ul><li class="menu-240 menu-path-mer-articles-author first  odd "><a href="/mer/articles/author" title="MER articles by author">By Author</a></li>
-<li class="menu-241 menu-path-mer-articles-subjects even  last "><a href="/mer/articles/subjects" title="MER articles by subject">By Subject</a></li>
-</ul>
-</li>
-<li class="menu-14412 menu-path-node-6399 odd "><a href="/online-access" title="Online Access">Online Access</a></li>
-<li class="menu-235 menu-path-node-23 even "><a href="/writers-guidelines" title="Writers Guidelines">Writers Guidelines</a></li>
-<li class="menu-234 menu-path-node-22 odd  last "><a href="/advertising" title="Advertising">Advertising</a></li>
-</ul>
-</li>
-<li class="menu-2813 menuparent menu-path-mero even "><a href="/mero" title="Middle East Report Online">MER Online</a><ul><li class="menu-14849 menu-path-mero-interventions first  odd  last "><a href="/mero/interventions" title="Middle East Report Online Interventions">Interventions</a></li>
-</ul>
-</li>
-<li class="menu-2963 menu-path-newspaper_opeds odd "><a href="/newspaper_opeds" title="Newspaper Opinion or Editorial pieces">Op-Eds</a></li>
-<li class="menu-14409 menu-path-blog even "><a href="/blog">Blog</a></li>
-<li class="menu-5108 menu-path-node-1070 odd "><a href="/giving" title="Donate to MERIP">Donate</a></li>
-<li class="menu-259 menu-path-contact even "><a href="/contact" title="Contact Us">Contact Us</a></li>
-<li class="menu-2350 menu-path-catalog-81 odd  last "><a href="/catalog/subscriptions" title="">Subscribe</a></li>
-</ul>
-  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
+<body class="sidebar-left">
+<div class="main">
+	<div class="heada">
+		<div class="headMenu">
+						<ul class="links primary-links"><li class="first menu-1-1-2"><a href="/about" class="menu-1-1-2">About Links</a></li>
+<li class="menu-1-2-2"><a href="/edboard" class="menu-1-2-2">Editorial advisory board</a></li>
+<li class="menu-1-3-2"><a href="mailto:linkssocialist@gmail.com" class="menu-1-3-2">Contact us</a></li>
+<li class="last menu-1-4-2"><a href="/node/270" title="Comments policy" class="menu-1-4-2">Comments policy</a></li>
+</ul>					</div>
+		<div class="search">
+					</div>
+	</div>
+	<div class="headb">
+		<div class="logo"><a href="/" title=""><img src="http://links.org.au/files/logo.png" alt="" id="logo" /></a>				
 		</div>
-				<!-- /#navbar -->		
-		
-		<!-- #main, #main-inner -->
-		<div id="main"><div id="main-inner" class="clear-block">
-
-			<!-- #content, #content-inner -->
-			<div id="content"><div id="content-inner">
-				<div></div>
-								<!-- #content-header -->
-			  				<!-- /#content-header -->
-
-				<!-- #content-area -->
-								<div id="content-area">
-				<div id="node-131" class="node node-type-article-public"><div class="node-inner clear-left">
-
-    
-  
-    <h2 class="title">
-	 	 Struggling for the Rule of Law	 	</h2>
-	 
-		<div id="article-author">
-	 by <a href="/author/daud-munir">Daud Munir</a>		 	 	 </div>
-	 	 	<div id="article-issue">
-	published in <span id="article-issue"><a href="/mer/mer251">MER251</a></span>
+		<div class="welcome"><h1></h1>			
+			<p>
+</p>
+		</div>
 	</div>
-	 
-	<div class="content">
-	<p>
-	In March 2007, when President (and General) Pervez Musharraf suspended Supreme Court Chief Justice Iftikhar Chaudhry, Pakistani lawyers took to the streets in large numbers. It was a dangerous street where they were met with batons, barbed wire, tear gas, bullets and bombs. If their immediate demand was Chaudhry&rsquo;s return to the bench, the incipient goal of their movement was restoration and respect for the rule of law. Over the last two years, protesting lawyers fundamentally transformed the political landscape in Pakistan.</p>
-<p>	Lawyers -- at least in their capacity as lawyers -- rarely enter the fray of contentious politics by employing disruptive techniques to press for changes in government policy. While lawyers are agents and advocates of political liberalism and the rule of law in most countries, their favored arena of contestation usually has been courts, and their preferred tactics of resistance have been writs and petitions. If we define a &ldquo;lawyers&rsquo; movement&rdquo; as a coherent nationwide struggle by legal professionals, sustained over time and fought primarily in the streets, Pakistan would emerge as the only case.</p>
-<p>	The lawyers&rsquo; bold challenge to Musharraf presented a unique historical opportunity for meaningful political reform in Pakistan. It certainly presented a counter-image of the idea that Pakistan is a &ldquo;failed state,&rdquo; as some US policymakers have claimed, and a contrast to the parallel undemocratic impulse in Pakistan&rsquo;s politics, led by militant movements of tribal Pashtuns seeking to install a radical version of Islam in the country&rsquo;s northwest regions. The broader effects of the lawyers&rsquo; struggle depend on whether this indigenous democratic impulse can flourish and endure in the post-Musharraf era. The problem is that while Western policymakers are ready to extend billions of dollars in military aid to subdue the extremist impulse, they seem unwilling to engage with -- or even to adequately acknowledge -- the secular, reformist impulse in Pakistani society that is represented by the lawyers&rsquo; movement.</p>
-<h2>
-	A Tale of Two Judges</h2>
-<p>
-	Following Pakistan&rsquo;s creation as an independent state in 1947, the project of establishing constitutional governance had an unpromising beginning. In 1954, the Constituent Assembly finally agreed on the governing legal framework. Later that year, as legal experts were busy drafting the text of the constitution, Governor-General Ghulam Muhammad dissolved the Assembly, silencing what he referred to as its &ldquo;parliamentary bickering.&rdquo; Proclaiming in an emergency proclamation that the Assembly had &ldquo;lost the confidence of the people,&rdquo; what really troubled Muhammad was the imminent curtailment of his powers through new legislation.</p>
-<p>	The executive enlisted the support of the military in its bid to preserve its power. In a breach of rules barring members of the military from holding political office, Gen. Ayub Khan, the army chief, was appointed as a minister in the newly formed cabinet. This extra-constitutional action formally paved the way for the military&rsquo;s entry into Pakistan&rsquo;s politics.</p>
-<p>	How did the judiciary respond? The chief court of Sindh accepted a petition submitted by the president of the Assembly and invalidated the actions of the governor-general. On appeal, however, the Federal Court upheld the legality of the Assembly&rsquo;s dissolution. A constitutional crisis ensued, which the court resolved by relying on the &ldquo;doctrine of necessity.&rdquo; According to this controversial principle, extra-constitutional actions can be legally justified under special circumstances. The man behind this legal maneuver was Chief Justice Muhammad Munir, a brilliant legal mind. His majority opinion which, in essence, validated Pakistan&rsquo;s first extra-constitutional coup, was a skillful attempt at bending the law in support of the executive. Munir&rsquo;s ruling endorsing the usurpation of power would prove costly for Pakistan.</p>
-<p>	In 1958, when Gen. Khan suspended the constitution and imposed the first martial law, Justice Munir authored the leading judgment validating this military <em>coup d&rsquo;&eacute;tat</em>. This time the legal maneuver involved mislabeling the coup a &ldquo;revolution&rdquo; by invoking the speculative theory of &ldquo;revolutionary legality&rdquo; developed by the Austrian jurist Hans Kelsen. The court argued that since the &ldquo;revolution&rdquo; satisfied &ldquo;the test of efficacy,&rdquo; it could thereby be deemed legitimate. In other words, the success of the military coup d&rsquo;&eacute;tat automatically furnished the justification for its legality.</p>
-<p>	The jurisprudence of the Munir court set the tone for constitutional reasoning in Pakistan. The doctrine of necessity, in particular, was used repeatedly to legitimate extralegal usurpations of power. The military takeovers of Gens. Zia ul-Haq and Pervez Musharraf, in 1977 and 1999, respectively, were validated using this doctrine. One of the members of the bench who reviewed and endorsed the legality of Musharraf&rsquo;s military <em>coup d&rsquo;&eacute;tat</em> in May 2000 was Justice Iftikhar Chaudhry.</p>
-<p>	When Chaudhry became chief justice in 2005, however, his judicial philosophy underwent a fundamental metamorphosis. Rather than acting as an agent of the power elite, Chaudhry sought to become a guarantor of the fundamental rights of Pakistani citizens. Soon after being sworn in, he established a &ldquo;human rights cell&rdquo; in the Supreme Court. Through this forum, Chaudhry started accepting petitions from the public against infringements of constitutionally guaranteed rights. The cases taken up by the court incrementally tightened the noose of legality around the Musharraf regime.</p>
-<p>	In the first few cases, the court held local town officials accountable for failing to oversee and enforce safety regulations in construction projects. Decisions in another set of cases annulled the leases of two public parks that were handed over to private parties for the development of a mini-golf course and a parking complex. Next in line were cases against corrupt federal ministers involved in illegally controlling the prices of commodities. By successively implicating more powerful state officials, it seemed that Chaudhry was testing the regime&rsquo;s willingness to tolerate his judicial activism.</p>
-<p>	There was a paradigmatic shift in the core function of Pakistan&rsquo;s Supreme Court when decisions started going against senior members of the executive. One of these decisions directly challenged the administrative practices of Prime Minister Shaukat Aziz, who privatized Pakistan Steel Mills, one of the country&rsquo;s largest public-sector enterprises, generating considerable controversy. It was alleged that Aziz, who was also the chair of the Cabinet Committee on Privatization, had agreed to the sale of the corporation at an unduly low price to a consortium he favored. In a landmark judgment, the Chaudhry Court annulled the sale agreement on the grounds that the deal had been done in &ldquo;indecent haste.&rdquo;</p>
-<p>	Soon afterwards, the court shocked the military regime by taking up cases addressing &ldquo;missing persons.&rdquo; Under the pretext of the &ldquo;war on terror,&rdquo; Musharraf&rsquo;s security apparatus had forcibly disappeared a large number of political opponents. In an astoundingly bold move, Chief Justice Chaudhry accepted a case involving 41 missing persons. The court upheld the right to due process for extrajudicially detained individuals and ordered the state agencies to produce them in court. This was an extraordinary contra-authoritarian step in the judicial history of Pakistan. Chaudhry&rsquo;s activism generated immense respect among lawyers and the human rights community, and was widely reported in the burgeoning independent Pakistani media. Emboldened by the positive feedback, Chaudhry accepted another case involving over a hundred forced disappearances on March 8, 2007. The next day would prove fateful for both Chaudhry and the military regime in Pakistan.</p>
-<h2>
-	Chaudhry&rsquo;s Suspension</h2>
-<p>
-	Musharraf invited Chaudhry to his official residence. Dressed in military uniform and accompanied by the prime minster and intelligence chiefs, he sought to pressure the chief justice to resign. Chaudhry refused. An infuriated Musharraf forcibly detained Chaudhry for several hours and then suspended him through a presidential order with immediate effect. An acting chief justice was sworn in.</p>
-<p>	After Chaudhry&rsquo;s suspension, bar associations in several parts of the country began protesting Musharraf&rsquo;s action. Three days after the suspension, as the deposed chief justice left his residence to face the Supreme Court bench hearing his case, a police car was waiting to transport him. Chaudhry, however, believed that he was still the rightful chief justice of Pakistan -- and certainly not a criminal -- and so decided to walk to court rather than ride in the police car. At this point, the security forces pulled him by the hair and forced him into the car. Their actions were captured on film and widely circulated on news channels and reported in the print media.</p>
-<p>	The insult to one of the highest symbols of the legal profession galvanized even habitually apathetic lawyers. Wearing their black coats, lawyers took to the streets in protests across the country demanding Chaudhry&rsquo;s reinstatement. Thus began the lawyers&rsquo; movement, which continued with a boycott of courts and ongoing demonstrations against the regime. Chaudhry traveled around the country, addressing bar associations in order to help keep the movement animated. The media played a critical role by giving live coverage to the events and by debating the legality of Musharraf&rsquo;s action.</p>
-<p>	In July 2007, in the context of public opinion strongly mobilized in favor of the deposed chief justice, the Supreme Court passed a landmark judgment annulling the presidential order and restoring Chaudhry. This was the first judicial ruling in the country&rsquo;s history directly challenging the action of a military dictator.</p>
-<h2>
-	The Struggle Continued</h2>
-<p>
-	The chief justice -- restored to his post as a result of countrywide popular mobilization -- felt emboldened to take up the case of Musharraf&rsquo;s eligibility to run for reelection as president while in military uniform. Sensing an imminent court decision against the constitutionality of his bid for reelection, Musharraf imposed emergency rule in November 2007. He suspended sixty judges of the higher courts in Pakistan, including Chief Justice Chaudhry.</p>
-<p>	Over the next few months, Musharraf&rsquo;s security apparatus launched an offensive against Pakistan&rsquo;s civil society, with special vehemence directed at the rebellious legal community. Although many individuals were brutally attacked, the lawyers&rsquo; movement continued to press the government for the restoration of the judiciary. The boycott of courts and the climate of instability most likely contributed to a rift within the military over how best to respond and control the mobilization. It certainly was a factor in Musharraf&rsquo;s decision to extend his hand to Benazir Bhutto, leader of the Pakistan Peoples Party (PPP), to stave the erosion of his own legitimacy. Under an agreement with Musharraf that granted her blanket immunity for pending corruption charges, Bhutto returned to Pakistan in October 2007. In the buildup to a January 2008 parliamentary election, Bhutto, the leading opposition candidate, was assassinated at a rally in Rawalpindi on December 27, 2007.</p>
-<p>	After being sworn in as president for another five years, Musharraf maintained his refusal to restore the deposed judges. In July 2008, the lawyers&rsquo; movement organized the first &ldquo;long march.&rdquo; Around 50,000 protesters from around the country converged on the capital. Given the erosion of his power during the last year and mounting opposition to his policies, Musharraf resigned in August.</p>
-<p>	A few weeks later, Asif Zardari, Bhutto&rsquo;s widower and co-chair of the PPP, was elected president. One of his campaign promises was to restore the deposed judges. However, several months into his presidency Zardari not only refused to reinstate the judges, but appointed PPP loyalists as judges in higher courts, presumably motivated in part by a desire to curtail corruption cases against him.</p>
-<p>	The lawyers&rsquo; movement had not abated with the end of Musharraf&rsquo;s rule, and new pressure was directed at Zardari to reinstate the judiciary. The lawyers organized a second long march in March 2009, in which opposition parties officially joined. This time, before the hundreds of thousands of protestors reached the capital, the prime minister announced the restoration of the deposed judges. Chief Justice Chaudhry once again resumed office on March 22, 2009.</p>
-<h2>
-	Undermining Authoritarianism</h2>
-<p>
-	Even though &ldquo;Go, Musharraf, go!&rdquo; had been one of the main slogans of the lawyers, it would be erroneous to think that the movement&rsquo;s goal was regime change. In retrospect, the single-issue clarity of the movement&rsquo;s campaign to reinstate the deposed judges arguably made their activism so successful. But the lawyers&rsquo; struggle did prove to be a critical factor in undermining Musharraf&rsquo;s military regime and forcing his resignation. Unlike most other transitions to democracy in which the principal agents of change have been a country&rsquo;s political elites, in Pakistan it was mobilization by the legal community that paved the way.</p>
-<p>	To understand how middle class professionals could upend a military regime as powerful as Musharraf&rsquo;s, it is important to specify the nature of the Pakistan lawyers&rsquo; movement. For one thing, it was not confined to any particular geographical region; lawyers from across the country were actively involved, with Lahore and Karachi registering the highest turnouts at protests. The movement was not dominated by any single ethnic or sectarian group, thus giving it a truly national complexion. And it was not a fa&ccedil;ade for political party activism, although parties occasionally participated -- especially at key events. This movement was initiated, organized and sustained by Pakistani legal professionals who waged their struggle mainly in the streets.</p>
-<p>	Lawyers put their safety and freedom at risk, given Pakistan&rsquo;s history of political violence and regime repression. Thousands were arrested, illegally detained, beaten up and tear-gassed. There were at least two violent events during which more than 50 died. The Musharraf regime had used the draconian Anti-Terrorism Act to detain several lawyers, and amended the Army Act of 1952 to allow civilians to be tried in military courts for vague offenses such as &ldquo;giving statements conducive to public mischief.&rdquo;</p>
-<p>	The erosion of regime legitimacy is rarely sufficient to oust a dictator. What is needed -- and what the Pakistani lawyers&rsquo; movement provided -- was the infliction of tangible costs. By acting as a judicial support network, lawyers propelled the regime into constitutional crises. In many countries, authoritarian regime destabilization is the result of an economic crisis. In Pakistan, the crisis of governability arose first in the legal realm. The mobilization of public opinion in support of the deposed judges, arguably, was critical in the decision of the Supreme Court to annul the presidential order. After the judiciary was restored, the lawyers pressed them to take up the case of Musharraf&rsquo;s eligibility to run for reelection, propelling the regime into a second crisis.</p>
-<p>	Lawyers&rsquo; boycotts of normal court proceedings threatened the workings of the entire judicial system. The public did not blame the lawyers, but rather the regime, for the consequences of the boycott. And since the lawyers mobilized in the streets rather than merely staying home, they baited the regime, which responded with violent repression. This exacted immense reputational costs both at home and internationally, given the extensive live coverage of protest events by the media. The regime&rsquo;s destruction of media company offices and passage of censorship laws backfired, further inflaming anti-regime sentiment. The regime also used tactics such as arranging counter-demonstrations by fake lawyers and organizing a national rally in support of Musharraf. Such obvious desperation both exacerbated and illustrated the regime&rsquo;s loss of power.</p>
-<p>	Finally, the event that most forcefully proved the cost inflicted by the lawyers&rsquo; movement was the regime&rsquo;s imposition of emergency rule. This was a clear instance of the diversion of the regime&rsquo;s energies to fighting civil society rather than focusing on important policy issues or confronting the growing threat of Islamist militancy in Pakistan.</p>
-<h2>
-	A New Vocabulary of Politics</h2>
-<p>
-	Beyond achieving the restoration of the judges to the bench and eroding the jurisprudential foundations of authoritarianism, the lawyers&rsquo; movement has had a deeper structural impact on democratic politics in Pakistan. Historically, party politics has relied on three kinds of allegiances to mobilize people: ethnic, religious and clientelistic. Even a relatively populist leader like Zulfiqar Bhutto, who claimed to champion the dispossessed, offered (clientelistic) &ldquo;bread, cloth and shelter.&rdquo; Until the lawyers&rsquo; movement, no one had offered &ldquo;rule of law&rdquo; to the people.</p>
-<p>	The political dynamic between Pakistan&rsquo;s political parties and the lawyers&rsquo; movement presents a fascinating example of the potential of civil society in newly democratizing countries. Rather than engaging in partisan politics, the lawyers chose to engage in direct mobilization through the bar. This professional autonomy prevented the movement from being subsumed or manipulated by party politics. Conversely, the political parties tried hard to forge an association with the lawyers&rsquo; movement, given its success at mobilization and broad-based legitimacy.</p>
-<p>	The lawyers&rsquo; movement became the principal conduit for democratic change in the political arena. Parties that sought to gain leverage by aligning with the movement had to pay the price of structuring their platforms according to lawyers&rsquo; demands for rule of law. The case of the PPP is illustrative. It initially appropriated the movement to gain access to the political space in Pakistan by promising to restore the judges. But after Zardari failed to honor this PPP campaign promise, the strong public opinion mobilized by the lawyers&rsquo; movement began adversely affecting his party. Realizing this, Nawaz Sharif&rsquo;s Pakistan Muslim League threw its force behind the movement, gaining considerable legitimacy as a result.</p>
-<p>	The lawyers&rsquo; movement had an impact not only on traditionally clientelistic parties, but also on Islamist parties that historically have mobilized supporters for the implementation of shari&lsquo;a law in Pakistan. The Jamaat-e Islami was one of the parties most actively engaged with the lawyers&rsquo; movement, despite the latter&rsquo;s aim of strengthening the secular legal system in the country. (For Jamaat, siding with the lawyers was a means of expressing opposition to Musharraf.) As political parties appropriated the movement, they were forced to employ a variant of universalistic liberal legal rhetoric that cut across ethnic, religious or clientelistic claims.</p>
-<h2>
-	Building the Rule of Law</h2>
-<p>
-	In Pakistan, interludes of democratic rule have brought only nominal improvements in the lives of citizens. As in other emerging democracies, hopes that courts would protect citizens&rsquo; fundamental rights are often derailed when the judiciary proves unable or unwilling to check the power of the regime or elites. Recent events in Pakistan, however, provide an interesting case of courts&rsquo; efforts to protect rights and build the rule of law at the expense of power elites.</p>
-<p>	Support for domestic legal reform from multilateral and foreign institutions such as the World Bank, Asian Development Bank and USAID typically envisions a formalistic legal environment and espouses a model divorced from -- or at least not tailored to -- the social and political forces in the target country. The international record of trying to transplant a one-size-fits-all model of legal reform is unimpressive, not least because it ignores the fact that law is inherently and fundamentally political. The most successful examples of rule of law-building are found in countries where local actors and institutions direct the reforms in ways that accommodate local norms of legal legitimacy.</p>
-<p>	The two-year struggle of the legal community for upholding the rule of law in Pakistan can be thought of as a political project aimed at legal reform. In contrast to legal reform programs of multilateral institutions, this project was not implemented in a top-down manner. Rather, it was an indigenous project, deeply embedded in the country&rsquo;s social and political context. Rather than focusing on strengthening the judicial machinery, the lawyers&rsquo; movement engaged in rule of law-supporting activism through street protests and court boycotts. In the end, it accomplished something that formalistic legal development by multilateral institutions arguably cannot: the widespread legitimacy of judicial institutions among the citizens of Pakistan.</p>
-<p>	Given this strong impulse for reform in Pakistan, it seems odd that the country has often been labeled as the &ldquo;most dangerous place in the world&rdquo; in the Western press. This characterization builds on an exclusive focus on radical movements in Pakistan&rsquo;s northwest. Given its scope and breadth, however, the lawyers&rsquo; movement is arguably more representative of the political aspirations of Pakistanis than is Talibanization. An exclusive focus on the latter, however, by the international community may tilt the balance in the opposite direction.</p>
-	</div>
-	
-		 <div id="post-article-links">
-	 	 <div id="article-links">
-	 <ul class="links inline"><li class="comment_forbidden first"></li>
-<li class="addthis last"><span><div class="addthis_toolbox addthis_default_style">
-        <div class="custom_images">
-          <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_twitter"><img src="http://www.merip.org/sites/all/themes/merip/images/twitter.png" width="16" height="16" alt="Tweet this" /></a>
-          <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_facebook"><img src="http://www.merip.org/sites/all/themes/merip/images/facebook.png" width="16" height="16" alt="Share on Facebook" /></a>
-		  <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_print"><img src="http://www.merip.org/sites/all/themes/merip/images/print_icon.gif" width="16" height="16" alt="Print this" /></a>
-		  <a addthis:url="http://www.merip.org/mer/mer251/struggling-rule-law" addthis:title="Struggling for the Rule of Law"  class="addthis_button_email"><img src="http://www.merip.org/sites/all/themes/merip/images/mail_icon.png" width="16" height="16" alt="Email this" /></a>
-        </div>
-      </div>
-      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=merip"></script></span></li>
-</ul>	 </div>
-	 	 	 <div id="article-taxonomy">
-	 <span id="article-taxonomy-label">Filed under: </span>
-	 <div class="terms terms-inline">
-	 <ul class="links inline"><li class="taxonomy_term_57 first last"><a href="/category/mer-subjects/pakistan" rel="tag" title="">Pakistan</a></li>
-</ul>	 </div>
-	 </div>
-	 	 </div>
-	
-</div></div> <!-- /node-inner, /node -->				</div>
-				<!-- /#content-area -->
+	<div class="cont">
+		<div class="leftColumn">
+			<div id="block-user-1" class="clear-block block block-user">
 
-				<!-- /#content-bottom -->
-								<!-- /#content-bottom -->
-        
-			</div></div> <!-- /#content -->
 
-			<!-- #sidebar-left -->
-						<div id="sidebar-left"><div class="sidebar-left-inner">
-			<div id="block-views-issues-block_3" class="block block-views region-odd odd region-count-1 count-1"><div class="block-inner">
-
-      <h2 class="title">Latest Issue<br /></h2>
-  
   <div class="content">
-    <div class="view view-issues view-id-issues view-display-id-block_3 view-dom-id-1">
-    
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-field-image-cache-fid">
-                <span class="field-content"><a href="/mer/latest"><img src="http://www.merip.org/sites/default/files/imagecache/product_full/issues/covers/MER 279 cover final.jpg" alt="" title=""  class="imagecache imagecache-product_full imagecache-default imagecache-product_full_default" width="200" height="261" /></a></span>
-  </div>
-  
-  <div class="views-field-field-issue-number-value">
-                <span class="field-content"><a href="/mer/latest">MER 279</a></span>
-  </div>
-  
-  <div class="views-field-field-issue-title-value">
-                <span class="field-content"><a href="/mer/latest">Israel&#039;s War Record in Gaza</a></span>
-  </div>
-  
-  <div class="views-field-field-issue-season-value">
-                <span class="field-content">Summer 2016</span>
-  </div>
-  
-  <div class="views-field-conditionalbuyitnowbutton">
-                <span class="field-content"><form action="/mer/mer251/struggling-rule-law"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-9567">
-<div><input type="hidden" name="nid" id="edit-nid" value="9567"  />
-<input type="submit" name="op" id="edit-submit-9567" value="Purchase"  class="form-submit list-add-to-cart" />
-<input type="hidden" name="form_build_id" id="form-f4c2a81263ea9aada861e56bcd17ffa0" value="form-f4c2a81263ea9aada861e56bcd17ffa0"  />
-<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-9567" value="uc_catalog_buy_it_now_form_9567"  />
+<ul class="menu">
+<li class="leaf"><a href="http://links.org.au/taxonomy/term/76">Documents</a></li>
+<li class="leaf"><a href="http://links.org.au/taxonomy/term/240">Espanol</a></li>
+<li class="leaf"><a href="http://links.org.au/node/367" title="Most popular and/or controversial topics among Links&#039; visitors">HOT TOPICS at Links</a></li>
+<li class="leaf"><a href="http://www.links.org.au/taxonomy/term/155" title="Videos, audio, powerpoint">Multimedia</a></li>
+<li class="leaf"><a href="http://links.org.au/taxonomy/term/249" title="Pamphlets &amp; collections of Links&#039; key articles in PDF format">Pamphlets, book excerpts &amp; dossiers</a></li>
+<li class="collapsed"><a href="/backissues">Past issues</a></li>
+<li class="leaf"><a href="/taxonomy/term/116" title="Events, conferences, gatherings">Conferences and gatherings</a></li>
+<li class="leaf"><a href="http://www.feedblitz.com/f/?Sub=343373" title="Get weekly alerts for new content">Subscribe to Links</a></li>
+<li class="leaf"><a href="https://www.facebook.com/groups/LinksSocialism/" title="You can also join Link&#039;s Facebook group here">Join Links&#039; Facebook group</a></li>
+<li class="leaf"><a href="http://twitter.com/LinksSocialism" title="Follow Links on Twitter">Follow Links on Twitter</a></li>
+<li class="leaf"><a href="http://mippin.com/linkssocialism" title="Use this URL on your mobile phone: http://mippin.com/linkssocialism">Links on your mobile phone</a></li>
+<li class="leaf"><a href="http://links.org.au/node/349" title="Listen to educational talks">Education for Socialists media player</a></li>
 
-</div></form></span>
-  </div>
-  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views-back_issues-block_1" class="block block-views region-even even region-count-2 count-2"><div class="block-inner">
-
-      <h2 class="title">Back Issues</h2>
-  
-  <div class="content">
-    <div class="view view-back-issues view-id-back_issues view-display-id-block_1 view-dom-id-2">
-    
-  
-  
-      <div class="view-content">
-      <table class="views-table cols-1">
-    <thead>
-    <tr>
-              <th class="views-field views-field-nothing">
-                  </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd views-row-first">
-                  <td class="views-field views-field-nothing">
-            <a href="http://www.merip.org/mer/mer278">MER 278 - Life in Exile</a>          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-nothing">
-            <a href="http://www.merip.org/mer/mer277">MER 277 - Iran&#039;s Many Deals</a>          </td>
-              </tr>
-          <tr class="odd">
-                  <td class="views-field views-field-nothing">
-            <a href="http://www.merip.org/mer/mer276">MER 276 - ISIS</a>          </td>
-              </tr>
-          <tr class="even views-row-last">
-                  <td class="views-field views-field-nothing">
-            <a href="http://www.merip.org/mer/mer275">MER 275 - Inside the Inside</a>          </td>
-              </tr>
-      </tbody>
-</table>
-    </div>
-  
-  
-  
-      
-<div class="more-link">
-  <a href="/mer/issues">
-    more back issues  </a>
+</ul>
 </div>
-  
-  
-  
-</div>   </div>
+</div>
+<div id="block-block-9" class="clear-block block block-block">
 
-  
-</div></div> <!-- /block-inner, /block -->
-			</div></div>
-						<!-- /#sidebar-left -->
+  <h3>Donate to Links</h3>
+
+  <div class="content"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHXwYJKoZIhvcNAQcEoIIHUDCCB0wCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYB6RFBDneN77IpWJyViSm9i847maE40gBkymZwRiHtZyF3DMptY0Pw4mngMUfOsLHx5J+r0WNIgzfj43diXKSiYQbpWaCRVY5P/z2xfg948yFQPotnDKwnxGuEO/oPXqLxP3iyUjx4FRfaM2sztHdsGNYOHOBvusALCUxzzjBivDDELMAkGBSsOAwIaBQAwgdwGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIbLaalfr/q+OAgbj9mPstO5SnhhEAFv7Uq0/TOK/r3/XA8RcJ02eIfG6g4GmimazJtDz2mXe79fu/nlJ22nveEqnz1DW8+GPkhhV4bkstdwMppUsk14D9v1Bkc6r4gR+20FOU7L0AGjkKCKLvHrS6Tm2/JBPPUuGMNM7eRtrQhrVCCPnLGtcU+moy97l7oGsk6kOuVHFJaani8QIeiRmZGkM23tLztA+lzjmpOEGSZOR7HnuozoU2hAD4ShDHTtZUzXjWoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k+6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4+axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn+rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG+wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG+wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P+IobhOGJr85+XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa+LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDgxMDE5MDUwNzQ4WjAjBgkqhkiG9w0BCQQxFgQU/7+Owmwex8hIW5Nc5rPhKchNoIUwDQYJKoZIhvcNAQEBBQAEgYBrc9GNRGLLpAsWRvg9yy5KdIoxd6ygjzLKgzKeXPFz09UvuLAroHXxT2NNbqtEKMO+LQ65WmaeQIH5Mw8nlH2VFo0ih6Kd8cHPAf3IlLFMizoyWyuZ/isCSJ73/f3ogYbwetf9iAkdYcIV+exda0xsL1xXuMl4NDpmLxgPlZB8dQ==-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="">
+<img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+<div id="block-block-8" class="clear-block block block-block">
+
+
+  <div class="content"><!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=1923512&f=0&b=65535" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
+</div>
+</div>
+<div id="block-block-6" class="clear-block block block-block">
+
+
+  <div class="content"><br>
+<!-- Google CSE Search Box Begins  -->
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <input type="hidden" name="cx" value="016552148803725866338:ltqdhghfa5w" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+<!-- Google CSE Search Box Ends -->
+Click on Links masthead to clear previous query from search box
+<br></div>
+</div>
+<div id="block-block-16" class="clear-block block block-block">
+
+
+  <div class="content"><br><iframe src="//www.facebook.com/plugins/like.php?href=http://links.org.au/&amp;send=false&amp;layout=standard&amp;width=200&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:80px;" allowTransparency="true"></iframe></div>
+</div>
+<div id="block-block-11" class="clear-block block block-block">
+
+
+  <div class="content"><a href="http://www.socialist-alliance.org"><img src="http://www.socialist-alliance.org/sites/default/files/SA_logo_0.png" width="190" height="80"></div>
+</div>
+<div id="block-block-1" class="clear-block block block-block">
+
+  <h3>Read Green Left Weekly, our sister publication</h3>
+
+  <div class="content"><a href="http://www.greenleft.org.au/">
+<img src="https://www.greenleft.org.au/sites/default/files/styles/glw_large_cover_image/public/GLW-1127%20front%20small.jpg?itok=Xmv61NS9"  width="190" height="260" vspace=20></a></div>
+</div>
+<div id="block-block-17" class="clear-block block block-block">
+
+
+  <div class="content"><a href="http://www.youtube.com/user/GreenLeftTV"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-snc4/50221_391314630914254_1910410731_n.jpg" border="0"></a></div>
+</div>
+<div id="block-block-19" class="clear-block block block-block">
+
+  <h3>GLW Radio on 3CR</h3>
+
+  <div class="content"><a href="http://www.3cr.org.au/greenleftweeklyradio" target="_blank"><img src="https://www.greenleft.org.au/sites/default/files/imagecache/sidebar_advert/glr2.png" width="180" height="100"></a>
+</div>
+</div>
+<div id="block-block-2" class="clear-block block block-block">
+
+
+  <div class="content"><p><p/>
+<a href="https://www.resistancebooks.com/"><img src="http://links.org.au/files/Resbooks1.png" width="190" height="60" vspace=20/></a></div>
+</div>
+<div id="block-block-15" class="clear-block block block-block">
+
+
+  <div class="content"><br><a href="http://monthlyreview.org/"><img src="http://monthlyreview.org/wp-content/uploads/2014/04/mr-065-11-2014-04-133x200.jpg" width="140" height="180"></a><br></div>
+</div>
+<div id="block-comment-0" class="clear-block block block-comment">
+
+  <h3>Recent comments</h3>
+
+  <div class="content"><div class="item-list"><ul><li><a href="/fake-news-rojava-revolution#comment-361776">Re: Syrian Democratic Forces, US and Russia</a><br />6 days 17 hours ago</li><li><a href="/fake-news-rojava-revolution#comment-357607">Syrian Democratic Forces, US and Russia</a><br />3 weeks 6 days ago</li><li><a href="/russia-in-the-world#comment-357564">I agree with some of</a><br />4 weeks 17 hours ago</li><li><a href="/pravda-mandate-for-soviet-elections#comment-357401">A step forward compared to</a><br />4 weeks 4 days ago</li><li><a href="/a-revolutionary-line-of-march-old-bolshevism-re-examined#comment-357391">Not even old Bolshevism</a><br />4 weeks 4 days ago</li><li><a href="/a-revolutionary-line-of-march-old-bolshevism-re-examined#comment-357354">Not even Old Bolshevism</a><br />4 weeks 5 days ago</li><li><a href="/india-why-are-suzuki-automobile-workers-in-jail#comment-357177">India: Free the Maruti Workers! </a><br />4 weeks 6 days ago</li><li><a href="/fake-news-rojava-revolution#comment-357138">Manbiq seems still under control of popular committees not Assad</a><br />5 weeks 13 hours ago</li><li><a href="/fake-news-rojava-revolution#comment-357084">Manbij</a><br />5 weeks 1 day ago</li><li><a href="/dutch-elections-green-left-animal-rights-geert-wilders#comment-355583">dutch elections</a><br />6 weeks 5 hours ago</li></ul></div></div>
+</div>
+<div id="block-block-12" class="clear-block block block-block">
+
+
+  <div class="content"><div id='networkedblogs_nwidget_container' style='height:360px;padding-top:10px;'><div id='networkedblogs_nwidget_above'></div><div id='networkedblogs_nwidget_widget' style="border:1px solid #D1D7DF;background-color:#F5F6F9;margin:0px auto;"><div id="networkedblogs_nwidget_logo" style="padding:1px;margin:0px;background-color:#edeff4;text-align:center;height:21px;"><a href="http://networkedblogs.com/" target="_blank" title="NetworkedBlogs"><img style="border: none;" src="http://static.networkedblogs.com/static/images/logo_small.png" title="NetworkedBlogs"/></a></div><div id="networkedblogs_nwidget_body" style="text-align: center;"></div><div id="networkedblogs_nwidget_follow" style="padding:5px;"><a style="display:block;line-height:100%;width:90px;margin:0px auto;padding:4px 8px;text-align:center;background-color:#3b5998;border:1px solid #D9DFEA;border-bottom-color:#0e1f5b;border-right-color:#0e1f5b;color:#FFFFFF;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:11px;text-decoration:none;" href="http://networkedblogs.com/blog/links_international_journal_of_socialist_renewal/?ahash=b835e961e0f67a4d087370be9141f177">Follow this blog</a></div></div><div id='networkedblogs_nwidget_below'></div></div><script type="text/javascript"><!--
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=260514;networkedblogs.shortName="links_international_journal_of_socialist_renewal";}
+--></script><script src="http://nwidget.networkedblogs.com/getnetworkwidget?bid=260514" type="text/javascript"></script><p></p></div>
+</div>
+<div id="block-block-18" class="clear-block block block-block">
+
+
+  <div class="content"><a href="http://www.democracynow.org/"><img src="http://www.democracynow.org/resources/thumbnails/57/57/DNlogo.gif"></a></div>
+</div>
+<div id="block-block-14" class="clear-block block block-block">
+
+
+  <div class="content"><a href="http://www.correodelorinoco.gob.ve/english-edition/"><img src="http://www.venezuelanalysis.com/files/images/cdoi.gif" border="0"></a>
+</div>
+</div>
+<div id="block-block-5" class="clear-block block block-block">
+
+
+  <div class="content"><br></br>
+<!-- Site Meter -->
+<a href="http://s47.sitemeter.com/stats.asp?site=s47links" target="_top">
+<img src="http://s47.sitemeter.com/meter.asp?site=s47links" alt="Site Meter" border="0"/></a>
+<!-- Copyright (c)2006 Site Meter -->
+
+</div>
+</div>
+<div id="block-block-4" class="clear-block block block-block">
+
+
+  <div class="content"><br></br>
+<script language="JavaScript1.2" src="http://www.altavista.com/static/scripts/translate_engl.js"></script></div>
+</div>
+<div id="block-node-0" class="clear-block block block-node">
+
+  <h3>Syndicate</h3>
+
+  <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a></div>
+</div>
 			
-			<!-- #sidebar-right -->
-						<div id="sidebar-right"><div class="sidebar-right-inner">
-			<div id="block-search-0" class="block block-search region-odd odd region-count-1 count-3"><div class="block-inner">
+		</div>
+		<div class="center">			
+						<div class="breadcrumb"><a href="/">Home</a></div>						
+			<h1>Pakistan&#039;s struggle for democracy: The lawyers&#039; movement one year on (+ video)</h1>				
+															
+<div id="node-305" class="node">
+
+
 
   
   <div class="content">
-    <form action="/mer/mer251/struggling-rule-law"  accept-charset="UTF-8" method="post" id="search-block-form" class="search-form">
-<div><div class="container-inline">
-  <div class="form-item" id="edit-search-block-form-1-wrapper">
- <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="Search MERIP" title="Enter the terms you wish to search for." class="form-text  custom-search-default-value custom-search-box" />
-</div>
-<fieldset class="custom_search-popup"></fieldset>
-<input type="image" name="op" id="edit-submit"  alt="" class="form-submit custom-search-button" src="/sites/default/files/custom_search/search.PNG" />
-<input type="hidden" name="form_build_id" id="form-79f924cf8a176f0400325952e3ea8c93" value="form-79f924cf8a176f0400325952e3ea8c93"  />
-<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
-<input type="hidden" name="default_text" id="edit-default-text" value="Search MERIP"  class="default-text" />
-</div>
+    <p>By <b>Farooq Tariq</b>, Lahore</p><p>March 7, 2008 -- 2008 will be a year of decisive struggle in Pakistan. Over the past year an advocates' (lawyers') movement rose to confront the dictatorship of President Pervez Musharraf. Its aim is to create an atmosphere where the judiciary can work independently, without being under the influence of any regime, whether military or civil.</p><p>Only a year old, it has achieved impressive results.</p><p>The movement began on March 9, 2007, when the chief justice of the Supreme Court, Iftikhar Chaudhry, responded negatively to the request from five generals -- including Musharraf -- that he voluntarily resign. Offered several other lucrative posts, he responded with a firm ``No'', resulting his immediate arrest and termination from the Supreme Court.</p><p><b><a href="http://www.dailymotion.com/video/x4oa1w_farooq-tariq-labour-party-pakistan_news" target="_blank">Video</a>: interview with Farooq Tariq</b></p><p>Why did the generals want to get rid of Pakistan's chief justice? His decisions were blocking growing repression and the implementation of Musharraf's neoliberal agenda. After the September 11, 2001 terrorist attacks, thousands of Pakistanis simply disappeared; Chaudhry publicly questioned their disappearance. He tried to force accountability from the country's powerful secret service. Chaudhry issued a decision against the privatisation of the country's largest industrial unit, the Pakistan Steel Mill Karachi.</p><p>Chaudhry was operating like a human rights activist, doing his best to address the question of growing human rights violations. He took special notice of anti-woman traditions and customs and prohibited the selling and trading of women.</p><p>Musharraf did not foresee the mass reaction Chaudhry's arrest and termination would cause, since there were no other examples of prominent people standing up to his brutal and high-handed actions.</p><p>Chaudhry's ``No'' was a landmark in the history of the judiciary. Every previous military coup had been legitimised by the country's top judges. Out of the 61 years of so-called independence, Pakistan has spent 32 years under military rule.</p><p>As the private television channels broadcast the news of Chaudhry's dismissal and arrest, leading lawyers were asked for their opinion. Every one explained it as an extraordinary action: there was no previous record of such an action against the chief justice. They called on other lawyers to come forward in a mass response.</p><p>Year One of the Pakistan lawyers' movement is unprecedented, and there have been several ups and downs. It has witnessed ugly scenes of police and army brutality, but the lawyers never gave up. One of the main characteristics of this marvellous movement is its clear demand, which was accepted by every one: the demand for an independent judiciary. The Musharraf dictatorship is clearly seen as a brutal regime trying to curb the rising consciousness of independent judicial system.</p><h4>Three phases</h4><p>The movement lead by the lawyers can be divided in three phases:</p><p>• The beginning phase, ending on July 20, 2007, when an 11-member bench of Supreme Court Pakistan reinstated Chaudhry.</p><p>• The second phase, from July 20 until November 3, 2007, when the Musharraf dictatorship imposed an emergency degree.</p><p>• The third phase, from the imposition of the emergency until the general elections on 18 February, 2008.</p><p>During the first phase, leaders of the lawyers' movement did not directly attack Musharraf. They also asked Chaudhry not to speak to the media. Instead they built an effective base by speaking to bar associations across the country. This meant that they did not immediately seem to be doing anything out of the ordinary.</p><p>Chaudhry toured the country by road to speak to various bar councils. His caravan was welcomed by hundred of thousands of ordinary people. But he did not speak a single word to the press. He concentrated on making general democratic remarks at the bar council meetings, which were open only to lawyers. Political activists made no fuss about this exclusion but cooperated with the lawyers.</p><p>These rallies were the largest mobilisations during the years of the Musharraf dictatorship and signalled the lawyers' total support for Chaudhry. This method of proceeding meant that he was speaking ``under the radar''. It did not seem that he was organising a ``political'' campaign against the regime. In this manner Chaudhry was able to speak about the political situation without being ``political''.</p><p>Initially the leaders of the lawyers' movement were divided over whether they wanted participation from political parties. Some argued that parties might create problems or take over the movement. Some feared that if they invited the political parties, then the religious fundamentalist parties would gain control and they did not want to see that happen.</p><p>During the first month there was a fierce debate among the lawyers' elected bodies over these questions. After coming to the conclusion that they could not win the struggle on their own, they invited all the civil society organisations to participate.</p><p>When Chaudhry's case was scheduled to be heard by the Supreme Court, the lawyers called for a *gherao* at the court (a gherao is a picket line, a practice used by the industrial working class all over the world). This very popular tactic of picketing was used effectively by the lawyers' movement and made headlines in all the main electronic and print media.</p><p>The media popularised the movement to such an extent that the Musharraf dictatorship responded by introducing new laws to curb the growing radicalisation of the media.</p><p>In its first phase the lawyers' movement was able to mobilise and unify the 80,000-strong lawyers' community. The bar associations across the country have deeply democratic traditions, including yearly elections. Those who have been elected don't run the following year so that there is a constant development of new leadership. These democratic traditions enable the lawyers to develop an evolving leadership that is always alive and deserving of respect. Normally, once a decision is taken, all lawyers follow. Those within the lawyers' community who were not supportive of restoring Chaudhry to his office were socially isolated and, in many cases, their licenses to practice were suspended by the Pakistan Bar Council.</p><p>In this first phase, the state tried to suppress the movement by arresting the lawyers, and dispersing the demonstrations and rallies by force. But this did not succeed. Every repressive act motivated more militant actions. The lawyers' black coats became respectable dress and many ordinary Pakistanis bought black coats from second-hand shops just in order to get such respect.</p><h4>Mass movement</h4><p>The lawyers organised weekly demonstrations, usually every Thursday. It was mainly the young lawyers, who found new hope in the shape of this movement and its weekly actions. Young and particularly female lawyers showed absolute bravery as they fought pitched battles with the police. It was their first political action and they brought new energy to the movement.</p><p>The main political parties that fully supported the movement and participated in the weekly actions were the Pakistan Peoples Party (PPP), Pakistan Muslim League-Nawaz, Pakistan Tehreek Insaaf, the Labour Party Pakistan (LPP), Khaksaar Tehreek, National Workers Party and Awami Tehreek. Activists of these parties were arrested several times for the crime of participating in the rallies.</p><p>Most of the radical non-government organisations and movements also fully supported this movement. Their support gave new meaning to civil society organisation. The concept, ``civil society organisation'', became well known because of the total support to the movement. In fact everyone participating in this unique movement earned respect from all sections of society.</p><h4>The first victory</h4><p>The full bench of the Supreme Court, which was hearing Chaudhry's case, decided to reinstate the chief justice on July 20, 2007. This was a historic victory of a mass movement and was not viewed as ``political''.</p><p>Chaudhry immediately took office, became chief justice once more after a nearly four-month interval. Following his reinstatement, he began releasing political prisoners. He ordered the immediate recovery of missing persons; and some were eventually released by intelligence agencies. He stopped the construction of high-rise buildings that violated the building code. He didn't let corruption within the state go unnoticed.</p><p>Chaudhry now had the full support of the other top judges, as well as those who already had become ``people friendly'', the lawyers' community and the people of Pakistan.</p><p>Meanwhile, the regime was angrily waiting for a time to take action against the top judges once again. The Musharraf dictatorship, already unpopular, was weakened by Chaudhry's reinstatement. The power of the judiciary was contesting the power of the military generals and bureaucrats. In that sense there were some elements of dual power at work within the country.</p><p>Unfortunately, when the case of whether Musharraff would be allowed to stand for president in coming elections came before the Supreme Court, it hesitated in issuing a decision. The Supreme Court had provisionally allowed him to contest the election, but his candidacy was challenged because the constitution does not allow the same person to be president and chief of the army at the same time. Additionally, he was elected by a pro-Musharraf parliament that had been seated since 2002 and was overdue for re-election. In fact, Musharraf was ``elected'' with the shameful support of the PPP, which opted not to oppose Musharraf's candidacy and abstained from the vote.</p><h4>Ruling class manoeuvres</h4><p>In fact, the late PPP leader Benazir Bhutto, then living in exile, was in contact with Musharraf to work out a power-sharing deal. But the two sides were afraid of the rising power of a movement that could challenge their own political hegemony.</p><p>Benazir saw an opportunity to come to power once again. Both the US and British governments had lost confidence in Musharraf's ability to fight effectively as their partner in the so-called war on terror and pushed this unholy alliance as the means through which Musharraf would be able to continue to rule.</p><p>For his part, Musharraf needed to regain time following the failure of his attempt to unseat Chaudhry. So, reluctantly, he went to the negotiating table with Bhutto.</p><p>The PPP also had considerable influence among the lawyers' movement. While the main leadership of the lawyers' movement was now calling for Musharraf's resignation, the PPP directed its leaders not to raise this demand. This created confusion and division among the lawyers' community all over Pakistan. The majority wanted to push ahead and end the military dictatorship, but now there was division in their own ranks.</p><p>It took two months of fierce debate and discussion among the lawyers' elected bodies to work out their future course of action. Finally, an absolute majority came out in favour of continuing the movement. It decided to continue its weekly rallies, although, without the presence of the PPP activists, these did not have the same power as earlier.</p><p>Meanwhile, after striking a deal with Musharraf, Bhutto returned to Pakistan from eight years of exile. The state withdrew all outstanding charges of corruption against her in the name of ``national reconciliation''. The day of her arrival, October 18, 2007, religious fundamentalists carried out a suicide attack on the caravan welcoming her. This attack killed more than 150 people.</p><h4>Musharraf strikes first</h4><p>Musharraf could not be sure what would be the Supreme Court's final decision about his eligibility to be president and opted to strike first. On November 3, 2007, he suspended the constitution once again and arrested all the top judges. He introduced a new Provisional Constitutional Order and demanded all of the top judges to take a new oath under the PCO. To his surprise, more than 60 top judges refused. In the fight against the military dictatorship, Chaudhry was now joined by two-thirds of his colleagues. All were placed under house arrest, but it was difficult for the regime to find judges who would take its oath.</p><p>The PCO was the second martial law decree issued by Musharraf in the name of the supposed ``emergency''. There was a new wave of terror with more than 25,000 lawyers and political activists arrested and private television channels closed down.</p><p>After a month the arrested advocates were released, and so were most of the political activists. But the constitution was hobbled with repressive amendments giving power to the military to try any civilian in military courts. The independent judiciary had been eliminated, the movement suppressed.</p><p>Having done his homework, Musharraf then announced a general election for January 8, 2008. In this repressive situation the lawyers' movement appealed to all political parties to boycott the general election. They argued that by participating they would be legitimising Musharraf's dictatorial measures.</p><p>With the vast majority of the lawyers in favour of boycotting, the political scene was divided into two distinctive trends, those advocating the boycott and those participating in the election. Unfortunately the two main parties opted to contest the election.</p><p>With both the pro-election campaign and the boycott movement gaining steam, Bhutto's assassination on December 27, 2007, altered the political scenario. A mass reaction against the assassination brought a wave of sympathy for the PPP. Musharraf was isolated to an extent never seen before.</p><p>Added to that factor was the country's economic collapse. These factors caused a decisive change in the consciousness of the Pakistan working class. Its passive negativism toward the regime turned into active opposition.</p><p>Had the PPP leadership opted to boycott the general elections -- now postponed until February 18, 2008 -- and demanded the resignation of Musharraf, the scenario would have been different. Musharraf would have had no choice. But the PPP once again ignored the advice of the lawyers' movement and decided to take part in the general election.</p><p>Those who went to polls on February 18 voted against the pro-Musharraf political parties. But whichever side one was on over the question of participating in the elections, and whichever tactics employed, everyone was united in their opposition to Musharraf.</p><p>We have now entered the next phase of the unfolding struggle. The question remains: Will those coming to power reinstate the judiciary (a popular demand that would be very difficult to ignore), force Musharraf out and restore the Constitution? Such a step would be the first toward building an independent democratic society where exploitation should be a word of the past. The building of a genuine democratic socialist Pakistan is the only way forward.</p><p><span lang="EN-AU">[Farooq Tariq is spokesperson for the Labour
+Party Pakistan. Email</span> <a href="mailto:labour_party@yahoo.com">labour_party@yahoo.com</a><span lang="EN-AU">. Visit <a href="http://www.laborpakistan.org/" title="http://www.laborpakistan.org">http://www.laborpakistan.org</a> <span> </span>or
+http://www.jeddojuhd.com.]</span> </p><p>&nbsp;</p><p>&nbsp;</p><p>Subscribe free to <i>Links</i> at <a href="http://www.feedblitz.com/f/?Sub=343373" class="moz-txt-link-freetext">http://www.feedblitz.com/f/?Sub=343373</a>  
+</p>  </div>
 
-</div></form>
-  </div>
+  <div class="clear-block clear">
+    <div class="meta">
+          <div class="terms"><ul class="links inline"><li class="first taxonomy_term_73"><a href="/taxonomy/term/73" rel="tag" title="" class="taxonomy_term_73">LPP</a></li>
+<li class="taxonomy_term_155"><a href="/taxonomy/term/155" rel="tag" title="" class="taxonomy_term_155">multimedia</a></li>
+<li class="taxonomy_term_72"><a href="/taxonomy/term/72" rel="tag" title="" class="taxonomy_term_72">Pakistan</a></li>
+<li class="last taxonomy_term_101"><a href="/taxonomy/term/101" rel="tag" title="" class="taxonomy_term_101">video</a></li>
+</ul></div>
+        </div>
 
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-6" class="block block-block region-even even region-count-2 count-4"><div class="block-inner">
+          <div class="links"><ul class="links inline"><li class="first last comment_add"><a href="/comment/reply/305#comment-form" title="Share your thoughts and opinions related to this posting." class="comment_add">Add new comment</a></li>
+</ul></div>
+      </div>
 
-  
-  <div class="content">
-    <div id="login-links">
-			<span><a href="https://www.merip.org/login">Login</a></span>
-		or
-		<span><a href="/subscribe">Subscribe</a></span>
-	</div>  </div>
+</div><div id="comments"><h2 class="comments">Comments</h2><a id="comment-178"></a>
+<div class="comment odd">
 
+  <div class="clear-block">
+      <span class="submitted">Mon, 03/17/2008 - 15:03 — <a href="http://www.internationalviewpoint.org/spip.php?article1447">Anonymous</a> (not verified)</span>
   
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-12" class="block block-block region-odd odd region-count-3 count-5"><div class="block-inner">
+  
+  
+    <h3><a href="/node/305#comment-178" class="active">Rouge interview with Farooq Tariq</a></h3>
 
-  
-  <div class="content">
-    <p class="rtecenter">
-	<a href="http://merip.org/blog"><img alt="" src="http://www.merip.org/sites/default/files/imports/MERIP blog logo small.png" style="width: 144px; height: 161px;" /></a></p>
-  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views-new_blog-block_1" class="block block-views region-even even region-count-4 count-6"><div class="block-inner">
-
-  
-  <div class="content">
-    <div class="view view-new-blog view-id-new_blog view-display-id-block_1 view-dom-id-3">
-    
-  
-  
-      <div class="view-content">
-      <table class="views-table cols-1">
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-                  </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd views-row-first">
-                  <td class="views-field views-field-title">
-            <a href="/subversive-power-grief">The Subversive Power of Grief</a>          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-title">
-            <a href="/some-initial-thoughts-chilcot-report">Some Initial Thoughts on the Chilcot Report</a>          </td>
-              </tr>
-          <tr class="odd views-row-last">
-                  <td class="views-field views-field-title">
-            <a href="/letter-un-secretary-general-concerning-saudi-arabias-removal-list-armies-charged-war-crimes">Letter to UN Secretary-General Concerning Saudi Arabia&#039;s Removal from List of Armies Charged with War Crimes</a>          </td>
-              </tr>
-      </tbody>
-</table>
+    <div class="content">
+      <p>``Pakistan is not a heaven for left ideas''</p>
+<p>Rouge interview with Farooq Tariq<br />
+Chris Den Hond</p>
+<p>The elections of 18th of February in Pakistan were a severe sanction of General Musharaf. Farooq Tariq is spokesperson for the Labour Party of Pakistan. He was put into the prison several times last year and he explains us the difficulties to implement left politics in a country of 160 million of inhabitants, surrounded by Afghanistan, Iran, India and China.</p>
+<p>Farooq Tariq: The Labour Party of Pakistan has been part of the advocate movement in Pakistan, which started last year. This movement started to support the chief of justice who was asked by General Musharaf, the military dictator of Pakistan, to resign from the supreme court. The chief of justice had become an obstacle in the implementation of the liberal agenda. He canceled some privatisation deals, he made a lot of decisions in favour of poor women, who were active in solving some conflicts of the communities. He acted as a human rights activist. So he became very popular among ordinary people of Pakistan.</p>
+<p>The Labour Party of Pakistan, which is one of the main left wing parties in Pakistan, became part of the advocate movement to support the chief of justice. Once, the police asked me to cancel a rally we organised in support of the advocates movement. I refused. They tried to prevent the rally, we crossed the police barriers. We pushed them back. It was a big news in Pakistan. After this demonstration, Labour Party became more known. We all had our red flags and the majority of us were women, fighting women. We have a very good base amongst working class women in Lahore. We learnt this kind of demonstration from a peasant movement. During its campaign in 2001 for land rights, we discussed how to demonstrate and we concluded: if men go in the front, the military will just kill them, but if women and children go and demonstrate, they will hesitate to shoot, and if they shoot, they will pay the price.</p>
+<p>In June, I was arrested and put in jail while it was 52 degrees (centigrade). I remained in jail for 18 days in a small cell alone without any visits. I was totally isolated from the party. In September, I was arrested again. I was charged under the anti-terrorist act. The sentence was death. I was released after four days on bail. I am still on bail on that case.</p>
+<p>Musharaf has been defeated</p>
+<p>After the elections of 18th of February 2008, the situation is a bit better, because Musharaf has been defeated decisively by the people of Pakistan in the polls. During these elections the Pakistans Peoples Party of the assassinated Benazir Butto got nearly 36% of the votes. Second was the Pakistan muslim league, the party of the former prime minister Nawaz Sharif. He is the one that was prime minister and was overthrown by general Musharaf in 1999. Some fundamentalist parties, that obtained 13% in the elections of 2002, got a serious loss. They only obtained 3% of the votes. The overall vote was against the Musharaf supporters.</p>
+<p>Many persons have a lot of illusions in the Peoples party of Butto, because of the important reforms in the 1970s. It nationalised nearly 35% of the industry and gave a lot of money for social development. That was a golden era for the working class in Pakistan. But it’s just a bourgeois party, that has collaborated with the military government and with the US imperialism. Benazir Butto was speaking the language of Bush, saying: "I will help the war on terror in Pakistan" That means more bombing, more repression and more killings.</p>
+<p>"Most of the leaders of the Labour Party have gone to jail because of their democratic struggle."</p>
+<p>The Labour Party of Pakistan, that we have found in 1997, has become a nationally-known small party. Many activists in the social organisations and trade unions are members of our party. We have nearly 3000 members all over Pakistan. Pakistan is not a heaven for left ideas. It’s a theocratic state, totally dominated by religious ideas. 99% of the population is moslim. We don’t talk big tall slogans of revolution that only socialism will solve everything. We are a socialist party, but we are involved in day to day problems of the people. We take on issues and fight on it. We take up issues of land rights. We have founded the anti privatisation alliance of Pakistan. We take up issues as woman rights, human rights, against child labour and we make a campaign around that. We always bring together different groups, different trends and we are organising networking. Most of the leaders of the Labour Party have gone to jail because of their democratic struggle. So our opposition to general Musharaf has earned us a good respect, which is now translated into more members, more contacts, more financial support. We are often invited by private TV groups to have a debate. Journalists take our comments by phone. We are becoming popular, but we are not yet in the parliament. Maybe we could have been this time, but we boycotted the elections. But in local elections, more than 100 councilors from the LPP are elected all over of Pakistan.</p>
+<p>The strategic position of Pakistan is important for the US imperialism because Afghanistan is next door and they have installed the unpopular regime of Karzai over there. Karzai is facing a lot of problems from the Taliban who controls nearly two thirds of Afghanistan. They forgot any lessons of democracy and support here a military dictatorship. They had the illusion that by doing this, General Musharaf would stop the rise of religious fundamentalism. But we say that religious fundamentalism can only be defeated by political means, not by repression. Bush is talking against religious fundamentalism, but his policies are promoting this fundamentalism. A democratically elected government in Pakistan, a civil government, can make peace with the religious groups by discussing the problems. It should also demand that the North Americans must go out of Afghanistan. NATO must leave Afghanistan. That’s the center of gravity. If they are there, there will be no solution.</p>
+<p>Watch the video of the interview with Farooq Tariq at: <a href="http://www.dailymotion.com/video/x4oa1w_farooq-tariq-labour-party-pakistan_news">Farooq Tariq, Labour Party Pakistan LPP. INTERVIEW</a>Uploaded by <a href="http://www.dailymotion.com/chrisdenhond">chrisdenhond</a></p>
+<p>Chris Den Hond is a member of the SAP-LCR, Belgian section of the Fourth International. He is a freelance journalist and film maker.</p>
     </div>
-  
-  
-  
-  
-      <div class="view-footer">
-      <div class="more-link"><a href="/blog">more blog posts</a></div>    </div>
-  
-  
-</div>   </div>
 
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-13" class="block block-block region-odd odd region-count-5 count-7"><div class="block-inner">
-
-      <h2 class="title">Special Publications</h2>
-  
-  <div class="content">
-    <p class="rtecenter"><a href="http://www.merip.org/primer-palestine-israel-arab-israeli-conflict-new" target="_blank"><img alt="" height="187" src="/sites/default/files/Primer_on_Palestine-Israel(MERIP_February2014)cover.jpg" width="143" /></a></p>
-<p class="rtecenter"><a href="http://www.merip.org/primer-palestine-israel-arab-israeli-conflict-new" target="_blank">Primer on Palestine, Israel and the Arab-Israeli Conflict</a></p>
   </div>
 
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views-special_pubs-block_2" class="block block-views region-even even region-count-6 count-8"><div class="block-inner">
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/178" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-275"></a>
+<div class="comment even">
 
-      <h2 class="title">MERIP Books</h2>
-  
-  <div class="content">
-    <div class="view view-special-pubs view-id-special_pubs view-display-id-block_2 view-dom-id-4">
-    
+  <div class="clear-block">
+      <span class="submitted">Thu, 04/03/2008 - 10:59 — normd</span>
   
   
-      <div class="view-content">
-      <table class="views-table cols-1">
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-                  </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd views-row-first">
-                  <td class="views-field views-field-title">
-            <a href="/arabia-incognita">Arabia Incognita</a>          </td>
-              </tr>
-          <tr class="even views-row-last">
-                  <td class="views-field views-field-title">
-            <a href="/arab-revolts">The Arab Revolts</a>          </td>
-              </tr>
-      </tbody>
-</table>
+  
+    <h3><a href="/node/305#comment-275" class="active">Pakistan: Farooq Tariq found not guilty</a></h3>
+
+    <div class="content">
+      <div id="titre">Found Not Guilty</div><div id="titre">By Farooq Tariq </div>
+					
+				
+						
+						
+						
+						
+						
+						
+							<div id="date_redac">1 April 2008</div>
+						
+				
+					
+					
+					<div class="crayon article-texte-9831 texte"><p class="spip">An
+Anti Terrorist Court in Lahore acquitted all 11 of us on the charges of
+terrorism. There were 10 Brik Kiln workers from Pakistan Bhatta Mazdoor
+Union, one from Muslim League Nawaz and myself who were charged on 27
+September under false allegations of attacking a police convey.</p>
+
+<p class="spip">It was alleged that a procession under my leadership
+came from McLeod Road to join the demonstration of advocates on 27
+September 2007. When the police told them that under section 144, no
+more than five people can get together and stopped, they got heated and
+attacked the police. The demonstrators from Labour Party Pakistan and
+they injured some police officers and torn their uniforms.</p>
+
+<p class="spip">That was a total lie; the fact was that over 200
+activists from Labour Party Pakistan joined hand with advocate on day
+in a demonstration. After the demonstration, I was arrested on my way
+back to my home. I had earlier gone into hiding for few days. The
+police had come to my home to arrest me but I avoided the arrest. The
+police wanted to arrest me and other LPP activists to stop our
+participation in the demonstrations. Police also arrested 11 brick kiln
+workers union members and leaders who are members of Labour Party
+Pakistan as well. They were also returning to their office when they
+were apprehended. The Musalim League Nawaz leader was arrested from a
+different area.</p>
+
+<p class="spip">We only came to know during the evening that we have
+been charged with 7 ATA. The maximum sentence is death. Police
+fabricated a story about us. We were sent to Lahore Camp jail after day
+at a police lock up.</p>
+
+<p class="spip">We were released in few days on bail and some of the
+best advocates of Pakistan represented us voluntarily including Asma
+Jehanghir, the chairperson of Human Rights Commission of Pakistan.</p>
+
+<p class="spip">While I was in Amsterdam airport on 6 March 2008, I got
+a call from Pakistan that I must go to the Anti Terrorist Court on 7
+March. Police had come to LPP office with a warrant to arrest me,
+because I was unable to attend one hearing at the court. I went to the
+court straight from the Lahore airport.</p>
+
+<p class="spip">From 7 March till 28 March 2008, we were in the court
+for 6 times. The brick kiln workers had to come from far off places,
+they were not from Lahore. Three of them had to travel overnight. But
+we all made to the court in time, right at 8am.</p>
+
+<p class="spip">The police brought four eyewitnesses during the
+proceeding, all from the police department. All of them took oath on
+Quran that they will speak the truth and all of them lied in the court.
+We were all surprised that how easy for the police officers to tell lie
+even after they take an oath. While I asked the two of them after the
+hearing of the case, why are you telling lies in the court that we have
+attacked you, they told directly, we know that we are lying but we had
+to do the job.</p>
+
+<p class="spip">On the last day of the hearing, the station house
+officer of police (SHO) appeared in the court. Our advocate Rabia Bajwa
+exposed his lies quite clearly. During the three hours hearing on the
+last day, Rabia told the court that it is political case, that Farooq
+have thirty years of history of political activism and has never been
+charged of terrorism. All of them have participated in the
+demonstration of the advocates. They are all proud of it. However, they
+were arrested at the time of going back and not that they confronted
+the police using violence. She presented several new papers cutting to
+prove her arguments.</p>
+
+<p class="spip">The judge Muqarab Khan was known as a loyalist to the
+regime, so our advocate was quite worries. I was sure that we will be
+acquitted. I told our advocate on the day while we were waiting for the
+final decision of the court “It will be good if he announce any
+punishment for us. At least in this political atmosphere this will not
+be accepted by any political party and it will help to develop the
+movement”. But the judge denied us of this opportunity and declared
+that all of us are found not guilty and can go home.</p>
+
+<p class="spip">I am still waiting other few cases to come up in the
+courts, if the new government does not withdraw them. The new
+government of PPP has declared that it will review all the cases
+registered against the political activists and advocates.</p>
+
+<p class="spip">Farooq Tariq
+<br />spokesperson 
+<br />Labour Party Pakistan 
+<br />40-Abbot Road Lahore, Pakistan 
+<br />Tel: 92 42 6315162 Fax: 92 42 6271149  Mobile: 92 300 8411945 
+<br />http://www.laborpakistan.org   <a href="http://www.jeddojuhd.com" title="http://www.jeddojuhd.com">http://www.jeddojuhd.com</a></p></div>
+						
+						    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/275" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-353"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Tue, 04/15/2008 - 10:09 — normd</span>
+  
+  
+  
+    <h3><a href="/node/305#comment-353" class="active">Pakistan: April 10 demonstration against MQM attacks on lawyers</a></h3>
+
+    <div class="content">
+      <div id="titre"><p>Lahore demonstration against MQM</p></div>
+					
+				
+						
+						<div id="auteurs"><p>By Farooq Tariq</p></div>
+						
+						
+						
+						
+							<div id="date_redac"><p>10 April 2008</p></div>
+						
+				
+					
+					
+					<div class="crayon article-texte-9920 texte"><p class="spip">On
+Thursday, April 10, 2008 over 3000 lawyers demonstrated in Lahore
+against the brutal burning of 6 advocates in Karachi by MQM gangsters.</p>
+
+<p class="spip">We wrote around 20 playcards against the killings. It
+was “no to MQM killings, Musharaf MQM a gang of murderers, MQM is a
+fascist organisation, No to MQM fascism, It was not fight between two
+lawyers group but a planned attack by MQM, murderer the MQM”</p>
+
+<p class="spip">We were around fifty altoghether when we arrived at
+Awan Adal, here the Lahore Bar Association had planned to take out the
+demonstration.</p>
+
+<p class="spip">We went inside the hall where speakers were condemning
+the Karachi killings. There were over a dozen women activist of LPP
+with us. We all stood in a line holding the playcards inside the hall.
+The advocates were reading the playcard with a real anger in their
+eyes. Then one of us raised a slogan, no to MQM murderers, the response
+was massive. It uplifted the mood of anger.</p>
+
+<p class="spip">We came out of the hall with the advocates and the
+emotions were very high so were the slogans. May be not a single lawyer
+who was not participating in raising the slogans.</p>
+
+<p class="spip">At Lahore High Court, several hundreds more joined us.
+The media was around our contingent all the time. They were taking the
+pictures of our playcards which had very clear message and has caught
+the mood of the demonstrators. At Charing Cross on Mall Road, the
+highly charged demonstration ended. The defensive mood of some after
+the beating of Sher Afghan Niazi, a former minister, had changed into a
+real anger against the dictatorship.</p>
+
+<p class="spip">We were the only group carrying playcards. It helped to change the mood and a clear message of fighting back.</p>
+
+<p class="spip">The BBC and several others printed the playcards and
+several private television channels showed the footage of the
+demonstration.</p>
+
+<p class="spip">In the afternoon, another demonstration along with CMKP activists and lawyers was organised at Shimla Pehari Chouck.</p>
+
+<p class="spip">We received several calls by the lawyers thanking for participating at a crucial time.</p></div>    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/353" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-355"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">Tue, 04/15/2008 - 10:21 — Anonymous (not verified)</span>
+  
+  
+  
+    <h3><a href="/node/305#comment-355" class="active">Pakistan: Violence in Lahore and question of morality</a></h3>
+
+    <div class="content">
+      <p>The Violence in Lahore and question of morality<br />
+Farooq Tariq<br />
+9 April 2008</p>
+<p>Asma Jahnghir called me around 7pm last night on 8 April, “where are you, some people and advocates are doing crazy things to Dr. Sher Afghan Niazi, a former federal minister, Let us go to rescue him, the violence will not help our movement” I told her that beating of any person off course will not help our cause but I am too far from the scene at present. In the meantime, Choudry Itezaz Ahsan, president Supreme Court Bar Association, went there at Mozang Lahore to rescue.</p>
+<p>Dr. Sher Afghan Niazi was one of the most darling of General Musharaf and was recently lost his seat in the parliament. He had not realized the anger among the masses. He went to see some advocates who were friends of him. When some other advocate heard the news that he is in Lahore, they got together and tried to beat him up. He was locked in a room for three hours. Choudry Aitezaz Ahsan went to rescue him. Many hundreds of ordinary people had gathered in the meantime raising slogans against Musharaf dictatorship.</p>
+<p>While he was taken out in the presence of the leadership of advocates and police, he was dragged and slapped by some. The ambulance that tried to carry him, was also damaged. He was not hurt badly and only got some minor injuries.</p>
+<p>The private televisions channels went crazy and showed the incident live for hours. Some like GEO repeated few seconds of mishandling of Dr. Niazi over hundreds of time. They all cried for how bad the advocate movement is, how they are promoting rule of violence and some even said that it was an attempt to murder Dr. Niazi.</p>
+<p>So, started a vicious campaign against the advocate movement by all those political forces who are close associates of General Musharaf. They were mainly from MQM, PMLQ and even from ruling Pakistan peoples Party . All those who have been responsible for murders, attempt of murders, disappearances, assassinations, unlawful arrests and beatings those who spoke for democracy and rule of law, became the advocates of non violence. They shouted how this democracy will work. It is better that martial law is imposed than this sort of violence under democracy. It was the most hypocratic propaganda by the advocates of violence who ruled Pakistan for the last eight years under Musharaf dictatorship.</p>
+<p>Aitezaz Ahsan immediately announced his resignation as president of Supreme Court Bar Association. The leaders of the advocate movement went into defensive positions. Ali Ahmad Kurd, one of the main leaders of the lawyer’s movement said from Quetta, he will never step in at Lahore High Court and Lahore district Bar building. He even said it was a shameful day in the history of Pakistan. So was the defensive reaction of many other advocate leaders. All that for a few slaps on the face of one of the most hated person by people of Pakistan.</p>
+<p>There has been continuous violence against the ordinary people of Pakistan during Musharaf period. Apart from physically violence, there has been economic violence that has taken the lives of hundreds due to poverty and hunger. A few slaps on the face of a former minister can not avenge the real anger of the people of Pakistan. It is much more than that.</p>
+<p>But the extra ordinary noise by the sycophants of the dictatorship has nothing to do with the moral question of opposing violence. It is only a political weapon in the hands of those who do not want to see the judges restored and those who want to share power with Musharaf dictatorship.</p>
+<p>I went o see Aitezaz Ahsan this morning around 11am along with five more comrades. He was leaving for Islamabad. But he wanted to hear our views so we had around half an hour discussion about yesterday incident. We demanded that he take back his decision of resignation. We asked him not to be defensive. We raised the issue of political education of the advocates and about violence and how it is used against the movement. We told him that the leadership of the movement has not promoted violence; on the contrary, they used their influence to stop the violence.</p>
+<p>Aitezaz told us that he is been approached by hundreds of advocates who said that they will also resign if he does not take back his decision of resignation. He said that he does not want to wreck the movement by standing his decision of resignation. He was going to announce a formal decision of withdrawing his resignation in Islamabad this afternoon. He said that he does not want to leave the field open to Musharaf dictatorship.</p>
+<p>We discussed about the direction of the movement and that it should be focused on the restoration of the judges and about resignation of General Musharaf. We invited him as a speaker in the peasant conference to be held at Okara Military Farms of 17 April.</p>
+<p>The beating of Dr. Niazi shows that any little act of violence against ruling class is used by the main steam media against the movement, democracy and people. The real violence of the ruling class is ignored by this media. Many ordinary people of Pakistan are slapped and dragged all the times by the police, mafia, local gangsters and military dictatorship. That does get a single second on the so-called main stream media. But a slap on the face of representative of the military dictatorship brings the cry of democracy in danger and that all the rules of morality.</p>
+<p>We are opposed to any sort of violence. Violence brings violence. Violence is no mean of fighting back the military dictatorship. But we must not be influenced by the propaganda of the advocates of morality who are responsible of many crimes. We must reject such shouting of morality by these buggers.</p>
+<p>The main aim of the advocate movement is to get rid of the military dictatorship and restore the top judges for the equality and justice. That aim must not be sidelined by such incidents. Our anger against the ruling class is much bigger than a slap on the face of former minister. We have to change this capitalist system of exploitation. This needs not only anger but an organization. The anger has to be brought in the movement by building the organizations to overthrow the system. It has to be a mass action and mass movement. Killing of one or two person, or beating on one or two or even more will and can not help.</p>
     </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
 
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-11" class="block block-block region-odd odd region-count-7 count-9"><div class="block-inner">
-
-      <h2 class="title">Follow Us</h2>
-  
-  <div class="content">
-    <p class="rtecenter">
-	<a href="http://merip.org/rss.xml"><img alt="" src="http://www.merip.org/sites/default/files/graphics/medium_rssButton_final1.gif" style="width: 41px; height: 41px; " /></a> <a href="http://twitter.com/#!/meriponline"><img alt="" src="/sites/default/files/graphics/twitter_button.png" style="width: 41px; height: 41px;" /></a> <a href="http://www.facebook.com/MERIP1971"><img alt="" src="/sites/default/files/graphics/facebook_button.png" style="width: 41px; height: 41px;" /></a></p>
-<p></p>
   </div>
 
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/355" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-611"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Mon, 05/12/2008 - 09:25 — normd</span>
   
-</div></div> <!-- /block-inner, /block -->
-			</div></div>
-						<!-- /#sidebar-right -->
-
-		</div></div> 
-		<!-- /#main-inner, /#main -->
-
-		<!-- #footer, #footer-inner -->
-				<div id="footer"><div id="footer-inner" class="region region-footer">
-                <div id="footer-message">Copyright &copy; Middle East Research and Information Project.&nbsp; All Rights reserved.</div>
-                <div id="block-block-4" class="block block-block region-odd odd region-count-1 count-11"><div class="block-inner">
-
   
-  <div class="content">
-    <p>Middle East Research and Information Project<br />
-1344 T St. NW #1<br />
-Washington, DC 20009</p>
+  
+    <h3><a href="/node/305#comment-611" class="active">Pakistan: &quot;Main Nay Kaha&quot; by LAAL</a></h3>
+
+    <div class="content">
+      <object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/XPsr1RnEfWo&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/XPsr1RnEfWo&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425"></embed></object><p>&nbsp;</p><p><br /><a href="http://youtube.com/watch?v=XPsr1RnEfWo" class="moz-txt-link-freetext">http://youtube.com/watch?v=XPsr1RnEfWo</a><br /><br />&quot;Main Nay Kaha&quot; is a satirical poem by the famous leftist poet Habib Jalib called &quot;Musheer&quot; (Advisor). Jalib wrote it in response to a conversation he had with Hafiz Jalandari during the time of Ayub Khan's dictatorship. It remains just as fresh and valid today. </p><p>The music video contains real images of events in Karachi, London and Lahore during the tumultuous period between December 27 and February 18. The song and video were recorded on a shoe-string budget of one session each.<br /><br />This video and song are connected to a documentary on a journey through a life-changing period in the history of Pakistan. The journey begins in Pakistan on the eve of the assassination of Benazir and the ensuing grief, violence, and carnage. The film maker travels to London to discover a group of young activists organising protests against emergency rule. Following these activists full circle to Pakistan, the documentary captures the events around the 2008 elections. The film thus captures a moment in the life of Pakistan, from Benazir's assassination to the elections, through the lens of young activists. The documentary by Widei Films will also be released shortly.<br /><br />Translation: <br /><br />I said this to him<br />These hundred million<br />Are the epitome of ignorance<br />Their conscience has gone to sleep<br />Every ray of hope<br />Is lost in the darkness <br />This news is true<br />They are the living dead<br />Completely mindless<br />A disease of life<br />And you hold in your hands<br />The cure for their ills<br /><br />You are the light of God<br />Wisdom and knowledge personified<br />The nation is with you<br />It is only through your grace<br />That the nation can be saved<br />You are the light of a new morning<br />After you there is only night<br />The few who speak out<br />Are all mischief makers<br />You should tear out their tongues<br />You should throttle their throats<br /><br />Those proud of their eloquence <br />Their tongues are completely silent<br />There is calm in the land<br />There is an unexampled difference<br />Between yesterday and today<br />Only at their own expense<br />Are people in prison, under your rule<br /><br />China<br />China is our friend<br />We'd give our lives for her<br />But the system that they have<br />Steer well clear of that<br />&gt;From far away say &quot;salaam&quot;<br />These hundred million asses<br />That are named the masses<br />Could surely never become rulers<br />You are the truth; they're an illusion<br />My prayer is that<br />You remain President forever<br /><br /><br />Credits: <br />Habib Jalib - Mainay Uss Say Yeh Kaha<br />Shahram Azhar - Vocals<br />Taimur Rahman - Music<br />Mahvash Waqar - Backing Vocals<br />Taimur Khan - Director Producer<br />Dita Peskova - Assistant Director<br />Jamie Mill - Recording Director<br />Laal &amp; Taimur Khan - Music Producer<br />WIDEi Films - Production Company</p>    </div>
+
   </div>
 
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-1" class="block block-block region-even even region-count-2 count-12"><div class="block-inner">
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/611" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-958"></a>
+<div class="comment even">
 
+  <div class="clear-block">
+      <span class="submitted">Wed, 06/11/2008 - 16:49 — normd</span>
   
-  <div class="content">
-    <p class="rtecenter">
-	<a href="http://innerfile.com" title="Drupal consulting, development and support in Washington, DC.">Drupal and Ubercart web design in Washington, DC</a> by Inner File Software</p>
+  
+  
+    <h3><a href="/node/305#comment-958" class="active">June 9, 2008: Thousands join lawyer&#039;s Long March in Pakistan</a></h3>
+
+    <div class="content">
+      <h3>Thousands join Long March in Pakistan</h3>
+    
+    
+          <a href="http://www.asia-pacific-action.org/node/53">http://www.asia-pacific-action.org/node/53</a><br /><br />
+    
+   <p><b>By Farooq Tariq</b><br />
+Thousands of lawyers, political, trade unions and social movement
+activists are on their way to Islamabad. They are participating in the
+Long March called by the lawyer's movement. This is to push the
+Pakistan Peoples Party government to restore the top judges without any
+conditions.<br />
+The Long March started from Karachi on June 9, 2008, arrived in Sukhar at
+early hours of June 10. Here they were joined by the participants of
+different groups from Baluchistan. They arrived at Multan on June 10
+late hours, where the deposed chief justice Iftikhar Choudary had
+arrived to welcome this rally. They are still at Multan at the time of
+writing this report on the morning of 11 June. They would leave for
+Lahore around 1pm.<br />
+At Lahore, thousands will go to Lahore airport at 5pm to receive the
+chief justice Iftikhar Choudary and other deposed judges. The caravan
+will come to Lahore High Court where Iftikhar Choudary will speak to a
+convention of lawyers.<br />
+On June 12, the participants of the Long March will leave for
+Islamabad. The lawyer's leadership has not yet announced the plans for
+Islamabad. But it is understood that the activists will <i>Gherao</i> (picket) the parliament.<br />
+Labour Party Pakistan activists have joined the Long March from Karachi
+and on the way and they are joined by other LPP activists. They will be
+joined by another 50 LPP activists from Lahore. At Islamabad, the LPP
+is setting up camp to welcome the Long March participants. <br />
+The Long March was called after the newly elected parliament failed to
+restore the top judges as promised before the general elections. <img src="http://newsimg.bbc.co.uk/media/images/44730000/jpg/_44730745_protestinglawyersinkarachi.jpg" style="margin: 7px" align="left" />The
+Pakistan Peoples Party had promised to restore the judges within one
+month of coming to power but failed to do so. They want these judges
+restored through a constitutional package that include many conditions
+on the freedom of the judiciary. The lawyer's movement started on 9
+March 2007 is entering its decisive phase. The Long March has caught up
+the imaginations of many workers and peasants and has started to join
+the movement.</p>
+<p>Farooq Tariq<br />
+spokesperson<br />
+Labour Party Pakistan<br />
+40-Abbot Road Lahore, Pakistan<br />
+Tel: 92 42 6315162 Fax: 92 42 6271149 Mobile: 92 300 8411945<br />
+labour_party@... <a href="http://www.laborpakistan.org/" title="www.laborpakistan.org">www.laborpakistan.org</a> <a href="http://www.jeddojuhd.com/" title="www.jeddojuhd.com">www.jeddojuhd.com</a></p>    </div>
+
   </div>
 
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/958" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-969"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Thu, 06/12/2008 - 11:13 — normd</span>
   
-</div></div> <!-- /block-inner, /block -->
-		</div></div> 
-				<!-- /#footer-inner, /#footer -->
+  
+  
+    <h3><a href="/node/305#comment-969" class="active">Video: Pakistan lawyers&#039; `long march&#039;</a></h3>
 
-	</div></div> 
-	<!-- /#page-inner, /#page -->
+    <div class="content">
+      <p><a href="http://www.youtube.com/watch?v=8EP4YNrmraM" title="http://www.youtube.com/watch?v=8EP4YNrmraM">http://www.youtube.com/watch?v=8EP4YNrmraM</a></p><p>&nbsp;</p><p>&nbsp;</p>    </div>
 
-	<!-- #closure-blocks -->
-		<!-- #closure-blocks -->
+  </div>
 
-	<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-26219807-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/969" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-12384"></a>
+<div class="comment even">
 
+  <div class="clear-block">
+      <span class="submitted">Sat, 02/14/2009 - 07:17 — Sohail Khan (not verified)</span>
+  
+  
+  
+    <h3><a href="/node/305#comment-12384" class="active">Democracy in Pakistan was burried in 1947</a></h3>
+
+    <div class="content">
+      <p>Democracy in Pakistan was burried from the very beginning (1947).  Allama Mashriqi's party (Islam League) was barred from taking part in elections.<br />
+After the creation of Pakistan, Allama Mashriqi was arrested at least 6 times. Allama Mashriqi was founder of Khaksar Tehrik and Islam League( founded after the creation of Pakistan). Additional information about respected Mashraqi can be found on the internet.</p>
+    </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="/comment/reply/305/12384" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+</div>		</div>
+	</div>
+	<div class="bottom">	
+			
+				
+	</div>
+	<div class="copy">
+		<p>Powered by <a href="http://www.drupal.org/">Drupal</a> - <!-- Please do not remove this command line --> Design by <a href="http://www.artinet.ru/">Artinet</a></p>
+	</div>
+</div>
 </body>
 </html>

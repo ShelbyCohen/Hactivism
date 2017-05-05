@@ -1,43 +1,21 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-
-<head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
- 
-<title>The Food Movement, Rising | Michael Pollan</title>
-
-<!-- Facebook Opengraph additions -->
-    <meta property="fb:admins" content="1157875769" />
-    <meta property="og:url" content="http://michaelpollan.com/articles-archive/the-food-movement-rising/" />
-    <meta property="og:title" content="The Food Movement, Rising" />
-    <meta property="og:description" content="It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically speaking, until very recently. At least until the early 1970s, when a bout of food price inflation and the appearance of books critical of industrial agriculture (by Wendell Berry, Francis Moore Lappé, and Barry Commoner, among others) threatened to propel the subject to the top of the national agenda, Americans have not had to think very hard about where their food comes from, or what it is doing to the planet, their bodies, and their society." />
-    <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0963810952" />
-<!-- End Opengraph Stuff -->
-
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/style.css" type="text/css" media="screen" />
-<link rel="stylesheet" type="text/css" media="print" href="http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/print.css" />
-<link rel="pingback" href="http://michaelpollan.com/wordpress/xmlrpc.php" />
-
-
-
-<style type='text/css'>
-					.no-break br {
-						display: none !important;
-					}
-			</style>
-<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Design[292,348] -->
-<meta name="description"  content="It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically" />
-
-<meta name="keywords"  content="eating,farm policy &amp; agricultural subsidies,food safety,health &amp; obesity,sustainable agriculture &amp; organics,articles,the new york review of books" />
-
-<link rel="canonical" href="http://michaelpollan.com/articles-archive/the-food-movement-rising/" />
-<!-- /all in one seo pack -->
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<title>Local foods movement highlighted at annual Farm to Table Conference</title>		<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Country Folks &raquo; Feed" href="http://countryfolks.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Country Folks &raquo; Comments Feed" href="http://countryfolks.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Country Folks &raquo; Local foods movement highlighted at annual Farm to Table Conference Comments Feed" href="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/feed/" />
+<link rel="canonical" href="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/michaelpollan.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.14"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/countryfolks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -53,514 +31,565 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2' type='text/css' media='all' />
-<link rel='stylesheet' id='se-link-styles-css'  href='http://michaelpollan.com/wordpress/wp-content/plugins/search-everything/static/css/se-styles.css?ver=4.2.14' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-paginate-css'  href='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/publish2/js/json2.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/publish2/js/pagination.js?ver=1.5.1'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.hoverIntent.minified.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.bgiframe.min.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/superfish.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/supersubs.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/mp.js?ver=4.2.14'></script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/themes/mp_wp/js/jquery.colorbox-min.js?ver=4.2.14'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://michaelpollan.com/wordpress/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://michaelpollan.com/wordpress/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='The 2010 TIME 100' href='http://michaelpollan.com/interviews/the-2010-time-100/' />
-<link rel='next' title='Syracuse, NY' href='http://michaelpollan.com/all-appearances/syracuse-ny/' />
-<meta name="generator" content="WordPress 4.2.14" />
-<link rel='shortlink' href='http://michaelpollan.com/?p=678' />
-<script type="text/javascript">
-	window._se_plugin_version = '8.1.3';
-</script>
-<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'44bc6d5b-c4ac-4cc8-ac5d-8be7ad8c9da7'});var st_type='wordpress3.1.3';</script>
-
-<style type="text/css" media="screen">
-	body {
-		background-image: url(/images/bg_body_line.gif);
-		background-repeat: repeat-x;
-		background-position: 0 126px;	
-	}
-</style>
-
-<!--[if IE 6]>
-wp_enqueue_script('tilebg', '/wp-content/themes/mp_wp/js/iepngfix_tilebg.js');
-<link rel="stylesheet" type="text/css" media="print" href="/wordpress/wp-content/themes/mp_wp/ie6.css" />
-<style>
-	img, a.logo, input.btn { behavior: url(/iepngfix.htc); }
-	body.page-template-tpl_home-php #nav { bottom: 40px!important; }
-	#nav li.page-item-531 ul { left: 0px!important; }
-	#nav li.page-item-535 ul { left: 345px!important; }
-	#nav li.page-item-538 ul { left: 660px!important; }
-</style>
-<![endif]-->
-
-<!--[if IE 7]>
-<style>
-	body.page-template-tpl_home-php #nav { bottom: 40px!important; }
-	#nav li.page-item-531 ul { left: 0px!important; }
-	#nav li.page-item-535 ul { left: 345px!important; }
-	#nav li.page-item-538 ul { left: 660px!important; }
-</style>
-<![endif]-->
-<style>
-
-</style>
-<!--[if IE]>
-
-<![endif]-->
-
-</head>
-<body class="single single-post postid-678 single-format-standard">
-<div id="container">
-
-
-<div id="header" >
-		 
-		<div id="header-promo"><a href="/books/cooked/netflix-documentary-series-cooked/"><img src="/images/header-netflix-now.jpg" alt="Netflix Documentary Series: Cooked" width="211" height="118"></a></div>
-			
-				
-		 
-		<a class="logo" href="http://michaelpollan.com/">&nbsp</a>
-		<div id="header-images">&nbsp;</div>
-<!-- <ul id="nav">
-		<li class="page_item page-item-531 page_item_has_children"><a href="http://michaelpollan.com/books/">Books</a>
-<ul class='children'>
-	<li class="page_item page-item-2203 page_item_has_children"><a href="http://michaelpollan.com/books/cooked/">Cooked</a></li>
-	<li class="page_item page-item-1970 page_item_has_children"><a href="http://michaelpollan.com/books/food-rules-illustrated-edition/">Food Rules: Illustrated Edition</a></li>
-	<li class="page_item page-item-543"><a href="http://michaelpollan.com/books/food-rules/">Food Rules</a></li>
-	<li class="page_item page-item-1035"><a href="http://michaelpollan.com/books/in-defense-of-food/">In Defense of Food</a></li>
-	<li class="page_item page-item-579"><a href="http://michaelpollan.com/books/the-omnivores-dilemma/">The Omnivore&#8217;s Dilemma</a></li>
-	<li class="page_item page-item-1039"><a href="http://michaelpollan.com/books/the-omnivores-dilemma-young-readers-edition/">The Omnivore&#8217;s Dilemma: Young Readers Edition</a></li>
-	<li class="page_item page-item-1046"><a href="http://michaelpollan.com/books/the-botany-of-desire/">The Botany of Desire</a></li>
-	<li class="page_item page-item-1050"><a href="http://michaelpollan.com/books/a-place-of-my-own/">A Place of My Own</a></li>
-	<li class="page_item page-item-1055"><a href="http://michaelpollan.com/books/second-nature/">Second Nature</a></li>
-</ul>
-</li>
-<li class="page_item page-item-533"><a href="http://michaelpollan.com/articles/">Articles</a></li>
-<li class="page_item page-item-532"><a href="http://michaelpollan.com/appearances/">Appearances</a></li>
-<li class="page_item page-item-535 page_item_has_children"><a href="http://michaelpollan.com/media/">Media</a>
-<ul class='children'>
-	<li class="page_item page-item-593"><a href="http://michaelpollan.com/media/interviews-and-profiles/">Interviews &#038; Profiles</a></li>
-	<li class="page_item page-item-1102"><a href="http://michaelpollan.com/media/videos/">Videos</a></li>
-	<li class="page_item page-item-1103"><a href="http://michaelpollan.com/media/reviews/">Reviews</a></li>
-	<li class="page_item page-item-1522"><a href="http://michaelpollan.com/media/documentary-films/">Documentary Films</a></li>
-</ul>
-</li>
-<li class="page_item page-item-536"><a href="http://michaelpollan.com/press-kit/">Press Kit</a></li>
-<li class="page_item page-item-537"><a href="http://michaelpollan.com/news/">News</a></li>
-<li class="page_item page-item-538 page_item_has_children"><a href="http://michaelpollan.com/resources/">Resources</a>
-<ul class='children'>
-	<li class="page_item page-item-1071"><a href="http://michaelpollan.com/resources/sustainable-eating-nutrition/">Sustainable Eating &#038; Nutrition</a></li>
-	<li class="page_item page-item-2194"><a href="http://michaelpollan.com/resources/cooking/">Cooking</a></li>
-	<li class="page_item page-item-1073"><a href="http://michaelpollan.com/resources/growing-food/">Growing Food</a></li>
-	<li class="page_item page-item-1075"><a href="http://michaelpollan.com/resources/politics-policy/">Politics &#038; Policy</a></li>
-	<li class="page_item page-item-1078"><a href="http://michaelpollan.com/resources/animal-welfare/">Animal Welfare</a></li>
-	<li class="page_item page-item-1080"><a href="http://michaelpollan.com/resources/journalism-writing/">Journalism &#038; Writing</a></li>
-	<li class="page_item page-item-1082"><a href="http://michaelpollan.com/resources/for-parents-kids/">For Parents &#038; Kids</a></li>
-</ul>
-</li>
-<li class="page_item page-item-539"><a href="http://michaelpollan.com/todays-link/">Today&#8217;s Links</a></li>
-	</ul> -->
-
-<div class="menu-primary-nav-container"><ul id="menu-primary-nav" class="menu"><li id="menu-item-2848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2848"><a href="http://michaelpollan.com/books/">Books</a>
-<ul class="sub-menu">
-	<li id="menu-item-2864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2864"><a href="http://michaelpollan.com/books/cooked/">Cooked</a></li>
-	<li id="menu-item-2865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2865"><a href="http://michaelpollan.com/books/food-rules-illustrated-edition/">Food Rules: Illustrated Edition</a></li>
-	<li id="menu-item-2863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2863"><a href="http://michaelpollan.com/books/food-rules/">Food Rules</a></li>
-	<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862"><a href="http://michaelpollan.com/books/in-defense-of-food/">In Defense of Food</a></li>
-	<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a href="http://michaelpollan.com/books/the-omnivores-dilemma/">The Omnivore&#8217;s Dilemma</a></li>
-	<li id="menu-item-2860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2860"><a href="http://michaelpollan.com/books/the-omnivores-dilemma-young-readers-edition/">The Omnivore&#8217;s Dilemma: Young Readers Edition</a></li>
-	<li id="menu-item-2866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2866"><a href="http://michaelpollan.com/books/the-botany-of-desire/">The Botany of Desire</a></li>
-	<li id="menu-item-2867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2867"><a href="http://michaelpollan.com/books/a-place-of-my-own/">A Place of My Own</a></li>
-	<li id="menu-item-2868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2868"><a href="http://michaelpollan.com/books/second-nature/">Second Nature</a></li>
-</ul>
-</li>
-<li id="menu-item-2849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2849"><a href="http://michaelpollan.com/appearances/">Appearances</a></li>
-<li id="menu-item-2850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2850"><a href="http://michaelpollan.com/media/">Media</a>
-<ul class="sub-menu">
-	<li id="menu-item-3003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="http://michaelpollan.com/media/interviews-and-profiles/">Interviews &#038; Profiles</a></li>
-	<li id="menu-item-3001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001"><a href="http://michaelpollan.com/media/videos/">Videos</a></li>
-	<li id="menu-item-3002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3002"><a href="http://michaelpollan.com/media/reviews/">Reviews</a></li>
-	<li id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a href="http://michaelpollan.com/media/documentary-films/">Documentary Films</a></li>
-</ul>
-</li>
-<li id="menu-item-2857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2857"><a href="http://michaelpollan.com/press-kit/">Press Kit</a></li>
-<li id="menu-item-2851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2851"><a href="http://michaelpollan.com/articles/">Articles</a></li>
-<li id="menu-item-2852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2852"><a href="http://michaelpollan.com/news/">News</a></li>
-<li id="menu-item-2858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2858"><a href="http://michaelpollan.com/resources/">Resources</a></li>
-<li id="menu-item-2875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2875"><a href="http://michaelpollan.com/todays-link/">On Twitter</a></li>
-</ul></div>
-	<img src="/images/logo.png" alt="" id="printheader">
-</div>
-
-
-	<div id="content">
-	
-	
-		
-	<style>
-						.page-item-533 > a {
-				color:#932A29;
-				text-decoration:none;
-				}
-				div#header-images {
-					background-position: 0 -750px!important;	
-				}
-			
-	</style>
-
-	
-		
-			
-		<img class="pubtitle-img" src="/images/publications/93.gif" alt="" >
-				
-		<div class="post-678 post type-post status-publish format-standard hentry category-articles-archive category-the-new-york-review-of-books tag-eating tag-farm-policy-agricultural-subsidies tag-food-safety tag-health-obesity tag-sustainable-agriculture-organics" id="post-678">
-		
-			
-			
-			<h1>The Food Movement, Rising</h1>
-			<h2></h2>
-			<h3 class="byline" style="margin:10px 0">By Michael Pollan<br /><i>The New York Review of Books</i>, May 20, 2010</h3>
-				<div>
-<p><em> <a href="http://www.amazon.com/gp/product/0963810952?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0963810952" target="_blank">Everything I Want to Do Is Illegal: War Stories from  the Local Food Front</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0963810952" border="0" alt="" width="1" height="1" /> </em><br />
-by Joel Salatin<br />
-Polyface, 338 pp.,  $23.95 (paper)</p>
-<p><em> <a href="http://www.amazon.com/gp/product/1583228543?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1583228543" target="_blank">All You Can Eat: How Hungry Is America?</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=1583228543" border="0" alt="" width="1" height="1" /> </em><br />
-by Joel Berg<br />
-Seven Stories, 351 pp.,  $22.95 (paper)</p>
-<p><em> <a href="http://www.amazon.com/gp/product/0316086649?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0316086649" target="_blank">Eating Animals</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0316086649" border="0" alt="" width="1" height="1" /> </em><br />
-by Jonathan Safran Foer<br />
-Little, Brown, 341  pp., $25.99</p>
-<p><em> <a href="http://www.amazon.com/gp/product/1603582630?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1603582630" target="_blank">Terra Madre: Forging a New Global Network of  Sustainable Food Communities</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=1603582630" border="0" alt="" width="1" height="1" /> </em><br />
-by Carlo Petrini, with a foreword by  Alice Waters<br />
-Chelsea Green, 155 pp., $20.00 (paper)</p>
-<p><em> <a href="http://www.amazon.com/gp/product/0252076737?ie=UTF8&amp;tag=thneyoreofbo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0252076737" target="_blank"> The Taste for Civilization: Food, Politics, and  Civil Society</a><img src="http://www.assoc-amazon.com/e/ir?t=thneyoreofbo-20&amp;l=as2&amp;o=1&amp;a=0252076737" border="0" alt="" width="1" height="1" /> </em><br />
-by Janet A. Flammang<br />
-University of Illinois  Press, 325 pp., $70.00; $25.00 (paper)</p>
-</div>
-<h3>1.</h3>
-<p><em>Food Made Visible </em></p>
-<p>It might sound odd to say this about something people deal with at least three times a day, but food in America has been more or less invisible, politically speaking, until very recently. At least until the early 1970s, when a bout of food price inflation and the appearance of books critical of industrial agriculture (by Wendell Berry, Francis Moore Lappé, and Barry Commoner, among others) threatened to propel the subject to the top of the national agenda, Americans have not had to think very hard about where their food comes from, or what it is doing to the planet, their bodies, and their society.</p>
-<p>Most people count this a blessing. Americans spend a smaller percentage of their income on food than any people in history—slightly less than 10 percent—and a smaller amount of their time preparing it: a mere thirty-one minutes a day on average, including clean-up. The supermarkets brim with produce summoned from every corner of the globe, a steady stream of novel food products (17,000 new ones each year) crowds the middle aisles, and in the freezer case you can find “home meal replacements” in every conceivable ethnic stripe, demanding nothing more of the eater than opening the package and waiting for the microwave to chirp. Considered in the long sweep of human history, in which getting food dominated not just daily life but economic and political life as well, having to worry about food as little as we do, or did, seems almost a kind of dream.</p>
-<p>The dream that the age-old “food problem” had been largely solved for most Americans was sustained by the tremendous postwar increases in the productivity of American farmers, made possible by cheap fossil fuel (the key ingredient in both chemical fertilizers and pesticides) and changes in agricultural policies. Asked by President Nixon to try to drive down the cost of food after it had spiked in the early 1970s, Agriculture Secretary Earl Butz shifted the historical focus of federal farm policy from supporting prices for farmers to boosting yields of a small handful of commodity crops (corn and soy especially) at any cost.</p>
-<p>The administration’s cheap food policy worked almost too well: crop prices fell, forcing farmers to produce still more simply to break even. This led to a deep depression in the farm belt in the 1980s followed by a brutal wave of consolidation. Most importantly, the price of food came down, or at least the price of the kinds of foods that could be made from corn and soy: processed foods and sweetened beverages and feedlot meat. (Prices for fresh produce have increased since the 1980s.) Washington had succeeded in eliminating food as a political issue—an objective dear to most governments at least since the time of the French Revolution.</p>
-<p>But although cheap food is good politics, it turns out there are significant costs—to the environment, to public health, to the public purse, even to the culture—and as these became impossible to ignore in recent years, food has come back into view. Beginning in the late 1980s, a series of food safety scandals opened people’s eyes to the way their food was being produced, each one drawing the curtain back a little further on a food system that had changed beyond recognition. When BSE, or mad cow disease, surfaced in England in 1986, Americans learned that cattle, which are herbivores, were routinely being fed the flesh of other cattle; the practice helped keep meat cheap but at the risk of a hideous brain-wasting disease.</p>
-<p>The 1993 deaths of four children in Washington State who had eaten hamburgers from Jack in the Box were traced to meat contaminated with <em>E.coli</em> 0157:H7, a mutant strain of the common intestinal bacteria first identified in feedlot cattle in 1982. Since then, repeated outbreaks of food-borne illness linked to new antibiotic-resistant strains of bacteria (campylobacter, salmonella, MRSA) have turned a bright light on the shortsighted practice of routinely administering antibiotics to food animals, not to treat disease but simply to speed their growth and allow them to withstand the filthy and stressful conditions in which they live.</p>
-<p>In the wake of these food safety scandals, the conversation about food politics that briefly flourished in the 1970s was picked up again in a series of books, articles, and movies about the consequences of industrial food production.Beginning in 2001 with the publication of Eric Schlosser’s <em>Fast Food Nation</em>, a surprise best-seller, and, the following year, Marion Nestle’s <em>Food Politics</em>, the food journalism of the last decade has succeeded in making clear and telling connections between the methods of industrial food production, agricultural policy, food-borne illness, childhood obesity, the decline of the family meal as an institution, and, notably, the decline of family income beginning in the 1970s.</p>
-<p>Besides drawing women into the work force, falling wages made fast food both cheap to produce and a welcome, if not indispensible, option for pinched and harried families. The picture of the food economy Schlosser painted resembles an upside-down version of the social compact sometimes referred to as “Fordism”: instead of paying workers well enough to allow them to buy things like cars, as Henry Ford proposed to do, companies like Wal-Mart and McDonald’s pay their workers so poorly that they can afford <em>only</em> the cheap, low-quality food these companies sell, creating a kind of nonvirtuous circle driving down both wages and the quality of food. The advent of fast food (and cheap food in general) has, in effect, subsidized the decline of family incomes in America.</p>
-<h3>2.</h3>
-<p><em>Food Politics </em></p>
-<p>Cheap food has become an indispensable pillar of the modern economy. But it is no longer an invisible or uncontested one. One of the most interesting social movements to emerge in the last few years is the “food movement,” or perhaps I should say “movements,” since it is unified as yet by little more than the recognition that industrial food production is in need of reform because its social/environmental/public health/animal welfare/gastronomic costs are too high.</p>
-<p>As that list suggests, the critics are coming at the issue from a great many different directions. Where many social movements tend to splinter as time goes on, breaking into various factions representing divergent concerns or tactics, the food movement starts out splintered. Among the many threads of advocacy that can be lumped together under that rubric we can include school lunch reform; the campaign for animal rights and welfare; the campaign against genetically modified crops; the rise of organic and locally produced food; efforts to combat obesity and type 2 diabetes; “food sovereignty” (the principle that nations should be allowed to decide their agricultural policies rather than submit to free trade regimes); farm bill reform; food safety regulation; farmland preservation; student organizing around food issues on campus; efforts to promote urban agriculture and ensure that communities have access to healthy food; initiatives to create gardens and cooking classes in schools; farm worker rights; nutrition labeling; feedlot pollution; and the various efforts to regulate food ingredients and marketing, especially to kids.</p>
-<p>It’s a big, lumpy tent, and sometimes the various factions beneath it work at cross-purposes. For example, activists working to strengthen federal food safety regulations have recently run afoul of local food advocates, who fear that the burden of new regulation will cripple the current revival of small-farm agriculture. Joel Salatin, the Virginia meat producer and writer who has become a hero to the food movement, fulminates against food safety regulation on libertarian grounds in his <em>Everything I Want to Do Is Illegal: War Stories From the Local Food Front</em>. Hunger activists like Joel Berg, in <em>All You Can Eat: How Hungry Is America?</em>, criticize supporters of “sustainable” agriculture—i.e., producing food in ways that do not harm the environment—for advocating reforms that threaten to raise the cost of food to the poor. Animal rights advocates occasionally pick fights with sustainable meat producers (such as Joel Salatin), as Jonathan Safran Foer does in his recent vegetarian polemic, <em>Eating Animals</em>.</p>
-<p>But there are indications that these various voices may be coming together in something that looks more and more like a coherent movement. Many in the animal welfare movement, from PETA to Peter Singer, have come to see that a smaller-scale, more humane animal agriculture is a goal worth fighting for, and surely more attainable than the abolition of meat eating. Stung by charges of elitism, activists for sustainable farming are starting to take seriously the problem of hunger and poverty. They’re promoting schemes and policies to make fresh local food more accessible to the poor, through programs that give vouchers redeemable at farmers’ markets to participants in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) and food stamp recipients. Yet a few underlying tensions remain: the “hunger lobby” has traditionally supported farm subsidies in exchange for the farm lobby’s support of nutrition programs, a marriage of convenience dating to the 1960s that vastly complicates reform of the farm bill—a top priority for the food movement.</p>
-<p>The sociologist Troy Duster reminds us of an all-important axiom about social movements: “No movement is as coherent and integrated as it seems from afar,” he says, “and no movement is as incoherent and fractured as it seems from up close.” Viewed from a middle distance, then, the food movement coalesces around the recognition that today’s food and farming economy is “unsustainable”—that it can’t go on in its current form much longer without courting a breakdown of some kind, whether environmental, economic, or both.</p>
-<p>For some in the movement, the more urgent problem is environmental: the food system consumes more fossil fuel energy than we can count on in the future (about a fifth of the total American use of such energy) and emits more greenhouse gas than we can afford to emit, particularly since agriculture is the one human system that <em>should</em> be able to substantially rely on photosynthesis: solar energy. It will be difficult if not impossible to address the issue of climate change without reforming the food system. This is a conclusion that has only recently been embraced by the environmental movement, which historically has disdained all agriculture as a lapse from wilderness and a source of pollution.<sup id="fnr1-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn1-717352544">1</a></sup> But in the last few years, several of the major environmental groups have come to appreciate that a diversified, sustainable agriculture—which can sequester large amounts of carbon in the soil—holds the potential not just to mitigate but actually to help solve environmental problems, including climate change. Today, environmental organizations like the Natural Resources Defense Council and the Environmental Working Group are taking up the cause of food system reform, lending their expertise and clout to the movement.</p>
-<p>But perhaps the food movement’s strongest claim on public attention today is the fact that the American diet of highly processed food laced with added fats and sugars is responsible for the epidemic of chronic diseases that threatens to bankrupt the health care system. The Centers for Disease Control estimates that fully three quarters of US health care spending goes to treat chronic diseases, most of which are preventable and linked to diet: heart disease, stroke, type 2 diabetes, and at least a third of all cancers. The health care crisis probably cannot be addressed without addressing the catastrophe of the American diet, and that diet is the direct (even if unintended) result of the way that our agriculture and food industries have been organized.</p>
-<p>Michelle Obama’s recent foray into food politics, beginning with the organic garden she planted on the White House lawn last spring, suggests that the administration has made these connections. Her new “Let’s Move” campaign to combat childhood obesity might at first blush seem fairly anodyne, but in announcing the initiative in February, and in a surprisingly tough speech to the Grocery Manufacturers Association in March,<sup id="fnr2-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn2-717352544">2</a></sup> the First Lady has effectively shifted the conversation about diet from the industry’s preferred ground of “personal responsibility” and exercise to a frank discussion of the way food is produced and marketed. “We need you not just to tweak around the edges,” she told the assembled food makers, “but to entirely rethink the products that you’re offering, the information that you provide about these products, and how you market those products to our children.”</p>
-<p>Mrs. Obama explicitly rejected the conventional argument that the food industry is merely giving people the sugary, fatty, and salty foods they want, contending that the industry “doesn’t just respond to people’s natural inclinations—it also actually helps to shape them,” through the ways it creates products and markets them.</p>
-<p>So far at least, Michelle Obama is the food movement’s most important ally in the administration, but there are signs of interest elsewhere. Under Commissioner Margaret Hamburg, the FDA has cracked down on deceptive food marketing and is said to be weighing a ban on the nontherapeutic use of antibiotics in factory farming. Attorney General Eric Holder recently avowed the Justice Department’s intention to pursue antitrust enforcement in agribusiness, one of the most highly concentrated sectors in the economy.<sup id="fnr3-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn3-717352544">3</a></sup> At his side was Agriculture Secretary Tom Vilsack, the former governor of Iowa, who has planted his own organic vegetable garden at the department and launched a new “Know Your Farmer, Know Your Food” initiative aimed at promoting local food systems as a way to both rebuild rural economies and improve access to healthy food.</p>
-<p>Though Vilsack has so far left mostly undisturbed his department’s traditional deference to industrial agriculture, the new tone in Washington and the appointment of a handful of respected reformers (such as Tufts professor Kathleen Merrigan as deputy secretary of agriculture) has elicited a somewhat defensive, if not panicky, reaction from agribusiness. The Farm Bureau recently urged its members to go on the offensive against “food activists,” and a trade association representing pesticide makers called CropLife America wrote to Michelle Obama suggesting that her organic garden had unfairly maligned chemical agriculture and encouraging her to use “crop protection technologies”—i.e., pesticides.</p>
-<p>The First Lady’s response is not known; however, the President subsequently rewarded CropLife by appointing one of its executives to a high-level trade post. This and other industry-friendly appointments suggest that while the administration may be sympathetic to elements of the food movement’s agenda, it isn’t about to take on agribusiness, at least not directly, at least until it senses at its back a much larger constituency for reform.</p>
-<p>One way to interpret Michelle Obama’s deepening involvement in food issues is as an effort to build such a constituency, and in this she may well succeed. It’s a mistake to underestimate what a determined First Lady can accomplish. Lady Bird Johnson’s “highway beautification” campaign also seemed benign, but in the end it helped raise public consciousness about “the environment” (as it would soon come to be known) and put an end to the public’s tolerance for littering. And while Michelle Obama has explicitly limited her efforts to exhortation (“we can’t solve this problem by passing a bunch of laws in Washington,” she told the Grocery Manufacturers, no doubt much to their relief), her work is already creating a climate in which just such a “bunch of laws” might flourish: a handful of state legislatures, including California’s, are seriously considering levying new taxes on sugar in soft drinks, proposals considered hopelessly extreme less than a year ago.</p>
-<p>The political ground is shifting, and the passage of health care reform may accelerate that movement. The bill itself contains a few provisions long promoted by the food movement (like calorie labeling on fast food menus), but more important could be the new political tendencies it sets in motion. If health insurers can no longer keep people with chronic diseases out of their patient pools, it stands to reason that the companies will develop a keener interest in preventing those diseases. They will then discover that they have a large stake in things like soda taxes and in precisely which kinds of calories the farm bill is subsidizing. As the insurance industry and the government take on more responsibility for the cost of treating expensive and largely preventable problems like obesity and type 2 diabetes, pressure for reform of the food system, and the American diet, can be expected to increase.</p>
-<h3>3.</h3>
-<p><em>Beyond the Barcode </em></p>
-<p>It would be a mistake to conclude that the food movement’s agenda can be reduced to a set of laws, policies, and regulations, important as these may be. What is attracting so many people to the movement today (and young people in particular) is a much less conventional kind of politics, one that is about something more than food. The food movement is also about community, identity, pleasure, and, most notably, about carving out a new social and economic space removed from the influence of big corporations on the one side and government on the other. As the Diggers used to say during their San Francisco be-ins during the 1960s, food can serve as “an edible dynamic”—a means to a political end that is only nominally about food itself.</p>
-<p>One can get a taste of this social space simply by hanging around a farmers’ market, an activity that a great many people enjoy today regardless of whether they’re in the market for a bunch of carrots or a head of lettuce. Farmers’ markets are thriving, more than five thousand strong, and there is a lot more going on in them than the exchange of money for food. Someone is collecting signatures on a petition. Someone else is playing music. Children are everywhere, sampling fresh produce, talking to farmers. Friends and acquaintances stop to chat. One sociologist calculated that people have ten times as many conversations at the farmers’ market than they do in the supermarket. Socially as well as sensually, the farmers’ market offers a remarkably rich and appealing environment. Someone buying food here may be acting not just as a consumer but also as a neighbor, a citizen, a parent, a cook. In many cities and towns, farmers’ markets have taken on (and not for the first time) the function of a lively new public square.</p>
-<p>Though seldom articulated as such, the attempt to redefine, or escape, the traditional role of consumer has become an important aspiration of the food movement. In various ways it seeks to put the relationship between consumers and producers on a new, more neighborly footing, enriching the kinds of information exchanged in the transaction, and encouraging us to regard our food dollars as “votes” for a different kind of agriculture and, by implication, economy. The modern marketplace would have us decide what to buy strictly on the basis of price and self-interest; the food movement implicitly proposes that we enlarge our understanding of both those terms, suggesting that not just “good value” but ethical and political values should inform our buying decisions, and that we’ll get more satisfaction from our eating when they do.</p>
-<p>That satisfaction helps to explain why many in the movement don’t greet the spectacle of large corporations adopting its goals, as some of them have begun to do, with unalloyed enthusiasm. Already Wal-Mart sells organic and local food, but this doesn’t greatly warm the hearts of food movement activists. One important impetus for the movement, or at least its locavore wing—those who are committed to eating as much locally produced food as possible—is the desire to get “beyond the barcode”—to create new economic and social structures outside of the mainstream consumer economy. Though not always articulated in these terms, the local food movement wants to decentralize the global economy, if not secede from it altogether, which is why in some communities, such as Great Barrington, Massachusetts, local currencies (the “BerkShare”) have popped up.</p>
-<p>In fact it’s hard to say which comes first: the desire to promote local agriculture or the desire to promote local economies more generally by cutting ties, to whatever degree possible, to the national economic grid.<sup id="fnr4-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn4-717352544">4</a></sup> This is at bottom a communitarian impulse, and it is one that is drawing support from the right as well as the left. Though the food movement has deep roots in the counterculture of the 1960s, its critique of corporate food and federal farm subsidies, as well as its emphasis on building community around food, has won it friends on the right. In his 2006 book <em>Crunchy Cons</em>, Rod Dreher identifies a strain of libertarian conservatism, often evangelical, that regards fast food as anathema to family values, and has seized on local food as a kind of culinary counterpart to home schooling.</p>
-<p>It makes sense that food and farming should become a locus of attention for Americans disenchanted with consumer capitalism. Food is the place in daily life where corporatization can be most vividly felt: think about the homogenization of taste and experience represented by fast food. By the same token, food offers us one of the shortest, most appealing paths out of the corporate labyrinth, and into the sheer diversity of local flavors, varieties, and characters on offer at the farmers’ market.</p>
-<p>Put another way, the food movement has set out to foster new forms of civil society. But instead of proposing that space as a counterweight to an overbearing state, as is usually the case, the food movement poses it against the dominance of corporations and their tendency to insinuate themselves into any aspect of our lives from which they can profit. As Wendell Berry writes, the corporations</p>
-<blockquote><p>will grow, deliver, and cook your food for you and (just like your mother) beg you to eat it. That they do not yet offer to insert it, prechewed, into your mouth is only because they have found no profitable way to do so.</p></blockquote>
-<p>The corporatization of something as basic and intimate as eating is, for many of us today, a good place to draw the line.</p>
-<p>The Italian-born organization Slow Food, founded in 1986 as a protest against the arrival of McDonald’s in Rome, represents perhaps the purest expression of these politics. The organization, which now has 100,000 members in 132 countries, began by dedicating itself to “a firm defense of quiet material pleasure” but has lately waded into deeper political and economic waters. Slow Food’s founder and president, Carlo Petrini, a former leftist journalist, has much to say about how people’s daily food choices can rehabilitate the act of consumption, making it something more creative and progressive. In his new book <em>Terra Madre: Forging a New Global Network of Sustainable Food Communities</em>, Petrini urges eaters and food producers to join together in “food communities” outside of the usual distribution channels, which typically communicate little information beyond price and often exploit food producers. A farmers’ market is one manifestation of such a community, but Petrini is no mere locavore. Rather, he would have us practice on a global scale something like “local” economics, with its stress on neighborliness, as when, to cite one of his examples, eaters in the affluent West support nomad fisher folk in Mauritania by creating a market for their bottarga, or dried mullet roe. In helping to keep alive such a food tradition and way of life, the eater becomes something more than a consumer; she becomes what Petrini likes to call a “coproducer.”</p>
-<p>Ever the Italian, Petrini puts pleasure at the center of his politics, which might explain why Slow Food is not always taken as seriously as it deserves to be. For why <em>shouldn’t</em> pleasure figure in the politics of the food movement? Good food is potentially one of the most democratic pleasures a society can offer, and is one of those subjects, like sports, that people can talk about across lines of class, ethnicity, and race.</p>
-<p>The fact that the most humane and most environmentally sustainable choices frequently turn out to be the most delicious choices (as chefs such as Alice Waters and Dan Barber have pointed out) is fortuitous to say the least; it is also a welcome challenge to the more dismal choices typically posed by environmentalism, which most of the time is asking us to give up things we like. As Alice Waters has often said, it was not politics or ecology that brought her to organic agriculture, but rather the desire to recover a certain taste—one she had experienced as an exchange student in France. Of course democratizing such tastes, which under current policies tend to be more expensive, is the hard part, and must eventually lead the movement back to more conventional politics lest it be tagged as elitist.</p>
-<p>But the movement’s interest in such seemingly mundane matters as taste and the other textures of everyday life is also one of its great strengths. Part of the movement’s critique of industrial food is that, with the rise of fast food and the collapse of everyday cooking, it has damaged family life and community by undermining the institution of the shared meal. Sad as it may be to bowl alone, eating alone can be sadder still, not least because it is eroding the civility on which our political culture depends.</p>
-<p>That is the argument made by Janet Flammang, a political scientist, in a provocative new book called <em>The Taste for Civilization: Food, Politics, and Civil Society</em>. “Significant social and political costs have resulted from fast food and convenience foods,” she writes, “grazing and snacking instead of sitting down for leisurely meals, watching television during mealtimes instead of conversing”—40 percent of Americans watch television during meals—”viewing food as fuel rather than sustenance, discarding family recipes and foodways, and denying that eating has social and political dimensions.” The cultural contradictions of capitalism—its tendency to undermine the stabilizing social forms it depends on—are on vivid display at the modern American dinner table.</p>
-<p>In a challenge to second-wave feminists who urged women to get out of the kitchen, Flammang suggests that by denigrating “foodwork”—everything involved in putting meals on the family table—we have unthinkingly wrecked one of the nurseries of democracy: the family meal. It is at “the temporary democracy of the table” that children learn the art of conversation and acquire the habits of civility—sharing, listening, taking turns, navigating differences, arguing without offending—and it is these habits that are lost when we eat alone and on the run. “Civility is not needed when one is by oneself.”<sup id="fnr5-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn5-717352544">5</a></sup></p>
-<p>These arguments resonated during the Senate debate over health care reform, when <em>The New York Times</em> reported that the private Senate dining room, where senators of both parties used to break bread together, stood empty. Flammang attributes some of the loss of civility in Washington to the aftermatch of the 1994 Republican Revolution, when Newt Gingrich, the new Speaker of the House, urged his freshman legislators <em>not</em> to move their families to Washington. Members now returned to their districts every weekend, sacrificing opportunities for socializing across party lines and, in the process, the “reservoirs of good will replenished at dinner parties.” It is much harder to vilify someone with whom you have shared a meal.</p>
-<p>Flammang makes a convincing case for the centrality of food work and shared meals, much along the lines laid down by Carlo Petrini and Alice Waters, but with more historical perspective and theoretical rigor. A scholar of the women’s movement, she suggests that “American women are having second thoughts” about having left the kitchen.<sup id="fnr6-717352544"><a href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fn6-717352544">6</a></sup> However, the answer is not for them simply to return to it, at least not alone, but rather “for everyone—men, women, and children—to go back to the kitchen, as in preindustrial days, and for the workplace to lessen its time demands on people.” Flammang points out that the historical priority of the American labor movement has been to fight for money, while the European labor movement has fought for time, which she suggests may have been the wiser choice.</p>
-<p>At the very least this is a debate worth having, and it begins by taking food issues much more seriously than we have taken them. Flammang suggests that the invisibility of these issues until recently owes to the identification of food work with women and the (related) fact that eating, by its very nature, falls on the wrong side of the mind–body dualism. “Food is apprehended through the senses of touch, smell and taste,” she points out,</p>
-<blockquote><p>which rank lower on the hierarchy of senses than sight and hearing, which are typically thought to give rise to knowledge. In most of philosophy, religion, and literature, food is associated with body, animal, female, and appetite—things civilized men have sought to overcome with reason and knowledge.</p></blockquote>
-<p>Much to our loss. But food is invisible no longer and, in light of the mounting costs we’ve incurred by ignoring it, it is likely to demand much more of our attention in the future, as eaters, parents, and citizens. It is only a matter of time before politicians seize on the power of the food issue, which besides being increasingly urgent is also almost primal, indeed is in some deep sense proto- political. For where do all politics begin if not in the high chair?—at that fateful moment when mother, or father, raises a spoonful of food to the lips of the baby who clamps shut her mouth, shakes her head no, and for the very first time in life awakens to and asserts her sovereign power.</p>
-<div>
-<ol>
-<li id="fn1-236030181">Al Gore&#8217;s <em>An Inconvenient Truth</em> made scant mention of food or agriculture, but in his recent follow-up book, <em>Our Choice: A Plan to Solve the Climate Crisis </em>(2009), he devotes a long chapter to the subject of our food choices and their bearing on climate. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr1-236030181">↩</a></li>
-<li id="fn2-236030181">Ms. Obama&#8217;s speech can be read at <a href="http://www.whitehouse.gov/the-press-office/remarks-first-lady-a-grocery-manufacturers-association-conference">www.whitehouse.gov/the-press-office/remarks-first-lady-a-grocery-manufacturers-association-conference</a>. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr2-236030181">↩</a></li>
-<li id="fn3-236030181">Speaking in March at an Iowa &#8220;listening session&#8221; about agribusiness concentration, Holder said, &#8220;long periods of reckless deregulation have restricted competition&#8221; in agriculture. Indeed: four companies (JBS/Swift, Tyson, Cargill, and National Beef Packers) slaughter 85 percent of US beef cattle; two companies (Monsanto and DuPont) sell more than 50 percent of US corn seed; one company (Dean Foods) controls 40 percent of the US milk supply. <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr3-236030181">↩</a></li>
-<li id="fn4-236030181">For an interesting case study about a depressed Vermont mining town that turned to local food and agriculture to revitalize itself, see Ben Hewitt, <em>The Town That Food Saved: How One Community Found Vitality in Local Food</em> (Rodale, 2009). <a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr4-236030181">↩</a></li>
-<li id="fn5-236030181">See David M. Herszenhorn, &#8220;In Senate Health Care Vote, New Partisan Vitriol,&#8221; <em>The New York Times</em>, December 23, 2009: &#8220;Senator Max Baucus, Democrat of Montana and chairman of the Finance Committee, said the political—and often personal—divisions that now characterize the Senate were epitomized by the empty tables in the senators&#8217; private dining room, a place where members of both parties used to break bread. &#8216;Nobody goes there anymore,&#8217; Mr. Baucus said. &#8216;When I was here 10, 15, 30 years ago, that the place you would go to talk to senators, let your hair down, just kind of compare notes, no spouses allowed, no staff, nobody. It is now empty.'&#8221;<a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr5-236030181">↩</a></li>
-<li id="fn6-236030181">The stirrings of a new &#8220;radical homemakers&#8221; movement lends some support to the assertion. See Shannon Hayes&#8217;s <em>Radical Homemakers: Reclaiming Domesticity from a Consumer Culture</em> (Left to Write Press, 2010).<a title="Jump back to footnote 1 in the text" href="http://www.nybooks.com/articles/archives/2010/jun/10/food-movement-rising/?pagination=false#fnr6-236030181">↩</a></li>
-</ol>
-</div>
-		
-							<div class="clearfix">&nbsp;</div>
-		</div>
-		<div class="article-footer">	
-			
-		
-			Filed under:  <a href="http://michaelpollan.com/tag/eating/" rel="tag">Eating</a>, <a href="http://michaelpollan.com/tag/farm-policy-agricultural-subsidies/" rel="tag">Farm Policy &amp; Agricultural Subsidies</a>, <a href="http://michaelpollan.com/tag/food-safety/" rel="tag">Food Safety</a>, <a href="http://michaelpollan.com/tag/health-obesity/" rel="tag">Health &amp; Obesity</a>, <a href="http://michaelpollan.com/tag/sustainable-agriculture-organics/" rel="tag">Sustainable Agriculture &amp; Organics</a>, <a href="http://michaelpollan.com/category/media/the-new-york-review-of-books/"><i>The New York Review of Books</i></a>
-
-			<p class="sharebutton"><span class='st_facebook_buttons' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_twitter_buttons' st_title='The Food Movement, Rising via @MichaelPollan' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_plusone_button' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='share'></span><span class='st_email_buttons' st_title='The Food Movement, Rising' st_url='http://michaelpollan.com/articles-archive/the-food-movement-rising/' displayText='Email'></span></p>
-					</div>					
-		
-				
-		
-	
-	</div>
-
-<div id="right">
-	
-	
-	<form id="thesearch" action="/" method="get" accept-charset="utf-8">
-
-    <input type="text" name="s" id="searchform" value="search this site" />
-    <input type="image" alt="?" id="searchbtn" src="/images/searcharrow.png" />
-
-</form>	
-		
-		
-			
-			<div class="widget"><h2 class="widget-title">Articles  </h2>			<div class="execphpwidget"><img src="/images/sidebar-titles/h2/articles.png" class="header2" />
-<ul>
-<li class="categories"><h3><img src="/images/sidebar-titles/h3/recent.png"  /></h3>
-		<li>			
-				<h4><a href="http://michaelpollan.com/articles-archive/big-food-strikes-back-why-did-the-obamas-fail-to-take-on-corporate-agriculture/" rel="bookmark" title="Permanent Link to Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture?">Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture?</a></h4>
-			<p class="byline"><i>The New York Times Magazine</i><br /> 
-			October 9, 2016</p>
-		</li>
-
-				<li>			
-				<h4><a href="http://michaelpollan.com/articles-archive/a-secret-weapon-to-fight-climate-change-dirt/" rel="bookmark" title="Permanent Link to A secret weapon to fight climate change: dirt">A secret weapon to fight climate change: dirt</a></h4>
-			<p class="byline"><i>The Washington Post</i><br /> 
-			December 15, 2015</p>
-		</li>
-
-				<li>			
-				<h4><a href="http://michaelpollan.com/articles-archive/the-trip-treatment/" rel="bookmark" title="Permanent Link to The Trip Treatment">The Trip Treatment</a></h4>
-			<p class="byline"><i>The New Yorker</i><br /> 
-			February 9, 2015</p>
-		</li>
-
-		</ul>
-
-<ul>
-<li class="categories"><h3><img src="/images/sidebar-titles/h3/by-topic.png"  /></h3>
-<li>
-<a href="http://michaelpollan.com/tag/animal-welfare/" title="View all posts in Animal Welfare" >Animal Welfare</a><br /><a href="http://michaelpollan.com/tag/architecture-design/" title="View all posts in Architecture &amp; Design" >Architecture &amp; Design</a><br /><a href="http://michaelpollan.com/tag/cooking/" title="View all posts in Cooking" >Cooking</a><br /><a href="http://michaelpollan.com/tag/corn/" title="View all posts in Corn" >Corn</a><br /><a href="http://michaelpollan.com/tag/drugs/" title="View all posts in Drugs" >Drugs</a><br /><a href="http://michaelpollan.com/tag/eating/" title="View all posts in Eating" >Eating</a><br /><a href="http://michaelpollan.com/tag/environment/" title="View all posts in Environment" >Environment</a><br /><a href="http://michaelpollan.com/tag/farm-policy-agricultural-subsidies/" title="View all posts in Farm Policy &amp; Agricultural Subsidies" >Farm Policy &amp; Agricultural Subsidies</a><br /><a href="http://michaelpollan.com/tag/farmers-markets/" title="View all posts in Farmers' Markets" >Farmers' Markets</a><br /><a href="http://michaelpollan.com/tag/food-safety/" title="View all posts in Food Safety" >Food Safety</a><br /><a href="http://michaelpollan.com/tag/foraging/" title="View all posts in Foraging" >Foraging</a><br /><a href="http://michaelpollan.com/tag/gardening/" title="View all posts in Gardening" >Gardening</a><br /><a href="http://michaelpollan.com/tag/genetically-modified-organisms-gmo/" title="View all posts in Genetically Modified Organisms (GMO)" >Genetically Modified Organisms (GMO)</a><br /><a href="http://michaelpollan.com/tag/health-obesity/" title="View all posts in Health &amp; Obesity" >Health &amp; Obesity</a><br /><a href="http://michaelpollan.com/tag/lincoln-taiz/" title="View all posts in Lincoln Taiz" >Lincoln Taiz</a><br /><a href="http://michaelpollan.com/tag/meat/" title="View all posts in Meat" >Meat</a><br /><a href="http://michaelpollan.com/tag/nature/" title="View all posts in Nature" >Nature</a><br /><a href="http://michaelpollan.com/tag/nutrition/" title="View all posts in Nutrition" >Nutrition</a><br /><a href="http://michaelpollan.com/tag/plant-intelligence/" title="View all posts in plant intelligence" >plant intelligence</a><br /><a href="http://michaelpollan.com/tag/plants/" title="View all posts in plants" >plants</a><br /><a href="http://michaelpollan.com/tag/science-friday/" title="View all posts in Science Friday" >Science Friday</a><br /><a href="http://michaelpollan.com/tag/seeds/" title="View all posts in Seeds" >Seeds</a><br /><a href="http://michaelpollan.com/tag/sustainable-agriculture-organics/" title="View all posts in Sustainable Agriculture &amp; Organics" >Sustainable Agriculture &amp; Organics</a><br /><a href="http://michaelpollan.com/tag/the-new-yorker-2/" title="View all posts in the new yorker" >the new yorker</a><br /><a href="http://michaelpollan.com/tag/the-secret-life-of-plants/" title="View all posts in The Secret Life of Plants" >The Secret Life of Plants</a><br /><a href="http://michaelpollan.com/tag/travel/" title="View all posts in Travel" >Travel</a><br /></li>
-</ul>
-
-<ul>
-<li class="categories"><h3><img src="/images/sidebar-titles/h3/by-date.png"  /></h3>
-<li><a href="/articles/articles-from-2011-2016/">2011-2016</a><br />
-<a href="/articles/articles-from-2006-2010/">2006-2010</a><br />
-<a href="/articles/articles-from-2001-2005/">2001-2005</a><br />
-<a href="/articles/articles-from-1996-2000/">1996-2000</a><br />
-<a href="/articles/articles-from-1988-1995/">1988-1995</a></li>
-</ul>
-
-<ul>
-<li class="feed-link"><a href="/category/articles-archive/feed/">RSS Feed: Articles</a></li>
-</ul></div>
-		</div><div class="widget"><h2 class="widget-title">Follow Michael  </h2>			<div class="execphpwidget"><img class="header2" src="/images/sidebar-titles/h2/follow-michael.png" />
-<ul>
-<li class="categories"><img src="/images/sidebar-titles/h3/twitter.png" /></li>
-<li class="twit-link"><a href="http://twitter.com/michaelpollan">@michaelpollan</a></li>
-</ul>
-
-<ul>
-<li class="categories"><img src="/images/sidebar-titles/h3/facebook.png" /></li>
-<li class="facebook-link"><a href="http://www.facebook.com/pages/Michael-Pollan/125708780820038">Author page</a></li>
-</ul></div>
-		</div><div class="widget"><h2 class="widget-title">News Updates  </h2>			<div class="execphpwidget"><img src="/images/sidebar-titles/h2/news-updates.png" class="header2" />
-<ul>
-<li>Receive updates from Michael about in-person and media appearances, as well as news about food politics and other unpredictable items of interest.</li>
-
-<li>
-
-					<!-- Begin MailChimp Signup Form -->
-
-<!--[if IE 7]>
-<style type="text/css" media="screen">
-	.mc-field-group {overflow:visible;}
-</style>
-<![endif]-->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
-<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.validate.js"></script>
-<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form.js"></script>
-
-<form action="http://michaelpollan.us1.list-manage.com/subscribe/post?u=7fccf730f9f0eb11247da57db&amp;id=b7ddd5609d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-
-
-<input type="text" value="email address" name="EMAIL" class="required email" id="mce-EMAIL"><input type="submit" value=" " name="subscribe" id="mc-embedded-subscribe" class="btn">
-<span class="clearfix">&nbsp;</span>
-		<div id="mce-responses">
-			<div class="response" id="mce-error-response" style="display:none"></div>
-			<div class="response" id="mce-success-response" style="display:none"></div>
-		</div>
-
-
-</form>
-
-<script type="text/javascript">
-var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';var err_style = '';
-try{
-    err_style = mc_custom_error_style;
-} catch(e){
-    err_style = 'margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: rgb(255, 238, 238) none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(255, 0, 0);';
-}
-var mce_jQuery = jQuery.noConflict();
-mce_jQuery(document).ready( function($) {
-  var options = { errorClass: 'mce_inline_error', errorElement: 'div', errorStyle: err_style, onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
-  var mce_validator = mce_jQuery("#mc-embedded-subscribe-form").validate(options);
-  options = { url: 'http://michaelpollan.us1.list-manage1.com/subscribe/post-json?u=7fccf730f9f0eb11247da57db&id=b7ddd5609d&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
-                beforeSubmit: function(){
-                    mce_jQuery('#mce_tmp_error_msg').remove();
-                    mce_jQuery('.datefield','#mc_embed_signup').each(
-                        function(){
-                            var txt = 'filled';
-                            var fields = new Array();
-                            var i = 0;
-                            mce_jQuery(':text', this).each(
-                                function(){
-                                    fields[i] = this;
-                                    i++;
-                                });
-                            mce_jQuery(':hidden', this).each(
-                                function(){
-                                	if ( fields[0].value=='MM' && fields[1].value=='DD' && fields[2].value=='YYYY' ){
-                                		this.value = '';
-									} else if ( fields[0].value=='' && fields[1].value=='' && fields[2].value=='' ){
-                                		this.value = '';
-									} else {
-	                                    this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
-	                                }
-                                });
-                        });
-                    return mce_validator.form();
-                }, 
-                success: mce_success_cb
-            };
-  mce_jQuery('#mc-embedded-subscribe-form').ajaxForm(options);
-
-});
-function mce_success_cb(resp){
-    mce_jQuery('#mce-success-response').hide();
-    mce_jQuery('#mce-error-response').hide();
-    if (resp.result=="success"){
-        mce_jQuery('#mce-'+resp.result+'-response').show();
-        mce_jQuery('#mce-'+resp.result+'-response').html(resp.msg);
-        mce_jQuery('#mc-embedded-subscribe-form').each(function(){
-            this.reset();
-    	});
-    } else {
-        var index = -1;
-        var msg;
-        try {
-            var parts = resp.msg.split(' - ',2);
-            if (parts[1]==undefined){
-                msg = resp.msg;
-            } else {
-                i = parseInt(parts[0]);
-                if (i.toString() == parts[0]){
-                    index = parts[0];
-                    msg = parts[1];
-                } else {
-                    index = -1;
-                    msg = resp.msg;
-                }
-            }
-        } catch(e){
-            index = -1;
-            msg = resp.msg;
-        }
-        try{
-            if (index== -1){
-                mce_jQuery('#mce-'+resp.result+'-response').show();
-                mce_jQuery('#mce-'+resp.result+'-response').html(msg);            
-            } else {
-                err_id = 'mce_tmp_error_msg';
-                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
-                
-                var input_id = '#mc_embed_signup';
-                var f = mce_jQuery(input_id);
-                if (ftypes[index]=='address'){
-                    input_id = '#mce-'+fnames[index]+'-addr1';
-                    f = mce_jQuery(input_id).parent().parent().get(0);
-                } else if (ftypes[index]=='date'){
-                    input_id = '#mce-'+fnames[index]+'-month';
-                    f = mce_jQuery(input_id).parent().parent().get(0);
-                } else {
-                    input_id = '#mce-'+fnames[index];
-                    f = mce_jQuery().parent(input_id).get(0);
-                }
-                if (f){
-                    mce_jQuery(f).append(html);
-                    mce_jQuery(input_id).focus();
-                } else {
-                    mce_jQuery('#mce-'+resp.result+'-response').show();
-                    mce_jQuery('#mce-'+resp.result+'-response').html(msg);
-                }
-            }
-        } catch(e){
-            mce_jQuery('#mce-'+resp.result+'-response').show();
-            mce_jQuery('#mce-'+resp.result+'-response').html(msg);
-        }
-    }
-}
-</script>
-<!--End mc_embed_signup-->				
-			
-</li>
-
-<li><a href="/news">Recent news updates &raquo;</a></li>
-</ul></div>
-		</div>		
-	
-		
-
-	
-	
-			
-	</div>
-
-</div> <!-- /#container -->
-<div class="clearfix">&nbsp;</div>
-<div id="footer">
-	<div id="bottomnav"><a href="/privacy-policy/">PRIVACY POLICY</a> | <a href="/terms-of-use/">TERMS OF USE</a> | <a href="/credits/">CREDITS</a> | <a href="/contact/">CONTACT</a></div>
-	<p>&copy; 2017 Michael Pollan. All rights reserved.<p>
-</div>
-
-
-
-
-		<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<link rel='stylesheet' id='colorbox-theme9-css'  href='http://countryfolks.com/wp-content/plugins/jquery-colorbox/themes/theme9/colorbox.css?ver=4.6.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='genesis-simple-share-plugin-css-css'  href='//countryfolks.com/wp-content/plugins/genesis-simple-share/lib/css/share.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-simple-share-genericons-css-css'  href='//countryfolks.com/wp-content/plugins/genesis-simple-share/lib/css/genericons.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blognews-theme-css'  href='http://countryfolks.com/wp-content/themes/lee_gns_site/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='images-thumbnail-sliderv1-style-css'  href='http://countryfolks.com/wp-content/plugins/images-thumbnail-sliderv1/css/images-thumbnail-sliderv1-style.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-post-type-css'  href='http://countryfolks.com/wp-content/plugins/jquery-latest-news-ticker/assets/css/ticker-style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='srzmpcss-css'  href='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/css/mag-popup.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='srzelastislidercss-css'  href='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/css/elastislide.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='srzcustomcss-css'  href='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/css/srizon.custom.min.css?ver=2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu.css-css'  href='http://countryfolks.com/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600&#038;ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%7COpen+Sans%3A400%2C700&#038;ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blognews-genericons-style-css'  href='http://countryfolks.com/wp-content/themes/lee_gns_site/lib/font/genericons.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='http://countryfolks.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://countryfolks.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://countryfolks.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/michaelpollan.com\/wordpress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6.2","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"false","colorboxSlideshowAuto":"false","colorboxScalePhotos":"false","colorboxPreloading":"false","colorboxOverlayClose":"false","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"close","colorboxNext":"next","colorboxPrevious":"previous","colorboxSlideshowStart":"start slideshow","colorboxSlideshowStop":"stop slideshow","colorboxCurrent":"{current} of {total} images","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"false","colorboxImageMaxHeight":"false","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"false","colorboxLinkWidth":"false","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://michaelpollan.com/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2'></script>
-		
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.4.33'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
 </script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16337107-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</body>
-</html>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript' src='//countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/jquery.sharrre.min.js?ver=0.1.0'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/images-thumbnail-sliderv1/js/jc.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/js/modernizr.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/js/mag-popup.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/js/jquery.collagePlus.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/js/jquery.elastislide.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/srizon-facebook-album/resources/js/srizon.custom.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/wp-responsive-menu/js/jquery.transit.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/wp-responsive-menu/js/jquery.sidr.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"yes","from_width":"1000","swipe":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=4.7.4'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<link rel='https://api.w.org/' href='http://countryfolks.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://countryfolks.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="http://countryfolks.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcountryfolks.com%2Flocal-foods-movement-highlighted-at-annual-farm-to-table-conference%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://countryfolks.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcountryfolks.com%2Flocal-foods-movement-highlighted-at-annual-farm-to-table-conference%2F&#038;format=xml" />
 
-<!-- Dynamic page generated in 0.318 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2017-04-25 21:55:20 -->
+<!--[if lte IE 7]>
+<script type='text/javascript'>/* <![CDATA[ */var iews = {  msg1: "Did you know that your Internet Explorer is out of date?", msg2: "To get the best possible experience using our website we recommend that you upgrade to a newer version or other web browser. A list of the most popular web browsers can be found below.", msg3: "Just click on the icons to get to the download page", br1: "Internet Explorer 8+", br2: "Firefox 3+", br3: "Safari 3+", br4: "Opera 9.5+", br5: "Chrome 2.0+", msg4: "Close", cookie: "1" }; /* ]]> */</script><script src="http://countryfolks.com/wp-content/plugins/gecka-ie-warning/ie/warning.js"></script><script>jQuery(document).ready(function($){ iew("http://countryfolks.com/wp-content/plugins/gecka-ie-warning/ie/"); });</script>		
+<![endif]--> 
+	<script type="text/javascript">
+	 //<![CDATA[ 
+	function toggleLinkGrp(id) {
+	   var e = document.getElementById(id);
+	   if(e.style.display == 'block')
+			e.style.display = 'none';
+	   else
+			e.style.display = 'block';
+	}
+	// ]]>
+	</script> 
+			<style id="wprmenu_css" type="text/css" >
+			/* apply appearance settings */
+			#wprmenu_bar {
+				background: #0D0D0D;
+			}
+			#wprmenu_bar .menu_title, #wprmenu_bar .wprmenu_icon_menu {
+				color: #F2F2F2;
+			}
+			#wprmenu_menu {
+				background: #2E2E2E!important;
+			}
+			#wprmenu_menu.wprmenu_levels ul li {
+				border-bottom:1px solid #131212;
+				border-top:1px solid #0D0D0D;
+			}
+			#wprmenu_menu ul li a {
+				color: #CFCFCF;
+			}
+			#wprmenu_menu ul li a:hover {
+				color: #606060;
+			}
+			#wprmenu_menu.wprmenu_levels a.wprmenu_parent_item {
+				border-left:1px solid #0D0D0D;
+			}
+			#wprmenu_menu .wprmenu_icon_par {
+				color: #CFCFCF;
+			}
+			#wprmenu_menu .wprmenu_icon_par:hover {
+				color: #606060;
+			}
+			#wprmenu_menu.wprmenu_levels ul li ul {
+				border-top:1px solid #131212;
+			}
+			#wprmenu_bar .wprmenu_icon span {
+				background: #FFFFFF;
+			}
+			
+			#wprmenu_menu.left {
+				width:80%;
+				left: -80%;
+			    right: auto;
+			}
+			#wprmenu_menu.right {
+				width:80%;
+			    right: -80%;
+			    left: auto;
+			}
 
-<!-- super cache -->
+
+			
+						/* show the bar and hide othere navigation elements */
+			@media only screen and (max-width: 1000px) {
+				html { padding-top: 42px!important; }
+				#wprmenu_bar { display: block!important; }
+				div#wpadminbar { position: fixed; }
+							}
+		</style>
+		
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="icon" href="http://countryfolks.com/wp-content/themes/lee_gns_site/images/favicon.ico" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9912812-2', 'auto');
+  ga('send', 'pageview');
+
+</script><style type="text/css">.site-title a { background: url(http://countryfolks.com/wp-content/uploads/2015/07/cropped-country-folks-logo-small1.png) no-repeat !important; }</style>
+<script>
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
+
+</script> 
+
+<script type="text/javascript" src="http://www.srv2020real.com/js/74588.js" ></script>
+<noscript><img src="http://www.srv2020real.com/74588.png?trk_user=74588&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;" /></noscript>
+<!-- Facebook Pixel Code -->
+<script>
+fbq('track', 'ViewContent');
+fbq('track', 'AddToCart');
+</script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1750720511876320');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1750720511876320&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/6544/CountryFolks.com/toprightrail', [300, 250], 'div-gpt-ad-1474484109604-0').addService(googletag.pubads());
+    googletag.defineOutOfPageSlot('/6544/CountryFolks.com/CMGDB_OOP', 'div-gpt-ad-1474484109604-1').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script>
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #999999 !important; border-radius: 3px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #666666 !important; border-color: #ffffff !important; color: #ffffff !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #666666 !important; }</style><meta property="og:site_name" content="Country Folks">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:url" content="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/">
+<meta property="og:title" content="Local foods movement highlighted at annual Farm to Table Conference">
+<meta property="og:description" content="by Karl H. Kazaks WEYERS CAVE, VA — The farm to table movement has arisen out of consumers’ growing interest in the provenance of their food, as well as the desire of farmers and producers to build and contribute to a new, more locally based food system. The roots of this phenomenon go back decades,&hellip;">
+<meta property="og:image" content="http://countryfolks.com/wp-content/uploads/2017/01/CM-MR-55-2-Farm-to-table-1.jpg">
+<meta property="og:image:width" content="500">
+<meta property="og:image:height" content="333">
+<meta property="article:published_time" content="2017-01-13T20:37:25+00:00">
+<meta property="article:modified_time" content="2017-01-13T20:37:25+00:00">
+<meta property="article:author" content="http://countryfolks.com/author/jbagdovitz/">
+<meta property="article:section" content="Mid Atlantic">
+			<style type="text/css" id="wp-custom-css">
+				/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+.content-sidebar-wrap {
+	max-width: none !important;
+}
+
+#carbonMedia {
+	float: none !important;
+}			</style>
+		</head>
+<body class="post-template-default single single-post postid-8562 single-format-standard custom-header header-image content-sidebar blognews-red" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><div align="center" style="margin: 1px 0 1px 0;"><iframe src="http://www.leepub.com/advertising/banners/country_folks_banner.html" width="100%" height="105 px" frameborder="no" scrolling="no"></iframe></div><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-leepub" class="menu genesis-nav-menu menu-primary"><li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45"><a href="http://www.leepub.com" itemprop="url"><span itemprop="name">Lee Publications</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a href="http://www.leetradeshows.com" itemprop="url"><span itemprop="name">Lee Trade Shows</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="http://leetradeshows.com/empire-state-expo/" itemprop="url"><span itemprop="name">Empire State Producers Expo</span></a></li>
+		<li id="menu-item-54" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="http://www.hardhatexpo.com" itemprop="url"><span itemprop="name">Hard Hat Expo</span></a></li>
+		<li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="http://www.keystonefarmshow.com" itemprop="url"><span itemprop="name">Keystone Farm Show</span></a></li>
+		<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.nationalangusshow.com" itemprop="url"><span itemprop="name">National Angus</span></a></li>
+		<li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="http://www.virginiafarmshow.com" itemprop="url"><span itemprop="name">Virginia Farm Show</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="http://www.countryfolks.com" itemprop="url"><span itemprop="name">Country Folks</span></a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="http://www.cfgrower.com" itemprop="url"><span itemprop="name">Country Folks Grower</span></a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="http://www.cfmanestream.com" itemprop="url"><span itemprop="name">Country Folks Mane Stream</span></a></li>
+	<li id="menu-item-4059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4059"><a href="http://www.wineandcraftbeveragenews.com" itemprop="url"><span itemprop="name">Wine and Craft Beverage News</span></a></li>
+	<li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="http://www.hardhat.com" itemprop="url"><span itemprop="name">Hard Hat News</span></a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="http://www.quarrynews.com" itemprop="url"><span itemprop="name">NAQN</span></a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a href="http://www.wastehandling.com" itemprop="url"><span itemprop="name">WHEN</span></a></li>
+	<li id="menu-item-462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-462"><a href="http://www.vpennysaver.com/" itemprop="url"><span itemprop="name">Pennysaver</span></a></li>
+	<li id="menu-item-1170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1170"><a href="http://justgoodreading.com/" itemprop="url"><span itemprop="name">Editor</span></a></li>
+	<li id="menu-item-5357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5357"><a href="http://countryeditor.net/" itemprop="url"><span itemprop="name">Country-Editor</span></a></li>
+	<li id="menu-item-7002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7002"><a href="http://www.capitolregionrealestateguide.com/" itemprop="url"><span itemprop="name">Capitol Region REG</span></a></li>
+</ul>
+</li>
+<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-356"><a href="http://countryfolks.com/home/" itemprop="url"><span itemprop="name">Features</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-357"><a href="http://countryfolks.com/home/" itemprop="url"><span itemprop="name">Weekly Features</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-931"><a href="http://countryfolks.com/category/ce/" itemprop="url"><span itemprop="name">Eastern Edition</span></a></li>
+		<li id="menu-item-934" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-934"><a href="http://countryfolks.com/category/cw/" itemprop="url"><span itemprop="name">Western Edition</span></a></li>
+		<li id="menu-item-933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-933"><a href="http://countryfolks.com/category/cn/" itemprop="url"><span itemprop="name">New England Farm Weekly</span></a></li>
+		<li id="menu-item-932" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-932"><a href="http://countryfolks.com/category/cm/" itemprop="url"><span itemprop="name">Mid Atlantic</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="http://countryfolks.com/country-folks-online/" itemprop="url"><span itemprop="name">This Week&#8217;s Classifieds</span></a></li>
+	<li id="menu-item-192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192"><a href="http://www.leepub.com/brainworkspages/brainworx2.html" itemprop="url"><span itemprop="name">Place a Classified Ad</span></a></li>
+	<li id="menu-item-1349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="http://countryfolks.com/livestock-auction-guide/" itemprop="url"><span itemprop="name">Cattle Production Guide</span></a></li>
+	<li id="menu-item-5263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5263"><a href="http://countryfolks.com/marketplace/" itemprop="url"><span itemprop="name">CF Marketplace</span></a></li>
+</ul>
+</li>
+<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-441"><a href="http://countryfolks.com/contact-us/" itemprop="url"><span itemprop="name">Contact Us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-461"><a href="http://www.leepub.com/sales-team/" itemprop="url"><span itemprop="name">Sales Team</span></a></li>
+	<li id="menu-item-842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-842"><a href="http://countryfolks.com/contact-us/" itemprop="url"><span itemprop="name">Contact Info</span></a></li>
+	<li id="menu-item-844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-844"><a href="mailto:jkarkwren@leepub.com" itemprop="url"><span itemprop="name">Email Editor</span></a></li>
+</ul>
+</li>
+<li id="menu-item-240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="http://www.leepub.com/store-country-folks/" itemprop="url"><span itemprop="name">Subscribe</span></a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="http://countryfolks.com/advertising/" itemprop="url"><span itemprop="name">Advertise</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://countryfolks.com/advertising/" itemprop="url"><span itemprop="name">Advertising Info</span></a></li>
+	<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="http://www.leepub.com/brainworkspages/brainworx2.html" itemprop="url"><span itemprop="name">Place a Classified Ad</span></a></li>
+	<li id="menu-item-890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-890"><a target="_blank" href="http://www.leepub.com/medias/calendars/Country%20Folks%20Editorial%20Calendar.pdf" itemprop="url"><span itemprop="name">Editorial Calendar</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2613"><a target="_blank" href="http://www.aaauctionfinder.com/" itemprop="url"><span itemprop="name">AAAuction Finder</span></a></li>
+</ul></div></nav><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h1 class="site-title" itemprop="headline"><a href="http://countryfolks.com/">Country Folks</a></h1><h2 class="site-description" itemprop="description">Highlighting Agriculture</h2></div><div class="widget-area header-widget-area"><section id="search-2" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://countryfolks.com/" role="search"><meta itemprop="target" content="http://countryfolks.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></div></section>
+</div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-8562 post type-post status-publish format-standard category-cm entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Local foods movement highlighted at annual Farm to Table Conference</h1> 
+</header><div class="entry-content" itemprop="text"><div class="share-before share-filled share-small" id="share-before-8562"><div class="googlePlus" id="googleplus-before-8562" data-url="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" data-urlalt="http://wp.me/p2MWf7-2e6" data-text="Local foods movement highlighted at annual Farm to Table Conference" data-title="Share"></div><div class="facebook" id="facebook-before-8562" data-url="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" data-urlalt="http://wp.me/p2MWf7-2e6" data-text="Local foods movement highlighted at annual Farm to Table Conference" data-title="Share"></div><div class="twitter" id="twitter-before-8562" data-url="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" data-urlalt="http://wp.me/p2MWf7-2e6" data-text="Local foods movement highlighted at annual Farm to Table Conference" data-title="Tweet"></div><div class="pinterest" id="pinterest-before-8562" data-url="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" data-urlalt="http://wp.me/p2MWf7-2e6" data-text="Local foods movement highlighted at annual Farm to Table Conference" data-title="Pin"></div><div class="linkedin" id="linkedin-before-8562" data-url="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" data-urlalt="http://wp.me/p2MWf7-2e6" data-text="Local foods movement highlighted at annual Farm to Table Conference" data-title="Share"></div><div class="stumbleupon" id="stumbleupon-before-8562" data-url="http://countryfolks.com/local-foods-movement-highlighted-at-annual-farm-to-table-conference/" data-urlalt="http://wp.me/p2MWf7-2e6" data-text="Local foods movement highlighted at annual Farm to Table Conference" data-title="Share"></div></div>
+			<script type='text/javascript'>
+				jQuery(document).ready(function($) {
+					$('#googleplus-before-8562').sharrre({
+										  share: {
+										    googlePlus: true
+										  },
+										  urlCurl: 'http://countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('googlePlus');
+										  }
+										});
+$('#facebook-before-8562').sharrre({
+										  share: {
+										    facebook: true
+										  },
+										  urlCurl: 'http://countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('facebook');
+										  }
+										});
+$('#twitter-before-8562').sharrre({
+										  share: {
+										    twitter: true
+										  },
+										  urlCurl: 'http://countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('twitter');
+										  }
+										});
+$('#pinterest-before-8562').sharrre({
+										  share: {
+										    pinterest: true
+										  },
+										  urlCurl: 'http://countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  pinterest: { media: 'http://countryfolks.com/wp-content/uploads/2017/01/CM-MR-55-2-Farm-to-table-1.jpg', description: 'Local foods movement highlighted at annual Farm to Table Conference' } },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('pinterest');
+										  }
+										});
+$('#linkedin-before-8562').sharrre({
+										  share: {
+										    linkedin: true
+										  },
+										  urlCurl: 'http://countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('linkedin');
+										  }
+										});
+$('#stumbleupon-before-8562').sharrre({
+										  share: {
+										    stumbleupon: true
+										  },
+										  urlCurl: 'http://countryfolks.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('stumbleupon');
+										  }
+										});
+
+				});
+		</script><p><strong><a href="http://countryfolks.com/wp-content/uploads/2017/01/CM-MR-55-2-Farm-to-table-1.jpg"><img class="alignleft size-medium wp-image-8563 colorbox-8562" src="http://countryfolks.com/wp-content/uploads/2017/01/CM-MR-55-2-Farm-to-table-1-300x200.jpg" alt="" width="300" height="200" srcset="http://countryfolks.com/wp-content/uploads/2017/01/CM-MR-55-2-Farm-to-table-1-300x200.jpg 300w, http://countryfolks.com/wp-content/uploads/2017/01/CM-MR-55-2-Farm-to-table-1.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>by Karl H. Kazaks</strong></p>
+<p>WEYERS CAVE, VA — The farm to table movement has arisen out of consumers’ growing interest in the provenance of their food, as well as the desire of farmers and producers to build and contribute to a new, more locally based food system.</p>
+<p>The roots of this phenomenon go back decades, but there is no doubt the trend has reached a new kind of prominence in the last few years.<span id="more-8562"></span></p>
+<p>In Virginia, one way the energies behind this movement has been focused is the annual Farm to Table Conference, held in December, which brings together interested parties — from producers to researchers to private sector, such as a food buyer for a Virginia retirement community — together in one place.</p>
+<p>That place is the Blue Ridge Community College Pecker Workforce Center, and the organizing force behind the conference since before its first annual occurrence has been Eric Bendfeldt. He’s had help over the years planning and organizing the conferences, but without him the event would not be what it is today.</p>
+<p>This year’s event, as usual, had a mix of panel discussions, seminars, networking opportunities, and good food from Harrisonburg’s A Bowl of Good. The opening day’s featured speaker was Dr. Ricardo Salvador of the Union of Concerned Scientists. Other featured participants came from as far away as Vermont and Florida.</p>
+<p>Alex Hitt, who together with his wife Betsy founded and operate a vegetable and cut flower operation outside of Chapel Hill, NC — Peregrine Farm — was on hand to share some of his accumulated wisdom with conference attendees.</p>
+<p>Hitt direct markets about 70 percent of his farm’s production, largely through a local farmers market. Production takes place on just over three acres. Including the Hitts, the operation supports three people full-time.</p>
+<p>One of Hitt’s seminars covered soil health. The highlights of that presentation will follow here.</p>
+<p>“Farming is so complicated, has so many moving parts,” Hitt said. “I’m all about keeping it simple, keeping it close to home.”</p>
+<p>With that in mind, when it comes to building and maintaining soil health, Hitt aims to maximize his sources of on-site fertility and soil-building factors, while being careful to evaluate the costs of corresponding off-site sources.</p>
+<p>Soil can be thought of as a three-part system, with a physical component, a chemical component, and a biological component. What Hitt has focused on most of all is the biological component of his soils — building the soil food web on his farm.</p>
+<p>If you are a new farmer, Hitt advised, “buy the best soil you can.” When you have a farm selected, use its best soils.</p>
+<p>“The ideal soil,” Hitt said, “depends on the crop and the production system.” For example, in his part of North Carolina’s Piedmont, he finds sandy loam soils to be best for early season production, loam or silt loam the best for general horticulture, and clay loam the best for row crops, especially those grown without irrigation.</p>
+<p>A farmer can greatly impact soil texture by tilling. Though Hitt does some no-till farming, such as for his peppers, “when raising vegetables,” he said, “you pretty much have to till,” to get good seed-to-soil contact.</p>
+<p>His advice for tilling is to till when the soil is moist but not too dry. Also, to control compaction, he suggests varying your tillage pattern — sometimes deep, sometimes shallow — and vary the type of equipment you use. Also, use travelling lanes. That way the compaction that does occur is limited to certain areas.</p>
+<p>In terms of supporting the biological life of your soils, Hitt said, organic matter is key. Because he believes that diversity leads to balance and thus to sustainability, he tries to have a diversity of sources for organic matter on his farm. That includes crop residue, cover crops, as well as compost and manure.</p>
+<p>For 20 years the Hitts were able to provide organic matter to their soils primarily from vegetable sources on their farm, along with litter from turkeys which they raised for a few years. They do mix in 10 percent vermicompost into their transplant mix — “It gives us the most bang for the buck,” Hitt said — but during that interval they did not otherwise use imported manure or compost. This past year they did buy compost, in part because there is more commercially available compost, and in part to help maintain the organic matter of his farm’s soils.</p>
+<p>“To me, the highest and best use of manure and compost is as an inoculant to soil life,” he said. In other words, instead of seeing manure and compost as a source of fertility for your crops, see it as food for the soil food web that will enrich the soil, which in turn will make nutrients available for your crops. Feeding your soil in this way may be advantageous, Hitt suggested, after you have solarized a patch of ground, as solarization can be “hard on soil life.”</p>
+<p>One thing to keep in mind, Hitt said, is that during the peak growing season, your soil’s biological network can use a lot of organic matter, particularly if your soil has a near neutral pH and the soil is aerated, warm, and moist.</p>
+<p>When those conditions are present, Hitt said, “It’ll release a lot of nutrients but it’ll also burn up the organic matter.”</p>
+<p>To control the burn of organic matter, Hitt suggested tilling as little as possible, and when you do till, do so primarily when the soil temperature is cool (e.g., when possible, wait until after the heat of the summer months).</p>
+<p>To keep track of your soil organic matter, note the CEC (cation exchange capacity) figure on your soil test results. As the CEC number goes up, organic matter is going up (and vice versa).</p>
+<p>When it comes to taking soil test samples, always do so at the same time every year, so you can have consistency of data and thus see a meaningful pattern.</p>
+<p>The goal in managing your soil’s organic matter, Hitt said, “is to attain a slow burn, a constant release of nutrients throughout the season.”</p>
+<p>Cover crops are an integral part of Hitt’s operation. Not only do they provide organic matter to the soil, they also provide other environmental services, such as providing habitat for beneficial insects, weed suppression, reducing soil erosion, and providing free nitrogen.</p>
+<p>To maximize the amount of nitrogen provided by legume cover crops, till when the crop is at half bloom, Hitt said. “After that, the crop is putting its nitrogen into seed.”</p>
+<p>Using a mix of legumes and grasses in cover crops is something Hitt strongly recommends. “It’s really the roots of grass which build soil,” he said. For example, compare the size of the roots of oats to the size of the roots of clover.</p>
+<p>When Hitt intends to use a plot for early planting, he uses a cover crop mix of oats and crimson clover. For later spring planting, he uses rye and hairy vetch. For summer cover crops that will be followed by a fall cash crop, he uses millet and soybeans. For a summer cover crop that will be followed by a winter cover crop, he uses sudangrass and cowpeas.</p>
+
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div><footer class="entry-footer"><p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2017-01-13T15:37:25+00:00">January 13, 2017</time></p></footer></article><div class="adjacent-entry-pagination pagination"><div class="pagination-previous alignleft"><a href="http://countryfolks.com/rhode-island-risk-management-workshop-focuses-on-caterpillars/" rel="prev">&#x000AB; Rhode Island risk management workshop focuses on caterpillars</a></div><div class="pagination-next alignright"><a href="http://countryfolks.com/spreading-the-good-word-about-agriculture/" rel="next">Spreading the good word about agriculture &#x000BB;</a></div></div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/local-foods-movement-highlighted-at-annual-farm-to-table-conference/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://countryfolks.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-captcha">
+		<label><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img alt="code" src="http://countryfolks.com/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=540027552" />
+		<div style="clear:both;"></div>
+		<label>Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='8562' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="16585bb897" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="206"/></p>			</form>
+			</div><!-- #respond -->
+	</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar"><section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-email"><a href="mailto:jkarkwren@leepub.com" ><svg role="img" class="social-email" aria-labelledby="social-email"><title id="social-email">Email</title><use xlink:href="http://countryfolks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-facebook"><a href="https://www.facebook.com/countryfolks" ><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://countryfolks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/country_folks" ><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://countryfolks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/channel/UCvHWsZRZkNDUXkz7xenks9A" ><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="http://countryfolks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section id="ws_widget__ad_codes-22" class="widget ad-codes"><div class="widget-wrap"><div style="margin: 0 auto 0 auto; text-align:center;">
+<center>
+
+<a onclick="ga('send', 'event', 'Links', 'Click', 'https://mycogen.com/?countryfolks');" href="https://mycogen.com/unmatched?utm_source=country_folks&utm_medium=banner&utm_content=country_folks_banner_ad&utm_campaign=unmatched_silage&db=country_folks--banner--country_folks_banner_ad--unmatched--silage&sd=300_250&md=static" target="_blank">
+
+<img align="middle" style="width:300px" src="http://www.leepub.com/wp-content/uploads/gravity_forms/11-41d7d175ffca395768385aa19b745037/2017/03/MYCOSILG7056_Banner-300x250_R21.jpg" />
+
+</a>
+
+<p style="border:1px solid black; width:300px;"><a onclick="ga('send', 'event', 'Links', 'Click', 'https://www.lancasterpartsandequipment.com/gallery/lancaster-parts-bale-grabber.php?countryfolks');" href="https://www.lancasterpartsandequipment.com/gallery/lancaster-parts-bale-grabber.php?countryfolks" target="_blank">
+<img align="middle" style="width:300px" src="http://www.leepub.com/wp-content/uploads/gravity_forms/11-41d7d175ffca395768385aa19b745037/2017/02/BaleGrabber-February-2017.jpeg" /></p></a>
+
+<a onclick="ga('send', 'event', 'Links', 'Click', 'http://www.yanmartractor.com/?countryFolks');" href="http://www.yanmartractor.com/?countryFolks" target="_blank">
+<img align="middle" style="width:300px" src="http://www.leepub.com/wp-content/uploads/gravity_forms/11-41d7d175ffca395768385aa19b745037/2017/04/yanmar-APril.jpg" /></a>
+
+
+<p style="border:1px solid black; width:300px;"><a onclick="ga('send', 'event', 'Links', 'Click', 'https://www.paradisesolarenergy.com/who-uses-solar-energy/agriculture/?countryfolks');" href="https://www.paradisesolarenergy.com/who-uses-solar-energy/agriculture/?countryfolks" target="_blank">
+<img align="middle" style="width:300px" src="http://www.leepub.com/wp-content/uploads/gravity_forms/11-41d7d175ffca395768385aa19b745037/2017/04/paradiseSolarEnergy1.jpg" /></p></a>
+
+<p style="border:1px solid black; width:300px;"><a onclick="ga('send', 'event', 'Links', 'Click', 'https://www.youtube.com/watch?v=H8vQJvku1s0&Angus-VNR-Jump-start-your-dream');" href="https://www.youtube.com/watch?v=H8vQJvku1s0" target="_blank">
+<img align="middle" style="width:300px" src="http://www.leepub.com/advertising/Angus%20VNR_cf.jpg" />Angus VNR:<br/>Jump-start your dream</p></a>
+
+<p style="border:1px solid black; width:300px;"><a onclick="ga('send', 'event', 'Links', 'Click', 'https://www.youtube.com/watch?v=JtQ3rYvE9mQ&feature=youtu.be');" href="https://www.youtube.com/watch?v=JtQ3rYvE9mQ&feature=youtu.be" target="_blank">
+<img align="middle" style="width:300px" src="http://www.leepub.com/wp-content/uploads/gravity_forms/11-41d7d175ffca395768385aa19b745037/2017/04/molysHydraulicLoadingShute.jpg" />Moly's Hydraulic Loading Chute</p></a>
+
+</center>
+</div>
+</div></section>
+</aside></div></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-10" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Lee Publications</h4>
+			<div class="textwidget"><p><a href="http://www.countryfolks.com/">Country Folks</a></p>
+<p><a href="http://www.cfgrower.com/">Country Folks Grower</a></p>
+<p><a href="http://www.cfmanestream.com">Country Folks Mane 
+Stream</a></p>
+<p><a href="http://www.wineandcraftbeveragenews.com/">Wine and Craft Beverage News</a></p>
+<p><a href="http://www.hardhat.com">Hard Hat News</a></p>
+<p><a href="http://www.quarrynews.com">NAQN</a></p>
+<p><a href="http://www.wastehandling.com">WHEN</a></p>
+<p><a href="http://www.vpennysaver.com/">Pennysaver</a></p>
+<p><a href="http://justgoodreading.com/">Editor</a></p>
+<p><a href="http://countryeditor.net/">Country-Editor</a></p></div>
+		</div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="text-11" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Lee Trade Shows</h4>
+			<div class="textwidget"><p><a href="http://www.leetradeshows.com/empire-state-expo/">Empire State Producers Expo</a></p>
+<p><a href="http://www.hardhatexpo.com/">Hard Hat Expo</a></p>
+<p><a href="http://www.keystonefarmshow.com/">Keystone Farm 
+Show</a></p>
+<p><a href="http://www.nationalangusshow.com">National Angus Trade Show</a></p>
+<p><a href="http://www.virginiafarmshow.com/">Virginia Farm Show</a></p>
+<p><a href="http://www.whenrecyclingexpo.com">WHEN Recycling Expo</a></div>
+		</div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="text-13" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Online Subscribers</h4>
+			<div class="textwidget"><p><a href="http://www.leepub.com/digital-subscription-faq/">Features</a></p>
+<p><a href="http://www.leepub.com/store/">Join</a></p>
+<p><a href="http://www.leepub.com/member-login/">Login</a></p>
+<p><a href="http://www.leepub.com/my-subscriptions/">Read Now</a><p>
+<p><a href="http://www.leepub.com/back-issues/">Download</a><p>
+<p><a href="http://www.leepub.com/my-account/">Account</a><p>
+</div>
+		</div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="blognews_footer widget-area"><section id="text-24" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"> <font size="2">Lee Newspapers Inc.</font> </div>
+		</div></section>
+</div></div></footer>	<div style="display:none">
+	</div>
+<script>
+jQuery('#text-11 > div > div > p:nth-child(6) > a').html('');
+
+</script><script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/akismet/_inc/form.js?ver=3.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201718'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/jquery-latest-news-ticker/assets/js/jquery.ticker.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebarautomizer_name = {"sidebar_automizer_class_selector_string":".site-main .content-area","sidebar_automizer_class_selector2_string":".site-main .widget-area","sidebar_automizer_add_extra_string":"300","sidebar_automizer_element_string":"aside"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/plugins/sidebarautomizer/js/sidebar-automizer.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-includes/js/comment-reply.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://countryfolks.com/wp-content/themes/lee_gns_site/lib/js/responsivemenus.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='http://countryfolks.com/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
+<div id="fb-root"></div>		<div id="wprmenu_bar" class="wprmenu_bar">
+			<div class="wprmenu_icon">
+				<span class="wprmenu_ic_1"></span>
+				<span class="wprmenu_ic_2"></span>
+				<span class="wprmenu_ic_3"></span>
+			</div>
+			<div class="menu_title">
+				MENU							</div>
+		</div>
+
+		<div id="wprmenu_menu" class="wprmenu_levels left wprmenu_custom_icons">
+						<ul id="wprmenu_menu_ul">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45"><a href="http://www.leepub.com" itemprop="url">Lee Publications</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a href="http://www.leetradeshows.com" itemprop="url">Lee Trade Shows</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="http://leetradeshows.com/empire-state-expo/" itemprop="url">Empire State Producers Expo</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="http://www.hardhatexpo.com" itemprop="url">Hard Hat Expo</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="http://www.keystonefarmshow.com" itemprop="url">Keystone Farm Show</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.nationalangusshow.com" itemprop="url">National Angus</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="http://www.virginiafarmshow.com" itemprop="url">Virginia Farm Show</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="http://www.countryfolks.com" itemprop="url">Country Folks</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="http://www.cfgrower.com" itemprop="url">Country Folks Grower</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="http://www.cfmanestream.com" itemprop="url">Country Folks Mane Stream</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4059"><a href="http://www.wineandcraftbeveragenews.com" itemprop="url">Wine and Craft Beverage News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="http://www.hardhat.com" itemprop="url">Hard Hat News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="http://www.quarrynews.com" itemprop="url">NAQN</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a href="http://www.wastehandling.com" itemprop="url">WHEN</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-462"><a href="http://www.vpennysaver.com/" itemprop="url">Pennysaver</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1170"><a href="http://justgoodreading.com/" itemprop="url">Editor</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5357"><a href="http://countryeditor.net/" itemprop="url">Country-Editor</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7002"><a href="http://www.capitolregionrealestateguide.com/" itemprop="url">Capitol Region REG</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-356"><a href="http://countryfolks.com/home/" itemprop="url">Features</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-357"><a href="http://countryfolks.com/home/" itemprop="url">Weekly Features</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-931"><a href="http://countryfolks.com/category/ce/" itemprop="url">Eastern Edition</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-934"><a href="http://countryfolks.com/category/cw/" itemprop="url">Western Edition</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-933"><a href="http://countryfolks.com/category/cn/" itemprop="url">New England Farm Weekly</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-932"><a href="http://countryfolks.com/category/cm/" itemprop="url">Mid Atlantic</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="http://countryfolks.com/country-folks-online/" itemprop="url">This Week&#8217;s Classifieds</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192"><a href="http://www.leepub.com/brainworkspages/brainworx2.html" itemprop="url">Place a Classified Ad</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="http://countryfolks.com/livestock-auction-guide/" itemprop="url">Cattle Production Guide</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5263"><a href="http://countryfolks.com/marketplace/" itemprop="url">CF Marketplace</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-441"><a href="http://countryfolks.com/contact-us/" itemprop="url">Contact Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-461"><a href="http://www.leepub.com/sales-team/" itemprop="url">Sales Team</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-842"><a href="http://countryfolks.com/contact-us/" itemprop="url">Contact Info</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-844"><a href="mailto:jkarkwren@leepub.com" itemprop="url">Email Editor</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="http://www.leepub.com/store-country-folks/" itemprop="url">Subscribe</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="http://countryfolks.com/advertising/" itemprop="url">Advertise</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://countryfolks.com/advertising/" itemprop="url">Advertising Info</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="http://www.leepub.com/brainworkspages/brainworx2.html" itemprop="url">Place a Classified Ad</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-890"><a target="_blank" href="http://www.leepub.com/medias/calendars/Country%20Folks%20Editorial%20Calendar.pdf" itemprop="url">Editorial Calendar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2613"><a target="_blank" href="http://www.aaauctionfinder.com/" itemprop="url">AAAuction Finder</a></li>
+			</ul>
+					</div>
+		<script type='text/javascript' src='https://stats.wp.com/e-201718.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.8.2',blog:'41216305',post:'8562',tz:'-5',srv:'countryfolks.com'} ]);
+	_stq.push([ 'clickTrackerInit', '41216305', '8562' ]);
+</script>
+</body></html>

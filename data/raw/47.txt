@@ -1,636 +1,1136 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-<meta property="fb:pages" content="323440711827"/>
-<link href="http://www.freemalaysiatoday.com/favicon.ico" type="image/x-icon" rel="icon"/>
-<link href="http://www.freemalaysiatoday.com/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.freemalaysiatoday.com/apple-icon-57x57-precomposed.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.freemalaysiatoday.com/apple-icon-72x72-precomposed.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.freemalaysiatoday.com/apple-icon-114x114-precomposed.png"/>
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.freemalaysiatoday.com/apple-icon-144x144-precomposed.png"/>
-<meta name="robots" content="index,follow"/>
-<title> Is there hope in Gerakan Harapan Baru? | Free Malaysia Today</title>
-<meta name="description" content=" By P Ramasamy Formation of political coalitions is not something new in Malaysia. The real question in the minds of the public is whether they are able to..."/>
-<meta name="keywords" content="Top News,fmt, fmtnews, free malaysiatoday today, mtoday, malaysia news"/>
-<link rel="stylesheet" href="http://www.freemalaysiatoday.com/wp-content/themes/magazine-premium/style.css?version=21" type="text/css" media="screen"/>
-<link rel="pingback" href="http://www.freemalaysiatoday.com/xmlrpc.php"/>
-<!--[if IE]>
-<link rel="stylesheet" type="text/css" href="http://www.freemalaysiatoday.com/wp-content/themes/magazine-premium/iestyles.css" />
-<![endif]-->
-<!--[if lte IE 6]>
-<script defer type="text/javascript" src="http://www.freemalaysiatoday.com/wp-content/themes/magazine-premium/images/pngfix.js"></script>
-<![endif]-->
-<link href="//fonts.googleapis.com/css?family=PT+Sans:400italic,400,700italic,700" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=Source+Sans Pro:200italic,200,300italic,300,400italic,400,600italic,600,700italic,700,900italic,900" rel="stylesheet" type="text/css">
-<style>.header-logo-panel{background-color:#000000!important;}</style>
-<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
-<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"f0f539ef-ef2b-46ec-8d01-240ebd8daf61"});var st_type="wordpress4.2.5";</script>
-<script id='cpf_wp_cp' type='text/javascript'>
-   function WpCpCleanPrintPrintHtml(postId) {
-   	CleanPrintPrintHtml(null,postId);
-   }
-   function WpCpCleanPrintSendEmail(postId) {
-   	CleanPrintSendEmail(null,postId);
-   }
-   function WpCpCleanPrintGeneratePdf(postId) {
-   	CleanPrintGeneratePdf(null,postId);
-   }
-</script>
-<script id='cpf_loader' type='text/javascript' src='http://cache-02.cleanprint.net/cpf/cleanprint?polite=no&key=wpdefault&logo=http%3A%2F%2Fwww.freemalaysiatoday.com%2Fimages%2FFMT-Mobile-Header-540px.png'></script>
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.freemalaysiatoday.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel='stylesheet' id='style-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/hide-widget-title/style.css?ver=1.0' type='text/css' media='screen'/>
-<link rel='stylesheet' id='wgs-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/wp-google-search/wgs.css?ver=4.5.3' type='text/css' media='all'/>
-<link rel='stylesheet' id='pt-cv-public-style-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=1.8.9' type='text/css' media='all'/>
-<link rel='stylesheet' id='ad-inserter-viewports-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/ad-inserter/css/viewports.css?ver=1486261422' type='text/css' media='all'/>
-<link rel='stylesheet' id='cptch_stylesheet-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/captcha/css/front_end_style.css?ver=4.5.3' type='text/css' media='all'/>
-<link rel='stylesheet' id='dashicons-css' href='http://www.freemalaysiatoday.com/wp-includes/css/dashicons.min.css?ver=4.5.3' type='text/css' media='all'/>
-<link rel='stylesheet' id='cptch_desktop_style-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.5.3' type='text/css' media='all'/>
-<link rel='stylesheet' id='clink-main-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/clink/assets/css/clink-style.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='mapsvg-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/mapsvg/css/mapsvg.css?ver=4.5.3' type='text/css' media='all'/>
-<link rel='stylesheet' id='rps-style-css' href='http://www.freemalaysiatoday.com/wp-content/plugins/recent-posts-slider/css/style.css?ver=4.5.3' type='text/css' media='all'/>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-content/plugins/mapsvg/js/jquery.mousewheel.min.js?ver=3.0.6'></script>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-content/plugins/mapsvg/js/mapsvg.min.js?ver=6.2.8'></script>
-<link rel='https://api.w.org/' href='http://www.freemalaysiatoday.com/wp-json/'/>
-<link rel='prev' title='Ali Tinju claims trial for seditious remarks at Low Yat' href='http://www.freemalaysiatoday.com/category/nation/2015/07/16/ali-tinju-claims-trial-for-seditious-remarks-at-low-yat-plaza/'/>
-<link rel='next' title='Pengakuan video tidak dapat bersih imej PM' href='http://www.freemalaysiatoday.com/category/bahasa/2015/07/16/video-pengakuan-sr-tidak-dapat-bersih-imej-pm/'/>
-<link rel='shortlink' href='http://www.freemalaysiatoday.com/?p=570172'/>
-<link rel="alternate" type="application/json+oembed" href="http://www.freemalaysiatoday.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.freemalaysiatoday.com%2Fcategory%2Fopinion%2F2015%2F07%2F16%2Fis-there-hope-in-gerakan-harapan-baru%2F"/>
-<link rel="alternate" type="text/xml+oembed" href="http://www.freemalaysiatoday.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.freemalaysiatoday.com%2Fcategory%2Fopinion%2F2015%2F07%2F16%2Fis-there-hope-in-gerakan-harapan-baru%2F&#038;format=xml"/>
-<script async type="text/javascript" src="//cdn.innity.net/admanager.js"></script>
+
+
  
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({article:'auto'});
-  !function (e, f, u, i) {
-    if (!document.getElementById(i)){
-      e.async = 1;
-      e.src = u;
-      e.id = i;
-      f.parentNode.insertBefore(e, f);
-    }
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/freemalaysiatoday/loader.js',
-  'tb_loader_script');
-</script>
-<meta property="fb:app_id" content="170260162989134"/> <script type="text/javascript">
-        var ajaxurl = 'http://www.freemalaysiatoday.com/wp-admin/admin-ajax.php';
-        </script>
-<style type="text/css" media="screen"></style><style type="text/css">.sidebar-divider{border-bottom:1px dotted #a0a0a0!important;height:1px;padding-top:8px;}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><style>.ios7.web-app-mode.has-fixed header{background-color:rgba(0,0,0,.88)!important;}</style>
- 
-<meta property="og:locale" content="en_US"/>
-<meta property="og:site_name" content="Free Malaysia Today"/>
-<meta property="og:title" content="Is there hope in Gerakan Harapan Baru?"/>
-<meta itemprop="name" content="Is there hope in Gerakan Harapan Baru?"/>
-<meta name="twitter:title" content="Is there hope in Gerakan Harapan Baru?"/>
-<meta property="og:url" content="http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/"/>
-<meta name="twitter:url" content="http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/"/>
-<link rel="canonical" href="http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/"/>
-<meta property="og:type" content="article"/>
-<meta property="article:section" content="Comments"/>
-<meta property="article:publisher" content="http://www.freemalaysiatoday.com/"/>
-<meta property="og:description" content="What is more important is whether its leaders will be able to convince Malaysians that they are going to move in the right direction."/>
-<meta name="description" content="What is more important is whether its leaders will be able to convince Malaysians that they are going to move in the right direction."/>
-<meta itemprop="description" content="What is more important is whether its leaders will be able to convince Malaysians that they are going to move in the right direction."/>
-<meta property="og:image" content="http://s3media.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600.jpg"/>
-<meta itemprop="image" content="http://s3media.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600.jpg"/>
-<meta name="twitter:card" content="summary_large_image"/>
- 
- 
-<link rel="stylesheet" href="http://www.freemalaysiatoday.com/video-slider/touchcarousel/touchcarousel.css"/>
-<link rel="stylesheet" href="http://www.freemalaysiatoday.com/video-slider/touchcarousel/three-d-skin/three-d-skin.css"/>
- 
- 
- 
-<script src="http://www.freemalaysiatoday.com/video-slider/touchcarousel/jquery.touchcarousel-1.2.min.js"></script>
- 
- 
- 
- 
- 
+
+
+<html>
+  <head>
+    
+    
+    <style id="antiClickjack">body{display:none !important;}</style>
+    <script type="text/javascript">
+       if (self === top) {
+           var antiClickjack = document.getElementById("antiClickjack");
+           antiClickjack.parentNode.removeChild(antiClickjack);
+       } else {
+           top.location = self.location;
+       }
+    </script>
+    
+    
+
+    <script src="http://www.themalaymailonline.com/new_assets/js/redirection-mobile.js"></script>
+    <script type="text/javascript">
+	SA.redirection_mobile (
+		{
+			mobile_url : "m.themalaymailonline.com",
+                        keep_path : true,
+                        keep_query : true
+		}
+	);
+     </script>
+
+
+
+
+
+
+	
+        
+
+      <title>
+		
+						
+		                    			
+				
+
+				
+        	        	     				        Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’ | Malaysia | Malay Mail Online
+				    
+        	        	    				
+			
+                    
+                    		
+		
+
+		
+		
+		
+                
+                
+                
+                
+                
+		
+		
+		
+		
+		
+                                
+                
+                                
+                
+		
+		
+		
+      </title>
+
+<meta property="fb:app_id" content="1791895387720391" />
+
+<meta property="fb:pages" content="163335377171805" />
+
+	
+		<meta name="description" content="
+	KUALA LUMPUR, July 16 &#8213; A Muslim online group has cast doubt on PAS leader Dr Mohd Zuhdi Marzuki&rsquo;s attack on the Gerakan Harapan Baru (GHB) splinter movement, questioning his sincerity in accusing | Malaysia | Malay Mail Online" />
+		<meta property="og:type" content="article" />
+                <meta property="og:image" content="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG" />
+		<meta property="og:title" content="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" />
+		<meta property="og:url" content="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" />
+		<meta property="article:published_time" content="2015-07-16T07:21:54+08:00" />
+		<meta property="og:updated_time" content="2015-07-16T15:21:54+08:00" />
+		<meta name="news_keywords" content="gerakan harapan baru, mohd zuhdi marzuki, pas on ghb" />
+		<meta name="keywords" content="gerakan harapan baru, mohd zuhdi marzuki, pas on ghb" />
+		<meta property="og:description" content="
+	KUALA LUMPUR, July 16 &#8213; A Muslim online group has cast doubt on PAS leader Dr Mohd Zuhdi Marzuki&rsquo;s attack on the Gerakan Harapan Baru (GHB) splinter movement, questioning his sincerity in accusing the latter group of straying from Islam.
+
+	The" />
+                <meta name="twitter:card" content="summary" />
+                <meta name="twitter:site" content="@themmailonline" />
+  
+                <meta name="twitter:title" content="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" />
+                <meta name="twitter:description" content="
+	KUALA LUMPUR, July 16 &#8213; A Muslim online group has cast doubt on PAS leader Dr Mohd Zuhdi Marzuki&rsquo;s attack on the Gerakan Harapan Baru..." />
+        
+                <meta name="twitter:image" content="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG" />
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" >
+                <link rel="canonical" href="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" >
+	
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+
+    <link rel="icon" type="image/png" href="http://www.themalaymailonline.com/favicon.png">
+
+    <!-- Bootstrap -->
+    <link href="http://www.themalaymailonline.com/new_assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="http://www.themalaymailonline.com/new_assets/css/core-guardian1.css" rel="stylesheet" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+
+
+
+
+
+
+
+<style type="text/css">
+	.videoWrapper-wtn-article {
+		position: relative;
+		padding-bottom: 56.25%; /* 16:9 */
+		padding-top: 25px;
+		height: 0;
+		max-width: 805px;
+		max-height: 505px;
+                overflow: hidden;
+                margin-bottom: 5px;
+	}
+
+	.videoWrapper-wtn-article iframe,
+	.videoWrapper-wtn-article object,
+	.videoWrapper-wtn-article embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	video {
+		width: 100%;
+		height: auto;
+	}
+</style>
+
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+
+
+
+
+
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()fmt-vd
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-13201505-2', 'freemalaysiatoday.com');
-  ga('require', 'displayfeatures');
+  ga('create', 'UA-41636700-1', 'themalaymailonline.com');
   ga('send', 'pageview');
-
 </script>
- 
+
+
+
+
+
+
+
+
+
+
+
 <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
 <script>
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
 </script>
-</head>
-<body>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '170260162989134',
-      xfbml      : true,
-      version    : 'v2.7'
-    });
-  };
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
- 
-<!-- google_ad_section_start(name=fmtnewsros) -->
-<div class="wrapper-site">
- 
-<div class="wrapper-header">
- 
-<div class="header-top">
-<div class="header-datetime">
-<script type="text/javascript">
-						<!--
-						var mydate=new Date()
-						var year=mydate.getYear()
-						if (year < 1000)
-						year+=1900
-						var day=mydate.getDay()
-						var month=mydate.getMonth()
-						var daym=mydate.getDate()
-						if (daym<10)
-						daym="0"+daym
-						var dayarray=new Array("SUNDAY","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY")
-						var montharray=new Array("JANUARY","FEBRUARY","MARCH","APRIL","MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER")
-						document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
-						// -->
-					</script>
-</div>
- 
-<div class="header-socialicon">
-<a target="_blank" href="https://www.facebook.com/freemalaysiatoday"><img src="http://www.freemalaysiatoday.com/images/fmt2014/facebook.png" alt="Facebook" width="24" height="24"></a>
-<a target="_blank" href="https://www.twitter.com/fmtoday"><img src="http://www.freemalaysiatoday.com/images/fmt2014/twitter.png" alt="Twitter" width="24" height="24"></a>
-<a target="_blank" href="https://plus.google.com/106882572946476647133/posts"><img src="http://www.freemalaysiatoday.com/images/fmt2014/googleplus.png" alt="Google Plus" width="24" height="24"></a>
-<a target="_blank" href="http://vimeo.com/freemalaysiatoday"><img src="http://www.freemalaysiatoday.com/images/fmt2014/vimeo.png" alt="Vimeo" width="24" height="24"></a>
-<a target="_blank" href="https://www.youtube.com/freemalaysiatoday"><img src="http://www.freemalaysiatoday.com/images/fmt2014/youtube.png" alt="Youtube" width="24" height="24"></a>
-<a target="_blank" href="http://www.freemalaysiatoday.com/feed/"><img src="http://www.freemalaysiatoday.com/images/fmt2014/rss.png" alt="Feed" width="24" height="24"></a>
-<a target="_blank" href="https://feedburner.google.com/fb/a/mailverify?uri=FreeMalaysiaToday"><img src="http://www.freemalaysiatoday.com/images/fmt2014/feedburner-1.png" alt="Feedburner" width="24" height="24"></a>
-</div>
-</div>
-<div class="clearfix"></div>
- 
-<div class="header-banner">
-<div class="header-banner-left">
-<div id="execphp-33" class="bottom-widget widget_execphp"> <div class="execphpwidget"> 
-<div id='div-gpt-ad-1469886335916-0' style='height:90px; width:245px;'>
-<script>
-googletag.cmd.push(function() { 
-googletag.defineSlot('/26812591/FMT-HLB-TOPLEFT', [245, 90], 'div-gpt-ad-1469886335916-0').addService(googletag.pubads());
-googletag.enableServices();
-googletag.display('div-gpt-ad-1469886335916-0'); });
-</script>
-</div></div>
-</div></div>
-<div class="header-banner-right">
- 
-<div id="execphp-3" class="bottom-widget widget_execphp"><h3>ROS LBoard 1</h3> <div class="execphpwidget"> 
-<div id='div-gpt-ad-1455123439435-0' style='height:90px; width:728px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { 
-googletag.defineSlot('/26812591/FMT_ROS_Leaderboard_Top_728x90', [728, 90], 'div-gpt-ad-1455123439435-0').addService(googletag.pubads());
-googletag.enableServices();
-googletag.display('div-gpt-ad-1455123439435-0'); });
-</script>
-</div></div>
-</div> </div>
-</div>
-<div class="clearfix"></div>
- 
-<div class="header-logo-panel">
-<div class="header-logo">
-<a href="http://www.freemalaysiatoday.com">
-<img src="/images/fmt2014/fmt2-logo.jpg" alt="FREE MALAYSIA TODAY" width="265" height="200">
-</a>
-</div>
- 
-<div class="header-highlight-title">
-<div class='header-highlight-type'></div>
-<div class="header-highlight-title-title">
-<a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/school-explains-refusal-to-comment-on-boy-who-lost-legs/">School explains refusal to comment on boy who lost legs</a>
-</div>
-<div class="header-highlight-title-byline">
-<a href="http://www.freemalaysiatoday.com/category/author/fmtreporters/" title="Posts by FMT Reporters" class="author url fn" rel="author">FMT Reporters</a>
-</div>
-<div class="header-highlight-title-readmore">
-<a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/school-explains-refusal-to-comment-on-boy-who-lost-legs/">Read More <img src="http://www.freemalaysiatoday.com/images/fmt2014/hightlight-arrow.png" width="11" height="13"></a>
-</div>
-</div>
-<div class="header-highlight-photo">
-<a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/school-explains-refusal-to-comment-on-boy-who-lost-legs/"><img width="400" height="200" src="http://s3media.freemalaysiatoday.com/wp-content/uploads/2017/04/madrasah-2.jpg" class="wp-image-772640 attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="madrasah-2" srcset="http://s3media.freemalaysiatoday.com/wp-content/uploads/2017/04/madrasah-2.jpg 400w, http://s3media.freemalaysiatoday.com/wp-content/uploads/2017/04/madrasah-2-300x150.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"/>
-<div class="header-highlight-photo-overlay">
-<img src="/images/fmt2014/top-news-overlay.png" width="400" height="200">
-</div>
-</a>
-</div>
-</div>
-<div class="clearfix"></div>
- 
-<div class="header-main-navigation">
-<div class="header-main-navigation-menu"><a style="color:#DD0000;" href="http://www.freemalaysiatoday.com/category/bahasa/">FMT BAHASA</a></div>
-<div class="header-main-navigation-menu"><a style="color:#e7a511;" href="http://www.freemalaysiatoday.com/category/nation/sabahsarawak/">FMT BORNEO+</a></div>
-<div class="header-main-navigation-menu"><a style="color:#00c5fc;" href="http://www.freemalaysiatoday.com/category/videos/">FMT VIDEO</a></div>
-<div class="header-main-navigation-menu" style="background-color: #DD0000;"><a style="color:#FFFFFF; cursor:pointer;" class="lightbox-51745913540455">CONTRIBUTE NEWS</a></div>
- 
-<div class="header-main-navigation-menu" style="border-right: 0px solid #000000!important; float:right;"><a title="Download FMT iPad/iPhone/Android App" target="_blank" href="http://fmt.mnewsapps.com/"><img border="0" src="http://www.freemalaysiatoday.com/images/mobile-icons2.png" width="100" height="20"></a></div>
-</div>
-<div class="clearfix"></div>
- 
- 
-<div class="header-sub-navigation">
-<div style="float:left; background:#FFFFFF;">
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #00baff;" href="http://www.freemalaysiatoday.com">HOME</a>
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #0c44bb;" href="http://www.freemalaysiatoday.com/category/nation/">NATION</a>
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #9832ba;" href="http://www.freemalaysiatoday.com/category/opinion/">OPINION</a>
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #a0d223;" href="http://www.freemalaysiatoday.com/category/world/">WORLD</a>
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #ff7f00;" href="http://www.freemalaysiatoday.com/category/leisure/">LEISURE</a>
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #dac015;" href="http://www.freemalaysiatoday.com/category/sports/">SPORTS</a>
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #e62979;" href="http://www.freemalaysiatoday.com/category/business/">BUSINESS</a>
-</div>
-<div style="float:right;">
-<a class="header-sub-navigation-menu" style="border-bottom:2px solid #383838; background-color:#383838!important; color:#FFFFFF!important; border-left:0px solid #FFFFFF;" href="http://www.freemalaysiatoday.com/advertise/">ADVERTISE WITH US</a>
-<div class="header-sub-navigation-menu" style="border-bottom:2px solid #383838; background-color:#383838!important; padding-top:7px!important; padding-bottom:8px!important; border-right:0px solid #FFFFFF!important;">
-<form method="get" id="searchform" action="http://www.freemalaysiatoday.com/">
-<input type="text" class="search_input_navbox" style="background: #666666;" value="Search" name="s" id="s" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"/>
-<input type="hidden" id="searchsubmit"/></form></div>
-</div>
-<div class="clearfix"></div>
-</div>
-<div class="clearfix"></div>
- 
- 
-</div> 
-<div class="clearfix"></div>
-<div class="wrapper-content">
-<div class="wrapper-left-column"> 
-<div class="ind-post" id="post-772635">
-<p class="separator-2"></p>
-<div style="float:right;"><span class='st_facebook_hcount' st_title='Is there hope in Gerakan Harapan Baru?' st_url='http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/' displayText='facebook'></span><span class='st_twitter_hcount' st_title='Is there hope in Gerakan Harapan Baru?' st_url='http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/' displayText='twitter'></span><span class='st_email_hcount' st_title='Is there hope in Gerakan Harapan Baru?' st_url='http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/' displayText='email'></span><span class='st_sharethis_hcount' st_title='Is there hope in Gerakan Harapan Baru?' st_url='http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/' displayText='share'></span></div>
-<p class="separator-2"></p>
-<div class="clearfix"></div>
- 
-<h1>Is there hope in Gerakan Harapan Baru?</h1>
-<div class="clearfix"></div>
-<div class="meta">
-July 16, 2015 </div>
-<div class="clearfix"></div>
-<div class="storycontent-post">
-<p class="summary">What is more important is whether its leaders will be able to convince Malaysians that they are going to move in the right direction.
-</p><div class="clearfix"></div> <div class='storycontent-news-type'>COMMENT</div><div class="clearfix"></div>
-<p><a href="http://www.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600.jpg"><img class="aligncenter size-full wp-image-570178" alt="harapan-baru_600" src="http://www.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600.jpg" width="648" height="369" srcset="http://s3media.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600.jpg 648w, http://s3media.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600-300x170.jpg 300w, http://s3media.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600-105x60.jpg 105w, http://s3media.freemalaysiatoday.com/wp-content/uploads/2015/07/harapan-baru_600-218x124.jpg 218w" sizes="(max-width: 648px) 100vw, 648px"/></a></p>
-<p><em><strong>By P Ramasamy</strong></em></p>
-<p>Formation of political coalitions is not something new in Malaysia. The real question in the minds of the public is whether they are able to survive in the “divisive waters” of Malaysian politics.</p>
-<p>Ethnic, religious, class and spatial barriers make it difficult for political coalitions to function and pro-long their activities in the country.</p>
-<p>The ambitious launch of a new political party called Gerakan Harapan Baru (GHB) or New Hope Movement on July 13, 2015, by the progressive group that was purged from PAS, seems to rekindle fresh hope for the formation of a new political opposition coalition.</p>
-<p>For all intents and purposes, the Pakatan Rakyat (PR) coalition informally formed before the 2008 general elections is dead and gone. The fact that the coalition lasted seven years in itself is no small achievement.</p>
-<p>The formation of new political party might possibly lead to a new political coalition. Whether the new coalition would be termed as PR Baru or PR 2.0 remains to be seen.</p>
-<p>Not surprisingly, the leader of this new political party is none other than the vociferous Mat Sabu, the former deputy president of PAS. The others who have rallied around Mat Sabu are Muhammed Faiz Fadzil, the son of PAS&#8217; former president; Muhammed Muhd Taib, the former Menteri Besar of Selangor; Ahmad Awang, the candidate who contested the post of president; Dzulkefly Ahmad; and others who have labelled themselves as the “Group of 18”.</p><div class='code-block code-block-1 ai-viewport-1' style='float: left; margin: 8px 8px 8px 0px;'> 
- 
-<div id='div-gpt-ad-1462811451620-0'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { 
-googletag.defineSlot('/26812591/FMT_ROS_InContent_300x250', [[300, 250],[336, 280]], 'div-gpt-ad-1462811451620-0').addService(googletag.pubads());
-googletag.pubads().collapseEmptyDivs();
-googletag.enableServices();
-googletag.display('div-gpt-ad-1462811451620-0'); });
-</script>
-</div>
- 
- 
-<script type="text/javascript">
-new innity_adZone("51de85ddd068f0bc787691d356176df9", "59176", {"origin": "MY"});
-</script></div>
-<p>According to Mat Sabu, the new party, awaiting approval from the Registrar of Societies (RoS), will be all inclusive and progressive and that it would not repeat the mistakes made by PAS. It will try to embrace the aspirations of all Malaysians and offer membership at two levels&#8211;one for Muslims and the other for non-Muslims.</p>
-<p>Although the controversial syariah law, Hudud, will be part of the new party&#8217;s agenda, its leaders have not fully elaborated as to how this will be implemented.</p>
-<p>Mat Sabu and his friends are also aware that too much focus on Hudud will be suicidal for the new party. For this progressive group, some matters are best left untouched at least for the moment, until of course; they get formal approval from the RoS.</p>
-<p>Forming a new party with the ultimate objective of forging a new and progressive coalition is something desirable especially when the country&#8217;s general election is two years away.</p>
-<p>The formation of a new party also tells us that all is not well with PAS. PAS is no more the party that is united and cohesive. Internal politics is raging. Progressive members and those who have disagreed with the policies of the party have nowhere to go except to think of a new party.</p>
-<p>There has been a mixed response to the new formation. DAP and PKR, as expected, have welcomed its formation. Both the parties tired and bored with the pro-Umno policies of PAS&#8217; leadership, are eagerly waiting to join hands with a new Malay-based opposition to confront Umno/BN. The Malaysian middle-class, tired of putting up with religious and racial sentiments, are looking forward to the new party so that a new coalition can be constituted to provide an alternative for Malaysians.</p>
-<p>As soon as the new movement was announced, PAS leaders, not surprisingly, shot it down by saying it was formed by members who have close association with DAP, a Chinese dominated party. The core group behind the new party were labelled as &#8220;lackeys&#8221; of the DAP. One PAS leader went to the extent of saying the new party is &#8220;satanic&#8221; as its objectives were not Islamic at all.</p>
-<p>Utusan Malaysia, the mouth-piece of Umno, condemned the formation of the new party as yet another attempt by Mat Sabu and group to split and weaken the Malays.</p>
-<p>Forming political parties or political coalitions is not difficult. What is difficult is for them to negotiate through the rough waters of Malaysian politics. It is not enough to label the party as the “New Hope Movement”. It is more important to see if the leaders will be able to convince Malaysians that they are going to move in the right direction.</p>
-<p><em>P Ramasamy is a DAP member, state assemblyman for Prai and deputy chief minister II of Penang.</em></p>
-<p><em><strong>With a firm belief in freedom of expression and without prejudice, FMT tries its best to share reliable content from third parties. Such articles are strictly the writer’s personal opinion. FMT does not necessarily endorse the views or opinions given by any third party content provider.</strong></em></p>
-<br/><script type="text/javascript" async src="http://www.freemalaysiatoday.com/?top_ten_id=570172&top_ten_blog_id=1&activate_counter=10"></script><div class='code-block code-block-2 ai-viewport-1' style='text-align: center; margin: 8px auto;'> 
- 
-<div id="taboola-below-article-recirculationthumbnails"></div>
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({
-    mode: 'organic-thumbnails-a',
-    container: 'taboola-below-article-recirculationthumbnails',
-    placement: 'Below Article RecirculationThumbnails',
-    target_type: 'mix'
-  });
-</script>
- 
-<div class='code-block code-block-6 ai-viewport-1' style='text-align: center; margin: 8px auto;'> 
- 
- 
- 
-<div id="taboola-below-article-thumbnails"></div>
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({
-    mode: 'thumbnails-a',
-    container: 'taboola-below-article-thumbnails',
-    placement: 'Below Article Thumbnails',
-    target_type: 'mix'
-  });
-</script>
- </div>
- 
- 
-<img height='0' width='0' alt='' src='//pixel.watch/6r1i'/>
-<script class="carambola_InContent" type="text/javascript">
-(function (i,d,s,o,m,r,t,g) {
-var e=d.getElementById(r);if(e===null){
-var t = d.createElement(o); t.src = g; t.id = r; t.setAttribute(m, s);t.async = 1;var n=d.getElementsByTagName(o)[0];n.parentNode.insertBefore(t, n);} else if(typeof i[t]!=='undefined'){i[t]++}
-else{i[t]=1}
-})(window, document, 'ic', 'script', 'cbola', 'carambola_proxy','Cbola_IC','http://route.carambo.la/inimage/getlayer?pid=mtdy39&did=110516')
-</script>
- 
- 
-<div id='div-gpt-ad-1458128296538-0'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { 
-googletag.defineSlot('/26812591/FMT_ROS_DFP_RESPONSIVE_FOOTER', [[320, 480], [468, 60], [336, 280], [728, 90]], 'div-gpt-ad-1458128296538-0').addService(googletag.pubads());
-googletag.pubads().collapseEmptyDivs();
-googletag.enableServices();
-googletag.display('div-gpt-ad-1458128296538-0'); });
-</script>
-</div>
- 
- 
- 
- </div> </div> 
- 
-<div class="clearfix"></div>
- 
- 
-<h2>Comments</h2>
-<p class="comment-message">Readers are required to have a valid Facebook account to comment on this story. We welcome your opinions to allow a healthy debate. We want our readers to be responsible while commenting and to consider how their views could be received by others. Please be polite and do not use swear words or crude or sexual language or defamatory words. FMT also holds the right to remove comments that violate the letter or spirit of the general commenting rules.<BR><BR>The views expressed in the contents are those of our users and do not necessarily reflect the views of FMT.</p>
- 
- <h3>Comments</h3><div class="fb-comments" data-href="http://www.freemalaysiatoday.com/category/opinion/2015/07/16/is-there-hope-in-gerakan-harapan-baru/" data-numposts="10" data-width="660" data-colorscheme="light"></div>
- 
-<div class="clearfix"></div>
- 
-<div class="toolbox-wrapper">
-<div class="toolbox-left">
-<div class="toolbox-sharethis-1">
-<div class="toolbox-label">Share this story</div>
-<span class="st_facebook_vcount" displayText="Share"></span>
-<span st_via='fmtoday' st_username='fmtoday' class="st_twitter_vcount" displayText="Tweet"></span>
-</div>
-<div class="toolbox-sharethis-2">
-<span class="st_email_vcount" displayText="Email"></span>
-<span class="st_sharethis_vcount" displayText="Share"></span>
-</div>
-<div class="toolbox-postmanager">
-<a style='display:block' href='.' onClick='CleanPrint(); return false' class='xbutton' title='Print PDF Email'><img src='/images/CleanPrintCustom.png'/></a>
-</div>
-</div>
-<div class="toolbox-right">
-<div class="toolbox-navigation-1">
-<div class="alignleft"><a href="http://www.freemalaysiatoday.com/category/nation/2015/07/16/ali-tinju-claims-trial-for-seditious-remarks-at-low-yat-plaza/">Previous Story</a></div>
-<div class="alignright"><a href="http://www.freemalaysiatoday.com/category/bahasa/2015/07/16/video-pengakuan-sr-tidak-dapat-bersih-imej-pm/">Next Story</a></div>
-</div>
-<div class="toolbox-navigation-2">
-<div class="alignleft-title"><a href="http://www.freemalaysiatoday.com/category/nation/2015/07/16/ali-tinju-claims-trial-for-seditious-remarks-at-low-yat-plaza/">Ali Tinju claims trial for seditious remarks at Low Yat</a></div>
-<div class="alignright-title"><a href="http://www.freemalaysiatoday.com/category/bahasa/2015/07/16/video-pengakuan-sr-tidak-dapat-bersih-imej-pm/">Pengakuan video tidak dapat bersih imej PM</a></div>
-</div>
-<div class="toolbox-author">
-</div>
-<div class="toolbox-tag">
-<div class="toolbox-label">Explore topics</div>
-<p class="tags"><a href="http://www.freemalaysiatoday.com/category/tag/top-news/" rel="tag">Top News</a></p> </div>
-</div>
-</div> 
-<p class="separator-2"></p>
-</div> 
-</div> 
-<div class="wrapper-right-column">
- 
-<div id="sidebar">
-<div id="leftline-sidebar">
-<div id="execphp-11" class="side-widget widget_execphp"><h3>ROS Med.Rect 1</h3> <div class="execphpwidget"> 
-<div id='div-gpt-ad-1456883781828-0' style='height:250px; width:300px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { 
- googletag.defineSlot('/26812591/FMT_ROS_RSidebar_1_300x250', [300, 250], 'div-gpt-ad-1456883781828-0').addService(googletag.pubads());
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-googletag.display('div-gpt-ad-1456883781828-0'); });
-</script>
-</div></div>
-</div><div id="execphp-8" class="side-widget widget_execphp"><h3>Taboola ROS 1</h3> <div class="execphpwidget"> 
- 
-<div id="taboola-right-rail-article-thumbnails"></div>
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({
-    mode: 'thumbnails-rr',
-    container: 'taboola-right-rail-article-thumbnails',
-    placement: 'Right Rail Article Thumbnails',
-    target_type: 'mix'
-  });
-</script>
-</div>
-</div><div id="execphp-13" class="side-widget widget_execphp"><h3>ROS Med.Rect 2</h3> <div class="execphpwidget"> 
-<div id='div-gpt-ad-1456883926183-0' style='height:250px; width:300px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { 
- googletag.defineSlot('/26812591/FMT_ROS_RSidebar_2_300x250', [300, 250], 'div-gpt-ad-1456883926183-0').addService(googletag.pubads());
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-googletag.display('div-gpt-ad-1456883926183-0'); });
-</script>
-</div></div>
-</div> 
- 
-<div id="widget_tptn_pop-3" class="side-widget widget_widget_tptn_pop"><h3>Most Read News</h3><div class="tptn_posts_daily  tptn_posts_widget tptn_posts_widget3"><div class="side-widget-custom" style="background-color:#D3D3D3!important"><img src="http://www.freemalaysiatoday.com/images/fmt2014/2016-Most-viewed.jpg" width="300" height="121"><ul><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/jjptr-collapse-investors-rm500-mil-may-go-up-in-smoke/" class="tptn_link"><span class="tptn_title">JJPTR collapse: Investors&#8217; RM500 million may go up in&hellip;</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/it-was-just-for-drama-says-raja-bomoh-over-antics/" class="tptn_link"><span class="tptn_title">&#8216;It was just for drama,&#8217; says Raja Bomoh over&hellip;</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/school-explains-refusal-to-comment-on-boy-who-lost-legs/" class="tptn_link"><span class="tptn_title">School explains refusal to comment on boy who lost legs</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/malay-man-pays-tribute-to-chinese-school-on-wedding-day/" class="tptn_link"><span class="tptn_title">Malay man pays tribute to Chinese school on wedding day</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/malaysia-airlines-may-become-biggest-turnaround-in-history-says-ceo/" class="tptn_link"><span class="tptn_title">CEO: Malaysia Airlines may become biggest turnaround in&hellip;</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/woman-charged-with-money-laundering-of-rm700000/" class="tptn_link"><span class="tptn_title">Woman charged with money laundering of RM700,000</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/waythamoorthy-denies-insulting-malays/" class="tptn_link"><span class="tptn_title">Waythamoorthy denies insulting Malays</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/world/2017/04/25/foreign-extremists-killed-in-philippine-clash/" class="tptn_link"><span class="tptn_title">Malaysian among 40 extremists killed in Philippine clash</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/nation/2017/04/25/comatose-boys-diary-reveals-abuse-plea-for-help/" class="tptn_link"><span class="tptn_title">Comatose boy&#8217;s diary reveals abuse, plea for help</span></a></span><div class="sidebar-divider"></div></li><li><span class="tptn_after_thumb"><a href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/25/waythamoorthy-nafi-hina-orang-melayu/" class="tptn_link"><span class="tptn_title">Waythamoorthy nafi hina orang Melayu</span></a></span><div class="sidebar-divider"></div></li></ul></div><div class="tptn_clear"></div></div></div> 
-<div id="execphp-35" class="side-widget widget_execphp"><h3>ROS Med.Rect 3</h3> <div class="execphpwidget"> 
-<div id='div-gpt-ad-1472235797660-0' style='height:250px; width:300px;'>
-<script>
-googletag.cmd.push(function() { 
-googletag.defineSlot('/26812591/FMT_ROS_RSidebar_3_300x250', [300, 250], 'div-gpt-ad-1472235797660-0').addService(googletag.pubads());
-googletag.pubads().collapseEmptyDivs();
-googletag.enableServices();
-googletag.display('div-gpt-ad-1472235797660-0'); });
-</script>
-</div></div>
-</div> 
- 
-<div id="execphp-23" class="side-widget widget_execphp"><h3>Opinion SB</h3> <div class="execphpwidget"> 
-<div class="side-widget-custom" style="background-color:#D3D3D3!important;">
-<a href="http://www.freemalaysiatoday.com/category/opinion/"><img src="http://www.freemalaysiatoday.com/images/fmt2014/fmt2014-widget-title-opinion.jpg" width="300" height="92"></a>
-<ul>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/opinion/2017/04/25/fostering-unity-through-the-creative-arts/">Fostering unity through the creative arts</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/opinion/2017/04/25/lets-not-allow-an-outsider-to-divide-us-further/">Let’s not allow an outsider to divide us further</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/opinion/2017/04/25/sains-dan-cabaran-dakyah-pseudosains/">Sains dan cabaran dakyah pseudosains</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/opinion/2017/04/25/1mdb-settlement-with-ipic-poses-more-questions/">1MDB ‘settlement’ with IPIC raises more questions</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/opinion/2017/04/24/ipic-1mdb-settlement-to-be-borne-by-malaysian-taxpayers/">IPIC-1MDB settlement to be borne by Malaysian taxpayers</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/opinion/2017/04/24/faktor-emosi-punca-trump-menang-ahok-kalah/">Faktor emosi punca Trump menang, Ahok kalah</a><div class="sidebar-divider"></div></li>
-</ul>
-<div style="padding-bottom:10px;"><a style="text-align:left!important;float:left!important;padding:0px 15px 0px 15px; margin:0px 0px 15px 0px;" href="http://www.freemalaysiatoday.com/category/opinion/">More...</a><BR></div>
-</div></div>
-</div> 
- 
- 
-<div id="execphp-26" class="side-widget widget_execphp"><h3>FMT Bahasa</h3> <div class="execphpwidget"> 
-<div class="side-widget-custom" style="background-color:#D3D3D3!important;">
-<a href="http://www.freemalaysiatoday.com/category/bahasa/"><img src="http://www.freemalaysiatoday.com/images/fmt2014/fmt2014-widget-title-fmt-bahasa.jpg" width="300" height="91"></a>
-<ul>
- 
-<li><a class="" href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/26/universiti-ambil-tindakan-pensyarah-guna-gelaran-akademik-palsu/">&#8216;Universiti ambil tindakan pensyarah guna gelaran akademik palsu&#8217;</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/25/dap-pelan-tindakan-kaum-india-hanya-gimik-politik-bn/">DAP: Pelan tindakan kaum India hanya gimik politik BN</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/25/pulau-pinang-mahu-guar-kepah-diberi-status-warisan-dunia/">Pulau Pinang mohon Guar Kepah diiktiraf tapak warisan dunia</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/25/wanita-indonesia-maut-disambar-petir-di-klia/">Wanita Indonesia maut disambar petir di KLIA</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/25/pengetua-tahfiz-tak-jawab-dakwaan-demi-hormat-keluarga-thaqif/">Pengetua tahfiz: Tak jawab dakwaan demi hormat keluarga Thaqif</a><div class="sidebar-divider"></div></li>
-<li><a class="" href="http://www.freemalaysiatoday.com/category/bahasa/2017/04/25/sanjeevan-ambil-tindakan-terhadap-pesalah-bukan-pemberi-maklumat/">Sanjeevan: Ambil tindakan terhadap pelaku, bukan pemberi maklumat</a><div class="sidebar-divider"></div></li>
-</ul>
-<div style="padding-bottom:10px;"><a style="text-align:left!important;float:left!important;padding:0px 15px 0px 15px; margin:0px 0px 15px 0px;" href="http://www.freemalaysiatoday.com/category/bahasa/">More...</a><BR></div>
-</div></div>
-</div> 
-<div id="execphp-24" class="side-widget widget_execphp"><h3>Misc Ads &#8211; Movie Content</h3> <div class="execphpwidget"> 
-<div id='div-gpt-ad-1455112966495-0' style='height:250px; width:300px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { 
-googletag.defineSlot('/26812591/FMT-ROSMR-SPECIAL', [300, 250], 'div-gpt-ad-1455112966495-0').addService(googletag.pubads());
-googletag.pubads().collapseEmptyDivs();
-googletag.enableServices();
-googletag.display('div-gpt-ad-1455112966495-0'); });
-</script>
-</div></div>
-</div><div id="execphp-22" class="side-widget widget_execphp"><h3>Facebook Page</h3> <div class="execphpwidget"><iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ffreemalaysiatoday&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px; background-color:#FFFFFF!important;" allowTransparency="false"></iframe></div>
-</div>
-</div>  
-</div> 
-</div> 
-<div class="clearfix"></div>
-</div> 
- 
-<div class="wrapper-footer">
-<p><a href="http://www.freemalaysiatoday.com">Home</a> | <a href="http://www.freemalaysiatoday.com/about/">About Us</a> | <a href="http://www.freemalaysiatoday.com/disclaimers-copyright/">Disclaimers / Copyright</a> | <a href="http://www.freemalaysiatoday.com/advertise/">Advertise</a> | <a href="http://www.freemalaysiatoday.com/contact-us/">Contact Us</a> | Copyright (C) 2009-2016 MToday News Sdn. Bhd. All Rights Reserved. </p>
-</div> 
-<div class="clearfix"></div>
-</div> 
- 
- 
-<div id='div-gpt-ad-1474308961160-0'>
+
+
 <script>
 googletag.cmd.push(function() {
-    googletag.defineSlot('/26812591/FMT-ROS-STORY-OUTOFPAGE', [1, 1], 'div-gpt-ad-1474308961160-0').addService(googletag.pubads());
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-    googletag.display('div-gpt-ad-1474308961160-0'); });
-</script>
-</div>
- 
- <script type='text/javascript'>
-/* <![CDATA[ */
-var scriptParams = {"google_search_engine_id":"010917662613747052974:34lth2wd9pg"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"6c95b6055a","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/www.freemalaysiatoday.com\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
-var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=1.8.9'></script>
-<script type='text/javascript' src='http://www.freemalaysiatoday.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
- 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=170260162989134&version=v2.3";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
- 
-<script type="text/javascript">
-		jQuery(function($) {
-			$("#carousel-image-text-horizontal").touchCarousel({			
-				itemsPerMove: 3,
-				pagingNav: true,
-				scrollbar: false,				
-				scrollToLast: true,
-				loopItems: true,	
-				autoplay:true,
-				autoplayDelay:4000,
-				autoplayStopAtAction:true
-			});	
-		});
-    </script>
- 
- 
-<script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(66367940);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66367940ns.gif"/></p></noscript>
- 
- 
-<!-- google_ad_section_end -->
- 
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({flush: true});
-</script>
- 
- 
-<script src="//d2g9qbzl5h49rh.cloudfront.net/static/feedback2.js?3.3.7638" type="text/javascript">
-var JFL_51745913540455 = new JotformFeedback({
-formId:'51745913540455',
-base:'http://jotform.me/',
-windowTitle:'CONTRIBUTE',
-background:'#FFA500',
-fontColor:'#FFFFFF',
-type:false,
-height:500,
-width:700,
-openOnLoad:false
+  googletag.defineSlot('/32246135/Malaysia-970x90-1', [970, 90], 'div-gpt-ad-1376302465347-3').addService(googletag.pubads());
+  googletag.defineSlot('/32246135/Malaysia-300x250-1', [300, 250], 'div-gpt-ad-1372880913597-17').addService(googletag.pubads());
+  googletag.defineSlot('/32246135/Articles-300x250', [300, 250], 'div-gpt-ad-1384253926950-0').addService(googletag.pubads());
+  googletag.defineSlot('/32246135/Malaysia-160x600', [160, 600], 'div-gpt-ad-1372880913597-16').addService(googletag.pubads());
+  googletag.defineSlot('/32246135/Native-620x120', [620, 100], 'div-gpt-ad-1462897492045-0').addService(googletag.pubads());
+  googletag.defineSlot('/32246135/Native-300x135', [300, 135], 'div-gpt-ad-1462930442765-0').addService(googletag.pubads());
+  googletag.defineOutOfPageSlot('/32246135/STO-800x600', 'div-gpt-ad-1476860416068-0').addService(googletag.pubads());
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.enableServices();
 });
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-13201505-2', 'auto');
-  ga('send', 'pageview');
-
+(function ($) {
+$(document).ready(function() {
+  // Attach onclick event to document only and catch clicks on all elements.
+  $(document.body).click(function(event) {
+    // Catch the closest surrounding link of a clicked element.
+    $(event.target).closest("a,area").each(function() {
+                ga('send', 'event', 'Image Click', $('img', this).attr('alt'), $(this).attr('href'), {useBeacon: true});
+    });
+  });   
+});
+})(jQuery);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8374ea6517","applicationID":"43127788","transactionName":"YQRWNRQDWUpRVhFZXVhOdxQVFlhUH2YMXlVaBBRMRjJYSkQ=","queueTime":0,"applicationTime":249,"atts":"TUNBQ1wZShUSVEcKSUsc","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+
+<style type="text/css">body video {min-height: 270px !important;}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="st_insights_js" src="http://w.sharethis.com/button/buttons.js?publisher=cdf48aa9-5102-4825-9135-8b70ded8e74b"></script>
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript">stLight.options({publisher: "cdf48aa9-5102-4825-9135-8b70ded8e74b", doNotHash:false, doNotCopy:false, hashAddressBar:false});</script>
+
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+</head>
+
+<body>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "16950892" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=16950892&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="heading" class="nt_hazy">
+
+
+	<div class="pre-head">
+		<div class="container">
+	  		<ul class="pull-left">
+	  		        
+				
+
+				
+				<li style="font-size: 13px; color: white;"><a href="/recomn" target="_blank" onclick="ga('send', 'event', 'recomn-top-menu-link-desktop', 'click', 'recomn-top-link-desktop', {useBeacon: true});"><strong style="font-size: 13px; color: #911344; background-color: #FFFFFF; padding-left: 3px; padding-right: 1px; padding-bottom: 1px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; background-clip: padding-box; -webkit-background-clip: padding-box; -moz-background-clip: padding-box; margin-right: -3px; text-transform: none;">RecomN - Local Services</strong></a>|&nbsp;<a href="http://www.themalaymailonline.com/about" style="margin-right: 3px;">About Us</a>|&nbsp;<a href="http://www.themalaymailonline.com/e-paper" style="margin-right: 3px;">E-Paper</a>|&nbsp;<a href="http://www.themalaymailonline.com/search" style="margin-right: 3px;">Search</a>|&nbsp;<a href="http://m.themalaymailonline.com/" style="font-weight: bold; font-size: 14px;">MOBILE</a></li>
+				<li class="highlight-yellow" style="margin-left: 75px;"><a href="/projekmmo" style="font-color:#FFFF00; font-size: 15px;">KLIK UNTUK PROJEKMMO</a></li>
+				<li style="margin-left: 90px; display: inline-block; text-align: -webkit-match-parent;"><a href="/chinese" style="font-size: 15px; font-weight: bold; color: #EC1260; background-color: #FFFFFF; padding-left: 2px; padding-right: 2px; padding-bottom: 1px; border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; background-clip: padding-box; -webkit-background-clip: padding-box; -moz-background-clip: padding-box; text-transform: none;" target="_blank">点击M中文网</a></li>
+				
+
+				
+                        </ul>
+
+	  		<ul class="pull-right social-media">
+				
+  				<li><a href="https://www.facebook.com/themalaymailonline" class="facebook" target="_blank">Facebook</a></li>
+  				<li><a href="http://twitter.com/themmailonline" class="twitter" target="_blank">Twitter</a></li>
+  				<li><a href="http://www.themalaymailonline.com/feed" class="rss" style="margin-right: 0;">RSS</a></li>
+				
+
+				
+	  		</ul>
+  		</div>	
+  	</div>	
+
+	<div class="head-nv">
+		<div class="container">
+			<div class="site-info">
+				<div class="container">
+		  			<div class="masthead" style="float: left; padding-top: 5px;">
+		  										
+		  				<div class="logo pull-left" style="padding-top: 5px;">
+							<a href="http://www.themalaymailonline.com/" alt="Malay Mail Online"><img src="/uploads/masthead/masthead-2014-mmo-170x90-darker-more.png" /></a>
+		  				</div>
+						
+
+						
+
+							
+
+
+			  			<div class="ads leaderboard-970" style="margin-top: 8px; margin-bottom: 10px; padding-left: 200px; text-align: center; height: 90px;">
+							
+							
+																																																								
+															
+																	
+																				<div id='div-gpt-ad-1376302465347-3' style='width:970px; height:90px; position: absolute; text-align: center; z-index: 9999;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1376302465347-3');});
+</script>
+</div>
+
+
+									
+								
+															
+							
+
+							
+							
+							
+							
+
+							
+
+														
+							
+							
+							
+	       		                        </div>	
+
+						<div class="updated-info pull-left" style="margin-top: 12px; margin-bottom: -5px;"><p class="small"><strong style="font-size: 12px;">Last updated -- GMT+8</strong></p></div>
+					</div>	
+
+							  			<div class="search pull-right">
+
+						<div class="weather-info pull-left" style="margin-top: -20px; padding-right: 0px; margin-bottom: -5px;"><p class="small"><strong style="font-size: 12px;">Kuala Lumpur 25&deg;C, Haze</strong></p></div>
+
+						
+
+	  				</div>	
+
+
+				</div>  
+			</div>	
+		</div>  
+  	</div>  
+
+	<div class="pre-head" style="background: none; background-color: white; padding: 0;">
+  		<div class="container">
+			
+	  		<ul class="center" style="margin: 3px 0 2px; font-size: 15px; font-weight: bold;">
+				<li style="margin-left: 10px;"><a href="http://www.themalaymailonline.com/videos"  style="color: #00D5FF;">MMOTV</a></li>
+                                <li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/"  style="color: #000000;">News</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/malaysia" class="selected" style="color: #CC0001;">Malaysia</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/world"  style="color: #1BB0F5;">World</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/money"  style="color: #F5D41B;">Money</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/features"  style="color: #1B6DF5;">Life</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/showbiz"  style="color: #B876FB;">Showbiz</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/opinion"  style="color: #008000;">Opinion</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/sports"  style="color: #F54E1B;">Sports</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/eat-drink"  style="color: #E3BA8A;">Eat/Drink</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/travel"  style="color: #F51B8C;">Travel</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/read"  style="color: #A5EB0E;">Read</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/tech-gadgets"  style="color: #0EE7B1;">Tech/Gadgets</a></li>
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/drive"  style="color: #B4B9E2;">Drive</a></li>
+
+				
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/gallery/view/may-the-fourth-be-with-you-2017"  style="color: #666666;">Gallery</a></li>
+				
+			</ul>
+			
+
+			
+		</div>  
+	</div>  
+
+</div>	
+
+
+
+
+
+
+<div id="article" class="section malaysia">
+	<div class="container">
+		<div class="row-section">
+			<div class="section-840">
+				
+
+				
+				
+				
+
+                                <div class="section-200" style="margin-top: 8px;">
+					<span class="muted title" style="font-size: 18px; font-weight: bold; border: none;"><a href="/malaysia" style="color: #CC0001; border-bottom: 1px;">Malaysia</a></span>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</div>
+
+				<div class="article-meta malaysia" style="margin-left: 220px; margin-bottom: 30px;">
+					<h2 class="headlines" style="border: none;">Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’</h2>
+										<h2 class="headlines" style="margin-top: -15px;"></h2>
+				</div>
+
+				<div class="section-200" style="margin-top: -10px;">
+					<p style="margin-top: -20px; border-top: 1px solid #ccc; padding-top: 10px; padding-bottom: 10px; font-size: 12px;"><span class="muted">Thursday July 16, 2015<br />07:21 AM GMT+8</span></p>
+									
+
+					<div class="column-box">
+						<div class="column-title"><h3 class="pull-left">ICYMI</h3></div>
+						
+						<p style="margin-bottom: 30px;"><a href="/features/article/social-smoking-is-just-as-risky-for-heart-health-as-an-everyday-habit-study" class="strong"><img src="/images/sized/uploads/articles/0302_CIGARETTES-SMOKING-REPORT-180x130.JPG" width="180" height="130"  alt="The Edit: Social smoking just as risky as an everyday habit" class="left" />The Edit: Social smoking just as risky as an everyday habit</a></p>
+						
+						<p style="margin-bottom: 30px;"><a href="http://www.themalaymailonline.com/malaysia/article/climate-drags-down-kl-in-quality-of-life-survey-but-its-still-cheap-for-dat" class="strong"><img src="/images/sized/uploads/blurbs/2014-08/petronas_twin_towers_3008-180x130.jpg" width="180" height="130"  alt="KL drops in friendliness survey but still cheap for dating" class="left" />KL drops in friendliness survey but still cheap for dating</a></p>
+						
+						<p style="margin-bottom: 30px;"><a href="/features/article/celebrities-discover-the-fun-of-design" class="strong"><img src="/images/sized/uploads/articles/2017/2017-05/DESIGN_CELEBS_1_NYT_040517-180x130.JPG" width="180" height="130"  alt="The Edit: Celebrities discover the fun of furniture design" class="left" />The Edit: Celebrities discover the fun of furniture design</a></p>
+						
+						<p style="margin-bottom: 30px;"><a href="/showbiz/article/may-the-fourth-be-with-you-as-you-watch-mark-hamill-prank-fans-for-charity" class="strong"><img src="/images/sized/uploads/articles/2017/2017-05/Mark_Hamill_star_wars_prank_040517-180x130.jpg" width="180" height="130"  alt="The Edit: See Mark Hamill prank fans just in time for ‘Star Wars Day’" class="left" />The Edit: See Mark Hamill prank fans just in time for ‘Star Wars Day’</a></p>
+						
+					</div>
+
+					<div class="section-170">
+						<div class="column-box">
+							<div class="column-title"><h3 class="pull-left">Advertisement</h3></div>
+							
+							
+							
+							
+<div class="column-box">
+
+        
+
+    <div class="ads bottom">
+
+    <div id='div-gpt-ad-1372880913597-16' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() {googletag.display('div-gpt-ad-1372880913597-16');});
+    </script>
+    </div>
+
+    </div>
+
+</div>							
+							
+							
+							
+							
+							
+
+							
+
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+<div class="column-box">
+
+<div class="column-title"><h3 class="pull-left" style="margin-bottom: 10px;">More stories</h3></div>
+<div class="ads bottom">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Matched-Content-728x182 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:900px"
+     data-ad-client="ca-pub-3345947707676079"
+     data-ad-slot="3886112748"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+</div>
+
+					</div>
+				</div>	
+
+				
+				<div class="article-content" style="width: 620px; margin-right: 0; padding-left: 39px; margin-top: -14px;">
+					<div class="tool-box">
+  						<div class="share-this-wrapper">
+							<span class="st_fblike_vcount" displayText="Facebook Like" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_facebook_vcount" displayText="Facebook Share" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_twitter_vcount" displayText="Tweet" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG" st_via=""></span>&nbsp;&nbsp;
+							<span class="st_linkedin_vcount" displayText="LinkedIn" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_email_vcount" displayText="Email" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_plusone_vcount" displayText="Google +1" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>
+						</div>
+					</div>
+
+					<div class="tool-box" style="margin-left: 5px;">
+						<span class="features">Tools</span>
+						<ul>
+							<li><a href="javascript:void(0)" class="increase-font">Increase Text <i class="icon-zoom-in"></i></a></li>
+							<li><a href="javascript:void(0)" class="decrease-font">Decrease Text <i class="icon-zoom-out"></i></a></li>
+							<li><a href="javascript:void(0)" class="reset-font">Reset Text <i class="icon-refresh"></i></a></li>
+							<li><a href="/print/malaysia/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" target="blank">Print Article <i class="icon-print"></i></a></li>
+						</ul>
+					</div>
+
+					
+
+					
+
+					
+
+
+					
+
+					<p>
+	<span class="caption-box pull-left" style="float: left; width: 620px;"><img alt="On Monday, PAS’s defeated professional faction launched the new movement called GHB which they plan to later register as a political party. ― File pic" height="394" src="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG" style=" float: left;" width="620"><span class="img-caption">On Monday, PAS’s defeated professional faction launched the new movement called GHB which they plan to later register as a political party. ― File pic</span></span>KUALA LUMPUR, July 16 ― A Muslim online group has cast doubt on PAS leader Dr Mohd Zuhdi Marzuki’s attack on the Gerakan Harapan Baru (GHB) splinter movement, questioning his sincerity in accusing the latter group of straying from Islam.</p>
+<p>
+	The Internet-based group called Suara Muslim Merdeka (SMM) also chastised the clergy class in PAS for its alleged “aggressive strategy” of slander and name-calling, which it said has turned the Islamist party into an exclusive “club” for those who pander to the clerics.</p>
+<p>
+	“What was he actually trying spin by issuing such statements? Was it to show that GHB is not Islamic, or was it just to criticise GHB for not fitting to the demands and reasonings of the ustaz gang, of which Zuhdi is one?” asked the group’s representative Azzam Ahmad in a statement.</p>
+<p>
+	On Tuesday, PAS central working committee member Zuhdi accused GHB members of cosying up to so-called “liberals” such as women rights group Sisters in Islam (SIS), civil society Lawyers for Liberty, and the lesbian, gay, bisexual and transgenders (LGBT).</p>
+<p>
+	Zuhdi also claimed that GHB has strayed from Islamic teachings by adopting a stance similar to Indonesian group Jaringan Islam Liberal and the American strain of progressive Islam.</p>
+<p>
+	But SMM explained that GHB members’ involvement with the groups named by Zuhdi has only been limited to dialogues and discourse to correct their perception of Islam.</p>
+<p>
+	“What has Zuhdi’s friends, this ustaz gang, done besides labeling GHB? Has it debated with SIS activists?” asked Azzam.</p>
+<p>
+	“Have they given free legal aid to wives and children who were abandoned, to break the support base of SIS that it has built through its charity work?”</p>
+<p>
+	The group also criticised the contribution of several PAS leaders to the party in terms of ideas and policies, especially former Youth chief Nasruddin Hassan; president Datuk Seri Abdul Hadi Awang’s son-in-law, Zaharuddin Muhammad; and Youth chief Nik Mohamad Abduh Nik Abd Aziz.</p>
+<p>
+	On Monday, PAS’s defeated professional faction launched the new movement called GHB which they plan to later register as a political party, and will go on a nationwide tour from now until August to convey to the public its goals.</p>
+<p>
+	Selangor PAS has since sacked all its members who are involved with the movement, despite the federal PAS saying that no action will be taken as long as there are no complaints lodged against them.</p>
+<p>
+	PAS Ulama Wing has also warned party members today against GHB’s “satanic” invitation to leave the party, claiming a new party formed by GHB will solely be fueled by its members’ “resentment”.</p>
+
+
+					
+
+					
+
+					<div class="tool-box" style="margin-top: 30px;">
+						<div class="share-this-wrapper">
+							<span class="st_fblike_vcount" displayText="Facebook Like" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_facebook_vcount" displayText="Facebook Share" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_twitter_vcount" displayText="Tweet" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG" st_via=""></span>&nbsp;&nbsp;
+							<span class="st_linkedin_vcount" displayText="LinkedIn" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_email_vcount" displayText="Email" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>&nbsp;&nbsp;
+							<span class="st_plusone_vcount" displayText="Google +1" st_url="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" st_title="Muslim group slams PAS man for demonising Harapan Baru with ‘liberalism’" st_image="http://www.themalaymailonline.com/uploads/articles/2015-07/sabu1307.JPG"></span>
+						</div>
+
+						<div style="margin-top: 35px; text-align: left">
+
+<!-- /32246135/Native-620x120 -->
+<div id='div-gpt-ad-1462897492045-0' style='height:100px; width:620px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1462897492045-0');});
+</script>
+</div>
+
+</div>
+
+
+						
+
+						<div class="comments">
+							<div class="tool-box">
+
+								<div style="margin-top: 30px; text-align: left;">
+
+<div class="OUTBRAIN" data-src="http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism" data-widget-id="AR_1" data-ob-template="MalayMailOnlinenews"></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+
+</div>
+
+								<h3>
+									<script>
+										var idcomments_acct = 'a8d25b12c282a4cb2e69b444cd9d6aec';
+										var idcomments_post_id = '934217';
+										var idcomments_post_url = 'http://www.themalaymailonline.com/malaysia/article/muslim-group-slams-pas-man-for-demonising-harapan-baru-with-liberalism';
+									</script>
+								</h3>
+
+								<span id="IDCommentsPostTitle" style="display:none"></span>
+								<script type='text/javascript' src='http://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+							</div>
+						</div>
+
+						
+
+						
+<h3 style="margin-top: 20px; margin-bottom: 0px; text-align:left; font-size: 17px; color: #000; border-bottom: 3px solid #ccc;">MORE ON MMOTV</h3>
+
+
+<script src="https://content.jwplatform.com/players/RFRJGFO9-9Z8ztw0B.js"></script>
+
+
+			                </div>
+				</div>	
+
+				
+			</div>	
+
+			<div class="section-300 last-col">
+				
+				
+				
+				
+								
+				
+
+                                										<div class="ads bottom" style="margin-top: -15px;">
+
+<div id='div-gpt-ad-1372880913597-17' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1372880913597-17');});
+</script>
+</div>
+
+</div>				
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				<div class="column-box">
+					
+									</div>
+
+				  
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column-box tab">
+    <div class="column-title">
+        <h3 class="pull-left" style="letter-spacing: 0.3px;">Most Viewed</h3>
+        
+
+        <ul class="tabs pull-right">
+        <li class="active"><a href="#now" data-toggle="tab">Now</a></li>
+        
+
+        <li><a href="#week" data-toggle="tab">Week</a></li>
+        
+        </ul> 
+    </div>
+
+			<div class="tab-content">
+
+				<div class="tab-pane active fade in" id="now">
+					<ul class="column-list">
+						
+							
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/megadeth-frontman-thanks-pas-for-no-protest">Megadeth frontman thanks PAS for no protest</a></li>
+																							
+						
+							
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/its-melaka-not-malacca-from-now-on">It’s Melaka, not Malacca from now on</a></li>
+																							
+						
+							
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/sharks-caught-as-promised-macc-chief-says-in-war-on-corruption">‘Sharks’ caught as promised, MACC chief says in war on corruption</a></li>
+																							
+						
+							
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/malaysia-vision-valley-to-draw-rm290b-in-investments">Malaysia Vision Valley to draw RM290b in investments, says PM</a></li>
+																							
+						
+							
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/bn-to-adopt-new-electoral-candidate-selection-method-for-penang">BN to adopt new electoral candidate selection method for Penang</a></li>
+																							
+						
+					</ul>
+				</div>
+                                
+                                 <div class="tab-pane fade in" id="week">
+                                         <ul class="column-list"> 
+                                            
+						
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/its-melaka-not-malacca-from-now-on">It’s Melaka, not Malacca from now on</a></li>
+																						
+                                             
+						
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/tahfiz-school-ignores-angry-netizens-over-students-death">Tahfiz school ignores angry netizens over student’s death</a></li>
+																						
+                                             
+						
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/under-fire-chess-tourney-director-says-never-saw-girl-or-seductive-dress">Under fire, chess tourney director says never saw girl or 'seductive' dress</a></li>
+																						
+                                             
+						
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/increase-minimum-wage-to-rm1500-putrajaya-told">Increase minimum wage to RM1,500, Putrajaya told</a></li>
+																						
+                                             
+						
+																	<li><a href="http://www.themalaymailonline.com/malaysia/article/taiping-pre-war-buildings-battered">Taiping pre-war buildings battered</a></li>
+																						
+                                                
+                                         <ul>
+                                </div>
+
+			</div>
+		</div>
+
+
+
+
+
+				<div style="margin-bottom: 20px; border-bottom: 1px solid #D0D0D0;">		<div class="column-box tab" style="margin-bottom: 10px;">
+
+			<div class="column-title">
+				<h3 class="pull-left">Most Watched</h3>				
+				
+
+				<ul class="tabs pull-right">
+					<li class="active"><a href="#hour4" data-toggle="tab">Now</a></li>					
+					
+
+					<li><a href="#week4" data-toggle="tab">Week</a></li>					
+					
+				</ul>
+			</div>
+
+			<div class="tab-content">
+				<div class="tab-pane active fade in" id="hour4">
+					<ul class="column-list">
+						
+
+						
+
+							
+								
+									<li><a href="http://www.themalaymailonline.com/videos/world/watch/reuters-video-prince-philip-to-cease-royal-duties-in-autumn">
+										<span class="play-btn"></span>
+										<div class="video-placeholder" style="display: inline-block;float:left; width:100px; margin-right: 10px;"><img src="/images/sized/uploads/blurbs/2017/2017-05/prince_phil_040517-100x75.JPG" width="100" height="75"  alt="" /></div>
+										<p>Reuters Video: Prince Philip to cease royal duties in autumn</p></a>
+									</li>
+								
+							
+						
+
+						
+
+							
+								
+									<li><a href="http://www.themalaymailonline.com/videos/world/watch/reuters-video-myanmars-suu-kyi-meets-pope-francis">
+										<span class="play-btn"></span>
+										<div class="video-placeholder" style="display: inline-block;float:left; width:100px; margin-right: 10px;"><img src="/images/sized/uploads/blurbs/2017/2017-05/pope_francis_aungsan-100x75.jpg" width="100" height="75"  alt="" /></div>
+										<p>Reuters Video: Myanmar's Suu Kyi meets Pope Francis</p></a>
+									</li>
+								
+							
+						
+
+						
+
+							
+								
+									<li><a href="http://www.themalaymailonline.com/videos/world/watch/reuters-video-dust-storm-envelops-beijing">
+										<span class="play-btn"></span>
+										<div class="video-placeholder" style="display: inline-block;float:left; width:100px; margin-right: 10px;"><img src="/images/sized/uploads/blurbs/2017/2017-05/040517_beijing-100x75.JPG" width="100" height="75"  alt="" /></div>
+										<p>Reuters Video: Dust storm envelops Beijing</p></a>
+									</li>
+								
+							
+						
+					</ul>
+				</div>
+
+				<div class="tab-pane fade in" id="week4">
+					<ul class="column-list">
+						
+
+						
+
+							
+								
+									<li><a href="http://www.themalaymailonline.com/videos/showbiz/watch/reuters-video-cast-and-crew-of-the-beguiled-discuss-the-remake">
+										<span class="play-btn"></span>
+										<div class="video-placeholder" style="display: inline-block;float:left; width:100px; margin-right:10px;"><img src="/images/sized/uploads/blurbs/2017/2017-04/reuters_sofia_coppola_20170402-100x75.jpg" width="100" height="75"  alt="" /></div>
+										<p>Reuters Video: Cast and crew of ‘The Beguiled’ discuss the remake</p></a>
+									</li>
+								
+							
+						
+
+						
+
+							
+								
+									<li><a href="http://www.themalaymailonline.com/videos/showbiz/watch/tilda-swinton-unveils-strange-okja-promo-clip">
+										<span class="play-btn"></span>
+										<div class="video-placeholder" style="display: inline-block;float:left; width:100px; margin-right:10px;"><img src="/images/sized/uploads/blurbs/2017/2017-04/okja_viral_clip_280417-100x75.jpg" width="100" height="75"  alt="" /></div>
+										<p>Tilda Swinton unveils strange ‘Okja’ promo clip</p></a>
+									</li>
+								
+							
+						
+
+						
+
+							
+								
+									<li><a href="http://www.themalaymailonline.com/videos/world/watch/reuters-video-thai-man-murders-baby-commits-suicide-on-facebook-live">
+										<span class="play-btn"></span>
+										<div class="video-placeholder" style="display: inline-block;float:left; width:100px; margin-right:10px;"><img src="/images/sized/uploads/blurbs/2017/2017-04/thai_baby_murder_2604-100x75.JPG" width="100" height="75"  alt="" /></div>
+										<p>Reuters Video: Thai man murders baby, commits suicide on Facebook Live</p></a>
+									</li>
+								
+							
+						
+					</ul>
+				</div>
+			</div>
+		</div></div>
+
+				
+
+				<div class="column-box">
+    
+    
+    <div class="column-title"><h3 class="pull-left">Related Articles</h3></div>
+	<ul class="column-list">
+				
+		
+
+				<li><a href="http://www.themalaymailonline.com/malaysia/article/pakatan-worse-than-bn-says-pas-strategist">Pakatan worse than BN, says PAS strategist</a></li>
+		
+		
+		
+		
+
+				<li><a href="http://www.themalaymailonline.com/malaysia/article/third-bloc-a-loudspeaker-for-minority-voices-pas-researcher-says">Third bloc a ‘loudspeaker’ for minority voices, PAS researcher says</a></li>
+		
+		
+		
+		
+
+				<li><a href="http://www.themalaymailonline.com/malaysia/article/pas-says-ready-for-three-corner-seat-fights-against-bn-pakatan-harapan-in-g">PAS says ready for three-corner seat fights against BN, Pakatan Harapan in GE14</a></li>
+		
+		
+		
+		
+
+				<li><a href="http://www.themalaymailonline.com/malaysia/article/pas-says-cooperation-with-umno-limited-to-non-political-issues">PAS says cooperation with Umno limited to non-political issues</a></li>
+		
+		
+		
+		
+
+				<li><a href="http://www.themalaymailonline.com/malaysia/article/prove-it-kit-siang-tells-pas-pro-bn-ngos-after-israeli-naval-base-offer-cla">Prove it, Kit Siang tells PAS, pro-BN NGOs after Israeli naval base offer claim</a></li>
+		
+		
+		
+		
+				
+
+			</ul>
+
+</div>  
+
+				
+				
+
+                                										
+
+
+<div class="column-box">
+    <div class="column-title"><h3 class="pull-left">Advertisement</h3></div>    
+    
+
+<div id='div-gpt-ad-1384253926950-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1384253926950-0');});
+</script>
+</div>
+
+</div>				
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+				<div class="ads bottom">
+
+<div class="column-box">
+    <div class="column-title"><h3 class="pull-left">MMO Instagram</h3></div>
+    <script src="https://snapwidget.com/js/snapwidget.js"></script>
+    <iframe src="https://snapwidget.com/embed/209292" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+</div>
+
+
+</div>
+
+				<div class="column-box">
+	<div class="column-title"><h3 class="pull-left">Tweets by <a href="https://twitter.com/themmailonline" target="blank">@themmailonline</a></h3></div>
+
+<a class="twitter-timeline" width="300" height="600" href="https://twitter.com/themmailonline" data-widget-id="552363947295539201">Tweets by @themmailonline</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+			</div>	
+		</div>	
+	</div>	
+</div>	
+
+
+
+<div id="footer">
+            <div class="pre-footer" style="background: none; padding: 6px 0;">
+                    <div class="container">
+			
+	  		<ul style="font-size: 15px; font-weight: bold;">
+				<li style="margin-left: -5px;"><a href="http://www.themalaymailonline.com/videos"  style="color: #00D5FF;">MMOTV</a></li>
+                                <li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/"  style="color: #000000;">News</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/malaysia" class="selected" style="color: #CC0001;">Malaysia</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/world"  style="color: #1BB0F5;">World</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/money"  style="color: #F5D41B;">Money</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/features"  style="color: #1B6DF5;">Life</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/showbiz"  style="color: #B876FB;">Showbiz</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/opinion"  style="color: #008000;">Opinion</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/sports"  style="color: #F54E1B;">Sports</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/eat-drink"  style="color: #E3BA8A;">Eat/Drink</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/travel"  style="color: #F51B8C;">Travel</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/read"  style="color: #A5EB0E;">Read</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/tech-gadgets"  style="color: #0EE7B1;">Tech/Gadgets</a></li>
+				<li style="margin-left: -9px;"><a href="http://www.themalaymailonline.com/drive"  style="color: #B4B9E2;">Drive</a></li>
+				
+				<li style="margin-left: -9px; margin-right: -20px;"><a href="http://www.themalaymailonline.com/gallery/view/may-the-fourth-be-with-you-2017"  style="color: #666666;">Gallery</a></li>
+				
+			</ul>
+			
+
+			
+                    </div>
+            </div>
+
+  		<div class="copyright">
+
+  			<div class="container">
+
+  			<p class="pull-left" style="font-size: 12px;">Copyright &copy;  2017 Malay Mail Online</p>
+
+  			<p class="pull-right" style="font-size: 12px;"><a href="http://www.themalaymailonline.com/about">About Us</a> | <a href="http://www.themalaymailonline.com/about">Contact Us</a> | <a href="http://www.themalaymailonline.com/policy">Policies</a> | <a href="http://www.themalaymailonline.com/search">Search</a> | <a href="http://www.themalaymailonline.com/archive">Archive</a> | <a href="http://www.themalaymailonline.com/e-paper">E-Paper</a> | <a href="http://m.themalaymailonline.com"><strong>Mobile</strong></a> | <a href="http://www.themalaymailonline.com/projekmmo"><strong>ProjekMMO</strong></a> | <a href="/recomn" target="_blank" onclick="ga('send', 'event', 'recomn-bottom-menu-link-desktop', 'click', 'recomn-bottom-link-desktop', {useBeacon: true});"><strong style="font-size: 13px; color: #911344; background-color: #FFFFFF; padding-left: 3px; padding-right: 1px; padding-bottom: 1px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; background-clip: padding-box; -webkit-background-clip: padding-box; -moz-background-clip: padding-box; text-transform: none;">RecomN - Local Services</strong></a></p>
+
+  			</div>
+  		</div>
+  	</div>  
+
+
+<script src="http://www.themalaymailonline.com/new_assets/js/bootstrap.js"></script>
+<script src="http://www.themalaymailonline.com/new_assets/js/jquery.flexslider-min.js"></script>
+<script src="http://www.themalaymailonline.com/new_assets/js/jquery.fancybox.pack.js"></script>
+<script src="http://www.themalaymailonline.com/new_assets/js/jquery.flexslider.manualDirectionControls.js"></script>
+<script src="http://www.themalaymailonline.com/new_assets/js/jquery-ias.js"></script>
+<script src="http://www.themalaymailonline.com/new_assets/js/core.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 49019, domain: 'themalaymailonline.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+	(function() {
+		var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+		em.src = ('https:' == document.location.protocol ? 'https://my-ssl' : 'http://my-cdn') + '.effectivemeasure.net/em.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+	})();
+</script>
+<noscript>
+	<img src="//my.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+
+
+
+
+
+
+
+
+
+
+<script>
+var options={ "publisher": "cdf48aa9-5102-4825-9135-8b70ded8e74b", "position": "left", "ad": { "visible": false, "openDelay": 3, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "email", "googleplus"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+
+
+
+
+
+
+
+<div id='div-gpt-ad-1476860416068-0'><script>googletag.cmd.push(function() {googletag.display('div-gpt-ad-1476860416068-0');});</script></div>
+
+
+
+<script src="//tags.crwdcntrl.net/c/10625/cc_af.js"></script>
+
+</body>
+
 </html>
+
+
+

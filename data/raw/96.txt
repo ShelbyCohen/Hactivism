@@ -1,0 +1,2991 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  xmlns:og="http://ogp.me/ns#"> <!--<![endif]-->
+
+    <head>
+
+        <!-- GENERAL HEADER -->
+        <title>Tea Party Patriots</title>
+
+                    <link rel="dns-prefetch" href="//d3b5g5w8iutjdd.cloudfront.net">
+            <link rel="dns-prefetch" href="//api.teapartypatriots.org/">
+            <link rel="dns-prefetch" href="//cdn.teapartypatriots.org/">
+            <link rel="dns-prefetch" href="//cdn2.teapartypatriots.org/">
+            <link rel="dns-prefetch" href="//cdn6.teapartypatriots.org/">
+
+        
+        <link rel="dns-prefetch" href="//fonts.googleapis.com/">
+        <link rel="dns-prefetch" href="//s3.amazonaws.com/">
+        <link rel="dns-prefetch" href="//fonts.gstatic.com/">
+        <link rel="dns-prefetch" href="//www.google-analytics.com/">
+        <link rel="dns-prefetch" href="//platform.twitter.com/">
+        <link rel="dns-prefetch" href="//connect.facebook.net/">
+        <link rel="dns-prefetch" href="//geoip.maxmind.com/">
+        <link rel="dns-prefetch" href="//static.ak.facebook.com/">
+        <link rel="dns-prefetch" href="//s-static.ak.facebook.com/">
+        <link rel="dns-prefetch" href="//fbcdn-profile-a.akamaihd.net/">
+        <link rel="dns-prefetch" href="//fbstatic-a.akamaihd.net/">
+
+
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+        <meta content="black" name="apple-mobile-web-app-status-bar-style">
+        <meta name="description" content="Tea Party Patriots - Pursuing Personal Freedom, Economic Freedom, and a Debt Free Future" />
+        <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+
+        <!--[if gte IE 9]
+        <style type="text/css">
+            .gradient {
+            filter: none;
+        }
+        </style>
+        <![endif]-->
+        <link rel="favicon" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-16x16.png?x12722" type="image/png" />
+        <link rel="shortcut icon" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-16x16.png?x12722" type="image/png" />
+
+        <link rel="apple-touch-icon" sizes="57x57" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-57x57.png?x12722">
+        <link rel="apple-touch-icon" sizes="114x114" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-114x114.png?x12722">
+        <link rel="apple-touch-icon" sizes="72x72" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-72x72.png?x12722">
+        <link rel="apple-touch-icon" sizes="144x144" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-144x144.png?x12722">
+        <link rel="apple-touch-icon" sizes="60x60" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-60x60.png?x12722">
+        <link rel="apple-touch-icon" sizes="120x120" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-120x120.png?x12722">
+        <link rel="apple-touch-icon" sizes="76x76" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-76x76.png?x12722">
+        <link rel="apple-touch-icon" sizes="152x152" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-152x152.png?x12722">
+        <link rel="apple-touch-icon" sizes="180x180" href="//d3b5g5w8iutjdd.cloudfront.net/icon/apple-touch-icon-180x180.png?x12722">
+        <link rel="icon" type="image/png" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-192x192.png?x12722" sizes="192x192">
+        <link rel="icon" type="image/png" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-160x160.png?x12722" sizes="160x160">
+        <link rel="icon" type="image/png" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-96x96.png?x12722" sizes="96x96">
+        <link rel="icon" type="image/png" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-16x16.png?x12722" sizes="16x16">
+        <link rel="icon" type="image/png" href="//d3b5g5w8iutjdd.cloudfront.net/icon/favicon-32x32.png?x12722" sizes="32x32">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-TileImage" content="//d3b5g5w8iutjdd.cloudfront.net/icon/mstile-144x144.png">
+
+        <!-- THEME OPTIONS -->
+        
+        <!-- DYNAMIC HEAD -->
+        	<!-- NATIVE HEADER STUFF -->
+
+		
+		
+        <meta charset="UTF-8">
+        <link rel="pingback" href="https://www.teapartypatriots.org/xmlrpc.php" />
+
+	<!-- USER FONTS -->
+
+	    <link href='//fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Open+Sans:300&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Roboto:100&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Open+Sans:600&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Open+Sans:italic&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Roboto:700&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext' rel='stylesheet' type='text/css'>	    <link href='//fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext' rel='stylesheet' type='text/css'>
+        <script>
+            window.tppApiInit = function() {
+                TPPapi.init({
+                    apikey:'a57144f5ebe3e27fa5532c9f90609bb8ad85f528'
+                });
+            };
+            window.tppWebInit = function() {
+                TPPweb.init({
+                    // post ID 65010 is the Dashboard parent
+                    isDashboard: false                });
+            };
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '348098171999133',
+                    status: true,
+                    cookie: true,
+                    xfbml: true
+                });
+            };
+        </script>
+        <!-- WORDPRESS MAIN HEADER CALL -->
+        <title>Tea Party Patriots &#8211; Tea Party ~ Pursue Your American Dream</title>
+<link rel='dns-prefetch' href='//s3.amazonaws.com' />
+<link rel='dns-prefetch' href='//d3b5g5w8iutjdd.cloudfront.net' />
+<link rel='dns-prefetch' href='//d79i1fxsrar4t.cloudfront.net' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Tea Party Patriots &raquo; Feed" href="https://www.teapartypatriots.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tea Party Patriots &raquo; Comments Feed" href="https://www.teapartypatriots.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.teapartypatriots.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/rs-plugin/css/settings.css.gzip?rev=4.5.6&#038;ver=4.7.3&amp;x12722' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption.Small{color:#111111;background-color:rgba(255,255,255,.6);font-size:20px;line-height:26px;font-family:playfair_displayregular;text-decoration:none;font-variant:normal;border-width:0px;border-color:#111111;border-style:none;padding:10px}.tp-caption.Medium{color:#111111;background-color:rgba(255,255,255,.6);font-size:30px;line-height:36px;font-family:playfair_displayregular;text-decoration:none;font-variant:normal;border-width:0px;border-color:#111111;border-style:none;padding:8px 10px 8px 10px}.tp-caption.Big{color:#111111;background-color:rgba(255,255,255,.6);text-decoration:none;border-width:0px;border-color:#111111;border-style:none;padding:5px 10px 0;font:normal 90px/94px playfair_displayregular}.tp-caption.Medium-tahoma{font-size:30px;line-height:36px;font-family:Tahoma,Geneva,sans-serif;color:rgb(17,17,17);text-decoration:none;background-color:rgba(255,255,255,0.6);padding:8px 10px;font-variant:normal;border-width:0px;border-color:rgb(17,17,17);border-style:none}.tp-caption.Small-tahoma{font-size:20px;line-height:26px;font-family:Tahoma,Geneva,sans-serif;color:rgb(17,17,17);text-decoration:none;background-color:rgba(255,255,255,0.6);padding:10px;font-variant:normal;border-width:0px;border-color:rgb(17,17,17);border-style:none}
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,400italic,700);.caption-pre-heading{font-family:'RobotoCondensed','Roboto',sans-serif;font-style:normal;font-size:18px;text-transform:uppercase;color:#fff}.caption-h1{font:40px/44px Georgia,"Times New Roman",Times,serif;color:#fff}.caption-h2{font:30px/36px Georgia,"Times New Roman",Times,serif;  color:#fff}.caption-text{font-size:24px;  line-height:34px;  font-family:'RobotoLight','Roboto',sans-serif;   color:#fff}.caption-text-small{font-size:18px;  line-height:28px;  font-family:'RobotoLight','Roboto',sans-serif;   color:#fff}.caption-italic{font-size:24px; font-style:normal;line-height:32px;font-family:'robotoitalic','Roboto',sans-serif; color:#fff}.caption-italic-fancy{font-size:24px;line-height:32px; font:24px/32px Georgia,"Times New Roman",Times,serif}.caption-cite{display:block;  font-family:'RobotoCondensed','Roboto',sans-serif;  font-style:normal;  font-size:16px;  text-transform:uppercase;  margin-top:1em;  color:#ff6666}.tp-caption a{color:#fff;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='trades_shortcodes_plugin_style-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-shortcodes-plugin/css/tc_shortCodes.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='trades_shortcodes_plugin_flexslider_style-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-shortcodes-plugin/css/flexslider.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='trades_widgets_plugin_style-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/css/style.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='trades_widgets_plugin_morris_style-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/css/morris.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/style.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/normalize.min.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='isotope_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/isotope.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/flexslider.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awesome_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/font-awesome.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='countdown_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/jquery.countdown.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/js/owl-carousel/owl.carousel.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel_theme_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/js/owl-carousel/owl.theme.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/responsive.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='fullwidth_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/css/full.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/jquery.fancybox.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox_buttons_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/helpers/jquery.fancybox-buttons.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox_thumbs_style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/helpers/jquery.fancybox-thumbs.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-font-awesome-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/dhvc-form/assets/fonts/font-awesome/css/font-awesome.min.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/dhvc-form/assets/css/style.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-datetimepicker-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/dhvc-form/assets/datetimepicker/jquery.datetimepicker.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/js_composer/assets/css/js_composer.min.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/style.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='print-style-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/print.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/vendor/bootstrap/bootstrap-theme.min.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/vendor/bootstrap/bootstrap.min.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='sweet-alert-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/vendor/sweet-alert.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='multiselect-css-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/vendor/multi-select.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tooltipster-css-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/vendor/tooltipster.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='chosen-css-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/vendor/chosen.min.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tpp-css-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/tpp.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tpp-dashboard-styles-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/dashboard.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tpp-posts-grids-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/posts-grid-custom.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tpp-shortcodes-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/tpp_shortcodes.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tpp-forms-css-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/tpp_forms.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='tpp-our-vision-css'  href='https://www.teapartypatriots.org/wp-content/themes/trades-child/css/our_vision_responsive.css?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='eoe_extended_style-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3A100%2C300%2Cregular%2C700&#038;subset=latin&#038;ver=4.7.3' type='text/css' media='all' />
+
+	<style type="text/css">
+	
+	
+/* ==========================================================================
+   THEME COLOURS
+   ========================================================================== */	
+	
+	
+	
+	/* -----------------------------------|||||||||| BODY TEXT ||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------ */
+	
+	/* GENERAL BODY TEXT */
+	html, body, button, input, select, textarea, a, aside .tweet, ul.tab-nav li, ul.accordion li, .accordion-btn,  ul.toggle li, footer.outter-wrapper,
+	
+	/* WOO COMMERCE */
+	.woocommerce-tabs .comment-text .description, #payment ul.payment_methods.methods p { 
+		color: #666666;
+	   	color: #666666;	}
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FEATURE TEXT 1 |||||||||||------------------------------------ */
+	/* ----------------------------------------------------------------------------------------------------------- */
+	
+	/* FEATURE COLOUR 1  */
+	.feature-link:after, .more:before, .main ul li:before, footer ul.social-link a:hover em:before, h1 span, h2 span, h1 span, h2 span, h3 span, h6 span, ul.toggle .toggle-btn.active, .tab-nav li.active, .widget-footer .tab-nav li.active, .statistics li span, .statistics li em, .more:before, ol > li:before, h3.v_active, .accordion-btn.active,  aside .tweet a, .twitter_theme_design .tweet a, .logo-text:hover, .comment-reply-link:before, .comment-edit-link:before, #cancel-comment-reply-link:before, .sc_accordion-btn.active, .price-cell .inwrap:after,  .widget-footer .tab-content-block h3.v_nav.v_active, ul.accordion li a.accordion-btn:before, ul.toggle li a.toggle-btn:before, .error[generated=true],  .comments .more:before, nav a.active, #nav a:hover, #nav ul a:hover, ul.pagination li a.active, #scrollUp:hover, .header-container .nav li:before, .pre-header-container .nav li:before, .post-header-container .nav li:before, .main .accordion-btn:hover,  .main .toggle-btn:hover, .main .more:hover,  .main .feature-link:hover, .main .comment-reply-link:hover, .main .comment-edit-link:hover, .main #cancel-comment-reply-link:hover, .highlight, .toolbar-search-btn:hover em, div.media_links a:hover, .countdown_section, .canon_animated_number h1,
+	 
+	 /* WOO COMMERCE */
+	 .shipping_calculator h2 a, .woocommerce table.cart a.remove, .woocommerce #content table.cart a.remove, .woocommerce-page table.cart a.remove, .woocommerce-page #content table.cart a.remove, .woocommerce form .form-row .required, .woocommerce-page form .form-row .required, .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .woocommerce div.product .stock, .woocommerce #content div.product .stock, .woocommerce-page div.product .stock, .woocommerce-page #content div.product .stock, .woocommerce div.product .out-of-stock, .woocommerce #content div.product .out-of-stock, .woocommerce-page div.product .out-of-stock, .woocommerce-page #content div.product .out-of-stock,
+	 
+	 /* BBPRESS*/
+	 #bbpress-forums .bbp-forum-title:hover, #bbpress-forums .bbp-topic-permalink:hover, .bbp-forum-header a.bbp-forum-permalink:hover, .bbp-topic-header a.bbp-topic-permalink:hover, .bbp-reply-header a.bbp-reply-permalink:hover, #bbpress-forums .bbp-topic-header .bbp-meta a.bbp-topic-permalink:hover, #bbpress-forums #bbp-single-user-details #bbp-user-navigation li a:hover, .widget_display_stats dl dd strong,
+	 
+	 /* BUDDYPRESS */
+	 #buddypress div.item-list-tabs ul li.selected a, #buddypress div.item-list-tabs ul li.current a,
+	 
+	 /* EVENTS CALENDAR */
+	 #tribe-bar-collapse-toggle:hover
+	{
+		color: #ffc000;
+	   	color: #BB2535;	}
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FEATURE TEXT 2|||||||||||------------------------------------ */
+	/* ---------------------------------------------------------------------------------------------------------- */
+	
+	/* FEATURE COLOUR 2  */
+	.main a:hover, .main h1 a:hover, a:hover span, #fittext1, h4.fittext, .boxed h5, .icon-thirds li:hover em:before,  h4 span, ul.comments h5 a, .boxed ul.social-link a:hover, .meta.option-set a.selected, .page-numbers.current, span.wpcf7-not-valid-tip, .current-cat,  .main .btn.white-btn:hover, .main a.btn.white-btn:hover, .main .owlCustomNavigation .btn:hover, .iconBlock .fa, .media_links a, .pb_gallery .main .isotope_filter_menu li a:hover,  .owlCustomNavigation .btn:hover,
+	
+	/* BBPRESS */
+	#bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+	
+	/* EVENTS CALENDAR */
+	.tribe-events-list-separator-month span, .tribe-events-sub-nav li a, .tribe-events-tooltip .date-start.dtstart, .tribe-events-tooltip .date-end.dtend, .single-tribe_events .tribe-events-schedule .tribe-events-cost,  .tribe-bar-active a
+	{
+		color: #4170a9;
+	   	color: #4170a9;	}
+	
+	
+	
+	
+	
+	/* -----------------------------------|||||||||| MENU TEXT ||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------ */
+	
+	/* MENU ITEM */
+	.nav a:hover, .nav li.current-menu-ancestor > a, #nav .sub-menu li.current-menu-ancestor > a:hover,  nav li.current-menu-item > a, .pre-header-container a:hover
+	 {
+		color: #ffc000;
+	   	color: #ffffff;	}
+	@media only screen and (max-width: 768px) { 
+		#nav .donate a:hover{
+			color: #ffc000;
+			color: #ffffff;		}
+	
+	}
+	
+	
+	
+	
+	
+	/* -----------------------------------|||||||||| PRE/POST MENU TEXT ||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------ */
+	
+	/*  PRE/POST MENU TEXT */
+	.pre-header-container, .pre-header-container *, .post-header-container ul a, .post-header-container, .header-container * 
+	 {
+		color: #bec0c7;
+	   	color: #bec0c7;	}
+	
+	
+	
+	
+	
+	/* -----------------------------------|||||||||| HEADINGS ||||||||||------------------------------------ */
+	/* ----------------------------------------------------------------------------------------------------- */
+	
+	/* HEADINGS */
+	h1, h1 a, h2, h2 a, h3, h3 a, h4, h4 a, h5, h6, .lead, strong, b, .feature-link, .more, pre, .icon-thirds li em:before, .countdown_amount,  cite, .caption-cite, .sc_accordion-btn, .accordion-btn, .toggle-btn, .sc_toggle-btn, .comment-reply-link, .comment-edit-link, #cancel-comment-reply-link,
+	
+	/* WOO COMMERCE */
+	.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce table.cart a.remove:hover, .woocommerce #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover, .summary.entry-summary .price span,  .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a, mark,
+	
+	/* BBPRESS*/
+	#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink,
+	
+	/* BUDDYPRESS */
+	#buddypress .activity-meta a.bp-primary-action span,
+	
+	/* EVENTS CALENDAR */
+	.single-tribe_events .tribe-events-schedule *
+	
+	{
+		color: #1d2028;
+	   	color: #1d2028;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------|||||||||| META ||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------- */
+	
+	/* META */
+	 aside ul li a, aside ul li, .meta, .meta a, ul.link-list li a, caption, .wp-caption-text, .multi_navigation_hint, .tweet:before,  .white-btn, a.white-btn, aside .tweet .meta:before, .twitter_theme_design .tweet .meta:before, .post-type-tweet:before, blockquote, .text-seperator h5, .owlCustomNavigation .btn,
+	
+	/* WOO COMMERCE */
+	 .woocommerce-result-count, .woocommerce ul.products li.product .price del, .woocommerce-page ul.products li.product .price del, .summary.entry-summary .price del span,  .woocommerce .cart-collaterals .cart_totals p small, .woocommerce-page .cart-collaterals .cart_totals p small, .woocommerce .star-rating:before, .woocommerce-page .star-rating:before,
+	
+	/* BBPRESS*/
+	  .bbp-forum-header a.bbp-forum-permalink, .bbp-topic-header a.bbp-topic-permalink, .bbp-reply-header a.bbp-reply-permalink,
+	  #bbpress-forums .bbp-topic-header .bbp-meta a.bbp-topic-permalink, #bbpress-forums #bbp-single-user-details #bbp-user-navigation a,
+	
+	/* BUDDYPRESS */
+	  #buddypress div#item-header div#item-meta,
+	
+	/* EVENTS CALENDAR */
+	  .tribe-events-sub-nav li a:hover, .tribe-events-event-meta .tribe-events-venue-details, .tribe-events-thismonth div:first-child, .tribe-events-list-widget ol li .duration
+	  
+	   {
+	 	color: #9c9fa4;
+	   	color: #9c9fa4;	 }
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 /* -----------------------------------||||||||| WHITE TEXT |||||||||||------------------------------------ */
+	 /* ------------------------------------------------------------------------------------------------------- */
+	 
+	 /* WHITE TEXT */
+	 .parallax-block h4, .parallax-block h5, .callout-block h5, .nav a, .nav .donate a:hover, .widget-footer strong, .btn, input[type=button], input[type=submit], .price h3, ol.graphs > li div, #menu-icon, ul.pagination .left a:hover, ul.pagination .right a:hover, ul.paging a:hover span, .tp-caption.btn a, a.tp-button, #scrollUp, .feature-heading *, ul.pagination .left a, ul.pagination .right a, ul.paging a span, ul.page-numbers li a.next, ul.page-numbers li a.prev, ul.paging span, .logo-text, .widget-footer .tab-nav li, nav li.donate.current-menu-item > a,  .timeline_load_more:hover h4, .main a.btn:hover, .price h3 span, .price-table-feature .price-cell.feature h3, .price-table-feature .price-cell h3 span, .price-cell.feature h3, .price-cell h3 span, .widget-footer .tab-content-block h3.v_nav, .download-table .fa, .button, a.button:hover, a.btn:hover, .btn:hover .ficon, .ui-autocomplete li a, .ui-state-focus,
+	 
+	 /* WOO COMMERCE */
+	 .woocommerce span.onsale, .woocommerce-page span.onsale,
+	 
+	 /* BBPRESS*/
+	 #bbp_reply_submit, button.button, .bbp-pagination-links a.next.page-numbers, .bbp-pagination-links a.prev.page-numbers, .bbp-logged-in .button.logout-link,
+	 
+	 /* BUDDYPRESS */
+	 #buddypress button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress div.generic-button a, #buddypress .comment-reply-link, a.bp-title-button, #buddypress button:hover, #buddypress a.button:hover, #buddypress input[type="submit"]:hover, #buddypress input[type="button"]:hover, #buddypress input[type="reset"]:hover, #buddypress ul.button-nav li a:hover, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, a.bp-title-button:hover, #buddypress #profile-edit-form ul.button-nav li a, .bp-login-widget-user-links .bp-login-widget-user-logout a,
+	 
+	 /* EVENTS CALENDAR */
+	 .tribe-events-event-cost span, a.tribe-events-read-more, a.tribe-events-read-more:hover, .tribe-events-list-widget .tribe-events-widget-link a
+	  {
+	 	color: #fff;
+	    	color: #ffffff;	 }
+	 
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| BODY BACKGROUND |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------ */
+	
+	/* BODY BACKGROUND */
+	 body{
+	   	background: #ffffff;  
+	   	background: #ffffff!important;	}
+	
+	
+
+
+	
+	
+	
+	/* -----------------------------------||||||||| PLATE BACKGROUND |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------- */
+	
+	/* PLATE */
+	 .outter-wrapper, .price:hover, .price.price-feature, .price-table:hover, .price-table.price-table-feature, fieldset fieldset, .main table, 
+	
+	 /* WOO COMMERCE */
+	 .woocommerce #payment div.payment_box, .woocommerce-page #payment div.payment_box, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+	 
+	 /* BUDDYPRESS */
+	 #buddypress div.item-list-tabs ul li.selected, #buddypress div.item-list-tabs ul li.current, #buddypress div.item-list-tabs ul li.selected a, #buddypress div.item-list-tabs ul li.current a, #buddypress .item-list-tabs.activity-type-tabs ul li.selected, #bbpress-forums div.odd, #bbpress-forums ul.odd,
+	 
+	 /* EVENTS CALENDAR */
+	 .tribe-events-list-separator-month span, .single-tribe_events .tribe-events-schedule .tribe-events-cost
+	  {
+	   	background: #fff;  
+	   	background: #ffffff;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| HEADER BACKGROUND |||||||||||------------------------------------ */
+	/* -------------------------------------------------------------------------------------------------------------- */
+	
+	/* HEADER */
+	.outter-wrapper.header-container, .header-container .nav ul, .price h3, ol.graphs > li div.grey-btn, .btn.grey-btn, .price-cell.feature, .outter-wrapper.search-header-container, .ui-autocomplete li  {
+		background: #1d2028;
+	   	background: #1d2028;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| PRE-HEADER BACKGROUND |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------------ */
+	
+	/* PRE/POST HEADER */
+	.pre-header-container, .post-header-container, .pre-header-container ul, .post-header-container .nav ul, .pre-header-container .nav ul {
+		background: #313540;
+	   	background: #1D2028;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| TERTIARY MENU BACKGROUND |||||||||||------------------------------------ */
+	/* --------------------------------------------------------------------------------------------------------------------- */
+	
+	/* TERTIARY MENU BACKGROUND */
+	.header-container .nav li:hover ul ul, .header-container .nav li:hover ul ul:before, .tp-bullets.simplebullets.round .bullet{
+		background: #313540;
+	   	background: #1D2028;	}
+	
+	
+	
+	
+	/* -----------------------------------||||||||| PRE/POST TERTIARY MENU BACKGROUND |||||||||||------------------------------------ */
+	/* --------------------------------------------------------------------------------------------------------------------- */
+	
+	/* PRE/POST TERTIARY MENU BACKGROUND */
+	 .pre-header-container ul ul.sub-menu ul.sub-menu, .post-header-container .nav li:hover ul ul, .post-header-container .nav li:hover ul ul:before, .pre-header-container ul li:hover ul ul:before{
+		background: #242931;
+	   	background: #242931;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FEATURE COLOUR BACKGROUND |||||||||||------------------------------------ */
+	/* ---------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FEATURE BACKGROUND */
+	.header-container .nav .donate a:hover, feat-1, a.feat-1, .btn.orange-btn, a.btn.orange-btn, .btn:hover, .btn.hover, a.btn:hover, input[type=button]:hover, input[type=submit]:hover, .btn.active, .tp-caption.btn a:hover, a.tp-button,
+	ol.graphs > li div, #menu-icon, ul.pagination .left a:hover, ul.pagination .right a:hover, ul.paging a:hover span, .tp-caption.btn a, ul.paging a span:hover, ul.page-numbers li a.next:hover, ul.page-numbers li a.prev:hover, ul.paging span:hover, .tp-button.default, .purchase.default, .purchase:hover.default, .price-feature .btn:hover, .price-feature a.btn:hover, .tp-bullets.simplebullets.round .bullet.selected, .skin_earth .pb_supporters .btn,  .skin_corporate .price-table-feature .price-cell.last .btn:hover,  .skin_earth .price-table-feature .price-cell.last .btn:hover, .owl-theme .owl-controls .owl-page.active span,
+	.owl-theme .owl-controls.clickable .owl-page:hover span, .search_controls li.search_control_search,  .ui-state-focus,
+	
+	/* WOO COMMERCE */
+	.woocommerce a.button:hover, .woocommerce button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page #content input.button:hover, .woocommerce .shop_table.cart td.actions .button, .woocommerce .shop_table.cart td.actions .button.alt:hover, .woocommerce .woocommerce-message a.button,  .product .cart button.single_add_to_cart_button:hover, #place_order:hover, .woocommerce span.onsale, .woocommerce-page span.onsale, .widget_price_filter .ui-slider .ui-slider-handle,
+	
+	/* BBPRESS */
+	#bbp_reply_submit:hover, button.button:hover, .bbp-pagination-links a.next.page-numbers:hover, .bbp-pagination-links a.prev.page-numbers:hover, .bbp-logged-in .button.logout-link:hover,
+	
+	/* BUDDYPRESS */
+	#buddypress button:hover, #buddypress a.button:hover, #buddypress input[type="submit"]:hover, #buddypress input[type="button"]:hover, #buddypress input[type="reset"]:hover, #buddypress ul.button-nav li a:hover, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, a.bp-title-button:hover, #buddypress #profile-edit-form ul.button-nav li a:hover, .bp-login-widget-user-logout a:hover,
+	
+	/* EVENTS CALENDAR */
+	.tribe-events-read-more:hover, .tribe-events-list-widget .tribe-events-widget-link a:hover,  .tribe-events-event-cost span,
+	
+	/* GRAVITY FORMS */
+	.gf_progressbar_percentage
+	
+	{
+		background-color: #ffc000;
+	   	background-color: #BB2535;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FEATURE COLOUR BACKGROUND 2 |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------------------ */
+	
+	/* FEATURE BACKGROUND 2 */
+	.feat-2, a.feat-2, .btn, a.btn, input[type=button], input[type=submit], .flex-control-paging li a.flex-active, .price.price-feature h3,
+	ol.graphs > li div.feat-2, a.tp-button:hover, .tp-button.blue, .purchase.blue, .purchase:hover.blue, .price-table-feature .price-cell.feature,  .skin_corporate .tp-button, .skin_earth .pb_supporters .btn:hover, .skin_earth .pb_supporters .btn.feat-3:hover, .search_controls li.search_control_close,  .search_controls li.search_control_search:hover, .search_controls li.search_control_close:hover,
+	
+	/* WOO COMMERCE */
+	p.demo_store, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button,  .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce-message:before, .woocommerce .shop_table.cart td.actions .button.alt, .woocommerce .shop_table.cart td.actions .button:hover, .woocommerce .woocommerce-message a.button:hover,
+	
+	/* BBPRESS */
+	#bbp_reply_submit, button.button, .bbp-logged-in .button.logout-link,
+	
+	/* BUDDYPRESS */
+	#buddypress button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress div.generic-button a, #buddypress .comment-reply-link, a.bp-title-button, #buddypress #profile-edit-form ul.button-nav li a, .bp-login-widget-user-logout a,
+	
+	/* EVENTS CALENDAR */
+	.tribe-events-list-widget .tribe-events-widget-link a, .tribe-events-read-more, .tribe-events-calendar .tribe-events-has-events:after
+	{
+		background: #4170a9;
+	   	background: #4170a9;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FEATURE COLOUR BACKGROUND 3 |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------------------ */
+	
+	/* FEATURE BACKGROUND 3 */
+	 .tp-caption.btn a:hover, ol.graphs > li div.feat-3, .btn.feat-3, .feat-3,  .vert-line:before, .vert-line:after, .timeline_load_more:hover, .tp-button.green,  .skin_earth .tp-button:hover,
+	.purchase.green, .purchase:hover.green, .price-feature .btn, .price-feature a.btn, .skin_corporate .tp-button:hover,  .skin_corporate .price.price-feature h3, .skin_earth .price.price-feature h3, .skin_corporate .price-table-feature .price-cell.feature, .skin_corporate .price-table-feature .price-cell.last .btn, .skin_earth .price-table-feature .price-cell.feature, .skin_earth .price-table-feature .price-cell.last .btn, .search_controls li.search_control_close
+	
+	
+	{
+		background: #2f353f;
+	   	background: #2f353f;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FEATURE COLOUR BACKGROUND 4 |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------------------ */
+	
+	/* FEATURE BACKGROUND 4 */
+	.donate, .feat-3, a.feat-3, .skin_earth .pb_supporters .btn.feat-3 {
+		background: #2f353f;
+	   		}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| LIGHT BUTTON BACKGROUND |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------- */
+	
+	/* LIGHT BUTTON BACKGROUND */
+	ul.pagination .left a, ul.pagination .right a, ul.paging a span, ul.page-numbers li a.next, ul.page-numbers li a.prev, ul.paging span, ul.tab-nav li, .vert-line, .owl-theme .owl-controls .owl-page span,
+	
+	/* BBPRESS */
+	.bbp-pagination-links a.next.page-numbers, .bbp-pagination-links a.prev.page-numbers
+	{
+		background: #E8E8E8;
+	   	background: #E8E8E8;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| WHITE BACKGROUND |||||||||||------------------------------------ */
+	/* ------------------------------------------------------------------------------------------------------------- */
+	
+	/* WHITE BACKGROUND */
+	.white-btn, a.white-btn, .white-btn:hover, a.white-btn:hover, .owlCustomNavigation .btn, .owlCustomNavigation .btn:hover, .pb_gallery .main .isotope_filter_menu li a,
+	
+	/* EVENTS CALENDAR */
+	.tribe-events-sub-nav li a
+	{
+		background: #ffffff;
+	   	background: #ffffff;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| DARK BACKGROUND |||||||||||------------------------------------- */
+	/* ------------------------------------------------------------------------------------------------------------- */
+	
+	/* DARK BACKGROUND */
+	#pax, .tp-button.darkgrey, .tp-button.grey, .tp-button:hover.grey, .purchase.darkgrey, .purchase:hover.darkgrey, .skin_corporate .price h3, .skin_corporate .price-cell.feature{
+		background: #344158;
+	   	background-color: #344158;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| LIGHT BACKGROUND |||||||||||------------------------------------- */
+	/* -------------------------------------------------------------------------------------------------------------- */
+	
+	/* LIGHT BACKGROUND */
+	.price, .price-table, .timeline_load_more, .main table tr:nth-child(2n+1), .main table th, ul.sitemap li a, .boxed, 
+	
+	/* BUDDYPRESS */
+	#bbpress-forums li.bbp-header, #bbpress-forums div.even, #bbpress-forums ul.even, #bbpress-forums li.bbp-header, #bbpress-forums li.bbp-footer, #bbpress-forums div.bbp-forum-header, #bbpress-forums div.bbp-topic-header, #bbpress-forums div.bbp-reply-header,
+	
+	/* EVENTS CALENDAR */
+	.tribe-events-sub-nav li a:hover
+	
+	{
+		background: #f7f7f7;
+	   	background: #f7f7f7;	}
+	
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| LIGHT BACKGROUND 2 |||||||||||------------------------------------- */
+	/* -------------------------------------------------------------------------------------------------------------- */
+	
+	/* LIGHT BACKGROUND 2 */
+	ul.timeline > li, ul.tab-nav li.active, .tab-content-block, ul.comments .odd, ol.graphs > li,
+	
+	/* EVENTS CALENDAR */
+	.tribe-events-loop .hentry, .tribe-events-tcblock, .tribe-events-loop .type-tribe_events
+	{
+		background: #fbfbfb;
+	   	background: #fbfbfb;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FORM ELEMENTS BACKGROUND |||||||||||------------------------------------- */
+	/* ---------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FORM ELEMENTS */
+	input[type=text],  input[type=email], input[type=password], textarea, input[type=tel],  input[type=range], input[type=url], input[type=number],
+	
+	/* Woo Commerce Classes */
+	input.input-text, .woocommerce ul.products li.product, .woocommerce ul.products li.product.last .woocommerce-page ul.products li.product, .col2-set.addresses .address, .woocommerce-message, .woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, .woocommerce #payment, .woocommerce-page #payment, .woocommerce-main-image img, input#coupon_code,  .widget_price_filter .ui-slider .ui-slider-range,
+	
+	/* BUDDYPRESS */
+	#buddypress .item-list-tabs ul li, #buddypress .standard-form textarea, #buddypress .standard-form input[type="text"], #buddypress .standard-form input[type="text"], #buddypress .standard-form input[type="color"], #buddypress .standard-form input[type="date"], #buddypress .standard-form input[type="datetime"], #buddypress .standard-form input[type="datetime-local"], #buddypress .standard-form input[type="email"], #buddypress .standard-form input[type="month"], #buddypress .standard-form input[type="number"], #buddypress .standard-form input[type="range"], #buddypress .standard-form input[type="search"], #buddypress .standard-form input[type="tel"], #buddypress .standard-form input[type="time"], #buddypress .standard-form input[type="url"], #buddypress .standard-form input[type="week"], #buddypress .standard-form select, #buddypress .standard-form input[type="password"], #buddypress .dir-search input[type="search"], #buddypress .dir-search input[type="text"], #buddypress form#whats-new-form textarea, #buddypress div.activity-comments form textarea, #buddypress div.item-list-tabs ul li.selected a span, #buddypress div.item-list-tabs ul li.current a span
+	{
+		background: #f2f2f2;
+	   	background: #f2f2f2;		color: #969ca5;
+	   	color: #969ca5;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------------||||||||| BORDERS |||||||||||------------------------------------- */
+	/* ----------------------------------------------------------------------------------------------------------- */
+	
+	/* BORDERS */
+	hr, .right-aside, blockquote.right, fieldset, .main table, .main table th, .main table td, .main ul.meta li, .text-seperator .line em, .tab-nav li.active, .tab-content-block, .tab-nav li, ul.toggle li, .boxed ul.social-link, .btn.white-btn, a.btn.white-btn,  a.white-btn, #fittext2, caption, .wp-caption-text, .tab-content-block, h3.v_nav, .message.promo, ul.timeline > li, ul.accordion li, .timeline_load_more,  li.tl_right:before, li.tl_left:before, .widget.trades_fact p, .cpt_people .social-link, ul.toggle li:first-child, ul.accordion li:first-child, ul.sc_accordion li, .price-detail ul li, .price-detail ul li:last-child, .price-cell, .hr-temp, aside ul li, ul.link-list li, ul.statistics li, .multi_nav_control, .highlight:after, blockquote, .owlCustomNavigation .btn, .pb_media .media_wrapper, .media_links, .pb_gallery .main .isotope_filter_menu li a, .text-seperator .line em,
+	
+	/* Woo Commerce Classes */
+	ul.products li .price, ul.products li h3, .woocommerce #payment div.payment_box, .woocommerce-page #payment div.payment_box, .col2-set.addresses .address, p.myaccount_user, .summary.entry-summary .price,  .summary.entry-summary .price, .product_meta .sku_wrapper, .product_meta .posted_in, .product_meta .tagged_as, .product_meta span:first-child, .woocommerce-message, .related.products, .woocommerce .widget_shopping_cart .total, .woocommerce-page .widget_shopping_cart .total, .woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li, .woocommerce div.product .woocommerce-tabs ul.tabs:before, .woocommerce #content div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs:before, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #reviews #comments ol.commentlist li img.avatar, .woocommerce-page #reviews #comments ol.commentlist li img.avatar, .woocommerce #reviews #comments ol.commentlist li .comment-text, .woocommerce-page #reviews #comments ol.commentlist li .comment-text, .upsells.products, .woocommerce #payment ul.payment_methods, .woocommerce-page #payment ul.payment_methods, .woocommerce form.login, .woocommerce form.checkout_coupon, .woocommerce form.register, .woocommerce-page form.login, .woocommerce-page form.checkout_coupon, .woocommerce-page form.register, .widget_price_filter .price_slider_wrapper .ui-widget-content,
+	
+	/* BBPRESS */
+	#bbp-user-navigation ul li, .widget_display_stats dl dt, .widget_display_stats dl dd, #bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-topics, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results, #bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic, #bbpress-forums li.bbp-header, #bbpress-forums li.bbp-footer, div.bbp-forum-header, div.bbp-topic-header, div.bbp-reply-header,
+	
+	/* BUDDYPRESS */
+	#buddypress .item-list-tabs ul li, #buddypress #item-nav .item-list-tabs ul, #buddypress div#subnav.item-list-tabs, #buddypress #subnav.item-list-tabs li, #bp-login-widget-form, #buddypress #members-directory-form div.item-list-tabs ul li, #buddypress #members-directory-form div.item-list-tabs ul, #buddypress .activity-comments ul li, #buddypress div.activity-comments > ul > li:first-child, #buddypress .item-list-tabs.activity-type-tabs ul, #buddypress div.item-list-tabs ul li a span,
+	
+	/* EVENTS CALENDAR */
+	#tribe-bar-form, #tribe-bar-views, .tribe-events-list-separator-month, .tribe-events-loop .hentry, .tribe-events-loop .type-tribe_events, .tribe-events-sub-nav li a, .events-archive.events-gridview #tribe-events-content table .vevent, .single-tribe_events .tribe-events-schedule, .tribe-events-single-section.tribe-events-event-meta, .single-tribe_events #tribe-events-footer, .tribe-events-list-widget ol li, .tribe-events-tcblock, .tribe-events-mobile.hentry.vevent,
+	
+	/* GRAVITY FORMS */
+	.gf_progressbar 
+	 {
+		border-color: #eaeaea!important;
+	   	border-color: #eaeaea!important;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER BACKGROUND |||||||||||-------------------------------------------- */
+	/* ---------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER BACKGROUND */
+	.widget-footer, .widget-footer table {
+		background: #313540;
+	   	background: #1D2028;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER BASE BACKGROUND |||||||||||-------------------------------------------- */
+	/* --------------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER BASE BACKGROUND */
+		footer.outter-wrapper, .widget-footer ul.tab-nav li.active, .widget-footer .tab-content-block, .widget-footer table th, .widget-footer table tr:nth-child(2n+1), .widget-footer .tab-content-block h3.v_nav.v_active{
+			background: #1d2028;
+		   	background: #3E5C97;		}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER HEADINGS |||||||||||-------------------------------------------- */
+	/* -------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER HEADINGS */
+	.widget-footer h3, .time-date{
+		color: #ffffff;
+	   	color: #ffffff;	}
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER TEXT |||||||||||-------------------------------------------- */
+	/* ---------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER TEXT */
+	.widget-footer, .widget-footer .tweet, .widget-footer a, footer ul.social-link a em:before, .widget-footer ul.accordion li, .widget-footer blockquote, footer .foot.left, footer .foot.left a, .widget-footer .tweet a, .widget-footer .tweet a *{
+		color: #bdc0c6;
+	   	color: #bdc0c6;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER FEATURE TEXT |||||||||||-------------------------------------------- */
+	/* ------------------------------------------------------------------------------------------------------------------------ */
+	
+	/* FOOTER TEXT */
+	.widget-footer a:hover, .widget-footer ul li:before,  .widget-footer .tweet:before,  .widget-footer .tweet > p:before, footer .foot.left a:hover, ul.social-link a:hover em:before, .widget-footer .tweet a:hover, .widget-footer .tweet a:hover * {
+		color: #ffc000;
+	   	color: #4E7BB0;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER BUTTONS |||||||||||-------------------------------------------- */
+	/* ------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER BUTTONS */
+	.widget-footer a.btn, .widget-footer .btn{
+		background: #4ec6e9;
+		background: #4ec6e9;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER FORM FIELDS |||||||||||-------------------------------------------- */
+	/* ----------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER FORM FIELDS */
+	.widget-footer input[type=text],  .widget-footer input[type=email], .widget-footer input[type=password], .widget-footer input[type=tel], .widget-footer textarea{
+		background: #828995;
+	   	background: #828995;		color: #fff;
+	   	color: #ffffff;	}
+	
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER FORM FIELDS FOCUS |||||||||||-------------------------------------------- */
+	/* ----------------------------------------------------------------------------------------------------------------------------- */
+	
+	/* FOOTER FORM FIELDS FOCUS */
+	.widget-footer input[type=text]:focus,  .widget-footer input[type=email]:focus, .widget-footer input[type=password]:focus, .widget-footer ul.tab-nav li, .widget-footer input[type=tel]:focus, .widget-footer textarea:focus,  .widget-footer .tab-content-block h3.v_nav, .pb_posts_graph {
+		background: #6d7482;
+	   	background: #6d7482;	}
+	
+	
+	
+	
+	
+	
+	/* -----------------------------------||||||||| FOOTER BORDERS |||||||||||------------------------------------------------ */
+	/* ----------------------------------------------------------------------------------------------------------------------- */	
+	
+	/* FOOTER BORDERS */
+	.widget-footer ul.tab-nav li, .widget-footer .tab-content-block, .widget-footer ul.accordion li, .widget-footer ul.link-list li, .widget-footer ul.statistics li, .widget-footer #bp-login-widget-form, .widget-footer .bbp-login-form fieldset, .widget-footer fieldset, .widget-footer .widget_display_stats dl dd, .widget-footer table, .widget-footer table th, .widget-footer table td, .widget-footer caption, .widget-footer .tab-content-block h3.v_nav{
+		border-color: #4B525D!important;
+	   	border-color: #4B525D!important;	}
+	@media only screen and (max-width: 768px) { 
+		.widget-footer .widget{
+			border-color: #4B525D!important;
+			border-color: #4B525D!important;		}
+	
+	}
+	
+	
+	
+	
+	
+		/* Feature block - Blue */
+		.callout-block {
+			background: #f1f1f1;
+		   	background: #f1f1f1;		}
+	
+
+	
+	
+		/* Feature block 2 - Light Blue */
+		.social-block{
+			background: #e1f5fb;	
+		   	background: #e1f5fb;		}
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	/* ==========================================================================
+	   HEADER
+	   ========================================================================== */
+	
+	/* LOGO MAX WIDTH */
+
+		.logo{
+			max-width: 104px; 
+			max-width: 210px;		}
+
+	/* HEADER PADDING*/
+
+		.header-container .wrapper{
+			padding-top: 0px;
+			padding-top: 0px;
+			padding-bottom: 0px;
+			padding-bottom: 0px;		}   
+
+	/* HEADER ELEMENTS POSITIONING */
+
+		.main-header.left {
+			position: relative;	
+			top: 0px;
+						left: 0px;
+					}
+
+		.main-header.right {
+			position: relative;	
+			top: 0px;
+						right: 0px;
+					}
+
+	/* TEXT AS LOGO SIZE */
+
+		.logo-text {
+			font-size: 28px;		}
+
+
+	/* ANIMATE MENUS */
+
+		.nav > li {
+			opacity: 0;
+			left: 40px;		}
+
+
+
+
+
+
+
+
+
+
+
+
+	/* ==========================================================================
+		Theme Fonts
+	========================================================================== */
+
+
+
+		
+		/* ----------------------------------------||||||||| BODY TEXT |||||||||||------------------------------------------------ */
+		/* ----------------------------------------------------------------------------------------------------------------------- */
+		
+		/* BODY TEXT */  
+		body, h3.v_nav, ul.accordion li, #bbpress-forums, .main .fa *, ul.accordion li a.accordion-btn:before, ul.toggle li a.toggle-btn:before,
+		
+		/* BBRESS */
+		.bbp-topic-header .bbp-meta, #bbpress-forums .bbp-topic-header .bbp-meta a.bbp-topic-permalink {
+			 font-family: 'robotolight';
+			font-family: "Open Sans";
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| QUOTE TEXT |||||||||||------------------------------------------------ */
+		/* ------------------------------------------------------------------------------------------------------------------------ */
+		
+		/* QUOTE TEXT */   
+		blockquote, .tweet, .post-type-quote, .tweet b, aside .tweet, .widget-footer .tweet, .post-type-tweet, .parallax-block h4, .parallax-block h5, .callout-block h5,
+		
+		/* BUDDYPRESS */
+		#buddypress div#item-header div#item-meta
+		{
+			 font-family: 'merriweatherlight_italic';
+			font-family: "Open Sans";
+font-style: normal;
+font-weight: 300;
+		}
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| LEAD TEXT |||||||||||------------------------------------------------- */
+		/* ------------------------------------------------------------------------------------------------------------------------ */
+		
+		/* LEADIN TEXT */ 
+		.lead{
+			   font-family: 'roboto_slablight';
+			font-family: "Open Sans";
+font-style: normal;
+font-weight: 600;
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| LOGO TEXT |||||||||||------------------------------------------------- */
+		/* ------------------------------------------------------------------------------------------------------------------------ */
+		
+		/* LOGO TEXT */
+		.logo-text{
+			 font-family: 'robotolight';
+			font-family: "Roboto";
+font-style: normal;
+font-weight: 100;
+		}
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| BOLD TEXT |||||||||||------------------------------------------------- */
+		/* ------------------------------------------------------------------------------------------------------------------------ */
+					
+		/* BOLD TEXT */ 
+		strong, h5, h6, b, .more, ol > li:before, .comment-reply-link, .comment-edit-link, ul.pagination li, ul.paging li, ul.page-numbers li, .link-pages p, #comments_pagination, ol.graphs > li, label, .price h3 span, .feature-link, legend, ul.tab-nav li,
+		
+		/* WOO COMMERCE*/
+		.woocommerce span.onsale, .woocommerce-page span.onsale,
+		
+		/* BBPRESS*/
+		#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink, #bbpress-forums div.bbp-forum-title h3, #bbpress-forums div.bbp-topic-title h3, #bbpress-forums div.bbp-reply-title h3, .bbp-pagination-links a, .bbp-pagination-links span.current,
+		
+		/* BUDDYPRESS */
+		#buddypress .activity-meta a.bp-primary-action span
+		  {
+			 font-family: 'robotomedium';
+			font-family: "Open Sans";
+font-style: normal;
+font-weight: 600;
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| BUTTON TEXT |||||||||||------------------------------------------------- */
+		/* -------------------------------------------------------------------------------------------------------------------------- */
+		
+		/* BUTTON TEXT */
+		.btn, .tp-button, ol.graphs > li, .btn, input[type=button], input[type=submit], .button, cite,
+		
+		/* BUDDYPRESS */
+		 #buddypress #profile-edit-form ul.button-nav li a, .bp-login-widget-user-logout a, #buddypress button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress div.generic-button a, #buddypress .comment-reply-link, a.bp-title-button, #buddypress #profile-edit-form ul.button-nav li a, .bp-login-widget-user-logout a,
+		 
+		 /* EVENTS CALENDAR */
+		 .tribe-events-read-more, .tribe-events-list-widget .tribe-events-widget-link a
+		 {
+			font-family: 'robotoregular';
+			font-family: "Open Sans";
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| ITALIC TEXT |||||||||||------------------------------------------------- */
+		/* -------------------------------------------------------------------------------------------------------------------------- */
+		
+		/* ITALIC TEXT */ 
+		.error[generated=true], .wp-caption-text, span.wpcf7-not-valid-tip, em, i{
+			 font-family: 'robotolight_italic';
+			font-family: "Open Sans";
+font-style: italic;
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| MAIN HEADINGS TEXT |||||||||||------------------------------------------------- */
+		/* --------------------------------------------------------------------------------------------------------------------------------- */
+		
+		/* MAIN HEADING TEXT */ 
+		h1, h2, .coms h4, .countdown_section, h4, blockquote.bq2 cite, .widget-footer h3, .callout-block h4,
+		
+		 /* EVENTS CALENDAR */
+		.tribe-events-tooltip h4, .single-tribe_events .tribe-events-schedule .tribe-events-cost
+		{
+			 font-family: 'merriweatherregular';
+			font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------||||||||| SECOND HEADINGS TEXT |||||||||||------------------------------------------------- */
+		/* ----------------------------------------------------------------------------------------------------------------------------------- */
+		
+		/* SECOND HEADINGS TEXT */
+		h3, h5, h6, .text-seperator h5, h3 label, .widget-title, .sc_accordion-btn, .accordion-btn, .toggle-btn, .sc_toggle-btn, .canon_animated_number h1, .countdown_amount, h4.fittext
+		{
+			  font-family: 'merriweatherbold';
+			font-family: "Roboto";
+font-style: normal;
+font-weight: 300;
+		}
+		
+		
+		
+		
+		
+		
+		/* ----------------------------------------------------||||||||| NAV TEXT |||||||||||------------------------------------------------- */
+		/* ----------------------------------------------------------------------------------------------------------------------------------- */
+		
+		/* NAV STYLE TEXT */ 
+		.nav a, #menu-icon, .main ul.meta li, aside ul li, .boxed h5, .feature-heading p.heading, aside ul li, ul.link-list li, ul.statistics li,
+		ul.comments h5, ul.comments h6, input[type=text],  input[type=email], input[type=password], textarea, input[type=tel], input[type=url], input[type=date], input[type=range], .error[generated=true], .corner-date, h3.title, #scrollUp,  .widget-footer .tab-content-block h3.v_nav,  .pre-header-container,
+		
+		/* BBPRESS */
+		#bbpress-forums .forum-titles li, .forums.bbp-replies li.bbp-header div, .forums.bbp-replies li.bbp-footer div, #bbpress-forums .forums.bbp-search-results li.bbp-header div, #bbpress-forums .forums.bbp-search-results li.bbp-footer div, #bbpress-forums #bbp-user-wrapper h2.entry-title, #bbpress-forums #bbp-single-user-details #bbp-user-navigation a, .bbp-logged-in h4, .widget_display_stats dl dt,
+		
+		/* BUDDYPRESS */
+		#buddypress .item-list-tabs ul li, #buddypress table th, #buddypress table tr td.label, .widget.buddypress .bp-login-widget-user-links > div.bp-login-widget-user-link a, #buddypress div.activity-comments form div.ac-reply-content a,
+		
+		/* EVENTS CALENDAR */
+		.tribe-events-list-separator-month span, .tribe-events-sub-nav li a, .tribe-events-event-cost span, .tribe-events-event-meta .time-details, .tribe-events-event-meta .tribe-events-venue-details *, .tribe-events-tooltip .date-start.dtstart, .tribe-events-tooltip .date-end.dtend, .tribe-events-list-widget ol li .duration
+		 {
+			font-family: 'robotoregular';
+			font-family: "Open Sans";
+		}
+		
+		
+		
+		
+		
+		/* ----------------------------------------------------||||||||| NAV TEXT |||||||||||------------------------------------------------- */
+		/* ----------------------------------------------------------------------------------------------------------------------------------- */
+		
+		/* WIDGET FOOTER TEXT */ 
+		.widget-footer, footer, .widget-footer ul.accordion li {
+			font-family: 'robotolight';
+			font-family: "Open Sans";
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	/* ==========================================================================
+	   Background
+	   ========================================================================== */
+		   
+		 /*Background Option for Site */
+		body{
+						background-repeat: repeat!important;			background-attachment: fixed!important;			background-position: top center;
+					} 
+
+		body div {
+			cursor: auto;	
+		}
+		
+		@media only screen and (max-width: 768px) { 
+				#primary_menu, #primary_menu ul, #primary_menu, #menu-icon.active  {
+					background-color: #282D36; 
+					background-color: #282D36;				}
+				
+		}  
+
+		    
+	/* ==========================================================================
+	   FINAL CALL CSS
+	   ========================================================================== */
+		   
+		
+		/* FINAL CALL CSS */
+		body:not(.page-template-page-pagebuilder) .main-content a:not(.btn) {color:#254890;font-weight:bolder;text-decoration:underline}
+
+/****** Remove left date from weekly action posts ******/
+.category-weekly-action-items div.four-fifths {
+    width: 100%;
+}
+.category-weekly-action-items aside.fifth {
+    display: none;
+}
+
+
+/******Left Justify YCP Menu******/
+#menu-yellow-card {
+    padding-left: 0;
+}
+#menu-yellow-card .sub-menu {
+    padding-left:20px;
+}
+
+/******Hide Page Titles******/
+/* Install PGG */
+.page-id-83892 .outter-wrapper h1 {
+display:none;
+}
+/*Groups & Events*/
+.page-id-36872 .outter-wrapper h1 {
+display:none;
+}
+/*Debt Free Future*/
+.page-id-66418 .outter-wrapper h1 {
+display:none;
+}
+/*Economic Freedom*/
+.page-id-66427 .outter-wrapper h1 {
+display:none;
+}
+/*Personal Freedom*/
+.page-id-66424 .outter-wrapper h1 {
+display:none;
+}
+/*Our Vision*/
+.page-id-66249 .outter-wrapper h1 {
+display:none;
+}
+/*Home Page*/
+.page-id-70394 .outter-wrapper h1 {
+display:none;
+}
+/*Resources*/
+.page-id-70807 .outter-wrapper h1 {
+display:none;
+}
+/*Press Releases*/
+.page-id-71603 .outter-wrapper h1 {
+display:none;
+}
+/*Contact Us*/
+.page-id-437 .outter-wrapper h1 {
+display:none;
+}
+/*In The Press*/
+.page-id-441 .outter-wrapper h1 {
+display:none;
+}
+/*TPP Videos /TV */
+.page-id-71127 .outter-wrapper h1 {
+display:none;
+}
+
+
+/**Other Issues Pages**/
+/*Big Government*/
+.page-id-71289 .outter-wrapper h1 {
+display:none;
+}
+/*Tax Reform*/
+.page-id-71287 .outter-wrapper h1 {
+display:none;
+}
+/*Health Care*/
+.page-id-71284 .outter-wrapper h1 {
+display:none;
+}
+/*National Debt*/
+.page-id-71282 .outter-wrapper h1 {
+display:none;
+}
+/*Immigration*/
+.page-id-71292 .outter-wrapper h1 {
+display:none;
+}
+/*First Amendment*/
+.page-id-71294 .outter-wrapper h1 {
+display:none;
+}
+/*Second Amendment*/
+.page-id-71296 .outter-wrapper h1 {
+display:none;
+}
+/*Voter Integrity*/
+.page-id-71298 .outter-wrapper h1 {
+display:none;
+}
+
+
+/**Bottom Footer**/
+/*Terms of Use*/
+.page-id-113 .outter-wrapper h1 {
+display:none;
+}
+/*Privacy Policy*/
+.page-id-64994 .outter-wrapper h1 {
+display:none;
+}
+/*Legal*/
+.page-id-64995 .outter-wrapper h1 {
+display:none;
+}
+/*LetterToEditor*/
+.page-id-71796 .outter-wrapper h1 {
+display:none;
+}
+
+	</style>
+
+
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/jquery.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/rs-plugin/js/jquery.themepunch.plugins.min.js.gzip?rev=4.5.6&#038;ver=4.7.3&amp;x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/rs-plugin/js/jquery.themepunch.revolution.min.js.gzip?rev=4.5.6&#038;ver=4.7.3&amp;x12722'></script>
+<script type='text/javascript' src='//s3.amazonaws.com/tppweb/js/tpp_web.min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/handlebars-v2.0.0.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/geoip2.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/bootstrap.min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/sweet-alert.min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/jquery.matchHeight-min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/jquery.multi-select.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/uservoice.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/jquery.conservativereview.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/jquery.tooltipster.min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/chosen.jquery.min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/moment.min.js?x12722'></script>
+<script type='text/javascript' src='//d79i1fxsrar4t.cloudfront.net/jquery.liveaddress/3.1/jquery.liveaddress.min.js?x12722'></script>
+<script type='text/javascript' src='//d3b5g5w8iutjdd.cloudfront.net/js/vendor/jquery.validate.min.js?x12722'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyANZGK-iW3YpRA1Sv93ixLRmuZB5lvtOgE&#038;ver=4.7.3'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js?x12722'></script>
+<link rel='https://api.w.org/' href='https://www.teapartypatriots.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.teapartypatriots.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/wlwmanifest.xml.gzip" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel="canonical" href="https://www.teapartypatriots.org/" />
+<link rel='shortlink' href='https://www.teapartypatriots.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.teapartypatriots.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teapartypatriots.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.teapartypatriots.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teapartypatriots.org%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css.gzip?x12722" media="screen"><![endif]--><style type="text/css" data-type="vc_custom-css">#otr-top-row .otr-title a, #otr-bottom-row .otr-post-title a {
+    color: #fff !important;
+}
+#otr-top-row .otr-post-date a {
+  color: #aaa;
+}
+
+#otr-bottom-row #chipin_small_view {
+	width: 100%;
+	height: 180px;
+}
+#otr-bottom-row #chipin_small_view .chipin-text {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+#otr-bottom-row #chipin_small_view .chipin-button {
+    bottom: 10px;
+}
+#otr-bottom-row #chipin_small_view .chipin-title {
+    margin-top: 20px;
+}
+#otr-bottom-row .otr-small-info-box .otr-category-title {
+    display: none;
+}
+#otr-bottom-row .otr-small-info-box .otr-category-title span{
+    margin:0 0 10px 0;
+    padding:0 0 10px 0;
+}
+#otr-bottom-row .otr-post-title {
+    height: 40px;
+}
+.pb_hr {
+    display:none;
+}
+.widget-footer {
+    background-color:#1d2028 !important;
+}
+.widget-footer h3 {
+    color:#ffffff !important;
+    font-family: roboto;
+    text-transform:uppercase;
+}
+.widget-footer a,
+.widget-footer .tweet p,
+.widget-footer .tweet p a,
+.widget-footer .tweet p span{
+    color:#c6c6c6;
+}
+.widget-footer a:hover, .widget-footer ul li:before, .widget-footer .tweet:before, .widget-footer .tweet > p:before, footer .foot.left a:hover, ul.social-link a:hover em:before, .widget-footer .tweet a:hover, .widget-footer .tweet a:hover *{
+    color:#4e7bb0 !important;
+}
+footer.outter-wrapper {
+    background:#3e5c97 !important;
+}
+
+
+/* small screens */
+@media only screen and (max-width: 480px) { 
+
+    #otr-top-row {
+        margin-right: 0px !important;
+        margin-left: -15px !important;
+    }
+    
+}
+@media only screen and (max-width: 500px) {
+    #otr-bottom-row .chipin-text {
+        display:block;
+    }
+}
+
+.otr-left::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: -moz-linear-gradient(left,  rgba(0,0,0,0) 0%, rgba(7,7,7,0) 52%, rgba(10,10,10,0.5) 72%, rgba(14,14,14,0.75) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,0)), color-stop(52%,rgba(7,7,7,0)), color-stop(72%,rgba(10,10,10,0.5)), color-stop(100%,rgba(14,14,14,0.75))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(7,7,7,0) 52%,rgba(10,10,10,0.5) 72%,rgba(14,14,14,0.75) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(7,7,7,0) 52%,rgba(10,10,10,0.5) 72%,rgba(14,14,14,0.75) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  rgba(0,0,0,0) 0%,rgba(7,7,7,0) 52%,rgba(10,10,10,0.5) 72%,rgba(14,14,14,0.75) 100%); /* IE10+ */
+  background: linear-gradient(to right,  rgba(0,0,0,0) 0%,rgba(7,7,7,0) 52%,rgba(10,10,10,0.5) 72%,rgba(14,14,14,0.75) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#bf0e0e0e',GradientType=1 ); /* IE6-9 */
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1428328668458{margin-bottom: -10px !important;}.vc_custom_1428328717228{margin-bottom: -10px !important;}.vc_custom_1428328748309{margin-bottom: -10px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.5 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="Tea Party Patriots"/>
+  <meta property="og:title" content="Home"/>
+  <meta property="og:url" content="http://www.teapartypatriots.org"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Home"/>
+  <meta property="og:image" content="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2014/11/TPPPPPPPP.png"/>
+  <meta property="fb:app_id" content="348098171999133"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Home"/>
+  <meta itemprop="description" content="Home"/>
+  <meta itemprop="image" content="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2014/11/TPPPPPPPP.png"/>
+ <!-- Twitter Cards -->
+ <!-- SEO -->
+ <!-- Misc. tags -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.5 -->
+
+        <style>
+            #dashboard-hdr {
+                x-display: none;
+            }
+        </style>
+        
+            </head>
+
+    <body class="home page-template page-template-page-pagebuilder page-template-page-pagebuilder-php page page-id-70394 default wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+    <input id='dirty' type='hidden'>
+    <script>
+        if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+            if(window.location.pathname === '/') {
+                jQuery(document).ready(function() {
+                    if (jQuery('#dirty').val()) {
+                        window.history.go(0);
+                    }
+                    // when something modifies a div that needs to be refreshed, set dirty=1
+                    jQuery('#dirty').val('1');
+                });
+            }
+        }
+    </script>
+
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+        <![endif]-->
+
+
+        <!-- CONSTRUCTION MODE -->
+        
+        <!-- HEADER -->
+        <div class="sticky-header-wrapper clearfix tpp-hdr">
+	<div id='top-social-hdr' class="outter-wrapper pre-header-container pre-head-lr canon_sticky" style="position: static; top: auto; z-index: 999;">
+		<div class="wrapper">
+			<div class="clearfix">
+				<div class="pre-header left">
+					<!-- WORDPRESS MENU: SECONDARY MENU -->
+					<nav id="nav-wrap2" class="secondary_menu_container"><ul id="secondary_menu" class="secondary_menu nav">
+						<li id="menu-item-top-give" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-give" ><a href="/donate/">Donate</a></li>
+						<!-- li id="menu-item-top-volr" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-volr" ><a href="/rapid-responders/">Volunteer</a></li -->
+						<li id="menu-item-top-regr" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-regr" ><a href="/register-now">Register</a></li>
+						<li id="menu-item-top-logn" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-logn" ><a href="/login">Login</a></li>
+						<li id="menu-item-top-dash" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-dash" ><a href="/dashboard/edit-profile">Dashboard</a></li>
+						<li id="menu-item-top-lout" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-lout" ><a href="/">Logout</a></li>
+					</ul></nav>
+				</div>
+
+				<div class="pre-header right">
+					<ul class="header_toolbar">
+						<li class="toolbar-search-btn"><em class="fa fa-search"></em></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Start main Header Container -->
+	<div class="outter-wrapper header-container ">
+		<div class="wrapper">
+			<div class="clearfix">
+				<div class="main-header left">
+					<div id="header_logo">
+						<a href="/" class="logo"><img src="//d3b5g5w8iutjdd.cloudfront.net/images/Logo@2x.png?x12722" alt="Tea Party"></a>
+					</div>
+				</div>
+
+				<div class="main-header right">
+					<!-- WORDPRESS MENU: PRIMARY -->
+					<nav id="nav-wrap" class="primary_menu_container">
+						<!-- div id="menu-icon" class="active"><span><img src="/wp-content/themes/trades/img/hamburger@2x.png?x12722"></span>Menu</div -->
+						<ul id="primary_menu" class="primary_menu nav">
+							<!-- li id="menu-item-home" class=" current-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-home" ><a href="/">Home</a></li -->
+							<li id="menu-item-ourv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-ourv" ><a href="/ourvision/">Our Vision</a></li>
+							<li id="menu-item-news" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-news" ><a href="/news/">News</a></li>
+							<li id="menu-item-grps" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-grps" ><a href="/groups/">Groups</a></li>
+							<li id="menu-item-grps" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-grps" ><a href="/events/">Events</a></li>
+							<li id="menu-item-rsrc" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-rsrc" ><a href="/resources/">Resources</a></li>
+							<li id="menu-item-invd" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-invd" ><a href="/get-involved/">Get Involved</a></li>
+							<!-- li id="menu-item-evts" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-evts" ><a href="/events/">Events</a></li -->
+							<li id="menu-item-sdiv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-sdiv" style="height:10px"><hr/></li>
+							<li id="menu-item-give" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-give" ><a href="/donate/?donation_amount=$10">Donate</a></li>
+							<!-- li id="menu-item-volr" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-volr" ><a href="/rapid-responders/">Volunteer</a></li -->
+							<li id="menu-item-regr" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-regr" ><a href="/register-now/">Register</a></li>
+							<li id="menu-item-logn" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-logn" ><a href="/login/">Login</a></li>
+							<li id="menu-item-dash" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-dash" ><a href="/dashboard/edit-profile">Dashboard</a></li>
+							<li id="menu-item-lout" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-lout" ><a href="/">Logout</a></li>
+						</ul></nav>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- SEARCH BOX -->
+	<div class="outter-wrapper search-header-container" data-status="closed" style="display: none;">
+		<!-- Start Main Navigation -->
+		<div class="wrapper">
+			<header class="clearfix">
+
+				<ul class="search_controls">
+					<li class="search_control_search"><em class="fa fa-search"></em></li>
+					<li class="search_control_close"><em class="fa fa-times"></em></li>
+				</ul>
+
+				<form role="search" method="get" id="searchform" action="/search/" _lpchecked="1">
+					<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="q" class="full ui-autocomplete-input" name="q" placeholder="What are you looking for?" autocomplete="off">
+				</form>
+			</header>
+		</div>
+	</div>
+
+	</div>
+    
+    <!-- Start Outter Wrapper -->   
+    <div class="outter-wrapper feature pb_hr">
+        <hr>
+    </div>
+    <!-- End Outter Wrapper --> 
+    	
+    <!-- BEGIN LOOP -->
+    
+        
+		<!-- BLOCK: PEOPLE-->
+
+	        <!-- start outter-wrapper -->   
+	        <div id="pb_block-0" class="outter-wrapper banner-email pb_block pb_block_main pb_text_section" data-stellar-background-ratio='1'>
+
+	            <!-- block styles -->
+	            <style type="text/css" scoped>
+						            	#pb_block-0 
+	            	{
+	            			            			            	}
+
+					#pb_block-0 *
+
+					{
+	            							}
+
+					.banner-email {background: #3b588f;
+background: -moz-linear-gradient(top, #3b588f 0%, #293c63 100%);
+background: -webkit-linear-gradient(top, #3b588f 0%,#293c63 100%);
+background: linear-gradient(to bottom, #3b588f 0%,#293c63 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b588f', endColorstr='#293c63',GradientType=0 );}
+.banner-email .wrapper {
+padding:0px;
+}
+.banner-email .vc_col-sm-4 {
+background: #324771;
+background: -moz-linear-gradient(top, #324771 0%, #22304c 100%);
+background: -webkit-linear-gradient(top, #324771 0%,#22304c 100%);
+background: linear-gradient(to bottom, #324771 0%,#22304c 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#324771', endColorstr='#22304c',GradientType=0 );
+}
+.banner-email .vc_col-sm-4 .vc_column-inner {
+padding-left:25px;
+padding-right:25px;
+}
+@media only screen and (min-width: 769px) { 
+.banner-email .vc_col-sm-8 .vc_column-inner {
+padding-top: 5%;
+padding-right: 5%;
+padding-left:0px;
+}
+#rev_slider_2_1,
+#rev_slider_2_1_wrapper {
+    height:346px !important;
+}
+}
+#pb_block-0 #newslettersignup_block {
+height: auto;
+background: transparent;
+}
+.banner-email .newslettersignup-text, #pb_block-0 .newslettersignup-header {
+display:none;
+}
+.banner-email .newslettersignup-email {
+ margin:0px;
+width: 100% !important;
+border-radius: 0px !important;
+}
+h2.newsletterthankyou-text {
+    text-align:center;
+}	            </style>
+
+	            <!-- start main-container -->
+	            <div class="main-container">
+	                <!-- start main wrapper -->
+	                <div class="main wrapper clearfix" >
+	                    <!-- start main-content -->
+	                    <div class="main-content">
+
+	                    	<!-- Start Post --> 
+	                    	<div class="clearfix">
+
+	    	                		    	                	
+		    	                <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<!-- START REVOLUTION SLIDER 4.5.6 fullwidth mode -->
+
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:300px;">
+	<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;max-height:300px;height:300px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="https://supporttaxreform.act.teapartypatriots.org"   data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/images/dummy.png?x12722"  alt="image1493837402" data-lazyload="//cdn.teapartypatriots.org/images/banner/175/image1493837402.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://www.teapartypatriots.org/news/tea-party-patriots-praises-president-trump-senate-republicans-for-confirmation-of-judge-gorsuch-to-the-supreme-court/"   data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/images/dummy.png?x12722"  alt="image1491560428" data-lazyload="//cdn.teapartypatriots.org/images/banner/170/image1491560428.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="https://defendthefreedomcaucus.act.teapartypatriots.org/"   data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/images/dummy.png?x12722"  alt="image1490975574" data-lazyload="//cdn.teapartypatriots.org/images/banner/169/image1490975574.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://www.teapartypatriots.org/events/"   data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/images/dummy.png?x12722"  alt="image1487627622" data-lazyload="//cdn.teapartypatriots.org/images/banner/163/image1487627622.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="http://www.teapartypatriots.org/support-trump-nominees/"   data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/tpp-revslider/images/dummy.png?x12722"  alt="image1481321038" data-lazyload="//cdn.teapartypatriots.org/images/banner/147/image1481321038.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+</div>
+			<script type="text/javascript">
+jQuery('.fullwidthbanner-container .fullwidthbanner').append('<img id="fullwidthbanner-img-placeholder" src="//d3b5g5w8iutjdd.cloudfront.net/images/banner/about-us-banner-1.jpg?x12722" />');
+
+function tpp_revslider_init(priority) {
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 960;
+						tpopt.startheight = 300;
+						tpopt.container = jQuery('#rev_slider_2_1');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi2;
+
+				tpj(document).ready(function() {
+
+					// console.log('revslider tpj ready');
+					jQuery('#fullwidthbanner-img-placeholder').remove();
+
+					// var tpp_slide_count = jQuery('.fullwidthbanner .rev_slider ul li').length;
+
+					var	_stopLoop = "off",
+						_stopAfterLoops=-1,
+						_stopAtSlide=-1;
+
+					if (priority >= 100000) {
+						_stopLoop = "on";
+						_stopAfterLoops=0;
+						_stopAtSlide=1;
+					}
+
+				if(tpj('#rev_slider_2_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_2_1');
+				else
+				   revapi2 = tpj('#rev_slider_2_1').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:9000,
+						startwidth:960,
+						startheight:300,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+
+						swipe_velocity: 0.7,
+						swipe_min_touches: 1,
+						swipe_max_touches: 1,
+						drag_block_vertical: false,
+						
+						
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:3,
+						fullWidth:"on",
+						fullScreen:"off",
+
+						spinner:"spinner0",
+
+						stopLoop:_stopLoop,
+						stopAfterLoops:_stopAfterLoops,
+						stopAtSlide:_stopAtSlide,
+
+						shuffle:"off",
+
+						autoHeight:"on",
+						forceFullWidth:"off",
+						
+						
+						hideTimerBar:"on",
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0					});
+
+
+					
+					// ;console.log('revapi done');
+				});	/*ready*/
+
+} // tpp_revslider_init
+
+TPPweb.on('init', function(){
+	var mainBanner = jQuery('#rev_slider_2_1_wrapper');
+	if (!mainBanner || !mainBanner[0])
+		return tpp_revslider_init(); // we only care to handle frontpage banner special
+
+	// TPPapi.auth.isLoggedIn({
+	// 	success: function(result) {
+	// 		if(!result) {
+	// 			// regular users geet the default slides
+	// 			tpp_revslider_init();
+	// 		} else {
+				TPPapi.webresources.ContentByType('sliders',{success:function(result){
+
+					var priority = 0;
+
+					if (result && result.status) {
+						var slides = result.data;
+						if (slides && slides.length) {
+							var origSlides = jQuery('.rev_slider li');
+
+							priority = slides[0].priority;
+
+							for (i in slides) {
+								var slideDom = origSlides[i];  // reuse existing
+								if (!slideDom) {
+									slideDom = jQuery(origSlides[origSlides.length-1]).clone().appendTo('.rev_slider ul');
+								} else {
+									slideDom = jQuery(slideDom); // make this consistent with the above so it is jq and not plain dom
+								}
+
+								var banner = slides[i].banner;
+								var url    = slides[i].url;
+
+								if (banner.indexOf('//') < 0)
+									banner = '//d3b5g5w8iutjdd.cloudfront.net'+banner;
+
+								slideDom.attr('data-link', url).find('img').attr('data-lazyload', banner).attr('alt','');
+							}
+							if (slides.length < origSlides.length) {
+								for (i=slides.length; i < origSlides.length; i++) {
+									jQuery('.fullwidthbanner .rev_slider ul li:nth-child('+(i+1)+')').remove();
+								}
+							}
+console.log('done with DOM changes');
+						}
+						tpp_revslider_init(priority);
+console.log('done with revslider');
+					} else {
+						tpp_revslider_init(priority);
+					}
+				}, error:function(){
+					tpp_revslider_init(0);
+				}});
+	// 		}
+	// 	}, error:function(){
+	// 		tpp_revslider_init();
+	// 	}
+	// });
+	TPPweb.releaseInit();
+});
+			</script>
+
+
+			<!-- END REVOLUTION SLIDER -->
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading"> CONNECT WITH US</h2><h3 style="font-size: 19px;color: #f6f6f6;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading">Join over 3 million Patriots that are already making a difference.
+</h3>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span style="color: #f6f6f6;">Sign up for <strong style="color: #f6f6f6;">custom content</strong>, <strong style="color: #f6f6f6;">important updates</strong>, and <strong style="color: #f6f6f6;">resources</strong> that will enable you to hold our nation’s leaders accountable.</span></p>
+<p><span style="color: #f6f6f6;">We will provide a grassroots platform for your voice to be heard, and ultimately for you to pursue the American dream.</span></p>
+
+		</div>
+	</div>
+	 		<!--<div class="spinner"></div>
+	 		<span class="hidden" id="chipin_config" data-tpp-display="" data-tpp-size="" data-tpp-color=""></span>-->
+			<div id="newslettersignup_block" style="display:none;">
+				<div id="newsletter-spinner" class="spinner" style="display:none;"></div>
+				<h2 class="newslettersignup-header"></h2>
+				<div id="newslettersignup-form">
+					<form id="nsb-form" method="POST">
+						<div id="newsletter-spinner" class="spinner" style="display:none;"></div>
+						<input class="newslettersignup-email" id="this_email" type="text" name="email" value="" />
+					</form>
+				</div>
+				<p class="newslettersignup-text">Stay up to date on<br />news and events<br />that matter.</p>
+				<p class="newslettersignup-responsive-text">Stay up to date on news and events that matter.</p>
+				<div id="newslettersignup-thanks" style="display:none;">
+					<h2 class="newsletterthankyou-text">Thank you for signing up.<br />A confirmation message has been sent.</h2>
+				</div>
+				<div id="newslettersignup-error" style="display:none;">
+					<h2 class="newslettererrortext">There was an error signing up. Please try again.</h2>
+				</div>
+
+			</div>
+
+		
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center; color: #ffffff; font-size: 15px;"><em>Other ways to follow us:</em> <i class="fa fa-twitter"></i> <i class="fa fa-facebook"></i></p>
+
+		</div>
+	</div>
+</div></div></div></div>	                         
+	                        </div>
+
+
+	                    </div>
+	                    <!-- end main-content -->
+	                </div>
+	                <!-- end main wrapper -->
+	            </div>
+	             <!-- end main-container -->
+	        </div>
+	        <!-- end outter-wrapper -->
+		
+		<!-- END BLOCK -->
+
+		
+		<!-- BLOCK: PEOPLE-->
+
+	        <!-- start outter-wrapper -->   
+	        <div id="pb_block-1" class="outter-wrapper about pb_block pb_block_main pb_text_section" data-stellar-background-ratio='1'>
+
+	            <!-- block styles -->
+	            <style type="text/css" scoped>
+						            	#pb_block-1 
+	            	{
+	            		background-image: url('https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2017/04/website-about-back.jpg');	            			            	}
+
+					#pb_block-1 *
+
+					{
+	            							}
+
+					.about {
+background-size: cover;
+padding:0px;
+}
+.about .wrapper {
+padding:0px;
+}
+.about .vision,
+.about .issues {
+ padding-top: 30px;
+padding-bottom:30px;
+}
+.about-box {
+background-color: rgba(255,255,255,0.64);
+font-size:18px;
+color:#000;
+}
+.about-box p {
+padding:0px 20px 20px 20px;
+}
+.about-box h2 {
+margin-bottom:10px;
+}
+.about-box a {
+color:#3e5c97;
+}
+.about-box .wpb_text_column {
+margin-bottom: 15px;
+}
+.issues {
+background-color: rgba(187,37,53,0.9);
+    margin-left: 0;
+    margin-right: 0;
+}
+.issues .main-issues {
+color: #ffffff;
+}
+.issues .main-issues p {
+font-weight:bolder !important;
+}
+.issues .main-issues a,
+.issues .main-issues a strong {
+color: #dadfe3;
+}
+.issues .other-issues .wpb_content_element {
+margin-bottom:15px;
+}
+.issues .other-issues {
+ background-color: rgba(255,255,255,0.65);
+color: #bb2535;
+font-size:13px;
+}
+.issues .other-issues a {
+color: #bb2535;
+}
+	            </style>
+
+	            <!-- start main-container -->
+	            <div class="main-container">
+	                <!-- start main wrapper -->
+	                <div class="main wrapper clearfix" >
+	                    <!-- start main-content -->
+	                    <div class="main-content">
+
+	                    	<!-- Start Post --> 
+	                    	<div class="clearfix">
+
+	    	                		    	                	
+		    	                <div class="vc_row wpb_row vc_row-fluid vision"><div class="about-box wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 40px;color: #1d2028;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading about-title">OUR VISION</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>The Tea Party Patriots stands for every American, and is home to millions who have come together to pursue the American Dream and to keep that Dream alive for their children and grandchildren. We envision a nation where personal freedom is cherished and where all Americans are treated equally, assuring your ability to <strong>pursue your American Dream</strong>.</p>
+
+		</div>
+	</div>
+</div></div></div></div><section class="vc_section issues"><div class="vc_row wpb_row vc_row-fluid main-issues"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<div style="text-align:center;font-size:72px;color:#ffffff;"><i class="fa fa-chain-broken" aria-hidden="true"></i></div>
+		</div>
+	</div>
+<h2 style="color: #ffffff;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading">PERSONAL FREEDOM</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>We are most free when the Constitution is followed, and all Americans can live life the way they want, as long as it does not harm others or infringe on their rights.</p>
+<p><a href="https://www.teapartypatriots.org/ourvision/personal-freedom/"><strong>READ MORE &gt;&gt;</strong></a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<div style="text-align:center;font-size:72px;color:#ffffff;"><i class="fa fa-usd" aria-hidden="true"></i></div>
+		</div>
+	</div>
+<h2 style="color: #ffffff;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading">ECONOMIC FREEDOM</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>A growing economy, with reduced tax rates and government spending, gives businesses the ability to hire more people and us all a chance to earn more.</p>
+<p><a href="https://www.teapartypatriots.org/ourvision/economic-freedom/"><strong>READ MORE &gt;&gt;</strong></a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<div style="text-align:center;font-size:72px;color:#ffffff;"><i class="fa fa-line-chart" aria-hidden="true"></i></div>
+		</div>
+	</div>
+<h2 style="color: #ffffff;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading">DEBT FREE FUTURE</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Increasing the US debt puts an undue burden on future generations. It is only fair and right to pay the debt we have incurred so our children are not stuck with our bills.</p>
+<p><a href="https://www.teapartypatriots.org/ourvision/debt-free-future/"><strong>READ MORE &gt;&gt;</strong></a></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid other-issues"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><strong>OTHER ISSUES:</strong>  <a href="https://www.teapartypatriots.org/ourvision/big-government/">Big Government</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/tax-reform/">Tax Reform</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/healthcare/">Healthcare</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/national-debt/">National Debt</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/immigration/">Immigration</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/first-amendment-rights/">1st Amendment Rights</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/second-amendment-rights/">2nd Amendment Rights</a>   ■   <a href="https://www.teapartypatriots.org/ourvision/voter-integrity/">Voter Integrity</a></p>
+
+		</div>
+	</div>
+</div></div></div></div></section>	                         
+	                        </div>
+
+
+	                    </div>
+	                    <!-- end main-content -->
+	                </div>
+	                <!-- end main wrapper -->
+	            </div>
+	             <!-- end main-container -->
+	        </div>
+	        <!-- end outter-wrapper -->
+		
+		<!-- END BLOCK -->
+
+		
+		<!-- BLOCK: PEOPLE-->
+
+	        <!-- start outter-wrapper -->   
+	        <div id="pb_block-2" class="outter-wrapper group-search pb_block pb_block_main pb_text_section" data-stellar-background-ratio='1'>
+
+	            <!-- block styles -->
+	            <style type="text/css" scoped>
+						            	#pb_block-2 
+	            	{
+	            			            		background-color: #1d2028;	            	}
+
+					#pb_block-2 *
+
+					{
+	            		color: #ffffff;					}
+
+					.group-search {
+padding:30px 0;
+}
+.group-search .groups-map {
+margin-top:60px;
+}
+@media (max-width: 768px) {
+.groups-map {
+margin-top:10px;
+}
+}	            </style>
+
+	            <!-- start main-container -->
+	            <div class="main-container">
+	                <!-- start main wrapper -->
+	                <div class="main wrapper clearfix" >
+	                    <!-- start main-content -->
+	                    <div class="main-content">
+
+	                    	<!-- Start Post --> 
+	                    	<div class="clearfix">
+
+	    	                		    	                	
+		    	                <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1487878597198"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="color: #6db8d8;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading">TEA PARTY PATRIOTS LOCAL GROUPS</h2>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1421947523390 font-size-18">
+		<div class="wpb_wrapper">
+			<p>The Tea Party Patriots depend on grassroots activism where it counts: near you. Local Groups are the backbone of our activities across the nation. Our cause is driven by concerned Americans like you, who strive to inform, educate and engage their community about the issues that affect all of our lives. All around the country, Tea Party Patriots have formed Local Groups to share information and promote the values we share. Join the grassroots movement and find a group near you!</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left   groups-map">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="200" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2015/01/Groups-Map.png" class="vc_single_image-img attachment-medium" alt="" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1421941111701"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html font-size-20">
+		<div class="wpb_wrapper">
+			<input type='text' value='' placeholder='City, State, Zip, or Group name' id='group-search-field' class='group-search-field font-size-20'/>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<a href="#" class='group-search-button red-button' style='background-color:#61aacd;font-family:Roboto;'>FIND GROUPS</a>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_raw_js">
+		<div class="wpb_wrapper">
+			<script type="text/javascript"> jQuery(".group-search-button").on('click', function(event) {
+TPPweb.stopEvent(event);
+var search = jQuery('#group-search-field').val();
+window.location.href = '/groups?search='+search;
+});
+
+jQuery('.group-search-field').keypress(function(e) {
+				if(e.which == 13) {
+					var search = jQuery('#group-search-field').val();
+window.location.href = '/groups?search='+search;
+				}
+			}); </script>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div>	                         
+	                        </div>
+
+
+	                    </div>
+	                    <!-- end main-content -->
+	                </div>
+	                <!-- end main wrapper -->
+	            </div>
+	             <!-- end main-container -->
+	        </div>
+	        <!-- end outter-wrapper -->
+		
+		<!-- END BLOCK -->
+
+		
+		<!-- BLOCK: PEOPLE-->
+
+	        <!-- start outter-wrapper -->   
+	        <div id="pb_block-3" class="outter-wrapper pb_block pb_block_main pb_text_section" data-stellar-background-ratio='0.2'>
+
+	            <!-- block styles -->
+	            <style type="text/css" scoped>
+						            	#pb_block-3 
+	            	{
+	            			            			            	}
+
+					#pb_block-3 *
+
+					{
+	            							}
+
+						            </style>
+
+	            <!-- start main-container -->
+	            <div class="main-container">
+	                <!-- start main wrapper -->
+	                <div class="main wrapper clearfix" >
+	                    <!-- start main-content -->
+	                    <div class="main-content">
+
+	                    	<!-- Start Post --> 
+	                    	<div class="clearfix">
+
+	    	                		    	                	
+		    	                <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 40px;color: #1d2028;text-align: center;font-family:Roboto;font-weight:700;font-style:normal" class="vc_custom_heading">PATRIOT NEWS</h2></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div
+  class="wpb_row wpb_teaser_grid wpb_content_element wpb_grid columns_count_3 columns_count_3 wpb_teaser_grid_post  img-sized-posts-grid">
+	<div class="wpb_wrapper">
+				<div class="teaser_grid_container">
+						<ul class="wpb_thumbnails wpb_thumbnails-fluid vc_clearfix"
+				data-layout-mode="fitRows">
+																						<li
+					  class="isotope-item vc_col-sm-4 grid-cat-70 grid-cat-4 grid-cat-50 grid-cat-108">
+						<div class="isotope-inner">
+													<h2 class="post-title">
+    <a href="https://www.teapartypatriots.org/news/tea-party-patriots-applauds-house-freedom-caucus-president-trump-vice-president-pence-for-negotiating-forward-movement-toward-obamacare-repeal/" class="link_title" title="Permalink to Tea Party Patriots Applauds House Freedom Caucus, President Trump &#038; Vice President Pence for Negotiating Forward Movement Toward Obamacare Repeal">Tea Party Patriots Applauds House Freedom Caucus, President Trump &#038; Vice President Pence for Negotiating Forward Movement Toward Obamacare Repeal</a></h2>
+													<div class="post-thumb">
+    <a href="https://www.teapartypatriots.org/news/tea-party-patriots-applauds-house-freedom-caucus-president-trump-vice-president-pence-for-negotiating-forward-movement-toward-obamacare-repeal/" class="link_image" title="Permalink to Tea Party Patriots Applauds House Freedom Caucus, President Trump &#038; Vice President Pence for Negotiating Forward Movement Toward Obamacare Repeal"><img width="300" height="150" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2016/04/TPPPPPPPP.png" class="attachment-medium" alt="" /></a>
+    <!--adding in TAG for display on TPP posts-grids-->
+			<div class="post-tag">
+			<a href='/tag/press-release'>
+				<span class='tpp-post-tag'>Press Release<br/></span>
+				<span class='tpp-post-date'>May 4th, 2017</span>
+			</a>
+		</div>
+		<!--end custom tag on TPP post-grids-->
+
+</div>
+													<div class="entry-content">
+    <!-- AddThis Sharing Buttons above -->Tea Party Group Calls on Senate to Keep McConnell’s Promise to Repeal Obamacare ‘Root and Branch’ Atlanta, GA – Tea Party Patriots President and co-founder Jenny Beth Martin released the following statement today, reacting to the House of Representatives’ vote to pass an amended version of the American Health Care Act. “During the 2016 campaign, [&hellip;]<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/news/tea-party-patriots-applauds-house-freedom-caucus-president-trump-vice-president-pence-for-negotiating-forward-movement-toward-obamacare-repeal/' addthis:title='Tea Party Patriots Applauds House Freedom Caucus, President Trump &#038; Vice President Pence for Negotiating Forward Movement Toward Obamacare Repeal' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div></div>
+													<a href="https://www.teapartypatriots.org/news/tea-party-patriots-applauds-house-freedom-caucus-president-trump-vice-president-pence-for-negotiating-forward-movement-toward-obamacare-repeal/" class="vc_read_more"
+   title="Permalink to Tea Party Patriots Applauds House Freedom Caucus, President Trump &#038; Vice President Pence for Negotiating Forward Movement Toward Obamacare Repeal">Read more</a>
+												</div>
+					</li> 															<li
+					  class="isotope-item vc_col-sm-4 grid-cat-70 grid-cat-97 grid-cat-4">
+						<div class="isotope-inner">
+													<h2 class="post-title">
+    <a href="https://www.teapartypatriots.org/news/unemployment-applications-in-april-far-below-projections/" class="link_title" title="Permalink to Unemployment applications in April far below projections">Unemployment applications in April far below projections</a></h2>
+													<div class="post-thumb">
+    <a href="https://www.teapartypatriots.org/news/unemployment-applications-in-april-far-below-projections/" class="link_image" title="Permalink to Unemployment applications in April far below projections"><img width="300" height="150" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2017/05/TPP-5-4-17-blog-general.png" class="attachment-medium" alt="" /></a>
+    <!--adding in TAG for display on TPP posts-grids-->
+			<div class="post-tag">
+			<a href='/tag/general'>
+				<span class='tpp-post-tag'>General<br/></span>
+				<span class='tpp-post-date'>May 4th, 2017</span>
+			</a>
+		</div>
+		<!--end custom tag on TPP post-grids-->
+
+</div>
+													<div class="entry-content">
+    <!-- AddThis Sharing Buttons above -->Fewer men and women are applying for unemployment benefits, as the numbers in the latest jobless-claims report are far below what some analysts projected: 238,000 at the end of April instead of the projected 246,000. The Washington Examiner has the story: Even better, the Labor Department&#8217;s release revealed that the total number of people receiving [&hellip;]<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/news/unemployment-applications-in-april-far-below-projections/' addthis:title='Unemployment applications in April far below projections' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div></div>
+													<a href="https://www.teapartypatriots.org/news/unemployment-applications-in-april-far-below-projections/" class="vc_read_more"
+   title="Permalink to Unemployment applications in April far below projections">Read more</a>
+												</div>
+					</li> 															<li
+					  class="isotope-item vc_col-sm-4 grid-cat-70 grid-cat-11 grid-cat-4">
+						<div class="isotope-inner">
+													<h2 class="post-title">
+    <a href="https://www.teapartypatriots.org/news/last-obamacare-exchange-in-one-iowa-county-set-to-fold/" class="link_title" title="Permalink to Last Obamacare exchange in one Iowa county set to fold">Last Obamacare exchange in one Iowa county set to fold</a></h2>
+													<div class="post-thumb">
+    <a href="https://www.teapartypatriots.org/news/last-obamacare-exchange-in-one-iowa-county-set-to-fold/" class="link_image" title="Permalink to Last Obamacare exchange in one Iowa county set to fold"><img width="300" height="150" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2017/05/TPP-5-3-17-blog-healthcare.png" class="attachment-medium" alt="" /></a>
+    <!--adding in TAG for display on TPP posts-grids-->
+			<div class="post-tag">
+			<a href='/tag/healthcare'>
+				<span class='tpp-post-tag'>Healthcare<br/></span>
+				<span class='tpp-post-date'>May 3rd, 2017</span>
+			</a>
+		</div>
+		<!--end custom tag on TPP post-grids-->
+
+</div>
+													<div class="entry-content">
+    <!-- AddThis Sharing Buttons above -->Yet another of the health-insurance exchanges set up in the wake of Obamacare’s passage will likely fold in the days ahead as it struggles to meet its bottom line. The Washington Examiner has the details: The Des Moines Register reports that after the exit of Aetna and Wellmark Blue Cross &amp; Blue Shield from Iowa&#8217;s [&hellip;]<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/news/last-obamacare-exchange-in-one-iowa-county-set-to-fold/' addthis:title='Last Obamacare exchange in one Iowa county set to fold' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div></div>
+													<a href="https://www.teapartypatriots.org/news/last-obamacare-exchange-in-one-iowa-county-set-to-fold/" class="vc_read_more"
+   title="Permalink to Last Obamacare exchange in one Iowa county set to fold">Read more</a>
+												</div>
+					</li> 															<li
+					  class="isotope-item vc_col-sm-4 grid-cat-70 grid-cat-26 grid-cat-106 grid-cat-4 grid-cat-91">
+						<div class="isotope-inner">
+													<h2 class="post-title">
+    <a href="https://www.teapartypatriots.org/news/tea-party-patriots-weekly-report-from-washington-for-43017/" class="link_title" title="Permalink to Tea Party Patriots Weekly Report from Washington for 4/30/17">Tea Party Patriots Weekly Report from Washington for 4/30/17</a></h2>
+													<div class="post-thumb">
+    <a href="https://www.teapartypatriots.org/news/tea-party-patriots-weekly-report-from-washington-for-43017/" class="link_image" title="Permalink to Tea Party Patriots Weekly Report from Washington for 4/30/17"><img width="300" height="150" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2016/09/wash-report.jpg" class="attachment-medium" alt="" /></a>
+    <!--adding in TAG for display on TPP posts-grids-->
+			<div class="post-tag">
+			<a href='/tag/legislative-updates'>
+				<span class='tpp-post-tag'>Legislative Updates<br/></span>
+				<span class='tpp-post-date'>May 3rd, 2017</span>
+			</a>
+		</div>
+		<!--end custom tag on TPP post-grids-->
+
+</div>
+													<div class="entry-content">
+    <!-- AddThis Sharing Buttons above -->CALENDAR: The House will return on Monday, with no votes scheduled before 6:30, and will stay in session through Thursday, with the last vote scheduled no later than 3 PM. The Senate will return on Monday, and will stay in session through Friday. LAST WEEK ON THE HOUSE FLOOR: The House returned on Tuesday and [&hellip;]<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/news/tea-party-patriots-weekly-report-from-washington-for-43017/' addthis:title='Tea Party Patriots Weekly Report from Washington for 4/30/17' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div></div>
+													<a href="https://www.teapartypatriots.org/news/tea-party-patriots-weekly-report-from-washington-for-43017/" class="vc_read_more"
+   title="Permalink to Tea Party Patriots Weekly Report from Washington for 4/30/17">Read more</a>
+												</div>
+					</li> 															<li
+					  class="isotope-item vc_col-sm-4 grid-cat-4">
+						<div class="isotope-inner">
+													<h2 class="post-title">
+    <a href="https://www.teapartypatriots.org/news/tea-party-patriots-gov-christies-attempted-extortion-of-horizon-threatens-new-jerseyans-healthcare-security/" class="link_title" title="Permalink to Tea Party Patriots: Gov. Christie’s Attempted Extortion of Horizon Threatens New Jerseyans’ Healthcare Security">Tea Party Patriots: Gov. Christie’s Attempted Extortion of Horizon Threatens New Jerseyans’ Healthcare Security</a></h2>
+													<div class="post-thumb">
+    <a href="https://www.teapartypatriots.org/news/tea-party-patriots-gov-christies-attempted-extortion-of-horizon-threatens-new-jerseyans-healthcare-security/" class="link_image" title="Permalink to Tea Party Patriots: Gov. Christie’s Attempted Extortion of Horizon Threatens New Jerseyans’ Healthcare Security"><img width="300" height="150" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2016/04/TPPPPPPPP.png" class="attachment-medium" alt="" /></a>
+    <!--adding in TAG for display on TPP posts-grids-->
+		<!--end custom tag on TPP post-grids-->
+
+</div>
+													<div class="entry-content">
+    <!-- AddThis Sharing Buttons above -->Atlanta, GA – Tea Party Patriots President and Co-Founder Jenny Beth Martin issued the following statement today in response to the news that Standard &amp; Poor’s has given an “A” credit rating to Horizon Blue Cross Blue Shield of New Jersey. “Conservatives believe deeply in the power of free markets, and we are greatly concerned about [&hellip;]<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/news/tea-party-patriots-gov-christies-attempted-extortion-of-horizon-threatens-new-jerseyans-healthcare-security/' addthis:title='Tea Party Patriots: Gov. Christie’s Attempted Extortion of Horizon Threatens New Jerseyans’ Healthcare Security' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div></div>
+													<a href="https://www.teapartypatriots.org/news/tea-party-patriots-gov-christies-attempted-extortion-of-horizon-threatens-new-jerseyans-healthcare-security/" class="vc_read_more"
+   title="Permalink to Tea Party Patriots: Gov. Christie’s Attempted Extortion of Horizon Threatens New Jerseyans’ Healthcare Security">Read more</a>
+												</div>
+					</li> 															<li
+					  class="isotope-item vc_col-sm-4 grid-cat-23 grid-cat-70 grid-cat-4">
+						<div class="isotope-inner">
+													<h2 class="post-title">
+    <a href="https://www.teapartypatriots.org/news/report-more-than-345-va-employees-draw-federal-salary-even-when-theyre-not-working-for-the-fed/" class="link_title" title="Permalink to Report: More than 345 VA employees draw federal salary even when they&#8217;re not working for the fed">Report: More than 345 VA employees draw federal salary even when they&#8217;re not working for the fed</a></h2>
+													<div class="post-thumb">
+    <a href="https://www.teapartypatriots.org/news/report-more-than-345-va-employees-draw-federal-salary-even-when-theyre-not-working-for-the-fed/" class="link_image" title="Permalink to Report: More than 345 VA employees draw federal salary even when they&#8217;re not working for the fed"><img width="300" height="150" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2017/04/TPP-4-27-17-blog-big-government.png" class="attachment-medium" alt="" /></a>
+    <!--adding in TAG for display on TPP posts-grids-->
+			<div class="post-tag">
+			<a href='/tag/big-government'>
+				<span class='tpp-post-tag'>Big Government<br/></span>
+				<span class='tpp-post-date'>April 27th, 2017</span>
+			</a>
+		</div>
+		<!--end custom tag on TPP post-grids-->
+
+</div>
+													<div class="entry-content">
+    <!-- AddThis Sharing Buttons above -->About 346 Department of Veterans Affairs employees spend their working hours not in service to the federal government but in service to their union — all this while still receiving a federal salary — a widespread practice known as &#8220;official time,&#8221; according to a new report. The Washington Examiner has the story: That&#8217;s according to a report by the nonpartisan [&hellip;]<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/news/report-more-than-345-va-employees-draw-federal-salary-even-when-theyre-not-working-for-the-fed/' addthis:title='Report: More than 345 VA employees draw federal salary even when they&#8217;re not working for the fed' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div></div>
+													<a href="https://www.teapartypatriots.org/news/report-more-than-345-va-employees-draw-federal-salary-even-when-theyre-not-working-for-the-fed/" class="vc_read_more"
+   title="Permalink to Report: More than 345 VA employees draw federal salary even when they&#8217;re not working for the fed">Read more</a>
+												</div>
+					</li> 												</ul>
+		</div>
+	</div> 	<div class="clear"></div>
+</div> </div></div></div></div>	                         
+	                        </div>
+
+
+	                    </div>
+	                    <!-- end main-content -->
+	                </div>
+	                <!-- end main wrapper -->
+	            </div>
+	             <!-- end main-container -->
+	        </div>
+	        <!-- end outter-wrapper -->
+		
+		<!-- END BLOCK -->
+
+		
+	        <!-- start outter-wrapper -->   
+	        <div id="pb_block-4" class="outter-wrapper page-content pb_block pb_block_main pb_content" data-stellar-background-ratio='0.2'>
+			            
+	            <!-- block styles -->
+	            <style type="text/css" scoped>
+						            	#pb_block-4 
+	            	{
+	            			            			            	}
+
+					#pb_block-4 *
+
+					{
+	            							}
+
+					.page-content {
+display:none;
+}	            </style>
+
+	            <!-- start main-container -->
+	            <div class="main-container">
+	                <!-- start main wrapper -->
+	                <div class="main wrapper clearfix" >
+	                    <!-- start main-content -->
+	                    <div class="main-content">
+
+	                    	<!-- Start Post --> 
+	                    	<div class="clearfix">
+
+	                            <!-- THE TITLE --> 
+	                            <h1>Home</h1> 
+	                           
+	                             <!-- THE CONTENT -->
+	                            <!-- AddThis Sharing Buttons above --><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_raw_js">
+		<div class="wpb_wrapper">
+			<script type="text/javascript"> jQuery('body').addClass('disable-cr'); </script>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1428328668458  margin-0">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/ourvision/personal-freedom/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="640" height="420" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2014/11/shutterstock_189290852-small.jpg" class="vc_single_image-img attachment-large" alt="statue of liberty" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  margin-0">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;">Personal Freedom</h2>
+<p>We support personal freedom so all Americans can live life the way they want as long as it does not harm others, or infringe on another’s rights.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1428328717228  margin-0">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/ourvision/economic-freedom/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="640" height="420" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2014/11/shutterstock_72777469-small.jpg" class="vc_single_image-img attachment-large" alt="" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  margin-0">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;">Economic Freedom</h2>
+<p>We stand for economic freedom which means a growing economy with reduced tax rates and reduced government spending so we all have a chance to earn more money and businesses can hire more people.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1428328748309  margin-0">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="/ourvision/debt-free-future/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="640" height="420" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2014/11/shutterstock_169291751-small.jpg" class="vc_single_image-img attachment-large" alt="" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  margin-0">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;">Debt Free Future</h2>
+<p>We support a debt free future because it is only fair and right to pay the debt we have incurred so our children and grandchildren are not stuck with our bills.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  font-size-18">
+		<div class="wpb_wrapper">
+			<p>The Tea Party Patriots stands for every American, and is home to millions who have come together to pursue the American Dream and to keep that Dream alive for their children and grandchildren.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  font-size-18">
+		<div class="wpb_wrapper">
+			<p>We envision a nation where personal freedom is cherished and where all Americans are treated equally, assuring our ability to pursue the American Dream.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="89" src="https://d3b5g5w8iutjdd.cloudfront.net/wp-content/uploads/2015/04/logo-wide-8-bit.png" class="vc_single_image-img attachment-medium" alt="" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 32px;color: #d54240;text-align: center;font-family:Nothing You Could Do;font-weight:400;font-style:normal" class="vc_custom_heading">Pursue Your American Dream.</h2></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"  style="height: 16px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_blue vc_btn-blue vc_btn_lg vc_btn-lg vc_btn_square" href="http://www.teapartypatriots.org/ourvision/" title="" target="">What We Stand For</a>
+</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div></div></div></div></div><!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='https://www.teapartypatriots.org/' addthis:title='Home' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div>	                            
+	                            <!-- WP_LINK_PAGES -->
+	                            	                         
+	                        </div>
+
+
+	                    </div>
+	                    <!-- end main-content -->
+	                </div>
+	                <!-- end main wrapper -->
+	            </div>
+	             <!-- end main-container -->
+	        </div>
+	        <!-- end outter-wrapper -->
+		
+		
+		<!-- BLOCK: HTML+CSS-->
+
+
+		        <!-- start outter-wrapper -->   
+	        	<div id="pb_block-5" class="outter-wrapper pb_block pb_block_main pb_html" data-stellar-background-ratio='1'>
+		
+		            <!-- block styles -->
+					<style type="text/css" scoped>
+							            	#pb_block-5 
+	            	{
+	            			            			            	}
+
+					#pb_block-5 *
+
+					{
+	            							}
+
+										</style>
+
+		
+
+									
+									<script type="text/javascript"> jQuery('body').addClass('disable-cr'); </script>
+<script type="text/javascript">
+<script type="text/javascript"> jQuery('body').addClass('disable-cr'); </script>
+<script src="https://use.fontawesome.com/ec6656ad26.js"></script>
+<script type="text/javascript">
+jQuery('#rev_slider_2_1_wrapper,#rev_slider_2_1').each(function () {
+    this.style.setProperty('height', '346px', 'important' );
+});
+jQuery('.rev_slider ul li').attr('data-transition','fade');
+jQuery('.newslettersignup-email').attr('placeholder','Enter your email address.');
+jQuery('<i class="fa fa-envelope"></i></a> ').prependTo('.banner-email h2.vc_custom_heading');
+jQuery('.issues').appendTo('.about');
+jQuery( '.issues > .vc_row' ).wrapAll( '<div class="main wrapper clearfix" />');
+</script>
+		
+		        </div>
+		        <!-- end outter-wrapper -->
+	        
+		<!-- END BLOCK -->
+		
+		
+
+    	
+    
+
+		<!-- FOOTER -->
+		
+				<!-- WIDGETIZED FOOTER -->
+				
+            <!-- Start Widget Footer -->
+        	<div class="outter-wrapper widget-footer main">
+
+        		<div class="wrapper clearfix">
+        			
+                    
+                                    <!-- FOOTER: WIDGET AREA -->
+                                    <div class=" third ">
+
+                                        <div id="nav_menu-7" class="widget widget_nav_menu"><h3 class="widget-title">Navigation</h3><div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-70653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70653"><a href="https://www.teapartypatriots.org/ourvision/">Our Vision</a></li>
+<li id="menu-item-81280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81280"><a href="/get-involved">Get Involved</a></li>
+<li id="menu-item-88988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88988"><a href="https://www.teapartypatriots.org/events/">Events</a></li>
+<li id="menu-item-81608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81608"><a href="https://www.teapartypatriots.org/groups/">Groups</a></li>
+<li id="menu-item-71602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71602"><a href="https://www.teapartypatriots.org/resources/">Resources</a></li>
+<li id="menu-item-89956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89956"><a href="https://www.teapartypatriots.org/donate/">Donate</a></li>
+</ul></div></div>
+			<div id="trades_quicklinks-2" class="widget trades_quicklinks">
+			<h3 class="widget-title">Quicklinks</h3>
+			<div class="menu-primary-container">
+<ul class="menu">
+	<li><a href="http://store.teapartypatriots.org/">Tea Party Patriots Store</a></li>
+	<li><a href="/category/press-release/">Press Releases</a></li>
+        <li><a href="/media/">TPP in the Media</a></li>
+	<li><a href="/contact-us/" id="contact-us">Contact Us</a></li>
+</ul>
+</div>
+			</div>
+
+			  
+
+                                    </div>
+                                    
+                                
+                                    <!-- FOOTER: WIDGET AREA -->
+                                    <div class=" third ">
+
+                                        <div id="nav_menu-12" class="widget widget_nav_menu"><h3 class="widget-title">Core Issues</h3><div class="menu-core-issues-container"><ul id="menu-core-issues" class="menu"><li id="menu-item-71303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71303"><a href="https://www.teapartypatriots.org/ourvision/personal-freedom/">Personal Freedom</a></li>
+<li id="menu-item-71304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71304"><a href="https://www.teapartypatriots.org/ourvision/economic-freedom/">Economic Freedom</a></li>
+<li id="menu-item-70733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70733"><a href="https://www.teapartypatriots.org/ourvision/debt-free-future/">Debt Free Future</a></li>
+</ul></div></div><div id="nav_menu-13" class="widget widget_nav_menu"><h3 class="widget-title">Other Issues</h3><div class="menu-other-issues-container"><ul id="menu-other-issues" class="menu"><li id="menu-item-71309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71309"><a href="https://www.teapartypatriots.org/ourvision/big-government/">Big Government</a></li>
+<li id="menu-item-71310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71310"><a href="https://www.teapartypatriots.org/ourvision/tax-reform/">Tax Reform</a></li>
+<li id="menu-item-71311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71311"><a href="https://www.teapartypatriots.org/ourvision/healthcare/">Healthcare</a></li>
+<li id="menu-item-71312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71312"><a href="https://www.teapartypatriots.org/ourvision/national-debt/">National Debt</a></li>
+<li id="menu-item-71308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71308"><a href="https://www.teapartypatriots.org/ourvision/immigration/">Immigration</a></li>
+<li id="menu-item-71307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71307"><a href="https://www.teapartypatriots.org/ourvision/first-amendment-rights/">First Amendment Rights</a></li>
+<li id="menu-item-71306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71306"><a href="https://www.teapartypatriots.org/ourvision/second-amendment-rights/">Second Amendment Rights</a></li>
+<li id="menu-item-71305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71305"><a href="https://www.teapartypatriots.org/ourvision/voter-integrity/">Voter Integrity</a></li>
+</ul></div></div>  
+
+                                    </div>
+                                    
+                                
+                                    <!-- FOOTER: WIDGET AREA -->
+                                    <div class=" third last">
+
+                                        
+			<div id="trades_twitter-2" class="widget trades_twitter">
+			<h3 class="widget-title">Latest tweets</h3>
+			<div class='twitter_widget'>
+				<h3>Latest tweets</h3>
+<a class="twitter-timeline" href="https://twitter.com/TPPatriots" data-widget-id="523606840127414272">Tweets by @TPPatriots</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+
+			<div class='twitter_theme_design' data-theme_design='true' data-num_tweets='2'>
+					<ul class="tweets">
+					</ul>
+			</div>
+
+			</div>
+
+			<div id="nav_menu-14" class="widget widget_nav_menu"><h3 class="widget-title">Accomplishments</h3><div class="menu-monthly-and-annual-reports-container"><ul id="menu-monthly-and-annual-reports" class="menu"><li id="menu-item-87226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87226"><a href="https://www.teapartypatriots.org/monthly-activity-reports/">Monthly Activity Reports</a></li>
+<li id="menu-item-87227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87227"><a href="https://www.teapartypatriots.org/2015-annual-report/">2015 Annual Report</a></li>
+</ul></div></div>  
+
+                                    </div>
+                                    
+                                
+
+
+        		</div>
+        	</div>
+        	<!-- End Widget Footer -->		
+
+
+				<!-- SOCIAL FOOTER -->
+				
+        	<footer class="outter-wrapper feature">
+                <div class="wrapper">
+                    <div class="clearfix">
+
+                        <div class="foot left">Copyright 2017, Tea Party Patriots, Inc | All Rights Reserved | </span><a class="contact-item" href="/terms-of-use/">TERMS OF USE</a> | <a class="contact-item" href="/privacy/">PRIVACY POLICY</a> | <a class="contact-item" href="/legal/">LEGAL</a> | <a class="contact-item" href="/scams">Scam/Fraud Notice</a>
+<br>Tea Party Patriots, 1025 Rose Creek Dr; Ste 620-322 Woodstock, GA 30189</div>  
+
+            			<div class="foot right">
+
+                            
+									<ul class="social-link">
+
+                                                                                        <li><a href="//www.facebook.com/teapartypatriots" target='_blank'><em class="fa fa-facebook-square"></em></a></li>
+                                                                                            <li><a href="//twitter.com/tppatriots" target='_blank'><em class="fa fa-twitter-square"></em></a></li>
+                                                                                            <li><a href="//www.youtube.com/user/TPPatriots" target='_blank'><em class="fa fa-youtube-square"></em></a></li>
+                                                                                            <li><a href="//plus.google.com/117407156354566288950/about" target='_blank'><em class="fa fa-google-plus-square"></em></a></li>
+                                            
+                                    </ul>
+                            
+            			</div>
+
+            		</div>
+                </div>
+        	</footer>
+
+
+
+			
+		<!-- GOOGLE ANALYTICS-->
+		<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  TPPweb.on('ready',function(){
+    ga('create', 'UA-19266973-1', 'auto');
+    var ci=TPPapi.auth.get_user_id()||'';
+    var cl=TPPapi.auth.get_user_level()||1;
+    ga('set', '&uid', ci);
+    ga('set', 'dimension1', ci);
+    ga('set', 'dimension2', cl);
+    ga('send', 'pageview');
+
+    /* Active Engagement */
+    _wds_im = TPPapi.auth.get_user_id()||'';
+
+    var script = document.createElement( 'script' );
+    script.type = 'text/javascript';
+    script.src = "//tags.wdsvc.net/controller.js?id=100002";
+    script.defer = true;
+    jQuery("body").append( script );
+});
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '190967804578189');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=190967804578189&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+		<!-- WP FOOTER -->
+				<div id="fb-root"></div>
+		<script>
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>	
+	<link rel='stylesheet' id='addthis_output-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/addthis/css/output.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_roboto100100italic300300italicregularitalic500500italic700700italic900900italic-css'  href='//fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;subset=latin&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='isotope-css-css'  href='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/js_composer/assets/css/lib/isotope.min.css.gzip?x12722' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_nothing_you_could_doregular-css'  href='//fonts.googleapis.com/css?family=Nothing+You+Could+Do%3Aregular&#038;subset=latin&#038;ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qpprFrontData = {"linkData":[],"siteURL":"https:\/\/www.teapartypatriots.org","siteURLq":"https:\/\/www.teapartypatriots.org"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-core-plugin/js/canon_pagebuilder_front.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-shortcodes-plugin/js/scripts.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-shortcodes-plugin/js/jquery.flexslider-min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/js/scripts.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/js/cleantabs.jquery.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/js/jquery.animateNumbers.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/js/raphael-2.1.0.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/trades-widgets-plugin/js/morris.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/ui/core.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/ui/widget.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/ui/tabs.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/ui/position.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/ui/menu.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/wp-a11y.min.js.gzip?x12722'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/jquery/ui/autocomplete.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/jquery.fitvids.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/placeholder.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/mosaic.1.0.1.min.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/jquery.fancybox.pack.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/helpers/jquery.fancybox-buttons.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/helpers/jquery.fancybox-media.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/fancybox/source/helpers/jquery.fancybox-thumbs.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/cleantabs.jquery.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/jquery.stellar.min.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/jquery.scrollUp.min.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/selectivizr-min.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/fittext.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/jquery.countdown.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/owl-carousel/owl.carousel.min.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/scrollReveal.js?x12722'></script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/global_functions.js?x12722'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var extData = {"ajaxUrl":"https:\/\/www.teapartypatriots.org\/wp-admin\/admin-ajax.php","pageType":"page","templateURI":"https:\/\/www.teapartypatriots.org\/wp-content\/themes\/trades","canonOptions":{"reset_all":"","reset_basic":"","use_responsive_design":"checked","use_boxed_design":"unchecked","use_construction_mode":"unchecked","construction_msg":"This site is under construction!","dev_mode":"unchecked","autocomplete_words":"Big Government, Tax Reform, Healthcare, National Debt, Immigration, First Amendment Rights, Second Amendment Rights, Voter Integrity","hide_theme_meta_description":"checked","hide_theme_og":"unchecked","fontface_fix":"unchecked","favicon_url":"","google_analytics_code":"<!-- Google Analytics -->\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','\/\/www.google-analytics.com\/analytics.js','ga');\r\n\r\n  TPPweb.on('ready',function(){\r\n    ga('create', 'UA-19266973-1', 'auto');\r\n    var ci=TPPapi.auth.get_user_id()||'';\r\n    var cl=TPPapi.auth.get_user_level()||1;\r\n    ga('set', '&uid', ci);\r\n    ga('set', 'dimension1', ci);\r\n    ga('set', 'dimension2', cl);\r\n    ga('send', 'pageview');\r\n\r\n    \/* Active Engagement *\/\r\n    _wds_im = TPPapi.auth.get_user_id()||'';\r\n\r\n    var script = document.createElement( 'script' );\r\n    script.type = 'text\/javascript';\r\n    script.src = \"\/\/tags.wdsvc.net\/controller.js?id=100002\";\r\n    script.defer = true;\r\n    jQuery(\"body\").append( script );\r\n});\r\n<\/script>\r\n\r\n<!-- Facebook Pixel Code -->\r\n<script>\r\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\r\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\r\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\r\ndocument,'script','\/\/connect.facebook.net\/en_US\/fbevents.js');\r\n\r\nfbq('init', '190967804578189');\r\nfbq('track', \"PageView\");<\/script>\r\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\r\nsrc=\"https:\/\/www.facebook.com\/tr?id=190967804578189&ev=PageView&noscript=1\"\r\n\/><\/noscript>\r\n<!-- End Facebook Pixel Code -->"},"canonOptionsFrame":{"header_padding_top":"0","header_padding_bottom":"0","pos_left_element_top":"0","pos_left_element_left":"0","pos_right_element_top":"0","pos_right_element_right":"0","use_sticky_preheader":"unchecked","use_sticky_header":"checked","use_sticky_postheader":"unchecked","sticky_turn_off_width":"768","status_of_scroll_to_menu_items":"normal","pre_header_layout":"pre_custom_center","main_header_layout":"main_custom_left_right","main_custom_left":"logo","main_custom_right":"primary","post_header_layout":"off","logo_url":"\/\/d3b5g5w8iutjdd.cloudfront.net\/wp-content\/uploads\/2015\/01\/Logo%402x.png","logo_text_size":"28","logo_max_width":"210","header_img_homepage_only":"unchecked","header_img_url":"\/\/d3b5g5w8iutjdd.cloudfront.net\/wp-content\/uploads\/2014\/11\/red-banner1.jpg","header_img_bg_color":"#313540","header_img_height":"300","header_img_use_parallax":"checked","header_img_parallax_ratio":"0.5","header_img_text":"The Tea Party Patriots stands for every American, and is home to millions who have come together to pursue the American Dream and to keep that Dream alive for their children and grandchildren.","header_img_text_alignment":"centered","header_img_text_margin_top":"150","header_banner_code":"","header_text":"","toolbar_search_button":"checked","show_social_icons":"checked","social_in_new":"checked","social_links":[["fa-facebook-square","\/\/www.facebook.com\/teapartypatriots"],["fa-twitter-square","\/\/twitter.com\/tppatriots"],["fa-youtube-square","\/\/www.youtube.com\/user\/TPPatriots"],["fa-google-plus-square","\/\/plus.google.com\/117407156354566288950\/about"]],"show_widgetized_footer":"checked","show_social_footer":"checked","footer_text":"Copyright 2017, Tea Party Patriots, Inc | All Rights Reserved |\u00a0<\/span><a class=\"contact-item\" href=\"\/terms-of-use\/\">TERMS OF USE<\/a>\u00a0|\u00a0<a class=\"contact-item\" href=\"\/privacy\/\">PRIVACY POLICY<\/a>\u00a0|\u00a0<a class=\"contact-item\" href=\"\/legal\/\">LEGAL<\/a> |\u00a0<a class=\"contact-item\" href=\"\/scams\">Scam\/Fraud Notice<\/a>\r\n<br>Tea Party Patriots, 1025 Rose Creek Dr; Ste 620-322 Woodstock, GA 30189","pre_custom_center":"toolbar","pre_custom_left":"off","pre_custom_right":"toolbar","main_custom_center":"off","post_custom_center":"off","post_custom_left":"primary","post_custom_right":"secondary","logo_text":""},"canonOptionsPost":{"post_slider":"off","show_post_nav":"checked","show_comments":"unchecked","show_person_position":"checked","show_person_tagline":"checked","show_person_nav":"checked","show_meta_author":"unchecked","show_meta_date":"checked","show_meta_comments":"unchecked","show_tags":"unchecked","homepage_blog_style":"full","blog_style":"sidebar","cat_style":"sidebar","show_cat_title":"unchecked","show_cat_description":"unchecked","search_box_text":"What are you looking for?","search_posts":"unchecked","search_pages":"unchecked","search_cpt":"unchecked","search_cpt_source":"","404_title":"Page not found","404_msg":"It looks like nothing was found at this location. Maybe try a search?","use_woocommerce_sidebar":"checked","woocommerce_sidebar":"canon_woocommerce_widget_area","use_buddypress_sidebar":"checked","buddypress_sidebar":"canon_buddypress_widget_area","use_bbpress_sidebar":"checked","bbpress_sidebar":"canon_bbpress_widget_area","use_events_sidebar":"checked","events_sidebar":"canon_events_widget_area"},"canonOptionsAppearance":{"body_skin_class":"default","color_feat_text_1":"#BB2535","color_feat_text_2":"#4170a9","color_plate":"#ffffff","color_body":"#ffffff","color_general_text":"#666666","color_headings":"#1d2028","color_white_text":"#ffffff","color_meta":"#9c9fa4","color_menu_nav":"#ffffff","color_premenu_nav":"#bec0c7","color_header_nav":"#1d2028","color_preheader":"#1D2028","color_third_nav":"#1D2028","color_third_prenav":"#242931","color_feature_1":"#BB2535","color_feature_2":"#4170a9","color_feature_3":"#2f353f","color_feature_block":"#f1f1f1","color_feature_block_2":"#e1f5fb","color_light_button":"#E8E8E8","color_white_button":"#ffffff","color_dark_button":"#344158","color_form_fields_bg":"#f2f2f2","color_form_fields_text":"#969ca5","color_price_table":"#f7f7f7","color_elements":"#fbfbfb","color_lines":"#eaeaea","color_footer_block":"#1D2028","color_footer_base":"#3E5C97","color_footer_headings":"#ffffff","color_footer_text":"#bdc0c6","color_footer_featuretext":"#4E7BB0","color_footer_button":"#4ec6e9","color_footer_form_fields_bg":"#828995","color_footer_form_fields_text":"#ffffff","color_footer_form_fields_focus":"#6d7482","color_footlines":"#4B525D","color_responsive_menu":"#282D36","bg_img_url":"","bg_link":"","bg_repeat":"repeat","bg_attachment":"fixed","lightbox_overlay_color":"#000000","lightbox_overlay_opacity":"0.7","font_main":["Open Sans","regular","latin-ext"],"font_quote":["Open Sans","300","latin-ext"],"font_lead":["Open Sans","600","latin-ext"],"font_logotext":["Roboto","100","latin-ext"],"font_bold":["Open Sans","600","latin-ext"],"font_button":["Open Sans","regular","latin-ext"],"font_italic":["Open Sans","italic","latin-ext"],"font_heading":["Roboto","700","latin-ext"],"font_heading2":["Roboto","300","latin-ext"],"font_nav":["Open Sans","regular","latin-ext"],"font_widget_footer":["Open Sans","regular","latin-ext"],"anim_img_slider_slideshow":"unchecked","anim_img_slider_delay":"5000","anim_img_slider_anim_duration":"800","anim_quote_slider_slideshow":"unchecked","anim_quote_slider_delay":"5000","anim_quote_slider_anim_duration":"800","lazy_load_on_pagebuilder_blocks":"checked","lazy_load_on_blog":"unchecked","lazy_load_on_widgets":"checked","lazy_load_after":"0.3","lazy_load_enter":"bottom","lazy_load_move":"24","lazy_load_over":"0.56","lazy_load_viewport_factor":"0.2","anim_menus":".nav","anim_menus_enter":"left","anim_menus_move":"40","anim_menus_duration":"600","anim_menus_delay":"150"},"canonOptionsAdvanced":{"reset_all":"","reset_basic":"","custom_widget_areas":{"9999":{"name":""},"0":{"name":"News Widgets"},"1":{"name":"Groups Page Widgets"},"2":{"name":"Events Widgets"},"3":{"name":"Resources Widgets"},"4":{"name":"Dashboard Widgets"},"5":{"name":"Single Group Widgets"},"6":{"name":"Single Group Owner"},"7":{"name":"Our Vision Links"},"8":{"name":"AHCA Links"}},"use_final_call_css":"checked","final_call_css":"body:not(.page-template-page-pagebuilder) .main-content a:not(.btn) {color:#254890;font-weight:bolder;text-decoration:underline}\r\n\r\n\/****** Remove left date from weekly action posts ******\/\r\n.category-weekly-action-items div.four-fifths {\r\n    width: 100%;\r\n}\r\n.category-weekly-action-items aside.fifth {\r\n    display: none;\r\n}\r\n\r\n\r\n\/******Left Justify YCP Menu******\/\r\n#menu-yellow-card {\r\n    padding-left: 0;\r\n}\r\n#menu-yellow-card .sub-menu {\r\n    padding-left:20px;\r\n}\r\n\r\n\/******Hide Page Titles******\/\r\n\/* Install PGG *\/\r\n.page-id-83892 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Groups & Events*\/\r\n.page-id-36872 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Debt Free Future*\/\r\n.page-id-66418 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Economic Freedom*\/\r\n.page-id-66427 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Personal Freedom*\/\r\n.page-id-66424 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Our Vision*\/\r\n.page-id-66249 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Home Page*\/\r\n.page-id-70394 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Resources*\/\r\n.page-id-70807 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Press Releases*\/\r\n.page-id-71603 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Contact Us*\/\r\n.page-id-437 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*In The Press*\/\r\n.page-id-441 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*TPP Videos \/TV *\/\r\n.page-id-71127 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\r\n\r\n\/**Other Issues Pages**\/\r\n\/*Big Government*\/\r\n.page-id-71289 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Tax Reform*\/\r\n.page-id-71287 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Health Care*\/\r\n.page-id-71284 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*National Debt*\/\r\n.page-id-71282 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Immigration*\/\r\n.page-id-71292 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*First Amendment*\/\r\n.page-id-71294 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Second Amendment*\/\r\n.page-id-71296 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Voter Integrity*\/\r\n.page-id-71298 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\r\n\r\n\/**Bottom Footer**\/\r\n\/*Terms of Use*\/\r\n.page-id-113 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Privacy Policy*\/\r\n.page-id-64994 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*Legal*\/\r\n.page-id-64995 .outter-wrapper h1 {\r\ndisplay:none;\r\n}\r\n\/*LetterToEditor*\/\r\n.page-id-71796 .outter-wrapper h1 {\r\ndisplay:none;\r\n}","canon_options_data":"","import_data":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.teapartypatriots.org/wp-content/themes/trades/js/scripts.js?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/comment-reply.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-includes/js/wp-embed.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js.gzip?x12722'></script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/dhvc-form/assets/validate/jquery.validate.min.js.gzip?x12722'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dhvcformL10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.teapartypatriots.org\/wp-content\/plugins\/dhvc-form","recaptcha_ajax_verify":"no","_ajax_nonce":"4f3cd68c7c","allowed_file_extension":"zip|rar|tar|7z|jpg|jpeg|png|gif|pdf|doc|docx|ppt|pptx|xls|xlsx","date_format":"Y\/m\/d","time_format":"H:i","time_picker_step":"60","dayofweekstart":"1","datetimepicker_lang":"en","container_class":".vc_row-fluid","validate_error_sroll_offset":"0","validate_messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","number2":"Please use only numbers (0-9) or brackets (), dashes \u2013 and plus +","digits":"Please enter only digits.","creditcard":"Please enter a valid credit card number.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","alpha":"Please use letters only (a-z or A-Z) in this field.","alphanum":"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","zip":"Please enter a valid zip code. For example 90602 or 90602-1234.","fax":"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","cpassword":"Please make sure your passwords match.","select":"Please select an option","recaptcha":"Please enter captcha words correctly","captcha":"Please enter captcha words correctly","extension":"Please enter a value with a valid extension."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://d3b5g5w8iutjdd.cloudfront.net/wp-content/plugins/dhvc-form/assets/js/script.js.gzip?x12722'></script>
+<div id="dhvcformpopup-87971" data-id="87971" class="dhvc-form-popup"  style="display:none">
+<div class="dhvc-form-popup-container" style="width:600px">
+<div class="dhvc-form-popup-header">
+<a class="dhvc-form-popup-close"><span aria-hidden="true">&times;</span></a>
+</div>
+<div class="dhvc-form-popup-body">
+<style type="text/css">.addressContainer{display:none;}.smarty-ui{z-index:9999999;}</style><style type="text/css">.addressContainer{
+    display:none;
+}
+.smarty-ui {
+    z-index: 9999999;
+}
+</style><div id="dhvcform-87971"  class="dhvc-form-container dhvc-form-icon-pos-right dhvc-form-vertical dhvc-form-flat">
+<div id="dhvc_form_message_87971" class="dhvc-form-message ">
+<span class=""></span></div>
+<form data-scroll_to_msg="1" data-ajax_reset_submit="1" data-popup="1" autocomplete="off" data-use-ajax="0" method="post" class="dhvcform dhvcform-87971" enctype="multipart/form-data" target="_self" >
+<div style="display: none;">
+<input type="hidden" name="dhvc_form" value="87971">
+<input type="hidden" name="form_url" value="https://www.teapartypatriots.org/">
+<input type="hidden" name="referer" value="http://www.google.com/">
+<input type="hidden" name="post_id" value="87971">
+<input type="hidden" name="_dhvc_form_nonce" value="9ea959ee4c">
+</div>
+<div class="dhvc-form-inner">
+<div class="vc_row wpb_row vc_row-fluid help-trump-elect-form"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-group dhvc-form-fname-box dhvc_form_text ">
+<label class="dhvc-form-label" for="dhvc_form_control_fname">First Name <span class="required">*</span></label>
+<div class="dhvc-form-input ">
+<input autocomplete="off" type="text" id="dhvc_form_control_fname" name="fname" value=""  class="dhvc-form-control dhvc-form-control-fname dhvc-form-value dhvc-form-required-entry "  required aria-required="true"  placeholder="" >
+</div></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-group dhvc-form-lname-box dhvc_form_text ">
+<label class="dhvc-form-label" for="dhvc_form_control_lname">Last Name</label>
+<div class="dhvc-form-input ">
+<input autocomplete="off" type="text" id="dhvc_form_control_lname" name="lname" value=""  class="dhvc-form-control dhvc-form-control-lname dhvc-form-value "   placeholder="" >
+</div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-group dhvc-form-email-box dhvc_form_email ">
+<label class="dhvc-form-label" for="dhvc_form_control_email">E-mail Address</label>
+<div class="dhvc-form-input ">
+<input autocomplete="off" type="email" id="dhvc_form_control_email" name="email" value=""  class="dhvc-form-control dhvc-form-control-email dhvc-form-value "   placeholder="" >
+</div></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-group dhvc-form-zip_code-box dhvc_form_text ">
+<label class="dhvc-form-label" for="dhvc_form_control_zip_code">ZIP Code</label>
+<div class="dhvc-form-input ">
+<input autocomplete="off" type="text" id="dhvc_form_control_zip_code" name="zip_code" value=""  class="dhvc-form-control dhvc-form-control-zip_code dhvc-form-value "   placeholder="" >
+</div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid addressContainer"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-group dhvc-form-address-box dhvc_form_text ">
+<label class="dhvc-form-label" for="dhvc_form_control_address">Address (to locate your legislators)</label>
+<div class="dhvc-form-input ">
+<input autocomplete="off" type="text" id="dhvc_form_control_address" name="address" value=""  class="dhvc-form-control dhvc-form-control-address dhvc-form-value "   placeholder="" >
+</div></div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-10"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-group dhvc-form-contact_congress-box dhvc_form_checkbox ">
+<div class="dhvc-form-checkbox">
+<label for="dhvc_form_control_1_590b7853171fd"><input  type="checkbox"  class="dhvc-form-value dhvc-form-control-contact_congress "  id="dhvc_form_control_1_590b7853171fd"  name="contact_congress" value="1"><i></i>Send a message to my legislators</label>
+</div></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="dhvc-form-action dhvc_form_submit_button  sign-submit-button"><button type="submit" class="button dhvc-form-submit " ><span class="dhvc-form-submit-label">Sign</span><span class="dhvc-form-submit-spinner"></span></button></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_raw_js">
+		<div class="wpb_wrapper">
+			<script>
+	(function() {
+		var root = ( typeof window === 'object' && window ) || this;
+		var P = {
+			form_inner_containter_class: '.help-trump-elect-form',
+			form: null,
+			errored_petitions: [],
+
+			init: function() {
+				P.form = jQuery(this.form_inner_containter_class).parents('form');
+				// setup "send to legislator" checkbox to show/hide full address
+				P.setupSmartyStreets();
+				// setup submit handler to pull all checked and send a bunch
+				P.form.find(".sign-submit-button button").on('click', P.setupSign);
+			},
+			setupSmartyStreets: function() {
+				P.form.find('input[name="contact_congress"]').on('change', function() {
+
+					// show/hide address
+					jQuery('.addressContainer').toggle();
+
+					var checked = P.form.find('input[name="contact_congress"]')[0].checked;
+
+					P.form.find('input[name="zip_code"]')[0].disabled = checked;
+
+					if (checked) {
+						jQuery('.smarty-ui').show();
+						P.activateSmartyStreets();
+					}
+					else {
+						jQuery('.smarty-ui').hide();
+						// disable live address validation
+						P.live_address.deactivate();
+					}
+				});
+			},
+			activateSmartyStreets: function() {
+				P.live_address = jQuery.LiveAddress({
+					key: window.smartystreets_key,
+					addresses: [{
+						freeform: ".help-trump-elect-form input[name='address']",
+					}]
+				});
+				P.live_address.on("AddressAccepted", function(event, data, previousHandler) {
+					P.chosen_address = null;
+					if (((data|| {}).response || {}).chosen) {
+						P.chosen_address = data.response.chosen;
+						// console.log(data);
+						// console.log(data.response.chosen.metadata.latitude, data.response.chosen.metadata.longitude);
+					} else if (data.address.lastStreetInput) {
+						var matches = data.address.lastStreetInput.match(/([^,]+)[, ]+([a-z][a-z]+)?[, ]+(\d{5})(-\d{4})?$/i);
+						if (matches[0] && matches[1] && matches[2] && matches[3] ) // let matches[4] slide since it is zip+4
+							P.chosen_address = data.address.lastStreetInput;
+					}
+					previousHandler(event, data);
+
+				});
+			},
+			setupSign: function(e) {
+				e.preventDefault();
+
+				//validate
+				if(P.form.valid()) {
+					// get all checked petitions
+					P.petitions_to_sign = [];
+					jQuery('.headshot-column input:checked').serializeArray().map(function(c) {P.petitions_to_sign.push(c.value);});
+
+					// verify more than 1
+					if(P.petitions_to_sign.length > 0) {
+						var data = {};
+						P.form.find(':input:visible').serializeArray().map(function(x){data[x.name] = x.value;});
+
+						data['tpp_inc_c4'] = 1;
+						data['organization'] = 'TPP';
+
+						if (P.chosen_address && (typeof P.chosen_address != "string")) {
+							data['address']		= P.chosen_address.delivery_line_1 || '';
+							data['city']		= P.chosen_address.components.city_name || '';
+							data['state']		= P.chosen_address.components.state_abbreviation || '';
+							data['zip_code']	= P.chosen_address.components.zipcode || '';
+							data['zip_4']		= P.chosen_address.components.plus4_code || '';
+							data['geolatitude']	= P.chosen_address.metadata.latitude || '';
+							data['geolongitude']= P.chosen_address.metadata.longitude || '';
+							data['county']		= P.chosen_address.metadata.county_name || '';
+							data['district']	= P.chosen_address.metadata.congressional_district || '';
+							data['time_zone']	= P.chosen_address.metadata.utc_offset || '';
+						} else if (P.chosen_address && (typeof P.chosen_address == "string")) {
+							data['full_address']= P.chosen_address;
+						}
+
+						data['referrerURL'] = document.referrer;
+						data['referer'] = 'trump-nominees-multi-sign';
+						data['leadsource'] = 'trump-nominees-multi-sign';
+
+						P.submit_data = data;
+
+						P.sign();
+					}
+				}
+
+			},
+			sign: function() {
+				if(P.petitions_to_sign.length === 0){
+					// send to thank you
+					window.location.href = '/petition-thank-you/';
+					return;
+				}
+
+				var p_id = P.petitions_to_sign.pop();
+				TPPapi.petition.sign(p_id, {
+					data: P.submit_data,
+					success: function(result) {
+						if(result.status) {
+
+							fbq('track', 'CompleteRegistration');
+							ga('send', 'event', 'Petitions', 'signature', P.petition_id);
+
+							var roi_cookie = TPPweb.util.readCookie('verve_roi');
+							if(roi_cookie !== null && roi_cookie !== '') {
+								TPPapi.conversions.conversion({
+									data: {
+										conversion_type: 'petition_signature',
+										conversion_data: roi_cookie,
+										amount: 1,
+										transaction_id: TPPweb.util.randomString(12)
+									}
+								});
+							}
+							P.sign();
+						}
+						else {
+							p.errored_petitions.push(p_id);
+						}
+					},
+					error: function(event, jqXHR, ajaxSettings, thrownError) {
+						if(event.status == 400) {
+							swal({
+								title : 'Error',
+								type  : 'error',
+								text  : event.responseJSON.message,
+							});
+						}
+					}
+				});
+			},
+		};
+		P.init();
+	})();
+</script>
+		</div>
+	</div>
+</div></div></div></div></div></form>
+</div>
+
+</div>
+</div>
+</div><div class="dhvc-form-pop-overlay"></div><!--wp_footer-->		<script>
+			var stripe_js = document.createElement('script');
+			stripe_js.setAttribute('src','https://js.stripe.com/v2/');
+			document.head.appendChild(stripe_js);
+
+			window.stripe_publishable_key            = "pk_live_0tLJhtPcOv0HxX7U8zzpDRUS";
+			window.stripe_publishable_test_key       = "pk_test_Poiq7GfaudOsxqza6sqXay1p";
+
+			window.stripe_publishable_key_phone      = "pk_live_KtpdqC0PUViUWiXt2CRTBK8a";
+			window.stripe_publishable_test_key_phone = "pk_test_rQZKvJy9N1WrwkhRhnU7Kg1Q";
+
+			window.smartystreets_key                 = "11222408539034340";
+		</script>
+	</body>
+
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 0/0 objects using memcached
+Page Caching using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: d3b5g5w8iutjdd.cloudfront.net
+
+ Served from: www.teapartypatriots.org @ 2017-05-04 18:52:03 by W3 Total Cache -->

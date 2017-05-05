@@ -1,718 +1,702 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0039)http://flag.blackened.net/nf/3yamin.htm -->
-<!-- saved from url=(0040)http://flag.blackened.net/nf/3glavin.htm -->
-
-<html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
   <head>
-    <meta name="generator" content="HTML Tidy, see www.w3.org">
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="title" content="The Antiglobalization Movement - Dictionary definition of The Antiglobalization Movement | Encyclopedia.com: FREE online dictionary" />
+<meta name="description" content="Definition of The Antiglobalization Movement – Our online dictionary has The Antiglobalization Movement information from American Social Reform Movements Reference Library dictionary. Encyclopedia.com: English, psychology and medical dictionaries" />
+<meta name="abstract" content="Definition of The Antiglobalization Movement – Our online dictionary has The Antiglobalization Movement information from American Social Reform Movements Reference Library dictionary. Encyclopedia.com: English, psychology and medical dictionaries" />
+<meta name="keywords" content="Definition, of, The Antiglobalization Movement, – Our, online, dictionary, has, The Antiglobalization Movement, information, from, American Social Reform Movements Reference Library, dictionary. Encyclopedia.com: English, psychology, and medical, dictionaries" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement" />
+<link rel="shortlink" href="/node/1014162" />
+<link rel="revision" href="/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement" />
 
-    <title>Theory of the Anti-Globalization Movement</title>
-    <meta content="MSHTML 6.00.2800.1106" name="GENERATOR">
-<style type="text/css">
-A:link {
-    TEXT-DECORATION: none
-}
-A:visited {
-    TEXT-DECORATION: none
-}
-A:active {
-    TEXT-DECORATION: none
-}
-A:hover {
-    TEXT-DECORATION: underline
-}
-.nocolorchange {
-    COLOR: #ffffff; FONT-FAMILY: Arial
-}
-.underline {
-    TEXT-DECORATION: underline
-}
-.makewhite {
-    font-family: Arial;
-    font-weight: bold;
-    color: #FFFFFF;
-}
-</style>
-    <meta http-equiv="Content-Type" content=
-    "text/html; charset=iso-8859-1">
-    <meta content="MSHTML 6.00.2800.1106" name="GENERATOR">
+    <title>The Antiglobalization Movement - Dictionary definition of The Antiglobalization Movement | Encyclopedia.com: FREE online dictionary</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_kPMtNduWUKQI-NsU4-KVKke3FpoE8ePQVShWw0fk40M.css?ook4mz" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_HqCXZM_cX3UmKJRchtZsElYioMBDjvH4h24VdDriBIw.css?ook4mz" media="all" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" media="all" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_t-tT8YU2bx3QClhf4V1OAq-u_XbtT3EhZiDbO7THRrY.css?ook4mz" media="all" />
+
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64847704-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+        <script>
+      window.showAds = false;
+    </script>
+    <script src="/sites/default/files/js/ads.js?qawtfhahaok"></script>
+    <script>
+    if (window.showAds) {
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'User Interaction',
+        eventAction: 'Adblock',
+        eventLabel: 'Not Detected',
+        nonInteraction: true
+      });
+    } else {
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'User Interaction',
+        eventAction: 'Adblock',
+        eventLabel: 'Enabled',
+        nonInteraction: true
+      });
+    }
+    </script>
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_AzOPBAE9NKA4CKW4x7G4ztR3RWtTTWIns7TIKO_1-tA.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.2/lodash.min.js"></script>
+<script src="/sites/default/files/js/js_BwcL-IFmE1ggmtYg4h94TxaLHryo_WbBAC3ohZaQbyo.js"></script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+
+    <script>
+      var _reportClientErrors = false;
+      var nodeType = "article",
+          rootPath = "node";
+
+      var dataLayer = [{
+                          pageType : 'article'
+                                      }];
+    </script>
   </head>
+  <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNC4D8"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+(function(w,d,s,l,i){
 
-  <body vlink="#808080" alink="#0000ff" link="#666699">
-    <table width="75%" align="center" border="0">
-      <tbody>
-        <tr>
-          <td valign="top">
-            <p><strong><a href="index.htm"><em><font face="Arial"
-            color="#663366" size="5">New
-            Formulation</font></em></a></strong></p>
-          </td>
-        </tr>
+  w[l]=w[l]||[];
+  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+  var f=d.getElementsByTagName(s)[0];
+  var j=d.createElement(s);
+  var dl=l!='dataLayer'?'&l='+l:'';
+  j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+  j.type='text/javascript';
+  j.async=true;
+  f.parentNode.insertBefore(j,f);
 
-        <tr>
-          <td valign="top" bgcolor="#333333">
-            <div align="right">
-              <a href="contents.htm#november2001" title=
-              "February 2003, Vol. 2, No. 1" class=
-              "makewhite"><font size="2">February 2003, Vol. 2,
-              No. 1</font></a>
-            </div>
-          </td>
-        </tr>
+})(window,document,'script','dataLayer','GTM-KNC4D8');
+</script>
+<!-- End Google Tag Manager -->
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+  <div id="header">
+    <header>
+      <div class="container clearfix">
+          <div>
+    <div id="block-encyclopedia-branding" class="site-branding">
+  
+    
+      <div id="logo">
+    <a id="imagelink" href="/" title="Home" rel="home" class="site-branding__logo">
+      <img src="/themes/custom/encyclopedia/images/header-logo.jpg" alt="Home" />
+    </a>
+	</div>
+    </div>
 
-        <tr valign="top">
-          <td>
-            <blockquote>
-              <p class="makewhite"><font face=
-              "Arial, Helvetica, sans-serif"><br>
-              </font></p>
-            </blockquote>
+  </div>
 
-            <p align="center"><font color="#663366" size="5"
-            face="Arial"><strong>Theory of the Anti-Globalization
-            Movement</strong></font></p>
+        <div class="hdr-r clearfix">
+          <div>
+    <form action="/search" method="get" id="searchForm">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+    <label for="edit-keys" class="visually-hidden">Search</label>
+    <input title="Enter the terms you wish to search for." class="searchbox form-search" placeholder="Search" data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+    <span class="field-suffix">
+      <i class="fa fa-search clickable"></i>
+    </span>
+  </div>
+  <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+    <input class="hidden button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="GO!" />
+  </div>
+</form>
+<span class="mobile-search-icon"><i class="fa fa-search"></i></span>
 
-            <p align="right"><font size="2" face="Arial">Review
-            by <strong><a href="contributors.htm#Morse" title=
-            "Chuck Morse">Chuck Morse</a></strong></font></p>
+  
 
-            <table width="236" align="right" border="0">
-              <tbody>
-                <tr valign="top">
-                  <td width="14" height="159">
-                    <div align="left">
-                      <img src=
-                      "/images/1globalizationfrombelow.gif" alt=
-                      "Globalization from Below: The Power of Solidarity "
-                       width="100" height="157">
+<div class="hdr-categories-container">
+	<a id="rcLink" class="rc-link" onclick="toggleFlyout()">
+						
+		<span class="text" id="block-encyclopedia-main-menu-menu">Research categories</span>
+		
+		<i class="fa fa-bars"></i>
+	</a>
+	<div class="rc-flyout" id="rcFlyout">
+		<i onclick="closeOverlays();" class="fa fa-close"></i>
+		<div class="categories">
+			<span class="title">Research categories</span>
+			 
+			   			  				
+              <ul block="block-encyclopedia-main-menu">
+              <li>
+        <a href="/earth-and-environment" data-drupal-link-system-path="taxonomy/term/66206">Earth and Environment</a>
+              </li>
+          <li>
+        <a href="/history" data-drupal-link-system-path="taxonomy/term/66213">History</a>
+              </li>
+          <li>
+        <a href="/literature-and-arts" data-drupal-link-system-path="taxonomy/term/66208">Literature and the Arts</a>
+              </li>
+          <li>
+        <a href="/medicine" data-drupal-link-system-path="taxonomy/term/66205">Medicine</a>
+              </li>
+          <li>
+        <a href="/people" data-drupal-link-system-path="taxonomy/term/66211">People</a>
+              </li>
+          <li>
+        <a href="/philosophy-and-religion" data-drupal-link-system-path="taxonomy/term/66209">Philosophy and Religion</a>
+              </li>
+          <li>
+        <a href="/places" data-drupal-link-system-path="taxonomy/term/66214">Places</a>
+              </li>
+          <li>
+        <a href="/plants-and-animals" data-drupal-link-system-path="taxonomy/term/66210">Plants and Animals</a>
+              </li>
+          <li>
+        <a href="/science-and-technology" data-drupal-link-system-path="taxonomy/term/66204">Science and Technology</a>
+              </li>
+          <li>
+        <a href="/social-sciences-and-law" data-drupal-link-system-path="taxonomy/term/66207">Social Sciences and the Law</a>
+              </li>
+          <li>
+        <a href="/sports-and-everyday-life" data-drupal-link-system-path="taxonomy/term/66212">Sports and Everyday Life</a>
+              </li>
+          <li>
+        <a href="/references" data-drupal-link-system-path="references">Additional References</a>
+              </li>
+        </ul>
+  
+
+
+			  
+			  
+		</div>
+	   
+	</div>
+</div>
+  </div>
+        
+        </div>
+        <div class="overlay" onclick="closeOverlays();"></div>
+      </div>
+    </header>
+  </div>
+  <div class="print-logo">
+      <div>
+    <div id="block-printlogo">
+  
+    
+      
+            <div><img src="/themes/custom/encyclopedia/images/header-logo.jpg" alt="Encyclopedia.com -- Online dictionary and encyclopedia of facts, information, and biographies" /></div>
+      
+  </div>
+
+  </div>
+
+  </div>
+
+  <div id="wrapper">       
+    <div id="shell">
+      <div id="center-container">
+        <a id="main-content" tabindex="-1"></a>        
+        
+
+
+<div id="topic_wrap" class="clearfix topic-wrapper">
+
+	  <div id='gpt-ad-header'  style="text-align:center; margin-bottom: 10px;">
+    <script>
+      googletag.cmd.push(function() { googletag.display('gpt-ad-header'); });
+    </script>
+  </div>
+
+	<div class="main-section">
+		<div class="toparea">
+			<div id="expapand_breadcrumb_expanded">
+				<div class="breadcrumb">
+					  <div>
+    <div id="block-encyclopedia-breadcrumbs">
+  
+    
+      <div id="expapand_breadcrumb_expanded">
+	<div class="breadcrumb">
+                      <a href="/">Home</a>
+        						<i class="fa fa-angle-right"></i>
+					
+                      Social sciences
+        						<i class="fa fa-angle-right"></i>
+					
+                      News wires white papers and books
+        						<i class="fa fa-angle-right"></i>
+					
+                      The Antiglobalization Movement
+        						
+					
+    	</div>
+</div>
+
+  </div>
+
+  </div>
+
+				</div>
+			</div>
+		</div>
+
+		  <div>
+    
+
+  </div>
+
+		
+		  <div>
+    <div id="block-topcontentad">
+  
+    
+      <!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+  </div>
+<div id="block-encyclopedia-content">
+  
+    
+      
+  </div>
+<div class="views-element-container" id="block-views-block-article-article-detail-block">
+  
+    
+      <div block="block-views-block-article-article-detail-block"><div class="js-view-dom-id-d2f6942aa33d369fa9c41b6b6ffc36ffa95e9144c6ed036384c2ecf3ef6fb9ba">
+  
+  
+  
+
+  
+  
+  
+
+      <div>
+    <div class="divpagetoolscontrol" id="divpagetoolscontrol">
+    <div class="page-tools-flyout" id="divpagetoolsflyout">        
+        <ul>
+            <li><a rel="nofollow" id="pagetools_hlPrint" class="pagetools_hlPrint"><i class="fa fa-print"></i>Print this article</a></li>
+            <li><a target="_blank" rel="nofollow" class="pagetools_printAll"><i class="fa fa-print"></i>Print all entries for this topic</a></li>
+            <li><a class="pagetools_showCitation"><i class="fa fa-quote-left"></i>Cite this article</a></li>           
+        </ul>  
+    </div>
+    <a class="btn btn-primary btn-tools linkimagepagetools" id="linkimagepagetools">
+        Tools <i class="fa fa-angle-down"></i>
+    </a>
+</div>
+<h2 class="doctitle">The Antiglobalization Movement
+</h2><div class="bylinecontainer" id="divwallbyline"><span class="publication">American Social Reform Movements Reference Library</span> <br />
+COPYRIGHT 2007 Thomson Gale</div>
+<!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodyatf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodyatf'); });
+</script>
+</div>
+<div class="doccontentwrapper"><h1>1: The Antiglobalization Movement</h1><p>Globalization is a phenomenon that rose to the top of the world agenda in the late twentieth century. It involves the abundant exchange of goods and services, information and ideas, and technology and culture across international borders. Although globalization has significant social, political, and cultural aspects, it is driven primarily by commerce. Nations buy and sell products and services around the world more freely than ever before. A country's economy no longer depends on the goods bought and sold within its own borders. The economies of many nations are intertwined with other nations, dependent in large measure on imports, which are products brought in from other countries, and exports, which are products sold to other nations. In addition to interlinked economies, globalization has led to a greater sense of connectedness among individuals, making the cultures of the world more accessible and familiar.</p><p>Many economists have long argued that a global economic system is a key to worldwide prosperity and peace among nations. When nations freely trade with one another, these economists believe, the wealth of prosperous nations can help lift developing nations out of poverty. In addition, the increased understanding that can result from economic partnerships could minimize conflict and reduce the likelihood of war. However, some economists are critical of globalization, especially the practices that began in the late 1990s. During that time, a social reform movement often known as the antiglobalization movement began to take shape.</p><p>Although the term "antiglobalization" is the one most often used to describe this movement, many have pointed out the inaccuracy of this name. The antiglobalization movement does not object to the idea of globalization, but rather to the way it has developed. Antiglobalization activists note that contemporary globalization practices have resulted in unfair and devastating conditions in many nations. They contend that multinational corporations have grown in strength, power, and wealth, while developing nations continue to struggle with dire poverty. They point out that globalization has led many corporations to hire low-wage workers in developing nations, taking jobs away from people in industrialized countries. Environmental protection has also been sacrificed in the name of globalization, according to opponents. Large corporations have avoided the stricter environmental regulations in industrialized nations by relocating factories in less-regulated countries. Some critics also argue that, in addition to exporting goods to other countries, powerful Western nations have exported their cultures as well, imposing their ways on distant lands and eroding native cultures, languages, and practices.</p><h2>WORDS TO KNOW</h2><dl><dt><b>antiglobalization:</b>  </dt><dd>Opposition to the methods and practices of globalization, particularly the perceived emphasis on corporate profits rather than human benefits.</dd><dt><b>capital:</b>  </dt><dd>Assets, including money or property, used to create further wealth through investment or the production of goods and services.</dd><dt><b>currency:</b>  </dt><dd>Any form of money, generally either coins or paper bills, issued by a government or a bank and used in legal exchanges.</dd><dt><b>domestic:</b>  </dt><dd>Within the borders of one's own country, as opposed to "foreign."</dd><dt><b>export:</b>  </dt><dd>Goods or services sent out of one country for trade or sale in another country.</dd><dt><b>foreign:</b>  </dt><dd>Relating to another country, as opposed to "domestic."</dd><dt><b>free-market economy:</b>  </dt><dd>An economic system in which goods and services are privately owned and sold to anyone wishing to buy them at whatever price can be obtained. Prices are set by the principle of supply and demand and are affected by competition.</dd><dt><b>free trade:</b>  </dt><dd>The exchange of goods and services without any barriers, such as tariffs or trade quotas.</dd><dt><b>globalization:</b>  </dt><dd>The exchange of goods, services, and capital across national borders.</dd><dt><b>import:</b>  </dt><dd>Goods or services brought from one country into another for sale.</dd><dt><b>privatize:</b>  </dt><dd>To take something that was once public and make it private; to take a public land and sell it or give control of it to a private entity.</dd><dt><b>protectionism:</b>  </dt><dd>Policies designed to erect trade barriers, such as tariffs, to protect domestic companies from foreign competition.</dd><dt><b>quota:</b>  </dt><dd>A limit placed on the quantity of certain goods to be imported from a particular country.</dd><dt><b>tariff:</b>  </dt><dd>A tax placed on goods imported from another country; tariffs raise the prices of imported goods, making it more difficult for such items to compete with goods produced domestically.</dd><dt><b>trade agreement:</b>  </dt><dd>An agreement among two or more nations that establishes terms for exchanging goods and services in a manner beneficial to all parties.</dd></dl><h2>Historical international trade</h2><p>The term "globalization" came into widespread use in the 1980s. However, the practices associated with it, including financial and cultural exchanges across borders, have existed throughout human history. Wealthy and powerful nations have always traded with one another. Such nations have also established empires by seizing control of other lands to make use of natural resources and inexpensive labor forces.</p><p>During the 1400s, an age of exploration began in Europe that lasted several centuries, with nations such as Spain, Portugal, and Great Britain creating vast empires to aid trade and increase prosperity. Just as modern-day globalization has done, the colonization of distant lands gave Europeans a new knowledge of foreign cultures, including foods, religions, and farming techniques. At the same time, colonization tended to overwhelm native cultures because they were pressed to adopt the ways of their colonizers.</p><p>The Industrial Revolution brought an era of global trade that had been previously unimaginable. It began in Great Britain in the mid-1700s and spread to the United States during the late 1700s. The era saw numerous inventions and innovations that transformed American society. Previously, the nation consisted of a loosely connected group of farming states. During the Industrial Revolution, it grew into a powerful manufacturing nation.</p><p>Advances in transportation and in manufacturing technology made possible a new level of international trade. Throughout the 1800s, the United States and several European countries laid thousands of miles of railroad tracks, making it possible to send goods cross-country and across international borders. Innovations in shipping technology allowed products and people to travel more easily across oceans. Governments passed laws making it easier to buy from and sell to other nations, and many countries formed trade agreements with each other. In North America, Europe, and throughout Asia, imports and exports became a significant part of national economies. Many historians refer to this period as the first era of globalization.</p><p>By the end of the 1800s, however, support for international free trade had shifted to an emphasis on building strong national governments. Powerful central governments, which sought extensive control over their nation's industries and economies, were not compatible with the practice of freely trading across borders. At that time, a policy known as protectionism resurfaced. Under protectionist policies, many nations created barriers to free trade. These included high tariffs, which are taxes placed on imported goods, or trade quotas, which are limits set on the number of certain goods that can be imported. Rather than promoting economic interdependence among nations, many governments emphasized self-sufficiency and domestic power. The final blows to the first era of globalization came during the twentieth century, with the destruction wrought by World War I (1914–18), the Great Depression (1929–41), and World War II (1939–45).</p><h2>Postwar economic development</h2><p>Even before World War II ended, the United States and its allies began to plan for postwar economic recovery. The war had destroyed the landscape as well as the economies of several European nations. A number of organizations formed during the final months of the war and soon afterward in an attempt to stabilize world markets and facilitate international trade. The push for worldwide economic stability was motivated in large part by a fear of communism, a political and economic system that had taken hold in the Soviet Union and other nations. Soviet communism was a political system in which the authoritarian government controlled the economy with the intention of eliminating class distinctions and private property.</p><p><div id='gpt-ad-inline-1' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-1');
+          });
+        </script>
+      </div><p>The leaders of the United States, Great Britain, and several other nations believed that a poor and unstable nation would be more likely to turn to communism than one with a healthy economy. These leaders understood that postwar reconstruction depended on financial cooperation among nations, which would be made possible by new multinational organizations, programs, and agreements. Among the most prominent of these are the World Bank, the Organization for Economic Cooperation and Development (OECD), the International Monetary Fund (IMF), and the General Agreement on Tariffs and Trade (GATT), which produced the World Trade Organization (WTO).</p><p>The World Bank includes several related institutions, primarily the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA). The IBRD was established during the summer of 1944 at a United Nations meeting in New Hampshire known as the Bretton Woods Conference. Its initial purpose was to aid in postwar reconstruction by providing loans to member nations. To that end, the IBRD loaned nearly $500 million to European countries in the years following World War II. According to the World Bank, its focus later shifted from reconstruction to economic development, with an emphasis on investments that spark growth in poor countries. World Bank loans are also intended to help the citizens of poor nations obtain social services such as education and health care. The IDA was formed in 1960 to provide interest-free, long-term loans to the poorest countries, those that could not afford to pay the interest on ordinary bank loans or those from the IBRD.</p><p>Another postwar group designed to aid in the reconstruction of Europe, the Organization for European Economic Cooperation, later evolved into a collection of industrialized nations with free-market economies. The group, renamed the Organization for Economic Cooperation and Development (OECD), expanded to include non-European nations and shifted its focus to international trade and economic growth.</p><p>The International Monetary Fund, formed around the same time as the World Bank (1944), set out to stabilize currency values of member nations and to encourage international trade. Associated with the United Nations, the IMF established a fixed value for each nation's currency in an attempt to make it easier to exchange money or to buy and sell goods from one nation to another. In 1971 the practice of fixing each currency's value was discontinued. Instead, the IMF attempted to prevent massive fluctuations in exchange rates by monitoring each member nation's economic policies. During the following decades, the IMF also began lending money to developing nations to spur economic growth. In many cases such loans came with conditions: the developing nation could borrow the money, but the IMF had a say in how the borrowed money was spent.</p><p>One of the primary goals for those interested in increasing trade among nations is reducing or eliminating tariffs. In 1947 twenty-three nations met in Geneva, Switzerland, to sign the General Agreement on Tariffs and Trade (GATT). This document refers both to the agreement and to the agency (which is part of the United Nations) that oversees the agreement. The purpose of the GATT was to loosen trade regulations by minimizing tariffs and quotas, paving the way for free global trade. Each nation signing the treaty agreed to limit trade barriers according to a schedule. The details of the GATT were ironed out through a series of eight rounds of negotiations over several decades. The first five rounds took place between 1947 and 1962. The sixth round, known as the Kennedy Round, began in 1962 and ended in 1967. The Kennedy Round created significant tariff reductions, as did the Tokyo Round, which lasted from 1973 to 1979.</p><p>The eighth GATT round was launched in 1986 in Uruguay, and thus became known as the Uruguay Round. Concluding in 1994, the Uruguay Round created twenty different trade agreements among 124 member nations. One of the notable developments of the Uruguay Round was replacing GATT with the World Trade Organization (WTO). Unlike the GATT, the WTO was granted the authority to resolve international trade disputes. At the Uruguay Round, tariffs were reduced further and protection was granted to intellectual property, which includes patents, trademarks, and copyrights. This change meant that books, films, music, computer software, medicines, and other types of intellectual property could not be copied legally when exported across borders.</p><h2>The "Other" Antiglobalization Movement</h2><p>Generally, discussions of the antiglobalization movement refer to the loose network of social reformers or progressives who oppose the practices of globalization that they believe benefit corporations and industrial nations while doing little to help the poorest people on the planet. This network includes labor activists, who campaign on behalf of workers and unions; environmentalists, who fear the negative impact of globalization on natural resources; human rights supporters, who give voice to the poor and powerless; civil liberties champions, who seek to protect the rights of individuals from being infringed upon by governments and corporations; and many others. For the most part, this movement is characterized by a liberal, or left-wing, political stance. These antiglobalization activists seek to change society's institutions, to banish inequality, and to provide a safety net for the most vulnerable citizens.</p><p>At the other end of the political spectrum are antiglobalization activists with different goals and objections. These critics of globalization represent a conservative, or right-wing viewpoint. They believe that globalization undermines the strength of individual nations in the global political arena. Their opposition stems from strong nationalism, an intense loyalty to one's own country and a belief in that country's superiority to all others. They object to such international institutions as the WTO and the IMF not because they are seen to ignore the needs of developing countries but because they trespass on their nation's ability to be sovereign, or independent.</p><p>Called nationalists, these critics of globalization promote protectionist economic regulations, creating barriers to foreign competition rather than removing them. Trade barriers like high tariffs and quotas benefit domestic industries while making it difficult for foreign corporations to compete. Protecting American industry, nationalists suggest, is the only way to ensure independence, prosperity, and even national security. These activists also support strict immigration policies and, in some cases, a complete ban on all immigration. According to some critics, antiglobalization nationalists use language that often reflects attitudes that are racist and xenophobic, or hostile toward foreigners. Many nationalists contend that this criticism is untrue, that they are protecting their country's interests.</p><p><div id='gpt-ad-inline-2' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-2');
+          });
+        </script>
+      </div><p>Among the leading right-wing opponents of global trade in the United States is Pat Buchanan (1938–), a conservative commentator and former presidential candidate. Buchanan suggests that the United States should not focus on global trading but on protecting its status as a superpower. He believes that this can be achieved by shoring up national security and the nation's industries.</p><p>While both the right-wing and left-wing opponents of globalization criticize current practices, their reasons for doing so are very different. Tensions between the two groups run high, and confrontations are often hostile. While some right-wing antiglobalization activists have on occasion suggested the two factions band together, many left-wing activists seek to avoid any association with nationalist groups.</p><h2>Developments of the late twentieth century</h2><p>During the 1970s, the world's leading industrialized nations formed an organization known as the Group of Six (G6). The G6 included the United States, France, West Germany (which later became the unified Germany), Italy, Japan, and the United Kingdom. The members agreed to meet annually to discuss issues of global concern, including trade, development, terrorism, energy, and public health. The group was expanded to include Canada, becoming the Group of Seven. During the 1990s, Russia was invited to attend certain G7 sessions, depending on its financial stability. At that time, the group became known as the Group of Eight (G8).</p><p>In addition to forming such groups as the World Bank, the IMF, the WTO, and the G8, many other trade agreements were signed at the end of the twentieth century. Numerous agreements were made by smaller groups of countries wishing to ease trade restrictions with each other. For example, the Maastricht Treaty, formally known as the Treaty on European Union, was signed in 1992 by nations that were part of the European Community. The Maastricht Treaty created the European Union (EU) and established a common currency, known as the Euro, to be used in most member nations. The treaty set up a means for member nations to cooperate in matters such as law enforcement, criminal and civil justice, and immigration. In addition, the treaty created a powerful economic union that would enable the EU nations to compete with trading superpowers such as the United States, China, and Japan.</p><p>In 1994 a trade agreement between the United States, Canada, and Mexico, known as the North American Free Trade Agreement (NAFTA), went into effect. Canada and the United States had signed a free trade agreement in 1989, and NAFTA expanded the agreement's provisions to include Mexico. The agreement reduced or eliminated tariffs on imported goods and scheduled the removal of all restrictions on investment. Supplemental agreements offered some protection for workers and for the environment. Numerous similar agreements, including the Asia-Pacific Economic Cooperation and the Middle East Free Trade Area Initiative, have been forged throughout the world.</p><p>Various political and diplomatic developments during the final decades of the twentieth century helped pave the way for globalization. A civil war in China, the world's most populated nation, ended in 1949, with the Communist Party seizing power in China. For nearly three decades, China's economy remained closed to trade with other nations. During the late 1970s, however, the Chinese government began a series of economic reforms hoping to generate enough extra income to modernize the vast nation. In the early 2000s, the Chinese government retains complete control over many aspects of society, including the media, religion, cultural institutions, and politics. However, the government no longer controls the economy, which has gradually become market-driven. In some ways, it is similar to the economies of Western nations. Beginning with the late-1970s reforms, China allowed foreign companies to sell goods in China or invest money in Chinese businesses. China also began investing capital and selling goods in other countries.</p><p>Another communist power, the Soviet Union, began making economic reforms in the late 1980s. It created a restructuring policy known as Perestroika. Under Perestroika, businesses could be privately owned, rather than state-owned, and survive not because of government bailouts but because they made sufficient profits. The Soviet Union also began easing restrictions on foreign investment. By 1991, in part because of the change in economic policies, the Soviet Union had collapsed. The former Soviet nations were claiming their independence. While the economies of the former Soviet republics, including Russia, remained unstable for the next several years, many of the barriers to trade with other nations had been significantly reduced.</p><p>The substantial changes brought by multinational financial organizations, free trade agreements, and significant political developments set the stage for a new global economy. Other critical aspects of late-twentieth-century globalization relied on dramatic technological advances in transportation and communication. Improvements in air travel allowed for people and cargo to travel halfway around the world in a matter of hours. Developments such as fax machines, wireless phones, and the Internet significantly changed many industries, including banking. Such advances greatly improved worldwide communications. Currencies could be exchanged electronically, for example, in a matter of seconds, without any paper money ever changing hands. These technologies both fueled and were fueled by globalization. They made international commerce easier. An unprecedented exchange of information among nations allowed for further advancements and innovations.</p><h2>Pressing issues of globalization</h2><p>Many observers strongly opposed the vast changes brought on by globalization. Critics of globalization include labor unions, environmental groups, human rights organizations, and numerous other citizen associations. They formed a loosely connected movement to protest not global trade but the manner in which it is being conducted. The movement points out that many of the stated goals for globalization have not come to pass. These include the economic development of poor nations and business partnerships as a route to world peace. The major world organizations designed to spur global economic development—namely, the IMF, World Bank, and WTO—have been the focus of much of the criticism. Antiglobalization activists assert that these agencies wield tremendous power but are not accountable for their decisions. The leaders of these groups are not elected officials and, critics claim, do not represent the needs of ordinary citizens. Rather, they represent the needs of multinational corporations and wealthy industrialized nations. And in most cases, according to antiglobalization activists, serving the needs of these powerful entities conflicts with serving the needs of poor people and developing nations.</p><h3>Third world debt</h3><p><div id='gpt-ad-inline-3' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-3');
+          });
+        </script>
+      </div><p>The IMF and the World Bank in particular state that reducing poverty is among their primary goals. However, opponents suggest that their policies have failed to improve the economies of the world's poorest nations while at the same time enriching and empowering multinational corporations. In a 2002 essay in the <i>New York Review of Books</i>, Benjamin M. Friedman wrote: "The most pressing economic problem of our time is that so many of what we usually call 'developing economies' are, in fact, not developing." Particularly in Africa, but also in some parts of Asia, South America, and Central America, millions of people continue to live in dire poverty. They suffer from a lack of decent health care, leading to shorter life expectancies and high rates of infant mortality. Many people die of malnutrition and preventable diseases. Education is a luxury few can afford in developing nations, and millions never learn to read and write.</p><p>The reasons the economies in poor nations continue to falter are numerous and complex. Yet, many critics of globalization, including a number of respected economists, point out that the policies of organizations like the IMF and the World Bank are partly responsible. Since their inception, these institutions have loaned billions of dollars to poor nations in an effort to develop their economies. In many cases, these loans come with conditions. In order to be eligible for the loans, recipients must make recommended changes to their national economic policies. Opponents of globalization contend that the conditions attached to loans for so-called third world countries are tailored for wealthy, industrial economies and are unsuccessful in less-developed nations. Developing nations, faced with new economic policies that have failed, still have to repay their loans from the IMF or similar institution.</p><p>Often, the cost of paying interest on these loans is too burdensome. Poor nations have to borrow more money simply to continue making payments on the original loans. This cycle of ever-increasing debt makes it difficult for these countries to devote funds to basic social services, like health care, education, and poverty relief. It also makes it difficult for such nations to improve roads, increase access to technology, and make other improvements that could lead to economic prosperity. One of the primary goals of antiglobalization activists is to pressure the IMF, World Bank, and other such lenders to cancel third world debt. Activists believe that wiping out these debts is a crucial step in helping developing nations experience economic growth and stability.</p><p>Opponents of globalization contend that the conditions attached to loans for poor nations are harmful in part because they do not take into account the unique needs of the borrowers. These conditions also present problems because they erode a borrowing nation's sovereignty, its ability to be an independent nation, free of outside control. By accepting a loan and its conditions to reshape economic policy, the government of a developing nation may be forced to implement changes that hurt rather than help its citizens. Critics of the IMF and similar institutions suggest that these lenders are guided by the needs of the wealthy industrialized nations that provide the bulk of their funding rather than by the needs of the poorest countries. In the <i>New York Review of Books</i>, Friedman wrote: "There is no reason to assume that institutions that are controlled by a small group of people from one or a handful of high-income countries would adequately represent the interests of the world's poor and working people."</p><h3>Workers' rights</h3><p>Many critics of globalization express concern that relaxing trade regulations has harmed the average worker. Free trade agreements and other means of reducing barriers to international trade have made it easier for corporations in industrialized nations to manufacture their goods and services in other countries. For example, many U.S.-based corporations have concluded that they can produce goods more cheaply in Korea or Mexico than in the United States. This occurs because the workers in those countries typically earn far less than American employees. Many Americans have lost their jobs in this manner. Although many U.S. laborers find new jobs, they often have to settle for lower wages.</p><p>In addition, opponents of globalization fear that the practice of relocating manufacturing to another country has undermined the labor movement. In the United States and other Western nations, workers' rights in some industries are protected by labor unions. Such unions negotiate with employers to guarantee fair wages, safe working conditions, and benefits like health insurance and paid vacations. Corporations can save money by operating out of countries where workers are not unionized—where the wages, working conditions, and benefits are far less. For example, a worker in a developing nation might make $4 to $7 per day creating a product, whereas the same worker in the United States would make $50 to $70 or more. Also, laws in the United States restrict child labor. The same is not true in some other countries.</p><p>Globalization means that labor unions have less bargaining power. If they ask for too many safeguards for their workers, the company may simply choose to relocate its factory to another country. Critics point out that not only does this practice weaken unions in the United States and elsewhere, it also means that workers in developing nations are being exploited, or used to the employer's advantage.</p><h3>Environmental issues</h3><p>One of the most pressing concerns of opponents of globalization is the threat to the environment posed by global trade practices. A number of global trade institutions, like the WTO, and free trade agreements, like NAFTA, allow corporations or countries to sue another country if their laws are seen as a threat to corporate profits. For example, if a nation's strict environmental regulations will act as a barrier to a corporation's success, that business can sue the government in question for a loss of profits. Under the provisions of NAFTA, the U.S.-based Ethyl Corporation sued the government of Canada for banning MMT. An additive to gasoline, MMT poses health risks to infants and the elderly when inhaled. Canada settled out of court, agreeing to lift the ban. The country paid millions of dollars to Ethyl Corporation for lost profits.</p><p>In addition, free trade agreements enable corporations to locate manufacturing plants in the nations with the fewest environmental regulations. In turn, other nations that want to compete and attract corporate investments sometimes decide to lower their environmental standards. Jerry Mander, in an essay in <i>Globalization: Opposing Viewpoints</i>, described the outcome of these practices: "The result is that all laws and standards race downward to a low common denominator."</p><p><div id='gpt-ad-inline-4' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-4');
+          });
+        </script>
+      </div><p>Critics of globalization also point out the heavy toll on the environment from the massive increase in international transportation that has occurred as a result. In industrial and developing nations, new highways, airports, and railroad lines have been built to accommodate increased global trade. In many cases, the construction has occurred in forests, wetlands, and other wilderness areas. As a result, the habitats of numerous species have been destroyed. And the destruction will likely continue as more transportation routes are being constructed and/or considered.</p><p>In addition, the fuel used to power ships, airplanes, trucks, and other vehicles transporting people and cargo produces substantial pollution. In <i>Globalization</i>, Mander pointed out that "a two-minute takeoff of a 747 is equal to 2.4 million lawn mowers running for twenty minutes." Plus, as globalization improves the economies of nations such as India and China, more people in these countries are buying cars and needing fuel. As reported by Michael Casey in the <i>Detroit News</i> in 2006, "the skyrocketing number of new vehicles means more air pollution, traffic jams and a big spike in oil consumption." While the emissions from the additional cars cause damage to the environment, the increased need for oil drives up gas prices worldwide.</p><p>One business that has been targeted by opponents of globalization in particular is industrial agriculture. In many areas, large, multinational farming corporations have edged out local farmers. Called agribusinesses, they rely heavily on chemical pesticides. They also reduce the diversity of crops by planting far fewer varieties than regional farmers do. Many agricultural corporations also modify crops genetically. They alter the plants' natural properties in an effort to make them more productive, more resistant to disease, or generally more profitable. Critics of genetically modified foods express concern because the long-term effects of such products on human health are unknown. Agricultural corporations are also criticized for the massive amounts of fresh water they use, at a time when one billion people on Earth cannot obtain clean drinking water. In various nations, corporations and sometimes governments have proposed privatizing the water supply. This means that businesses could own or control lakes and streams, and profit by selling access to clean water.</p><h3>Intellectual property rights</h3><p>Many free trade agreements, as well as organizations like the WTO, offer intellectual property protection to corporations. This allows them to patent, trademark, or copyright their products internationally. In other words, a product patented by a U.S.-based corporation allows that company to have a global monopoly on production of that item. A monopoly means that no other business can legally produce that item unless the company holding the patent, trademark, or copyright will allow it.</p><p>Numerous citizens' groups have protested that these intellectual property protections can have a devastating impact on developing nations. For example, agricultural corporations have placed patents on certain seeds. Such patents force farmers to buy the seeds at far higher prices than if the seeds were not patented. Furthermore, agribusinesses have altered some seeds to prevent them from reproducing, ensuring that farmers will have to buy new seeds year after year.</p><p>Another type of intellectual property that has received tremendous criticism is pharmaceuticals. Many people are concerned about the patents that drug companies have obtained for medicines. Patented, or brand-name, drugs often come with a high price tag. Once a drug's patent expires, however, generic drugs can then be made legally, which drives the price down. But U.S. patents generally last for twenty years, according to the U.S. Food and Drug Administration (FDA). "The patent protects the investment—including research, development, marketing, and promotion—by giving the company the sole right to sell the drug while it is in effect," explains the FDA. "Because [makers of generic drugs] don't have the same development costs, they can sell their product at substantial discounts."</p><p>The high cost of patented drugs is too steep for many people who suffer from life-threatening illnesses worldwide, especially those who are unable to work and earn money. Plus, many people do not have health insurance to help cover the costs. In some cases, the citizens of developing nations, many of whom suffer crushing poverty, cannot even afford basic medicines. Many of the poor are unable to pay the high prices that pharmaceutical corporations charge.</p><p>A 1998 case sparked outrage among citizens' groups worldwide when thirty-nine pharmaceutical companies tried to sue the government of South Africa. They wanted to prevent the government from obtaining less expensive, and unpatented, medications for its citizens suffering from human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS). Although HIV/AIDS is incurable and ultimately fatal as of 2006, the development of a class of drugs known as antiretrovirals has greatly extended the lives of many patients. In Africa, as many as 20 percent of adults suffered from HIV/AIDS by the end of the twentieth century. However, few could afford to spend thousands of dollars per year on antiretroviral drugs.</p><p>When the South African government passed a law enabling it to import cheaper antiretrovirals, dozens of pharmaceutical companies tried to reverse this law. Activists from around the world protested that the drug companies were willing to sacrifice human lives to protect profits. By 2001 the pharmaceutical companies had dropped the lawsuit. At that time, the citizens' groups in developing nations began pressuring the WTO and other organizations to give a higher priority to issues of public health.</p><h2>Protest actions</h2><p><div id='gpt-ad-inline-5' class='gpt-inline-ad' style='text-align: center; margin: 10px 0'>
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display('gpt-ad-inline-5');
+          });
+        </script>
+      </div><p>Antiglobalization activists blame organizations like the WTO, the World Bank, and the IMF for many of the most harmful aspects of globalization. Because of this, many of the movement's activities have focused on meetings held by these financial organizations. Protesters have gathered by the tens of thousands at these meetings in the hope of disrupting or preventing the proceedings. These activists hail from a variety of backgrounds and represent numerous causes.</p><p>Activists also take advantage of the major press coverage at such events to publicize their grievances. One of the earliest such demonstrations took place on June 18, 1999, when antiglobalization activists in more than one hundred cities held simultaneous protests of the G8 meeting in Cologne, Germany. This event was not the first protest of globalization. Various social reform groups have spoken out against aspects of globalization for decades. But it is considered significant for its international scope. Antiglobalization groups are said to have united as a movement a few months later to protest a WTO meeting in Seattle, Washington.</p><h3>The Battle in Seattle</h3><p>In the days leading up to the Seattle WTO conference, thousands of activists attended meetings and lectures in Seattle. They discussed the issues of globalization and planned their protest strategies. The major demonstrations began on the same day as the start of the conference, November 30, 1999. The protests were conducted by a coalition of tens of thousands of social reformers, including labor unionists, environmentalists, students, members of religious organizations, and others. Activists marched through the streets of Seattle, converging on the intersections surrounding the location of the meeting, the Washington State Convention and Trade Center. Their goal was to use nonviolent direct action to block the WTO participants from gaining access to the meeting.</p><p>The police response was swift and aggressive. Attempting to disperse protesters from intersections, the Seattle police fired tear gas canisters and shot rubber bullets into the crowds. Hundreds were arrested. Most protesters remained nonviolent, although a small faction attracted considerable media attention by breaking store windows and painting graffiti on walls and signs. The protesters were unable to prevent the meeting from taking place, but they did delay its start and bring about its early conclusion.</p><p>The "Battle in Seattle" marked the beginning of a series of substantial protests at gatherings of global trade organizations. Activists protested throughout the United States and in cities all over the world, demonstrating at meetings of the IMF, the World Bank, the WTO, the G8, and other global trade institutions.</p><h3>Genoa Protest</h3><p>One of the more notable demonstrations took place in Genoa, Italy, in July 2001. The protests, which coincided with a summit of the G8, included a massive crowd of activists who had traveled to Genoa for the event. By some estimates there were several hundred thousand protesters. The demonstration is not remembered particularly for the accomplishments of the activists, but for the response of the police.</p><p>Italian police raided buildings, including schools, believed to be housing activists. Hundreds of protesters were arrested, with many of them later claiming to have been treated brutally by the police. Dozens of protesters were hospitalized and one, a young man named Carlo Giuliani, was fatally shot by police. Public outcry about the police violence was strong. As a result, dozens of officers faced criminal charges for brutality. Evidence showed that some officers had planted Molotov cocktails (a type of homemade explosive) at one of the schools housing activists to justify the police raid on the facility.</p><h2>Movement Strengthens</h2><p>At the beginning of the twenty-first century, the antiglobalization movement was in its early stages. The movement had achieved some victories. For example, international lending institutions like the IMF and the World Bank responded to worldwide pressure and began the process of canceling some third world debt. In addition, citizens' groups in Bolivia successfully prevented corporate and government attempts to privatize the water supply. In many instances, however, the forces driving globalization (powerful industrial nations and multinational corporations) have proven to be mighty foes.</p><p>Under the umbrella of the antiglobalization movement, organizations with widely different purposes and goals have found common ground in the quest for a more humane approach to globalization. Antiglobalization activists seek to replace or reform the existing global trade agencies so that their leaders answer to citizens rather than corporations. Activists urge leaders to protect humankind and the environment rather than profits.</p><h2>For More Information</h2><h3>BOOKS</h3><p>Gerdes, Louise I., ed. <i>Globalization: Opposing Viewpoints</i>. Detroit: Greenhaven Press, 2006.</p><p>"The World Bank and the IMF in Developing Countries: Globalization and the Crisis of Legitimacy." <i>History Behind the Headlines: The Origins of Conflicts Worldwide, Volume 6</i>. Gale Group, 2003.</p><p>"The World Bank Group." <i>Worldmark Encyclopedia of the Nations, Vol. 1: United Nations</i>. 11th ed. Thomson Gale, 2004.</p><h3>WEB SITES</h3><p>Casey, Michael. "Boom in Auto Sales Drives Demand for Fuel in China, India: Even Middle and Lower Middle-Class Families Are Buying Cars" (May 1, 2006). <i>Detroit News</i>. http://www.detnews.com/apps/pbcs.dll/article?AID=/20060501/AUTO01/605010329/1148 (accessed on May 9, 2006).</p><p>Friedman, Benjamin M. "Globalization: Stiglitz's Case." <i>New York Review of Books</i> (August 15, 2002). <a href="http://www.nybooks.com/articles/15630">http://www.nybooks.com/articles/15630</a> (accessed on May 7, 2006).</p><p>"Generic Drugs: Questions and Answers." <i>Center for Drug Evaluation and Research, U.S. Food and Drug Administration</i>. http://www.fda.gov/cder/consumerinfo/generics_q&amp;a.htm#cost (accessed on May 9, 2006).</p><p>"Stop Corporate Globalization: Another World Is Possible!" <i>Our World Is Not for Sale</i>. http://www.ourworldisnotforsale.org/about.asp?about=signon=english (accessed on May 7, 2006).</p><p>"Teaching Guide for 'Globalization' Essays." <i>Social Science Research Council</i>. http://www.ssrc.org/sept11/essays/teaching_resource/tr_globalization.htm (accessed on May 7, 2006).</p><p>Weisbrot, Mark. "Globalization: A Primer." <i>Center for Economic and Policy Research</i>. http://www.cepr.net/publications/global_primer.htm (accessed on May 7, 2006).</p><p>"What Is the WTO?" <i>World Trade Organization</i>. <a href="http://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm">http://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm</a> (accessed on May 9, 2006).</p><h3>OTHER SOURCES</h3><p><i>The Corporation</i> (film). Big Picture Media Corporation, 2003.</p>
+</div><!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+<div id="TopicCitationDiv">
+    
+    <div id="TabbedPanels1">
+        <p class="citationprefix">
+            <a name="citationanchor"></a><span class="citethis">Cite this article </span>
+            <br>
+            <span class="selectcitationtext">Pick a style below, and copy the text for your bibliography.
+            </span>
+        </p>
+        <div class="TabbedPanels" id="citationtabstabs1014162">
+            <ul class="TabbedPanelsTabGroup">
+                <li class="TabbedPanelsTab TabbedPanelsTabSelected">
+                    <div>
+                        MLA
                     </div>
-                  </td>
-
-                  <td width="212">
-                    <p><font size="2" face=
-                    "Arial"><em>Globalization from Below: The
-                    Power of Solidarity</em><br>
-                     by Jeremy Brecher, Tim Costello, and Brendan
-                    Smith<br>
-                     South End Press, 2000</font></p>
-
-                    <p>&nbsp;</p>
-                  </td>
-                </tr>
-
-                <tr valign="top">
-                  <td>
-                    <div align="center">
-                      <img src="/images/1namingtheenemy.jpg" alt=
-                      "Naming the Enemy: Anti-Corporate Movements Confront Globalization "
-                       width="100" height="161">
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        Chicago</div>
+                </li>
+                <li class="TabbedPanelsTab">
+                    <div>
+                        APA
                     </div>
-                  </td>
+                </li>
+            </ul>
+            <div class="TabbedPanelsContentGroup">
+                <div class="TabbedPanelsContent TabbedPanelsContentVisible" id="divMLA">
+                    <p class="cittext">
+                        
+                        "<a href="/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement">The Antiglobalization Movement.</a>"
+                        <u>
+                            American Social Reform Movements Reference Library</u>.
+                        .
+                        
+                        <i>Encyclopedia.com.</i>
+                        4 May. 2017
+                        <span>&lt;</span><a href="http://www.encyclopedia.com">http://www.encyclopedia.com</a><span>&gt;</span>.
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divChicago">
+                    <p class="cittext">
+                        
+                        "The Antiglobalization Movement." <u>
+                            American Social Reform Movements Reference Library</u>.
+                        
+                        . <i>Encyclopedia.com.</i>
+                        (May 4, 2017). <a href="/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement">
+                            http://www.encyclopedia.com/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement</a>
+                    </p>
+                </div>
+                <div class="TabbedPanelsContent" id="divAPA">
+                    <p class="cittext">
+                        
+                        "The Antiglobalization Movement." <u>
+                            American Social Reform Movements Reference Library</u>.
+                        
+                        . Retrieved
+                        May 04, 2017
+                        from Encyclopedia.com: <a href="/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement">
+                            http://www.encyclopedia.com/social-sciences/news-wires-white-papers-and-books/antiglobalization-movement</a>
+                    </p>
+                </div>
+            </div>       
+            
+        </div>
+    </div>    
+</div>
 
-                  <td>
-                    <p><font size="2" face="Arial"><em>Naming the
-                    Enemy: Anti-Corporate Movements Confront
-                    Globalization</em><br>
-                     by Amory Starr Zed Books, 2001</font></p>
-                  </td>
-                </tr>
 
-                <tr valign="top">
-                  <td colspan="2">
-                    <hr size="1">
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+<div class="citation-learnmore">
+<a class="citationTrigger" id="citationTrigger-1014162">Learn more about citation styles <i class="fa fa-angle-down"></i></a></a>
+<div class="citation-content">
+                    <div class="box clearfix">
+						<div>
+        
+							<div class="main-sectionx doccontentwrapper">
+								<h3>Citation styles</h3>
+								<p>
+									Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+								</p>
+								<p>
+									Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style.  Then, copy and paste the text into your bibliography or works cited list.
+								</p>
+								<p>
+									Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.  Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+								</p>
+								<div>                       
+									<h4>Modern Language Association</h4>
+									<p><a target="_blank" href="http://www.mla.org/style">http://www.mla.org/style</a></p>
+												
+									<h4>The Chicago Manual of Style</h4>
+									<p><a target="_blank" href="http://www.chicagomanualofstyle.org/tools_citationguide.html">http://www.chicagomanualofstyle.org/tools_citationguide.html</a></p>
 
-            <p align="left"><font size="2" face="Arial">Finally,
-            after years of disintegration and defeat on the Left,
-            a new movement has erupted upon the political
-            landscape. It is not organized around a single issue,
-            identity based, or somehow &ldquo;implicitly&rdquo;
-            radical. On the contrary, this movement directly
-            attacks global capital&rsquo;s economic and political
-            infrastructure with a radically democratic politics
-            and a strategy of confrontation. It is bold,
-            anti-authoritarian, and truly global.</font></p>
+									<h4>American Psychological Association</h4>
+									<p><a target="_blank" href="http://apastyle.apa.org/">http://apastyle.apa.org/</a></p>
+								</div>
 
-            <p><font size="2" face="Arial">And also quite
-            effective. This movement has already introduced a
-            radical critique into the debate on the global
-            economy and demonstrated the capacity to physically
-            shut down meetings of trade ministers. It seems
-            possible that this movement will continue to grow,
-            deepen its radicalism, and revolutionize the world
-            according to the radically democratic principles it
-            embraces.</font></p>
-
-            <p><font size="2" face="Arial">The emergence of the
-            anti-globalization movement has produced a feeling of
-            near euphoria among anarchists. Not only are our
-            commitments to direct action and decentralization
-            shared broadly in the movement as a whole, but we are
-            also enjoying a political legitimacy that has eluded
-            us for decades. We can now articulate our
-            anti-statist, utopian message to activists around the
-            world and we are no longer dismissed as terrorists or
-            cranks. In many respects it seems like we should just
-            mobilize, mobilize, and mobilize.</font></p>
-
-            <p><font size="2" face="Arial">Unfortunately this
-            would be a grave mistake. The movement&rsquo;s
-            anti-authoritarian, revolutionary character is
-            currently under attack by a informal network of
-            reformists, who want nothing more than to see this
-            movement accommodate itself to the basic structures
-            of the present world. They are not waging a direct
-            assault upon revolutionaries in the movement: they
-            recognize that this would alienate them from the
-            movement&rsquo;s base. Instead, they are fighting us
-            indirectly, in the realm of ideas. In particular,
-            they hope to define the movement in a way that
-            renders its most expansive, utopian potentials
-            literally unthinkable.</font></p>
-
-            <p><font size="2" face="Arial">As important as it is
-            to mobilize, anarchists will have to respond to this
-            challenge on the theoretical terrain: we cannot
-            afford to lose the battle of ideas. Above all, we
-            must link the anti-globalization movement to a
-            broader revolutionary project in a way that is
-            coherent, concrete, and irrefutable. However, as a
-            defensive measure, we should expose the
-            reformist&rsquo;s attempt to sever this link and
-            reveal their designs to the movement as a whole. The
-            reformers will respond by declaring their good faith
-            or complaining about our divisiveness, but we should
-            not be swayed by such pre-political subterfuge: on
-            the contrary, we should be merciless with those who
-            would hinder the realization of the
-            anti-globalization movement&rsquo;s most radical
-            possibilities. Popular revolutionary movements have
-            been betrayed countless times before: we should not
-            let this happen again.</font></p>
-
-            <p><font size="2" face="Arial"><em>Naming the
-            Enemy</em> and <em>Globalization from Below</em> are
-            exemplary documents of the reformist wing of the
-            anti-globalization movement. They are more reflective
-            and sophisticated than the majority of books on the
-            movement and focus on the deeper questions upon which
-            its identity hangs. These two works celebrate the
-            movement&rsquo;s radicalism emphatically, but in
-            terms that make the revolutionary transformation of
-            the social order inconceivable.</font></p>
-
-            <p><font size="2" face="Arial">In <em>Globalization from Below</em>, Jeremy 
-          Brecher, Tim Costello, and Brendan Smith (BCS) argue that the economic, 
-          political, and cultural interconnectedness signified by globalization 
-          is irreversible and possibly a good thing: this interconnection, they 
-          assert, could potentially serve the interests of people and the earth, 
-          not just the elites. Although the rich and powerful have shaped globalization 
-          in their interest thus far (BCS call this &ldquo;globalization from 
-          above&rdquo;), there is a counter-movement that seeks to reshape our 
-          interconnected world in the interests of people and the planet (which 
-          BCS call &ldquo;globalization from below&rdquo;). They believe that 
-          the movement for &ldquo;globalization from below&rdquo; is disparate 
-          but growing, and their book is meant to provide a framework for uniting 
-          it into a common, grassroots struggle. They want to build a world structured 
-          by &ldquo;human values other than greed and domination,&rdquo; one &ldquo;less 
-          dominated by the culture and values of global capital, even if it is 
-          still constrained by them,&rdquo; and believe their book provides a 
-          realistic strategy for doing so.(<a href="#1" title=
-            "1"><u>1</u></a>) They believe that the movement for &ldquo;globalization 
-          from below&rdquo; can transform the world by leading people to withdraw 
-          their consent from dominant social relationships, which will prevent 
-          the reproduction of the social order, and thus create a situation in 
-          which the movement can impose different, more just norms upon society 
-          as a whole. BCS try to concretize these norms with a detailed program 
-          for reducing poverty, limiting environmental destruction, and enhancing 
-          democratic control over the economy. They believe their program embodies 
-          values &ldquo;already shared by many in this movement and that [it] 
-          is implicit in much of what the movement actually does.&rdquo;(<a href="#2"
-            title="2"><u>2</u></a>) Their attractive and short book (122 pages) 
-          is clearly conceived, written without jargon, and can be read for its 
-          programmatic suggestions as well as deeper speculations into the nature 
-          of social movements.</font></p> 
-        <p><font size="2" face="Arial">Amory Starr's <em>Naming the Enemy</em> 
-          is a comparative analysis of the ways activists in the anti-globalization 
-          movement criticize global capital and the types of alternatives they 
-          envision. She offers a panoramic view of the movement structured around 
-          three responses to global capital: restraining it, democratizing it, 
-          or building local alternatives to it. In her first category, which she 
-          calls &ldquo;contestation and reform,&rdquo; she examines movements 
-          that want to restrain global capital through state regulation. Here 
-          she treats movements against structural adjustment, peace and human 
-          rights groups, movements for land reform, the explicitly anti-corporate 
-          movement, and cyber-punk. Her second category is &ldquo;globalization 
-          from below,&rdquo; or movements that want to democratize globalization 
-          by making governments and corporations accountable to people instead 
-          of elites. Here she looks at the environmental and labor movements, 
-          socialist movements, anti-free trade movements, and the Zapatistas. 
-          Her final category is &ldquo;delinking,&rdquo; in which she treats movements 
-          that want to separate from global capital and build locally based alternatives 
-          to it, such as the anarchist movement, movements for sustainable development, 
-          the small businesses movement, sovereignty movements, and religious 
-          nationalist movements. <em>Naming the Enemy</em> is international in 
-          scope, although based on English language sources exclusively, and tries 
-          to engage an academic and activist audience. While the book is sometimes 
-          suffocated by absurdly academic jargon,(<a href="#3"
-            title="3"><u>3</u></a>) she provides a sweeping, ground-level view 
-          of the movement through studies of manifestos, campaigns, and virtually 
-          any resource in which anti-globalization activists articulate how they 
-          &ldquo;understand their enemy and envision rebuilding the world.&rdquo;(<a href="#4" title=
-            "4"><u>4</u></a>)</font></p>
-
-            <p><font size="2" face="Arial">Both BCS and Starr
-            embrace the anti-globalization movement and clearly
-            hope their books will contribute to its growth and
-            self-understanding. BCS advance a program and
-            framework for uniting the movement into a broad
-            struggle against &ldquo;globalization from
-            above&rdquo; whereas Starr offers a comprehensive
-            analysis of the goals (and opponents) identified by
-            movement activists. It is tempting to regard these
-            works as statements from sympathetic participants in
-            a diverse, growing movement, and I suspect that Starr
-            and BCS hope we will.</font></p>
-
-            <p><font size="2" face=
-            "Arial"><strong>Revolution</strong><br>
-             But those of us who believe that &ldquo;another
-            world is possible&rdquo; need to approach these books
-            with very specific concerns. We should ask: do they
-            link the anti-globalization movement to a broader
-            revolutionary project or do they at least provide
-            insights that could help us establish such a
-            link?</font></p>
-
-            <p><font size="2" face="Arial">Naturally the answer
-            to this question depends on the meaning of the word
-            &ldquo;revolution,&rdquo; which has been subject to
-            considerable and ongoing debate. The Left has
-            normally used the term to designate not only a
-            sweeping change in political, economic, and cultural
-            relationships, but also the moment when one
-            historical epoch gives birth to a totally new
-            landscape of historical experience through a process
-            of contradiction, collapse, and renewal. It is in
-            this sense that the Left has always had a utopian
-            dimension.</font></p>
-
-            <p><font size="2" face="Arial">The idea of revolution
-            is barely a concern for Starr or BCS and, to the
-            extent that it is, they seem to restrict it to the
-            transformation of political institutions (instead of
-            society as a whole). BCS mention the idea of
-            revolution in passing and, even then, only to state
-            that it depends on &ldquo;solving problems by means
-            of state power.&rdquo;(<a href="#5" title=
-            "5"><u>5</u></a>) Starr does not discuss the idea at
-            all, although she suggests a theory of revolution in
-            a treatment of reformist movements. For her, reform
-            means &ldquo;mobilizing existing formal democratic
-            channels of protest, seeking national legislation,
-            mounting judicial challenges, mobilizing
-            international agencies, boycotting and
-            protesting.&rdquo;(<a href="#6" title=
-            "6"><u>6</u></a>) Thus, presumably, revolutionary
-            movements are not oriented toward the existing
-            political structures but rather fight for new ones.
-            This suggests that Starr, like BCS, thinks of
-            revolution only in terms of the transformation of
-            political institutions (and her distinction between
-            movements that engage existing political institutions
-            and those that fight for new ones is not substantive:
-            movements are not revolutionary merely because they
-            fight for something new).</font></p>
-
-            <p><font size="2" face="Arial">But do they provide
-            insights that could help us link the
-            anti-globalization movement to a larger revolutionary
-            project?</font></p>
-
-            <p><font size="2" face="Arial">Many
-            anarcho-syndicalists and communists link the
-            anti-globalization movement to revolution by
-            affirming the analysis of capitalism advanced by late
-            19th and early 20th century socialists. According to
-            this view, capitalism&rsquo;s central and fatal
-            contradiction is the class conflict between the
-            bourgeoisie and the proletariat. Specifically,
-            capitalism creates an industrial proletariat that
-            must, in turn, fight for its interests as a class.
-            Ultimately the proletariat becomes so numerous and
-            impoverished that it will not only fight for
-            immediate benefits but also against the social order
-            that has produced it as a class: the class struggle
-            then unfolds into revolution and capitalism as a
-            whole is destroyed. Although communists and
-            anarcho-syndicalists recognize that the
-            anti-globalization movement is not a revolutionary
-            working class movement, they believe it will become
-            one when the movement grasps the real nature of
-            economic inequality: in this sense the movement is a
-            first, but partial step toward a broader
-            revolutionary struggle. Ultimately groups that
-            explicitly embraced a revolutionary socialist
-            perspective, such as the Russian Bolsheviks or the
-            Spanish anarchists, will have to provide the model
-            for the movement as a whole. (This is why communists
-            and anarcho-syndicalists are so focused on political
-            lessons derived from pre-WWII events such as the
-            Russian Revolution and Spanish Civil War.)</font></p>
-
-            <p><font size="2" face="Arial">We will not find
-            support for this idea in <em>Naming the Enemy</em> or
-            <em>Globalization from Below</em>. Neither believe
-            that capitalism is subject to fatal contradictions
-            (class, or otherwise) nor that it should be
-            transcended as a social form. In fact, BCS seek not
-            only to retain but also to improve the capitalist
-            mode of production: for example, they argue that
-            their economic program will &ldquo;expand employment
-            and markets and generate a virtuous cycle of economic
-            growth.&rdquo;(<a href="#7" title="7"><u>7</u></a>)
-            Starr eliminates the question altogether by defining
-            the anti-globalization movement as anti-corporate
-            instead of anti-capitalist.(<a href="#8" title=
-            "8"><u>8</u></a>) Accordingly, the category of class
-            is not important for BCS or Starr&rsquo;s analysis of
-            the anti-globalization movement and neither attempt
-            to relate the interests of the working class to the
-            fate of the movement as a whole (Starr explicitly
-            argues that labor struggles based on class interest
-            do not challenge the corporate form(<a href="#9"
-            title="9"><u>9</u></a>)). For them,
-            anarcho-syndicalists and communists are mistaken to
-            draw a link between the anti-globalization movement
-            and the older revolutionary socialist
-            movements.</font></p>
-
-            <p><font size="2" face="Arial">But clearly there are
-            other ways to conceive of revolution than as a
-            consequence of class contradictions: for example, it
-            is possible to imagine revolution in a democratic
-            populist sense, in which people draw upon shared
-            values (as opposed to class interests) to overthrow
-            elites. This vision of revolution is not premised
-            upon the exacerbation of class conflict, but rather
-            the emergence of a democratic sentiment that rejects
-            exclusive, non-participatory social institutions. BCS
-            and Starr offer some support for understanding the
-            anti-globalization movement in these terms. BCS
-            explicitly define the movement as a people&rsquo;s
-            movement designed to &ldquo;restrain global
-            capital&rdquo;(<a href="#10" title=
-            "10"><u>10</u></a>) and Starr implies the same thing
-            by focusing on the ideals, not class positions, of
-            activists within the movement. However, Starr and BCS
-            fail to articulate this democratic perspective in a
-            way that could make a revolutionary transformation of
-            the social order comprehensible. BCS want to place
-            global capitalism under the control of democratic
-            political institutions at the local, national, and
-            international levels (they call this a
-            &ldquo;multi-level alternative&rdquo;). However,
-            their program for democratizing the economy is not
-            complemented by a program for democratizing political
-            power (in fact, campaign finance reform is the only
-            explicitly political demand they advance). This is
-            because they do not advocate (or even mention) direct
-            democracy: on the contrary, they believe in
-            representative democracy and are thus largely content
-            with the political structures it presupposes. For
-            example, they are oblivious to the inherently
-            anti-democratic nature of the nation-state and
-            institutions based upon it (such as the UN), not to
-            mention the political apparatuses they imply, such as
-            politicians, political parties, and advocacy groups.
-            So, despite their democratic rhetoric and enthusiasm
-            for extra-parliamentary social movements, their
-            vision preserves the political structure of the world
-            as it presently exists.</font></p>
-
-            <p><font size="2" face="Arial">BCS&rsquo;s
-            theoretical premises also make it impossible to
-            conceive of a significant historical leap. For BCS,
-            the social order is shaped by a balance between the
-            powerful and the powerless (not necessarily classes).
-            They write that the power of any society &ldquo;is
-            based on the active cooperation of some people and
-            the consent and/or acquiescence of others. It is the
-            activity of people&mdash;going to work, paying taxes,
-            buying products, obeying government officials,
-            staying off private property&mdash;that continually
-            re-creates the power of the powerful.&rdquo;(<a href=
-            "#11" title="11"><u>11</u></a>) This is why social
-            movements can transform these social relationships
-            when they lead people to withdraw their consent from
-            the dominant arrangements: people stop acquiescing
-            and thus prevent the reproduction of the social
-            order, enabling the movement to impose its own norms
-            on society as a whole (for example, think of the
-            civil rights movement). This vision of social change
-            seems laudable, given its emphasis on the power of
-            the oppressed in the reproduction and transformation
-            of societies, but it has two fundamental problems.
-            First, BCS do not explain why a people may develop
-            norms that contradict the status quo, and thus cannot
-            explain why they would want to withdraw their consent
-            from the prevailing social relationships in the first
-            place. Second, their assertion that society is always
-            defined by a truce between the powerful and the
-            powerless could characterize any social formation,
-            from the birth of society to the end of history, and
-            thus lacks any historical content. However, if we
-            wish to retain this trans-historical principle, then
-            we must conclude that social movements can only
-            strike a new balance of disempowerment at the very
-            best. There is no transcendence, no realm of freedom,
-            in this vision.</font></p>
-
-            <p><font size="2" face="Arial">While Starr does not
-            advance a democratic revolutionary perspective, her
-            work is more amenable to such a stance than
-            BCS&rsquo;s. She treats movements that explicitly
-            assert a democratic vision against the existing power
-            structure and suggests that this orientation is both
-            coherent and legitimate (she tries to defend
-            anarchist as well as other decentralist tendencies
-            against their academic and social democratic
-            critics).(12) Also, the fact that she studies how
-            actors in the anti-globalization movement conceive of
-            their opponents and want to rebuild the world
-            suggests that Starr regards our ideals and
-            commitments as the most important factors in
-            political action, not the &ldquo;objective
-            development of class contradictions.&rdquo; This
-            value-based approach is a precept of any
-            revolutionary democratic politics.</font></p>
-
-            <p><font size="2" face="Arial">Although she tries to
-            support anti-statist movements that are fighting
-            global capital, her efforts are theoretically and
-            empirically unsound. Instead of treating these
-            movements as instances of a democratic, anti-statist
-            tradition she defines them merely as localist
-            movements that want to &ldquo;delink&rdquo; (or
-            separate) from the global economy. This makes little
-            sense: there are virtually no localists in the
-            anti-globalization movement, but rather decentralist
-            movements that regard the community (not the state)
-            as the locus of political life and want to
-            reconstruct the world around a new relationship
-            between communities.(<a href="#13" title=
-            "13"><u>13</u></a>) These movements are not
-            localist&mdash;they do not simply want to retreat
-            into their own enclaves&mdash;but rather
-            communitarian movements fighting for the
-            decentralization of political power. But also, on a
-            theoretical level, her definition severs these
-            movements from a broader democratic legacy, and thus
-            obscures a tradition that connects (for example)
-            Zapatista municipal radicalism to Proudhon&rsquo;s
-            federalism. She even mentions the Proudhonian
-            federalist tradition, but fails to theorize its
-            presence in these decentralist movements. Thus, her
-            defense of the most radical wing in the
-            anti-globalization movement presupposes a sharp
-            misreading of its politics. Even worse, her
-            conception of localism-as-radicalism leads her to
-            defend religious nationalists and their efforts to
-            impose parochial, blood-based restraints on the world
-            economy: for example, she mentions radical Islamic
-            nationalists and the U.S.&rsquo;s racist Christian
-            Patriot movement. While these groups may share an
-            emphasis on the locality with decentralist tendencies
-            in the anti-globalization movement, religious
-            nationalists are regressive to the extreme, whereas
-            decentralists are confederal and cosmopolitan in the
-            best sense of the terms. Starr&rsquo;s effort to
-            soften this divide is less than
-            compelling.</font></p>
-
-            <p><font size="2" face="Arial">But even if Starr
-            related her analysis to a democratic tradition, there
-            is a problem in the very constitution of <em>Naming
-            the Enemy</em>. She does not study movements on the
-            basis of their &ldquo;size, scope, practices or
-            chances for success,&rdquo;(<a href="#14" title=
-            "14"><u>14</u></a>) but only on the basis of their
-            ideals. This tends to broaden her picture of the
-            anti-globalization movement, given that the most
-            exciting developments in the movement are not always
-            the largest, most influential, or most likely to
-            succeed. However, some criteria must be applied to
-            determine whose intentions are relevant: after all,
-            countless groups declare their opposition to the
-            consequences of global capitalism, from the Cuban
-            Communist Party to the Catholic Church. But of course
-            one cannot study a movement solely on the basis of
-            its declarations any more than one can study a person
-            on the basis of his or her self-description. Starr
-            knows this, but refuses to spell out the criteria she
-            uses to select movements for consideration. It is
-            clear that she embraces some form of left-wing,
-            democratic populism (&aacute; la <em>Z Magazine</em>)
-            but theorizing these commitments would put her in
-            opposition to the radical skepticism and liberal
-            resignation prevailing in academia at the
-            moment.</font></p>
-
-            <p><font size="2" face=
-            "Arial"><strong>Conclusion</strong><br>
-             That Starr and BCS welcome the emergence of a
-            democratic, direct action-based movement against
-            global capital is an indication of the success of the
-            anti-authoritarian tradition. Years ago they might
-            have called for a small &ldquo;c&rdquo; communism or
-            some form of Green Party-like electoralism but,
-            instead, they praise this anti-authoritarian movement
-            for its democratic sentiments, commitment to protest,
-            and oppositional stance. They want to speak the
-            language of the growing movement against global
-            capitalism.</font></p>
-
-            <p><font size="2" face="Arial">Yet they would lure us
-            into a trap: they are not revolutionaries, their
-            books do not provide terms through which we can link
-            this movement to a broader revolutionary project, and
-            their basic theoretical commitments are fundamentally
-            antagonist to the goal of revolutionary
-            transformation. BCS&rsquo;s <em>Globalization from
-            Below</em> is comprehensible because it affirms the
-            basic structure of the present world&mdash;that is,
-            capitalism and the nation-state&mdash;and is thus
-            written with the clarity and repose of those who have
-            already won. They descend into platitudes when they
-            try to relate their ideas to a project of radical
-            social transformation precisely because they do not
-            want such a transformation. Starr becomes
-            incomprehensible, dipping into jargon and an absurd
-            defense of religious nationalism, because she wants
-            to reject the present but is unwilling to embrace the
-            terms that would make such a refusal
-            coherent.</font></p>
-
-            <p><font size="2" face="Arial">Neither BCS nor Starr
-            should be regarded as deceitful or malicious and,
-            besides, their motives are of little significance.
-            What must be recognized is that they are on different
-            sides of the debate over the anti-globalization
-            movement than those of us who genuinely believe that
-            a new world is possible. They celebrate the movement,
-            but the terms of their analyses are hostile to its
-            best, most visionary dimensions.</font></p>
-
-            <p><font size="2" face="Arial">Our capacity to push
-            the anti-globalization movement from opposition to
-            revolution will be destroyed if we accept the
-            premises of their books, either passively or
-            otherwise. Even if demonstrations and militant
-            conflicts with the police were to continue, we cannot
-            fight for a revolution that we cannot
-            conceive.</font></p>
-
-            <p><font size="2" face="Arial">I think anarchists
-            have been correct to greet the anti-globalization
-            movement with enthusiasm: I believe that
-            extraordinary potentials are at hand. However, to
-            realize these potentials, we must confront those who
-            would erase them from the historical agenda. This
-            will allow us to preserve the idea that new,
-            emancipated landscapes of historical experience are
-            available to us and to set about creating
-            them.</font></p>
-            <hr size="1">
-
-            <blockquote>
-              <p><font size="2" face=
-              "Arial"><strong>FOOTNOTES:</strong></font></p>
-
-              <p><font size="2" face="Arial">1<a name="1"></a>.
-              Brecher, Costello, and Smith, <em>Globalization
-              from Below</em>, p. 122</font></p>
-
-              <p><font size="2" face="Arial">2<a name="2"></a>.
-              Ibid., p. xi.</font></p>
-
-              <p><font size="2" face="Arial">3<a name="3"></a>.
-              The level of jargon is suffocating and sometimes
-              nonsensical. For example, she mentions
-              &ldquo;potentially agentic forms of
-              subjectivity&rdquo; (p. 32). The invention of the
-              word agentic is strange enough, but the phrase is
-              also redundant: anything that possesses
-              agency&mdash;the capacity to act&mdash; possesses
-              subjectivity.</font></p>
-
-              <p><font size="2" face="Arial">4<a name="4"></a>.
-              Starr, <em>Naming the Enemy</em>, p. x.</font></p>
-
-              <p><font size="2" face="Arial">5<a name="5"></a>.
-              Brecher, Costello, and Smith, <em>Globalization
-              from Below</em>, p. 24.</font></p>
-
-              <p><font size="2" face="Arial">6<a name="6"></a>.
-              Starr, <em>Naming the Enemy</em>, p. 45.</font></p>
-
-              <p><font size="2" face="Arial">7<a name="7"></a>.
-              Brecher, Costello, and Smith, <em>Globalization
-              from Below</em>, p. 69.</font></p>
-
-              <p><font size="2" face="Arial">8<a name="8"></a>.
-              This is quite weak: for Starr
-              &ldquo;corporate&rdquo; refers not to a legally
-              constituted corporation but something that
-              functions according to &ldquo;corporate
-              principles.&rdquo; Starr, <em>Naming the
-              Enemy</em>, p xiv.</font></p>
-
-              <p><font size="2" face="Arial">9<a name="9"></a>.
-              Ibid., p. 93.</font></p>
-
-              <p><font size="2" face="Arial">10<a name="10"></a>.
-              Brecher, Costello, and Smith, <em>Globalization
-              from Below</em>, p. 17.</font></p>
-
-              <p><font size="2" face="Arial">11<a name="11"></a>
-              Brecher, Costello, and Smith, <em>Globalization
-              from Below</em>, p. 21.</font></p>
-
-              <p><font size="2" face="Arial">12<a name="12"></a>.
-              For example, she states that anarchism is
-              &ldquo;the oldest and richest Western
-              tradition&rdquo; of local radicalism. Starr,
-              <em>Naming the Enem</em>y, p. 226.</font></p>
-
-              <p><font size="2" face="Arial">13<a name="13"></a>.
-              One can find a few localists, such as flippant
-              academics like Jerry Mander, but they are the
-              exception rather than the rule.</font></p>
-
-              <p><font size="2" face="Arial">14<a name="14"></a>.
-              Ibid., p. xi.</font></p>
-            </blockquote>
-          </td>
-        </tr>
-
-        <tr valign="top">
-          <td bgcolor="#333333">
-            <div align="center">
-              <a href="index.htm"><img alt="Home" src=
-              "images/nfhome.jpg" width="192" height="26" border=
-              "0"></a>
+								<h5>Notes:</h5>
+								<ul class="citationnotes">
+									<li>
+										Most online reference entries and articles do not have page numbers.  Therefore, that information is unavailable for most Encyclopedia.com content.  However, the date of retrieval is often important.  Refer to each style’s convention regarding the best way to format page numbers and retrieval dates.
+									</li>
+									<li>
+										In addition to the MLA, Chicago, and APA styles, your school, university, publication, or institution may have its own requirements for citations.  Therefore, be sure to refer to those guidelines when editing your bibliography or works cited list. 
+									</li>
+								</ul>
+							</div>
+						</div>
+                    </div>
+                </div>
             </div>
-          </td>
-        </tr>
 
-        <tr valign="top">
-          <td>&nbsp;</td>
-        </tr>
-      </tbody>
-    </table>
-  </body>
+  </div>
+
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-bottomcontentad">
+  
+    
+      <!-- /62541793/enc_linkads -->
+<div id='div-gpt-ad-bodybtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bodybtf'); });
+</script>
+</div>
+  </div>
+
+  </div>
+
+		
+	</div>
+	<div class="sidebar">
+				<div id='gpt-ad-rail-atf'>
+	    <script>
+	      googletag.cmd.push(function() { googletag.display('gpt-ad-rail-atf'); });
+	    </script>
+	  </div>
+
+					<aside class="layout-sidebar-first" role="complementary">
+			  <div>
+      <div class="clearfix">
+    
+    <div class="trending-topic-tools">
+        <a id="socialMediaFacebook" href="javascript:;">
+            <i class="fa fa-social-fb" title="Share this article on Facebook"></i>
+        </a>
+        <a id="socialMediaTwitter" href="javascript:;">
+            <i class="fa fa-social-twit" title="Twitter"></i>
+        </a><a id="socialMediaReddit" href="javascript:;">
+            <i class="fa fa-social-rddt" title="Submit this article to Reddit"></i>
+        </a>
+        <a id="socialMediaStumbleUpon" href="javascript:;">
+            <i class="fa fa-social-su" title="Give this article a thumbs-up on StumbleUpon"></i>
+        </a>
+    </div>
+  </div>
+  <script>
+    //var socialMediaPageUrl = "http%3a%2f%2fwww.encyclopedia.com%2ftopic%2fStephen_Watts_Kearny.aspx";
+    var socialMediaPageName = "Topic";
+    var socialMediaFacebookUrl = "http://www.facebook.com/sharer.php?u=";
+    var socialMediaTwitterUrl = "http://twitter.com/home?status=Check out @encyclopediacom's coverage of Stephen Watts Kearny at ";
+    var socialMediaRedditUrl = "http://reddit.com/submit?title=Stephen+Watts+Kearny&amp;url=";
+    var socialMediaStumbleUponUrl = "http://www.stumbleupon.com/submit?title=Stephen+Watts+Kearny&amp;url=";
+  </script>    
+<div id="block-rightcolumntopad">
+  
+    
+      
+  </div>
+<div id="block-trendingtopicsarticlespage">
+  
+    	<div>
+	  	</div>
+  </div>
+<div id="block-rightcolumnmiddlead">
+  
+    
+      
+  </div>
+<div id="block-rightcolumnbottomad">
+  
+    
+      <!-- /62541793/enc_rightcolumnbtf -->
+<div id='div-gpt-ad-rightcolumnbtf'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-rightcolumnbtf'); });
+</script>
+</div>
+  </div>
+<div class="views-element-container" id="block-views-block-related-links-related-combined-links-block">
+  
+    
+      <div block="block-views-block-related-links-related-combined-links-block"><div class="links-view js-view-dom-id-e83fcf71f7b8ac1e3cb8b0bb5a4fa0410a92d90792dd643e030c13fa645bb259">
+  
+  
+  
+
+  
+  
+  
+
+  <div>
+  
+  <ul class="no-bullet-list">
+
+          <li><h4>
+</h4></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+  </div>
+</div>
+
+  </div>
+<div id="block-facebooklikebox">
+  
+    
+      
+            <div><p><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fencyclopediacom&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=80"></iframe></p>
+</div>
+      
+  </div>
+
+  </div>
+
+			</aside>
+		
+		
+				<div id='gpt-ad-rail-btf'>
+	    <script>
+	      googletag.cmd.push(function() { googletag.display('gpt-ad-rail-btf'); });
+	    </script>
+	  </div>
+	</div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  
+
+    <div id='gpt-ad-footer' style="text-align: center; margin-bottom: 20px">
+    <script>
+      googletag.cmd.push(function() { googletag.display('gpt-ad-footer'); });
+    </script>
+  </div>
+
+    <div id="footer">
+    <footer>
+        <div>
+    <div id="block-footerad">
+  
+    
+      <!-- /62541793/enc_footer -->
+<div id='div-gpt-ad-footer'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-footer'); });
+</script>
+  </div>
+<div id="block-sociallinks">
+  
+    
+      
+            <div><nav class="social"><a href="https://www.facebook.com/encyclopediacom" target="_blank" title="Facebook"><i class="fa fa-social-fb"></i></a> <a href="https://twitter.com/encyclopediacom" target="_blank" title="Twitter"><i class="fa fa-social-twit"></i></a> <a href="https://instagram.com/encyclopediacom" target="_blank" title="Instagram"><i class="fa fa-social-insta"></i></a></nav></div>
+      
+  </div>
+<nav role="navigation" aria-labelledby="block-encyclopedia-footer-menu" id="block-encyclopedia-footer">
+            
+  <h2 class="visually-hidden" id="block-encyclopedia-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul block="block-encyclopedia-footer">
+              <li>
+        <a href="/" rel="nofollow" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+          <li>
+        <a href="/about" rel="nofollow" data-drupal-link-system-path="node/1319859">About Us</a>
+              </li>
+          <li>
+        <a href="/faq" rel="nofollow" data-drupal-link-system-path="node/1319856">Help</a>
+              </li>
+          <li>
+        <a href="/emailus" rel="nofollow" data-drupal-link-system-path="contact/feedback">Site Feedback</a>
+              </li>
+          <li>
+        <a href="/privacy" rel="nofollow" data-drupal-link-system-path="node/1319857">Privacy Policy</a>
+              </li>
+          <li>
+        <a href="/termsofservice" rel="nofollow" data-drupal-link-system-path="node/1319858">Terms and Conditions</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-copyright">
+  
+    
+      
+            <div><p>
+        <span>© 2016 Encyclopedia.com | All rights reserved.</span>
+     </p></div>
+      
+  </div>
+
+  </div>
+
+    </footer>
+  </div>
+  
+  <i class="fa fa-angle-up back-to-top"></i>
+  
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="//ajax.microsoft.com/ajax/4.0/1/MicrosoftAjax.js"></script>
+<script src="/sites/default/files/js/js_aj-hARLRdtghl6LpmA_GDwXiGIVmIgc941ga5esh6kk.js"></script>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="//widgets.outbrain.com/outbrain.js"></script>
+<script src="/sites/default/files/js/js_wczeYq0_r1lJ3V-oh7SGzZJ9NreVEkXwKYCDyYrkdMw.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/video.js/5.16.0/video.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/videojs_5.vast.vpaid.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/videojs-vast-vpaid/2.0.2/ie8fix.min.js"></script>
+<script src="/sites/default/files/js/js_X-82uyPA2A9f3xnn_AOlFNG9IRYowygtQifose-WilM.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"944b4b637b","applicationID":"30464058","transactionName":"NVFXZEACDxcFVUdcDQwbdFNGCg4KS3JBQBIDWGlzXREEOClTXUA+JlFTUUcPFSkBWEZ5CwxfYUJXBiwFCl9DQA4DQFpCQU5fAwFYVkcDFlF8XlYGGSUKUmBaEBY=","queueTime":0,"applicationTime":1088,"atts":"GRZUEggYHBk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
-

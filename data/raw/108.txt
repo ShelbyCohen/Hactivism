@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+<meta name="google-site-verification" content="qoi3R1hgcWoXpSjb1KrhfridOxaDkD7C-Olym1zFMBM" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title> &raquo; Zapatista Movement</title>
+		<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://internationalrelations.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://internationalrelations.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Zapatista Movement Comments Feed" href="http://internationalrelations.org/zapatista-movement/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/internationalrelations.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='attention-grabber-hello-bar-alternative-frontend-css'  href='http://internationalrelations.org/wp-content/plugins/attention-grabber-hello-bar-alternative/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://internationalrelations.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-font-css'  href='http://internationalrelations.org/wp-content/plugins/ditty-news-ticker/assets/fontastic/styles.css?ver=2.0.17' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-css'  href='http://internationalrelations.org/wp-content/plugins/ditty-news-ticker/assets/css/style.css?ver=2.0.17' type='text/css' media='all' />
+<link rel='stylesheet' id='twttr_stylesheet-css'  href='http://internationalrelations.org/wp-content/plugins/twitter-plugin/css/style.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpemailcapturestyles-css'  href='http://internationalrelations.org/wp-content/plugins/wp-email-capture/inc/css/wp-email-capture-styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='corpo-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awsome-css-css'  href='http://internationalrelations.org/wp-content/themes/corpo/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='corpo-css-css'  href='http://internationalrelations.org/wp-content/themes/corpo/style.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='color_scheme-css'  href='http://internationalrelations.org/wp-content/themes/corpo/css/color_scheme/red.css?ver=4.6.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><script type='text/javascript' src='http://internationalrelations.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/themes/corpo/js/jquery.tools.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/themes/corpo/js/modernizr.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/themes/corpo/js/tinynav.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/themes/corpo/js/scripts.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://internationalrelations.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://internationalrelations.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://internationalrelations.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.5" />
+<link rel="canonical" href="http://internationalrelations.org/zapatista-movement/" />
+<link rel='shortlink' href='http://internationalrelations.org/?p=3597' />
+<link rel="alternate" type="application/json+oembed" href="http://internationalrelations.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Finternationalrelations.org%2Fzapatista-movement%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://internationalrelations.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Finternationalrelations.org%2Fzapatista-movement%2F&#038;format=xml" />
+<script type="text/javascript" async defer data-pin-color="red"  data-pin-hover="true" src="http://internationalrelations.org/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js"></script><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="http://internationalrelations.org/zapatista-movement/" />
+<meta property="og:title" content="Zapatista Movement" />
+<meta property="og:image" content="http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="687" />
+	</head>
+    	<body class="page page-id-3597 page-template-default custom-background zapatista-movement">
+	
+    <div id="wrapper">
+        <div id="top-bar">
+            <div class="right">
+                <ul class="social"></ul>            </div>
+                    </div>
+        <!-- header -->
+        <header id="header">
+            <div id="header-inner">
+                <div id="logo">
+                                        <h1 id="site-title"><a href="http://internationalrelations.org/" title=" - " rel="home"><img src="http://internationalrelations.org/wp-content/uploads/2016/11/1-e1478909542547.jpg" alt="" /></a></h1><p class="site_tagline"></p>
+                    		
+                </div>
+                <!-- navigation -->
+                <nav id="main-nav" role="navigation">
+                    <ul id="main-menu" class="menu"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://internationalrelations.org/">What is International Relations?</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-71"><a href="http://internationalrelations.org/topics/">Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://internationalrelations.org/diplomacy-in-international-relations/">Diplomacy In International Relations</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://internationalrelations.org/environmental-issues/">Environmental Issues</a></li>
+	<li id="menu-item-2867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2867"><a href="http://internationalrelations.org/kyoto-protocol/">Kyoto Protocol</a></li>
+	<li id="menu-item-4614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4614"><a href="http://internationalrelations.org/cop21/">Paris UN Climate change Conference (COP21)</a></li>
+	<li id="menu-item-1718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1718"><a href="http://internationalrelations.org/ethnic-conflict/">Ethnic Conflict</a></li>
+	<li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="http://internationalrelations.org/clash-of-civilizations-challenging-samuel-huntingtons-thesis/">Clash of Civilizations: Challenging Samuel Huntington&#8217;s Thesis</a></li>
+	<li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="http://internationalrelations.org/globalization/">Globalization</a></li>
+	<li id="menu-item-3083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3083"><a href="http://internationalrelations.org/is-the-world-flat-round-or-spiky-questions-on-globalization/">Is the World Flat, Round, or Spiky? Questions on Globalization</a></li>
+	<li id="menu-item-3137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3137"><a href="http://internationalrelations.org/opec/history-of-globalization/">History of Globalization</a></li>
+	<li id="menu-item-3240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3240"><a href="http://internationalrelations.org/pros-and-cons-of-globalization/">Pros and Cons of Globalization</a></li>
+	<li id="menu-item-6088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6088"><a href="http://internationalrelations.org/cultural-globalization/">Cultural Globalization</a></li>
+	<li id="menu-item-6156" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6156"><a href="http://internationalrelations.org/religion-and-globalization/">Religion and Globalization</a></li>
+	<li id="menu-item-3491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3491"><a href="http://internationalrelations.org/global-governance/">Global Governance</a></li>
+	<li id="menu-item-2081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2081"><a href="http://internationalrelations.org/global-trade/">Global Trade</a></li>
+	<li id="menu-item-3353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3353"><a href="http://internationalrelations.org/globalization-and-technology/">Globalization and Technology</a></li>
+	<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://internationalrelations.org/international-human-rights/">International Human Rights</a></li>
+	<li id="menu-item-2390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2390"><a href="http://internationalrelations.org/history-of-human-rights/">History of Human Rights</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2514"><a href="http://internationalrelations.org/asylum-seekers/">Asylum Seekers</a></li>
+	<li id="menu-item-2728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2728"><a href="http://internationalrelations.org/food-insecurity/">Food Insecurity</a></li>
+	<li id="menu-item-2571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2571"><a href="http://internationalrelations.org/global-inequality-in-the-world/">Global Inequality In The World</a></li>
+	<li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="http://internationalrelations.org/foreign-aid/">Foreign Aid</a></li>
+	<li id="menu-item-5322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5322"><a href="http://internationalrelations.org/what-is-human-development/">What is Human Development?</a></li>
+	<li id="menu-item-2895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2895"><a href="http://internationalrelations.org/infectious-diseases/">Infectious Diseases</a></li>
+	<li id="menu-item-2633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="http://internationalrelations.org/international-development/">International Development</a></li>
+	<li id="menu-item-4119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4119"><a href="http://internationalrelations.org/international-human-rights-law/">International Human Rights Law</a></li>
+	<li id="menu-item-1749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1749"><a href="http://internationalrelations.org/multinational-corporations/">Multinational Corporations</a></li>
+	<li id="menu-item-4118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4118"><a href="http://internationalrelations.org/social-movements/">Social Movements</a></li>
+	<li id="menu-item-2548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2548"><a href="http://internationalrelations.org/universal-declaration-of-human-rights/">Universal Declaration of Human Rights</a></li>
+	<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="http://internationalrelations.org/international-organizations/">International Organizations</a></li>
+	<li id="menu-item-4553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4553"><a href="http://internationalrelations.org/what-is-the-african-union/">What is the African Union?</a></li>
+	<li id="menu-item-2964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2964"><a href="http://internationalrelations.org/arab-league/">Arab League</a></li>
+	<li id="menu-item-3878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3878"><a href="http://internationalrelations.org/model-arab-league/">Model Arab League</a></li>
+	<li id="menu-item-2901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2901"><a href="http://internationalrelations.org/european-union/">European Union</a></li>
+	<li id="menu-item-2538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2538"><a href="http://internationalrelations.org/international-criminal-court/">International Criminal Court</a></li>
+	<li id="menu-item-1921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1921"><a href="http://internationalrelations.org/league-of-nations/">League of Nations</a></li>
+	<li id="menu-item-4725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4725"><a href="http://internationalrelations.org/opec/">OPEC</a></li>
+	<li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421"><a href="http://internationalrelations.org/history-of-the-united-nations/">History of the United Nations</a></li>
+	<li id="menu-item-2298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2298"><a href="http://internationalrelations.org/united-nations-human-rights/">United Nations Human Rights</a></li>
+	<li id="menu-item-1455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1455"><a href="http://internationalrelations.org/united-nations-security-council/">United Nations Security Council</a></li>
+	<li id="menu-item-1534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="http://internationalrelations.org/united-nations-general-assembly/">United Nations General Assembly</a></li>
+	<li id="menu-item-2704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2704"><a href="http://internationalrelations.org/un-human-rights-council/">Commission on Human Rights</a></li>
+	<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://internationalrelations.org/ecosoc/">ECOSOC</a></li>
+	<li id="menu-item-2749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2749"><a href="http://internationalrelations.org/un-office-of-the-high-commissioner-for-human-rights/">UN Office of the High Commissioner for Human Rights</a></li>
+	<li id="menu-item-2706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2706"><a href="http://internationalrelations.org/united-nations-human-rights-council/">United Nations Human Rights Council</a></li>
+	<li id="menu-item-2440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2440"><a href="http://internationalrelations.org/un-international-court-of-justice/">UN International Court of Justice</a></li>
+	<li id="menu-item-2838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2838"><a href="http://internationalrelations.org/international-labour-organization/">International Labour Organization</a></li>
+	<li id="menu-item-2821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2821"><a href="http://internationalrelations.org/united-nations-development-programme/">United Nations Development Programme</a></li>
+	<li id="menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2046"><a href="http://internationalrelations.org/united-nations-peacekeeping/">United Nations Peacekeeping</a></li>
+	<li id="menu-item-4377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4377"><a href="http://internationalrelations.org/united-nations-and-the-rwandan-genocide/">United Nations and the Rwandan Genocide</a></li>
+	<li id="menu-item-2503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2503"><a href="http://internationalrelations.org/united-nations-population-fund/">United Nations Population Fund</a></li>
+	<li id="menu-item-2126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2126"><a href="http://internationalrelations.org/model-united-nations/">Model United Nations</a></li>
+	<li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="http://internationalrelations.org/world-bank/">World Bank</a></li>
+	<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="http://internationalrelations.org/international-monetary-fund-imf/">International Monetary Fund (IMF)</a></li>
+	<li id="menu-item-1180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1180"><a href="http://internationalrelations.org/world-trade-organization/">World Trade Organization</a></li>
+	<li id="menu-item-1097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1097"><a href="http://internationalrelations.org/washington-consensus/">Washington Consensus</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://internationalrelations.org/international-relations-theory/">International Relations Theory</a></li>
+	<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://internationalrelations.org/realism_in_international_relations/">Realism in International Relations</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://internationalrelations.org/liberalismpluralism/">Liberalism</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://internationalrelations.org/constructivism_in_international_relations/">Constructivism in International Relations</a></li>
+	<li id="menu-item-4762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4762"><a href="http://internationalrelations.org/dependency-theory/">Dependency Theory</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://internationalrelations.org/feminism-international-relations/">Feminism (International Relations)</a></li>
+	<li id="menu-item-1253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1253"><a href="http://internationalrelations.org/nuclear-weapons/">Nuclear Weapons</a></li>
+	<li id="menu-item-1322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1322"><a href="http://internationalrelations.org/iran-nuclear-weapons/">Iran Nuclear Weapons</a></li>
+	<li id="menu-item-1261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1261"><a href="http://internationalrelations.org/north-korea-nuclear-weapons/">North Korea Nuclear Weapons</a></li>
+	<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="http://internationalrelations.org/pakistan-and-nuclear-weapons/">Pakistan and Nuclear Weapons</a></li>
+	<li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216"><a href="http://internationalrelations.org/terrorism/">Terrorism</a></li>
+	<li id="menu-item-1462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1462"><a href="http://internationalrelations.org/weapons-proliferation/">Weapons Proliferation</a></li>
+	<li id="menu-item-1459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1459"><a href="http://internationalrelations.org/other-topics/">Other Topics</a></li>
+	<li id="menu-item-2753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2753"><a href="http://internationalrelations.org/brazil-protests/">Brazil Protests</a></li>
+	<li id="menu-item-2148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148"><a href="http://internationalrelations.org/economic-sanctions/">Economic Sanctions</a></li>
+	<li id="menu-item-2022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2022"><a href="http://internationalrelations.org/global-financial-crisis/">Global Financial Crisis</a></li>
+	<li id="menu-item-3879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3879"><a href="http://internationalrelations.org/international-migration/">International Migration</a></li>
+	<li id="menu-item-3217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3217"><a href="http://internationalrelations.org/islam-and-peace/">Islam and Peace</a></li>
+	<li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1006"><a href="http://internationalrelations.org/history-of-international-relations/power-international-relations/">Power (International Relations)</a></li>
+	<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1831"><a href="http://internationalrelations.org/peace-of-westphaliatreaty-of-westphalia/">Peace of Westphalia/Treaty of Westphalia</a></li>
+	<li id="menu-item-2385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2385"><a href="http://internationalrelations.org/petition-of-right/">Petition of Right</a></li>
+	<li id="menu-item-1856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1856"><a href="http://internationalrelations.org/soft-power/">Soft Power</a></li>
+	<li id="menu-item-3175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3175"><a href="http://internationalrelations.org/the-slave-trade/">The Slave Trade</a></li>
+	<li id="menu-item-2179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2179"><a href="http://internationalrelations.org/transnational-crime/">Transnational Crime</a></li>
+	<li id="menu-item-2235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2235"><a href="http://internationalrelations.org/cyber-crimes/">Cyber Crimes</a></li>
+	<li id="menu-item-2210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2210"><a href="http://internationalrelations.org/drug-trafficking/">Drug Trafficking</a></li>
+	<li id="menu-item-2280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2280"><a href="http://internationalrelations.org/human-smuggling/">Human Smuggling</a></li>
+</ul>
+</li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-77"><a href="http://internationalrelations.org/regions/">Regions</a>
+<ul class="sub-menu">
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="http://internationalrelations.org/central-asia/">Central Asia</a></li>
+	<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="http://internationalrelations.org/east-asia/">East Asia</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://internationalrelations.org/europe/">Europe</a></li>
+	<li id="menu-item-4278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4278"><a href="http://internationalrelations.org/the-greek-debt-crisis-explained/">The Greek Debt Crisis Explained</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://internationalrelations.org/middle-east/">Middle East</a></li>
+	<li id="menu-item-1122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1122"><a href="http://internationalrelations.org/the-arab-spring/">The Arab Spring</a></li>
+	<li id="menu-item-3633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3633"><a href="http://internationalrelations.org/the-history-of-iran/">The History of Iran</a></li>
+	<li id="menu-item-3445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3445"><a href="http://internationalrelations.org/history-of-lebanon/">History of Lebanon</a></li>
+	<li id="menu-item-5667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5667"><a href="http://internationalrelations.org/kurdish-politics/">Kurdish Politics</a></li>
+	<li id="menu-item-3788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3788"><a href="http://internationalrelations.org/libyan-civil-war/">Libyan Civil War</a></li>
+	<li id="menu-item-3429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3429"><a href="http://internationalrelations.org/history-of-syria/">History of Syria</a></li>
+	<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="http://internationalrelations.org/israeli-palestinian-conflict/">Israel Palestine Conflict</a></li>
+	<li id="menu-item-3121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3121"><a href="http://internationalrelations.org/the-ottoman-empire/">The Ottoman Empire</a></li>
+	<li id="menu-item-6145" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6145"><a href="http://internationalrelations.org/modern-history-of-egypt/">Modern History of Egypt</a></li>
+	<li id="menu-item-6119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6119"><a href="http://internationalrelations.org/islamism-political-islam/">Islamism (Political Islam)</a></li>
+	<li id="menu-item-6169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6169"><a href="http://internationalrelations.org/akp-party-turkey/">AKP Party Turkey</a></li>
+	<li id="menu-item-3829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3829"><a href="http://internationalrelations.org/social-media-and-the-arab-spring/">Social Media and the Arab Spring</a></li>
+	<li id="menu-item-3732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3732"><a href="http://internationalrelations.org/the-green-movement/">The Green Movement</a></li>
+	<li id="menu-item-4253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4253"><a href="http://internationalrelations.org/hezbollah-in-lebanon/">Hezbollah In Lebanon</a></li>
+	<li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a href="http://internationalrelations.org/islamic-state-in-iraq-and-syria-isis/">Islamic State in Iraq and Syria (ISIS)/The Islamic State (IS)</a></li>
+	<li id="menu-item-2011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2011"><a href="http://internationalrelations.org/syrian-refugee-crisis/">Syrian Children Refugee Crisis</a></li>
+	<li id="menu-item-3528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3528"><a href="http://internationalrelations.org/united-arab-republic/">United Arab Republic</a></li>
+	<li id="menu-item-3577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3577"><a href="http://internationalrelations.org/hafez-al-assad/">Hafez Al-Assad</a></li>
+	<li id="menu-item-4361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4361"><a href="http://internationalrelations.org/the-united-nations-and-syria/">The United Nations and Syria</a></li>
+	<li id="menu-item-4218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4218"><a href="http://internationalrelations.org/israel-palestine-conflict/">Israel Palestine Conflict</a></li>
+	<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="http://internationalrelations.org/the-2014-israeli-palestinian-conflict-in-gaza-faqs-and-the-conflict-explained/">The 2014 Israeli-Palestinian Conflict in Gaza: FAQs and the Conflict Explained</a></li>
+	<li id="menu-item-3385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3385"><a href="http://internationalrelations.org/israeli-settlements/">Israeli Settlements</a></li>
+	<li id="menu-item-4151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4151"><a href="http://internationalrelations.org/israeli-elections/">Israeli Elections</a></li>
+	<li id="menu-item-3463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3463"><a href="http://internationalrelations.org/gamal-abdel-nasser/">Gamal Abdel Nasser</a></li>
+	<li id="menu-item-3533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3533"><a href="http://internationalrelations.org/anwar-sadat/">Anwar Sadat</a></li>
+	<li id="menu-item-6146" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6146"><a href="http://internationalrelations.org/egyptian-armed-forces/">Egyptian Armed Forces</a></li>
+	<li id="menu-item-6148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6148"><a href="http://internationalrelations.org/the-egyptian-muslim-brotherhood/">The Egyptian Muslim Brotherhood</a></li>
+	<li id="menu-item-6147" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6147"><a href="http://internationalrelations.org/wafd-party/">Wafd Party</a></li>
+	<li id="menu-item-3320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3320"><a href="http://internationalrelations.org/mustafa-kemal-ataturk/">Mustafa Kemal Ataturk</a></li>
+	<li id="menu-item-3330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3330"><a href="http://internationalrelations.org/salman-bin-abdulaziz/">Salman Bin AbdulAziz</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://internationalrelations.org/north-america/">North America</a></li>
+	<li id="menu-item-4205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4205"><a href="http://internationalrelations.org/drug-cartels-in-mexico/">Drug Cartels in Mexico</a></li>
+	<li id="menu-item-3599" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3597 current_page_item menu-item-3599"><a href="http://internationalrelations.org/zapatista-movement/">Zapatista Movement</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://internationalrelations.org/north-africa/">North Africa</a></li>
+	<li id="menu-item-3877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3877"><a href="http://internationalrelations.org/history-of-algeria/">History of Algeria</a></li>
+	<li id="menu-item-3876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3876"><a href="http://internationalrelations.org/abdelaziz-bouteflika/">Abdelaziz Bouteflika</a></li>
+	<li id="menu-item-3909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3909"><a href="http://internationalrelations.org/political-parties-in-algeria/">Political Parties in Algeria</a></li>
+	<li id="menu-item-3797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3797"><a href="http://internationalrelations.org/history-of-libya/">History of Libya</a></li>
+	<li id="menu-item-3799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3799"><a href="http://internationalrelations.org/muammar-gaddafi/">Muammar Gaddafi</a></li>
+	<li id="menu-item-3798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3798"><a href="http://internationalrelations.org/libyan-civil-war/">Libyan Civil War</a></li>
+	<li id="menu-item-4009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4009"><a href="http://internationalrelations.org/history-of-morocco/">History of Morocco</a></li>
+	<li id="menu-item-4016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4016"><a href="http://internationalrelations.org/mohammed-vi/">Mohammed VI</a></li>
+	<li id="menu-item-4046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4046"><a href="http://internationalrelations.org/tunisian-government/">Tunisian Government</a></li>
+	<li id="menu-item-4078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4078"><a href="http://internationalrelations.org/ennahda/">Ennahda</a></li>
+	<li id="menu-item-4075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4075"><a href="http://internationalrelations.org/nidaa-tounes/">Nidaa Tounes</a></li>
+	<li id="menu-item-4076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4076"><a href="http://internationalrelations.org/tunisian-elections/">Tunisian Elections</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://internationalrelations.org/south-america/">South America</a></li>
+	<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://internationalrelations.org/sub-saharan-africa/">Sub-Saharan Africa</a></li>
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="http://internationalrelations.org/international-relations-analysis/">Current Events</a></li>
+</ul>
+</li>
+<li id="menu-item-3438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3438"><a href="http://internationalrelations.org/career/">Career</a>
+<ul class="sub-menu">
+	<li id="menu-item-3439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3439"><a href="http://internationalrelations.org/international-relations-jobs/">International Relations Jobs</a></li>
+	<li id="menu-item-3440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3440"><a href="http://internationalrelations.org/masters-degree-in-international-relations/">Masters Degree in International Relations</a></li>
+	<li id="menu-item-4383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4383"><a href="http://internationalrelations.org/what-is-a-masters-degree/">What is a Master&#8217;s Degree?</a></li>
+	<li id="menu-item-4404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4404"><a href="http://internationalrelations.org/international-studies-major/">International Studies Major</a></li>
+	<li id="menu-item-4775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4775"><a href="http://internationalrelations.org/international-relations-major/">International Relations Major</a></li>
+	<li id="menu-item-6415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6415"><a href="http://internationalrelations.org/what-is-the-gre-test/">What is the GRE Test?</a></li>
+	<li id="menu-item-3441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3441"><a href="http://internationalrelations.org/foreign-languages/">Foreign Languages</a></li>
+	<li id="menu-item-3442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3442"><a href="http://internationalrelations.org/international-relations-conferences/">International Relations Conferences</a></li>
+	<li id="menu-item-3657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3657"><a href="http://internationalrelations.org/international-relations-journals/">International Relations Journals</a></li>
+</ul>
+</li>
+<li id="menu-item-6534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6534"><a href="http://internationalrelations.org/advertisingmediakit/">Advertise With Us/Media Kit (Ad Rates)</a></li>
+<li id="menu-item-5229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5229"><a href="http://internationalrelations.org/contact-us-2/">Contact Us</a></li>
+</ul>                </nav>
+                <!-- END navigation -->
+            </div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56258622-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        </header>
+        <!-- END #header -->
+
+                    <div id="content-wrapper">
+        
+	<div id="content">
+        <section id="main-content" role="main">
+	
+		<h2>Zapatista Movement</h2>
+	
+		
+		<!-- article -->
+		<article id="post-3597" class="post-3597 page type-page status-publish hentry">
+            <div class="entry-content">
+            
+                
+<div class="fb-social-plugin fb-send" data-font="arial" data-ref="above-post" data-href="http://internationalrelations.org/zapatista-movement/"></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- link unit x-large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9119911018"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- link unit x-large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9119911018"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><div class='wdgpo wdgpo_standard_count'><g:plusone size='standard' count='true' href='http://internationalrelations.org/zapatista-movement/' ></g:plusone></div> <div id="attachment_5792" style="width: 1034px" class="wp-caption alignnone"><a href="http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos.jpg" rel="attachment wp-att-5792"><img class="wp-image-5792 size-full" src="http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos.jpg" alt="Subcomandante Marcos and Comandante Tacho in La Realidad, Chiapas, 1999, TJ Scenes/Cesar Bojoquez, CC. 2.0" width="1024" height="687" srcset="http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos.jpg 1024w, http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos-320x215.jpg 320w, http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos-768x515.jpg 768w, http://internationalrelations.org/wp-content/uploads/2015/02/1024px-Subcomandante_Marcos-540x362.jpg 540w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><p class="wp-caption-text">Subcomandante Marcos and Comandante Tacho in La Realidad, Chiapas, 1999, TJ Scenes/Cesar Bojoquez, CC. 2.0</p></div>
+<h1><span style="color: #000000;">Zapatista Movement</span></h1>
+<p><span style="color: #000000;">In this article, we shall discuss the Zapatista Movement in Mexico. We shall examine the origins of the movement, the political, social, economic, and cultural issues that the movement raises in Mexico and elsewhere, as well as their criticisms of the Mexican government and their policies towards the indigenous community in the country. We will also discuss the leadership of the Zapatista Movement, with particular attention to Subcomandante Marcos. We will also examine their rise to power in the Chiapas in 1994, as well as the current conditions in the region. </span><span style="color: #000000;">The Zapatista Movement, who&#8217;s numbers may be as high as 250,000 people (or roughly 22 percent of the total indigenous Chiapas population) (Klein, 2015) are a very important movement in the Chiapas, Mexico, and internationally. In addition, there is increased attention to this region, particularly with the Pope Saint Francis&#8217; planned visit to the Chiapas in mid-February. </span></p><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- IR Leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="5563095418"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"></div>
+<h2><span style="color: #000000;">Origins of the Zapatista Movement</span></h2>
+<p><span style="color: #000000;">In terms of their origins, the Zapatistas are said to have come from various indigenous communities in Southeast Mexico, many of which are located in or near jungles. According to scholars, &#8220;[t]hey were mostly colonists displaced by the harsh economic realities of the Chiapas highlands, but other migrants who also came were mestizo veterans of agrarian struggles in other parts of Mexico, and elements of the intellectual left that went underground after the repression of 1968 and the early 1970s&#8221; (Rosset, Martinez-Torres &amp; Hernandez-Navarro, 2005: 37). It is also said that they were highly influenced by liberation theology (Rosset, Martinez-Torres &amp; Hernandez-Navarro, 2005).</span></p><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- horizontal link unit -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="7503577014"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"></div>
+<p><span style="color: #000000;">Over the years (such as in the early 1990s when the EZLN was forming), much of this was because of government actions against the indigenous population in Mexico. For example, in an interview with a farmer twenty years later, Laura Gottesdiener (2014) found that he felt the government continued to abuse the indigenous community, by either taking their lands, taking resources from the land, not providing them with rights, making people move out of the country, and also setting up an education system that did not provide for cultural rights such as the use of local languages. </span></p>
+<p><span style="color: #000000;">In 1994, the various indigenous population in southeastern Mexico&#8211;in the Chiapas region&#8211;&#8220;took up arms to protest their government&#8217;s acceptance of the North American Free Trade Agreement&#8221; (Smith, et. al., 2015). And from this point, when the rebels took over four areas in Chiapas, the Zapatista Movement came to control the politics and economics of their local community, and &#8220;emerged as one of the first globally networked groups to resist economic globalization&#8221; (Smith, et. al, 2015: 66-67).  It is important to note that this as the same day that the North American Free Trade Agreement (NAFTA) was put in place. </span></p>
+<p><span style="color: #000000;">After controlling their local areas, they began to not only reorganize the local politics, but they also reached out and continued to speak out on behalf of the rights of the indigenous in the country and elsewhere. They were quiet critical of the neo-liberal economic policies of NAFTA, and what they believed it would do to the economies and goods of local farmers. Related to this, it was said that many of the indigenous communities in the Chiapas region were challenged by cattle ranchers, by corruption at the local and national levels, by difficult farming soil, as well as falling prices for their farmed goods. And thus, as a result of these issues, individuals came together to protest their conditions and government rights abuses (Rosset, Martinez-Torres &amp; Hernandez-Navarro, 2005). Thus, they felt that NAFTA would minimize demand for local products (thus hurting the farmers and also the indigenous community), and in addition, that the agreement as a whole had little in it calling for the rights of people (Garcia, 2016).</span></p>
+<p><span style="color: #000000;">And while the fighting with the state ended after twelve days, the government, although saying they would offer concessions and other benefits to the indigenous population&#8211;through the form of a codified agreement&#8211;changed their position. In terms of what happened,</span></p><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- link unit x-large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9119911018"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<blockquote><p><span style="color: #000000;">&#8220;Mexican President Ernesto Zedillo, who, in the wake of the uprising, had promised to enact greater protections for indigenous peoples, instead sent thousands of troops into the Zapatistas’s territory in search of Subcomandante Marcos, the world-renowned spokesperson for the movement. They didn’t find him. But the operation marked the beginning of a hush-hush war against the communities that supported the Zapatistas. The army, police, and hired thugs burned homes and fields and wrecked small, communally owned businesses. Some local leaders disappeared. Others were imprisoned. In one region of Chiapas, the entire population was displaced for so long that the Red Cross set up a refugee camp for them. (In the end, the community rejected the Red Cross aid, in the same way that it also rejects all government aid)&#8221; (Gottesdiener, 2014).</span></p></blockquote>
+<p><span style="color: #000000;">In 1996, the Zapatista Movement signed an accord with the Mexican National Government in which the government offered additional rights and also provided autonomy for the indigenous population (Klein, 2015). They have continued to advocate for indigenous rights. For example, they also pushed for anti-discrimination laws in 2001, and although it passed, some suggest that the final language was so diluted that it did little for indigenous and minority rights (Garcia, 2016). As a result of this, the Zapatistas looked internally for their rights, angry and disenchanted with the government and government actions towards the indigenous population (Garcia, 2016).</span></p>
+<h2><span style="color: #000000;">Political Organization of the Zapatistas</span></h2>
+<p><span style="color: #000000;">The Zapatistas have worked to establish self-governance in the Chiapas region of Mexico. They have evolved their political tactics from merely controlling state buildings (such as in January of 1994) to other forms of governance which now include five specific councils. Here, &#8220;[m]embership in these rotates between different members of the community every two weeks, so that everyone is directly involved in local governance&#8221; (Tucker, 2014).</span></p>
+<p><span style="color: #000000;">The Zapatista military does have weapons, although they do not have many, the ones they have are viewed as old and rather outdated (60 Minutes interview), and the Zapatista Movement seems to rarely use them. Instead, according to reports, &#8220;Since 1994, the movement has largely worked without arms. Villagers resisted government attacks and encroachments with road blockades, silent marches, and even, in one famous case, an aerial attack comprised entirely of paper airplanes&#8221; (Gottesdiener, 2014). </span></p>
+<h2><span style="color: #000000;">Societal Organization of the Zapatistas</span></h2>
+<p><span style="color: #000000;">The Zapatistas have structured their communities in a very communal way. There are a number of villages and towns that are under the control of the Zapatista movement. In addition, the size of the villages may vary. Within the overall Zapatista Chiapas controlled region, the different communities are viewed as municipalities, which can have varied numbers of villages. There are roughly forty of these municipalities, and they are divided into five larger zones or <i>caracoles </i>(Klein, 2015).  </span></p>
+<h2><span style="color: #000000;">Gender Rights </span></h2>
+<p><span style="color: #000000;">The Zapatistas have also been consistent and outspoken advocates for equal gender rights. The Zapatista movement not only makes verbal statements with regards to their belief of equal rights, but they also have a series of structures in place that guarantees equal rights for women. For example, many women have held leadership positions within the Zapatista movement and society, with &#8220;Zapatista women [having] served as insurgents, political leaders, healers, educators, and key agents in autonomous economic development&#8221; (Klein, 2015). In addition, as Klein (2015) writes:</span></p>
+<blockquote><p><span style="color: #000000;">Women&#8217;s participation in the EZLN has helped shape the Zapatista movement which has, in turn, opened new spaces for women and led to dramatic changes in their lives. A woman who was abused as a teenager at the hands of a husband chosen by her father would later join a caravan of thousands of Zapatistas marching on Mexico City to demand indigenous rights. Along the way, she would meet with other Mexican women and urge them to fight for their liberation as she had. <em>Compañeras</em> documents these changes through the voices of women who lived them.</span></p></blockquote>
+<p><span style="color: #000000;">The Zapatista movement also demands that women have equal representation in leadership positions.</span></p>
+<h2><span style="color: #000000;">Subcomandante Marcos</span></h2>
+<p><span style="color: #000000;">Although he does not seem himself as such, many have argued that the political leader of the Zapatista (EZLN) Movement is an individual that goes by &#8220;Subcomandante Marcos&#8221;. His background is not completely known. But despite not revealing his identity, many have pointed to the influence that Marcos has had on the region, on the demands for human rights, and for criticizing neo-liberal economic policies. Speaking about Subcomandante Marcos, Al Jazeera (2014) writes that &#8220;<span lang="EN-GB">Marcos helped galvanise support from civil society groups, even as the Mexican army forced the Zapatistas back into the jungles and mountains of Chiapas.&#8221; He is an individual that has received a great deal of international attention, and support by activists, as he has continued to call for the the rights of the politically and economically oppressed.</span></span></p>
+<p><iframe src="https://www.youtube.com/embed/IA9zUPfJO4U" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- link unit x-large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9119911018"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<h2><span style="color: #000000;">Positions of the Zapatista Movement</span></h2>
+<p><span style="color: #000000;">The Zapatista Movement has been one of the most prominent voices regarding the rights of the indigenous population in the Chiapas and Mexico as a whole. They have argued that the indigenous groups&#8217; rights have continued to be oppressed by internal and external forces; they have argued that both historical Mexican governments, as well as international actors (and international systems such as capitalism) have all lead to increased suffering of the population. Specifically, </span></p>
+<blockquote><p><span style="color: #000000;">The indigenous communities that make up the EZLN have historically confronted extreme inequality: economic, because of the legacy of colonialism and the concentration of land and wealth in Chiapas; political, because of their exclusion from state, national, and local decision making; and social, because of racism against indigenous people and the lack of basic services such as health care, education, electricity, and potable water. Women have also faced gender-based discrimination. In the words of Comandanta Ester, from a speech she gave in Mexico City&#8217;s central plaza in 2001, &#8220;We are oppressed three times over, because we are poor, because we are indigenous, and because we are women.&#8221; This history of marginalization serves as a backdrop for the striking changes that have taken place in Zapatista territory (Klein, 2015).</span></p></blockquote>
+<h2><span style="color: #000000;">Zapatista Issues with NAFTA</span></h2>
+<p><span style="color: #000000;">The Zapatista movement has spoken out against the injustices that neo-economic policies bring to humans and communities as a whole. As scholars explain, &#8220;For Zapatismo,‘modern globalization, or neo-liberalism as a world system, should be understood as a new war of conquest.’ The end of the Cold War&#8211;what the Zapatistas call the Third World War&#8211;does not imply that we have achieved stability under the hegemony of the victor.Yes, there was a loser, but it is not clear who the victor is. Out of the defeat of the socialist camp came new markets without owners, and a global race to conquer them. The Zapatistas see the Fourth World War as the battle for the conquest of markets, a race between the world’s great financial centres&#8221; (Rosset, Martinez-Torres &amp; Hernandez-Navarro, 2005: 36).</span></p>
+<p><span style="color: #000000;">Thus, related to their criticism of this neoliberal capitalism are their problems with the NAFTA. In fact, the Zapatista Movement has been highly critical of the North American Free Trade Agreement. In fact, &#8220;<span lang="EN-GB">Zapatista spokesman known only as &#8220;Subcomandante Marcos&#8221; proclaimed NAFTA a &#8220;death certificate&#8221; for Mexico&#8217;s indigenous farmers, noting it would force them to compete with a wave of cheap US imports, while under the terms of the agreement the Mexican government had revoked their constitutional right to communal land&#8221; (Tucker, 2014). The concern was that the local corn markets would be highly impacted by NAFTA (Gottesdiener, 2014). And thus, they began protesting these government policies.</span></span></p>
+<p><span style="color: #000000;">But while NAFTA was implemented a two decades ago,  the Mexican government today is continuing along this path of economic liberalization, and, according to some, at the expense of domestic community and individual rights. For example, in 2014, they put forward &#8220;energy reforms that will allow private and foreign firms to drill for oil in Mexico[,]&#8221; which has &#8220;angered and frustrated the left&#8221; (USA Today, 2014).</span></p>
+<h2><span style="color: #000000;">Current Situation in the Chiapas</span></h2>
+<p><span style="color: #000000;">Speaking about the current Zapatista Movement and the local conditions of the indigenous community in the Chiapas, it has been said that &#8220;T<span lang="EN-GB">oday the rebellion remains a work in progress. Having established complete political and economic autonomy, the Zapatistas govern and police their own communities across five regions of Chiapas. Relations with the state remain strained, and Zapatistas complain of regular harassment by the military and paramilitary forces that surround their territory&#8221; (Tucker, 2014). Furthermore, there is little cooperation between the government and the Zapatista forces; they do not accept government aid, and are reliant on aid from any backers of the movement (Tucker, 2014). And thus, poverty is still very high in the region (USA Today, 2014). </span></span></p>
+<p><span style="color: #000000;">Furthermore, in May of 2014, &#8220;Jose Luis Solís López, a teacher in the Zapatista’s “Little School” (La Escuelita) was targeted and murdered, and at least 15 Zapatistas seriously injured, in an ambush in which the leaderships of the paramilitary group called CIOAC-Histórica, the Green Ecological Party, the National Action Party [PAN] and the Revolutionary Institutional Party [PRI] are all implicated in directing on Friday, May 2, 2014.  The same attackers damaged or destroyed both the autonomous Mayan school and the local health clinic at the Zapatista caracol of La Realidad&#8221; (Schools for Chiapas, 2014).</span></p>
+<p><span style="color: #000000;">Thus, the area is still heavily guarded by the Zapatista fighters. and, &#8220;<span lang="EN-GB">Although wary of outsiders and especially the media, the Zapatistas sometimes allow sympathisers and even curious tourists to visit Oventic, a tranquil community in the pine-clad highlands. If allowed entrance by the masked but unarmed guards, visitors may be allowed to speak with the governing council, buy local produce and view a school where children are taught in both Spanish and their native Tzotzil language. Guests who become ill are cared for at the Zapatista-run clinic&#8221; (Tucker, 2014).</span></span></p>
+<p><span style="color: #000000;">In terms of the question of their strength and power, this remains difficult to answer. Some believe that they have not been given the same level of support and attention due to various other issues in Mexico currently (Jose Gil Olmos, in Al Jazeera, 2014). Even Subcomandante Marcos seems to concur, saying in a written press release that &#8220;They left. Some went faster than others. And the majority of them don&#8217;t look at us, or they do so with the same distance and intellectual disdain that they did before the dawn of Jan. 1, 1994&#8221; (USA Today, 2014).</span></p>
+<p><span style="color: #000000;">However, it seems that they still have thousands of members. For example, in December of 2012, <span lang="EN-GB">some 40,000 supporters marched in silence across Chiapas. Supporters say the movement has restored a sense of pride in the area, saying the Zapatistas have empowered women by passing a law prohibiting forced marriage or any form of sexual discrimination, and have kept their communities free from violence and addiction by outlawing drugs and alcohol&#8221; (Tucker, 2014). And, as Felipe Zrizmendi, who is the Roman Catholic Bishop of San Cristobal de las Casas, says, &#8220;The EZLN remains alive, not as a military option, but as a social and political organization that fights for a dignified life&#8230;&#8221;. He went on to say that &#8220;It is an effort to demonstrate that autonomy is possible; you don&#8217;t have to depend on the government&#8221; (USA Today, 2014).</span></span></p>
+<p><span style="color: #000000;">And they have continued to work for indigenous rights in the country. They have done so through the continuing pressuring of the national government, the establishment of local self-governance, as well as the establishment of Zapatista health facilities, and Zapatista schools.</span></p>
+<p><span style="color: #000000;">There has been some more recent coverage on the Zapatista movement in the Chiapas. In a 2016 article by Malcolm Garcia entitled <span style="color: #0000ff;"><a style="color: #0000ff;" href="http://ncronline.org/news/global/faded-zapatista-legacy-lingers-chiapas" target="_blank">Faded Zapatista Legacy Lingers in Chiapas</a></span>, he argues that poverty continues to be a very serious problem in the Chiapas region of Mexico. Some have also continued to question the Zapatista movement&#8217;s position on refusing any government aid to help the indigenous population.</span></p>
+<h2><span style="color: #000000;">The Zapatista Schools</span></h2>
+<p><span style="color: #000000;">The EZLN has been very active in providing and supporting local schools within their controlled <em>caracoles</em> in the Chiapas region of Mexico. For example, &#8220;<span lang="EN-GB">In August 2013, the Zapatistas launched La Escuelita &#8211; &#8220;The Little School&#8221; &#8211; a series of coordinated classes that drew about 1,500 academics, activists and sympathisers from Mexico and abroad to the autonomous communities&#8221; (Tucker, 2014). Here, students will learn about various subjects, which include their history and the Zapatista Movement against the rights abuses of the Mexican government.  In addition, they will also learn &#8220;learn trades like electrical wiring, artisanal crafts, and farming practices&#8221; (Gottesdiener, 2014).</span></span></p>
+<p><span style="color: #000000;">Again, the Zapatistas have been active in establishing training sessions for individuals, to help them think about issues related to what they view as the problems of capitalism. For example, &#8220;On the outskirts of San Cristobal de las Casas, famed colonial center of the southern state of Chiapas, on the wooded campus of the Indigenous Center for Comprehensive Training (Spanish acronym:<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.inmotionmagazine.com/global/rsb_int_eng.html">CIDECI</a></span>&#8230;over a thousand people from all over Mexico and beyond are attending a weeklong seminar “Critical Thinking Confronting the Capitalist Hydra&#8221; (Rodgers, 2015).  Here, individuals from throughout the community and throughout Mexico are coming to discuss ideas about issues related to capitalism. Participants have included &#8220;&#8230;masked members of the Zapatista army, rural peasant farmers, high school and college students, activists, teachers, artists’ collectives, [and] members of various social and political formations like the National Indigenous Congress (Spanish acronym: CNI)&#8221; (Rodgers, 2015).</span></p>
+<p><span style="color: #000000;">Members of the Zapatista movement spoke about the history and fight of the Zapatistas in Mexico. For example, Rodgers (2015) writes:</span></p>
+<blockquote><p><span style="color: #000000;">During the seminar itself, it is the words of now-official spokesman Subcommandante Moisés that have been the clearest, most unequivocal depiction of the 30-year long Zapatista story and its lessons. Moisés, a Tzeltal Maya, was one of the first locals to join up with the revolutionaries, so his experience is vast. Day after day, alternating with Galeano as speaker, Moisés has been giving a living history, from the arrival of the first group of clandestine (and non-indigenous) insurgents in the 1980s, to the 1994 armed rebellion which resulted in a standoff with government troops, and then (and this is the part that he has described in the most concrete detail) the transformation of that movement into an evolving experiment in regional autonomy, self-sufficiency, and resistance to violence and government cooptation. An experiment which, <em>á l</em><em>a </em>Mark Twain, has been reported moribund more than once, but now comprises thousands of <em>campesino</em> (peasant farmer) families collectively organized at four different levels of increasing scale: communities, municipalities, regions, and zones.</span></p></blockquote>
+<p><span style="color: #000000;">In addition, there are also poets, philosophers, among others who are also speaking at this seminar. According to Rodgers, &#8220;The analysis&#8230;has been relatively concordant and not surprising: a litany of the human and ecological disaster that capitalism has wrought (not just in Mexico, but of course that is the primary focus here). The Spanish word “despojo,” which has only a much weaker equivalent in English, “dispossession,” recurs in so many presentations that it is clearly seen as one of the most fundamental characteristics of the system. “To be stripped violently of everything that sustains you” would be closer to the real meaning of this word. That is the key experience of capitalism’s innumerable losers: the mass of humans without power or privilege, and the living world.&#8221;</span></p>
+<p><span style="color: #000000;">The Zapatistas continue to point to the political, economic, and social abuses that have resulted from the capitalist system, and are attempting to work to educate the population, as well as help them further mobilize to bring about change. </span></p>
+<h2><span style="color: #000000;">Other Rights Abuses in Mexico</span></h2>
+<p><span style="color: #000000;">The Zapatista Movement continues to shed light on other human rights abuses in Mexico. For example, they have been quite active in ensuring that attention continues to be placed on the disappearances of <span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.bbc.com/news/world-latin-america-34589099" target="_blank">43 students in 2014</a></span>. Some of the parents of the missing students reached out to the Zapatistas and offered words to show their gratitude for what the Zapatistas are doing to continue to emphasize the horror of what has taken place, and how little has been done to find those who committed these disappearances (Rodgers, 2015).</span></p>
+<h2><span style="color: #000000;">Subcommandante Marcos Today</span></h2>
+<p><span style="color: #000000;">While Subcommandante Marcos held one of the top positions in the Zapatista Movement (something he continued to minimize) (60 Minutes), he no longer serves as the spokesperson for the Zapatista Movement, although he continues to be active in their struggle. For example, during the education seminar that Rodgers wrote: Zubcommandante Marcos &#8220;&#8230;made several speeches during the seminar in the manner that  has become his &#8220;brand:&#8221; metaphoric, digressive, lyrical ruminations&#8211;allegories or parables that leave one with resonant impressions of what it is to be creating a new world &#8220;from below and to the left,&#8221; the Zapatistas now put it.&#8221;</span></p>
+<p><span style="color: #000000;">In addition, Marcos no longer want to go by the title &#8220;Subcommandante Marcos.&#8221; The reason for this is that he had decided to hold a new name, &#8220;Galeano&#8221; after a Zapatista school teacher that was killed by paramilitary forces. Thus, &#8220;Marcos himself has publicly &#8220;died&#8221; and taken the name Galeano&#8221; (Rodgers, 2015).</span></p>
+<h2><span style="color: #000000;">Domestic Influence of the Zapatistas</span></h2>
+<p><span style="color: #000000;">The Zapatista Movement has had significant influence in the country. The have brought indigenous rights to the forefront, even as the government continued to ignore the plight of these communities. The Zapatista movement was successful in establishing their autonomy in the form of schools and local government. Furthermore, some have argued that &#8220;For some, its greatest achievement was prompting Mexico to enshrine sweeping anti-discrimination measures in its constitution in 2001. Passaged followed a Zapatista caravan across a dozen states to the capital, climaxing in dramatic speeches by masked rebels in Congress&#8221; (USA Today, 2014). However, &#8220;&#8230;the Zapatistas were enraged when lawmakers watered down sections that interested them most: expanding indigenous autonomy and control over land and natural resources&#8221; (USA Today, 2014).</span></p>
+<p><span style="color: #000000;">However, there have been some that have criticized the movement. For example, &#8220;The Zapatistas have been criticized in the last decade for withdrawing too much from public view. They failed to endorse leftist candidate Andres Manuel Lopez Obrador in the 2006 presidential elections, which he lost by a margin of about half a percentage point&#8221; (USA Today, 2014). </span></p>
+<p><span style="color: #000000;">Furthermore, other criticisms have included their lack of progress on issues of poverty (that were alluded to above). Many have suggested that the Indian communities in the Chiapas are still living in poverty, and unemployment is still a critical problem for the community, with many making little as corn farmers (USA Today, 2014). </span></p>
+<p><span style="color: #000000;">In response to this, Subcomandante Marcos has suggested that is it still important to celebrate the rebellion against the controls of the national government, where he was quoted as saying that &#8220;&#8221;Rebellion, friends and enemies, is something that has to be celebrated, every day and at every hour. Because rebellion is also a celebration&#8221; (USA Today, 2014). </span></p>
+<p><span style="color: #000000;">And this can be seen with some of the Zapatista children. For example, Gottesdiener (2014) speaks about a boy, Diego, who</span></p>
+<p><span style="color: #000000;"> &#8220;is part of the first generation of Zapatista children whose births are registered by one of the organization’s own civil judges. In the eyes of his father, he is one of the first fully independent human beings. He was born in Zapatista territory, attends a Zapatista school, lives on unregistered land, and his body is free of pesticides and genetically modified organisms. Adding to his autonomy is the fact that nothing about him—not his name, weight, eye color, or birth date—is officially registered with the Mexican government. His family does not receive a <em>peso</em> of government aid, nor does it pay a <em>peso </em>worth of taxes. Not even the name of Diego’s town appears on any official map.&#8221;</span></p>
+<p><span style="color: #000000;">And she says that this is at the expense of government aid, or significant economic wealth (Gottesdiener, 2014).</span></p>
+<p><span style="color: #000000;">Others, such as Subcommandante Moisés, who, while speaking at the 2015 seminar, admitted out that not every approach taken has been successful. For example, ideas like &#8220;total collectivization of work did not function, nor large-scale barter projects, nor relying heavily on NGO-sponsored “development” or service projects. Direct governance of the base by the armed insurgency did not work either&#8221; (Rodgers, 2015). However, he went on to say that the movement itself has been idealized by many outsiders, but that the Zapatista movement can continue to improve; their mistakes and successes are also helpful for the overall movement (Rodgers, 2015). In fact, the saying &#8220;through error we correct ourselves&#8221; seems to be quite common among the Zapatistas (Rodgers, 2015).</span></p>
+<h2><span style="color: #000000;">Worldwide Influence of the Zapatista Movement</span></h2>
+<p><span style="color: #000000;">The Zapatista Movement has been an inspiring force for many global activists. In fact, they have been highly influential for many other protests, whether it is against state repression, human rights violations, or environmental abuses. In fact, many within the Occupy Wall Street movement were pointing to the influence of the Zapatista Movement (Tucker, 2014). Furthermore, this organization has shown the world how to function as an autonomous society (Tucker, 2014), outside of the corrupt powers of an illiberal national state.</span></p>
+<p><span style="color: #000000;">Many rights groups were influenced by the Zapatistas in their international activist. For example, &#8220;The networks Zapatismo inspired&#8211;including an infrastructure of people, organizations, and ideas required for the WSF&#8217;s [World Social Forum&#8217;s]emergence. These groups helped catalyze global resistance to the G8 and WTO during the late 1990s, including the June 1999 Global Day of Action Against Capitalism and the November 1999 protests in Seattle (Juris 2008; Notes from Nowhere 2003; Starr 2005)&#8221; (Thuker &amp; Weiss, 2015: 67).</span></p>
+<p><span style="color: #000000;">Again, just because we are not hearing too much about the Zapatista movement does not mean that they are not highly active. In fact, as has been mentioned, they tend to be skeptical of a number of media outlets, who they see as advocating a particular agenda of fear that aids right-wing governments (</span><span style="color: #0000ff;"><a title="Democracy Now" href="https://www.youtube.com/watch?v=pTzC_QqSqwc" target="_blank"><span style="color: #0000ff;">Democracy Now</span></a></span><span style="color: #000000;">, 2014).</span></p>
+<p><strong><span style="color: #000000;">Conclusion</span></strong></p>
+<p><span style="color: #000000;">Overall, one of the lasting contributions of the Zapatista movement is their legacy of social justice (Garcia, 2016). In Mexico and elsewhere, people continue to reflect on what the Zapatistas stood for, and continue to stand for, which is social justice, human rights, and protecting society from economic and other forms of exploitation. </span></p>
+<p><span style="color: #000000;">In addition, many argue that they have been instrumental in the shaping of Mexico&#8217;s political system. For example, &#8220;The Zapatista movement arguably helped bring an end to seventy years of one-party rule in Mexico when the Partido Revolucionario Institucional (Institutional Revolutionary Party, PRI), which had monopolized state power since the Mexican Revolution, lost the presidential elections in 2000. And, through its national mobilizations and dialogue with other sectors of the population, the EZLN is also credited with the strengthening of Mexican civil society&#8221; (Klein, 2015). These sorts of activities and accomplishments, along with their continued calls for human rights and social justice allow the Zapatista movement to have further influence within Mexico and elsewhere.</span></p>
+<p><strong><span style="color: #000000;">Zapatista Movement References</span></strong></p>
+<p><span style="color: #000000;">Democracy Now (2014). Zapatista Uprising 20 Years Later: How Indigenous Mexican Stood Up Against NAFTA &#8220;Death Sentence.&#8221; January 3, 2014. Available Online: https://www.youtube.com/watch?v=pTzC_QqSqwc </span></p>
+<p><span style="color: #000000;">Garcia, J.M. (2016). Faded Zapatista legacy lingers in Chiapas. National Catholic Reporter. February 10th, 2016. Available Online: http://ncronline.org/news/global/faded-zapatista-legacy-lingers-chiapas </span></p>
+<p><span style="color: #000000;">Gottesdiener, L. (2014). A Glimpse Into the Zapatista Movement, Two Decades Later. <em>The Nation</em>, January 23, 2014. Available Online: http://www.thenation.com/article/178060/glimpse-zapatista-movement-two-decades-later#</span></p>
+<p><span style="color: #000000;">Klein, H. (2015). Women Are at the Forefront of the Zapatista Revolution. Truthout. 30 July 2015. Available Online: http://www.truth-out.org/progressivepicks/item/32089-women-are-at-the-forefront-of-the-zapatista-revolution </span></p>
+<p><span style="color: #000000;">Rodgers, C. (2015). A Zapatista &#8220;Seminar&#8221; in Chiapas. Counterpunch. May 8, 2015. Available Online: http://www.counterpunch.org/2015/05/08/a-zapatista-seminar-in-chiapas/</span></p>
+<p><span style="color: #000000;">Schools for Chiapas (2014). Zapatista Teacher Dead, 15 Seriously Wounded in Deadly Chiapas Ambush. May 7, 2014. Available Online: http://www.schoolsforchiapas.org/2014/05/zapatista-teacher-dead/ </span></p>
+<p><span style="color: #000000;">Tucker, D. (2014). Are Mexico&#8217;s Zapatista Rebels Still Relavant? Al Jazeera, 01 January 2014. Available Online: http://www.aljazeera.com/indepth/features/2014/01/are-mexico-zapatista-rebels-still-relevant-20141183731812643.html</span></p>
+<p><span style="color: #000000;">USA Today (2014). Mexico&#8217;s Zapatista Rebel Movement Marks 20 Years. January 2, 2014. Available Online: http://www.usatoday.com/story/news/world/2014/01/02/mexicos-zapatista-rebel-movement-marks-20-years/4284461/ </span></p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- IR  300 x 250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="5915434617"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- IR  300 x 250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="5915434617"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p><p><a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" data-pin-color="red" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a></p><div class="twttr_button">
+						<a href="http://twitter.com/share?url=http://internationalrelations.org/zapatista-movement/&text=Zapatista+Movement" target="_blank" title="Click here if you like this article.">
+							<img src="http://internationalrelations.org/wp-content/plugins/twitter-plugin/images/twitt.gif" alt="Twitt" />
+						</a>
+					</div>
+<div class="fb-social-plugin fb-send" data-font="arial" data-ref="below-post" data-href="http://internationalrelations.org/zapatista-movement/"></div>
+            
+            </div>
+
+            
+			<div id="comments">
+	
+
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/zapatista-movement/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://internationalrelations.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3597' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+</div>
+
+			
+			<br class="clear">
+						
+		</article>
+		<!-- /article -->
+		
+		
+		
+	</section>
+    </div>
+	
+<!-- sidebar -->
+<aside id="sidebar" role="complementary">
+        
+    <div id="text-2" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200x200 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:200px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9208697818"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+</div>
+		</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- link unit x-large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9119911018"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</div><div id="text-6" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- link unit x-large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9119911018"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200x200 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:200px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9208697818"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<form action="http://www.google.com" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-3150498191762849:3314843819" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="55" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
+</div>
+		</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h4>Recent Posts</h4>		<ul>
+					<li>
+				<a href="http://internationalrelations.org/2017-turkish-referendum/">2017 Turkish Referendum</a>
+						</li>
+					<li>
+				<a href="http://internationalrelations.org/venezuela-protests/">Venezuela Protests</a>
+						</li>
+					<li>
+				<a href="http://internationalrelations.org/trump-and-north-korea/">Trump and North Korea</a>
+						</li>
+					<li>
+				<a href="http://internationalrelations.org/donald-trump-and-syria/">Donald Trump and Syria</a>
+						</li>
+					<li>
+				<a href="http://internationalrelations.org/protesting-trumps-muslim-ban/">Protesting Trump&#8217;s Muslim Ban</a>
+						</li>
+				</ul>
+		</div>		<div id="text-8" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200x200 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:200px"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="9208697818"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script type="text/javascript" language="javascript" src="//c.amazon-adsystem.com/aax2/getads.js"></script>
+<script type="text/javascript" language="javascript">
+  //<![CDATA[
+    aax_getad_mpb({
+      "slot_uuid":"5eef9668-9561-4d17-a6de-d741e8212799"
+    });
+  //]]>
+</script>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 160x600 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3150498191762849"
+     data-ad-slot="2428049818"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="archives-5" class="widget widget_archive"><h4>Archives</h4>		<ul>
+			<li><a href='http://internationalrelations.org/2017/04/'>April 2017</a></li>
+	<li><a href='http://internationalrelations.org/2017/01/'>January 2017</a></li>
+	<li><a href='http://internationalrelations.org/2016/11/'>November 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/10/'>October 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/09/'>September 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/07/'>July 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/06/'>June 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/05/'>May 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/04/'>April 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/03/'>March 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/02/'>February 2016</a></li>
+	<li><a href='http://internationalrelations.org/2016/01/'>January 2016</a></li>
+	<li><a href='http://internationalrelations.org/2015/12/'>December 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/11/'>November 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/10/'>October 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/09/'>September 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/04/'>April 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/03/'>March 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/02/'>February 2015</a></li>
+	<li><a href='http://internationalrelations.org/2015/01/'>January 2015</a></li>
+	<li><a href='http://internationalrelations.org/2014/12/'>December 2014</a></li>
+	<li><a href='http://internationalrelations.org/2014/11/'>November 2014</a></li>
+	<li><a href='http://internationalrelations.org/2014/10/'>October 2014</a></li>
+	<li><a href='http://internationalrelations.org/2014/09/'>September 2014</a></li>
+	<li><a href='http://internationalrelations.org/2014/08/'>August 2014</a></li>
+	<li><a href='http://internationalrelations.org/2014/07/'>July 2014</a></li>
+		</ul>
+		</div>    
+</aside>
+<!-- /sidebar -->
+        </div><!-- END #content-wrapper -->
+        <footer id="footer">
+            <div id="footer-inner" class="row">
+                
+        <div class="widget recent-posts">
+            <h4 class="widget-title"></h4>
+			<ul>
+				
+						
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/2017-turkish-referendum/">2017 Turkish Referendum</a>
+                        <i class="meta">Apr 18, 2017</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/venezuela-protests/">Venezuela Protests</a>
+                        <i class="meta">Apr 13, 2017</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/trump-and-north-korea/">Trump and North Korea</a>
+                        <i class="meta">Apr 12, 2017</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/donald-trump-and-syria/">Donald Trump and Syria</a>
+                        <i class="meta">Apr 7, 2017</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/protesting-trumps-muslim-ban/">Protesting Trump&#8217;s Muslim Ban</a>
+                        <i class="meta">Jan 30, 2017</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/oromo-protests/">Oromo Protests</a>
+                        <i class="meta">Nov 22, 2016</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/transnationalism/">Transnationalism</a>
+                        <i class="meta">Nov 22, 2016</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/colonialism-vs-imperialism/">Colonialism vs. Imperialism</a>
+                        <i class="meta">Nov 21, 2016</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/kafala-system/">Kafala System</a>
+                        <i class="meta">Nov 20, 2016</i>
+                    </div>
+                </li>
+
+				                
+                <li>
+                    <i class="icon-rss icon"></i>
+                    <div class="post">
+                        <a href="http://internationalrelations.org/human-rights-in-qatar/">Human Rights in Qatar</a>
+                        <i class="meta">Nov 18, 2016</i>
+                    </div>
+                </li>
+
+							</ul>
+						
+		</div><div id="archives-4" class=" widget widget_archive"><h4 class="widget-title">Archives</h4>		<ul>
+			<li><a href='http://internationalrelations.org/2017/04/'>April 2017</a>&nbsp;(4)</li>
+	<li><a href='http://internationalrelations.org/2017/01/'>January 2017</a>&nbsp;(1)</li>
+	<li><a href='http://internationalrelations.org/2016/11/'>November 2016</a>&nbsp;(10)</li>
+	<li><a href='http://internationalrelations.org/2016/10/'>October 2016</a>&nbsp;(18)</li>
+	<li><a href='http://internationalrelations.org/2016/09/'>September 2016</a>&nbsp;(4)</li>
+	<li><a href='http://internationalrelations.org/2016/07/'>July 2016</a>&nbsp;(8)</li>
+	<li><a href='http://internationalrelations.org/2016/06/'>June 2016</a>&nbsp;(5)</li>
+	<li><a href='http://internationalrelations.org/2016/05/'>May 2016</a>&nbsp;(4)</li>
+	<li><a href='http://internationalrelations.org/2016/04/'>April 2016</a>&nbsp;(7)</li>
+	<li><a href='http://internationalrelations.org/2016/03/'>March 2016</a>&nbsp;(1)</li>
+	<li><a href='http://internationalrelations.org/2016/02/'>February 2016</a>&nbsp;(14)</li>
+	<li><a href='http://internationalrelations.org/2016/01/'>January 2016</a>&nbsp;(11)</li>
+	<li><a href='http://internationalrelations.org/2015/12/'>December 2015</a>&nbsp;(27)</li>
+	<li><a href='http://internationalrelations.org/2015/11/'>November 2015</a>&nbsp;(13)</li>
+	<li><a href='http://internationalrelations.org/2015/10/'>October 2015</a>&nbsp;(16)</li>
+	<li><a href='http://internationalrelations.org/2015/09/'>September 2015</a>&nbsp;(4)</li>
+	<li><a href='http://internationalrelations.org/2015/04/'>April 2015</a>&nbsp;(4)</li>
+	<li><a href='http://internationalrelations.org/2015/03/'>March 2015</a>&nbsp;(22)</li>
+	<li><a href='http://internationalrelations.org/2015/02/'>February 2015</a>&nbsp;(20)</li>
+	<li><a href='http://internationalrelations.org/2015/01/'>January 2015</a>&nbsp;(22)</li>
+	<li><a href='http://internationalrelations.org/2014/12/'>December 2014</a>&nbsp;(24)</li>
+	<li><a href='http://internationalrelations.org/2014/11/'>November 2014</a>&nbsp;(20)</li>
+	<li><a href='http://internationalrelations.org/2014/10/'>October 2014</a>&nbsp;(25)</li>
+	<li><a href='http://internationalrelations.org/2014/09/'>September 2014</a>&nbsp;(22)</li>
+	<li><a href='http://internationalrelations.org/2014/08/'>August 2014</a>&nbsp;(31)</li>
+	<li><a href='http://internationalrelations.org/2014/07/'>July 2014</a>&nbsp;(4)</li>
+		</ul>
+		</div><div id="categories-4" class=" widget widget_categories"><h4 class="widget-title">Categories</h4>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://internationalrelations.org/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</div><div id="text-5" class=" widget widget_text"><h4 class="widget-title">Privacy Policy</h4>			<div class="textwidget">See here for the privacy policy  http://internationalrelations.org/privacy-policy/</div>
+		</div>            </div>
+        </footer><!-- END #footer -->
+        <div id="footer-bar">
+            <div class="right">
+                <div id="footer-nav">
+                                </div>
+            </div>
+            <div class="left">
+                Copyright &copy; 2017 . Powered by 
+					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="http://webtuts.pl/themes/corpo" title="Corpo Theme">Corpo Theme</a>.
+            </div>
+        </div>
+    </div><!-- END #wrapper -->
+
+        <style>
+        #attention-grabber {
+            background-color: #0099B5;
+            background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0099B5), to(#0A7BCC));
+            background-image: -webkit-linear-gradient(top, #0099B5, #0A7BCC);
+            background-image: -moz-linear-gradient(top, #0099B5, #0A7BCC);
+            background-image: -ms-linear-gradient(top, #0099B5, #0A7BCC);
+            background-image: -o-linear-gradient(top, #0099B5, #0A7BCC);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0099B5', endColorstr='#0A7BCC');
+            color: #ffffff;
+                }
+        #attention-grabber span, #attention-grabber div {
+            color: #ffffff;
+                }
+        #ag-submit {
+            background-color: #E28C05;
+            background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#E28C05), to(#E67845));
+            background-image: -webkit-linear-gradient(top, #E28C05, #E67845);
+            background-image: -moz-linear-gradient(top, #E28C05, #E67845);
+            background-image: -ms-linear-gradient(top, #E28C05, #E67845);
+            background-image: -o-linear-gradient(top, #E28C05, #E67845);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E28C05', endColorstr='#E67845');
+            border: 1px solid #E67845;
+            color: #ffffff;
+        }
+        #ag-submit:hover {
+            background-color: #F9B307;
+            background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F9B307), to(#e58356));
+            background-image: -webkit-linear-gradient(top, #F9B307, #e58356);
+            background-image: -moz-linear-gradient(top, #F9B307, #e58356);
+            background-image: -ms-linear-gradient(top, #F9B307, #e58356);
+            background-image: -o-linear-gradient(top, #F9B307, #e58356);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F9B307', endColorstr='#e58356');
+            border: 1px solid #e58356;
+            color: #ffffff;
+        }
+        #ag-submit:active {
+            background-color: #e58356;
+            background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e58356), to(#e39f0d));
+            background-image: -webkit-linear-gradient(top, #e58356, #e39f0d);
+            background-image: -moz-linear-gradient(top, #e58356, #e39f0d);
+            background-image: -ms-linear-gradient(top, #e58356, #e39f0d);
+            background-image: -o-linear-gradient(top, #e58356, #e39f0d);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e58356', endColorstr='#e39f0d');
+            border: 1px solid #e39f0d;
+            color: #ffffff;
+        }
+    </style>
+
+
+    
+		<!-- Infolinks START -->
+		<script type="text/javascript">
+	   		var infolinks_plugin_version = "WP_3.1.9"; 
+		</script>
+		<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js?pid=0&wsid=0" ></script>
+		<script type="text/javascript">
+							jQuery(document).ready(function(){ 
+							jQuery('.description').before('<span><!--INFOLINKS_OFF--></span>');jQuery('.description').after('<span><!--INFOLINKS_ON--></span>');jQuery('#headerimg').before('<span><!--INFOLINKS_OFF--></span>');jQuery('#headerimg').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');	
+								});
+						</script>
+		<!-- Infolinks END --><script type='text/javascript' src='http://internationalrelations.org/wp-content/plugins/attention-grabber-hello-bar-alternative/assets/js/jquery-ui.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/plugins/attention-grabber-hello-bar-alternative/assets/js/jquery.cookie.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/plugins/attention-grabber-hello-bar-alternative/assets/js/frontend.js'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-includes/js/comment-reply.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/internationalrelations.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='http://internationalrelations.org/wp-includes/js/wp-embed.min.js?ver=4.6.5'></script>
+<div id="fb-root"></div><script type="text/javascript">
+var infolinks_pid = 2897886;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+	</body>
+</html>

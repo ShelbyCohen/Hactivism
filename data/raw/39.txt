@@ -1,544 +1,702 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html lang="en" dir="ltr"
-  xmlns:fb="http://ogp.me/ns/fb#"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:article="http://ogp.me/ns/article#"
-  xmlns:book="http://ogp.me/ns/book#"
-  xmlns:profile="http://ogp.me/ns/profile#"
-  xmlns:video="http://ogp.me/ns/video#"
-  xmlns:product="http://ogp.me/ns/product#">
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.colorlines.com/sites/all/themes/cl_new/favicon.ico" type="image/vnd.microsoft.icon" />
-<script>var _sf_startpt=(new Date()).getTime();</script>
-<meta name="description" content="In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation." />
-<meta name="news_keywords" content="Dolores Huerta, Helen Chavez, UFW, César Chávez" />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://www.colorlines.com/articles/neglected-heroines-c%C3%A9sar-ch%C3%A1vez" />
-<link rel="shortlink" href="https://www.colorlines.com/node/11629" />
-<meta property="og:site_name" content="Colorlines" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="The Neglected Heroines of &#039;César Chávez&#039;" />
-<meta property="og:url" content="https://www.colorlines.com/articles/neglected-heroines-c%C3%A9sar-ch%C3%A1vez" />
-<meta property="og:description" content="In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation." />
-<meta property="og:updated_time" content="2015-04-18T15:46:42-04:00" />
-<meta property="og:image" content="https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2014/03/huerta-and-women.jpg?itok=-TGIykxS" />
-<meta property="og:image:width" content="640" />
-<meta property="og:image:height" content="417" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:creator" content="@colorlines" />
-<meta name="twitter:site" content="@Colorlines" />
-<meta name="twitter:title" content="The Neglected Heroines of &#039;César Chávez&#039;" />
-<meta name="twitter:url" content="https://www.colorlines.com/articles/neglected-heroines-c%C3%A9sar-ch%C3%A1vez" />
-<meta name="twitter:image" content="https://www.colorlines.com/sites/default/files/styles/twitter/public/images/articles/2014/03/huerta-and-women.jpg?itok=h_S2ko5V" />
-<meta name="twitter:image:width" content="800" />
-<meta name="twitter:description" content="In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation." />
-<meta name="twitter:image:height" content="400" />
-<meta property="article:publisher" content="https://www.facebook.com/colorlines" />
-<meta property="article:tag" content="Dolores Huerta" />
-<meta property="article:tag" content="Helen Chavez" />
-<meta property="article:tag" content="UFW" />
-<meta property="article:tag" content="César Chávez" />
-<meta property="article:published_time" content="2014-03-31T07:00:00-04:00" />
-<meta property="article:modified_time" content="2015-04-18T15:46:42-04:00" />
-<meta itemprop="name" content="The Neglected Heroines of &#039;César Chávez&#039;" />
-<meta itemprop="image" content="https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2014/03/huerta-and-women.jpg?itok=-TGIykxS" />
-<meta itemprop="description" content="In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation." />
-<meta name="dcterms.title" content="The Neglected Heroines of &#039;César Chávez&#039;" />
-<meta name="dcterms.creator" content="cl_admin" />
-<meta name="dcterms.description" content="In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation." />
-<meta name="dcterms.date" content="2014-03-31T07:00-04:00" />
-<meta name="dcterms.type" content="Text" />
-<meta name="dcterms.format" content="text/html" />
-<meta name="dcterms.identifier" content="https://www.colorlines.com/articles/neglected-heroines-c%C3%A9sar-ch%C3%A1vez" />
-  <title>The Neglected Heroines of 'César Chávez' | Colorlines</title>
-  <link type="text/css" rel="stylesheet" href="https://www.colorlines.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.colorlines.com/sites/default/files/css/css_U77z9rkroBkQHZVY5xBiLEKv7RtOUyJfAkH4JAfHY2Q.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.colorlines.com/sites/default/files/css/css_8WA-IiUf0y0Ebc9Su_18fgYeYjPzS2t-3vUR7rP3SrM.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.colorlines.com/sites/default/files/css/css_zFzSshj2QMppy7J-wsyAyFs1kDxaguDqKGPtxOveuo8.css" media="all" />
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://www.colorlines.com/sites/default/files/js/js_gPM6NXOQjN2XM2JWQGfy07nKmcdDFrL289YA7h80ySs.js"></script>
-<script src="https://www.colorlines.com/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
-<script>document.createElement( "picture" );</script>
-<script src="https://www.colorlines.com/sites/default/files/js/js_EKrPKtS4_Mj-puDO3buGHy9e3THHbduMftYP358Mmn8.js"></script>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-61903354-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);if (window.location.search.indexOf("?ref") == 0) {
-	refType = window.location.search.substr(window.location.search.indexOf("?ref") +5, window.location.search.length);
-	try {
-		ga('send', {
-			'hitType': 'event',
-			'eventCategory': 'Referral Link',
-			'eventAction': 'Click through',
-			'eventLabel': refType,
-			'page': location.href
-		});
-		if (window.location.search.indexOf("&") < 1) {
-			history.replaceState({},"", window.location.pathname);
+<!DOCTYPE html>
+<html  xmlns="http://www.w3.org/1999/xhtml" prefix="" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Coalition of Immokalee Workers</title>
+<meta name="description" content="The Coalition of Immokalee Workers (CIW) is a worker-based human rights organization internationally recognized for its achievements in the fields of corporate social responsibility, community organizing, and sustainable food." />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="pingback" href="http://ciw-online.org/xmlrpc.php" />
+
+<!-- BEGIN Metadata added by the Add-Meta-Tags WordPress plugin -->
+<meta name="keywords" content="a brilliant model at work: november 2013 - october 2014, *notdone, a new day in the fields: september 2010 - december 2011, a year of victories: may 2008 - may 2009, a year to dine with dignity: may 2009 - august 2010, archives, burger king campaign archive, ciw archives: 2000 - 2004, ciw news: 2004-2005, ciw news: 2005-2007, expanding the fair food program: november 2014 - december 2015, fair food program to the fore: november 2012 - october 2013, fair food takes root: january 2012 - october 2012, format, gallery, mcdonald s campaign archive, pages, photoprobs, recent news, return to human rights tour, taco bell boycott: highlights from the final year, the birth of worker-driven social responsibility: january - december 2016, top stories, workers voice tour" />
+<!-- END Metadata added by the Add-Meta-Tags WordPress plugin -->
+
+        <style type="text/css">
+        </style>
+        <link rel='dns-prefetch' href='//ciw-online.org' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Coalition of Immokalee Workers &raquo; Feed" href="http://www.ciw-online.org/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ciw-online.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fts-feeds-css'  href='http://ciw-online.org/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-popup-css'  href='http://ciw-online.org/wp-content/plugins/feed-them-social/feeds/css/magnific-popup.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='srzmpcss-css'  href='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/css/mag-popup.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='srzelastislidercss-css'  href='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/css/elastislide.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='srzcustomcss-css'  href='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/css/srizon.custom.min.css?ver=2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='DOPTG_JScrollPaneStyle-css'  href='http://ciw-online.org/wp-content/plugins/doptg/libraries/gui/css/jquery.jscrollpane.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='DOPTG_ThumbnailGalleryStyle-css'  href='http://ciw-online.org/wp-content/plugins/doptg/assets/gui/css/jquery.dop.ThumbnailGallery.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-colorbox.css-css'  href='http://ciw-online.org/wp-content/plugins/m-wp-popup/css/colorbox/colorbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpp-popup-styles-css'  href='http://ciw-online.org/wp-content/plugins/m-wp-popup/css/popup-styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='http://ciw-online.org/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='http://ciw-online.org/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://ciw-online.org/wp-content/themes/ciw-child/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='http://ciw-online.org/wp-content/themes/canvas/css/layout.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='http://ciw-online.org/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.7.4' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='__disptype__-css'  href='http://ciw-online.org/wp-content/plugins/youtube-embed-plus/scripts/lity.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://ciw-online.org/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.css?ver=1.5.8.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://ciw-online.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ftsAjax = {"ajaxurl":"http:\/\/ciw-online.org\/wp-admin\/admin-ajax.php"};
+var ftsAjax = {"ajaxurl":"http:\/\/ciw-online.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/feed-them-social/admin/js/admin.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/feed-them-social/feeds/js/powered-by.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/feed-them-social/feeds/js/magnific-popup.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/js/modernizr.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/js/mag-popup.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/js/jquery.collagePlus.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/js/jquery.elastislide.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/srizon-facebook-album-pro/resources/js/srizon.custom.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/m-wp-popup/js/jquery.colorbox-min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp = {"exit_alert_text":"I need you to see something - stay on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/m-wp-popup/js/wpp-popup-frontend.js?ver=1.0'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/youtube-embed-plus/scripts/lity.min.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/ciw-online.org\/wp-admin\/admin-ajax.php","security":"f7ceef76b1","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/ciw-online.org\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"11.5","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/themes/canvas/includes/js/third-party.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/themes/canvas/includes/js/jquery.flexslider.min.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woo_localized_data = {"select_a_page":"Select a page:"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/themes/canvas/includes/js/general.js?ver=4.7.4'></script>
+<link rel='https://api.w.org/' href='http://www.ciw-online.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ciw-online.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ciw-online.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.4" />
+        <script type="text/javascript">
+            var myAjaxFTS = 'http://ciw-online.org/wp-admin/admin-ajax.php';
+        </script>
+                <script type="text/javascript">
+            var myAjaxFTS = 'http://ciw-online.org/wp-admin/admin-ajax.php';
+        </script>
+        <script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
 		}
-	} catch (e) {
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
 	}
-}ga("send", "pageview");</script>
-<script src="https://www.colorlines.com/sites/default/files/js/js_zMSo7bJ_u_gxPmqEvQ_IO9Qkfm-uBue9eIgCELHR_KA.js"></script>
-<script src="//use.typekit.net/xdd4fmq.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
-<script src="https://www.colorlines.com/sites/default/files/js/js_4POjVAf7EeXLzqRBA-Jh-4_meVCoz4oq8R5DkVzNxO4.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cl_new","theme_token":"ePd0r6Mxpwx_CeW6BntN0C98tihuiXStgG6tllUAp-o","js":{"sites\/all\/modules\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/picture\/picture.min.js":1,"0":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"1":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/popup_onload\/popup_onload.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/custom\/rf_donation\/rf_donation.js":1,"\/\/use.typekit.net\/xdd4fmq.js":1,"3":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/cl_new\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/cl_new\/js\/readmore\/readmore.min.js":1,"sites\/all\/themes\/cl_new\/js\/scrollbar\/jquery.mCustomScrollbar.concat.min.js":1,"sites\/all\/themes\/cl_new\/js\/general.js":1,"sites\/all\/themes\/cl_new\/js\/jquery.bootstrap-autohidingnavbar.min.js":1,"sites\/all\/themes\/cl_new\/cl_colorbox\/colorbox_cl_colorbox.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/popup_onload\/popup_onload-colorbox.css":1,"sites\/all\/modules\/custom\/rf_donation\/rf_donation.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/cl_new\/less\/style.less":1,"sites\/all\/themes\/cl_new\/js\/scrollbar\/jquery.mCustomScrollbar.css":1,"sites\/all\/themes\/cl_new\/cl_colorbox\/colorbox_cl_colorbox.css":1}},"chartbeat":{"uid":9488,"domain":"www.colorlines.com","useCanonical":true,"noCookies":true},"popup_onload":{"html":"\u003Cdiv class=\u0022entity entity-popup-onload popup-onload-popup-onload-basic clearfix\u0022\u003E\n\n  \n  \u003Cdiv class=\u0022content\u0022\u003E\n    \u003Cdiv class=\u0022field field-name-field-fake-body field-type-text field-label-hidden\u0022\u003E\u003Cdiv class=\u0022field-items\u0022\u003E\u003Cdiv class=\u0022field-item even\u0022\u003E\u003Cdiv\u003E\u003Ca class=\u0022donate-button\u0022 href=\u0022https:\/\/www.colorlines.com\/donate\/2017springpop\u0022\u003E\u003Cimg alt=\u0022 Two arms raised, clasped at hands amidst text on twining banner. Lines of purple flowers flow outward in background.\u0022 src=\u0022\/sites\/default\/files\/ColorlinesSpringFundraiserGraphic_PopUpImage3SM.jpg\u0022 width=\u0022300px\u0022 \/\u003E\u003C\/a\u003E\u003C\/div\u003E\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/div\u003E  \u003C\/div\u003E\n\u003C\/div\u003E\n","delay":"5000","fixed":true,"popup_id":"1","className":"popup_onload","close":"","cookieName":"popup_onload_time","cookieLifetime":"86400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/articles\/neglected-heroines-c%C3%A9sar-ch%C3%A1vez":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-</head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-11629 node-type-article navbar-is-fixed-top" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <header id="navbar" role="banner" class="hidebar navbar navbar-fixed-top navbar-default">
-  <div class="container">
-    <div class="navbar-header">
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <div class="header-divider menu-button-box col-sm-1 col-xs-2">
-      <button type="button" class="hidebar-toggle">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="menu-name hidden-xs visible-sm visible-md  visible-lg">
-        	Menu
-        </span>
-      </button>
-      </div>
-      
-      <div class="name-brand header-divider col-md-8 col-sm-11 col-xs-10">
-          <div class="col-xs-8 header-divider header-logo-container"><a class="name navbar-brand" href="/" title="Home"><img class="header-logo" src="/sites/all/themes/cl_new/images/colorlines_on_white.png" alt="Colorlines"/></a></div>
-          <div class="published-by col-xs-4">
-          <div>Published by <br /><a href="https://www.raceforward.org" class="external"><img src="/sites/all/themes/cl_new/images/race_forward_micro_black.png" alt="Race Forward" /></a></div></div>
-	    </div>
-	  <div class="social-media-links header-divider hidden-sm hidden-xs col-md-1"><a href="https://instagram.com/colorlinesnews" class="external"><img src="/sites/all/themes/cl_new/images/icons/link-instagram.svg" alt="Follow us on Instagram" /></a><a href="https://www.facebook.com/colorlines" class="external"><img src="/sites/all/themes/cl_new/images/icons/link-facebook.svg" alt="Like us on Facebook" /></a><a href="https://twitter.com/colorlines" class="external"><img src="/sites/all/themes/cl_new/images/icons/link-twitter.svg" alt="Follow us on Twitter" /></a>
-	  <br />Connect</div>
-	  <div class="donate-link header-divider hidden-sm hidden-xs col-md-1"><a href="https://www.colorlines.com/donate" class="external"><img src="/sites/all/themes/cl_new/images/icons/donate.svg" alt="small credit card with heart" /><br />Donate</a></div>
-	  <div class="subscribe-link header-divider hidden-sm hidden-xs col-md-1"><a href="https://www.colorlines.com/getemails"><img src="/sites/all/themes/cl_new/images/icons/subscribe.svg" alt="email icon" /><br />Subscribe</a></div>
-	 <div class="hot-search">
-	           <nav role="navigation" class="col-sm-10 col-xs-12 hot-nav">
-          	<div class="hot-topics-label hidden-xs col-md-2">Hot Topics</div>
-              <div class="region region-navigation">
-    <section id="block-views-topics-menu-new-block-1" class="block block-views clearfix">
+})('//www.ciw-online.org/?wordfence_logHuman=1&hid=D3E970D8CB8B2400D051354718A8042B');
+</script>
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js" async="async"></script>
 
-      
-  <div class="view view-topics-menu-new view-id-topics_menu_new view-display-id-block_1 view-dom-id-32d4fca2e4286df047c8ba6b2d75e0f3">
+<!-- Theme version -->
+<meta name="generator" content="CIW Child of Canvas 1.0" />
+<meta name="generator" content="Canvas 5.1.4" />
+<meta name="generator" content="WooFramework 5.5.5" />
+
+<!-- Custom CSS Styling -->
+<style type="text/css">
+body {background-repeat:no-repeat;background-position:top left;background-attachment:scroll;border-top:0px solid #000000;}
+a:link, a:visited {color:#303494}
+a:hover, .post-more a:hover, .post-meta a:hover, .post p.tags a:hover {color:#303494}
+body #wrapper #content .button, body #wrapper #content .button:visited, body #wrapper #content .reply a, body #wrapper #content #respond .form-submit input#submit {border: none; background:#303494}
+body #wrapper #content .button:hover, body #wrapper #content .reply a:hover, body #wrapper #content #respond .form-submit input#submit:hover {border: none; background:#5f62ab}
+#header {background-repeat:no-repeat;background-position:top center;margin-top:0px;margin-bottom:0px;padding-top:40px;padding-bottom:40px;border:0px solid ;}
+#logo .site-title a {font:bold 40px/1em "Helvetica Neue", Helvetica, sans-serif;color:#222222;}
+#logo .site-description {font:300 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#999999;}
+body, p { font:normal 12px/1.5em 'PT Sans', arial, sans-serif;color:#555555; }
+h1 { font:bold 28px/1.2em 'PT Sans', arial, sans-serif;color:#222222; }h2 { font:bold 24px/1.2em 'PT Sans', arial, sans-serif;color:#222222; }h3 { font:bold 20px/1.2em 'PT Sans', arial, sans-serif;color:#222222; }h4 { font:bold 16px/1.2em 'PT Sans', arial, sans-serif;color:#222222; }h5 { font:bold 14px/1.2em 'PT Sans', arial, sans-serif;color:#222222; }h6 { font:bold 12px/1.2em 'PT Sans', arial, sans-serif;color:#222222; }
+.post .title, .page .title, .post .title a:link, .post .title a:visited, .page .title a:link, .page .title a:visited {font:bold 28px/1.1em 'PT Sans', arial, sans-serif;color:#303494;}
+.post-meta { font:300 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+.entry, .entry p{ font:normal 14px/1.5em 'PT Sans', arial, sans-serif;color:#444444; }
+.post-more {font:bold 13px/1.5em PT Sans;color:#444444;border-top:0px solid #9ea4c6;border-bottom:0px solid #e6e6e6;}
+#post-author, #connect {border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;border-left:1px solid #e6e6e6;border-right:1px solid #e6e6e6;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;background-color:#fafafa}
+.nav-entries a, .woo-pagination { font:300 14px/1em "Helvetica Neue", Helvetica, sans-serif;color:#888; }
+.woo-pagination a, .woo-pagination a:hover {color:#888!important}
+.widget h3 {font:bold 40px/1.2em PT Sans;color:#ffffff;border-bottom:0px solid #ffffff;margin-bottom:0;}
+.widget_recent_comments li, #twitter li { border-color: #ffffff;}
+.widget p, .widget .textwidget { font:normal 13px/1.5em 'PT Sans', arial, sans-serif;color:#444444; }
+.widget {font:normal 13px/1.5em PT Sans;color:#444444;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;}
+#tabs .inside li a, .widget_woodojo_tabs .tabbable .tab-pane li a { font:bold 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+#tabs .inside li span.meta, .widget_woodojo_tabs .tabbable .tab-pane li span.meta { font:300 11px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+#tabs ul.wooTabs li a, .widget_woodojo_tabs .tabbable .nav-tabs li a { font:300 11px/2em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+ul.nav li a, #navigation ul.rss a { font:bold 14px/1em 'PT Sans', arial, sans-serif;color:#0f145d; }
+#navigation ul.nav li ul  { border: 1px solid #dbdbdb; }
+#navigation ul.nav > li  { border-right: 1px solid #dbdbdb; }#navigation ul li:first-child, #navigation ul li:first-child a { border-radius:5px 0 0 5px; -moz-border-radius:5px 0 0 5px; -webkit-border-radius:5px 0 0 5px; }
+#navigation {border-top:1px solid #dbdbdb;border-bottom:1px solid #dbdbdb;border-left:1px solid #dbdbdb;border-right:1px solid #dbdbdb;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+#top ul.nav li a { font:normal 12px/1.6em 'PT Sans', arial, sans-serif;color:#0f145d; }
+#top ul.nav li.parent > a:after { border-top-color:#0f145d;}
+#footer, #footer p { font:normal 13px/1em 'PT Sans', arial, sans-serif;color:#222222; }
+#footer {background-color:#cccccc;border-top:0px solid #dbdbdb;border-bottom:0px solid ;border-left:0px solid ;border-right:0px solid ;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+.magazine #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.magazine #loopedSlider .content .excerpt p { font:300 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.business #loopedSlider .content h2 { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.business #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+#wrapper .business #loopedSlider .content p { font:300 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.archive_header h1 { font:bold 18px/1em 'PT Sans', arial, sans-serif;color:#222222; }
+.archive_header {border-bottom:1px solid #e6e6e6;}
+.archive_header .catrss { display:none; }
+</style>
+
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<!--  Mobile viewport scale -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
+
+<!-- Adjust the website width -->
+<style type="text/css">
+	.col-full, #wrapper { max-width: 1030px !important; }
+</style>
+
+<!-- BEGIN GADWP v4.9.6.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script type="text/javascript">
+(function($){
+    $(window).load(function() {
         
-  
-  
-      <div class="view-content">
-      <div class="hot">    <ul>          <li class="cl-term cl-0">  
-          <a href="/categories/arts-culture">Arts &amp; Culture</a>  </li>
-          <li class="cl-term cl-1">  
-          <a href="/categories/trump-presidency">Trump Presidency</a>  </li>
-          <li class="cl-term cl-2">  
-          <a href="/tags/islamophobia">Islamophobia</a>  </li>
-          <li class="cl-term cl-3">  
-          <a href="/categories/police-violence">Police Violence</a>  </li>
-          <li class="cl-term cl-4">  
-          <a href="/categories/gender-sexuality">Gender &amp; Sexuality</a>  </li>
-      </ul></div>    </div>
-  
-  
-  
-  
-  
-  
-</div>
-</section> <!-- /.block -->
-  </div>
-        </nav>
-	  	  	  <div class="search-container col-xs-12 col-sm-12 col-md-2">
-	  	  <div class="region region-search">
-    <section id="block-search-form" class="block block-search clearfix">
+            //Track Downloads
+            $('a').filter(function() {
+                return this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/);
+            }).click(function(e) {
+                ga('send','event', 'download', 'click', this.href);
+            });
 
-      
-  <form class="form-search content-search" action="/articles/neglected-heroines-c%C3%A9sar-ch%C3%A1vez" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
-      <h2 class="element-invisible">Search form</h2>
-    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="SEARCH" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="icon glyphicon glyphicon-search" aria-hidden="true"></i></button></span></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-0gZeqZTHvK-aqx_FqkTYlMXiCcd0yb3o7e0zygY7ytM" />
-<input type="hidden" name="form_id" value="search_block_form" />
-<input type="hidden" name="solrsort" value="ds_created desc" />
-</div>
-</div></form>
-</section> <!-- /.block -->
-  </div>
-	  </div>
-	  	  </div>
-    </div>
-  </div>
-</header>
-<div class="main-container container">
+            //Track Mailto
+            $('a[href^="mailto"]').click(function(e) {
+                ga('send','event', 'email', 'send', this.href);
+             });
+            
+            //Track Outbound Links
+            $('a[href^="http"]').filter(function() {
+                if (!this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/)){
+                    if (this.href.indexOf('ciw-online.org') == -1) return this.href;
+                }
+            }).click(function(e) {
+                ga('send','event', 'outbound', 'click', this.href);
+            });
+		    		                });
+})(jQuery);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-56609217-2', 'auto');
+  ga('send', 'pageview');
+</script>
 
-  <header role="banner" id="page-header">
-    
-      </header> <!-- /#page-header -->
-	<div class="hidden-sidebar sidebar-hidden">
-		<div class="inner-sidebar">
-			<!--<div id="close-menu">Close Menu</div>-->
-			<nav role="navigation">
-				<a href="/" alt="Home">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/user/login" alt="Sign In">Sign In</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/user/login" alt="Create Account">Create Account</a>			</nav>
-			<div class="social-media"><a href="https://instagram.com/colorlinesnews" class="external"><img src="/sites/all/themes/cl_new/images/icons/link-instagram.svg" alt="Follow us on Instagram" /></a><a href="https://www.facebook.com/colorlines" class="external"><img src="/sites/all/themes/cl_new/images/icons/link-facebook.svg" alt="Like us on Facebook" /></a><a href="https://twitter.com/colorlines" class="external"><img src="/sites/all/themes/cl_new/images/icons/link-twitter.svg" alt="Follow us on Twitter" /></a><br />Connect</div>
-			 <div class="donate"><a href="/donate" class="external"><img src="/sites/all/themes/cl_new/images/icons/donate.svg" alt="small credit card with heart" /><br />Donate</a></div>
-			  <div class="subscribe"><a href="/getemails"><img src="/sites/all/themes/cl_new/images/icons/subscribe.svg" alt="email icon" /><br />Subscribe</a></div>
-			  
-			  <div class="search-link hidden-search col-xs-2">
-				  <img src="/sites/all/themes/cl_new/images/icons/search.svg" title="search" alt="Small magnifying glass" />
-				  Search
-			  </div>
-			  <div class="region region-hidebar">
-    <section id="block-views-ongoing-topics-block" class="block block-views clearfix">
+<!-- END GADWP Universal Tracking -->
 
-        <h2 class="block-title">Ongoing Topics</h2>
-    
-  <div class="view view-ongoing-topics view-id-ongoing_topics view-display-id-block view-dom-id-8a98836387eec86229699fd2dacab949">
-        
-  
-  
-      <div class="view-content">
-          <ul>          <li class="">  
-          <a href="/categories/arts-culture">Arts &amp; Culture</a>  </li>
-          <li class="">  
-          <a href="/categories/criminal-justice">Criminal Justice</a>  </li>
-          <li class="">  
-          <a href="/categories/economic-justice">Economic Justice</a>  </li>
-          <li class="">  
-          <a href="/categories/economy">Economy</a>  </li>
-          <li class="">  
-          <a href="/categories/environment">Environment</a>  </li>
-          <li class="">  
-          <a href="/categories/gender-sexuality">Gender &amp; Sexuality</a>  </li>
-          <li class="">  
-          <a href="/categories/global-affairs">Global Affairs</a>  </li>
-          <li class="">  
-          <a href="/categories/health">Health</a>  </li>
-          <li class="">  
-          <a href="/categories/history">History</a>  </li>
-          <li class="">  
-          <a href="/categories/immigration">Immigration</a>  </li>
-          <li class="">  
-          <a href="/categories/labor">Labor</a>  </li>
-          <li class="">  
-          <a href="/categories/media">Media</a>  </li>
-          <li class="">  
-          <a href="/categories/national-security">National Security</a>  </li>
-          <li class="">  
-          <a href="/categories/native-affairs">Native Affairs</a>  </li>
-          <li class="">  
-          <a href="/categories/politics">Politics</a>  </li>
-          <li class="">  
-          <a href="/categories/schools-youth">Schools &amp; Youth</a>  </li>
-          <li class="">  
-          <a href="/categories/sports">Sports</a>  </li>
-      </ul>    </div>
-  
-  
-  
-  
-  
-  
-</div>
-</section> <!-- /.block -->
-  </div>
-		</div>
-	</div>
-  <div class="row hidebar hidebar-support">
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://ciw-online.org/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+			
+<!-- Easy FancyBox 1.5.8.2 using FancyBox 1.3.8 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'margin' : 20, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpg"]:not(.nolightbox), a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpeg"]:not(.nolightbox), a[href*=".png"]:not(.nolightbox,li.nolightbox>a), area[href*=".png"]:not(.nolightbox)';
+	jQuery(fb_IMG_select).addClass('fancybox image');
+	var fb_IMG_sections = jQuery('div.gallery ');
+	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+	jQuery('a.fancybox, area.fancybox, li.fancybox a').fancybox( jQuery.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );
+}
+var easy_fancybox_auto = function(){
+	/* Auto-click */
+	setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);
+}
+/* ]]> */
+</script>
 
-    
-    <section class="col-sm-12">
-                  <a id="main-content"></a>
-                  	<div class="article-title col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-			<h1 class="page-header">The Neglected Heroines of &#039;César Chávez&#039;</h1>
-			<div class="subheading"><p>In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation.</p>
-</div>
-      	</div>
-                  <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
+<!-- Woo Shortcodes CSS -->
+<link href="http://ciw-online.org/wp-content/themes/canvas/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://ciw-online.org/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css" />
+<!--[if gte IE 8]>
+<style>
+.two-col-left #main-sidebar-container #main, .two-col-right #main-sidebar-container #main {
+  width: 61% !important ;
+}
+.two-col-left #main-sidebar-container #sidebar, .two-col-right #main-sidebar-container #sidebar {
+	width: 30.6% !important;
+}
+.nav-toggle {display:none;}
+</style>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://ciw-online.org/wp-content/cache/nextend/web/nextend-frontend/nextend-frontend.css?1447210325" media="screen, print" />
+<link rel="stylesheet" type="text/css" href="http://ciw-online.org/wp-content/cache/nextend/web/n2-ss-10/n2-ss-10.css?1493776678" media="screen, print" />
+<link rel="stylesheet" type="text/css" href="http://ciw-online.org/wp-content/cache/nextend/web/n2-ss-2/n2-ss-2.css?1493774734" media="screen, print" />
+<script type="text/javascript">window.N2PRO=1;window.N2GSAP=1;window.nextend={localization: {}, deferreds:[], loadScript: function(url){nextend.deferreds.push(n2.ajax({url:url,dataType:"script",cache:true,error:function(){console.log(arguments)}}))}, ready: function(cb){n2.when.apply(n2, nextend.deferreds).done(function(){cb.call(window,n2)})}};window.N2SSPRO=1;window.N2SSPRO=1;
+        nextend.fontsLoaded = false;
+        nextend.fontsLoadedActive = function () {nextend.fontsLoaded = true;};
+        var fontData = {
+            google: {
+                families: ["Montserrat:400:latin"]
+            },
+            active: function(){nextend.fontsLoadedActive()},
+            inactive: function(){nextend.fontsLoadedActive()}
+        };
+        if(typeof WebFont === 'undefined'){
+            window.WebFontConfig = fontData;
+        }else{
+            WebFont.load(fontData);
+        }
+</script><script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/n2/n2.js?1447210325"></script>
+<script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/nextend-frontend/nextend-frontend.js?1447210325"></script>
+<script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/smartslider-frontend/smartslider-frontend.js?1447210325"></script>
+<script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/n2-ss-10/n2-ss-10.js?1493776678"></script>
+<script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/smartslider-simple-type-frontend/smartslider-simple-type-frontend.js?1447210465"></script>
+<script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/n2-ss-2/n2-ss-2.js?1493774734"></script>
+<script type="text/javascript" src="http://ciw-online.org/wp-content/cache/nextend/web/nextend-webfontloader/nextend-webfontloader.js?1447210325"></script>
+<script type="text/javascript">
+window.n2jQuery.ready((function($){
+	window.nextend.ready(function() {
+
+        nextend.fontsDeferred = n2.Deferred();
+        if(nextend.fontsLoaded){
+            nextend.fontsDeferred.resolve();
+        }else{
+            nextend.fontsLoadedActive = function () {
+                nextend.fontsLoaded = true;
+                nextend.fontsDeferred.resolve();
+            };
+        }
+new NextendSmartSliderSimple(n2('#n2-ss-10'), {"admin":false,"isStaticEdited":0,"translate3d":1,"randomize":0,"load":{"fade":1,"scroll":0,"spinner":"<div><div class=\"n2-ss-spinner-simple-white-container\"><div class=\"n2-ss-spinner-simple-white\"><\/div><\/div>\r\n<style type=\"text\/css\">\r\n.n2-ss-spinner-simple-white-container {\r\n    position: absolute;\r\n    top: 50%;\r\n    left: 50%;\r\n    margin: -20px;\r\n    background: #fff;\r\n    width: 20px;\r\n    height: 20px;\r\n    padding: 10px;\r\n    border-radius: 50%;\r\n    z-index: 1000;\r\n}\r\n\r\n.n2-ss-spinner-simple-white {\r\n  outline: 1px solid RGBA(0,0,0,0);\r\n  width:100%;\r\n  height: 100%;\r\n}\r\n\r\n.n2-ss-spinner-simple-white:before {\r\n    position: absolute;\r\n    top: 50%;\r\n    left: 50%;\r\n    width: 20px;\r\n    height: 20px;\r\n    margin-top: -11px;\r\n    margin-left: -11px;\r\n}\r\n\r\n.n2-ss-spinner-simple-white:not(:required):before {\r\n    content: '';\r\n    border-radius: 50%;\r\n    border-top: 2px solid #333;\r\n    border-right: 2px solid transparent;\r\n    animation: n2SimpleWhite .6s linear infinite;\r\n    -webkit-animation: n2SimpleWhite .6s linear infinite;\r\n}\r\n@keyframes n2SimpleWhite {\r\n    to {transform: rotate(360deg);}\r\n}\r\n\r\n@-webkit-keyframes n2SimpleWhite {\r\n    to {-webkit-transform: rotate(360deg);}\r\n}\r\n\r\n<\/style>"},"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":0,"minimumHeight":0,"maximumHeight":3000,"maximumSlideWidth":3000,"forceFull":0,"verticalOffsetSelectors":"","focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.7,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":600,"desktopLandscape":600,"tabletPortrait":420,"tabletLandscape":0,"mobilePortrait":300,"mobileLandscape":0},"basedOn":"combined","tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":1024,"mobileLandscapeScreenWidth":740},"controls":{"scroll":0,"drag":1,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplayToSlide":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":"0","mouse":"0","mediaEnded":1,"slidechanged":0}},"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider"},"postBackgroundAnimations":0,"initCallbacks":[],"bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":1,"shiftedBackgroundAnimation":"auto"},"carousel":1,"dynamicHeight":0});
+new NextendSmartSliderSimple(n2('#n2-ss-2'), {"admin":false,"isStaticEdited":0,"translate3d":1,"randomize":0,"load":{"fade":1,"scroll":0,"spinner":"<div><div class=\"n2-ss-spinner-simple-white-container\"><div class=\"n2-ss-spinner-simple-white\"><\/div><\/div>\r\n<style type=\"text\/css\">\r\n.n2-ss-spinner-simple-white-container {\r\n    position: absolute;\r\n    top: 50%;\r\n    left: 50%;\r\n    margin: -20px;\r\n    background: #fff;\r\n    width: 20px;\r\n    height: 20px;\r\n    padding: 10px;\r\n    border-radius: 50%;\r\n    z-index: 1000;\r\n}\r\n\r\n.n2-ss-spinner-simple-white {\r\n  outline: 1px solid RGBA(0,0,0,0);\r\n  width:100%;\r\n  height: 100%;\r\n}\r\n\r\n.n2-ss-spinner-simple-white:before {\r\n    position: absolute;\r\n    top: 50%;\r\n    left: 50%;\r\n    width: 20px;\r\n    height: 20px;\r\n    margin-top: -11px;\r\n    margin-left: -11px;\r\n}\r\n\r\n.n2-ss-spinner-simple-white:not(:required):before {\r\n    content: '';\r\n    border-radius: 50%;\r\n    border-top: 2px solid #333;\r\n    border-right: 2px solid transparent;\r\n    animation: n2SimpleWhite .6s linear infinite;\r\n    -webkit-animation: n2SimpleWhite .6s linear infinite;\r\n}\r\n@keyframes n2SimpleWhite {\r\n    to {transform: rotate(360deg);}\r\n}\r\n\r\n@-webkit-keyframes n2SimpleWhite {\r\n    to {-webkit-transform: rotate(360deg);}\r\n}\r\n\r\n<\/style>"},"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":0,"minimumHeight":0,"maximumHeight":3000,"maximumSlideWidth":3000,"forceFull":0,"verticalOffsetSelectors":"","focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.7,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":500,"desktopLandscape":500,"tabletPortrait":350,"tabletLandscape":0,"mobilePortrait":250,"mobileLandscape":0},"basedOn":"combined","tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":1024,"mobileLandscapeScreenWidth":740},"controls":{"scroll":1,"drag":1,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayToSlide":0,"pause":{"click":1,"mouse":"0","mediaStarted":0},"resume":{"click":"1","mouse":"0","mediaEnded":0,"slidechanged":0}},"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider"},"postBackgroundAnimations":0,"initCallbacks":[],"bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":1,"shiftedBackgroundAnimation":"auto"},"carousel":1,"dynamicHeight":0});
+new NextendSmartSliderWidgetArrowImage("n2-ss-10", 1, 0.7, 0.5);
+new NextendSmartSliderWidgetArrowImage("n2-ss-2", 1, 0.7, 0.5);
+new NextendSmartSliderWidgetThumbnailDefault("n2-ss-2", {"overlay":false,"area":12,"orientation":"horizontal","group":1,"action":"click"});
+	});
+}));
+
+</script></head>
+<body class="home blog unknown alt-style-default two-col-left width-1030 two-col-left-1030">
+<div id="wrapper">        
+	    
+	          <!-- #content Starts -->	    <div id="content" class="col-full">        	<div id="main-sidebar-container">    		            <!-- #main Starts -->                        <div id="main" class="col-left">            				<div id="logo">
+<a href="http://www.ciw-online.org/" title=""><img src="http://ciw-online.org/wp-content/uploads/logo_2_long_navy_final.jpg" alt="Coalition of Immokalee Workers" /></a>
+</div><!-- /#logo -->
+  
+<h3 class="nav-toggle icon"><a href="#navigation">Menu</a></h3><div id="navigation" class="col-full">
+		<ul id="main-nav" class="nav fl"><li id="menu-item-4810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4810"><a href="http://ciw-online.org/">Home</a></li>
+<li id="menu-item-13586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13586"><a>About</a>
+<ul class="sub-menu">
+	<li id="menu-item-4811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4811"><a href="http://www.ciw-online.org/about/">About the CIW</a></li>
+	<li id="menu-item-13587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13587"><a href="http://www.ciw-online.org/campaign-for-fair-food/">Campaign for Fair Food</a></li>
+	<li id="menu-item-20500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20500"><a href="http://www.fairfoodprogram.org/">Fair Food Program</a></li>
+	<li id="menu-item-13600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13600"><a href="http://www.ciw-online.org/slavery/">Anti-Slavery Program</a></li>
+</ul>
+</li>
+<li id="menu-item-8879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8879"><a>Archives</a>
+<ul class="sub-menu">
+	<li id="menu-item-5392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5392"><a href="http://www.ciw-online.org/blog/category/news/">Recent News</a></li>
+	<li id="menu-item-25328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25328"><a href="http://www.ciw-online.org/blog/category/archives/jan-2016-dec-2016/">The birth of Worker-driven Social Responsibility: 1/16-12/16</a></li>
+	<li id="menu-item-25327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25327"><a href="http://www.ciw-online.org/blog/category/archives/nov-2014-dec-2015/">Expanding the Fair Food Program: 11/14 &#8211; 12/15</a></li>
+	<li id="menu-item-20858" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20858"><a href="http://www.ciw-online.org/blog/category/archives/nov-2013-oct-2014/">&#8220;A brilliant model&#8221; at work: 11/13-10/14</a></li>
+	<li id="menu-item-17352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17352"><a href="http://www.ciw-online.org/blog/category/archives/nov-2012-oct-2013/">Fair Food Program to the Fore: 11/12-10/13</a></li>
+	<li id="menu-item-4803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4803"><a href="http://www.ciw-online.org/blog/category/archives/jan-2012-oct-2012/">Fair Food Takes Root: 01/12-10/12</a></li>
+	<li id="menu-item-5127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5127"><a href="http://www.ciw-online.org/blog/category/archives/sep-2010-dec-2011/">A New Day in the Fields: 09/10-12/11</a></li>
+	<li id="menu-item-4802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4802"><a href="http://www.ciw-online.org/blog/category/archives/may-2009-aug-2010/">A Year to Dine with Dignity: 05/09-08/10</a></li>
+	<li id="menu-item-4804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4804"><a href="http://www.ciw-online.org/blog/category/archives/may-2008-may-2009/">A Year of Victories: 05/08-05/09</a></li>
+	<li id="menu-item-4806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4806"><a href="http://www.ciw-online.org/blog/category/archives/burger-king/">Burger King: 04/07-05/08</a></li>
+	<li id="menu-item-4807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4807"><a href="http://www.ciw-online.org/blog/category/archives/mcdonalds/">McDonald&#8217;s: 03/05-04/07</a></li>
+	<li id="menu-item-4809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4809"><a href="http://www.ciw-online.org/blog/category/archives/taco-bell/">Taco Bell Boycott: 04/01-03/05</a></li>
+</ul>
+</li>
+<li id="menu-item-21069" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21069"><a href="http://www.allianceforfairfood.org/take-action/">Take Action</a>
+<ul class="sub-menu">
+	<li id="menu-item-22721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22721"><a href="http://www.allianceforfairfood.org/take-action/">Take Action</a></li>
+	<li id="menu-item-12317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12317"><a href="http://www.ciw-online.org/resources/">Online Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-4814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4814"><a href="http://www.ciw-online.org/media/">Media</a></li>
+<li id="menu-item-21318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21318"><a href="https://ciw.givingfuel.com/return-to-human-rights-tour-2017">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-25350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25350"><a href="https://ciw.givingfuel.com/return-to-human-rights-tour-2017">Fuel the 2017 Tour</a></li>
+	<li id="menu-item-24665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24665"><a href="https://ciw.givingfuel.com/sustain">Fair Food Sustainer</a></li>
+	<li id="menu-item-22785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22785"><a href="http://fairfood.spreadshirt.com/">T-shirt Store</a></li>
+	<li id="menu-item-23377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23377"><a href="http://www.zazzle.com/fairfood">Fair Food Poster</a></li>
+</ul>
+</li>
+<li id="menu-item-4815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4815"><a href="http://www.ciw-online.org/contact/">Contact</a></li>
+</ul>	
+</div><!-- /#navigation -->
+<div class="wide-border"></div>
+
+    <div id="home-featured-post" class="post-26061 post type-post status-publish format-standard hentry category-top-stories">
+<h2 class="grey-top">LATEST NEWS</h2>
+<h2 class="title"><a href="http://www.ciw-online.org/blog/2017/05/we-are-tired-of-hate-so-we-march/" rel="bookmark" title="&#8220;We are tired of hate, so we march&#8221;&#8230;">&#8220;We are tired of hate, so we march&#8221;&#8230;</a></h2>	<span class="entry-date">May 3rd, 2017</span>
+
+  <div class="entry">
+<div class="addtoany_share_save_container addtoany_content_top"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-url="http://www.ciw-online.org/blog/2017/05/we-are-tired-of-hate-so-we-march/" data-a2a-title="“We are tired of hate, so we march”…"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.ciw-online.org%2Fblog%2F2017%2F05%2Fwe-are-tired-of-hate-so-we-march%2F&amp;linkname=%E2%80%9CWe%20are%20tired%20of%20hate%2C%20so%20we%20march%E2%80%9D%E2%80%A6" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.ciw-online.org%2Fblog%2F2017%2F05%2Fwe-are-tired-of-hate-so-we-march%2F&amp;linkname=%E2%80%9CWe%20are%20tired%20of%20hate%2C%20so%20we%20march%E2%80%9D%E2%80%A6" title="Twitter" rel="nofollow" target="_blank"></a></div></div><div id="attachment_26089" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-26089 size-full" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards6.jpg" alt="" width="600" height="450" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards6.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards6-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">PHOTO CREDIT: Dorothy Edwards // Naples Daily News</p></div><h2>PHOTO REPORT:  Immokalee community takes to the streets as part of national mobilization for immigrant rights!</h2><h2>Nearly 250 workers and allies call for dignity and justice with colorful march through the heart of Immokalee. </h2><p class="p1"><span class="s1">In conjunction with immigrant communities in over 300 cities nationwide, Immokalee residents took to the streets on Monday to celebrate May 1st, giving the traditional celebration of labor a distinctly immigrant rights twist this year!  </span><span class="s1">From Washington, DC, to Portland, Oregon, <a href="https://www.washingtonpost.com/local/social-issues/may-1-means-protests-and-some-shuttered-businesses-in-dc-and-other-us-cities/2017/05/01/c7c818c4-2e6c-11e7-8674-437ddb6e813e_story.html?utm_term=.8c11c94e4a22">hundreds of thousands of people joined in marches, rallies, teach-ins, and vigils</a> highlighting the myriad, essential contributions of immigrant workers to our nation&#8217;s economic, social, and cultural life.<span class="Apple-converted-space">  They did so to counter recent efforts to dehumanize the immigrant community, and to correct the record on what is &#8212; and always has been &#8212; the true, positive impact of wave after wave of immigration on this ever-evolving, young nation.</span></span></p><p class="p1"><span class="s1">Naturally, the May 1st call to action resonated powerfully in Immokalee, where for nearly a quarter of a century the CIW has driven home the message that workers &#8212; whatever their nationality, ethnic background, gender, or faith &#8212; deserve dignity, respect, and the full protection of their fundamental human rights.  And, as you might imagine, the march that came together in Immokalee on Monday was one of the most festive in the town&#8217;s storied history.</span></p><p class="p1" style="text-align: center;"><img class="aligncenter size-full wp-image-26065" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards5.jpg" alt="" width="600" height="450" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards5.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards5-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p class="p1">So today we bring you the press highlights and a photo report from Monday&#8217;s beautiful march, which drew nearly 250 marchers and countless smiles, cheers, honks, and thumbs up from the rest of the Immokalee community, many of whom were just getting home from a long day in the fields when they came upon what looked like a huge afternoon street party!</p><h3 class="p1">Media round-up&#8230;</h3><p class="p1">First up, both the Southwest Florida NPR station, WGCU, and the Naples Daily News came out to cover the march.  In addition to WGCU&#8217;s interviews with marchers, <a href="http://news.wgcu.org/post/immokalee-community-shows-march-workers-dignity">which you can find here</a>, the Naples Daily News published an excellent story on Monday&#8217;s action, titled <a href="http://www.naplesnews.com/story/news/local/2017/05/01/immokalee-workers-march-may-day-celebrate-laborers/101023174/">&#8220;Immokalee workers march on May Day, celebrate laborers&#8221;</a>, which perfectly captured the simultaneously joyful and determined air of the march:</p><blockquote><p><img class="aligncenter  wp-image-26090" src="http://ciw-online.org/wp-content/uploads/Naples_Daily_News-copy.jpg" alt="" width="527" height="116" srcset="http://ciw-online.org/wp-content/uploads/Naples_Daily_News-copy.jpg 618w, http://ciw-online.org/wp-content/uploads/Naples_Daily_News-copy-300x66.jpg 300w" sizes="(max-width: 527px) 100vw, 527px" /></p><h3 class="asset-headline">Immokalee workers march on May Day, celebrate laborers</h3><p><strong>May 2, 2017</strong><br /><em>By Alexi Cardona</em></p><p>Adults and kids danced in the street and chanted in the rain in Immokalee on Monday afternoon during a march celebrating laborers and the working class on <a href="http://www.naplesnews.com/story/news/nation/2017/04/30/thousands-expected-for-may-day-protests/101132580/">International Workers&#8217; Day</a>.</p><p>Marchers held up signs reading, &#8220;My parents are not criminals,&#8221; &#8220;Justice for all&#8221; and &#8220;Immigrants get the job done.&#8221;</p><p>The demonstrators said they marched for livable wages, decent working conditions and, most of all, respect for a marginalized group that puts food on people&#8217;s tables, roofs over their heads and maintains lawns and agricultural fields.</p><p><img class="aligncenter size-full wp-image-26093" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards3.jpg" alt="" width="520" height="390" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards3.jpg 520w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards3-300x225.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" /></p><p>&#8220;We&#8217;re marching as one part of a national day of movement and community support,&#8221; said Leonel Perez, a march organizer. &#8220;We&#8217;re here to unite and keep working and support one another.&#8221; [&#8230;]</p><p>[&#8230;] Miguel Estrada, a pastor at Misión Peñiel in Immokalee, commended the demonstrators for attending the march when there is so much fear in the community about being stopped by law enforcement and taken to immigration detention centers.</p><p>&#8220;There is some ignorance surrounding why people come to this country,&#8221; Estrada told the crowd. &#8220;People think we want to leave our families behind, our homes, our roots. That&#8217;s not why we&#8217;re here. We&#8217;re here to work and to provide for our families and get them ahead. We should have no fear and nothing to be ashamed of.&#8221;</p><p>Lupe Gonzalo, an organizer with the coalition, marched to fight for her family and to teach her two sons to fight for their futures.</p><p>She worked more than 12 years in agricultural fields all over the country after leaving Guatemala and said she knows firsthand the abuses that laborers, especially women, face — sexual abuse, stolen wages, subpar living conditions, discrimination and no protections against any of the abuses.</p><p>&#8220;We&#8217;re tired of hate,&#8221; Gonzalo said. &#8220;So we march. If we don&#8217;t do anything, if we don&#8217;t speak out or speak up, we give up. We&#8217;re trying to build a path of respect and dignity for workers in the community. In the future, when I have grandkids and great-grandkids, it&#8217;s important to me for them to know that they have someone fighting for them.&#8221;  <a href="http://www.naplesnews.com/story/news/local/2017/05/01/immokalee-workers-march-may-day-celebrate-laborers/101023174/"><strong>Read more</strong></a></p></blockquote><h3>PHOTO REPORT:<em> &#8220;May every step we take in the streets of Immokalee today be a sign of our dignity&#8230;&#8221;</em></h3><p>In the week leading up to Monday&#8217;s action, the CIW community center was a flurry of creative endeavors, with members painting brand-new signs and building homemade drums for the upcoming march&#8230;</p><p><img class="aligncenter size-full wp-image-26085" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee92.jpg" alt="" width="600" height="335" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee92.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee92-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>On the big day, despite a downpour just ahead of the march (and another, even heavier storm just after it finished), people began to gather at the CIW&#8217;s Community Center in Immokalee around mid-afternoon on Monday, arriving on foot, on bicycles, or in cars from neighboring Naples and Fort Myers:</p><p><img class="aligncenter size-full wp-image-26074" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee4.jpg" alt="" width="600" height="421" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee4.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee4-300x211.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p><img class="aligncenter size-full wp-image-26087" src="http://ciw-online.org/wp-content/uploads/IMG_1674.jpg" alt="" width="600" height="561" srcset="http://ciw-online.org/wp-content/uploads/IMG_1674.jpg 600w, http://ciw-online.org/wp-content/uploads/IMG_1674-300x281.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p><img class="aligncenter size-full wp-image-26076" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee5.jpg" alt="" width="600" height="373" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee5.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee5-300x187.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p style="text-align: left;">Those gathered were welcomed first with words from the CIW and local political leaders, including the Lee County Democratic Women&#8217;s Club President Tamara Paquette (below, second from left) and Haitian politician and farmer, Jean Claude Chasson (speaking, below)&#8230;</p><p><img class="aligncenter size-full wp-image-26082" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee8.jpg" alt="" width="600" height="385" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee8.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee8-300x193.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>&#8230; and then blessed by local Presbyterian pastor, Miguel Estrada (on left, below), from Misión Peniel, who brought a message of hope and encouragement to the waiting crowd:</p><blockquote><p><img class="aligncenter size-full wp-image-26084" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee9.jpg" alt="" width="600" height="433" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee9.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee9-300x217.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p><em>The reason we are here today is because we have nothing to fear, and nothing to be ashamed of.  We will not hide under our beds, full of fear.  Fear, on the contrary, compels us to push even harder for our human rights, which every person has.  We are here because we work hard to advance the wellbeing of our families.  </em></p><p><em>May this beautiful march manifest the truth that we are defending:  That fundamentally, each and every person deserves respect in this world.  We do not need to invoke God here.  Why?  Because I believe that the person who is the first to be present here today, who is walking at the very front of the march, is God himself.  Because God cares about the dignity of people.  So let us go forward with the blessing of God, and may every step we take in the streets of Immokalee today be a sign of our dignity and the blessing that accompanies us&#8230;</em></p></blockquote><p>Finally, the march &#8212; led by an indefatigable animation team (below) who provided an unbroken flow of music and cheers to keep the crowd moving (and who traveled the route on an agricultural flatbed truck on loan from a local crewleader) &#8212; began to roll down 2nd St in Immokalee, stretching out to cover several blocks of businesses and homes in the heart of town&#8230;</p><p style="text-align: center;"><img class="aligncenter size-full wp-image-26075" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee5-1.jpg" alt="" width="600" height="364" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee5-1.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee5-1-300x182.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p style="text-align: center;"><img class="aligncenter size-full wp-image-26067" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee0.jpg" alt="" width="600" height="434" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee0.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee0-300x217.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p><img class="aligncenter size-full wp-image-26069" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee1.jpg" alt="" width="600" height="332" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee1.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee1-300x166.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>&#8230; drawing the attention, and smiles, of local Immokalee residents!</p><p><img class="aligncenter size-full wp-image-26072" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee3.jpg" alt="" width="600" height="432" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee3.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee3-300x216.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>But that wasn&#8217;t the only response of those looking on from the sidelines.  As the march moved through town, more and more workers and their families joined the joyful crowd.  And as the march rounded the corner onto Main Street, the numbers &#8212; and the crowd&#8217;s collective energy &#8212; had practically doubled!</p><div id="attachment_26091" style="width: 611px" class="wp-caption aligncenter"><img class=" wp-image-26091" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards8.jpg" alt="" width="601" height="451" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards8.jpg 520w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee_Naples_Daily_News_Dorothy_Edwards8-300x225.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" /><p class="wp-caption-text">PHOTO CREDIT: Dorothy Edwards // Naples Daily News</p></div><p style="text-align: center;"><img class="aligncenter size-full wp-image-26133" src="http://ciw-online.org/wp-content/uploads/immok_march.jpg" alt="" width="600" height="403" srcset="http://ciw-online.org/wp-content/uploads/immok_march.jpg 600w, http://ciw-online.org/wp-content/uploads/immok_march-300x202.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p style="text-align: center;"><img class="aligncenter size-full wp-image-26077" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee6-1.jpg" alt="" width="600" height="736" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee6-1.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee6-1-245x300.jpg 245w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>The two-mile march wound through town and entered the final stretch back towards the CIW office, accompanied and supported by the Collier County Sheriff&#8217;s Office and, of course, the CIW&#8217;s own intrepid security team&#8230;</p><p><img class="aligncenter size-full wp-image-26066" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee0-1.jpg" alt="" width="600" height="355" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee0-1.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee0-1-300x178.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>Finally, when marchers arrived at the CIW Office, they were welcomed with cheers from the CIW Women&#8217;s Group &#8212; many of whom had led the way in preparing for the march in the weeks before &#8212; who then shared a closing message.  Here are just a few of the highlights from their inspiring call to action:</p><p><img class="aligncenter size-full wp-image-26068" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee1-1.jpg" alt="" width="600" height="422" srcset="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee1-1.jpg 600w, http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee1-1-300x211.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p><blockquote><p><strong>Nely Rodriguez:</strong>  We see many women here today&#8230; We are mothers, and we are workers.  We have families, which compels us to continue fighting and to demand respect from those who wish to erase us.  Many of us are the breadwinners of our homes.  We are strong, and moreover, we make a powerful contribution to the economy of this country.</p><p><strong>Silvia Perez:</strong>  Today is an important day, both here in the United States and all around the world, in other countries.  Many workers here took today to stay home from work, and we are proud to stand with them today, as parents, as workers.  And we will see you all again soon, because our fight continues!</p><p><strong>Marta Morgado:</strong>  It is beautiful to see so many people here, to see a united Immokalee.  We are here today because we are fighting for a better tomorrow for our children.  With all of the work we put in today, we know that tomorrow, it will yield greater respect for our work, better wages and conditions.  That is why it is important to go out, to protest, to continue showing the world our faces.  We must keep going forward.</p></blockquote><p>To wrap up today&#8217;s post, we can&#8217;t resist including a bonus photo album, with plenty more beautiful images from Monday&#8217;s inspiring May Day protest in Immokalee.  So sit back, click through, and enjoy!</p>
+<!-- Nextend Smart Slider 3 #10 - BEGIN -->
+<div class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-10" class="n2-ss-slider n2-ss-load-fade " data-minFontSizedesktopPortrait="4" data-minFontSizedesktopLandscape="4" data-minFontSizetabletPortrait="4" data-minFontSizetabletLandscape="4" data-minFontSizemobilePortrait="4" data-minFontSizemobileLandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1" style="">
+                        <div class="n2-ss-slider-2">
+                                <div class="n2-ss-slider-3">
+
+                    <div data-slide-duration="0" data-id="116" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-active" style=""><div data-hash="45336bc37cffcb30ff2be088d8484d54" data-desktop="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee2.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/2017_May_1st_Immokalee2.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="117" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="013de0b108e473cf03a257435e9b0e38" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_1395.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_1395.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="118" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="56a1607ebb9a5cc3811ed35d9ab236b0" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2523.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2523.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="119" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="b51e3a0267abd23061f0cd4d6d1a1edf" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2488.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2488.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="120" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="9a50e35517bfd2d9309b73ae8d6354ae" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2459.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2459.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="121" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="7f5ba92a3720143527165b787360c978" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2448.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2448.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="122" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="72d3014843b65813e7b94a27a5abdcb8" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2394.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2394.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="123" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="616faf456edd4cbd2d4c00c3b5229eaf" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2374.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2374.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="124" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="c0d0259423bb756ed441aa8a36571791" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2322.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2322.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="125" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="1e7a380abafecdda8746cb57049b31d3" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2254.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2254.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="126" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="dd9158fa4ae174559a351d3173571b3d" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2250.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2250.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="127" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="388c288b6ce4c74d686066955fa677eb" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2213.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2213.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="128" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="4196881627b5326635060d1757f11183" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2196.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2196.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="129" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="661f31dfc31e207ec6bd3fd50c9badd5" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2172.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2172.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="130" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="806955bc6224048b715909d525a72063" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2122.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2122.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="131" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="813ee6e557571cec636c396359781877" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_2112.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_2112.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="132" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="d3d8a22772fe5a18ffd380819f65cd87" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_1970.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_1970.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="133" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="b6b2cd0e4d165f2d193071980c0d1995" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_1962.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_1962.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="134" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="bf1a71990adce2adf97159694f420a17" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_1925.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_1925.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div><div data-slide-duration="0" data-id="135" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="3c73781b8f5a8d7f7ff5f39c4daaa180" data-desktop="http://ciw-online.org/wp-content/uploads/IMG_1874.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/IMG_1874.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""></div></div>                </div>
             </div>
-                                        <div class="region region-content">
-    <section id="block-system-main" class="block block-system clearfix">
+        </div>
+        <div data-ssleft="0+15" data-sstop="height/2-previousheight/2" id="n2-ss-10-arrow-previous" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-arrow n2-ib nextend-arrow-previous  nextend-arrow-animated-fade" style="position: absolute;"><img src="http://ciw-online.org/wp-content/plugins/nextend-smart-slider3-pro/library/media/plugins/widgetarrow/image/image/previous/thin-horizontal.svg" alt="" /></div><div data-ssright="0+15" data-sstop="height/2-nextheight/2" id="n2-ss-10-arrow-next" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-arrow n2-ib nextend-arrow-next  nextend-arrow-animated-fade" style="position: absolute;"><img src="http://ciw-online.org/wp-content/plugins/nextend-smart-slider3-pro/library/media/plugins/widgetarrow/image/image/next/thin-horizontal.svg" alt="" /></div>
+</div><div class="clear"></div></div></div><div id="n2-ss-10-placeholder" style="position: relative;z-index:2;"><img style="width: 100%; max-width:3000px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI0MDAiID48L3N2Zz4=" alt="" /></div>
+<!-- Nextend Smart Slider 3 #10 - END -->
 
-      
-  <div id="node-11629" class="node node-article clearfix">
+<div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div>	</div><!-- /.entry -->
+	<div class="fix"></div>
+</div><!-- /.post -->
 
-  
-        <div>
-	  <div class="article-meta col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-		<span class="author-line"><a href="/writers/lori-flores">Lori Flores</a></span> 
-		<span class="publish-date-time">&nbsp;<span class="date">Mar 31, 2014</span> <span class="time">7:00AM EDT</span></span>
-	   </div>
-   </div>
-   <div class="primary-image col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-   					<picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2014/03/huerta-and-women.jpg?itok=-TGIykxS&amp;timestamp=1429386402 1x" media="(min-width:1200px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2014/03/huerta-and-women.jpg?itok=-TGIykxS&amp;timestamp=1429386402 1x" media="(min-width:992px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/article_lead_normal/public/images/articles/2014/03/huerta-and-women.jpg?itok=-TGIykxS&amp;timestamp=1429386402 1x" media="(min-width:768px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/article_lead_mobile/public/images/articles/2014/03/huerta-and-women.jpg?itok=B0cP1H2C&amp;timestamp=1429386402 1x" media="(min-width:480px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/embedded_image/public/images/articles/2014/03/huerta-and-women.jpg?itok=J5NUk8Sq&amp;timestamp=1429386402 1x" media="(max-width:479px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/embedded_image/public/images/articles/2014/03/huerta-and-women.jpg?itok=J5NUk8Sq&amp;timestamp=1429386402" alt="" title="" />
-</picture>					<div class="article-mediacredit">
-				<span class="image-caption">Dolores Huerta and unidentified women at an open-air mass for striking farm workers during the Grape Strike, Delano, California, 1966.</span> <br /><span class="image-type">Photo: </span> <span class="image-credit">Walter P. Reuther Library</span>			</div>
-				</div>
-      <div class="article-content col-sm-9 col-xs-12">
-      
-            <div class="col-sm-4 share-this" role="complementary">
-      	 <section id="block-cl-share-cl-share" class="block block-cl-share clearfix">
 
-      
-  	<p class="h2">Share</p>
-	<div class="social-icons">
-		<div class="social-block">
-			<!--<a href="mailto://?from=&subject=" class="email-share" title="Share via Email"><span class="email-link">&nbsp;</span></a>
-			<span class="social-count">&nbsp;</span>-->
-		</div>
-		<!--<a class="social-share" title="Share on Instagram"><span class="instagram-link">&nbsp;</span></a>-->
-		<div class="social-block">
-			<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.colorlines.com%2Farticles%2Fneglected-heroines-c%C3%A9sar-ch%C3%A1vez" class="social-share facebook" rel="nofollow" title="Share on Facebook"><span class="facebook-link">&nbsp;</span></a>
-					</div>
-		<div class="social-block">
-			<a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.colorlines.com%2Farticles%2Fneglected-heroines-c%C3%A9sar-ch%C3%A1vez&via=colorlines" class="social-share twitter" title="Tweet this"><span class="twitter-link" rel="nofollow">&nbsp;</span></a>
-					</div>
-			</div>
+<div id="home-secondary-posts">
+
+<div class="post-26038 post type-post status-publish format-standard hentry category-top-stories tag-fair-food-program tag-james-brudney tag-los-angeles-times tag-osu tag-studentfarmworker-alliance tag-students tag-the-ohio-state-university tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/05/brudney-osu/"  title="&#8220;Voluntary codes like the one promulgated by Wendy’s are too often little more than a sham&#8230;&#8221;"><img src="http://ciw-online.org/wp-content/uploads/Audits_Donglasan_4711_600.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/05/brudney-osu/" rel="bookmark" title="&#8220;Voluntary codes like the one promulgated by Wendy’s are too often little more than a sham&#8230;&#8221;">&#8220;Voluntary codes like the one promulgated by Wendy’s are too often little more than a sham&#8230;&#8221;</a></h2>	<span class="entry-date">May 1st, 2017</span>
+	<div class="entry">
+	    <p>International labor rights expert James Brudney pens powerful op/ed for OSU campus newspaper comparing Fair Food Program and Wendy&#8217;s corporate code of conduct;On the FFP: &#8220;Twenty-five years ago, few observers in this country would have thought that what CIW and FFP have accomplished was conceivable&#8230; The FFP and CIW have secured basic labor standards protections for tens of thousands of tomato pickers.&#8221;On Wendy&#8217;s code: &#8220;Sadly, voluntary codes like the one promulgated by Wendy’s are too often little more than a sham.&#8221;Concludes: &#8220;I hope that at Ohio State, administrators can listen to the students’ concerns&#8230;&#8221;In today&#8217;s post, we are going to take a closer [&hellip;]</p>
+	</div><!-- /.entry -->
 	
-</section> <!-- /.block -->
-<section id="block-block-1" class="block block-block clearfix">
-
-      
-  <p> </p>
-
-</section> <!-- /.block -->
-      </div>
-            <div class="article-body col-sm-8 col-xs-12">
-      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Today would have been the late Mexican American labor leader César Chávez's 87th birthday, and over the weekend the biopic "César Chávez: An American Hero" premiered nationwide. Directed by Diego Luna, the film stars Michael Peña in the title role, America Ferrera as his wife Helen, Rosario Dawson as union organizer Dolores Huerta, and John Malkovich as a grape grower loathe to negotiating with his employees.</p>
-<p>Some have argued that the film indulges in hero worship and elides Chávez's personal flaws that hindered the United Farm Workers union's lasting success. Yet this truth lies outside the scope of the film, which focuses on the union's beginnings in the 1960s and Chávez's rise to international recognition. What the film does not indulge in, but should, are the stories of the women beside the man. In a myriad of ways, it was women who built the farmworker movement around Chávez, sustained it, and continue to lead its modern incarnation today.</p>
-<p>Despite being its main female characters, neither Dawson, nor Ferrera has a dramatic entrance in the film or delivers powerful dialogue, save for the depiction of Helen Chávez's arrest for shouting the prohibited Spanish term "Huelga!" (Strike!) on a picket line. The two women cross each other in scenes, sometimes exchanging a reassuring look or touch. In reality, their lives converged and diverged in interesting ways and shed light on the diversity of the Latina experience.</p>
-<p>Though they had different upbringings, both women began working to empower Mexican-American communities as young adults. Born in Brawley, Calif., in 1928 to Mexican migrant parents, Helen Fabela began working in the fields at the age of 7. She met César in high school and married him soon after. While the two were living in San Jose, it was she who convinced César to join the grassroots Community Service Organization (CSO) led by Fred Ross. Through that leadership experience, César saw organizing farmworkers as his next calling. Helen was equally committed to civil rights and volunteered extensively for the CSO, handling administrative duties, registering voters and helping migrants obtain their citizenship.</p>
-<p>Born only two years after Helen in Dawson, N.M., Dolores (Fernandez) Huerta experienced a more middle class adolescence and graduated from community college, a rare accomplishment for Mexican-American women in the 1950s. When a CSO chapter was founded in Stockton in 1955, Huerta registered voters, taught citizenship classes, and eventually became a paid legislative advocate for the organization in the state capitol. Rising in the organizational ranks, she met Chávez and eventually resigned from the CSO with him when the organization chose not to prioritize farmworker issues. Always flanking and advising César, Helen and Dolores had tremendous influence over him and the direction of their fledgling union.</p>
-<p>A striking difference between the two women, however, was their respective approaches to motherhood. Both women had several children--Helen eight, Dolores 11--but while Chávez chose to make the home her focus, Huerta often left her children in the care of others for long periods of time while she directed strikes and boycotts in California and New York. This personal choice was often criticized--a common experience of other women activists throughout history who balanced politics with family--as was her forceful style at the negotiating table, which overturned white male growers' racialized and gendered assumptions. "Dolores Huerta is crazy. She is a violent woman...Mexican women are usually peaceful and calm," one grower representative remarked.</p>
-<p>Huerta might have been perceived as the opposite of the "traditional" Mexican woman, but when one considers Chávez--who externally conformed more to the figure of the nurturing mother--one sees that she was quite disobedient and strategic herself. She was arrested four times and through her demonstrations of protest as a farmworker, wife, and mother, she brought women who might have self-identified as wives, mothers or daughters more than activists into the farmworker movement, politicizing them in a more subtle fashion. Women became the lifeblood of the union as it built its profile. Hope Lopez directed boycott activities in Philadelphia, persuading East Coast housewives to boycott stores selling non-union grapes. Jessica Govea, who began working in the fields at four and joined the UFW as a teenager, forced the union to start advocating for farmworkers' protection from harmful pesticides. She became the director of grape boycott operations in Montreal.</p>
-<p>"César Chávez" ends on July 29, 1970, an important day in the struggle of grape workers. That same day, the UFW began its next fight against the corporate world of lettuce. Over 180 growers in California's Salinas and Santa Maria Valleys decided to evade negotiations with Chávez by signing sweetheart contracts with the Teamsters union. When Chávez arrived in the Salinas Valley, he found men and women ready to fight. Lettuce workers had organized into strike committees and <em>freseras</em>, women strawberry workers, had brazenly converted their company-owned labor camps into makeshift <em>fabricas de banderas</em> (flag factories) to sew strike flags. Women of all ages stood on picket lines, and some suffered violence at the hands of Teamsters and anti-UFW protestors. At age 18 picketer Lupe Ortiz was punched in the mouth by a man in a moving car who tore away her union flag. Other women testified of being hurt in car chases and beatings. When Chávez defied a court-ordered picketing injunction at particular lettuce ranches, 15 women chose to get arrested with him. After a judge jailed Chávez for his actions, farmworkers' wives held 24-hour vigils outside the prison and created public altars in the beds of pickup trucks adorned with images of the Virgin of Guadalupe, candles, flowers, the Mexican and American flags, and pictures of Chávez, Martin Luther King, Jr. and Robert F. Kennedy.</p>
-<p>Chávez only stayed a leader because he had a following, and women helped sustain that following by involving themselves and their families in the union, maintaining strikers' morale when Chávez was absent, and risking their own safety and liberty because they could imagine a greater liberty. Women were not, to use a theatrical term, "extras" in the farmworker struggle--they were principal players. Today, the laboring conditions and wages of farmworkers have largely regressed to what they were in pre-UFW days. The farmworker movement continues, and women continue to lead it by speaking out for labor, migrant, and food justice and fighting against sexual harassment and rape in the fields, gender discrimination, and pesticide use.</p>
-<p>The secondary theme of "César Chávez" is that of the father-son relationship, paralleled in the lives of Chávez and Malkovich's character. At several points various characters reference the concept of machismo and what it means to be a man protecting his dreams. If Rosario Dawson makes good on her wish to bring Dolores Huerta's life to the silver screen, how might that future "heroine" film approach themes of gender and empowerment and what it means to be a woman protecting her dreams? How can we, and when will we, start moving women's histories and activism from the margins to the center? Both in and out of Hollywood, pondering those questions would serve us well.</p>
-<p><em>Lori Flores is assistant professor of history at the State University of New York at Stony Brook, with a forthcoming book on the history of Mexican-Americans and the making of agricultural California.</em></p>
-<p><em>*Post has been updated since publication. </em></p>
-</div></div></div>            <div class="article-tags">
-      <div class="field field-name-field-cl-tag field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/tags/dolores-huerta">Dolores Huerta</a></div><div class="field-item odd"><a href="/tags/helen-chavez">Helen Chavez</a></div><div class="field-item even"><a href="/tags/ufw">UFW</a></div><div class="field-item odd"><a href="/tags/c%C3%A9sar-ch%C3%A1vez-1">César Chávez</a></div></div></div>      </div>
-      <hr class="divider" />
-	              </div>
-      </div>
-            <aside class="col-sm-3" role="complementary">
-      	 <section id="block-views-front-page-banners-block-1" class="block block-views clearfix">
-
-      
-  <div class="view view-front-page-banners view-id-front_page_banners view-display-id-block_1 view-dom-id-116c1e49dee04c46082af29bd2d35e87">
-        
-  
-  
-      <div class="view-content">
-        <a href="https://www.colorlines.com/donate/2017springside">
-	<picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31786-2017-spring-fundraising.jpg?itok=NB3l6l8K&amp;timestamp=1491350524 1x" media="(min-width:1200px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31786-2017-spring-fundraising.jpg?itok=NB3l6l8K&amp;timestamp=1491350524 1x" media="(min-width:992px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31786-2017-spring-fundraising.jpg?itok=NB3l6l8K&amp;timestamp=1491350524 1x" media="(min-width:768px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_700/public/images/banners/31786-2017-spring-fundraising.jpg?itok=3c08rqHl&amp;timestamp=1491350524 1x" media="(min-width:480px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31786-2017-spring-fundraising.jpg?itok=NB3l6l8K&amp;timestamp=1491350524 1x" media="(max-width:479px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31786-2017-spring-fundraising.jpg?itok=NB3l6l8K&amp;timestamp=1491350524" alt="Text: Support Colorlines. Let&#039;s be stronger together. Image: Two arms raised, clasped at hands amidst text on twining banner. Lines of purple flowers flow outward in background." title="" />
-</picture></a>    </div>
-  
-  
-  
-  
-  
-  
-</div>
-</section> <!-- /.block -->
-<section id="block-apachesolr-search-mlt-002" class="block block-apachesolr-search clearfix">
-
-        <h2 class="block-title">Related Articles</h2>
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/05/brudney-osu/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-26009 post type-post status-publish format-standard hentry category-top-stories tag-barry-university tag-fair-food-program tag-fasting tag-georgetown-university tag-john-carroll-university tag-notre-dame-university tag-studentfarmworker-alliance tag-students tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/04/we-are-called-to-honor-human-dignity/"  title="&#8220;We are called to honor human dignity for all, to honor the dignity of work&#8230;&#8221;"><img src="http://ciw-online.org/wp-content/uploads/gu_fast-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/we-are-called-to-honor-human-dignity/" rel="bookmark" title="&#8220;We are called to honor human dignity for all, to honor the dignity of work&#8230;&#8221;">&#8220;We are called to honor human dignity for all, to honor the dignity of work&#8230;&#8221;</a></h2>	<span class="entry-date">April 28th, 2017</span>
+	<div class="entry">
+	    <p>Dozens of students from Catholic universities join rolling student fast, call on Ohio State University President Michael Drake to keep his word to OSU students and help protect farmworkers&#8217; fundamental human rights!Just as Vanderbilt students broke their 7-day fast earlier this week, dozens of students from four Catholic universities &#8212; John Carroll University, Barry University, Georgetown University, and the University of Notre Dame &#8212; picked up the torch and organized a series of consecutive 48-hour fasts to carry the national protest action through the weekend.  By bringing the rolling student fast to the hallowed halls of these highly-respected religious institutions, these students [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/we-are-called-to-honor-human-dignity/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25978 post type-post status-publish format-standard hentry category-top-stories">
+<a href="http://www.ciw-online.org/blog/2017/04/students-osu-nashville-march-on-administration/"  title="&#8220;Justice delayed is justice denied!&#8221;  Students at OSU, Vanderbilt march on administration offices to press for resolution in fight to cut Wendy&#8217;s contracts&#8230;"><img src="http://ciw-online.org/wp-content/uploads/Vanderbilt_breaks_fast_April_20170-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/students-osu-nashville-march-on-administration/" rel="bookmark" title="&#8220;Justice delayed is justice denied!&#8221;  Students at OSU, Vanderbilt march on administration offices to press for resolution in fight to cut Wendy&#8217;s contracts&#8230;">&#8220;Justice delayed is justice denied!&#8221;  Students at OSU, Vanderbilt march on administration offices to press for resolution in fight to cut Wendy&#8217;s contracts&#8230;</a></h2>	<span class="entry-date">April 26th, 2017</span>
+	<div class="entry">
+	    <p>&#8220;Food without justice is no food at all&#8221;&#8230;  Vanderbilt students (above) break 7-day fast, deliver 600 petition signatures and one powerful message to Chancellor Nicholas Zeppos;Ohio State students march through campus to President Michael Drake&#8217;s doorstep!  Yesterday, for thousands of students at Ohio State University in Columbus and Vanderbilt University in Nashville, the semester ended with a bang, not to mention an unforgettable lesson in human rights and food justice!After years of building widespread support for the Wendy&#8217;s Boycott at their universities (both of which hold contracts with Wendy&#8217;s), and years of being sidestepped by university administrators, student leaders at OSU and [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/students-osu-nashville-march-on-administration/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25948 post type-post status-publish format-standard hentry category-top-stories tag-georgetown-university tag-john-carroll-university tag-student-fast tag-university-of-notre-dame tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/04/catholic-universities-take-on-fast/"  title="Roll on!  University of Notre Dame, Georgetown University, John Carroll University to join national student fast&#8230;"><img src="http://ciw-online.org/wp-content/uploads/Notre_Dame_student_fasters-150x150.png" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/catholic-universities-take-on-fast/" rel="bookmark" title="Roll on!  University of Notre Dame, Georgetown University, John Carroll University to join national student fast&#8230;">Roll on!  University of Notre Dame, Georgetown University, John Carroll University to join national student fast&#8230;</a></h2>	<span class="entry-date">April 24th, 2017</span>
+	<div class="entry">
+	    <p>Students at several of country&#8217;s largest Catholic universities unite to announce series of rolling 48-hour fasts throughout this week! PLUS:  Read the reflections of Vanderbilt, Tampa Bay, Ohio State students as they come together with CIW members to discuss the groundbreaking fast for farmworker justice&#8230;It&#8217;s going to be another big week of news from the student organizing front this week, as a growing wave of student activism in support of the Wendy&#8217;s Boycott &#8212; set in motion by the weeklong student fast on the campus of Ohio State University last month &#8212; continues to roll out to universities across the nation.Today, we bring you breaking news from the campuses of three of the country&#8217;s [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/catholic-universities-take-on-fast/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25924 post type-post status-publish format-standard hentry category-top-stories tag-boot-the-braids tag-fair-food-program tag-fast tag-nashville tag-studentfarmworker-alliance tag-students tag-vanderbilt-university tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/04/as-rolling-student-fast-enters-second-month-vanderbilt-students-answer-the-call-loud-and-clear/"  title="As rolling student fast enters second month, Vanderbilt students answer the call loud and clear!"><img src="http://ciw-online.org/wp-content/uploads/Nashville_Fast_0-1-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/as-rolling-student-fast-enters-second-month-vanderbilt-students-answer-the-call-loud-and-clear/" rel="bookmark" title="As rolling student fast enters second month, Vanderbilt students answer the call loud and clear!">As rolling student fast enters second month, Vanderbilt students answer the call loud and clear!</a></h2>	<span class="entry-date">April 21st, 2017</span>
+	<div class="entry">
+	    <p>Like Tampa area fast, Vanderbilt action snowballs, doubles within days of launch and catches the attention of University administration, local media&#8230;Following yesterday&#8217;s exciting news of the series of 3-day fasts rolling through university campuses in the Tampa Bay region &#8212; and of the critical call to action from students at OSU &#8212; we have yet another inspiring update today, this time from the parallel student action taking place in Nashville at Vanderbilt University!  But first&#8230; A call to action to support OSU student leaders!Quickly, before we jump into the action in Tennessee, we want to remind everyone that makes up the vast Fair [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/as-rolling-student-fast-enters-second-month-vanderbilt-students-answer-the-call-loud-and-clear/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25901 post type-post status-publish format-standard hentry category-top-stories">
+<a href="http://www.ciw-online.org/blog/2017/04/boot-the-braids-ut-usf-osf/"  title="Boot the Braids campaigns surge in Columbus, Tampa Bay!"><img src="http://ciw-online.org/wp-content/uploads/18034189_293191377768729_987433343990727384_n-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/boot-the-braids-ut-usf-osf/" rel="bookmark" title="Boot the Braids campaigns surge in Columbus, Tampa Bay!">Boot the Braids campaigns surge in Columbus, Tampa Bay!</a></h2>	<span class="entry-date">April 20th, 2017</span>
+	<div class="entry">
+	    <p>Number of fasting students doubles overnight in Tampa, as news of Wendy&#8217;s unconscionable failure to respect Florida farmworkers&#8217; human rights spreads across campuses!&#8230;Plus, CALL TO ACTION: Ohio State students call for Fair Food Nation to send videos to OSU administration before Sunday&#8230;The rising tide of student action following last month&#8217;s Return to Human Rights Tour hit yet another high water mark this week, with major developments in the national Boot the Braids Campaign taking shape on campuses in both Columbus, Ohio, and the Tampa Bay area here in Florida (with still much more to come from Vanderbilt University in Nashville, TN, too!). Early this week, [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/boot-the-braids-ut-usf-osf/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25864 post type-post status-publish format-standard hentry category-top-stories tag-boot-the-braids tag-fast tag-new-college tag-ohio-state-university tag-student tag-studentfarmworker-alliance tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/04/student-fast-new-college-tampa-vanderbilt/"  title="PHOTO REPORT: Nationwide student fast keeps rolling!"><img src="http://ciw-online.org/wp-content/uploads/IMG_2827-600-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/student-fast-new-college-tampa-vanderbilt/" rel="bookmark" title="PHOTO REPORT: Nationwide student fast keeps rolling!">PHOTO REPORT: Nationwide student fast keeps rolling!</a></h2>	<span class="entry-date">April 18th, 2017</span>
+	<div class="entry">
+	    <p>New College, Valencia College students break five-day fast, vow to continue the Campaign:  &#8220;This University will continue to fight for the rights of farmworkers, and for all human rights&#8221;&#8230;Students at Vanderbilt, University of Tampa, Eckerd College and University of South Florida take up the torch as national rolling student fast for farmworker justice continues!After five long days of fasting &#8212; an act that inspired more than 80 of their fellow New College students, as well as college President Donal O&#8217;Shea, to fast alongside them &#8212; five students from New College of Florida and Valencia College broke bread with farmworkers from Immokalee on Good Friday following a picket [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/student-fast-new-college-tampa-vanderbilt/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25839 post type-post status-publish format-standard hentry category-top-stories">
+<a href="http://www.ciw-online.org/blog/2017/04/new-college-fast/"  title="New College students launch 5-day fast, win support of college President Donal O&#8217;Shea and scores of Florida students pledging to Boycott Wendy&#8217;s!"><img src="http://ciw-online.org/wp-content/uploads/pres_oshea-1-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/new-college-fast/" rel="bookmark" title="New College students launch 5-day fast, win support of college President Donal O&#8217;Shea and scores of Florida students pledging to Boycott Wendy&#8217;s!">New College students launch 5-day fast, win support of college President Donal O&#8217;Shea and scores of Florida students pledging to Boycott Wendy&#8217;s!</a></h2>	<span class="entry-date">April 13th, 2017</span>
+	<div class="entry">
+	    <p>The local Sarasota SNN TV station breaks the news of New College students fasting in support of the Wendy&#8217;s Boycott.Nationwide rolling fast for farmworker justice hits Florida&#8230;Students at New College in Sarasota declare: &#8220;I’m fasting to stand in solidarity with Ohio State students as they fight with their administration to get Wendy’s off their campus, and in solidarity with the Coalition of Immokalee Workers and all of the work that they have been doing for over 20 years to get farmworkers the basic human rights that they deserve&#8230;&#8221;This week, students at New College of Florida and Valencia College launched a five-day fast [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/new-college-fast/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25822 post type-post status-publish format-standard hentry category-top-stories tag-fair-food-program tag-studentfarmworker-alliance tag-students tag-the-ohio-state-university tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/04/osu-board-trustees/"  title="&#8220;Keep your word! Cut the contract with Wendy&#8217;s!&#8221; OSU students take demands to Board of Trustees meeting!"><img src="http://ciw-online.org/wp-content/uploads/IMG_6148_600-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/osu-board-trustees/" rel="bookmark" title="&#8220;Keep your word! Cut the contract with Wendy&#8217;s!&#8221; OSU students take demands to Board of Trustees meeting!">&#8220;Keep your word! Cut the contract with Wendy&#8217;s!&#8221; OSU students take demands to Board of Trustees meeting!</a></h2>	<span class="entry-date">April 10th, 2017</span>
+	<div class="entry">
+	    <p>PLUS: Students at New College of Florida begin five-day fast in solidarity with OSU&#8217;s Boot the Braids campaign!Last month, farmworkers from Immokalee and hundreds of allies converged on Columbus, Ohio, for a major mobilization and parade at the peak of the Return to Human Rights Tour, just as 19 students and alumni of OSU broke a 7-day fast for farmworker justice:But although the fast ended that day, students at OSU &#8212; and across the country &#8212; were in fact just getting started.  Just a day after last week&#8217;s reflection on this website on the relationship between Ohio State University and the Wendy&#8217;s Corporation, OSU&#8217;s President Michael Drake [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/osu-board-trustees/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25793 post type-post status-publish format-standard hentry category-top-stories tag-fair-food-program tag-ohio-state-university tag-wendys-boycott tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/04/osu-and-wendys/"  title="OSU and Wendy&#8217;s: Taking stock of a troubled relationship&#8230;"><img src="http://ciw-online.org/wp-content/uploads/dci-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/osu-and-wendys/" rel="bookmark" title="OSU and Wendy&#8217;s: Taking stock of a troubled relationship&#8230;">OSU and Wendy&#8217;s: Taking stock of a troubled relationship&#8230;</a></h2>	<span class="entry-date">April 6th, 2017</span>
+	<div class="entry">
+	    <p>Or if you prefer your proverbs biblical, &#8220;Do not be deceived: Bad company corrupts good character.&#8221; (1 Corinthians, 15:33)After Wendy&#8217;s latest public relations play, OSU administration must decide how far it will allow its fast-food partner to drag a proud university down into the mud&#8230;Benjamin Franklin&#8217;s Poor Richard&#8217;s Almanac is generally credited with popularizing the colorful aphorism, &#8220;He that lieth down with the dogs shall rise up with fleas.&#8221;  It is an age old proverb that is widely understood to mean that one should choose carefully the company one keeps, lest the sins of your associates become your own in the eyes of the public.And in the wake of the most recent [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/osu-and-wendys/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25780 post type-post status-publish format-standard hentry category-top-stories">
+<a href="http://www.ciw-online.org/blog/2017/04/r2hr-media-roundup/"  title="Hot off the press!  The full media round-up from the Return to Human Rights Tour is here&#8230;"><img src="http://ciw-online.org/wp-content/uploads/tampa_times-1-150x118.jpg" alt=""  width="150"  height="118"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/04/r2hr-media-roundup/" rel="bookmark" title="Hot off the press!  The full media round-up from the Return to Human Rights Tour is here&#8230;">Hot off the press!  The full media round-up from the Return to Human Rights Tour is here&#8230;</a></h2>	<span class="entry-date">April 4th, 2017</span>
+	<div class="entry">
+	    <p>Ohio State student fasters: “With this fast, we wanted to send the signal loud and clear [to Wendy&#8217;s] that as consumers, we care about where our food comes from&#8230;&#8221;Hitting 14 cities in 14 days, and featuring a week-long fast by 19 courageous students and alumni at Ohio State University, the Return to Human Rights Tour undoubtedly established the high-water mark in the year-old Wendy&#8217;s Boycott.  For one frenetic fortnight in March, thousands of consumers in state after state &#8212; from student fasters and local labor leaders to determined clergy and consumers of conscience of every stripe &#8212; joined forces with the tour crew and amplified the CIW&#8217;s message to Wendy&#8217;s: [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/04/r2hr-media-roundup/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25730 post type-post status-publish format-standard hentry category-top-stories tag-florida tag-publix tag-return-to-human-rights-tour tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/03/a-tampa-twofer-return-to-human-rights-tour-wraps-up-with-a-huge-march-rally-at-tampa-wendys-publix/"  title="A Tampa Twofer!  Return to Human Rights Tour wraps up with a huge march, rally at Tampa Wendy&#8217;s, Publix&#8230;"><img src="http://ciw-online.org/wp-content/uploads/IMG_2411-sm-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/03/a-tampa-twofer-return-to-human-rights-tour-wraps-up-with-a-huge-march-rally-at-tampa-wendys-publix/" rel="bookmark" title="A Tampa Twofer!  Return to Human Rights Tour wraps up with a huge march, rally at Tampa Wendy&#8217;s, Publix&#8230;">A Tampa Twofer!  Return to Human Rights Tour wraps up with a huge march, rally at Tampa Wendy&#8217;s, Publix&#8230;</a></h2>	<span class="entry-date">March 31st, 2017</span>
+	<div class="entry">
+	    <p>Nearly 300 exuberant Fair Food supporters turn out to welcome the Return to Human Rights Tour back to Florida with a rocking rally and march through Tampa!Now that is what we call a warm, down-home welcome:More than two weeks after embarking on an odyssey that would ultimately cover 14 states and over 2,000 miles, the Return to Human Rights Tour crew was given a heroes&#8217; welcome by nearly 300 of their closest friends in Tampa on Wednesday, including a massive march (above) from a Publix store to a Wendy&#8217;s restaurant, a joyous rally looking to a future of an ever more [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/03/a-tampa-twofer-return-to-human-rights-tour-wraps-up-with-a-huge-march-rally-at-tampa-wendys-publix/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25708 post type-post status-publish format-standard hentry category-top-stories">
+<a href="http://www.ciw-online.org/blog/2017/03/a-hard-rains-a-gonna-fall/"  title="&#8220;It&#8217;s a hard rain&#8217;s gonna fall&#8230;&#8221;"><img src="http://ciw-online.org/wp-content/uploads/columbus_41-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/03/a-hard-rains-a-gonna-fall/" rel="bookmark" title="&#8220;It&#8217;s a hard rain&#8217;s gonna fall&#8230;&#8221;">&#8220;It&#8217;s a hard rain&#8217;s gonna fall&#8230;&#8221;</a></h2>	<span class="entry-date">March 28th, 2017</span>
+	<div class="entry">
+	    <p>The Photo Report from Sunday&#8217;s Parade for Human Rights in Columbus, Ohio, is here, and from the looks of things, a hard rain is coming for those who would stand in the way of farmworkers&#8217; fundamental rights!In what would become an unforgettable march celebrating the end of the week-long fast by students and alumni at The Ohio State University &#8212; and the start of a rolling fast of students across the Fair Food Nation in support of the Wendy&#8217;s Boycott &#8212; nearly 500 farmworkers and their consumer allies braved cold winds and a soaking rainstorm to march three miles through [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/03/a-hard-rains-a-gonna-fall/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25408 post type-post status-publish format-standard hentry category-r2hr category-top-stories tag-campaign-for-fair-food tag-corporate-social-responsibility tag-return-to-human-rights-tour tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/03/its-still-a-pig/"  title="It&#8217;s still a pig&#8230;"><img src="http://ciw-online.org/wp-content/uploads/lipstick_pig2-150x150.jpg" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/03/its-still-a-pig/" rel="bookmark" title="It&#8217;s still a pig&#8230;">It&#8217;s still a pig&#8230;</a></h2>	<span class="entry-date">March 3rd, 2017</span>
+	<div class="entry">
+	    <p>Wendy&#8217;s latest public relations ploy in response to Campaign for Fair Food isn&#8217;t fooling anyone&#8230;Sometimes, you just have to hand it to Wikipedia.  It can be a wonderful resource, with clear, concise definitions of just about every concept under the sun.  Here’s a good example, brought to mind by the very latest news out of Wendy’s public relations department:Lipstick on a pig &#8211; Wikipedia To put &#8220;lipstick on a pig&#8221; is a rhetorical expression, used to convey the message that making superficial or cosmetic changes is a futile attempt to disguise the true nature of a product.The latest &#8220;news&#8221; from Wendy’s PR shop&#8230; Earlier this [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/03/its-still-a-pig/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
+<div class="post-25286 post type-post status-publish format-standard hentry category-top-stories tag-fair-food-program tag-super-bowl tag-super-bowl-li tag-wendys">
+<a href="http://www.ciw-online.org/blog/2017/02/super-bowl-wendys/"  title="MUST-SEE Super Bowl Adbust: Farmworkers expertly take down Wendy&#8217;s $5 million &#8220;Cold as Ice&#8221; commercial!"><img src="http://ciw-online.org/wp-content/uploads/Screen-Shot-2017-02-05-at-9.43.02-PM-150x150.png" alt=""  width="150"  height="150"  class="woo-image thumbnail alignleft" /></a><h2 class="title"><a href="http://www.ciw-online.org/blog/2017/02/super-bowl-wendys/" rel="bookmark" title="MUST-SEE Super Bowl Adbust: Farmworkers expertly take down Wendy&#8217;s $5 million &#8220;Cold as Ice&#8221; commercial!">MUST-SEE Super Bowl Adbust: Farmworkers expertly take down Wendy&#8217;s $5 million &#8220;Cold as Ice&#8221; commercial!</a></h2>	<span class="entry-date">February 6th, 2017</span>
+	<div class="entry">
+	    <p>Facebook, Twitter blow up with Fair Food version of Wendy&#8217;s big Super Bowl ad buy! $5 million for 30 seconds of Super Bowl airtime could fund more than 5 years of fairer wages and humane working conditions for workers picking Wendy&#8217;s tomatoes through the Fair Food Program&#8230; In the event that you were watching the Super Bowl yesterday, you may have caught Wendy&#8217;s 30 second ad that aired shortly before halftime.  The ad emphasized two aspects of Wendy&#8217;s concerted strategy to re-invent its public image: an emphasis on &#8220;quality&#8221; ingredients and a cheeky Twitter game.  In case you didn&#8217;t catch it the first time, [&hellip;]</p>
+	</div><!-- /.entry -->
+	
+<span class="read-more"><a href="http://www.ciw-online.org/blog/2017/02/super-bowl-wendys/">Read More &raquo;</a></span><div class="fix"></div>
+</div><!-- /.post -->
     
-  <div class="view view-related-articles view-id-related_articles view-display-id-solr_mlt section-block view-dom-id-039561571ef331de589b0925c63db2f3">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-    	<div class="related entry-content">
-						<div class="entry-img">
-			<div class="field-content"><a href="/articles/ch%C3%A1vez-brought-you-budweiser"><picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/04/041514-chavez.jpg?itok=vPSGqWfb&amp;timestamp=1429386402 1x" media="(min-width:480px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/04/041514-chavez.jpg?itok=vPSGqWfb&amp;timestamp=1429386402" alt="" title="" />
-</picture></a></div>		</div>
-				<p class="title">
-			<span class="field-content"><a href="/articles/ch%C3%A1vez-brought-you-budweiser">&#039;Chávez,&#039; Brought to You by Budweiser</a></span>		</p>
-	</div>
-  </div>
-  <div class="views-row views-row-2 views-row-even">
-    	<div class="related entry-content">
-						<div class="entry-img">
-			<div class="field-content"><a href="/articles/dolores-huerta-clarifies-c%C3%A9sar-ch%C3%A1vezs-views-undocumented-immigrants"><picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/03/huerta023814.jpg?itok=TAXqY3Vu&amp;timestamp=1429386402 1x" media="(min-width:480px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/03/huerta023814.jpg?itok=TAXqY3Vu&amp;timestamp=1429386402" alt="" title="" />
-</picture></a></div>		</div>
-				<p class="title">
-			<span class="field-content"><a href="/articles/dolores-huerta-clarifies-c%C3%A9sar-ch%C3%A1vezs-views-undocumented-immigrants">Dolores Huerta Clarifies César Chávez&#039;s Views of Undocumented Immigrants</a></span>		</p>
-	</div>
-  </div>
-  <div class="views-row views-row-3 views-row-odd">
-    	<div class="related entry-content">
-						<div class="entry-img">
-			<div class="field-content"><a href="/articles/c%C3%A9sar-ch%C3%A1vez-and-forgotten-filipino-farmworkers"><picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/03/ufw1977032814.jpg?itok=UGFUGpxJ&amp;timestamp=1429386402 1x" media="(min-width:480px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/03/ufw1977032814.jpg?itok=UGFUGpxJ&amp;timestamp=1429386402" alt="" title="" />
-</picture></a></div>		</div>
-				<p class="title">
-			<span class="field-content"><a href="/articles/c%C3%A9sar-ch%C3%A1vez-and-forgotten-filipino-farmworkers">César Chávez and the Forgotten Filipino Farmworkers</a></span>		</p>
-	</div>
-  </div>
-  <div class="views-row views-row-4 views-row-even">
-    	<div class="related entry-content">
-						<div class="entry-img">
-			<div class="field-content"><a href="/articles/faces-cesar-ch%C3%A1vezs-united-farm-worker-movement"><picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/03/cesarchavezmain032514.jpg?itok=X-_c-0Te&amp;timestamp=1429386402 1x" media="(min-width:480px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2014/03/cesarchavezmain032514.jpg?itok=X-_c-0Te&amp;timestamp=1429386402" alt="" title="" />
-</picture></a></div>		</div>
-				<p class="title">
-			<span class="field-content"><a href="/articles/faces-cesar-ch%C3%A1vezs-united-farm-worker-movement">The Faces of Cesar Chávez&#039;s United Farm Worker Movement</a></span>		</p>
-	</div>
-  </div>
-  <div class="views-row views-row-5 views-row-odd views-row-last">
-    	<div class="related entry-content">
-						<div class="entry-img">
-			<div class="field-content"><a href="/articles/obama-awards-highest-honor-toni-morrison-dolores-huerta-photos"><picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2012/05/toni-morrison-1-award.jpg?itok=W9kh0S7P&amp;timestamp=1429386402 1x" media="(min-width:480px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/teaser_thumb/public/images/articles/2012/05/toni-morrison-1-award.jpg?itok=W9kh0S7P&amp;timestamp=1429386402" alt="" title="" />
-</picture></a></div>		</div>
-				<p class="title">
-			<span class="field-content"><a href="/articles/obama-awards-highest-honor-toni-morrison-dolores-huerta-photos">Obama Awards Highest Honor to Toni Morrison, Dolores Huerta [Photos]</a></span>		</p>
-	</div>
-  </div>
-    </div>
-  
-  
-  
-  
-  
-  
+    <h4 style="text-transform:uppercase; margin-right:45px;" align="right"><a href="http://ciw-online.org/category/news/">Recent news archives »</a></h4>
+ 
+ </div>
+
+                                </div><!-- /#main -->                            <div id="sidebar">
+<div class="widget widget_woo_search"><div class="search_main">
+    <form method="get" class="searchform" action="http://ciw-online.org/">
+        <input class="field s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" type="text">
+        <input src="http://ciw-online.org/wp-content/themes/canvas/images/ico-search.png" alt="Search" class="submit" name="submit" type="image">
+            </form>    
 </div>
-</section> <!-- /.block -->
-<section id="block-views-front-page-banners-block-2" class="block block-views clearfix">
-
-      
-  <div class="view view-front-page-banners view-id-front_page_banners view-display-id-block_2 view-dom-id-e661d6e0bbd2932d7e5aa2632b8406f6">
-        
-  
-  
-      <div class="view-content">
-        <a href="https://facingrace.raceforward.org">
-	<picture >
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31466-facing-race-2018-top.jpg?itok=HuSpdl1g&amp;timestamp=1490373448 1x" media="(min-width:1200px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31466-facing-race-2018-top.jpg?itok=HuSpdl1g&amp;timestamp=1490373448 1x" media="(min-width:992px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31466-facing-race-2018-top.jpg?itok=HuSpdl1g&amp;timestamp=1490373448 1x" media="(min-width:768px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_700/public/images/banners/31466-facing-race-2018-top.jpg?itok=osmVgwj3&amp;timestamp=1490373448 1x" media="(min-width:480px)" />
-<source srcset="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31466-facing-race-2018-top.jpg?itok=HuSpdl1g&amp;timestamp=1490373448 1x" media="(max-width:479px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://www.colorlines.com/sites/default/files/styles/banner_380/public/images/banners/31466-facing-race-2018-top.jpg?itok=HuSpdl1g&amp;timestamp=1490373448" alt="Background: Line drawings of fist, elevated train, buildings, and flowers. Text: Facing Race. November 8-10, 2018. Presented by Race Forward. Learn More." title="" />
-</picture></a>    </div>
-  
-  
-  
-  
-  
-  
 </div>
-</section> <!-- /.block -->
-      </aside>
-        <!--<div class="article-tags"><div class="field field-name-field-cl-tag field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/tags/dolores-huerta">Dolores Huerta</a></div><div class="field-item odd"><a href="/tags/helen-chavez">Helen Chavez</a></div><div class="field-item even"><a href="/tags/ufw">UFW</a></div><div class="field-item odd"><a href="/tags/c%C3%A9sar-ch%C3%A1vez-1">César Chávez</a></div></div></div></div>-->
-
+<div class="widget social-icons">
+<a href="http://twitter.com/ciw" title="Twitter" class="social-icon" target="_blank"><img src="http://www.ciw-online.org/wp-content/themes/ciw-child/images/icon-twitter.png"></a>
+<a href="http://www.facebook.com/CIWonFB" title="Facebook" class="social-icon" target="_blank"><img src="http://www.ciw-online.org/wp-content/themes/ciw-child/images/icon-fb.png"></a>
+<a href="http://ciw-online.org/feed/" title="RSS Feed" class="social-icon" target="_blank"><img src="http://www.ciw-online.org/wp-content/themes/ciw-child/images/icon-rss.png"></a>
 </div>
+<div class="fix"></div>
 
-</section> <!-- /.block -->
-  </div>
-    </section>
+	<div id="smartslider3-3" class="widget widget_smartslider3"><h3>HIGHLIGHTS</h3>
+<!-- Nextend Smart Slider 3 #2 - BEGIN -->
+<div class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" class="n2-ss-slider n2-ss-load-fade " data-minFontSizedesktopPortrait="4" data-minFontSizedesktopLandscape="4" data-minFontSizetabletPortrait="4" data-minFontSizetabletLandscape="4" data-minFontSizemobilePortrait="4" data-minFontSizemobileLandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1" style="">
+                        <div class="n2-ss-slider-2">
+                                <div class="n2-ss-slider-3">
 
-    
-  </div>
-</div>
-</div><!-- /.main-container /.container -->
-<footer class="footer hidebar">
-	<div class="container">
-		<div class="row">
-				
+                    <div data-slide-duration="0.1" data-id="13" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-active" style=""><div data-hash="30c86ec3885c00b83696f4c99962bba5" data-desktop="http://ciw-online.org/wp-content/uploads/bioparques3-2.jpg" style="background-color: #ffffff;background-color: RGBA(255, 255, 255, 0.5);" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/bioparques3-2.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://www.ciw-online.org/blog/2016/03/harpers-magazine/" n2click="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:25px;top:258px;width:450px;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Explosive new article in Harpers Ma" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="25" data-desktopportraittop="258" data-desktopportraitwidth="450" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><div class="n2-ss-mobile"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">Explosive new article in Harper’s Magazine reveals <b>Wendy’s tomato supplier in Mexico…</b></p>
+</div><div class="n2-ss-tablet"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">Explosive new article in Harper’s Magazine reveals <b>Wendy’s tomato supplier in Mexico…</b></p>
+</div><div class="n2-ss-desktop"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">Explosive new article in Harper’s Magazine reveals <b>Wendy’s tomato supplier in Mexico…</b></p>
+</div></div></div></div><div data-slide-duration="0.1" data-id="11" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="d4b933fd6925e24f5b93ac6c144baca5" data-desktop="http://ciw-online.org/wp-content/uploads/FFP_SOTP_2015_Cover_TOP.png" style="background-color: #ffffff;background-color: RGBA(255, 255, 255, 0.5);" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/FFP_SOTP_2015_Cover_TOP.png" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://www.ciw-online.org/blog/2016/02/hot-off-the-press/" n2click="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:33px;top:286px;width:467px;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="bHOT OFF THE PRESSb The 2015 Fair F" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="33" data-desktopportraittop="286" data-desktopportraitwidth="467" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><div class="n2-ss-mobile"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading "><b>HOT OFF THE PRESS</b>: The 2015 Fair Food Program Annual Report is here!</p>
+</div><div class="n2-ss-tablet"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading "><b>HOT OFF THE PRESS</b>: The 2015 Fair Food Program Annual Report is here!</p>
+</div><div class="n2-ss-desktop"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading "><b>HOT OFF THE PRESS</b>: The 2015 Fair Food Program Annual Report is here!</p>
+</div></div></div></div><div data-slide-duration="0.1" data-id="7" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="488ce13c44b8697015024aa4f722010b" data-desktop="http://ciw-online.org/wp-content/uploads/sunday_morning_logo_120605.jpg" style="background-color: #ffffff;background-color: RGBA(255, 255, 255, 0.5);" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/sunday_morning_logo_120605.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://www.ciw-online.org/blog/2015/08/cbs-sunday-morning-response/" n2click="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:50px;top:222px;width:400px;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="bCBS News Sunday Morning bHow the F" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="50" data-desktopportraittop="222" data-desktopportraitwidth="400" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><div class="n2-ss-desktop n2-ss-mobile n2-ss-tablet"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading "><b>CBS News Sunday Morning: </b>“How the Fair Food Program is making a difference for struggling migrant farm workers…”</p>
+</div></div></div></div><div data-slide-duration="0.1" data-id="14" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="45ca9d7169f1931652bf765298da61f3" data-desktop="http://ciw-online.org/wp-content/uploads/Blue-UN-logo-hbtv-hemp-beach-tv.jpg" style="background-color: #ffffff;background-color: RGBA(255, 255, 255, 0.5);" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/Blue-UN-logo-hbtv-hemp-beach-tv.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://www.ciw-online.org/blog/2017/01/un-expert-ffp/" n2click="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:33px;top:222px;width:450px;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="UN expert FFP bmust be considered a" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="33" data-desktopportraittop="222" data-desktopportraitwidth="450" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><div class="n2-ss-mobile"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">UN expert: FFP <b>“must be considered an international benchmark”</b> in fight against modern-day slavery!</p>
+</div><div class="n2-ss-tablet"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">UN expert: FFP <b>“must be considered an international benchmark”</b> in fight against modern-day slavery!</p>
+</div><div class="n2-ss-desktop"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">UN expert: FFP <b>“must be considered an international benchmark”</b> in fight against modern-day slavery!</p>
+</div></div></div></div><div data-slide-duration="0.1" data-id="12" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="930918c2da3d4b88eb433aa3e70e97ac" data-desktop="http://ciw-online.org/wp-content/uploads/wh7.jpg" style="background-color: #ffffff;background-color: RGBA(255, 255, 255, 0.5);" class="n2-ss-slide-background" data-opacity="1"><img style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="http://ciw-online.org/wp-content/uploads/wh7.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://www.ciw-online.org/blog/2015/01/presidential-medal-combatting-slavery/" n2click="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:33px;top:222px;width:450px;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="CIW receivesb Presidential Medalb f" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="33" data-desktopportraittop="222" data-desktopportraitwidth="450" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><div class="n2-ss-mobile"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">CIW receives<b> Presidential Medal</b> for Extraordinary Efforts in Combatting Modern-Day Slavery at White House Forum!</p>
+</div><div class="n2-ss-tablet"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">CIW receives<b> Presidential Medal</b> for Extraordinary Efforts in Combatting Modern-Day Slavery at White House Forum!</p>
+</div><div class="n2-ss-desktop"><p class="n2-font-cb433e6a2b0c77022f13b218a5f0c7d7-paragraph  n2-style-70d96d917478f6aee7b9933a24fa8208-heading ">CIW receives<b> Presidential Medal</b> for Extraordinary Efforts in Combatting Modern-Day Slavery at White House Forum!</p>
+</div></div></div></div>                </div>
+            </div>
+        </div>
+        <div data-ssleft="0+15" data-sstop="height/2-previousheight/2" id="n2-ss-2-arrow-previous" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile n2-ss-widget-display-hover nextend-arrow n2-ib nextend-arrow-previous  nextend-arrow-animated-fade" style="position: absolute;"><img src="http://ciw-online.org/wp-content/plugins/nextend-smart-slider3-pro/library/media/plugins/widgetarrow/image/image/previous/thin-horizontal.svg" alt="" /></div><div data-ssright="0+15" data-sstop="height/2-nextheight/2" id="n2-ss-2-arrow-next" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile n2-ss-widget-display-hover nextend-arrow n2-ib nextend-arrow-next  nextend-arrow-animated-fade" style="position: absolute;"><img src="http://ciw-online.org/wp-content/plugins/nextend-smart-slider3-pro/library/media/plugins/widgetarrow/image/image/next/thin-horizontal.svg" alt="" /></div>
+<div data-ssleft="width/2-thumbnailwidth/2" data-sstop="height" data-offset="0" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-thumbnail nextend-thumbnail-default nextend-thumbnail-horizontal" style="position: absolute;width:100%;"><div class="nextend-thumbnail-inner"><div class="n2-style-8c39bd1b5d1c821102353bb13550e669-simple nextend-thumbnail-scroller"><table><tr><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot n2-active " style="width: 56px; height: 30px;"><div class="n2-ss-thumb-image" style="background-image: url(&#039;http://ciw-online.org/wp-content/uploads/bioparques3-2.jpg&#039;); width: 56px; height: 30px;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 56px; height: 30px;"><div class="n2-ss-thumb-image" style="background-image: url(&#039;http://ciw-online.org/wp-content/uploads/FFP_SOTP_2015_Cover_TOP.png&#039;); width: 56px; height: 30px;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 56px; height: 30px;"><div class="n2-ss-thumb-image" style="background-image: url(&#039;http://ciw-online.org/wp-content/uploads/sunday_morning_logo_120605.jpg&#039;); width: 56px; height: 30px;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 56px; height: 30px;"><div class="n2-ss-thumb-image" style="background-image: url(&#039;http://ciw-online.org/wp-content/uploads/Blue-UN-logo-hbtv-hemp-beach-tv.jpg&#039;); width: 56px; height: 30px;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 56px; height: 30px;"><div class="n2-ss-thumb-image" style="background-image: url(&#039;http://ciw-online.org/wp-content/uploads/wh7.jpg&#039;); width: 56px; height: 30px;"></div></div></td></tr></table></div></div></div>
+</div><div class="clear"></div></div></div><div id="n2-ss-2-placeholder" style="position: relative;z-index:2;"><img style="width: 100%; max-width:3000px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzNzUiID48L3N2Zz4=" alt="" /></div>
+<!-- Nextend Smart Slider 3 #2 - END -->
+</div><div id="text-111" class="widget widget_text"><h3>RECOGNITION</h3>			<div class="textwidget"><table border="1"><tbody><tr>
+<td><p align="center"><a href="http://www.ciw-online.org/blog/2015/01/presidential-medal-combatting-slavery/" target="_blank"><img src="http://ciw-online.org/wp-content/uploads/Presidential_Medal_1.png" width="70" height="70" align="center" /><br><b>2015 Presidential Medal <br>for Extraordinary Efforts Combatting Modern-Day Slavery</b></a></p></td>
+<td><p align="center"><a href="http://www.ciw-online.org/blog/2014/09/bill-clinton/" target="_blank"><img src="http://ciw-online.org/wp-content/uploads/Clinton_Award.png" width="70" height="70" align="center" /><br><b>2014 Clinton Global <br>Citizen Award</b></a></p></td></tr>
+<tr><td><p align="center"><a href="http://www.ciw-online.org/blog/2013/10/a-good-couple-of-days-for-fair-food-part-1/" target="_blank"><img src="http://ciw-online.org/wp-content/uploads/Roosevelt_Award2.png" width="75" height="70" align="center" hspace="2" /><br><b>2013 Franklin D. Roosevelt<br> Freedom from Want Medal</b></a></p></td>
+<td><p align="center"><a href="http://www.ciw-online.org/blog/2004/03/rfkceremony/" target="_blank"><img src="http://ciw-online.org/wp-content/uploads/RFK_Award1.png" width="55" height="55" align="center" /><br><b>2003 Robert F. Kennedy Human Rights Award</b></a></p>
+<p align="center"><b><a href="http://ciw-online.org/highlights/">READ MORE >></a></b></p></td></tr></tbody></table></div>
+		</div><div id="text-6" class="widget widget_text"><h3>NEWSLETTER</h3>			<div class="textwidget"><p>Subscribe to our email list for the latest updates</p>
+<form method="post" action="http://hq-org2.salsalabs.com/save">
+              <input type="hidden" name="table" value="supporter">
+              <input type="hidden" name="organization_KEY" value="5938">
+              <input type="hidden" name="link" value="groups" />
+              <input type="hidden" name="linkKey" value="91206" />
+              <input type="hidden" name="tag" id="tag" value="CIW website"/>
+              <input type="hidden" name="redirect" value="http://www.ciw-online.org/thank-you/">
+              <input name="Email" value="E-mail" size="20px">
+              <input type="Submit" class="button" name="email-button" value="Submit">
+    </form></div>
+		</div><div id="text-112" class="widget widget_text"><h3>FEATURED VIDEO</h3>			<div class="textwidget"><h4 class="white-sub" style="margin-top:-17px;";>FAIR FOOD PROGRAM</h4>
+<p><iframe width="315" height="294" src="//www.youtube.com/embed/BDrOoNGVnJY" frameborder="0" allowfullscreen></iframe></p></div>
+		</div><div id="text-83" class="widget widget_text"><h3>ARCHIVES</h3>			<div class="textwidget"><h4 class="white-sub">CAMPAIGN FOR FAIR FOOD</h4>
+<ul id="archive-widget">
+<li>
+<a href="http://www.ciw-online.org/blog/category/archives/jan-2016-dec-2016/"><img src="http://ciw-online.org/wp-content/uploads/unnamed-11-1.jpg"></a> <h4><a href="http://www.ciw-online.org/blog/category/archives/jan-2016-dec-2016/">The Birth of Worker-driven Social Responsibility »</a></h4>
+January 2016 - December 2016
+</li>
+<li>
+<a href="http://www.ciw-online.org/blog/category/archives/nov-2014-dec-2015/"><img src="http://ciw-online.org/wp-content/uploads/wh7-1.jpg"></a> <h4><a href="http://www.ciw-online.org/blog/category/archives/nov-2014-dec-2015/">Expanding the Fair Food Program »</a></h4>
+November 2014 - December 2015
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/archives/nov-2013-oct-2014/"><img src="http://ciw-online.org/wp-content/uploads/brilliant_model-archive-thumb.png"></a> <h4><a href="http://ciw-online.org/blog/category/archives/nov-2013-oct-2014/">"A brilliant model" at work »</a></h4>
+November 2013 - October 2014
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/archives/nov-2012-oct-2013/"><img src="http://ciw-online.org/wp-content/uploads/archive-widget-81.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/archives/nov-2012-oct-2013/">Fair Food Program to the Fore »</a></h4>
+November 2012 – October 2013
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/jan-2012-oct-2012/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-1.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/jan-2012-oct-2012/">Fair Food Takes Root »</a></h4>
+January – October 2012
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/sep-2010-dec-2011/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-2.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/sep-2010-dec-2011/">A New Day in the Fields »</a></h4>
+September 2010 – December 2011
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/may-2009-aug-2010/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-3.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/may-2009-aug-2010/">A Year to Dine with Dignity »</a></h4>
+May 2009 – August 2010
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/may-2008-may-2009/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-4.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/may-2008-may-2009/">A Year of Victories »</a></h4>
+May 2008 – May 2009
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/burger-king/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-5.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/burger-king/">Burger King: Campaign Archive »</a></h4>April 2007 – May 2008
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/mcdonalds/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-6.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/mcdonalds/">McDonald's: Campaign Archive »</a></h4>
+March 2005 – April 2007
+</li>
+<li>
+<a href="http://ciw-online.org/blog/category/taco-bell/"><img src="http://ciw-online.org/wp-content/uploads/2013/03/archive-widget-7.jpg"></a>
+<h4><a href="http://ciw-online.org/blog/category/taco-bell/">Taco Bell Boycott »</a></h4>
+April 2001 – March 2005
+</li>
+</ul></div>
+		</div><div id="text-82" class="widget widget_text"><h3>CONTACT</h3>			<div class="textwidget"><div id="contact-widget">
+<p><span class="emphasis">COALITION OF IMMOKALEE WORKERS</span><br />
+P.O. Box 603<br />
+Immokalee, FL 34143</span></p>
 
-			<div class="footer-element statement col-md-5 col-sm-9 col-xs-12">
-				<p><img class="text-logo" src="/sites/all/themes/cl_new/images/colorlines_on_black.png" alt="Colorlines"/> is a daily news site where race matters, featuring award-winning investigative reporting and news analysis.</p>
-				<p><img class="text-logo" src="/sites/all/themes/cl_new/images/colorlines_on_black.png" alt="Colorlines"/> is published by <a href="https://www.raceforward.org" class="external">Race Forward</a>, a national organization that advances racial justice through research, media and practice.</p>
-			</div>
+<p><span class="emphasis">Phone:</span> (239) 657-8311<br />
+<span class="emphasis">Fax:</span> (239) 657-5055</p>
 
-			<div class="footer-element footer-links col-md-2 col-sm-3 col-xs-12">
-				<ul>
-			        <li><a href="/staff">Masthead</a></li>
-			        <li><a href="/contact">Contact</a></li>
-			        <li><a href="/submissions">Submissions</a></li>
-			        <li><a href="/press">Press</a></li>
-			        <li><a href="/privacy">Privacy</a></li>
-			        <li class="ToS"><a href="/terms">Terms of Service</a></li>
-			    </ul>
-			</div>
+<p><span class="emphasis">Email:</span> workers (at) ciw-online.org</p>
+</div></div>
+		</div></div><!-- /#sidebar -->
+    		</div><!-- /#main-sidebar-container -->         		           </div><!-- /#content -->			    </div><!-- /#wrapper --></div>     
 
-			<div class="footer-element copyright col-md-5 col-sm-12 col-xs-12">
-			    <p class="copyright-line"><span>©&nbsp;<img class="footer-logo" src="/sites/all/themes/cl_new/images/colorlines_on_black.png" alt="Colorlines"/> 2015</p>
-			    <p class="footer-donate sub-copyright col-xs-6">
-			    	<a href="https://www.colorlines.com/donate" class="external"><img src="/sites/all/themes/cl_new/images/icons/donate.svg" alt="small credit card with heart" /><br />
-			    	Donate</a>
-			    </p>
-			    <p class="footer-subscribe sub-copyright col-xs-6">
-			    	<a href="https://www.colorlines.com/getemails"><img src="/sites/all/themes/cl_new/images/icons/subscribe.svg" alt="email icon" /><br />Subscribe</a>
-			    </p>
-			</div>
 
-		</div>
-	</div>
-</footer>
-    <div class="region region-page-bottom">
-    <script type="text/javascript">
-  var _sf_async_config=Drupal.settings.chartbeat;
-  (function(){
-    function loadChartbeat() {
-      window._sf_endpt=(new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src',
-         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-         "static.chartbeat.com/js/chartbeat.js");
-      document.body.appendChild(e);
-    }
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-       loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
-</script>  </div>
-<script src="https://www.colorlines.com/sites/default/files/js/js_7Ukqb3ierdBEL0eowfOKzTkNu-Le97OPm-UqTS5NENU.js"></script>
-<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//act.colorlines.com/cdnr/58/acton/bn/tracker/1069';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
-<script src="https://www.colorlines.com/sites/default/files/js/js_KtMRViuj0KwtbGPfyAKBS7VWEusTIlDLn8dwDl84ACg.js"></script>
-</body>
-</html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56609217-2', 'auto');
+  ga('send', 'pageview');
+
+</script><div id="footer-container">
+    <div id="footer">
+            <div id="copyright" class="col-full">
+            <p>Copyright © 2012 Coalition of Immokalee Workers. All rights reserved</p>        </div>
+    </div><!--/#footer-->
+</div><!--/#footer-container-->
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/doptg/libraries/js/jquery.mousewheel.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/doptg/libraries/js/jquery.jscrollpane.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/doptg/assets/js/jquery.dop.ThumbnailGallery.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wooFeedbackL10n = {"nextButton":"Next \u2192","prevButton":"\u2190 Previous"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/themes/canvas/includes/js/feedback.js?ver=5.0.7'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js?ver=1.5.8.2'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://ciw-online.org/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.12'></script>
+<script type="text/javascript">
+jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create/button"]').addClass('nolightbox'); });
+jQuery(document).on('ready post-load',easy_fancybox_handler);
+jQuery(document).on('ready',easy_fancybox_auto);</script>
+    </body></html>

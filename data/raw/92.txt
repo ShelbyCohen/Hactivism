@@ -1,0 +1,526 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>
+	News and Opinion from Social Democrats USA</title>
+
+<meta name="author" content="Socialist Currents" />
+<LINK REL="SHORTCUT ICON" HREF="http://www.socialistcurrents.org/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Socialist Currents RSS Feed" href="http://socialistcurrents.org/?feed=rss2" />
+<link rel="pingback" href="http://socialistcurrents.org/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/socialistcurrents.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='http://socialistcurrents.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://socialistcurrents.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://socialistcurrents.org/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://socialistcurrents.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://socialistcurrents.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.5" />
+
+	<!-- begin gallery scripts -->
+    <link rel="stylesheet" href="http://socialistcurrents.org/wp-content/plugins/featured-content-gallery/css/jd.gallery.css.php" type="text/css" media="screen" charset="utf-8"/>
+	<link rel="stylesheet" href="http://socialistcurrents.org/wp-content/plugins/featured-content-gallery/css/jd.gallery.css" type="text/css" media="screen" charset="utf-8"/>
+	<script type="text/javascript" src="http://socialistcurrents.org/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="http://socialistcurrents.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php"></script>
+	<script type="text/javascript" src="http://socialistcurrents.org/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.transitions.js"></script>
+	<!-- end gallery scripts -->
+<style type="text/css">
+#bg {margin-top: 20px} body {background-position: center 20px}	#header {text-align:left }
+	#description { clear:left;float: left; }
+</style>
+
+<link href="http://socialistcurrents.org/wp-content/themes/edegree/style.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="http://socialistcurrents.org/wp-content/themes/edegree/js/superfish.js"></script>
+<script type="text/javascript" src="http://socialistcurrents.org/wp-content/themes/edegree/js/functions.js"></script>
+
+<!--[if gte IE 5.5]>
+<style type="text/css">.post img, .page img, .customhtml img {width: expression(this.width > 495 ? 495: true) }</style>
+<![endif]-->
+</head>
+
+<body class="home blog" style="font-size:12px;color:#575757;">
+<div id="bg" >
+  <div id="wrapper">
+    <div id="shadow">
+     
+        <div id="header">
+          <h1 id="logo">
+			            	<a href="http://socialistcurrents.org" id="blogname" style="background:none;text-indent:0;width:auto"><span class="blod">Socialist Currents</span> News and Opinion from Social Democrats USA</a>
+                      </h1>
+          
+			                <form name="search_form" class="search_form" action="http://socialistcurrents.org/" method="get">
+    <input id="s" class="text_input" type="text" onblur="restoreDefault(this)" onfocus="clearDefault(this)" name="s" value="Search"/>
+    <input type="submit" align="middle" id="search-submit" value="Go" />
+    <input id="searchsubmit" type="hidden" value="Search"/>
+</form>                      
+
+        </div>
+        
+                <div id="featured-zone">            
+        	<div id="slidespot">
+            
+				                        <div id="featured">
+	<script type="text/javascript">
+        function startGallery() {
+            var myGallery = new gallery($('myGallery'), {
+                timed: true
+            });
+        }
+        window.addEvent('domready',startGallery);
+    </script>
+
+    <style type="text/css">
+	
+	.jdGallery .slideInfoZone
+	{
+		height: px;
+	}
+	</style>
+    
+    <div id="myGallery">
+    				 <div class="imageElement">
+					 <h2>The 150 Years War</h2>
+					 					     <p>Each year, after the sun sets on the 14th day of Hebrew month of Nisan, Jews retell the story of the Exodus at an annual family feast. The transition from slavery to freedom, orchestrated by God's hand, is a great story with universal appeal.  I never grow tired of telling it.  Last week I received in the mail a Passover appeal from the Jewish Labor Committee.  The headline read, "Pharaoh refuses to negotiate; hundreds of thousands of Israelite workers walk of job site."  While catchy and humorous, it none-the-less reminds us of a simple fact about slavery— it's all about ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=478" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/06/w-Abolish_child_slavery.jpg" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/06/w-Abolish_child_slavery.jpg" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>Annual CEJ Awards Dinner in Buffalo</h2>
+					 					     <p>[caption id="attachment_1740" align="alignright" width="300"] Rick D'Loss (left) SD National Chair and Michael Mottern, Chair of YSD[/caption]
+
+Each year the Coalition for Economic Justice holds a dinner to celebrate the efforts of various groups and individuals. The CEJ is an amalgam of groups who work together on the behalf of workers, the poor, the disabled, immigrants, and the environment. I was pleased to attend along with Michael Mottern, our local leader in Buffalo. Admittedly, it is an easy drive from Pittsburgh to Buffalo (a little less than 4 hours). The weather was great.  Mid week, mid day travel presented no traffic obstacles except for ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=1724" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2014/05/CEJ-2014-Environmentalists1.jpg" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2014/05/CEJ-2014-Environmentalists1.jpg" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>Fighting for Workers in Vietnam</h2>
+					 					     <p>It was a Wednesday evening in July and I managed to find a good parking space at the Teamsters hall in Lawrenceville.  Inside the union hall all the windows were open; it was very hot and humid that night and there was no AC inside the meeting hall.  I guess the climate was appropriate considering that our topic that night was organizing workers in Vietnam.
+
+[caption id="attachment_753" align="alignright" width="240" caption="Jackie Bong-Wright"][/caption]
+
+Amnesty International was the driver of this particular get-together because they have been publicizing the case of three union organizers who have been jailed in Vietnam.  Their names are Tran Quoc ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=750" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/08/AIUSA-feature.jpg" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/08/AIUSA-feature.jpg" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>The 50th Anniversary March</h2>
+					 					     <p>[caption id="attachment_1515" align="alignright" width="300"] SD officers at the March (from left): YSD Chair Michael Mottern, Treasurer Patty Friend, National Co-Chair Rick D'Loss[/caption]
+
+Yesterday, the SD tabled at the 50th Anniversary of the March on Washington.  It was a beautiful day— bright sunshine, pleasant temperatures; God did not rain on our parade.  Patty said that her angels were taking care of things for us.  Patty flew in from LA and joined Michael and Peng in Buffalo.  Together they drove down to Pittsburgh on Friday to pick me up and get some some rest before the early morning Saturday drive to Washington.
+
+We got ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=1470" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2013/08/Blog-Banner-2.png" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2013/08/Blog-Banner-2.png" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>Mass Transit Reduction Protested</h2>
+					 					     <p>Mass transit is the life blood of any city.  An increasing number of workers can't afford cars and depend on public transportation to get to and from work.  Likewise for college students.  In Pittsburgh, severe transportation funding cuts are likely forthcoming in the next state budget and both workers and employers are very concerned about how they will manage.  Transit workers will be furloughed.  And non-bus riders are worried about the impact on traffic congestion as commuters switch from bus to car.
+
+Last week, a downtown employer (Dial America) announced it was expanding its operations— somewhere else.  Bill Griffin manages a ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=1018" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2012/06/PAT-586p1-e1339435163636.jpg" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2012/06/PAT-586p1-e1339435163636.jpg" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>One Nation Working Together, 10.2.10</h2>
+					 					     <p>In the wee hours of Saturday morning I readied myself for the long day trip to Washington.  I talked Debbie into giving me a ride downtown because I wasn't sure if there would be a bus at 5:15 AM on a Saturday.  Fortunately, because it was Saturday, that drive downtown was only 10 minutes.  Close to 180 union members and supporters gathered at the United Steel Workers headquarters building on the Boulevard of the Allies in the chilly, 48° darkness.  Our group was mainly comprised of USW and UWUA members, but there were some college kids there who, I believe, ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=274" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/06/w-onenation.jpg" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/06/w-onenation.jpg" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>More business for the Public Library</h2>
+					 					     <p>During difficult economic times it shouldn't be surprising that many people have gone back to borrowing books instead of running down to B&#38;N to spend $30 on the latest best seller.
+
+
+
+photo by Bernadette Kazmarski
+
+One of my assignments as borough councilman is to hold a seat on the board of our local public library.  It is a duty I sought out not only because of my belief in the importance of libraries, but also because of my fond memories of spending time in this special place as a youngster.  Our library, the Andrew Carnegie Free Library and Music Hall, is also an ...</p>
+					  					  <a href="http://socialistcurrents.org/?p=408" title="Read More" class="open"></a>
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/06/w-jewel.jpg" alt="" class="full" />
+					  <img src="http://socialistcurrents.org/wp-content/uploads/2011/06/w-jewel.jpg" alt="" class="thumbnail" />
+				  </div>
+			 	     </div>
+	         
+</div>
+
+
+
+                        
+                                
+            </div>
+            
+            <div id="featured-wiz">
+                <div class="widget"><h2>Social Democracy in America</h2>			<div class="textwidget"><table width="100" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr>
+<td align="left" valign="top">
+<img src="http://socialistcurrents.org/wp-content/uploads/2011/06/SDUSA-logo-small-on-grey.png" alt="SD logo" ><br></td>
+</tr>
+</table>
+Social Democracy comprises humanity’s boldest experiment — <br>an attempt to organize a society of collective justice and individual freedom where everyone receives necessary food, shelter, health care, education, and yet has the freedom to pursue his or her greatest dreams. In other words, achieve a truly civil society where all members are valued. Social Democracy is a true American tradition dating back to the 1800's and Eugene V. Debs.  To learn more, click on the upper menu item "About SDUSA".
+</div>
+		</div>            </div>
+        </div>
+                
+        <div id="container">
+			<div id="container-shoulder">
+            	<div id="left-col">	
+			<div id="post-2894" class="post-2894 post type-post status-publish format-standard hentry category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">Apr 17<br /><span class="date">29</span></p>
+        <h2 class="home"><a href="http://socialistcurrents.org/?p=2894">A Review: Shattered- Inside Hillary Clinton&#8217;s Doomed Campaign</a> </h2>                	<div class="comment-bubble"><span><a href="http://socialistcurrents.org/?p=2894#respond"><span class="nocomment">No Comment</span></a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>When I was a small boy, growing up in the poor area near the meat packing plants of Oklahoma City, there was a universal understanding of politics.  It was not the politics of platforms<br />
+and policies, much less the politics of personality clashes.  Instead, it was the profound<br />
+sense that Franklin Roosevelt and the New Deal had literally saved the lives of people like us. In the homes of Armour and Swift workers, there were frequently two pictures: one of Jesus and the other of Roosevelt.  In the event that one picture had to come down, it would not necessarily be Roosevelt&#8217;s that would go. Probably nobody in that neighborhood had ever<br />
+read the Democratic platform but they all understood one important fact: Franklin Roosevelt was on our side.  His Democratic Party was for people like us; the nearly-invisible Republicans were for rich people.</p>
+<p>How far we have come from those days is apparent in the new book on the 2016 campaign by<br />
+Jonathan Allen and Amie Parnes.  Largely based on off-the-record interviews with campaign staff members, it depicts a dysfunctional campaign that was more of a snake pit than the well-oiled political machine that we would expect from two accomplished people who have pursued the Presidency, one of them successfully, for their entire adult lives.  But more important, it shows a party that had lost its way and a candidate who had overwhelming ambition and a sterling resume but no principled center.  Hillary Clinton, by all accounts, is a policy wonk, and certainly she had policy statements on nearly every subject, but she lacked two elements that Roosevelt, the Hudson Valley aristocrat, had: deep empathy for the problems of the American people and the ability to communicate that empathy.</p>
+<p>Clinton&#8217;s fundamental shortcomings are made clear in the book&#8217;s first chapter, when her speech writers are struggling to come up with a memorable, hopefully even historic speech, to kick-off her campaign.  The event has been scheduled for Four Freedoms Park on Roosevelt Island in New York&#8217;s East River (optics are important in modern campaigns and this is intended to link her tightly with FDR).  There is only one problem: neither the candidate nor the hired help can come up with an acceptable rationale for her quest for the Presidency.  The bright graduate of Wellesley and Yale Law can&#8217;t articulate answers to one aide&#8217;s questions: &#8220;why you? why now?&#8221;  These questions will haunt the campaign until it ends in defeat at the hands of a man who can encapsulate his purpose in four vacuous words: Make America Great Again.</p>
+<p>The broader failure, I suggest, is not that of Hillary Clinton but of the Democratic Party<br />
+that she not only shaped but that shaped her.  The legacy of FDR was a party that, with<br />
+many failings, was seen as the champion of the working class and the poor, and large parts of this legacy remained at least through the Great Society of Lyndon Johnson.  The leadership of the Democratic Party began to pull away from that legacy under Carter and<br />
+Bill Clinton, the neoliberal New Democrats. With the ascendancy of leaders who could not and did not want to speak for them,  the working class began to leave the party of Roosevelt.  States that had once been Democratic strongholds, such as Wisconsin, Michigan<br />
+and Pennsylvania, became battleground states.  While it is true that Trump&#8217;s winning margin<br />
+was small in those states, the real question is why millions of working class people had previously moved over to the Republican Party in numbers sufficient to make those states even close.</p>
+<p>The Bernie Sanders campaign proved at least one thing: there are still millions of Americans<br />
+who respond to the spirit of the social democratic message that FDR articulated in his 1944 State of the Union address.  Had Clinton understood that, she might have brought home to the Democratic Party the key working class voters who cost her the election.  Unfortunately, she, her husband, Barack Obama and their neolib allies had hollowed out the ideological<br />
+core of the Party, and she could not make up for that loss by ordering her staff to find a rationale for her candidacy.  It was too much to expect that a candidate who hung out with millionaire pals in the Hamptons and who took hundreds of thousands from Goldman Sachs could<br />
+truly understand the fears and hopes of working Americans.  But from Clinton&#8217;s loss, a catastrophe in so many ways, may come a new birth of the Democratic Party and make it again<br />
+&#8220;our&#8221; party.  That is the Social Democratic challenge today.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://socialistcurrents.org/?cat=1" rel="category">Uncategorized</a></span> by <span class="usr-meta">Eldon Clingan</span>.
+        <span class="comment-icon"><a href="http://socialistcurrents.org/?p=2894#respond">No Comments</a></span>
+        </div>
+    </div>
+</div><div id="post-2901" class="post-2901 post type-post status-publish format-standard hentry category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">Apr 17<br /><span class="date">27</span></p>
+        <h2 class="home"><a href="http://socialistcurrents.org/?p=2901">Unionism For Millenials</a> </h2>                	<div class="comment-bubble"><span><a href="http://socialistcurrents.org/?p=2901#comments">&nbsp;1 Comment</a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p id="m_-5169267278916520437docs-internal-guid-5e9d86c8-ad44-fd06-2806-4b716e66552b" dir="ltr">I will never forget a discussion I had last year. A friend of mine was discussing socialism, a word that he admitted was new to his lips. He was explaining why he was a socialist and why Bernie Sanders needed to be president. In response, I mentioned that Hillary Clinton had more support from organized labor and I asked, “how do we reconcile that? How can our socialist flag-bearer not have labor behind him?”</p>
+<p dir="ltr">    My friend, without a blink, or trace of sarcasm asked me, “Who cares? What do unions have to do with socialism?” My eyes rolled with a weight I had never experienced.</p>
+<p dir="ltr">    I am beyond excited at the level at which social democracy is freely discussed in our political discourse. I know so many people my age (30) and younger who have come to accept, learn, and proselytize these ideas in a truly impressive way. It is exciting. It is also a little scary. Just like any ideology, it dies without a sense of unity (and probably a sense of history).</p>
+<p dir="ltr">    Our generation comes with some unique factors. Everything is commoditized. You can make a living sitting on your couch, with a cell phone and a car, or with whatever combination of twenty-first century niceties we have around us. Don’t forget the artists, the academics, and the professional helpers (activists, advocates, etc.) It seems difficult to connect a party line based on labor to the modern workforce, but it must be done.</p>
+<p dir="ltr">    The sad fact is, most socialists I have met in the last couple of years have been artists (of all varieties), adjuncts, non-profit workers, part-time retail associates (often with multiple jobs), and low-level corporate managers. Meanwhile, labor elected Donald Trump.</p>
+<p dir="ltr">    So, what do we artists, independent workers, and people-centered workers do? There are options. In grad school, I was a GTA, while also working in various settings, providing Drama Therapy services to children. In total, I worked four jobs. I found the Freelancers Union (<a href="https://www.freelancersunion.org/" target="_blank">https://www.freelancersunion.org</a>). While they might not appear to be a formal labor union, they boast 350,000 members under the motto: “Independents. United.”</p>
+<p dir="ltr">They will help get you health insurance and they will get you connected with groups of workers who are living just like you. Architects, bloggers, designers&#8230;pretty much any profession that works independently, or anyone who is working more than one job is considered a freelancer. They have rallied and fought alongside other unions and are making quite a name for themselves.</p>
+<p dir="ltr">I graduated with my masters and found employment at a non-profit agency that helps survivors of domestic and sexual violence. My union membership does not come from this job (though I am often caught whispering a Draper quote, or a Seeger lyric into my co-workers’ ears) but, these unions do exist.</p>
+<p dir="ltr">To some, it seems selfish. If your job is about helping people, why would you unionize? The clients come first!</p>
+<p dir="ltr">    Of course, the clients come first. However, my line of work is rife with burnout. Non-profits in the human services world experience extremely high turnover. You cannot put a price on helping those who need it, but that does not mean that you should be taken advantage of. Everyone deserves free time. Everyone deserves to be safe. Everyone deserves to have their voices heard. This is why workers with the IFPTE, Local 70 (<a href="http://ifptelocal70.org/home/" target="_blank">http://ifptelocal70.org/home/</a>), the SEIU (<a href="http://www.seiu.org/" target="_blank">http://www.seiu.org</a>) and so many, many others have come together.</p>
+<p dir="ltr">When I am not working as advocate, I am writing. I am currently a member of the National Writers Union (<a href="https://nwu.org/" target="_blank">https://nwu.org</a>). We are officially local 1981 of the United Auto Workers. There are 12 internal branches of the union and their activity ranges from defending free speech, mobilizing for any political activity that threatens our work, and providing legal assistance to writers when their contracts aren’t being honored.</p>
+<p dir="ltr">The first  story I ever sold was for $4 and a contributors’ copy. I didn’t get it. I know that a check for $4 and a magazine worth $10 doesn’t sound like a lot, but that is not the point. My work has value. The publisher made money off of it, so should I. If I had been aware of the NWU back then, they could have helped. Of course, there are many options for any creative workers out there.</p>
+<p dir="ltr">    Navigating the labor world is complicated. If a movement toward a social democracy is based in the labor movement, we need to organize. Before we do, we need to accept a few things:</p>
+<p>&nbsp;</p>
+<ol>
+<li>
+<p dir="ltr">We creative types do not perform blue collar work. No matter how grim our background, or how much sweat we conjure over our manuscripts and canvases, this remains a fact. I am the first person in my family to finish high school and I worked (and borrowed) my way through college. It&#8217;s hard. I get it. No one is saying art is not important. It is essential! However, without the mills and textile plants, our creative vision would remain in our heads.</p>
+</li>
+<li>
+<p dir="ltr">Our work has value. There are also many ways we get paid: money, contributors’ copies, access to resources, etc. A deal is a deal. There is nothing glamorous in being taken advantage of. Protecting your work from a corporate interest is not selling out. They will make money whether you do, or not. If I never sold a story again, I would keep writing. However, if I do sell a story and they don’t pay me, I will demand what I was promised.</p>
+</li>
+<li>
+<p dir="ltr">Make sure your work does not come at the cost of others. Your great, new, technologically advanced, well-intentioned idea is sometimes all it takes to push a fellow worker out into the cold.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p dir="ltr">If for no other reason than to meet like-minded people, organize. Protect your work and the work of others. Fight for what is fair, fight for what you deserve. It must remain that (much to my friend’s surprise) unions have everything to do with socialism.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://socialistcurrents.org/?cat=1" rel="category">Uncategorized</a></span> by <span class="usr-meta">Tim Tarkelly</span>.
+        <span class="comment-icon"><a href="http://socialistcurrents.org/?p=2901#comments">1 Comment</a></span>
+        </div>
+    </div>
+</div><div id="post-2881" class="post-2881 post type-post status-publish format-standard hentry category-civil-rights category-domestic-politics category-economy category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">Mar 17<br /><span class="date">27</span></p>
+        <h2 class="home"><a href="http://socialistcurrents.org/?p=2881">Stayin&#8217; Alive</a> </h2>                	<div class="comment-bubble"><span><a href="http://socialistcurrents.org/?p=2881#comments">2 Comments</a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p><strong>SDUSA&#8217;S Post-Election Buffalo Conference: “Keeping The Political Revolution Alive”</strong></p>
+<p>SDUSA conducted its 2016 Annual Educational Conference at the Manny Fried Playhouse at Subversive Theatre entitled “Keeping the Political Revolution Alive”. This 5 hour conference was held on Saturday November 19, 2016, in collaboration with the Subversive Theater Collective. The student run TV broadcasting facility at Buffalo State College created a 9 minute video about the conference and you&#8217;ll find a link at the end of this story.</p>
+<p>At Subversive Theatre, in the evening, they were performing the play, One Flew Over The Cuckoos Nest. Comrade Mottern and I felt that the set of a makeshift mental ward was an appropriate backdrop considering the psychotic nature of the 2016 presidential election. Our original plan was to have a video of the entire conference that would be posted on this blog, shortly after the conference took place in November. However due to the heavy academic schedule of the student TV crew which recorded the conference and the Christmas-New Year recess that followed, the abridged video was only completed in February and the school discarded the original files of the entire conference to save disk space. So, unfortunately we can&#8217;t link you to the full segments of the conference.</p>
+<p>Nevertheless, even this very truncated video gives the viewer a good idea of the favor of the conference. And two month&#8217;s into the Trump Administration, the analysis at this early post-election forum is still fresh. However, since the video doesn&#8217;t identify the speakers or who is being interviewed, here is a resume of the full conference:</p>
+<p>The Buffalo conference under the title, “Keeping The Political Revolution Alive” was planned before the last election expecting a Hillary Clinton victory. We wanted to pressure her to follow the progressive policies that were written in the Democratic Party platform and espoused by the Bernie Sanders campaign. Instead, we awoke on the morning after Election Day to face the nightmare of Donald Trump as the new president-elect. Thus, our conference would most likely be the first public forum on the Left reacting to this devastating development for our country and the world.</p>
+<p>The event hosted some of the biggest players in progressive politics in and around the Buffalo region. The speakers at the conference were in order of their appearance:</p>
+<p>• Phil Rumore, President of the Buffalo Teachers Federation. Mr. Rumore discussed fair contracts for teachers, the bargaining process, and the role the American Labor Movement will play in the modern day political revolution. Mr. Rumore is an active member of the Working Families Party in WNY.</p>
+<p>• Brian Nowak, founding member of Liberty Union Progressives, Buffalo for Bernie and DSA, Buffalo NY. Brian discussed where Liberty Union Progressives is going, key endorsements for progressive candidates and membership information. His presentation was the main highlight of the video.</p>
+<p>• Sheldon Ranz, writer for Jewish Currents magazine. Sheldon discussed foreign policies in the Middle Eastern region and how as a Labor Zionist, and son of a Holocaust survivor, he can still support the Boycott, Divestment and Sanctions (BDS) movement.</p>
+<p>• Kurt &#8220;Vile&#8221; Schneiderman, Founder, Director and Playwright of Subversive Theatre Collective, Adjunct Professor at Canisius College. Kurt has taken a strong role in organizing the adjunct professors in the Buffalo area to rally for livable wages and benefits. Mr. Schneiderman discussed how to organize effectively and his role within the subversive community..</p>
+<p>• Jim Anderson, Vice President of the Board of Directors for Citizen Action of New York, host of Conversations with Jim Anderson on WUFO AM-1080, all around activist and member of the Communication Worker&#8217;s of America. Mr. Anderson discussed campaign finance reform and his experiences as a leader for economic, racial, environmental and social justice.</p>
+<p>• I, David Hacker, was the final and Keynote Speaker, 2nd Vice-Chair Social Democrats USA and a former Librarian for the New York Post. I discussed the modern day political issues facing our revolution, issues concerning working class Americans, and a need for a real Social Democratic Movement to keep people out of poverty for good. I also emphasized that the revived SDUSA has a supportive and empathetic democratic internal life that we believe will enable the organization to attract new members who may have been alienated from their experiences in other political organizations.</p>
+<p>The entire forum was organized and moderated by SDUSA&#8217;s 1st Vice -Chair and former Chair of the Young Social Democrats, Michael Mottern. Comrade Mottern has been a seasoned political activist in the Buffalo area since 1999. As a result of his political activities in the region, Mike is a very active member of the Working Families Party in WNY, where he met other activists, such as the speakers appearing at the conference and from a variety of groups within the Left-wing coalition.</p>
+<p>About the Video: On the video, the first 16 seconds is from the presentation of Phil Rumore, President of the Buffalo Teachers Federation, where he states that the election of Donald Trump as President and a Republican Congress is not a revolution, but “a counter-revolution.” Then there is a brief interview with the new Chair of Young Social Democrats, Maxwell DiNatale.on what it means to be a Social Democrat. Next is a comment from a member of the audience, DB Absher, a founding member of the Buffalo Anti-Racism Coalition. Brian Nowak,a founding member of Liberty Union Progressives is speaking next in the video. And as noted above, his remarks are highlighted throughout the video. Interspersed with Novak&#8217;s presentation are brief interviews with panelists, Sheldon Ranz and Jim Anderson.and comments of Irene Market, a member of the audience. The video concludes with closing remarks from Comrade Mottern and DiNatale.</p>
+<p><strong>We encourage our members throughout the country to organize similar local SDUSA conferences. Contact National Chair, Patty Friend at 661-245-5252 for guidance and suggestions on how to organize a similar event in your community.</strong></p>
+<p><a href="https://youtu.be/gfcpi3nOtEU">Click here to watch the Video</a></p>
+<p>&nbsp;</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://socialistcurrents.org/?cat=115" rel="category">Civil Rights</a> <a href="http://socialistcurrents.org/?cat=4" rel="category">Domestic Politics</a> <a href="http://socialistcurrents.org/?cat=5" rel="category">Economy</a> <a href="http://socialistcurrents.org/?cat=1" rel="category">Uncategorized</a></span> by <span class="usr-meta">David Hacker</span>.
+        <span class="comment-icon"><a href="http://socialistcurrents.org/?p=2881#comments">2 Comments</a></span>
+        </div>
+    </div>
+</div><div id="post-2872" class="post-2872 post type-post status-publish format-standard hentry category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">Mar 17<br /><span class="date">1</span></p>
+        <h2 class="home"><a href="http://socialistcurrents.org/?p=2872">Something&#8217;s Happening</a> </h2>                	<div class="comment-bubble"><span><a href="http://socialistcurrents.org/?p=2872#respond"><span class="nocomment">No Comment</span></a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>Last night I attended a meeting whose purpose was to establish an Our Revolution- Indivisible<br />
+group in the towns southwest of Boston.  A colleague and I also hoped to find a few people who would be willing to be candidates for delegates slots for the coming Democratic State Convention.  We had done a reasonable job of organizing, using lists provided by Indivisible, Our<br />
+Revolution- Massachusetts and national Our Revolution, and as organizers do, tried to predict the likely result of our efforts, partly to calm our anxieties.  We set up the room for 10 people<br />
+and hoped that most of those who had promised to come, would in fact turn up.</p>
+<p>The meeting was called for 7:30 and about 7:15 the first attendees began to arrive.  We had pleasant chats with the early arrivals and a few others came in, filling the chairs we had set out.<br />
+At about 7:25 a flood of people poured in,  filling the room.  They came so fast that we couldn&#8217;t set up chairs quickly enough.   Soon we had more than 30 people in a room that would comfortably hold 15 or 20.  We sorted out the situation and started by going around the room with each person saying a few words.  The message was soon clear: they were mad as hell and they weren&#8217;t going to take it any more.  While each had her own concerns (they were women by a factor of 5), they were worried generally about what was happening to our country.  Most of them were Bernie people but the reality of Trump had kicked their outrage up to a new level.  They were ready to march, to hassle members of Congress and to work to transform the Democratic Party.  At the end of the meeting I suggested that we meet again in a month and was shouted down.  &#8220;Two weeks!&#8221; they demanded.  On that note, we all headed for home, with the buoyant feeling that we were on our way at last, moving forward to take back our country and our Party.</p>
+<p>Something is happening in our country.  I am told that this experience is typical of what is happening in progressive meetings and Democratic caucuses throughout Massachusetts.  The news from California is that the Bernie movement has moved to a dominant position in the Democratic Party.  The great challenge is to organize this spontaneous movement.  The social democratic moment has come; let&#8217;s not lose this opportunity.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://socialistcurrents.org/?cat=1" rel="category">Uncategorized</a></span> by <span class="usr-meta">Eldon Clingan</span>.
+        <span class="comment-icon"><a href="http://socialistcurrents.org/?p=2872#respond">No Comments</a></span>
+        </div>
+    </div>
+</div><div id="post-2803" class="post-2803 post type-post status-publish format-standard hentry category-domestic-politics category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">Jan 17<br /><span class="date">23</span></p>
+        <h2 class="home"><a href="http://socialistcurrents.org/?p=2803">Letter to Members &#038; Friends who Marched on Saturday</a> </h2>                	<div class="comment-bubble"><span><a href="http://socialistcurrents.org/?p=2803#comments">3 Comments</a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p><em>Letter from SDUSA National Chair Patty Friend:</em></p>
+<p>Congratulations and solicitation to everyone who participated in the activities of Saturday January 21st!<br />
+No matter how or what you did. From West to East and North to South (and all points in between) it was amazing. 3.3 million of us turned out all over the country. And our members, families and friends were involved all over the country.</p>
+<p>For those of us who were able to participate, the experience was great and heartening. Needless to say, we need to keep the enthusiasm and motivation building so that this new energy can result in votes for Democrats (especially progressives Democrats) in 2017, 2018 and 2020.</p>
+<p>The President has convened a group of labor leaders(primarily the building trades) which was announced by Sean Spicer today. We must watch and see how they might influence him, and let&#8217;s see how we might influence them. For instance, the new Administration is planning immigration, tax, and regulatory policy as we speak. And they are presumably working on their plans for revitalizing the U.S. Infrastructure.</p>
+<p>For those of you who participated in the January 21st events, who are as smart as your phones/other computers, we hope you will write us about your experiences and/or send us your photos, or post then to our Facebook pages. In Los Angeles, for instance, in spite of impossible weather (I was actually “snowed in” for most of the weekend.) and transportation/parking problems, close to 400,000 poured into Downtown LA, and spanned a distance of miles and they came all day and into the night. Nothing like that has ever happened before.</p>
+<p>If you have any problems or concerns regarding our Facebook pages, feel free to contact Michael Mottern. Also, I just want to let you know that we have hard cover copies of “Indivisible: A Practical Guide for Resisting the Trump Agenda ” handbook on organizing to influence our U.S. Congress-members. If you want me to send you one, please contact me, Patty Friend, in California, and my phone number is 661-245-5252. Otherwise, look it up at IndivisibleAgainstTrump@gmail.com.</p>
+<p>Let us know what you are thinking, doing and feeling.</p>
+<p>Yours in Solidarity,</p>
+<p>Patty Friend<br />
+National Chair<br />
+SDUSA</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://socialistcurrents.org/?cat=4" rel="category">Domestic Politics</a> <a href="http://socialistcurrents.org/?cat=1" rel="category">Uncategorized</a></span> by <span class="usr-meta">David Hacker</span>.
+        <span class="comment-icon"><a href="http://socialistcurrents.org/?p=2803#comments">3 Comments</a></span>
+        </div>
+    </div>
+</div>	    
+        <div class="navigation">
+        <p class="alignleft"></p>
+        <p class="alignright"><a href="http://socialistcurrents.org/?paged=2" >Next Page &raquo;</a></p>
+        <div class="recover"></div>
+    </div>
+    
+			<div class="recover"></div>
+        </div><!--End left-col-->
+              
+			  		<!-- begin sidebar -->
+		<div id="sidebar">
+			            
+            <div id="socialize-icons">
+                <ul>
+                                        	<li id="icon-facebook"><a href="http://www.facebook.com/pages/Social-Democrats-USA/80319810737" rel="nofollow" target="_blank">facebook</a></li>
+					                    	
+	                    <li id="icon-twitter"><a href="http://twitter.com/socialdemsusa" rel="nofollow" target="_blank">twitter</a></li>
+					                                        	
+                    	<li id="icon-rss"><a href="http://socialistcurrents.org/?feed=rss2">RSS Feed</a></li>
+						
+                                        	<li id="icon-youtube"><a href="http://www.youtube.com/user/AFLCIONow" rel="nofollow" target="_blank">YouTube</a></li>
+                    	
+                </ul>
+            </div>
+            
+        	  
+			<ul>
+			  <li class="widget" id="s2_form_widget-3"><h2>Subscribe2</h2><div class="search">To receive notification of new posts enter<form method="post" action="http://socialistcurrents.org/?page_id=6"><input type="hidden" name="ip" value="76.78.76.254" /><span style="display:none !important"><label for="name">Leave Blank:</label><input type="text" id="name" name="name" /><label for="uri">Do Not Change:</label><input type="text" id="uri" name="uri" value="http://" /></span><p><label for="s2email">Your email:</label><br /><input type="text" name="email" id="s2email" value="Enter email address..." size="20" onfocus="if (this.value == 'Enter email address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter email address...';}" /></p><p><input type="submit" name="subscribe" value="Subscribe" />&nbsp;<input type="submit" name="unsubscribe" value="Unsubscribe" /></p></form>
+</div></li><li class="widget" id="s2_counter-2"><h2>Subscriber Count</h2><ul><div style="text-align:center; background-color:#e3dacf; color:#e6000c; width:82px; height:16px; font:11pt Verdana, Arial, Helvetica, sans-serif; vertical-align:middle; padding:3px; border:1px solid #444;">454</div></ul></li>		<li class="widget" id="recent-posts-3">		<h2>Recent Articles by our Authors</h2>		<ul>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2894">A Review: Shattered- Inside Hillary Clinton&#8217;s Doomed Campaign</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2901">Unionism For Millenials</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2881">Stayin&#8217; Alive</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2872">Something&#8217;s Happening</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2803">Letter to Members &#038; Friends who Marched on Saturday</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2804">Women March on Topeka</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2792">The Pussy Hat Rebellion</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2777">GOP Muddles Health Care Repeal</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2764">The Class War: Our First Stand Rallies to Defend Health Care</a>
+						</li>
+					<li>
+				<a href="http://socialistcurrents.org/?p=2762">Social Democrats Ask Senate to Reject Anti-Labor Puzder</a>
+						</li>
+				</ul>
+		</li>		<li class="widget" id="linkcat-2"><h2>Blogroll</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://afl-cio.org/" title="AFL-CIO">AFL-CIO</a></li>
+<li><a href="http://pa.aflcio.org/alleghenyco/index.cfm" title="Birthplace of the AFL">AFL-CIO Allegheny County</a></li>
+<li><a href="http://longislandfed.org" title="Long Island Federation of Labor">AFL-CIO Long Island</a></li>
+<li><a href="http://launionaflcio.org" title="Los Angeles County Federation of Labor">AFL-CIO Los Angeles</a></li>
+<li><a href="http://nysaflcio.org/western/" title="Western NY Labor Federation">AFL-CIO Western NY</a></li>
+<li><a href="http://www.ameinu.net/" title="Liberal Values.  Progressive Israel">Ameinu</a></li>
+<li><a href="http://prospect.org/" title="Progressive Politice, Liberal Intelligence">American Prospect</a></li>
+<li><a href="http://arabsocialdemocrats.org" title="Arab Social Democratic Forum">Arab Social Democratic Forum</a></li>
+<li><a href="http://jstreet.org/" title="Pro-Israel, Pro-Peace">J Street</a></li>
+<li><a href="http://www.labour.org.uk/" title="British Labour Party">Labour Party</a></li>
+<li><a href="http://www.newamerica.net/" title="New America Foundation">New America</a></li>
+<li><a href="http://www.pes.org/" title="Party of European Socialism">Party of European Socialism</a></li>
+<li><a href="http://progressive-alliance.info/en/" title="An alliance of progressive SI member parties">Progressive Alliance</a></li>
+<li><a href="http://spoe.at/">Social Democratic Party- Austria</a></li>
+<li><a href="http://www.socialdemokraterne.dk/" title="Social Democratic Party of Denmark">Social Democratic Party- Denmark</a></li>
+<li><a href="http://www.spd.de/aktuelles/" title="Social Democratic Party of Germany">Social Democratic Party- Germany</a></li>
+<li><a href="http://www.mszdp.hu">Social Democratic Party- Hungary</a></li>
+<li><a href="http://www.socialdemokraterna.se/" title="Social Democratic Party of Sweden">Social Democratic Party- Sweden</a></li>
+<li><a href="http://www.facebook.com/pages/Social-Democrats-USA/80319810737">Social Democrats USA &#8211; Facebook</a></li>
+<li><a href="http://www.social-europe.eu/" title="Social Europe Journal">Social Europe</a></li>
+<li><a href="http://www.parti-socialiste.fr/" title="Socialist Party of France">Socialist Party- France PS</a></li>
+<li><a href="http://usw.org/" title="United Steel Workers">USW</a></li>
+<li><a href="http://groups.yahoo.com/group/Socialist_Currents/" title="Our Yahoo Discussion Group">Yahoo Socialist Currents</a></li>
+<li><a href="http://www.facebook.com/#!/YoungSocialDemocratsUsa?fref=ts" title="Youth organization of Social Democrats USA">Young Social Democrats, USA</a></li>
+
+	</ul>
+</li>
+	
+              
+              <li class="widget" id="meta-3">Admin Functions			<ul>
+						<li><a href="http://socialistcurrents.org/wp-login.php">Log in</a></li>
+			<li><a href="http://socialistcurrents.org/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://socialistcurrents.org/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</li>                	
+			</ul>
+		</div><!-- end sidebar -->              
+              <div class="recover"></div>
+			</div><!-- #container-shoulder -->
+        </div><!-- #Container-->
+         
+ 
+        <div id="globalnav">                
+        	<div id="navpocket">                
+                <ul id="nav">                
+                                        <li class="current_page_item"><a href="http://socialistcurrents.org" rel="nofollow">Home</a></li>
+                                        
+                    <li class="page_item page-item-22 page_item_has_children"><a href="http://socialistcurrents.org/?page_id=22">About SDUSA</a>
+<ul class='children'>
+	<li class="page_item page-item-621"><a href="http://socialistcurrents.org/?page_id=621">Heritage</a></li>
+	<li class="page_item page-item-18"><a href="http://socialistcurrents.org/?page_id=18">Principles</a></li>
+	<li class="page_item page-item-6"><a href="http://socialistcurrents.org/?page_id=6">Organization</a></li>
+	<li class="page_item page-item-636"><a href="http://socialistcurrents.org/?page_id=636">Domestic Agenda</a></li>
+	<li class="page_item page-item-618"><a href="http://socialistcurrents.org/?page_id=618">Statements</a></li>
+	<li class="page_item page-item-623"><a href="http://socialistcurrents.org/?page_id=623">Various Writings</a></li>
+	<li class="page_item page-item-1873"><a href="http://socialistcurrents.org/?page_id=1873">Various Videos</a></li>
+	<li class="page_item page-item-646"><a href="http://socialistcurrents.org/?page_id=646">Contact Us</a></li>
+</ul>
+</li>
+<li class="page_item page-item-2041"><a href="http://socialistcurrents.org/?page_id=2041">Donate</a></li>
+<li class="page_item page-item-650"><a href="http://socialistcurrents.org/?page_id=650">Join Us</a></li>
+                    
+                                    </ul>
+        	</div>
+        </div>
+    </div><!--End shadow-->
+  </div><!--End wrapper-->
+  
+      <div id="footer" >
+        <div class="footer-content">
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-5">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-4">			<div class="textwidget">Social Democrats USA
+<br>P.O. Box 16161
+<br>Pittsburgh PA 15242</div>
+		</li>	
+                </ul>
+            </div>
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-6">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+          <div class="recover"></div>
+          
+          <span id="copyright"><span class="alignleft">Copyright &copy;             <script type="text/javascript">
+			/* <![CDATA[ */
+			var startCopyrightYear = 2010;
+			if(!startCopyrightYear) {
+				var d=new Date();
+				startCopyrightYear = d.getFullYear();
+			}
+			printCopyrightYears(startCopyrightYear)
+			/* ]]> */
+            </script>
+            Socialist Currents</span><span id="footer-tag"> | &nbsp; <a href="http://www.topblogformula.com/wordpress-business-themes/edegree" target="_blank">eDegree&#176;</a> Theme by <a href="http://www.topblogformula.com/">Top Blog Formula</a> on <a href="http://www.wordpress.org" target="_blank">WordPress</a></span> | &nbsp; 
+                            <a href="http://socialistcurrents.org/wp-login.php">Log In</a>
+                      </span>
+    
+        </div>
+      </div><!--End footer-->
+
+</div><!--End bg-->
+
+
+		 <div id="login">
+    <ul><li><a href="http://socialistcurrents.org/wp-login.php">Log In</a></li></ul> 
+    </div>
+
+<script type='text/javascript' src='http://socialistcurrents.org/wp-includes/js/wp-embed.min.js?ver=4.6.5'></script>
+
+</body>
+</html>

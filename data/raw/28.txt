@@ -1,247 +1,498 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>How the grassroots works</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta property="og:title" content="How the grassroots works">
-<meta property="og:url" content="http://www.renewamerica.com/grassroots.htm">
-<meta property="fb:app_id" content="308578521554">
-<style type="text/css" media="print">
-<!--
-.noprint {display:none}
-#logo {width:100%; height:128px; overflow:hidden; margin-top:-21px}
-#page {padding-top:24px; font:10.5pt arial}
-//-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>The Cooperative Movement | Michael Fogler</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://michaelfogler.wordpress.com/xmlrpc.php" />
+
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Michael Fogler &raquo; Feed" href="https://michaelfogler.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Michael Fogler &raquo; Comments Feed" href="https://michaelfogler.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1488818651h&ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
 </style>
-<style type="text/css" media="screen">
-<!--
-.printonly {display:none}
-#page {width:960px; padding-top:24px}
-#content {width:640px; font:10.5pt arial; padding-top:8px; margin:0px 10px}
-#text_div {overflow:hidden}
-//-->
-</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJyNjlFqAzEMRC9UVbRsQvtRehavo2yUWJaxtITcPt4sLU1aTH/EjJjHDJ4LRM1O2VFmKGmeOBueS1QBE050eXDP0ewJ/8YSn8jwSF5CPMHN9eJRK7W/lOBLQmjHgRJJi/UwKdsvapGH1tWtWeePY6lkBu0KzwJ+aEW/ufWNZR6xkleFPbvTDs0vif6d5hxXAm7lK8eY1bmh9i16sydSSBqDs+Y7A/sUuPbQSmPSqckJW+qHXaBP+XgZtpvh/XXYvB2vID/AiA==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-1-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFztEKwjAMBdAfsquTiXsRv6XWOFKXtDbphn69HeiDMBQCgdzDJXZOBtmP5QJiQ517gfx4rybIxv4ChnDITqEh5A/2kRVYF0vxjCOYIpDdUG+16BpXXIqiBCIVraTfLyFPCPNfFkCT8zeTQfC5tJ7o2Hb9Yde3+24bXjRNW9I='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://michaelfogler.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://michaelfogler.wordpress.com/activism/co-op/" />
+<link rel='shortlink' href='http://wp.me/P2hgSL-d' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fmichaelfogler.wordpress.com%2Factivism%2Fco-op%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fmichaelfogler.wordpress.com%2Factivism%2Fco-op%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Cooperative Movement" />
+<meta property="og:url" content="https://michaelfogler.wordpress.com/activism/co-op/" />
+<meta property="og:description" content="An important movement in the world today is the Cooperative Movement. Â A cooperative, according to the definition in Wikipedia,Â is an autonomous association of persons who voluntarily cooperate forâ€¦" />
+<meta property="article:published_time" content="2012-03-11T04:39:04+00:00" />
+<meta property="article:modified_time" content="2016-05-25T14:14:21+00:00" />
+<meta property="og:site_name" content="Michael Fogler" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://michaelfogler.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://michaelfogler.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://michaelfogler.wordpress.com/osd.xml" title="Michael Fogler" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#ddd48b" />
+<meta name="application-name" content="Michael Fogler" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Liberal recovering from woo... #Atheist, now mostly former classical guitarist" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://michaelfogler.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="The Cooperative Movement | Michael Fogler on WordPress.com" />
+<meta name="description" content="An important movement in the world today is the Cooperative Movement. Â A cooperative, according to the definition in Wikipedia,Â is an autonomous association of persons who voluntarily cooperate for their mutual social, economic, and cultural benefit. Cooperatives include non-profit community organizations and businesses that are owned and managed by the people who use its services (a&hellip;" />
+	<style>
+			#branding {
+			display: block;
+			background: transparent url( "https://michaelfogler.files.wordpress.com/2013/08/cropped-dscf0444.jpg" ) 0 0 no-repeat;
+			padding: 20px;
+			text-decoration: none;
+			width: 980px;
+			height: 110px;
+		}
+			#site-title,
+		#site-title a,
+		#site-description {
+							color: #001ea5;
+					}
+	</style>
 <style type="text/css">
-<!--
-body {background:#FFFFFF; color:#000000}
-a:link {color:#003C84}
-a:visited {color:#700070}
-a:hover, a:active {color:#C00000; text-decoration:underline}
-
-h1 {font:bold 24px arial; text-align:center; margin:0px; padding:0px}
-h2 {font:bold 24px arial; line-height:105%; text-align:left; margin:0px; padding:0px; position:relative; left:-1px}
-
-#left a:link, #left a:visited {color:#003C84; text-decoration:none}
-#left a:hover, #left a:active {color:#C00000; text-decoration:underline}
-
-#left_cols th {padding:2px 4px 2px 4px; text-align:center}
-#left_cols td {padding:8px 13px 8px 4px}
-#left_cols td b {font-size:13px; color:#000000; text-decoration:none}
-
-#left_sister img {margin-bottom:14px}
-#right_banners img {margin-bottom:18px}
-
-.hd {font:bold 24px arial,helvetica; line-height:105%; position:relative; left:-1px}
-.sub {font:17px verdana,arial,helvetica; margin-top:1px; margin-bottom:10px}
-.sub_top {font:bold 16px arial,helvetica; margin-top:1px; color:#202020}
-.alert {font:bold 13.5pt arial,helvetica; color:#B80000; margin-bottom:1px}
-
-.sublink {text-indent:-12px; margin-left:30px; font:bold 10pt arial,helvetica}
-.sublinks {padding-left:34px; margin-left:0px; margin-top:5px; font:bold 9pt arial,helvetica}
-
-.img_l {float:left; padding:1px 5px 6px 0px; position:relative; z-index:99}
-.img_r {float:right; padding:16px 0px 6px 12px; position:relative; z-index:99}
-
-.top_menu li {margin:0px 22px 0px 0px; display:inline}
-.noprint .top_menu a {text-decoration:none; color:#FFFFFF}
-
-
-//-->
+body.custom-background #main{ background-color: #ddd48b; background-image: none; }
 </style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+
 </head>
-<body topmargin="0" bottommargin="0" marginheight="0" leftmargin="0" rightmargin="0" marginwidth="0">
 
+<body class="page-template-default page page-id-13 page-child parent-pageid-11 custom-background mp6 customizer-styles-applied content-sidebar highlander-enabled highlander-light">
 
+	<div id="container">
+	
+		<div id="header" class="contain">
 
+			<div class="wrap">
 
-<!-- Logo -->
-<div id="logo" style="background:#D1AD74 url('images/logo_new_bg.gif')">
-<center><div style="width:958px; position:relative">
-	<div class="noprint" style="position:absolute; left:40px; top:3px; font:bold 13px arial; color:#003C84; text-align:left">
-	RenewAmerica.com
-	<span style="margin-left:221px">April 25, 2017</span>
-	<span style="margin-left:124px"><a href="subscribe" style="color:#B80000; text-decoration:none">Click here to receive our twice-weekly Newsletter</a></span>
-	</div>
-<img src="images/logo_new.jpg" width="958" height="150"><br>
-<div class="noprint">
-<ul class="top_menu" style="margin:0px; padding:0px; display:inline; font:bold 15px arial; color:#FFFFFF; position:absolute; left:45px; top:131px">
-<li><a href="./">Home</a></li>
-<li><a href="bb/">Forum</a></li>
-<li><a href="analysis.php">Analysis</a></li>
-<li><a href="links.htm">Links</a></li>
-<li><a href="documents_menu.htm">Documents</a></li>
-<li><a href="activism.htm">Activism</a></li>
-<li><a href="about.htm">About</a></li>
-<!--<li><a href="donate.htm">Donate</a></li>-->
-<li><a href="contact.php?n=1493157191" onClick="document.forms['contact_ok'].submit(); return false" rel="nofollow">Contact</a></li>
-<form name="contact_ok" action="contact.php" method="POST" style="display:inline"><input type="hidden" name="ok" value="1"><input type="hidden" name="n" value="1493157191"></form>
+									<a id="branding" href="https://michaelfogler.wordpress.com/" title="Michael Fogler" rel="home">
+						<h1 id="site-title">Michael Fogler</h1>
+						<div id="site-description">Liberal recovering from woo&#8230; #Atheist, now mostly former classical guitarist</div><!-- #site-description -->
+					</a><!-- #branding -->
+
+				
+			</div><!-- .wrap -->
+		</div><!-- #header -->
+
+		<div id="main">
+
+			<div class="wrap contain">
+
+				<div id="access">
+					<div class="menu"><ul id="menu-main-menu" class="menu"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="https://michaelfogler.wordpress.com/">Home</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="https://michaelfogler.wordpress.com/music/">Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://michaelfogler.wordpress.com/music/teaching/">Teaching</a></li>
+	<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://michaelfogler.wordpress.com/music/cds/">CDs and Links</a></li>
 </ul>
-
-<div style="position:absolute; left:760px; top:129px; font:12pt arial">
-<form action="search.php" method="GET" style="display:inline">
-<input type="text" name="q" value="Search" onFocus="if (this.value == 'Search') this.value=''" onBlur="if (this.value == '') this.value='Search'" size="12" style="font:12px arial; width:172px; border:none; background:#F8EEEC; padding-left:2px; padding-right:26px"><input type="image" src="images/search_icon2.png" width="15" height="16" border="0" align="absmiddle" style="position:relative; left:-18px">
-<input type="hidden" name="google" value="1">
-</form>&nbsp;
-</div>
-</div><!-- noprint -->
-</div></center>
-</div><!-- Logo -->
-
-
-
-<!-- Vertical middle (below logo, above footer) -->
-<center><div id="page" style="text-align:left; position:relative">
-
-
-
-
-
-
-<center><div id="content" style="text-align:left">
-
-
-
-
-
-
-
-<center style="margin-bottom:40px"><b><font face="cg times,times new roman,garamond" size="6" color="#A80000" style="font-size:28pt">How the grassroots works</font></b></center>
-
-Any political strategy that depends on broad grassroots support for its success needs to be based on a <i><b>sound understanding of how the grassroots works</b>.</i> Without such an understanding, the strategy will tend to miscalculate its approach to handling the grassroots, resulting in failure.<br><br>
-
-<img src="images/activism_march.jpg" width="311" height="143" style="float:right; margin:0px 0px 10px 22px">
-The fact is, the "grassroots" is not like anything else in politics. By its very nature, it's fiercely resistant to central control — yet it can be incomparably loyal and self-sacrificing. Properly understood and respected (and hence properly utilized), it has the potential to alter an entire culture. Approached incorrectly, it will turn on those who seek to exploit it.<br><br>
-
-<i>For these reasons, today's major political movements tend to ignore the grassroots and focus almost exclusively on the use of <b>media</b></i> to gather winning support at the polls. This works fine as long as the media are susceptible to being courted. But a cause that seriously challenges the media's inherent or conventional tendencies cannot afford to rely alone on media exposure — including paid advertising. Positive gains by unconventional movements can easily be undone by the media through its powerful domination of the public mind. <i><b>Freedom-minded Americans must therefore find ways to MOBILIZE THE GRASSROOTS</b></i> if they are to have any hope of making enduring improvements to American society.<br><br>
-
-<b>Definition</b><br><br>
-
-By definition, the grassroots is the <i>bottom of the political pyramid,</i> opposite the "establishment," which controls the top. While the establishment concentrates power in relatively few people in the highest echelons of power — typically party leaders, elected officials, appointed aides or bureaucrats, and others who wield considerable authority over others (and whose business is limiting others' choices) — <i><b>the grassroots includes virtually everyone else,</b></i> those common people who do not necessarily hold any political office and who may even be getting their first taste of politics in a particular cause.<br><br>
-
-It is important to understand, however, that the above model is overly simplified. The grassroots and the establishment <i>can often be the same.</i> People can function simultaneously in either realm, and many often do. In fact, a large proportion of <i>grassroots activists</i> are current office holders or party leaders who are deeply engaged, alongside common citizens, in what could only be described as grassroots activism — involving them in cooperative, advisory, or leadership roles with people of the lower echelons. At the same time, many at the grassroots are inseparable in the public mind from the highest levels of political power, because of their effectiveness in influencing elected officials to change public policy.<br><br>
-
-<img src="images/activism_march2.jpg" width="194" height="170" style="float:left; margin:0px 14px 10px 0px">
-What this means is that, ultimately, <i><b>"the grassroots" is an ATTITUDE</b>.</i> It is an attitude of freedom, of creativity, of unrestrained political enthusiasm, of willingness to band together with ordinary citizens for a common purpose. <i>It has nothing inherently to do with holding a position.</i> It is what some political leaders do outside or beyond their official duties when they get involved in popular causes. It is what regular people do politically alongside others of like minds, <i>without undue concern for conventional roles or authority.<br><br>
-
-<b>The grassroots is the very essence of politics</b>.</i> It is dumping tea in a harbor, or standing up and testifying at a local city council meeting, or taking a political candidate aside after a rally and giving him or her some advice, or handing out leaflets at a mall. It is that whole realm of politics <i>beyond official station,</i> although many of high station moonlight as grassroots activists — some unintentionally, by their willingness to rub shoulders with the citizenry.<br><br>
-
-<b>Grassroots behavior</b><br><br>
-
-People at the grassroots are anxious to <i><b>do something.</b></i> They are especially anxious to <i><b>do something MEANINGFUL</b> — at least to them.</i> They are politically-minded people who — when they find a cause worthy of their time, energy, and means — are willing to let go of inhibitions, fears, and preconceptions and jump into the cause with unusual passion.<br><br>
-
-Motivated grassroots activists can be counted on to carry the burden for any particular political cause. They will make phone calls, label envelopes, knock on doors, organize their friends and relatives, e-mail everybody on their lists, march in the streets, put up yard signs, attend rallies, volunteer for leadership, write letters to editors, lobby VIP's, distribute petitions, donate money, and in countless other ways make great personal sacrifice for what they believe in.<br><br>
-
-They do these things because of <i><b>their belief in the ideals that define what it means to be an American</b>. Nearly all true grassroots activists in our nation — </i> unlike establishment authorities who control the political process (including those in academia and the media) — are thus <I><B>FUNDAMENTALLY CONSERVATIVE</B>.</i> They are at least believers in the sanctity of American's founding ideals and are inclined to support the causes of economic liberty, natural law, and moral responsibility. They are rock-solid, sincere Americans.<br><br>
-
-And there are literally millions who fit this description. Given the right conditions, they will perform yeoman work indispensable to the success of any major political movement.<br><br>
-
-<img src="images/activism_march3.jpg" width="237" height="149" style="float:left; margin:0px 14px 10px 0px">
-<b>Activating the grassroots</b><br><br>
-
-<i>The real grassroots strength of America has never been fully tapped, at least not since our founding, when a large proportion of common citizens rose up and made a difference.</i> Whatever grassroots activity we see today is restricted mainly to those individuals who are the most assertive or outspoken. Millions of others would join these visible activists — in every movement from pro-life to pro-marriage to pro-Second Amendment to pro-property rights — if they knew where to turn for adequate leadership, and if they understood how far America has steadily moved toward the brink of social and political collapse. Unfortunately, the grassroots remain largely dormant, due to the fact that even principled political leaders have never learned to fully inspire the grassroots to meaningful action or enlist their full help.<br><br>
-
-Again, it is important to stress that virtually all truly <i><b>grassroots</b></i> activists are sympathetic to <i><b>moral conservatism</b>.</i> The lawless radicals we often see on the news holding America hostage are not genuine <i>grassroots.</i> They tend to be avant-garde elitists from academia whose main interest is dismantling America's traditions, in preparation for a world of government-dictated servility. <i>They take their orders from above — not below.</i> They are an extension of top-down plans for disrupting our society, not common Americans who sincerely want to preserve our nation from their position at the bottom of the political spectrum. True grassroots activism springs from ordinary citizens and tends toward principled American liberty, not dependency on increased government power.<br><br>
-
-That being the case — all those who would like to mobilize the grassroots for a particular purpose must, themselves, <i><b>embody and follow ideals that are consistent with those of America's founding, or the grassroots won't rise to the occasion.</b></i> This doesn't mean simply rallying citizens to the cause of preserving our nation — although that is essential. It means <i>respecting and exemplifying</i> the very principles that rallied our forebears: <i>treating the grassroots <b>as equals</b>; respecting the grassroots' <b>need for freedom</b>; and recognizing that no one controls the grassroots <b>from the top down</b>.</i><br><br>
-
-Below are principles for working with the grassroots, based on the typical behavior of those who join grassroots movements. These principles cannot be divorced from any serious attempt to reclaim America through broad grassroots activism.<br><br>
-
-<ol>
-<li><img src="images/activism_march4.jpg" width="228" height="177" style="float:right; margin:0px 0px 10px 22px">
-The most important thing to remember in dealing with the grassroots is that the grassroots can't be <b>"</b><i><b>managed.</b></i><b>"</b> You can <i>enlist</i> them, but you can't centrally <i>contain, restrain, or coerce</i> them. <i>Any attempt to manage, manipulate, govern, direct, exploit, or otherwise "use" the grassroots <b>from the top down</b> will fail,</i> because such oversight is intrinsically antithetical — even offensive — to grassroots activism. Instead, those who seek to involve the grassroots in their cause must largely defer to the grassroots, even cater to the grassroots' vision of the cause at issue. People at the grassroots can be <i>led — </i> within certain inviolable principles — but they can't be <i>made subservient</i>.<br><br>
-
-<li>The secret to enlisting the enthusiastic support of the grassroots is to <i><b>inspire</b></i> citizens with patriotic, common-sense rhetoric that defines a cause worthy of their wholehearted support. Most Americans respond positively to sincere appeals to preserving America's distinctive ideals, and the more intelligent and sensible the appeal, the more effective. Any demagoguery or other calculated "motivational" techniques may rally some people for the short-term — but only the <i>truth,</i> spoken plainly and courageously without attempts at manipulation, will mobilize broad grassroots activity for the long haul. The goal is to persuade with reason, in a way that naturally evokes passionate support for the movement at hand.<br><br>
-
-<li><i>Once inspired,</i> grassroots activists want <i><b>meaningful work to do</b>.</i> The role of organizers, therefore — besides inspiring the grassroots — is to give interested activists well-prepared <i><b>resources</b></i> that they can use to make their own unique contribution to the common cause. <i>In fact, that is mainly all that enthusiastic activists need from those at the top of their movement.</i> With a variety of good resources from which to choose — including self-instructional handbooks, guidelines for potential activities, effective literature, quality signs, comprehensive contact information, up-to-date voter and party lists, and other useful resources — volunteers are ready to hit the streets in search of opportunities to make a difference.<br><br>
-
-<li><i><b>Those at the top of the movement need to see THEMSELVES mainly as RESOURCES.</b></i> Since they can't do anything directly to "control" the movement, once it begins to attract strong activists, they will be most influential if they adopt a posture of <i><b>doing all they can to help those below them.</b></i> In fact, that is the essence of good leadership. Motivated grassroots followers will respond well to leaders who see themselves primarily as supports to those in the trenches. They will respond poorly to leaders who cross the line and try to use those in the trenches to further their own well-laid plans.<br><br>
-
-<li>The grassroots absolutely must be <i><b>trusted to take initiative</b>.</i> Because being "grassroots" is mainly an <i>attitude</i> that centers in wanting to preserve freedom, those who wish to mobilize the grassroots for a particular cause must respect and even nurture the <i>attitude of freedom and creativity</i> that is the very reason those at the grassroots are involved in the cause in the first place. Just as important, grassroots organizers must realize that <i>there is more talent, wisdom, experience, and expertise concentrated at the grassroots</i> than there is at the top of any political movement. <i><b>Activists must be allowed — indeed, they must be ENCOURAGED — to take broad initiative and be creative in furthering the cause at issue.</b></i> The results will exceed anything that detailed planning or micro-management by their leaders will ever produce.<br><br>
-
-<li><img src="images/activism_speaking2.jpg" width="221" height="146" style="float:right; margin:0px 0px 10px 22px">
-Although grassroots workers need freedom in which to function, they also appreciate reasonable <i><b>guidance</b></i> to help them know how to participate effectively <i>with others</i> in a cooperative effort. Few grassroots activists expect unrestrained freedom to do whatever they choose in a major political movement. Most prefer — and expect — sensible leadership from experienced grassroots activists to guide them in working productively with others. A movement's leaders would therefore be well-advised to <i>offer grassroots volunteers <b>clear written guidelines</b> for working collectively.</i> The only problem with doing so arises when published or "official"-sounding guidelines lack common sense or treat volunteers without due respect. <i>All "top-down" policies in a political movement must be self-evidently reasonable, or workers at the grassroots will quickly lose confidence in those who seek to lead.</i><br><br>
-</ol>
-
-<b>Conclusion</b><br><br>
-
-These simple principles for organizing grassroots activists will — if followed at least in spirit — unleash the power of the grassroots to accomplish great things in the political arena, on a scale never before seen.<br><br>
-
-America wasn't built by stifling the individuality of free-thinking idealists. Nor will it be saved by such means. Those who intend to renew American liberty and character need to lead the grassroots to cultural and political dominance <i><b>on the grassroots' own terms.</b></i><br><br>
-
-<div style="font:13px arial; text-align:center; margin-top:40px">
-<img src="images/activism_rally.jpg" width="637" height="336" border="1"><br>
-<center><div style="width:560px; margin-top:4px">
-A rally of 5,000 that resulted from the grassroots march depicted in the photos above — video of which was re-played for several days on local TV stations prior to the rally.  Both the march and the rally, which occurred in 2000, were staged entirely by a small group of volunteer activists.<br>
-</div></center>
-</div>
-
-<div style="margin-top:42px; font-size:15px"><img src="images/arrow.gif" width="8" height="7">&nbsp;<i><b><a href="activism.htm">Back to Activism page</a></b></i><br></div><br>
-<br>
-
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-</div></center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></center><!-- Vertical middle -->
-
-
-
-
-
-
-
-
-<div id="bottom_menu" class="noprint" style="margin-top:140px">
-<div style="background:url('images/footer.jpg'); width:100%; height:186px; text-align:center; font:bold 16px arial; color:#0040B8"><div style="padding-top:78px">
-<i>They that wait upon the Lord shall renew their strength.</i> —Isaiah 40:31<br>
-</div></div>
-
-</div>
-
+</li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-18"><a href="https://michaelfogler.wordpress.com/activism/">Activism</a>
+<ul class="sub-menu">
+	<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://michaelfogler.wordpress.com/activism/peace-and-justice-movement/">Peace and Justice Movement</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-20"><a href="https://michaelfogler.wordpress.com/activism/co-op/">The Cooperative Movement</a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://michaelfogler.wordpress.com/activism/the-green-party/">The Green Party</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://michaelfogler.wordpress.com/mankind-project/">ManKind Project</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://michaelfogler.wordpress.com/un-jobbing/">Un-Jobbing</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://michaelfogler.wordpress.com/contact/">Contact</a></li>
+</ul></div>				</div><!-- #access -->
+	<div id="content">
+
+		<div class="hfeed">
+
+			
+				
+					<div id="post-13" class="post-13 page type-page status-publish hentry contain">
+
+						<h1 class="entry-title">The Cooperative Movement</h1>
+						<div class="entry-content">
+
+							<p>An important movement in the world today is the <strong><a href="http://en.wikipedia.org/wiki/Cooperative_movement" target="_blank">Cooperative Movement</a></strong>. Â A cooperative, according to the definition in Wikipedia,Â is <em>an autonomous association of persons who voluntarily cooperate for their mutual social, economic, and cultural benefit. Cooperatives include non-profit community organizations and businesses that are owned and managed by the people who use its services (a consumer cooperative) and/or by the people who work there (a worker cooperative).</em></p>
+<p>Rather than the standard business model, in which the main purpose is to make the most money possible for the shareholders, the cooperative business model involves organizing in order to serve a constituency in the best possible way. Â In co-ops, the typical setup is selling ownership shares, but only one share per person. Â One (rich) person cannot buy lots of shares in an attempt to take over the company. Â The cooperative is much more democratic, in that one person, one share, one vote is the rule.</p>
+<p>There are many types of co-ops in the world, including food co-ops, agricultural co-ops, electric utility co-ops, and others. Â Credit Unions are financial institutions organized in the co-op model, which makes them distinctly different from the typical commercial bank. Â The commercial bank is about making as high a profit as possible. Â The Â credit union is about providing financial services to its members as well as possible. Â I would certainly recommend using a credit union rather than a standard commercial bank.</p>
+<p>Food co-ops are probably the best known cooperatives in the US. Â They are typically far more local product-oriented and environmentally friendly than a typical supermarket, or even a for-profit natural foods chain. Â I have been involved with a food co-op in my city, the <strong><a href="http://goodfoods.coop" target="_blank">Good Foods Co-op</a>, </strong>as consumer, board member, and now, employee. I highly recommend spending your food dollars at a local food co-op than any other place. Â This truly makes an impact on the local community and the world at large.</p>
+<p>To explore where co-ops are, especially in the US, seeÂ <strong><a href="http://coopdirectory.org/">The Co-op Directory</a>.</strong></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://michaelfogler.wordpress.com/activism/co-op/?share=email" target="_blank" title="Click to email"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-13" class="share-twitter sd-button share-icon" href="https://michaelfogler.wordpress.com/activism/co-op/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-13" class="share-facebook sd-button share-icon" href="https://michaelfogler.wordpress.com/activism/co-op/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-13" class="share-linkedin sd-button share-icon" href="https://michaelfogler.wordpress.com/activism/co-op/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-33669147-13-590b7851e770c' data-src='//widgets.wp.com/likes/#blog_id=33669147&amp;post_id=13&amp;origin=michaelfogler.wordpress.com&amp;obj_id=33669147-13-590b7851e770c' data-name='like-post-frame-33669147-13-590b7851e770c'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+							
+						</div><!-- .entry-content -->
+
+						
+					</div><!-- .hentry -->
+
+					
+<div id="comments-template">
+
+	<div class="comments-wrap">
+
+		<div id="comments">
+
+			
+		</div><!-- #comments -->
+
+		
+		
+	</div><!-- .comments-wrap -->
+
+</div><!-- #comments-template -->
+
+				
+			
+		</div><!-- .hfeed -->
+
+	</div><!-- #content -->
+
+	
+
+	<div id="sidebar-primary" class="sidebar">
+	
+		<div id="image-2" class="widget widget_image"><h3 class="widget-title">Thanks for visiting!</h3><div style="overflow:hidden;"><img src="https://michaelfogler.files.wordpress.com/2013/08/image.jpg?w=100&amp;h=100" class="aligncenter" width="100" height="100" /></div>
+</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2017/04/21/a-pitch-to-normalizeatheism/">A Pitch to #NormalizeAtheism</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2017/02/08/instead-of-elections-have-consequences-we-should-be-saying-electoral-systems-have-consequences/">Instead of &#8220;Elections have consequences&#8221; we should be saying: &#8220;Electoral SYSTEMS have consequences.&#8221;</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2016/12/07/election2016-the-elephant-in-the-living-room-the-winner-take-all-binary-choice/">#Election2016 â€“ The Elephant in the Living Room: The (Winner-Take-All) Binary&nbsp;Choice</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2016/10/08/election2016-its-the-same-ol-same-ol-just-worse-heres-why/">#Election2016: It&#8217;s the same ol&#8217; same ol&#8217; â€“ just worse. Here&#8217;s&nbsp;why.</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2016/09/05/join-me-in-boycotting-the-presidential-debates-heres-why/">Join me in boycotting the presidential debates â€“ here&#8217;s&nbsp;why</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2016/08/10/the-bernie-revolution-will-never-happen-until-we-reform-the-electoral-process/">The Bernie Revolution will never happen until we reform the electoral processÂ </a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2016/04/07/words-for-which-i-no-longer-have-any-use/">Words for which I no longer have any&nbsp;use</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2015/12/02/the-failure-of-prayer-atheism-makes-the-most-sense/">The Failure of Prayer (#Atheism makes the most&nbsp;sense)</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2015/08/09/18-facts-about-agriculture-which-are-contrary-to-what-i-used-to-believe-can-you-relate-to-these-agriculture-organic-gmo/">18 Facts about agriculture which are contrary to what I used to believe. Can you relate to these? #Agriculture #Organic&nbsp;#GMO</a>
+						</li>
+					<li>
+				<a href="https://michaelfogler.wordpress.com/2015/05/27/labeling-is-getting-out-of-hand-and-its-dumbing-us-down-mamyths-saynotobullshit/">Labeling is getting out of hand and it&#8217;s dumbing us down #MAMyths #SayNoToBullshit</a>
+						</li>
+				</ul>
+		</div>		<div id="blog_subscription-2" class="widget widget_blog_subscription"><h3 class="widget-title"><label for="subscribe-field">Follow This Blog via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="33669147"/>
+						<input type="hidden" name="source" value="https://michaelfogler.wordpress.com/activism/co-op/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="f779f3e3b9" />						<input type="submit" value="Sign me up!" />
+					</p>
+				</form>
+			
+</div><div id="rss_links-2" class="widget widget_rss_links"><h3 class="widget-title">Follow this blog via RSS</h3><p class="size-small"><a class="feed-image-link" href="https://michaelfogler.wordpress.com/feed/" title="Subscribe to Posts"><img src="https://michaelfogler.wordpress.com/i/rss/red-small.png?m=1391188133h" alt="RSS Feed" /></a>&nbsp;<a href="https://michaelfogler.wordpress.com/feed/" title="Subscribe to Posts">RSS - Posts</a></p>
+</div><div id="twitter_timeline-2" class="widget widget_twitter_timeline"><h3 class="widget-title">Follow me on Twitter</h3><a class="twitter-timeline" data-width="225" data-height="400" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" data-widget-id="371764072741494784">My Tweets</a></div><div id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archive of Past Posts</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Archive of Past Posts</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://michaelfogler.wordpress.com/2017/04/'> April 2017 </option>
+	<option value='https://michaelfogler.wordpress.com/2017/02/'> February 2017 </option>
+	<option value='https://michaelfogler.wordpress.com/2016/12/'> December 2016 </option>
+	<option value='https://michaelfogler.wordpress.com/2016/10/'> October 2016 </option>
+	<option value='https://michaelfogler.wordpress.com/2016/09/'> September 2016 </option>
+	<option value='https://michaelfogler.wordpress.com/2016/08/'> August 2016 </option>
+	<option value='https://michaelfogler.wordpress.com/2016/04/'> April 2016 </option>
+	<option value='https://michaelfogler.wordpress.com/2015/12/'> December 2015 </option>
+	<option value='https://michaelfogler.wordpress.com/2015/08/'> August 2015 </option>
+	<option value='https://michaelfogler.wordpress.com/2015/05/'> May 2015 </option>
+	<option value='https://michaelfogler.wordpress.com/2015/02/'> February 2015 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/12/'> December 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/10/'> October 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/07/'> July 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/06/'> June 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/05/'> May 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/04/'> April 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/03/'> March 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/02/'> February 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2014/01/'> January 2014 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/10/'> October 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/09/'> September 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/08/'> August 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/07/'> July 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/05/'> May 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/04/'> April 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/03/'> March 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/02/'> February 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2013/01/'> January 2013 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/12/'> December 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/11/'> November 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/10/'> October 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/09/'> September 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/08/'> August 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/07/'> July 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/06/'> June 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/05/'> May 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/04/'> April 2012 </option>
+	<option value='https://michaelfogler.wordpress.com/2012/03/'> March 2012 </option>
+
+		</select>
+		</div><div id="search-2" class="widget widget_search"><h3 class="widget-title">Search Posts on this site</h3>
+<div class="search">
+	<form method="get" id="searchform" class="searchform" action="https://michaelfogler.wordpress.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" value="" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</div><!-- .search --></div>
+	</div><!-- #sidebar-primary .aside -->
+
+
+
+			</div><!-- .wrap -->
+
+		</div><!-- #main -->
+
+		<div id="footer">
+
+			<div class="wrap">
+				<p class="credit">
+					<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com.</a>
+									</p>
+			</div><!-- .wrap -->
+
+		</div><!-- #footer -->
+
+	</div><!-- #container -->
+
+	<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201718y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/michaelfogler.wordpress.com\/activism\/co-op\/":13};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/activism/co-op/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"33669147","siteName":"Michael Fogler","siteURL":"http:\/\/michaelfogler.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/retro-fitted","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/michaelfogler.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmichaelfogler.wordpress.com%2Factivism%2Fco-op%2F","themeURL":"","xhrURL":"https:\/\/michaelfogler.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"c3e6e33758","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"f779f3e3b9\" \/>","referer":"https:\/\/michaelfogler.wordpress.com\/activism\/co-op\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/michaelfogler.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fmichaelfogler.wordpress.com%2Factivism%2Fco-op%2F","postID":"13","shortlink":"http:\/\/wp.me\/P2hgSL-d","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/michaelfogler.wordpress.com\/13","statsLink":"https:\/\/wordpress.com\/stats\/post\/13\/michaelfogler.wordpress.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Retro-fitted","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 448 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/michaelfogler.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmichaelfogler.wordpress.com%2Factivism%2Fco-op%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJx9jcESwiAMRH9ITNtxdDw4foqDNLahEBBC6+eLBx1PnHZns28DW1QmsCAL2AwjrmQwvvY27+Dv5IuKrkzEGRwtmOFZsOCseXSYGmWLErVZ4EZsQDYSwaSEPDpibHB69MTqrhN4nStTnQorpkRjff7LWgtGKPBn4eca7RiyqIfTlCDPOhFPX63Q1V/6w3noumM/nOwbmw1ydQ=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "michaelfogler.wordpress.com";
+	</script>
+	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'33669147','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'33669147','v':'wpcom','tz':'-4','user_id':'0','post':'13','subd':'michaelfogler'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhzVndTdktBX0ddJnpXRjVaOTd6fj1YMX4ydzR6MmRCYnxkNmdHcVp2eFNYJW5ra2VkVSZoSTRDc0NmRXpYZCZ4LjFFaVpLR202fHhTeUc0L21rWEN2X3FxWXB2a0dXNlhZUSVNVEN1VV9+OG5hbG5MREpVK0FFL0dVZD1NSTN+dF8/c3pKWUlXXSY2JVFQUjFdMl1JcUllJllzaUZ2VDNxM3hzRiZdVnJ6OXQmWWVNREY0M3RBb1V1dUtsbHBONkN5Tno4bEMuTXQ9c2ZbLEVYdD1tSEMtaDJFYXlwfHpISG5IWms3VkcmLkorb189N2laZ2E4cHJdeS80LzNkT3U/JUEzPXc='}]);
+_stq.push([ 'clickTrackerInit', '33669147', '13' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
 </body>
 </html>

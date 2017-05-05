@@ -1,0 +1,266 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><link rel="shortcut icon" href="http://www.documentarytube.com/favicon.ico?v=1.1" /><meta name="csrf-param" content="_csrf"><meta name="csrf-token" content="Y2R4bEQwajdTJRQ2HV07BFEHQUEHYxJdJAoWLSB3Hw8sLzU/AHQiUQ=="><title>Zeitgeist Movement Activist and Orientation Guide | DocumentaryTube</title><meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta property="og:description" content="he Zeitgeist Movement is not a political movement. It does not recognize nations, governments, races, religions, creeds or class. Our understanding concl...">
+<meta property="og:title" content="Zeitgeist Movement Activist and Orientation Guide">
+<meta property="og:image" content="https://d1nz104zbf64va.cloudfront.net/dt/v/o/zeitgeist-movement-activist-and-orientation-guide.jpg">
+<meta property="og:url" content="http://www.documentarytube.com/videos/zeitgeist-movement-activist-and-orientation-guide">
+<meta property="og:type" content="video">
+<meta property="og:site_name" content="DocumentaryTube">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@pokervip">
+<meta property="twitter:creator" content="@pokervip">
+<meta name="twitter:domain" content="documentarytube.com">
+<meta property="twitter:url" content="http://www.documentarytube.com/videos/zeitgeist-movement-activist-and-orientation-guide">
+<meta name="description" content="he Zeitgeist Movement is not a political movement. It does not recognize nations, governments, races, religions, creeds or class. Our understanding concl...">
+<meta property="og:video" content="http://www.documentarytube.com/embed/zeitgeist-movement-activist-and-orientation-guide?autoplay=1">
+<meta property="og:video:type" content="application/x-shockwave-flash">
+<meta property="og:video:width" content="0">
+<meta property="og:video:height" content="0">
+<meta property="twitter:title" content="Zeitgeist Movement Activist and Orientation Guide">
+<meta property="twitter:description" content="he Zeitgeist Movement is not a political movement. It does not recognize nations, governments, races, religions, creeds or class. Our understanding concl...">
+<meta property="twitter:image:src" content="https://d1nz104zbf64va.cloudfront.net/dt/v/o/zeitgeist-movement-activist-and-orientation-guide.jpg">
+<link href="http://www.documentarytube.com/videos/zeitgeist-movement-activist-and-orientation-guide" rel="canonical">
+<link href="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-cb7e822426.min.css" rel="stylesheet"></head><body><div id="fb-root"></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=131936270333958";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div role="navigation" class="navbar navbar-default navbar-fixed-top"><div class="container"><div class="navbar-header"><button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="http://www.documentarytube.com/" class="navbar-brand"><img class="auto" width="147" src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-328ed81066.svg#logo" alt="DocumentaryTube"></a></div><div class="navbar-search allow-click hide-mobile hide-tablet"><div class="searchform-div"><form method="get" class="searchform cf" action="/search/"><div class="search-text-div rel fl"><span class="search-loader"></span><span class="icon fa fa-search mr5"></span><input id="search-box-input" type="text" name="q" autocomplete="off" class="search-text search-text-full" value="" placeholder="Search..."/><span class="search-close search-close-full" onclick="jQuery('#search-box-input').val('');jQuery('.search-close').fadeOut();"><span class="icon fa fa-times"></span></span></div></form></div></div><div class="navbar-collapse collapse navbar-right"><ul id="main-nav" class="nav navbar-nav"><li><a href="http://www.documentarytube.com/">Home</a></li><li><a href="http://www.documentarytube.com/videos">Discover</a></li><li><a href="http://www.documentarytube.com/top">Top 100</a></li><li><a href="http://www.documentarytube.com/articles">Articles</a></li><li><a href="http://www.documentarytube.com/suggest">Suggest</a></li><li class="ml20 login-btn"><a href="/login" class="btn btn-blue shadow">Login</a></li></ul><div class="navbar-search allow-click show-mobile show-tablet"><div class="searchform-div"><form method="get" class="searchform cf" action="http://www.documentarytube.com/search/"><div class="search-text-div rel fl"><span class="search-loader"></span><span class="icon fa fa-search mr5"></span><input id="search-box-input" type="text" name="q" autocomplete="off" class="search-text" value="" placeholder="Search..."/><input type="submit" class="search-submit btn btn-grey" value="Search"/></div></form></div></div></div></div></div><div class="head-spacer"></div><div class="container"><div class="row"><div class="col-lg-12"><ul class="breadcrumb"><li><a href="http://www.documentarytube.com/"><span>DocumentaryTube</span></span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.documentarytube.com/videos"><span itemprop="title">Videos</span></a></li><li><span class="padder t-up"><span>Zeitgeist Movement Activist and Orientation Guide</span></span></li></ul></div></div></div><div class="container mt35 mb35" itemscope itemtype="http://schema.org/VideoObject"><div class="row"><div class="col-lg-12"><div class="row"><div class="col-lg-12 article-block"><meta content="http://www.documentarytube.com/embed/zeitgeist-movement-activist-and-orientation-guide" itemprop="embedURL"><meta content="https://d1nz104zbf64va.cloudfront.net/dt/v/o/zeitgeist-movement-activist-and-orientation-guide.jpg" itemprop="thumbnailURL"><meta content="" itemprop="height"><meta content="" itemprop="width"><meta class="updated" content="2014-12-13T01:01:31+00:00" itemprop="datePublished"><meta content="PT01H37M06S" itemprop="duration"><h1 class="article-title">Zeitgeist Movement Activist and Orientation Guide</h1><div class="row mb25"><div class="col-sm-7"><ul class="icon-list tal"><li class="category ml0"><a href="/social">Social</a></li><li><span class="fa fa-eye"></span>937</li><!--<li><span class="fa fa-heart"></span>213</li>--></ul></div><div class="col-sm-5"><ul class="icon-list tar"><li>Published 2 years ago</li><li class="star">Not Rated<span class="fa fa-star"></span></li></ul></div></div><div class="video-box mb30"><div class="sb-player" data-type="2" data-vidid="kyM8_itI9Yc"  data-playlist="" style="margin:0;padding:0;width:100%;height:100%;"><div id="player"></div></div><div class="end-screen-youtube"></div></div><div class="row"><div class="col-sm-6"><div class="share-box-big"><div id="share-widget" data-url="http://www.documentarytube.com/videos/zeitgeist-movement-activist-and-orientation-guide" data-text="Watch Full-Length Documentaries Online for Free."></div></div></div><div class="col-sm-6"></div></div></div></div></div></div><div class="row"><div class="col-lg-8"><div class="row"><div class="col-lg-12 article-block"><p>he Zeitgeist Movement is not a political movement. It does not recognize nations, governments, races, religions, creeds or class. Our understanding concluded that these distinctions are false, outdated, they are far from positive factors for true collective human growth and potential. They are based in the division of power and stratification, not unity and equality, which is our goal.</p><p>While it is important to understand that everything in life is a natural progression, we must also recognize the reality that the human species has the ability to slow dramatically and paralyze progress, through social structures that are out of date, dogmatic, and therefore outside in accordance with nature. The world you see today, full of war, corruption, elitism, pollution, poverty, epidemics, human rights abuses, inequality and crime is the result of this paralysis.</p><p>This movement is about awareness, in avocation of a fluid evolutionary progress, both personal, social, technological and spiritual. Recognizes that the human species is in a natural way for unification, derived from a common recognition of the fundamental and empirical understanding about how nature works and how we as humans fit into / are part of this development that we call life universal .</p><p>Although this path does not exist, it is unfortunately hindered and not recognized by the vast majority of humans who continue to perpetuate outdated degenerative modes and therefore, conduct and association. It is this intellectual irrelevancy which the Zeitgeist Movement hopes to overcome through education and social action.</p><p>The movement itself is not a centralized building. We are not here to lead, but to organize and educate.</p><div class="rate-block"><div class="panel panel-default"><div class="panel-body"><div class="rate-title">Rate</div><div class="rate-stars"><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','1');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','2');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','3');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','4');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','5');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','6');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','7');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','8');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','9');"></div><div class="star fa fa-star " onclick="rateVid('zeitgeist-movement-activist-and-orientation-guide','10');"></div></div><div class="rate-title ml15">Not Rated</div><div class="report-title"><a href="#" data-id="561e2ac3d390434d358b492c" class="report-btn report-button" title="Report this video"  data-toggle="modal" data-target="#report-modal">Report</a><div class="modal fade" id="report-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"><div class="modal-dialog" role="document"><div class="modal-content"><div class="modal-header text-center"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><h4 class="modal-title text-center" id="myModalLabel">Report This Video</h4></div><div class="modal-body text-center"><p><a href="#" class="btn btn-default report-reason-button" vid-id="561e2ac3d390434d358b492c" data-reason="inappropriate"><span class="fa fa-exclamation"></span> Inappropriate Content</a></p><p><a href="#" class="btn btn-default report-reason-button" vid-id="561e2ac3d390434d358b492c" data-reason="duplicate"><span class="fa fa-copy"></span> Duplicate Content</a></p><p><a href="#" class="btn btn-default report-reason-button" vid-id="561e2ac3d390434d358b492c" data-reason="broken"><span class="fa fa-question"></span> Broken Content</a></p><p><a href="#" class="btn btn-default report-reason-button" vid-id="561e2ac3d390434d358b492c" data-reason="part-missing"><span class="fa fa-chain-broken"></span> Part Missing</a></p></div><div class="modal-footer"><button type="button" class="btn btn-default dismiss" data-dismiss="modal">Dismiss</button></div></div></div></div></div></div></div></div><h3 class="title mb25">From Around the Web</h3><div class="content-click-box" id="contentclick15670"></div><script type="text/javascript">
+                        (function() {
+                            var data =
+                            {
+                                pub_id: "6403",w_id: "15670",pw: "09296e1feee535", cbust: (new Date()).getTime()
+                            };
+                            if (typeof widgetCheck15670 === 'undefined')   {
+                                var u="";
+                                for(var key in data){u+=key+"="+data[key]+"&"}
+                                    u=u.substring(0,u.length-1);        
+                                var a = document.createElement("script");
+                                a.type= 'text/javascript';
+                                a.src = "https://api.contentclick.co.uk/pub_serve.php?" + u;
+                                a.async = true;     
+                                document.getElementById("contentclick15670").appendChild(a);
+                                window.widgetCheck15670 = "set";
+                            }
+                        })();       
+                    </script><h3 class="title mb25">Related Videos</h3></div></div><div class="spacing"><div class="row"><div class="col-sm-6"><div class="panel panel-default panel-feature-box" data-id="58a59447d390433e208b4593"><div class="panel-body"><div class="image-box"><a href="http://www.documentarytube.com/videos/dirty-wars-full-documentary-on-america-s-covert-wars" class="image-inner"><img class="category-image" src="https://d1nz104zbf64va.cloudfront.net/dt/c/0/54807683a525116d608b4719.jpg" alt="Social"></a><div class="image-thumb"><a href="http://www.documentarytube.com/videos/dirty-wars-full-documentary-on-america-s-covert-wars" class="image-thumb-inner"><img src="https://d1nz104zbf64va.cloudfront.net/dt/v/0/dirty-wars-full-documentary-on-america-s-covert-wars.jpg" alt="jeremy scahill dirty wars"></a></div><div class="provider-icon box youtube"><img width="30" height="30" src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-328ed81066.svg#youtube" alt="youtube icon"/><div class="timestamp">01:26:17</div></div><div class="category-title"><a href="/media">Media</a>
+						+2				</div></div><div class="box-title"><a href="http://www.documentarytube.com/videos/dirty-wars-full-documentary-on-america-s-covert-wars">Dirty Wars - Full Documentary on America&#039;s covert wars</a></div><div class="box-desc"><p>
+
+Jeremy Scahill is one of the best reporters in the United
+States. He is the founding editor of The Intercept, an online news publication,
+and author of some of the best US mi...</p></div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>1,358</li><li class="ago"><span class="fa fa-history"></span>2 months ago</li><li class="star">10<span class="fa fa-star"></span><span class="count">(4)</span></li></ul></div></div></div><div class="col-sm-6"><div class="panel panel-default panel-feature-box" data-id="561e2aced390434d358b5094"><div class="panel-body"><div class="image-box"><a href="http://www.documentarytube.com/videos/mac-barnett-why-a-good-book-is-a-secret-door" class="image-inner"><img class="category-image" src="https://d1nz104zbf64va.cloudfront.net/dt/c/0/54807683a525116d608b4719.jpg" alt="Social"></a><div class="image-thumb"><a href="http://www.documentarytube.com/videos/mac-barnett-why-a-good-book-is-a-secret-door" class="image-thumb-inner"><img src="https://d1nz104zbf64va.cloudfront.net/dt/v/0/mac-barnett-why-a-good-book-is-a-secret-door.jpg" alt="mac barnett"></a></div><div class="provider-icon box youtube"><img width="30" height="30" src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-328ed81066.svg#youtube" alt="youtube icon"/><div class="timestamp">17:04</div></div><div class="category-title"><a href="/lifestyle">Lifestyle</a>
+						+2				</div></div><div class="box-title"><a href="http://www.documentarytube.com/videos/mac-barnett-why-a-good-book-is-a-secret-door">Mac Barnett: Why a good book is a secret door</a></div><div class="box-desc"><p>
+
+We live in an era where people read fewer and fewer
+books. Especially children. With all this technology and advancement we have,
+children’s books are becoming rarity. Chil...</p></div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>522</li><li class="ago"><span class="fa fa-history"></span>2 months ago</li><li class="star">Not Rated<span class="fa fa-star"></span><span class="count"></span></li></ul></div></div></div><div class="clearfix"></div><div class="col-sm-6"><div class="panel panel-default panel-feature-box" data-id="58945897d39043411c8b4567"><div class="panel-body"><div class="image-box"><a href="http://www.documentarytube.com/videos/janpath-a-request-to-pm-modi-documentary-about-delhi-street-vendors" class="image-inner"><img class="category-image" src="https://d1nz104zbf64va.cloudfront.net/dt/c/0/54807683a525116d608b4719.jpg" alt="Social"></a><div class="image-thumb"><a href="http://www.documentarytube.com/videos/janpath-a-request-to-pm-modi-documentary-about-delhi-street-vendors" class="image-thumb-inner"><img src="https://d1nz104zbf64va.cloudfront.net/dt/v/0/janpath-a-request-to-pm-modi-documentary-about-delhi-street-vendors.jpg" alt="delhi market"></a></div><div class="provider-icon box youtube"><img width="30" height="30" src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-328ed81066.svg#youtube" alt="youtube icon"/><div class="timestamp">49:14</div></div><div class="category-title"><a href="/economics">Economics</a>
+						+2				</div></div><div class="box-title"><a href="http://www.documentarytube.com/videos/janpath-a-request-to-pm-modi-documentary-about-delhi-street-vendors">JANPATH: A Request to PM Modi - Documentary about Delhi Street Vendors</a></div><div class="box-desc"><p>
+
+Delhi in India is one of the most populated cities in the
+world. With population of close to 10 million, Delhi is definitely a huge city.
+As a big city, Delhi faces a number ...</p></div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>587</li><li class="ago"><span class="fa fa-history"></span>2 months ago</li><li class="star">8<span class="fa fa-star"></span><span class="count">(1)</span></li></ul></div></div></div><div class="col-sm-6"><div class="panel panel-default panel-feature-box" data-id="566192cdd39043e81a8b45aa"><div class="panel-body"><div class="image-box"><a href="http://www.documentarytube.com/videos/america-s-forgotten-pandemic-the-influenza-of-1918" class="image-inner"><img class="category-image" src="https://d1nz104zbf64va.cloudfront.net/dt/c/0/54807683a525116d608b4719.jpg" alt="Social"></a><div class="image-thumb"><a href="http://www.documentarytube.com/videos/america-s-forgotten-pandemic-the-influenza-of-1918" class="image-thumb-inner"><img src="https://d1nz104zbf64va.cloudfront.net/dt/v/0/america-s-forgotten-pandemic-the-influenza-of-1918.jpg" alt="1918 influenza"></a></div><div class="provider-icon box youtube"><img width="30" height="30" src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-328ed81066.svg#youtube" alt="youtube icon"/><div class="timestamp">55:36</div></div><div class="category-title"><a href="/health">Health</a>
+						+2				</div></div><div class="box-title"><a href="http://www.documentarytube.com/videos/america-s-forgotten-pandemic-the-influenza-of-1918">America&#039;s Forgotten Pandemic: The Influenza of 1918</a></div><div class="box-desc"><p>
+
+When a person sick by flu sneezes or coughs, more than
+half a million virus particles can spread to those that are close to the
+infected person. During the World War I, incre...</p></div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>473</li><li class="ago"><span class="fa fa-history"></span>2 months ago</li><li class="star">Not Rated<span class="fa fa-star"></span><span class="count"></span></li></ul></div></div></div><div class="clearfix"></div></div></div><div class="fb-comments" data-href="http://www.documentarytube.com/videos/zeitgeist-movement-activist-and-orientation-guide" data-width="100%" data-numposts="5"></div></div><!-- SIDEBAR--><div class="col-lg-4"><div class="panel panel-default panel-feature-box"><div class="panel-body alt bio"><div class="media"><div class="media-left"><a href="http://www.documentarytube.com/user/documentarytube" title="DocumentaryTube"><img src="https://d1nz104zbf64va.cloudfront.net/dt/u/0/v2-documentarytube.png" alt="Avatar" width="40" height="40" class="media-object"></a></div><div class="media-body"><h4 class="media-heading"><a href="http://www.documentarytube.com/user/documentarytube" rel="author" title="DocumentaryTube">DocumentaryTube</a></h4>
+                                3,488 Videos / 3,980,468 Views
+                            </div></div></div></div><div class="panel panel-default panel-feature-box"><div class="panel-title alt">Tags<span class="fa fa-tag icn"></span></div><div class="panel-body tag-wrap"><p><a href="/tag/social" role="button" class="btn btn-grey shadow">Social</a><a href="/tag/humans" role="button" class="btn btn-grey shadow">Humans</a><a href="/tag/evolution" role="button" class="btn btn-grey shadow">Evolution</a><a href="/tag/education" role="button" class="btn btn-grey shadow">Education</a><a href="/tag/spiritual" role="button" class="btn btn-grey shadow">Spiritual</a><a href="/tag/technology" role="button" class="btn btn-grey shadow">Technology</a></p></div></div><div class="panel panel-default panel-feature-box"><div class="panel-title alt">
+					Related Articles			</div><div class="panel-body alt article"><div class="image-box"><a href="http://www.documentarytube.com/articles/top-7-enlightening-latin-phrases-we-use-daily" class="image-inner"><img src="https://d1nz104zbf64va.cloudfront.net/dt/a/0/top-7-enlightening-latin-phrases-we-use-daily.jpg" alt="Top 7 Enlightening Latin phrases we use daily"></a><div class="category-title"><a href="/social">Social</a></div></div><div class="box-title"><a href="http://www.documentarytube.com/articles/top-7-enlightening-latin-phrases-we-use-daily">Top 7 Enlightening Latin phrases we use daily</a></div><div class="box-desc"> Latin is a dead language, nobody uses it in modern times. But there was a time when Latin was used to educate the masses</div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>699</li><li class="ago"><span class="fa fa-history"></span>2 months ago</li></ul><div class="box-title"><a href="http://www.documentarytube.com/articles/top-5-most-intelligent-dogs">Top 5 Most Intelligent Dogs</a></div><div class="box-desc">“Do dogs really think”, “can dogs communicate with us”, “how can we understand our dogs”?</div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>572</li><li class="ago"><span class="fa fa-history"></span>3 months ago</li></ul><div class="box-title"><a href="http://www.documentarytube.com/articles/the-most-popular-american-presidential-dogs">The most popular American Presidential Dogs</a></div><div class="box-desc">In the wake of Donald Trump becoming a President and waiting for his pet, we remember some of the dogs that lived in the...</div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>888</li><li class="ago"><span class="fa fa-history"></span>5 months ago</li></ul><div class="box-title"><a href="http://www.documentarytube.com/articles/5-victorian-etiquette-rules-that-changed-society-we-live-in">5 Victorian Etiquette Rules that Changed Society we live in</a></div><div class="box-desc">The Victorian era lasted from the 1830s to the 1900s and was named after queen Victoria’s reign</div><ul class="icon-list"><li class="views"><span class="fa fa-eye"></span>1,237</li><li class="ago"><span class="fa fa-history"></span>8 months ago</li></ul></div></div><div class="widget side-item mb15 test"><div class="twitter-box"><a class="twitter-timeline" href="https://twitter.com/DocumentaryTube" data-widget-id="539750042643734528"></a></div></div></div></div></div><script type="text/javascript">
+    function rateVid(obj, vote) {
+
+        jQuery.ajax({
+            url: '/rate/' + obj,
+            type: 'post',
+            data: {
+                'vote': vote,
+            },
+            dataType: 'json',
+            success: function (data, textStatus) {
+                if (data.update) {
+                    jQuery.growl.notice({
+                        title: 'Update:',
+                        message: data.message
+                    });
+                } else {
+                    if (data.login) {
+                    }
+                    if (data.message) {
+                        jQuery.growl.error({
+                            title: 'Update:',
+                            message: data.message
+                        });
+                    }
+                }
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+            }
+        });
+return false;
+}
+</script><div class="feature-ticker"><div class="container"><div class="row"><div class="col-lg-12 rel"><div id="newsData"></div><a href="#" class="fa fa-paragraph"></a><a id="prevDiv" href="#" class="fa fa-angle-left" onclick="return false;"></a><a id="nextDiv" href="#" class="fa fa-angle-right" onclick="return false;"></a><ul id="newsList"><li><a href="http://www.documentarytube.com/articles/fort-knox-secrets-fun-facts-and-the-defense" style="color:#fff;">Fort Knox was originally opened in 1937 as a depository for gold. Nowadays, the building is one of the most secured places, if not...</a></li><li><a href="http://www.documentarytube.com/articles/weird-statues-of-the-world-belle-in-amsterdam" style="color:#fff;">The Belle statue honors all sex workers around the world. The plaque reads “Respect sex workers all over the world”. Belle is ...</a></li><li><a href="http://www.documentarytube.com/articles/26-delicious-chocolate-facts-you-should-know" style="color:#fff;">Chocolate was first invented by the Aztecs, who made chocolate from ground cacao seeds. They added seasonings so that they can pro...</a></li></ul></div></div></div></div><div class="feature-footer"><div class="container"><div class="row"><div class="col-md-4"><h4 class="pad-out">About</h4><p>We're committed to providing the best documentaries from around the World.  With hundreds of free documentaries published and categorised every month, there's something for every taste. </p><div class="spacing"></div><div class="row"><div class="col-xs-4"><div id="social-facebook-40842" data-url="http://www.documentarytube.com"></div></div><div class="col-xs-4"><div id="social-google-40842" data-url="http://www.documentarytube.com"></div></div><div class="col-xs-4"><div id="social-twitter-40842" data-url="http://www.documentarytube.com"></div></div></div></div><div class="col-sm-2 col-md-offset-1"><h4 class="pad-out">Useful Links</h4><div class="dynamicselect-select-block form-group well well-sm show-mobile"><select class="form-control mobile-footer-nav"><option value="/videos" selected="">Discover</option><option value="/top">Top 100</option><option value="/articles">Articles</option><option value="/suggest">Suggest Documentary</option><option value="/tag">Video Tags Browser</option><option value="/login">Login</option><option value="/register">Register</option><option value="/about">About Us</option><option value="/faq">FAQs</option><option value="/contact">Contact Us</option></select></div><ul class="hide-mobile"><li><a href="/videos">Discover</a></li><li><a href="/top">Top 100</a></li><li><a href="/articles">Articles</a></li><li><a href="/tag">Video Tags Browser</a></li><li><a href="/suggest" class="btn btn-blue btn-suggest">Suggest Documentary</a></li></ul></div><div class="col-sm-2 hide-mobile"><h4>Social</h4><ul><li><a href="https://www.facebook.com/DocumentaryTube" target="_blank">Facebook</a></li><li><a href="https://twitter.com/documentarytube" target="_blank">Twitter</a></li><li><a href="https://plus.google.com/+Documentarytubecom/about" target="_blank">Google+</a></li><li><a href="/rss" target="_blank">RSS Feed</a></li></ul></div><div class="col-sm-3 hide-mobile"><h4>More</h4><ul><li><a href="/about">About Us</a></li><li><a href="/faq">FAQs</a></li><li><a href="/contact">Contact Us</a></li></ul></div></div></div></div><div class="feature-footer-sub"><div class="container"><div class="row"><div class="col-lg-6"><a href="/" class="logo-180vita"><img src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-328ed81066.svg#logo" alt="180Vita"></a><p class="copyrights">&copy; 180Vita Ltd.<span class="f-spacer">·</span>All rights reserved</p></div><div class="col-lg-6"><p class="copyrights tar"><a href="/privacy">Privacy Policy</a><span class="f-spacer">·</span><a href="/terms">Terms of Service</a><span class="f-spacer">·</span><a href="/dmca">DMCA</a></p></div></div></div></div><script src="https://d1nz104zbf64va.cloudfront.net/dt/assets/all-03441bd7fe.min.js"></script>
+<script type="text/javascript">
+		$('#share-widget').sharrre({
+		  share: {
+		  	facebook: true,
+		    googlePlus: true,
+		    twitter: true
+		  },
+		  urlCurl: '/sharrre.php',
+		  enableHover: false,
+		  enableTracking: false,
+		  template: '<div class="share-large">{total}<div class="share-small">shares</div></div><div class="mobile-clear"></div><a href="#" class="btn btn-facebook shadow"><span class="fa fa-facebook"></span></a><a href="#" class="btn btn-google shadow"><span class="fa fa-google"></span></a><a href="#" class="btn btn-twitter shadow"><span class="fa fa-twitter"></span></a>',
+		  render: function(api, options) {
+			  $(api.element).on('click', '.btn-twitter', function() {
+			    api.openPopup('twitter');
+			  });
+			  $(api.element).on('click', '.btn-facebook', function() {
+			    api.openPopup('facebook');
+			  });
+			  $(api.element).on('click', '.btn-google', function() {
+			    api.openPopup('googlePlus');
+			  });
+		  },
+		});
+	
+
+	$(document).ready(function () {
+
+		function reportVidReason(obj, reason) {
+				vid_id = $(obj).attr('vid-id');
+				if ($(obj).hasClass('reported')) { $.growl.error({ title: 'Error:', message: 'You already reported this video.' }); } else {
+					$(obj).addClass('reported');
+					$.ajax({
+						url: '/report/zeitgeist-movement-activist-and-orientation-guide' + '/' + reason,
+						type: 'post',
+						data: {
+							'ajax': 1
+						},
+						dataType: 'json',
+						success: function (data, textStatus) {
+							var type = (data.success == 1) ? 'notice' : 'error';
+							if (data.message){
+								$.growl[type]({
+									title: 'Update:',
+									message: data.message
+								});
+								$('.dismiss').trigger('click');
+							}
+						},
+						error: function (xhr, textStatus, errorThrown) {}
+					});
+				}
+				return false;
+		}
+
+		$('.report-reason-button').off('click').on('click', function(o){
+			reportVidReason($(this), $(this).attr('data-reason'));
+			return false;
+		});
+	});
+
+	
+
+
+          setTimeout(function() {
+          !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
+           }, 0);
+
+            $(document).on('readyAgain', function() {
+                if (typeof twttr !== 'undefined') {
+                    twttr.widgets.load();
+                    twttr.events.bind('loaded', function(){
+                        sidebarHeightinator();
+                    });
+                }
+
+                function sidebarHeightinator(){
+                    if ( $('.new-sidebar').length > 0 && !$('.new-sidebar').is(':hidden')) {
+                    offset = $('.new-sidebar').offset().top;
+                    the_height = $('.new-sidebar').height() + 100 + offset;
+                    $('body').attr('style','min-height:'+the_height+'px;');
+                    }else{
+                        $('body').attr('style','min-height:100%;');
+                    }
+                }
+            });
+        
+
+
+
+    $(document).on('ready readyAgain', function() {
+
+        initializeVideo();
+        if(parseInt(jQuery('.video-box').css('height')) > $(window).height() && $(window).width() > 1000) {
+            jQuery('.video-box').css('height',($(window).height()-100));
+        } else {
+            jQuery('.video-box').css('height',Math.round(jQuery('.video-box').width()*0.5625));
+        }
+
+    });
+
+$(window).on('resize', function(){
+    jQuery('.video-box').css('height',Math.round(jQuery('.video-box').width()*0.5625));
+});
+
+$('.rate-stars .star').hover(function() {
+    $(this).prevAll().css('color','#0d6797');
+    $(this).css('color','#0d6797');
+},
+function() {
+    $(this).prevAll().css('color','');
+    $(this).css('color','');
+});
+
+$('.rate-stars .star').click(function(){
+    $('.rate-stars .star').removeClass('full rated');
+    $(this).prevAll().addClass('full rated');
+    $(this).addClass('full rated');
+});
+
+
+
+		$('#social-facebook-40842').sharrre({
+		  share: {
+			facebook: true,
+		  },
+		  template: '<div class="social-block facebook"><p class="title">{total}</p><p class="sub-title">Likes</p><div class="block"><span class="fa fa-facebook"></span></div></div></div>',
+		  enableHover: false,
+		  enableTracking: true,
+		  buttons: { facebook: {via: 'documentarytube'}},
+		  click: function(api, options){
+			api.simulateClick();
+			api.openPopup('facebook');
+		  }
+		});
+		$('#social-twitter-40842').sharrre({
+		  share: {
+			twitter: true
+		  },
+		  template: '<div class="social-block twitter"><p class="title">{total}</p><p class="sub-title">Tweets</p><div class="block"><span class="fa fa-twitter"></span></div></div></div>',
+		  enableHover: false,
+		  enableTracking: true,
+		  buttons: { twitter: {via: 'documentarytube'}},
+		  click: function(api, options){
+			api.simulateClick();
+			api.openPopup('twitter');
+		  }
+		});
+		$('#social-google-40842').sharrre({
+		  share: {
+			googlePlus: true
+		  },
+		  urlCurl: '/sharrre.php',
+		  template: '<div class="social-block google"><p class="title">{total}</p><p class="sub-title">Shares</p><div class="block"><span class="fa fa-google"></span></div></div></div>',
+		  enableHover: false,
+		  enableTracking: true,
+		  click: function(api, options){
+			api.simulateClick();
+			api.openPopup('googlePlus');
+		  }
+		});
+	
+
+	tube_base = 'http://www.documentarytube.com/videos/zeitgeist-movement-activist-and-orientation-guide';var app = app || {};app.baseUrl = tube_base;
+	$(document).ready( function($) {
+	    $('img.lazy').lazyload({effect : 'fadeIn',threshold : 2000}, function() { jQuery(window).scroll() });
+	    $('#newsList').newsTicker();
+	    if($('.auto-size').length){jQuery('.auto-size').autosize();}
+	    jQuery('.mobile-footer-nav').change(function(){window.location = $(this).find(':selected').val()});
+	    jQuery('.search-text-full').on('input', function(){if(jQuery('.search-text-full').val() != '') {jQuery('.search-close-full').fadeIn();} else {jQuery('.search-close-full').fadeOut();}});
+	});</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cd28f149c4","applicationID":"7819217","transactionName":"ZwRRbBBSWEIEVkxfWl5OZkoLHF9fAVBAGEVYEQ==","queueTime":0,"applicationTime":170,"atts":"S0NSGlhIS0w=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>

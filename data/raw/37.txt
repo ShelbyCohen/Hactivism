@@ -1,7 +1,72 @@
-<!DOCTYPE html>
-<html lang="en" class="pb-page"  data-request-id="8293c335-6f6f-4410-94dd-2f48e44f09c6"  
-><head data-pb-dropzone="head"><meta name="pbContext" content=";wgroup:string:Publication Websites;website:website:TFOPB;page:string:Cookie Absent"/><meta data-pb-head="head-widgets-start"/>
-<title></title>
+	
+    <!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+
+<title>Fair Trade: History, Purpose, and Why You Should Support it - Green Plus</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://gogreenplus.org/wp-content/themes/twentyten/style.css" />
+<!--[if lt IE 9]>
+<script src="http://gogreenplus.org/wp-content/themes/twentyten/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+
+<link rel="pingback" href="http://gogreenplus.org/xmlrpc.php" />
+
+<link rel="shortcut icon" href="http://www.gogreenplus.org/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.gogreenplus.org/favicon.ico" type="image/x-icon">
+
+
+
+<!--FONTS-->
+<link rel="stylesheet" type="text/css" media="all" href="http://gogreenplus.org/wp-content/themes/twentyten/fonts/webfontkit-20110713-085323/stylesheet.css" />
+
+<script type="text/javascript" src="http://use.typekit.com/ols8azz.js"></script>
+
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<link type="text/css" href="http://gogreenplus.org/wp-content/themes/twentyten/js/jquery-ui-1.8.18.custom/css/ui-lightness/jquery-ui-1.8.18.custom.css" rel="Stylesheet" />
+
+
+<link type="text/css" href="http://gogreenplus.org/wp-content/themes/twentyten/js/uniformcss/uniform.default.css" rel="Stylesheet" />
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+$('input[placeholder]').focus(function(ev){ 
+  var $this = $(this);
+  if ($this.val() === $this.attr('placeholder')) $this.val('');
+});
+$('input[placeholder]').blur(function(ev){
+  var $this = $(this);      
+  if ($this.val() === '') $this.val($this.attr('placeholder'));
+});
+
+
+</script>
+
+
+
+   
 
 
 
@@ -12,2873 +77,452 @@
 
 
 
+
+
+<!--END FONTS-->
+
+
+<script type="text/javascript">
+	
+	
+$(".orange").hover(function() { // mouseenter
+  $(this).addClass("orangehover");
+}, function() { // mouseleave 
+  $(this).removeClass("hover");
+});
+	
+	</script>
     
 
 
-<meta charset="UTF-8">
+	<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
 
 
 
+ 
 
 
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-
-    
-    
         
-    
-        
-    
-    
-    
 
-       
 
 
-    
 
-
-
-<!-- publications og tags -->
-
-
-
-
-
-
-
-
-    <meta name="og:title" content="" />
-
-
-
-
-    <meta name="og:type" content="" />
-
-
-
-    <meta name="og:image" content="" />
-
-
-
-    <meta name="og:site_name" content="" />
-
-
-
-    <meta name="og:description" content="" />
-
-
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0"/>
-
-
-
-
-
-
-
-
-
-
-
-<meta data-pb-head="head-widgets-end"/>
-
-
-<link rel="stylesheet" type="text/css" href="/wro/c5rv~product.css"><link rel="stylesheet" type="text/css" href="/pb/css/t1490780635157-v1487965448000/head_4_698.css" id="pb-css" data-pb-css-id="t1490780635157-v1487965448000/head_4_698.css"/>
-
-
-
-
-<script type="text/javascript" src="/wro/c5rv~product.js"></script>
-
-
-
-
-
-
-
-
-    
-        
-            <script type="text/javascript">
-                var _gaq = _gaq || [];
-                _gaq.push(['_setAccount', 'UA-3062505-5']);
-                _gaq.push(['_trackPageview']);
-
-                (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-            </script>
-        
-    
-
-
-
-
-
-
-
-
-
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-
-
-
-
-
-
-    
+	
+
+	 <meta name="google-site-verification" content="4XpWY3MvCxe5obz658JHKPY4tXuw7r9MSnSIUjAa_Aw" />
+	 
+	 
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="This article introduces readers to the fair trade movement, key organizations, its history, and recent controversies and directions in the fair trade world."/>
+<link rel="canonical" href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Fair Trade: History, Purpose, and Why You Should Support it - Green Plus" />
+<meta property="og:description" content="This article introduces readers to the fair trade movement, key organizations, its history, and recent controversies and directions in the fair trade world." />
+<meta property="og:url" content="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/" />
+<meta property="og:site_name" content="Green Plus" />
+<meta property="article:tag" content="agricultural,alternative trade organizations,consumer activism,developing world,economic justice,ethical consumption,ethical trade,Fair Trade,fair trade certification,Fair Trade USA,Fairtrade International,faith based initiatives,free trade,Global North,Global South,inequality,neoliberal trade policies,social justice,trade policies" />
+<meta property="article:section" content="Business Tips, Resources &amp; Ideas" />
+<meta property="article:published_time" content="2013-08-07T15:07:21+00:00" />
+<meta property="article:modified_time" content="2013-08-13T22:43:10+00:00" />
+<meta property="og:updated_time" content="2013-08-13T22:43:10+00:00" />
+<meta property="og:image" content="http://gogreenplus.org/wp-content/uploads/2013/08/The-Fairtrade-logo-002.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="This article introduces readers to the fair trade movement, key organizations, its history, and recent controversies and directions in the fair trade world."/>
+<meta name="twitter:title" content="Fair Trade: History, Purpose, and Why You Should Support it - Green Plus"/>
+<meta name="twitter:site" content="@greenplus"/>
+<meta name="twitter:domain" content="Green Plus"/>
+<meta name="twitter:image:src" content="http://gogreenplus.org/wp-content/uploads/2013/08/The-Fairtrade-logo-002.jpg"/>
+<meta name="twitter:creator" content="@greenplus"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Green Plus &raquo; Feed" href="http://gogreenplus.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Green Plus &raquo; Comments Feed" href="http://gogreenplus.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Green Plus &raquo; Fair Trade: History, Purpose, and Why You Should Support it Comments Feed" href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/gogreenplus.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.14"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='avatars-css'  href='http://gogreenplus.org/wp-content/plugins/add-local-avatar/avatars.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='imgareaselect-css'  href='http://gogreenplus.org/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://gogreenplus.org/wp-includes/css/dashicons.min.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://gogreenplus.org/wp-includes/js/thickbox/thickbox.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-smoothness-css'  href='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery-ui-1.8.18.custom/css/ui-lightness/jquery-ui-1.8.18.custom.css?ver=1.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://gogreenplus.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='better-related-frontend-css'  href='http://gogreenplus.org/wp-content/plugins/better-related/css/better-related.css?ver=0.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fbSEOStylesheet-css'  href='http://gogreenplus.org/wp-content/plugins/seo-facebook-comments/assets/fbseo-style.css?ver=4.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://gogreenplus.org/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.3.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7869648-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js?ver=4.2.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DavesWordPressLiveSearchConfig = {"resultsDirection":"down","showThumbs":"true","showExcerpt":"true","showMoreResultsLink":"true","minCharsToSearch":"3","xOffset":"0","yOffset":"0","blogURL":"http:\/\/gogreenplus.org","ajaxURL":"http:\/\/gogreenplus.org\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%= resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"daves-wordpress-live-search_result <%= liClass %> '\">\n        <% if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) { %>\n                <img src=\"<%= searchResult.attachment_thumbnail %>\" class=\"post_thumb\" \/>\n        <% } %>\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\"><%= searchResult.post_title %><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%= searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <p class=\"excerpt clearfix\"><%= searchResult.post_excerpt %><\/p>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%= searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%= searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%=  resultsSearchTerm %>\"><%= DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/plugins/daves-wordpress-live-search/js/daves-wordpress-live-search.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/plugins/daves-wordpress-live-search/js/excanvas.compiled.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/plugins/daves-wordpress-live-search/js/spinners.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/ajax-implementation.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/plugins/formbuilder/js/jx_compressed.js?ver=1.05'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/plugins/formbuilder/js/compat-javascript.js?ver=1.05'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jcarousellite_1.0.1.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/js/jquery.easing.1.1.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery.resizecrop-0.1.0.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/adsRotator.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery-ui-1.8.18.custom/js/jquery-ui-1.8.18.custom.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery.lionbars.0.3.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/simple.carousel.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery.tinyscrollbar.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://twitter-friends-widget.googlecode.com/files/jquery.twitter-friends-2.0.min.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?key=AIzaSyCirgc_S-VK_zTueR7bgBWPOUf8qtBeeH4&#038;sensor=false&#038;ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/gmap3.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery.uniform.js?ver=4.2.14'></script>
+<script type='text/javascript' src='http://gogreenplus.org/wp-content/themes/twentyten/js/jquery.qtip.js?ver=4.2.14'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gogreenplus.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gogreenplus.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.14" />
+<link rel='shortlink' href='http://gogreenplus.org/?p=17469' />
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
+a2a_config.onclick=1;
+a2a_config.show_title=1;
+//--></script>
+<link type="text/css" rel="stylesheet" href="http://gogreenplus.org/wp-content/plugins/latest-twitter-sidebar-widget/latest_twitter_widget.css" />
+<link rel='stylesheet' id='daves-wordpress-live-search-css'  href='http://gogreenplus.org/wp-content/plugins/daves-wordpress-live-search/css/daves-wordpress-live-search_default_gray.css?ver=4.2.14' type='text/css' media='all' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f1f1f1; }
+</style>
+		<!-- FORMBUILDER CSS CUSTOMIZATION -->
+					<link rel='stylesheet' href='http://gogreenplus.org/wp-content/plugins/formbuilder/css/formbuilder_styles.css' type='text/css' media='all' />
+					<style type='text/css' media='screen'>
+		.formBuilderCap {
+			visibility: hidden;
+			padding: 0;
+			margin: 0;
+			border: 0;
+			position: absolute;
+		}
+		</style>
+		<!-- END FORMBUILDER CSS CUSTOMIZATION -->
+	
 </head>
-<body class="pb-ui">
+
+
+	 
+<body onLoad="load()">
+
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=383438105011391";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+     
 
 
 
 
 
+<div id="newwrapper" > 
+<div id="newpagehome">
 
-    
-
-    <div id="pb-page-content" data-ng-non-bindable>
-        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
-
+<div id="fulldiv" class="headerhome">
 
 
+<div id="newmasthead">
+			<div id="newbranding" role="banner">
+	
+<div id="nhlogodiv"><a href="http://gogreenplus.org"><img src="http://gogreenplus.org/wp-content/themes/twentyten/images/nhlogoRGF.png" alt="Green Plus Home Page"  border="0"></a> <!--end logodiv--></div>
+
+<div id="nhrightsignups">
 
 
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
 
-    
-    <div class="widget pageHeader none  widget-none  widget-compact-all" id="a4d4fdd3-c594-4d68-9f06-b69b8b37ed56"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><header class="page-header">
-    <div data-pb-dropzone="main">
-    
+<div id="headlink" class="blue"><a href="http://gogreenplus.org/about-the-green-plus-program/donate/">DONATE</a><!--end testgreen--></div>
+  
 
 
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
+<div id="headlink" class="green"><a href="http://gogreenplus.org/green-plus-diagnostic-survey/">TAKE THE TEST</a><!--end testgreen--></div>
+  
+  
+  
+<div id="headlink" class="orange"><a href="http://gogreenplus.org/sustainable-busines-certification/">GET CERTIFIED</a><!-- end signorange--></div>
+  
+  
+  
+<!--end nhright signups--></div>
+				
+			<!--START SLIDER AND NAV HOLDER-->	<div id="fulldiv" class="slidernavholder">
             
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
+            <div id="newnhaccess" role="navigation">
+			
+            <div id="newnhnav">  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-new-home-page-container"><ul id="menu-new-home-page" class="menu"><li id="menu-item-15675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15675"><a href="http://gogreenplus.org/sustainable-busines-certification/">Green Business Certification</a>
+<ul class="sub-menu">
+	<li id="menu-item-14572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14572"><a href="http://gogreenplus.org/sustainable-busines-certification/">Green Plus Certification</a></li>
+	<li id="menu-item-15598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15598"><a href="http://gogreenplus.org/sustainable-busines-certification/certification-f-a-q-s/">Certification F.A.Q.s</a></li>
+	<li id="menu-item-15674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15674"><a href="http://gogreenplus.org/sustainable-busines-certification/green-plus-scholarships/">Green Plus Scholarships</a></li>
+</ul>
+</li>
+<li id="menu-item-15789" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-15789"><a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/">Business Tools</a>
+<ul class="sub-menu">
+	<li id="menu-item-15766" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-15766"><a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/">Sustainable Business Tips &#038; Resources</a></li>
+	<li id="menu-item-14584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14584"><a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/podcasts/">Podcasts</a></li>
+	<li id="menu-item-15790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15790"><a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/our-picks/">Articles and Resources Recommended by Green Plus</a></li>
+	<li id="menu-item-14585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14585"><a href="http://gogreenplus.org/nuts-and-bolts-guide/">Nuts &#038; Bolts Guide &#8211; A Guide to Green Plus Certification</a></li>
+</ul>
+</li>
+<li id="menu-item-14481" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14481"><a href="http://gogreenplus.org/latest-news/">Latest News</a>
+<ul class="sub-menu">
+	<li id="menu-item-14586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14586"><a href="http://gogreenplus.org/latest-news/">All News</a></li>
+	<li id="menu-item-14576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14576"><a href="http://gogreenplus.org/latest-news/gp-staff-news/">Green Plus News</a></li>
+	<li id="menu-item-14577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14577"><a href="http://gogreenplus.org/green-plus-member-stories/">Featured Members</a></li>
+	<li id="menu-item-14574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14574"><a href="http://gogreenplus.org/latest-news/gp-member-posts/">Member News</a></li>
+	<li id="menu-item-15837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15837"><a href="http://gogreenplus.org/latest-news/events/">Events</a></li>
+</ul>
+</li>
+<li id="menu-item-14443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14443"><a href="http://gogreenplus.org/green-business-help/">Environmental Help Desk</a>
+<ul class="sub-menu">
+	<li id="menu-item-14447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14447"><a href="http://gogreenplus.org/environmental-business-help/supply-chain-information/">Green Supply Chain Information</a></li>
+	<li id="menu-item-14446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14446"><a href="http://gogreenplus.org/environmental-business-help/innovations/">Green Innovations</a></li>
+	<li id="menu-item-14444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14444"><a href="http://gogreenplus.org/environmental-business-help/above-beyond/">Green Certifications</a></li>
+	<li id="menu-item-14445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14445"><a href="http://gogreenplus.org/environmental-business-help/help-desk-questions/">Help Desk Questions</a></li>
+</ul>
+</li>
+<li id="menu-item-14426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14426"><a href="http://gogreenplus.org/about-the-green-plus-program/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-14432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14432"><a href="http://gogreenplus.org/about-the-green-plus-program/">About Green Plus</a></li>
+	<li id="menu-item-14428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14428"><a href="http://gogreenplus.org/about-the-green-plus-program/green-plus-fellows/">Fellows</a></li>
+	<li id="menu-item-16031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16031"><a href="http://gogreenplus.org/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-15671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15671"><a href="http://gogreenplus.org/network/">Green Business Directory</a></li>
+</ul></div>                
+             
+               
+			<!-- #newnhaccess --></div>
             
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
+            <!-- #newnhaccess --></div>
 
-    
-    <div class="widget responsive-layout none  widget-none  widget-compact-all" id="036fa949-dc25-4ffe-9df0-d7daefee281b"  >
-        
-        
+      
 
-        <div class="wrapped " >
+
+</div><!-- #branding -->
+
+			
+		</div><!-- #masthead -->
+
+<!--END SLIDER AND NAV HOLDER--></div> <div id="nhnewpage">
+
+
+
+
+ 
+
+ 
+
+
+		<div id="newcontainersidebar">
+			<div id="newcontent680" >
             
-            <div class="widget-body body body-none  body-compact-all"><div class="container">
-    <div class="row row-xs  ">
-        
-            <div class="col-xs-1-6 header-index">
-                <div class="contents" data-pb-dropzone="contents0">
+            
+       <p id="breadcrumbs">
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><a href="http://gogreenplus.org" rel="v:url" property="v:title">Home</a></span> &rarr; <span typeof="v:Breadcrumb"><strong class="breadcrumb_last" property="v:title">Fair Trade: History, Purpose, and Why You Should Support it</strong></span>
+		</span></p>            
+            
+
+			
+
+
+				
+
+				<div id="post-17469" class="post-17469 post type-post status-publish format-standard has-post-thumbnail hentry category-green-sustainable-business-tips-resources-ideas tag-agricultural tag-alternative-trade-organizations tag-consumer-activism tag-developing-world tag-economic-justice tag-ethical-consumption tag-ethical-trade tag-fair-trade tag-fair-trade-certification tag-fair-trade-usa tag-fairtrade-international tag-faith-based-initiatives tag-free-trade tag-global-north tag-global-south tag-inequality tag-neoliberal-trade-policies tag-social-justice tag-trade-policies">
+				
+                <div id="newsingleposttitle">	<h1>Fair Trade: History, Purpose, and Why You Should Support it</h1></div> 
+
+					<div id="singleauthname">By: <a href="http://gogreenplus.org/author/shannon-harvey/" title="Posts by Shannon Harvey" rel="author">Shannon Harvey</a> | Posted in: <a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/" rel="category tag">Business Tips, Resources &amp; Ideas</a> | <!--end author name--></div>
                     
                     
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-image alignLeft header-logo hidden-xs widget-none  widget-compact-horizontal" id="e817489e-2520-418b-a731-b62e247e74df"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-horizontal"><a href="/"
-title="Taylor and Francis Online"
->
-<img src="/pb-assets/Global/tfo_logo.png"
-alt="Taylor and Francis Online"
-/>
-</a></div>
-        </div>
-    </div>
-    
-
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-image none header-logo hidden-sm hidden-md hidden-lg widget-none  widget-compact-horizontal" id="b3fe8380-8b88-4558-b004-6485d3aea155"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-horizontal"><a href="/"
->
-<img src="/pb-assets/Global/tfo_logo_sm.png"
-/>
-</a></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-            <div class="col-xs-5-6 ">
-                <div class="contents" data-pb-dropzone="contents1">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget layout-inline-content alignRight  widget-none  widget-compact-all" id="a8a37801-55c7-4566-bdef-e4e738967e38"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="inline-dropzone" data-pb-dropzone="content">
-    
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget layout-inline-content none customLoginBar widget-none" id="fbe90803-b9c8-4bef-9365-cb53cc4bfa0e"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><div class="inline-dropzone" data-pb-dropzone="content">
-    
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumInstitutionBanner none bannerWidth widget-none" id="3ff4d9f6-0fd0-44d0-89cd-6b16c5bb33ba"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><div class="institution-image logout-institution-image">
-    
+                    <div id="archsharebox"><div class="a2a_kit addtoany_list a2a_target" id="wpa2a_1"><a class="a2a_button_facebook_like addtoany_special_service" data-href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/"></a><a class="a2a_button_twitter_tweet addtoany_special_service" data-count="horizontal" data-url="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/" data-text="Fair Trade: History, Purpose, and Why You Should Support it"></a><a class="a2a_button_google_plusone addtoany_special_service" data-href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/"></a><a class="a2a_button_linkedin" href="http://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fgogreenplus.org%2Fgreen-sustainable-business-tips-resources-ideas%2Ffair-trade%2F&amp;linkname=Fair%20Trade%3A%20History%2C%20Purpose%2C%20and%20Why%20You%20Should%20Support%20it" title="LinkedIn" rel="nofollow" target="_blank"><img src="http://gogreenplus.org/wp-content/plugins/add-to-any/icons/linkedin.png" width="16" height="16" alt="LinkedIn"/></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fgogreenplus.org%2Fgreen-sustainable-business-tips-resources-ideas%2Ffair-trade%2F&amp;linkname=Fair%20Trade%3A%20History%2C%20Purpose%2C%20and%20Why%20You%20Should%20Support%20it" title="Pinterest" rel="nofollow" target="_blank"><img src="http://gogreenplus.org/wp-content/plugins/add-to-any/icons/pinterest.png" width="16" height="16" alt="Pinterest"/></a><a class="a2a_button_email" href="http://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fgogreenplus.org%2Fgreen-sustainable-business-tips-resources-ideas%2Ffair-trade%2F&amp;linkname=Fair%20Trade%3A%20History%2C%20Purpose%2C%20and%20Why%20You%20Should%20Support%20it" title="Email" rel="nofollow" target="_blank"><img src="http://gogreenplus.org/wp-content/plugins/add-to-any/icons/email.png" width="16" height="16" alt="Email"/></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save" style="background:url(http://gogreenplus.org/wp-content/plugins/add-to-any/favicon.png) no-repeat scroll 4px 0px;padding:0 0 0 25px;display:inline-block;height:16px;vertical-align:middle"><span>Share/Bookmark</span></a>
+<script type="text/javascript"><!--
+wpa2a.script_load();
+//--></script>
 </div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumNavigationLoginBar none  widget-none  widget-compact-all" id="1d69ec8f-0b13-42ca-bc6d-f5a385caf8c4"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="loginBar not-logged-in">
-                <span class="icon-user"></span>
-                <a href="https://www.tandfonline.com/action/showLogin?uri=%2Faction%2FcookieAbsent" class="sign-in-link">
-                    Log in
-                </a>
-                <span class="loginSeprator">&nbsp;|&nbsp;</span>
-                
-
-
-
-
-
-    
-
-
-
-        <a href="https://www.tandfonline.com/action/registration?redirectUri=%2F" class="register-link">
-            Register
-        </a>
-    
-            </div></div>
-        </div>
-    </div>
-    
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumCartLink none  widget-none" id="f1d0a63c-45e3-42ef-801e-b17f0d9490ab"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><a href="https://www.tandfonline.com/action/showCart" class="cartLabel">
-       <span class="hidden-xs hidden-sm visible-tl-inline-block">Cart</span>
-        
-    </a></div>
-        </div>
-    </div>
-    
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-    </div>
-</header></div>
-        </div>
-    </div>
-    
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget pageBody none  widget-none  widget-compact-all" id="35d9ca18-265e-4501-9038-4105e95a4b7d"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><!--begin pagefulltext-->
-<div class="page-body pagefulltext">
-    <div data-pb-dropzone="main">
-        </div>
-</div><!--end pagefulltext--></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget pageFooter none  widget-none  widget-compact-all" id="d97c173f-d838-4de1-bbd7-ed69f0d36a91"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><footer class="page-footer">
-    <div data-pb-dropzone="main">
-    
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget responsive-layout none footer-subjects hidden-xs hidden-sm widget-none  widget-compact-all" id="1f15adc0-4a59-4d27-93fe-8cbb14a5108a"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="container">
-    <div class="row row-md gutterless ">
-        
-            <div class="col-md-1-1 fit-padding">
-                <div class="contents" data-pb-dropzone="contents0">
                     
                     
-                        
-                            
+                    <div class="postfeaturedimage"> <img width="460" height="276" src="http://gogreenplus.org/wp-content/uploads/2013/08/The-Fairtrade-logo-002.jpg" class="attachment-large wp-post-image" alt="The-Fairtrade-logo-002" /></div>
 
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget topicalIndex none  widget-none  widget-compact-all" id="9298c7a6-6903-4607-8380-4c83e2b7142f"  >
-        
-        
-
-        <div class="wrapped " >
-            <h1 class="widget-header header-none  header-compact-all">Browse journals by subject</h1>
-            <div class="widget-body body body-none  body-compact-all"><div class="topicalIndexBrowsingTips" data-pb-dropzone="topicalIndexBrowsingTips">
-    
-        
-            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="1ec3bad2-243b-45a9-a59a-5aceb80fc5a1"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><a class="nav-top" href="#top">Back to top <span class="fa fa-angle-up"></span></a></div>
-        </div>
-    </div>
-    
-
-        
-    
+					<div id="entry-content">
+						<p style="padding-left: 30px;"> </p>
+<p style="padding-left: 30px;"> </p>
+<p style="padding-left: 30px;">Fair trade products, though still a tiny portion of the global food market, are nonetheless one of the fastest growing segments of the market. In 2005, about five million farmers participated in fair trade certification programs, and sales reach about $1.6 billion annually.[1] Though fair trade is growing, many consumers are still unclear about what a fair trade label on a product means.</p>
+<p>&nbsp;</p>
+<h2>What is fair trade?</h2>
+<p style="padding-left: 30px;">At its most basic, fair trade certification is a purchasing agreement that guarantees producers a minimum price for a commodity, usually above open market rates. In exchange, those producers must meet certain minimum labor and production standards to have their product certified as fair trade. Additionally, most prominent certification programs pay another premium to producers to invest in community, economic, and environmental improvement projects. Fair trade certifications also set standards for importers and processors of fair trade goods. This certification is then advertised to consumers.</p>
+<p style="padding-left: 30px;">Defined more expansively, fair trade is a movement that seeks to combat the negative impacts of free trade and globalization in developing countries. Fair trade certifications are sought by producers in developing nations seeking to sell their products in the developed world for better prices. Fair trade certification hinges on the recognition that there is increasing inequality between the developed and undeveloped world (or Global North and Global South, as they are often called) and that this inequality is largely driven by market forces that ignore externalities such as the fate of workers and the environment. Fair trade certification attempts to bridge the often convoluted and abstract distance between third world producers and first world consumers by bringing them into a kind of partnership, educating workers about their rights and consumers about the impact of their spending on communities in the developing world.[2]</p>
+<p style="padding-left: 30px;">The goals of the increased premiums paid for fair trade goods are to improve poor working conditions, raise wages so as to move individuals and communities out of poverty, to end the use of child labor, and limit damage to the environment. Some of this is achieved simply through the higher prices that producers receive, and through the premiums intended for community projects. Other goals are part of the contract of certification. Participating farmers, for instance, must enroll their children in school. This ensures that they are gaining an education, but also not working in the fields.[3]  </p>
+<p style="padding-left: 30px;">Advocates of fair trade include both workers organizing for better conditions and prices that will enable them to move out of poverty in developing countries, and concerned consumers and processors in the developed world. For many consumers developed world, there is concern that the labor struggles that led to legislation to secure decent working conditions and wages in their home nations, such as minimum wage and safety laws, are being circumvented, in effect, by exporting dangerous and low-wage working conditions to the developing world.</p>
+<p style="padding-left: 30px;">Fair trade, consequently, has ideological underpinnings similar to organic labeling and other alternative trade organizations. It seeks to encourage consumers to think holistically about their purchasing decisions, and their impact on workers, the environment, and the greater social good. Fair trade labeling asks first-world consumers more specifically to consider the relationship between developing and developed nation states. Fair trade certifications are often paired with these similar certifications and production principles. Fair trade chocolate bars, for instance, are often also organic. Fair trade clothing is frequently made by workers’ cooperatives, since one standard of fair trade is that workers have the opportunity to participate democratically in the operation of the organization that they work for.[4]</p>
+<p>&nbsp;</p>
+<h2>Fair trade products</h2>
+<p style="padding-left: 30px;">Agricultural products are at the heart of the fair trade movement. Of these, coffee is king. Coffee beans comprise fully 70% of the fair trade market in the United States.[5] You may also encounter fair trade certified cotton, cocoa, rice, and even shea nuts.[6] Shea nuts are used to make shea butter, which is an ingredient in a variety of confections and cosmetics.</p>
+<p style="padding-left: 30px;">This focus on commodity crops is not coincidental. It has long been noted that as long as raw materials are the principle exports from the developing world, these nations will be at a significant disadvantage with their trading partners. This is because they will not benefit from the value added processing that occurs later down the supply chain. Additionally, agricultural workers and farmers are some of the poorest individuals within these societies.[7] </p>
+<p style="padding-left: 30px;">Other consumer products can be fair trade certified as well, though this is a more recent phenomenon. This includes household décor items, clothing, and jewelry. Fair trade certifications standards are specific to the product being produced. For instance, standards specific to agriculture products, for instance, requiring that products be produced on small plantations or farms, not use genetically modified organisms (GMOs), and limit the use of certain chemical pesticides, herbicides, and fertilizers. These vary by crop and by region.[8]</p>
+<p>&nbsp;</p>
+<h2>History of fair trade<span style="font-size: 16px;"> </span></h2>
+<p style="padding-left: 30px;">Fair trade has its roots in the efforts of church organizations helping to rebuild European communities after WWII. These faith-based initiatives sold handicrafts produced in rebuilding communities in Europe to create economic opportunities for the artisans and to raise awareness about their plight among consumers who purchased them. Later iterations of this model were “world stores” at which consumers could buy ethically produced items. Fair trade certification programs were introduced to improve on the world store model. Certifications allowed these ethically produced items to have greater reach. By labeling the product and not the retailer, these items could be sold in mainstream retail operations and reach a larger audience.[9]</p>
+<p style="padding-left: 30px;">The term “fair trade” was first used by the United Nations soon after World War II. It was coined to describe a form of equitable trade relationships between developing and developed nations that took into account developing nations comparative disadvantage.[10] To quote one author, fair trade “in its earliest incarnation was opposed in principle to the deregulation embraced by later neoliberal policies.”[11] Seen in this light, contemporary fair trade standards are a limited, voluntary attempt to replace some of the national regulatory tools that countries had formerly used to protect their workers and industries. These regulations were forcibly dismantled by trade agreements such as NAFTA, and through agreements with institutions like the International Monetary Fund (IMF), World Trade Organization (WTO), and the World Bank.</p>
+<p style="padding-left: 30px;">The most famous and successful of the early fair trade certifications was the Max Havelaar standard, started in 1988. A variety of standards emerged in different countries, leading to the formation of Fairtrade International (also known as Fairtrade Labelling Organizations or FLO) in 1997.[12] FLO, which is based in Germany, created uniformity for these standards and consistent branding. Through the work of FLO and other organizations, fair trade has moved from the edges to the mainstream, becoming a designation familiar to a large section of the consuming population. Fair trade products are now used and sold by larger producers and retailers, such as Nestle and Sam’s Club.[13] Awareness is also growing. In 2006, 26% of Americans indicated that they were familiar with fair trade certification.[14]</p>
+<p>&nbsp;</p>
+<h2>Determining the value of a hill of beans</h2>
+<p style="padding-left: 30px;">Given coffee’s prominence in the US and global fair trade market, its labeling and reception is a significant bellwether of the movement’s evolution. The perception of the prevalence of fair trade may outstrip reality. Consider Starbucks Coffee, known for not only its ubiquity, for also for its fair trade coffee. If you were to guess, how much of Starbucks’ coffee is fair trade certified? 90%? 65%? Less than 40%? Author Bryant Simon found that in 2007, only 6% of Starbucks coffee beans were certified fair trade.[15] The company reported that 8% were certified in 2010.[16] As a point of comparison, in 2007 roughly 3.3% of coffee beans sold in the US were fair trade.[17] Meanwhile, demand for fair trade has not yet matched supply. Many fair trade coffee cooperatives sell only a portion of their beans as fair trade certified each year. The remaining beans are dumped on the open market because they cannot find buyers.[18]</p>
+<p style="padding-left: 30px;">Additionally, fair trade certification standards vary, and have recently been the cause of some consternation in the fair trade community. In 2011, Fair Trade USA changed its standards. It now requires that only 10% of the ingredients in goods be fairly traded to earn their certification, and has allowed larger plantations to become certified. These changes mean that it no longer adheres to Fair Trade International (FLO) standards, which are the baseline for roughly two-dozen national fair trade organizations and a model for many more. FLO only certifies small farms and require items to have 20% fair trade ingredients to achieve their stamp of approval.[19]</p>
+<p style="padding-left: 30px;">Many fair trade groups in the US, including Equal Exchange, an import cooperative, were outraged by the change in standards. Fair Trade USA defended its changes by arguing that the new standards would allow more retailers to carry fair trade products. However, given that retailers pay licensing fees to market fair trade products, many wondered if diminished standards would make these fees worth it.[20]</p>
+<p style="padding-left: 30px;"> </p>
+<h2>Building on fair trade</h2>
+<p style="padding-left: 30px;">Other organizations are seeking to expand and improve the fair trade model. An American lawyer turned small-time coffee grower in Costa Rica found that when he unexpectedly had to make a living off of his small, fair trade plantation, he needed additional income. His first step was to add value to his beans through processing—in this instance, just roasting them. He partnered with other growers and opened coffee shops aimed at tourists, and ultimately established Thrive Farmers Coffee. Thrive gives farmers more control over their product down the supply line, earning them four times as much as when they participated in fair trade alone.[21]</p>
+<p style="padding-left: 30px;">In the United States, the organization Fair Trade Towns USA seeks to raise the profile of fair trade sellers and products by making fair trade a community effort and identity. The organization designates towns that have a minimum numbers of retailers selling fair trade items “Fair Trade Towns.” They modeled their program after a similar one in the United Kingdom. The first Fair Trade Town in the US was Media, Pennsylvania.[22] Similarly, many large cities have fair trade groups that promote fair trade among local consumers and businesses.[23]</p>
+<p style="padding-left: 30px;">There are a number of organizations, many based out of universities, now studying fair trade. These include groups like the Center for Fair and Alternative Trade. Researchers are attempting to assess the impacts of fair trade models and ways of improving them. While the diversity of standards for certifications and debates about their effectiveness are often difficult to parse, these debates ultimately get to the question of on what terms we’re willing to do business. For whose benefit? At what cost to the environment and global communities? Like our foodstuffs and other consumer products, journalism has also gone global. As reports about corporate negligence reach consumers in the first world, such as the recent collapse of clothing factory in Bangladesh that killed over 800 people, pressure on companies to demonstrate that their products were produced in ethical conditions will only increase.[24] Fair trade certifications are one way, but by no means the only way, that consumers are demanding and getting answers to these questions about the products that they buy.</p>
+<p style="padding-left: 30px;"> </p>
+<h2><em>Certification Programs and Related Organizations</em></h2>
+<p style="padding-left: 30px;"><a href="http://www.fairtradeusa.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fairtradeusa.org/', 'Fair Trade USA']);" >Fair Trade USA</a></p>
+<p style="padding-left: 30px;"><a href="http://www.fairtrade.net/361.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fairtrade.net/361.html', 'Fairtrade International']);" >Fairtrade International</a> (also known as Fairtrade Labelling Organizations, or FLO)</p>
+<p style="padding-left: 30px;"><a href="http://www.wfto.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wfto.com/', 'World Fair Trade Organization']);" >World Fair Trade Organization</a></p>
+<p style="padding-left: 30px;"><a href="http://lwr.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://lwr.org/', 'Lutheran World Relief']);" >Lutheran World Relief</a></p>
+<p style="padding-left: 30px;"><a href="http://www.crsfairtrade.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.crsfairtrade.org/', 'Catholic Relief Services Fair Trade']);" >Catholic Relief Services Fair Trade</a></p>
+<p style="padding-left: 30px;"><a href="http://fairtradetownsusa.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://fairtradetownsusa.org/', 'Fair Trade Towns USA']);" >Fair Trade Towns USA</a></p>
+<p style="padding-left: 30px;"><a href="http://cfat.colostate.edu/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://cfat.colostate.edu/', 'Center for Fair and Alternative Trade']);" >Center for Fair and Alternative Trade</a>, Colorado State University</p>
+<p style="padding-left: 30px;"><a href="http://www.european-fair-trade-association.org/efta/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.european-fair-trade-association.org/efta/', 'European Fair Trade Association']);" >European Fair Trade Association</a></p>
+<p style="padding-left: 30px;"><a href="http://www.organicandfair.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.organicandfair.org/', 'Organic and Fairtrade Competence Center']);" >Organic and Fairtrade Competence Center</a></p>
+<p style="padding-left: 30px;"><a href="http://equalexchange.coop/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://equalexchange.coop/', 'Equal Exchange']);" >Equal Exchange</a></p>
+<p style="padding-left: 30px;"><a href="http://www.divinechocolate.com/us/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.divinechocolate.com/us/', 'Divine Chocolate']);" >Divine Chocolate</a></p>
+<div style="padding-left: 30px;"><br clear="all" /><br />
+<hr align="left" size="1" width="33%" />
+<div>
+<p>[1] Laura T. Raynolds, Douglas L. Murry, and John Wilkinson, eds., <em>Fair Trade: The challenges of transforming globalization</em> (New York: Routledge, 2007), 3. Preview available at: <a href="http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false', 'http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false']);" >http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false</a></p>
+<p>[2] For examples of standards and explanations set by various certification programs, see: “FAQs: Frequently Asked Questions,” <em>Fairtrade</em> <em>International</em>, <a href="http://www.fairtrade.net/faqs.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fairtrade.net/faqs.html', 'http://www.fairtrade.net/faqs.html']);" >http://www.fairtrade.net/faqs.html</a>, accessed 2 August 2013; “About Fair Trade USA,” <em>Fair Trade USA</em>, <a href="http://www.fairtradeusa.org/about-fair-trade-usa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fairtradeusa.org/about-fair-trade-usa', 'http://www.fairtradeusa.org/about-fair-trade-usa']);" >http://www.fairtradeusa.org/about-fair-trade-usa</a>, accessed 2 August 2013.</p>
 </div>
+<div>
+<p>[3] “Education,” <em>Fair Trade USA</em>, <a href="http://fairtradeusa.org/what-is-fair-trade/impact/education" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://fairtradeusa.org/what-is-fair-trade/impact/education', 'http://fairtradeusa.org/what-is-fair-trade/impact/education']);" >http://fairtradeusa.org/what-is-fair-trade/impact/education</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[4] See, for instance, this post on Just Apparel in Santiago, Guatemala: David Morse, “Just Apparel: A Fair Trade Cooperative in Guatemala,” <em>Chicago Fair Trade</em>, 21 March 2011, <a href="http://www.chicagofairtrade.org/blog/15-just-apparel-a-fair-trade-cooperative-in-guatemala.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.chicagofairtrade.org/blog/15-just-apparel-a-fair-trade-cooperative-in-guatemala.html', 'http://www.chicagofairtrade.org/blog/15-just-apparel-a-fair-trade-cooperative-in-guatemala.html']);" >http://www.chicagofairtrade.org/blog/15-just-apparel-a-fair-trade-cooperative-in-guatemala.html</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[5] William Neuman, “A Question of Fairness,” <em>New York Times</em>, 23 November 2011, <a href="http://www.nytimes.com/2011/11/24/business/as-fair-trade-movement-grows-a-dispute-over-its-direction.html?pagewanted=all" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2011/11/24/business/as-fair-trade-movement-grows-a-dispute-over-its-direction.html?pagewanted=all', 'http://www.nytimes.com/2011/11/24/business/as-fair-trade-movement-grows-a-dispute-over-its-direction.html?pagewanted=all']);" >http://www.nytimes.com/2011/11/24/business/as-fair-trade-movement-grows-a-dispute-over-its-direction.html?pagewanted=all</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[6] Frankie Edozien, “After Fair Trade Coffee, Fair Trade Shea,” <em>IHT Rendezvous</em>, 12 May 2013, <a href="http://rendezvous.blogs.nytimes.com/2013/05/12/after-fair-trade-coffee-fair-trade-shea/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://rendezvous.blogs.nytimes.com/2013/05/12/after-fair-trade-coffee-fair-trade-shea/', 'http://rendezvous.blogs.nytimes.com/2013/05/12/after-fair-trade-coffee-fair-trade-shea/']);" >http://rendezvous.blogs.nytimes.com/2013/05/12/after-fair-trade-coffee-fair-trade-shea/</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[7] While the modern fair trade movement is new and responds to free trade policies enacted since the 1970s, there is definitely a way in which fair trade responds to a longer history of trading in commodity crops between colonial power and their colonies. See, for instance, Sidney Wilfred Mintz, <em>Sweetness and Power: The Place of Sugar in Modern History</em> (New York: Penguin Books, 1986).</p>
+</div>
+<div>
+<p>[8] “Standards for Small Producer Organizations,” <em>Fairtrade International</em>, <a href="http://www.fairtrade.net/small-producer-standards.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.fairtrade.net/small-producer-standards.html', 'http://www.fairtrade.net/small-producer-standards.html']);" >http://www.fairtrade.net/small-producer-standards.html</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[9] Laura T. Raynolds, Douglas L. Murry, and John Wilkinson, eds., <em>Fair Trade: The challenges of transforming globalization</em> (New York: Routledge, 2007), 7-8. Preview available at: <a href="http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false', 'http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false']);" >http://books.google.com/books?id=TqFi7HjBhJ0C&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false</a></p>
+</div>
+<div>
+<p>[10] Sarah Lyon, Mark Moberg, eds., <em>Fair Trade and Social Justice: Global Ethnographies</em> (New York: New York University Press, 2010), 2.</p>
+</div>
+<div>
+<p>[11] Lyon and Moberg, <em>Fair Trade and Social Justice</em>, 2.</p>
+</div>
+<div>
+<p>[12] Raynolds, et al., <em>Fair Trade</em>, 8.</p>
+</div>
+<div>
+<p>[13] Raynolds, et al., <em>Fair Trade</em>, 8.</p>
+</div>
+<div>
+<p>[14] Andrew Downie, “Fair Trade in Bloom,” <em>New York Times</em>, 2 October 2007, <a href="http://www.nytimes.com/2007/10/02/business/worldbusiness/02trade.html?pagewanted=all" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2007/10/02/business/worldbusiness/02trade.html?pagewanted=all', 'http://www.nytimes.com/2007/10/02/business/worldbusiness/02trade.html?pagewanted=all']);" >http://www.nytimes.com/2007/10/02/business/worldbusiness/02trade.html?pagewanted=all</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[15] Bryant Simon, <em>Everything but the Coffee: Learning about America from Starbucks</em> (Berkeley, CA: University of California Press, 2009), 209. Preview available here: <a href="http://books.google.com/books?id=5ek0v2_F5j4C&amp;source=gbs_navlinks_s" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://books.google.com/books?id=5ek0v2_F5j4C&amp;source=gbs_navlinks_s', 'http://books.google.com/books?id=5ek0v2_F5j4C&amp;source=gbs_navlinks_s']);" >http://books.google.com/books?id=5ek0v2_F5j4C&amp;source=gbs_navlinks_s</a>.</p>
+</div>
+<div>
+<p>[16] Neuman, “A Question of Fairness.”</p>
+</div>
+<div>
+<p>[17] Downie, “Fair Trade in Bloom.”</p>
+</div>
+<div>
+<p>[18] Simon, <em>Everything but the Coffee</em>, 209.</p>
+</div>
+<div>
+<p>[19] Neuman, “A Question of Fairness.”</p>
+</div>
+<div>
+<p>[20] Neuman, “A Question of Fairness.”</p>
+</div>
+<div>
+<p>[21] Nicole LaPorte, “Coffee’s Economics, Rewritten by Farmers,” <em>New York Times</em>, 16 March 2013, <a href="http://www.nytimes.com/2013/03/17/business/coffees-economics-rewritten-by-farmers.html?pagewanted=all&amp;_r=0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2013/03/17/business/coffees-economics-rewritten-by-farmers.html?pagewanted=all&amp;_r=0', 'http://www.nytimes.com/2013/03/17/business/coffees-economics-rewritten-by-farmers.html?pagewanted=all&amp;_r=0']);" >http://www.nytimes.com/2013/03/17/business/coffees-economics-rewritten-by-farmers.html?pagewanted=all&amp;_r=0</a>, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[22] “History,” <em>Fair Trade Towns USA</em>, http://fairtradetownsusa.org/about/history/, accessed 2 August 2013.</p>
+</div>
+<div>
+<p>[23] Examples include Chicago Fair Trade and Fair Trade Los Angeles.</p>
+</div>
+<div>
+<p>[24] Stephanie Clifford, “Some Retailers Say More About Their Clothing’s Origins,” <em>New York Times</em>, 8 May 2013, <a href="http://www.nytimes.com/2013/05/09/business/global/fair-trade-movement-extends-to-clothing.html?pagewanted=all" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/2013/05/09/business/global/fair-trade-movement-extends-to-clothing.html?pagewanted=all', 'http://www.nytimes.com/2013/05/09/business/global/fair-trade-movement-extends-to-clothing.html?pagewanted=all']);" >http://www.nytimes.com/2013/05/09/business/global/fair-trade-movement-extends-to-clothing.html?pagewanted=all</a>, accessed 2 August 2013.</p>
+</div>
+</div>
+											</div><!-- .entry-content -->
 
-<div class="container">
-    
-    
-    
 
-    
-    
-
-    
-        
-        
-            <div class="unit">
-                <ul>
-                    
-                    
-                    
-                    
-                        
-                        <li>
-                            <a href="/topic/4251?target=topic">Area Studies</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4250?target=topic">Arts</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4252?target=topic">Behavioral Sciences</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4253?target=topic">Bioscience</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4254?target=topic">Built Environment</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4256?target=topic">Communication Studies</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4255?target=topic">Computer Science</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4257?target=topic">Development Studies</a>
-                        </li>
-                    
-                    
-                </ul>
-            </div>
-        
-            <div class="unit">
-                <ul>
-                    
-                    
-                    
-                    
-                        
-                        <li>
-                            <a href="/topic/4258?target=topic">Earth Sciences</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4259?target=topic">Economics, Finance, Business & Industry</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4261?target=topic">Education</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4260?target=topic">Engineering & Technology</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4248?target=topic">Environment & Agriculture</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4262?target=topic">Environment and Sustainability</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4263?target=topic">Food Science & Technology</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4264?target=topic">Geography</a>
-                        </li>
-                    
-                    
-                </ul>
-            </div>
-        
-            <div class="unit">
-                <ul>
-                    
-                    
-                    
-                    
-                        
-                        <li>
-                            <a href="/topic/4266?target=topic">Health and Social Care</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4267?target=topic">Humanities</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4268?target=topic">Information Science</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4269?target=topic">Language & Literature</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4270?target=topic">Law</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4271?target=topic">Mathematics & Statistics</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4272?target=topic">Medicine, Dentistry, Nursing & Allied Health</a>
-                        </li>
-                    
-                    
-                </ul>
-            </div>
-        
-            <div class="unit">
-                <ul>
-                    
-                    
-                    
-                    
-                        
-                        <li>
-                            <a href="/topic/4249?target=topic">Museum and Heritage Studies</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4273?target=topic">Physical Sciences</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4274?target=topic">Politics & International Relations</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4278?target=topic">Social Sciences</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4277?target=topic">Sports and Leisure</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4279?target=topic">Tourism, Hospitality and Events</a>
-                        </li>
-                    
-                        
-                        <li>
-                            <a href="/topic/4280?target=topic">Urban Studies</a>
-                        </li>
-                    
-                    
-                </ul>
-            </div>
-        
-    
-
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-    </div>
-</div></div>
-        </div>
-    </div>
-    
+<div id="singlehauth"><div id="innoarchavatar"> <img src='/wp-content/uploads/avatars/201306harveyheadshotwebsize.jpg' class='avatar avatar-80 avatar-default' height='80' width='80' style='width: 80px; height: 80px;' alt='avatar' /><!--end author avatar--></div> <div id="innoauthdesc">Shannon recently completed a master’s degree in Religious Studies at the University of North Carolina at Chapel Hill. Her research focuses on the religious dimensions of social and environmental justice movements in the twentieth-century American South. Before moving to North Carolina, Shannon... <br />
+Read More About <a href="http://gogreenplus.org/author/shannon-harvey/" title="Posts by Shannon Harvey" rel="author">Shannon Harvey</a><!--end author description--></div><!--end innoarchauth--></div>
 
 
 
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
+
+					<div class="entry-utility">
+						This entry was posted in <a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/" rel="category tag">Business Tips, Resources &amp; Ideas</a> and tagged <a href="http://gogreenplus.org/tag/agricultural/" rel="tag">agricultural</a>, <a href="http://gogreenplus.org/tag/alternative-trade-organizations/" rel="tag">alternative trade organizations</a>, <a href="http://gogreenplus.org/tag/consumer-activism/" rel="tag">consumer activism</a>, <a href="http://gogreenplus.org/tag/developing-world/" rel="tag">developing world</a>, <a href="http://gogreenplus.org/tag/economic-justice/" rel="tag">economic justice</a>, <a href="http://gogreenplus.org/tag/ethical-consumption/" rel="tag">ethical consumption</a>, <a href="http://gogreenplus.org/tag/ethical-trade/" rel="tag">ethical trade</a>, <a href="http://gogreenplus.org/tag/fair-trade/" rel="tag">Fair Trade</a>, <a href="http://gogreenplus.org/tag/fair-trade-certification/" rel="tag">fair trade certification</a>, <a href="http://gogreenplus.org/tag/fair-trade-usa/" rel="tag">Fair Trade USA</a>, <a href="http://gogreenplus.org/tag/fairtrade-international/" rel="tag">Fairtrade International</a>, <a href="http://gogreenplus.org/tag/faith-based-initiatives/" rel="tag">faith based initiatives</a>, <a href="http://gogreenplus.org/tag/free-trade/" rel="tag">free trade</a>, <a href="http://gogreenplus.org/tag/global-north/" rel="tag">Global North</a>, <a href="http://gogreenplus.org/tag/global-south/" rel="tag">Global South</a>, <a href="http://gogreenplus.org/tag/inequality/" rel="tag">inequality</a>, <a href="http://gogreenplus.org/tag/neoliberal-trade-policies/" rel="tag">neoliberal trade policies</a>, <a href="http://gogreenplus.org/tag/social-justice/" rel="tag">social justice</a>, <a href="http://gogreenplus.org/tag/trade-policies/" rel="tag">trade policies</a>. Bookmark the <a href="http://gogreenplus.org/green-sustainable-business-tips-resources-ideas/fair-trade/" title="Permalink to Fair Trade: History, Purpose, and Why You Should Support it" rel="bookmark">permalink</a>.											</div><!-- .entry-utility -->
+				</div><!-- #post-## -->
                 
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget responsive-layout none footer-links widget-none  widget-compact-horizontal" id="64a44adf-45ed-4da3-be26-ef25beb9dbee"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-horizontal"><div class="container">
-    <div class="row row-md  ">
-        
-            <div class="col-md-1-2 ">
-                <div class="contents" data-pb-dropzone="contents0">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget responsive-layout none footer-responsive-container widget-none" id="6918e9df-910a-4206-9bd0-1a02bc17f740"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><div class="container-fluid">
-    <div class="row row-sm  ">
-        
-            <div class="col-sm-1-2 footer_left_col">
-                <div class="contents" data-pb-dropzone="contents0">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="aa9510dd-52ed-4b74-8211-fb510cd9468e"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="footer-info-list">
-<h3>Information for</h3>
-<ul>
-<li><a href="http://authorservices.taylorandfrancis.com/">Authors</a></li>
-<li><a href="http://editorresources.taylorandfrancisgroup.com/">Editors</a></li>
-<li><a href="/page/librarians">Librarians</a></li>
-<li><a href="/societies">Societies</a></li>
-</ul>
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-            <div class="col-sm-1-2 footer_right_col">
-                <div class="contents" data-pb-dropzone="contents1">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="ac8a1c0f-9427-44dd-96be-4f2a6ff4ffce"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="footer-info-list">
-<h3>Open access</h3>
-<ul>
-<li><a href="/openaccess">Overview</a></li>
-<li><a href="/openaccess/openjournals">Open journals</a></li>
-<li><a href="/openaccess/openselect">Open Select</a></li>
-<li><a href="https://www.cogentoa.com/">Cogent OA</a></li>
-</ul>
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-            <div class="col-md-1-2 ">
-                <div class="contents" data-pb-dropzone="contents1">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget responsive-layout none footer-responsive-container widget-none" id="fc564559-f496-499c-87c7-d851f371f061"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none "><div class="container-fluid">
-    <div class="row row-sm  ">
-        
-            <div class="col-sm-1-2 footer_left_col">
-                <div class="contents" data-pb-dropzone="contents0">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="f3fb3d36-db42-4373-9d0e-432958bf2fbc"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="footer-info-list">
-<h3>Help and info</h3>
-<ul>
-<li><a href="/page/help">Help</a></li>
-<li><a href="/page/help/faqs">FAQs</a></li>
-<li><a href="http://newsroom.taylorandfrancisgroup.com/">Press releases</a></li>
-<li><a href="/action/contactUs">Contact us</a></li>
-<li><a href="http://taylorandfrancisgroup.com/partnership/commercial">Commercial services</a></li>
-</ul>
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-            <div class="col-sm-1-2 footer_right_col">
-                <div class="contents" data-pb-dropzone="contents1">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none  widget-none  widget-compact-all" id="914433f6-0ea6-4a47-9781-07564061be86"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="footer-social-label">
-  <h3>Connect with Taylor & Francis</h3>  
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget literatumSocialLinks none  widget-none  widget-compact-all" id="3b6a5e53-cd62-452f-adc1-92e187a0849d"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="bs">
-            
-            
-                <div class="pull-left links">
-                    <a href="http://facebook.com/TaylorandFrancisGroup">
-                        <i class="fa fa-facebook-official"></i>
-                    </a>
-                </div>
-            
-            
-                <div class="pull-left links">
-                    <a href="http://twitter.com/tandfnewsroom">
-                        <i class="fa fa-twitter-square"></i>
-                    </a>
-                </div>
-            
-            
-                <div class="pull-left links">
-                    <a href="http://linkedin.com/company/taylor-&-francis-group">
-                        <i class="fa fa-linkedin-square"></i>
-                    </a>
-                </div>
-            
-            <div class="clearfix"></div>
-            
-                <div class="pull-left links">
-                    <a href="https://www.youtube.com/user/TaylorandFrancis">
-                        <i class="fa fa-youtube-square"></i>
-                    </a>
-                </div>
-            
-            
-            
-            
-                <div class="pull-left links">
-                    <a href="http://www.weibo.com/tandfchina">
-                        <i class="fa fa-weibo"></i>
-                    </a>
-                </div>
-            
-            <div class="clearfix"></div>
-        </div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget responsive-layout none  widget-none  widget-compact-horizontal" id="8d803f96-081d-4768-ab7d-280a77af723b"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-horizontal"><div class="container">
-    <div class="row row-sm  ">
-        
-            <div class="col-sm-3-4 ">
-                <div class="contents" data-pb-dropzone="contents0">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-html none footer-info-container widget-none  widget-compact-vertical" id="b247ecb9-84c9-4762-b270-20f8be1f0ae4"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-vertical"><div class="informa-group-info">
-<span>Copyright © 2017 Informa UK Limited</span>
-<span><a href="/privacy-policy">Privacy policy & cookies</a></span>
-<span><a href="/terms-and-conditions">Terms & conditions</a></span>
-<span><a href="/accessibility">Accessibility</a></span>
-
-<p>Registered in England & Wales No. 3099067<br/>
-5 Howick Place | London | SW1P 1WG</p>
-</div></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-            <div class="col-sm-1-4 footer_tandf_logo">
-                <div class="contents" data-pb-dropzone="contents1">
-                    
-                    
-                        
-                            
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget general-image none  widget-none  widget-compact-vertical" id="b6bde365-079b-454f-94f6-1841291656a1"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-vertical"><a href="http://taylorandfrancis.com/"
-title="Taylor and Francis Group"
->
-<img src="/pb-assets/Global/Group-logo-white-on-transparent.png"
-alt="Taylor and Francis Group"
-/>
-</a></div>
-        </div>
-    </div>
-    
-
-                        
-                    
-                </div>
-            </div>
-        
-    </div>
-</div></div>
-        </div>
-    </div>
-    
-
-
-
-    
-    
-    
-    
-    
-    
-        
-    
-        
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-        
-    
-        
-            
-            
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            
-            
-                
-            
-            
-                
-                
-                
-            
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    
-    
-
-    
-    <div class="widget cookiePolicy none  widget-none  widget-compact-all" id="cea739ac-da2c-4d77-9cf1-cb3e0da7e31e"  >
-        
-        
-
-        <div class="wrapped " >
-            
-            <div class="widget-body body body-none  body-compact-all"><div class="banner">
-      <a href="#" class="btn">Accept</a>
-      <p class="message">This website uses cookies to ensure you get the best experience on our website </p>
-    </div></div>
-        </div>
-    </div>
-    
-    </div>
-</footer></div>
-        </div>
-    </div>
-    
-        </div>
-    </div>
-</body>
-</html>
+                <div id="fbSEOComments"><br />
+<b>Fatal error</b>:  Uncaught Exception: 12: REST API is deprecated for versions v2.1 and higher (12)
+  thrown in <b>/homepages/2/d283115547/htdocs/wp-content/plugins/seo-facebook-comments/facebook/base_facebook.php</b> on line <b>1273</b><br />

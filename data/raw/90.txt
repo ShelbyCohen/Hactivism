@@ -1,0 +1,580 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <script>
+//<![CDATA[
+
+  var _rollbarConfig = {
+      accessToken: "3c8fd308bfb44df5ae7c1b19265cfa08",
+      captureUncaught: true,
+      payload: {
+        environment: "production"
+      }
+  };
+
+//]]>
+</script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"004ee6cabb","applicationID":"396333","transactionName":"cVdfEEBeXwkHRUkGDV1TQktXSVAAEEcS","queueTime":0,"applicationTime":42,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<title>Excerpt from How To Be A Craftivist: the art of gentle protest by Sarah Corbett: Unbound</title>
+<meta name="description" content="Learn how to do activism in a slow, kind and beautiful way using craft
+" />
+<meta property="og:title" content="Excerpt from How To Be A Craftivist: the art of gentle protest by Sarah Corbett: Unbound" />
+<meta property="og:description" content="Unbound is a new way of bringing authors and readers together. We believe both deserve a greater say in which books get published." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/apple-touch-icons/apple-touch-icon-288103681ba9b28fc76a586d0e32b723e6fd1c7df287859b4a768b564917d166.png" />
+<meta property="og:url" content="https://unbound.com/books/craftivist/excerpt" />
+<meta property="og:site_name" content="Unbound" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon" href="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/apple-touch-icons/apple-touch-icon-144x144-eb339001de671f96da210f997881c728b079bc7b97291e64d820d36850b700b9.png" sizes="144x144"></link>
+<link rel="apple-touch-icon" href="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/apple-touch-icons/apple-touch-icon-120x120-856a1769f051c665b9a0c2acac1b0b60c6900021a2b709bd2c9b7ab7500140cb.png" sizes="120x120"></link>
+<link rel="apple-touch-icon" href="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/apple-touch-icons/apple-touch-icon-72x72-5798613dcc1eff401fb0b423a88e1b7781260cb4bcdb08aeb5be20633bffd488.png" sizes="72x72"></link>
+<link rel="apple-touch-icon" href="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/apple-touch-icons/apple-touch-icon-57x57-15c35804c4792aa6c1000148a75fb9143c2c72d9c202d922d9ebc7259f1d0fe3.png" sizes="57x57"></link>
+<link rel="shortcut icon" href="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/favicon-27096843b8bf51d635ebde465739984b4829ea6a2fc0f0737901c1096a5cacce.ico" />
+
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FwpR+cAGyXwJ+VctFPgou9gAgdtTrOd6sQ9czxjyStYteFNA26IvOl649OfKgA0+8qc9k1M5RpB7oquFwt9wtA==" />
+
+<!--[if lte IE 8]>
+  <script src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/html5shiv-d55410eeb0d1e50b9558b594560e362529c60f3d70f808efe63dc16137b0226a.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" media="screen" href="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/application-c456f02b4b9ba785757f008c8aee9347b0a2dde6ca5bd1e9d8e1ba91216bf05e.css" />
+
+
+
+<script src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/head_loaded_scripts-8e118e6672a8571e3d1b3a3d67fa1b2217ebb560b0bb559122547797d1b97fd0.js"></script>
+
+
+<script type="text/javascript">
+  window.Et.clearEventProperties();
+  window.Et.setEventProperties({"origin":"books#excerpt","book_title":"How To Be A Craftivist: the art of gentle protest","book_id":"277","book":"craftivist","book_status":"success","book_stage":"in_prepress","book_progress_percent":129});
+  window.Et.setEventProperties({
+    logged_in: document.cookie.match(/user_logged_in=yes/) ? "yes" : "no"
+  });
+</script>
+
+</head>
+
+<body class="book-look">
+  <div class="wrapper">
+    <div class="wrapper__content">
+      <div id="fb-root"></div>
+      <script src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/facebook-e52d5fc5eae6980b49bf316e5cd1d9996f551ca7754599ac9b53c5b61d836c08.js"></script>
+
+      <noscript class="padding--vertical-md alert alert--warning">
+  <div class="container">
+    Unbound requires JavaScript, and may not work correctly without it. <a href="https://support.google.com/adsense/answer/12654?hl=en-GB">Find out how to enable it.</a>
+  </div>
+</noscript>
+
+<!--[if lte IE 9]>
+  <div class="padding--vertical-md alert alert--warning">
+    <div class="container">
+      You're using an unsupported browser, and Unbound may not function correctly. <a href="http://browsehappy.com/">Find a better browser.</a>
+    </div>
+  </div>
+<![endif]-->
+
+            <div id="flash" style="display: none; padding-top: 40px">
+  <div class="alert alert--fixed ">
+    <div class="container" id="flash-content">
+      <!-- This gets populated by show_flash_message.js -->
+    </div>
+  </div>
+</div>
+
+      <div id="cookie-notice" class="alert alert--white" style="display: none;">
+  We use <a href="/cookie_policy">cookies</a>.<span id="consent-approve" class="button-fill button--white button--xs">Got&nbsp;it!</span>
+</div>
+
+
+      
+      <div class='container-fluid'>
+  <header class='header'>
+    <a class="header__logo logo" href="/">
+      <h1 class='logo__unbound'><img alt="Unbound" src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/logo-unbound-af1be1acb7df0ab8cf6bafd1bc5723dfe4adfe56533647b68e5674c8778d1d28.svg" /></h1>
+      <h2 class='logo__strapline'>Liberating ideas</h2>
+      <img class="logo__mark" src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/logo-u-ink-22463ffbcdde6d70a635a2c134e4402a2cd3a1c41fbb7f7196dee54984a0cbe8.png" alt="Logo u ink" />
+</a>    <a class="hidden-xs hidden-sm" href="/">
+      <img class="header__mark" src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/logo-u-ink-22463ffbcdde6d70a635a2c134e4402a2cd3a1c41fbb7f7196dee54984a0cbe8.png" alt="Logo u ink" />
+</a>    <div class='header__navigation'>
+      <a href="/books">Discover</a>
+      <a data-mp-event="start-a-project:click" href="/authors/work-with-us">Start <span class="hidden-xs">a project</span></a>
+        <a class="header__account" href="/users/sign_in?clear=1">Log in</a>
+
+      <span id="search-modal"></span>
+
+    </div>
+  </header>
+</div>
+
+
+      
+<div class="container margin--vertical-md">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2 gap--md">
+        <section class="text--serif gap--md">
+            <div class="gap--sm text--center">
+              <span class="text--italic">An excerpt from</span>
+              <hgroup>
+                <h1 class="text--lg">How To Be A Craftivist: the art of gentle protest</h1>
+                <h2 class="text--italic"><a class="link" href="/authors/sarah-corbett">Sarah Corbett</a></h2>
+              </hgroup>
+            </div>
+            <div class="gap--sm raw">
+              <link rel="stylesheet" type="text/css" media="screen" href="https://s3-eu-west-1.amazonaws.com/media.unbound.co/download/books/craftivism/style.css"/>
+
+<div class="css-slideshow">
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/01.jpg" alt="" class="img-responsive" />
+    </figure>
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/02.jpg" alt=""  class="img-responsive" />
+    </figure>
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/03.jpg" alt="" class="img-responsive" />
+    </figure>
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/04.jpg" alt="" class="img-responsive" />
+    </figure>
+<figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/05.jpg" alt=""  class="img-responsive" />
+    </figure>
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/06.jpg" alt="" class="img-responsive" />
+    </figure>
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/07.jpg" alt="" class="img-responsive" />
+    </figure>
+    <figure>
+        <img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/08.jpg" alt="" class="img-responsive" />
+    </figure>
+		<figure>
+				<img src="https://s3-eu-west-1.amazonaws.com/media.unbound.co/craftivism/09.jpg" alt="" class="img-responsive" />
+		</figure>
+  </div>
+<p align="center">
+    Chapter 3: Slow Activism
+</p>
+<p align="center">
+    “Don’t forget to be the tortoise. Breathe. Slow down”
+</p>
+<p>
+    That’s what I often have to say at workshops I deliver. From New York to Norway, it’s the same. Slowing down seems to be the first challenge for people.
+    They start things in the wrong order because they skip, or sometimes don’t even see, the instructions. People are surprised when embroidery thread knots or
+    breaks after being separated too forcefully. You can feel the frustration in the room when it takes makers more than three times to thread their needle
+    successfully. The projects aren’t difficult. I choose easily accessible craft techniques so that anyone can get involved, even if they have never picked up
+    a needle and thread before. My approach to craftivism needs time and a steady hand to tackle injustices with care, thoughtfulness and sensitivity. You
+    can’t rush these things. You’ve got to slow down.
+</p>
+<p>
+    It’s not surprising people struggle. I struggle. Perhaps you do at times. We live in such a fast-paced world, trying to keep up with our emails, the news,
+    trends, our social media streams, our friends wherever they may be. It’s exhausting just thinking about it. But channelling your inner tortoise is a vital
+    part of how to be an effective craftivist. Strategic planning, creative thinking and building relationships all take time and, if rushed, are impossible to
+    deliver. Craftivism (and activism) needs all these things: slowness is vital. A slow pace should be threaded through all of your craftivism work so that
+    your work is produced with care, courage and consideration.
+</p>
+<p>
+    <u>Fast-paced world</u>
+    <u></u>
+</p>
+<p>
+    It’s harder than it sounds. We live in a world where the average attention span of an adult has gone from 12 seconds in the year 2000 to 8 seconds in 2015.
+    We have less concentration than a goldfish!<a href="#_ftn1" name="_ftnref1" title=""><sup><sup>[1]</sup></sup></a> Mobile phones have transformed the way
+    many of us live. The average person spends more time each day on electrical devices than sleeping. Our culture seems to admire people more who are, or just
+    look, busy.
+</p>
+<p>
+    For many, work absorbs most of our waking hours, with life coming second, fitted in around our schedules. The Industrial Revolution and modern technology
+    were supposed to mean we could work less but.... oops, we are working more. I’m not saying that deadlines aren’t good - they can focus our minds and give
+    us drive to perform great things. But we can only do this short-term: many of us feel stuck in a bottomless pit of permanent deadlines and it’s rewiring
+    how we live.
+</p>
+<p>
+    How do we find time to rest, see family and friends, exercise, eat well, have a hobby, never mind find time to squeeze in campaigning to improve our world?
+    It can feel impossible. We live in a culture where time is often seen as money. We treat time like another commodity and sometimes even feel we need to
+    justify how we are spending our free time. Some struggle to just be. Some struggle to make time to think. Some are so overwhelmed they freeze. Some work,
+    work and work some more. And then are forced to stop, by burnout, exhaustion, or an early retirement.
+</p>
+<p>
+    The free time we do find is often interrupted by our own FOMO (fear of missing out) so we fill it with socialising, weekend trips, courses, cultural
+    events, or bingeing on entire TV series online. Some even use up precious time to set up an Instagram-able image of themselves on a day off chilling out
+    and reading a book rather than just reading the book: I’ve been guilty of that!
+</p>
+<p>
+    Always being connected and busy can lead to depression and chronic fatigue. Slow activities like walking, meditation, yoga, gardening and handicraft are
+    being prescribed increasingly by psychologists, therapists and even business consultants to promote health and wellbeing.
+</p>
+<p>
+    If you never stop doing, you will never recharge your batteries. A fast paced life stops us functioning to the best of our abilities: concentration starts
+    to wander, information struggles to sink in, and “isn’t it ironic”, as Alanis Morrisette sings, that things then take longer than they should. You lose
+    your temper more easily. The joy dissolves and everything feels like a chore. This fast-paced living is taking its toll on our health, community, and
+    society.
+</p>
+<p>
+    There is a growing yearning from many of us, as well as a need, to slow down. And for the sake of our planet we need to slow down.
+</p>
+<p>
+    Carl Honoré, one of the world’s most respected advocates of the Slow Movement, wrote in his book “In Praise of Slowness”:
+</p>
+<p>
+    “The recession is a jolting reminder that the way we have been living is unsustainable. The pursuit of fast growth, fast profit and fast consumption has
+    brought the world to its knees. It has made us unhappy and unhealthy. People are yearning for an alternative. More and more of us are coming around to the
+    idea that we need to reinvent the way we run our economies and societies from the ground up. Slowing down will be a big part of that change.”
+</p>
+<p>
+    <u>The Slow Movement</u>
+    <u></u>
+</p>
+<p>
+    <u> </u>
+</p>
+<p>
+    The ‘Slow Movement’ started as a protest movement. Carlo Petrini began protesting against the opening of the fast-food chain McDonald’s near the Spanish
+    Steps in Rome in 1986. His actions and articles sparked the creation of the slow food movement, opposed to the fast food culture, and encouraging the use
+    of regional, organic produce and preserving traditional foods.
+</p>
+<p>
+    Others took up this message of a sustainable and quality-focused alternative to modern day ways of living. ‘Slow fashion’ was coined in 2007 by Kate
+    Fletcher who wrote: “Slow fashion is not a seasonal trend that comes and goes like animal print, but a sustainable fashion movement that is gaining
+    momentum”<a href="#_ftn2" name="_ftnref2" title=""><sup><sup>[2]</sup></sup></a>. ‘Slow fashion’ celebrates and supports artisan clothes and small
+    businesses, as well as fair trade and locally made clothes. Other facets of this movement include boycotting mass-produced ‘fast fashion’, buying
+    secondhand, mending old clothes to last longer or ‘upcycling’ old clothes into new clothes. You are encouraged to make your own clothes, or at least be
+    aware of the skill and time given by garment workers to put together each item. You are asked to think about where the clothes will go when you are
+    finished with them, and to become an ethical consumer.
+</p>
+<p>
+    ‘Slow gardening’ focuses on delighting in what you grow and enjoying the whole process using all of your senses in all of the seasons. ‘Slow goods’
+    celebrate the craftsmanship involved whether it’s one pair of hands or many. It celebrates the sustainable resources used and the supportive relationships
+    between suppliers and distributors. ‘Slow parenting’ encourages parents to allow children to explore the world at their own pace and develop naturally. It
+    is a reaction against the trend of ‘hyper-parenting’ where you take your child to every activity for after school and weekend activity under the sun. ‘Slow
+    travel’ teaches travellers not to hurry but to enjoy the journey as well as the destination, to find a low-emissions way to travel and to engage more
+    deeply with communities along their route rather than devouring a guidebook and trying to squeeze in as much as possible. ‘Slow photography’ focuses on
+    manual techniques and methods that take more time and produce physical images rather than fast digital snapshots. ‘Slow technology’ is about using
+    technology to help nurture reflection and encourage critical analysis and where the focus isn’t only on efficiency. Scientists have also come together to
+    create ‘Slow science’: this empowers scientists to take time to do the thinking and reading they crave in a culture that praises the amount they publish
+    rather than the quality. The growth of slow movements reflect people’s wants and needs, and address very real concerns.
+</p>
+<p>
+    At the core of the Slow Movement is the philosophy of wanting to do well and to do good. Quality is the priority, not quantity, sustainability not speed,
+    ethical, not cheap, processes, with celebration of the time, energy and care that has gone into each product or action. Surely we should strive for this
+    approach in more parts of our life?
+</p>
+<p>
+    The movement has grown slowly and organically over the years. It offers companies alternative ways of working that are more sustainable. Politicians are
+    encouraged to look at ways of governing differently and all of us are challenged to look at our own lives and see how we can improve them, not just for our
+    own wellbeing but for societal wellbeing. Isn’t this a natural response to our unsustainable way of life? It feels like common sense.
+</p>
+<p>
+    So why, when it comes to campaigning for a healthier, happier and fairer world for all, is much of our activism rushed?
+</p>
+<p>
+    I felt like a burnt out activist a few years ago. There are lots of reasons why many traditional forms of activism drained me but one big reason was that I
+    was doing too much too fast. I just didn’t stop or slow down.
+</p>
+<p>
+    <u>Angry activism</u>
+</p>
+<p>
+    Before, I would get so angry and then emotionally exhausted. Seeing injustices happen in our area, or in the world, should make us feel angry and want to
+    stand up against them. Anger is one of the strongest emotions we have and it can give us courage to take action. But we know that reacting in anger isn’t
+    always that effective if we don’t make time to channel that anger into a wiser strategy. We can say and do things we later regret because our anger blinds
+    us.
+</p>
+<p>
+    I can understand how people’s anger can turn violent. We can feed off other protesters’ emotions and energy and then release it through shouting
+    disrespectful messages or with a violence against a person or property. Despite good intentions, unless we invest time in research, our angry activism can
+    lead to trouble. Quick outbursts can create confrontation and conflict. Aggression is a catalyst for fight or flight in both parties, not a safe space for
+    communication and collaboration. If we are asking people to treat people and our planet with respect then isn’t it contradictory to do it in an aggressive
+    way? Rapid responses can give the very people you are trying to influence an excuse not to engage in conversation. Would you want to talk to someone
+    hotheaded who looks as though they won’t listen or engage with you?
+</p>
+<p>
+    Angry actions can put people off from joining your cause because, often without realizing, you are intimidating them. People may see a tired, unhappy,
+    unloving and busy activist that they don’t want to engage with or become. My anger at injustice was eating away at me and no one wants to join a campaign
+    where the people involved look exhausted and depressed. We know from an early age that if we want long term support we need to get people on our side, not
+    bully them into submission. No one likes being told what to do. So why when it comes to activism do we sometimes not respect each other and try to impose,
+    order, or even bully?
+</p>
+<p>
+    <u>Robotic activism</u>
+</p>
+<p>
+    My response to seeing injustices wasn’t to use physical violence. Without realising I turned myself into an activist robot. Of course we should sometimes
+    act fast against injustice. If a government is trying to slip in a law without the public knowing then we need quickly to shine a spotlight on it so that
+    people are aware and can question it. The quickest way to do this is signing a petition or grabbing media attention through a stunt and through people
+    speaking out. However, there were so many injustices in the world I cared deeply about: it was hard to act on them all or to ignore some and prioritise
+    others. There were so many activist groups to join and so many actions to take. I wanted to help and so I would go to lots of meetings, chair some of them,
+    write up the minutes for others, plan events and stunts, write and send press releases. I struggled to keep on top of the many email petitions from
+    different organisations titled “Urgent: we need your support” or “Stop this law being passed NOW” but I also struggled to ignore them. They were so
+    demanding and it was overwhelming.
+</p>
+<p>
+    To cope I often became numb to the issues so that I could get as much done as possible without feeling emotionally drained or start thinking too much. In
+    retrospect maybe this was my way of coping. It was easier to do lots of quick transactions rather than think through what would be the best use of my time
+    and what were the root causes of this injustice. I felt that I was being helpful, showing my solidarity with those affected, and I didn’t have to slow down
+    and think about whether what I was doing was strategic: that required asking potentially uncomfortable questions. I knew that good intentions are just the
+    start and that I needed to think clearly to make sure the campaign would be effective. Otherwise it could actually be harmful. We might target the wrong
+    people who don’t actually have the power, we might not have all the facts we need to have a strong case, we might be oversimplifying the campaign, causing
+    a lack of credibility. Maybe I was wearing my busyness as a badge of honour to say “look I’m so busy saving the world, I don’t have time to think”?!
+</p>
+<p>
+    Not only was I burning out as an activist robot, I became really worried that I was treating other people as robots too. I was focusing on, and being asked
+    to focus on, getting as many signatures on petitions as possible to show that the public cared about an issue. If people asked me for more information I
+    didn’t see that as a great opportunity to discuss the issue with them and help them engage more deeply with the campaign. I saw it as a waste of precious
+    time that I could be using to get more signatures. I wasn’t encouraging people to connect their quick action to the bigger picture and think through the
+    reasons why these injustices are happening, and how we can sometimes be part of the solution to the problem. In my heart it didn’t sit right that the
+    actions I was asking people to do were so easy because I knew that the easier something is, the less we are likely to reflect on it, take ownership of our
+    action, and we might even forget the action we’ve just taken! I began doubting my effectiveness as an activist and I didn’t find it fulfilling. I was
+    wondering whether people truly cared about an issue they had taken action on and the small level of commitment to do the action made me question whether
+    customers or constituents would see the issue as something that would affect their consumer or voting choices.
+</p>
+<p>
+    I craved a form of Slow Activism. I was searching for slow activists or slow activism techniques to learn from, but I couldn’t find any.
+</p>
+<p>
+    <u> </u>
+</p>
+<p>
+    <u>Crafting slowly </u>
+</p>
+<p>
+    <u> </u>
+</p>
+<p>
+    One day in the spring of 2008, I had another long train journey. I was working on a project funded by the UK Department for International Development
+    enabling 5000 18-24 year olds to go overseas for 10 weeks to a developing country to work in the community to help alleviate poverty and collect stories to
+    share back in the UK. It was an amazing job. I loved working with organisations to recruit young people who would benefit from the project. I enjoyed
+    preparing the young adults for their trips, teaching them about global issues and how development programmes can help people get themselves out of poverty.
+    I loved supporting these volunteers after their trip to express their experience in their own creative ways back in their own communities to engage more
+    people in social justice. What I didn’t love was the long hours and travel needed to do my job. I would try and work on the train but would feel travel
+    sick reading, writing or typing.
+</p>
+<p>
+    I was looking around a shop one weekend when I spotted a small square cross stitch kit. I missed painting and using my hands to make things. The kit was
+    small, affordable, and fitted in my pocket. I decided to take it on my next train journey.
+</p>
+<p>
+    I had never done cross-stitch before. Immediately it slowed me down because I had to read the instructions so that I didn’t mess up. It required my hands
+    and head to work together in a way I hadn’t asked them to for a long time. I had to cut the thread a particular length (the length from my index finger to
+    my shoulder) so that it wasn’t too long and wouldn’t get tangled up. But I also had to cut it so that it wasn’t too short or I would be giving myself extra
+    work rethreading it. I learnt that embroidery thread is different to thread for a sewing machine. You get 6 strands of thread in each embroidery floss (the
+    American term) and you choose, or in my case are told in the instructions kit, to use the optimum amount of strands that complement your design and size. I
+    had to separate my thread into two groups of three strands. The first time I separated the thread felt like hours because I was so used to doing everything
+    at speed. I needed to give it my full attention and watch the thread separate, unravel, and I had to make sure it wasn’t attached to anything that might
+    cause a knot. I had to let the thread unravel at its own pace. I naturally slowed down to count the number of crosses to stitch and to count the grid
+    pattern on the fabric to see where to start the stitches. I had to make sure that I didn’t pull the thread so tight that the stitches bunched up and warped
+    the design. I am faster now, but hand embroidery like cross-stitch cannot be too rushed or even the most experienced and skilled person will make mistakes.
+</p>
+<p>
+    With every stitch I created, I felt calmer. The craft kit was accessible for beginners like me but it wasn’t so easy to do that I couldn’t be proud of my
+    efforts. Something clicked in me. Stitching could be the tool I was looking for to help me develop the form of slow activism that I was craving.
+</p>
+<p>
+    I was learning from the Slow Movement and was now looking to incorporate it into my activism. I wanted to join this growing movement and show that it could
+    inform and enhance activism. The slow movement not only helps individuals live a healthier and more enjoyable life, but also helps communities create
+    effective, ethical and attractive models of living that are positively influencing our culture. It’s not about doing everything at a snail’s pace, but
+    rather making time to reflect and to think critically about at what pace we should take to do everything as well as possible rather than just as fast as
+    possible. From traveling to cooking, the movement is gently protesting against a culture of speed, size and surplus. It is challenging the notion that if
+    we want to hang on to our jobs, stay relevant, and be valued, then we need to speed up. So much research shows that overwork is the enemy of efficiency,
+    productivity and creativity. Each slow counter-cultural action is gently asking us to stop multitasking, slow down, do less, buy less, drive less, unplug
+    more, walk more, sleep more. Meditate, pray or do yoga. The growing conversations around slowness, and the increasing media-attention are quietly
+    converting people. The interest is not pushing people to join the movement but is gently and quietly encouraging people to take a look, have a think, and
+    to join in when they are ready on their own terms. I wanted slow activism to do the same.
+</p>
+<p>
+    <u> </u>
+</p>
+<p>
+    I don’t think craftivism as a form of ‘slow activism’ should replace forms of fast activism. We will always need rapid responses and we should take part in
+    them. However many social injustices are sadly far more ingrained in our culture and therefore demand a more complex long-term and multi-faceted solution.
+    To offer emergency relief can be a live-saving response but that is donation not activism: we need to make sure that activism isn’t replaced by fundraising
+    or aid but is alongside these actions. We can take quick actions to challenge and shine a spotlight on government legislation and business policies that
+    should be changed, but deep-rooted prejudices (such as racism), behaviours (mass consumption), habits (wasting energy), inbuilt cultures (gender
+    inequality) need more time to be addressed fully and changed gradually. The entrenched causes of many systematic or cultural harms take time, thought and a
+    clever strategy before they are changed. Working too hard and too fast quickly takes its toll and makes it much harder to think creatively and much easier
+    to make mistakes. When people feel too rushed they become less creative; Instead of coming up with bold, innovative ideas, we settle for low hanging
+    fruits. We need energy and space to allow our mind to slip into a creative mode of thought that psychologists call ‘slow thinking’. Slowness shouldn’t be
+    seen as a luxury but essential for the quality of our work. When our work is about improving the world for everyone and protecting it from harm then it’s
+    surely important we get the campaigning right. We also need to slow down so that we can keep our heads when many around us may be losing theirs. No one
+    gets it completely right. As craftivists we should be kind to ourselves, and do one thing at a time. We should embed slow moments and rituals into our
+    schedule, and prioritise face to face time with people so that we connect more meaningfully. Slowing down helps us feel energised and more ready to demand
+    a better world for all.
+</p>
+<p>
+    <u> </u>
+</p>
+<p align="center">
+    Remember who won the race between the tortoise and the hare...
+</p>
+<p>
+    The tortoise, unlike the hare, won by moving forward one step at a time, never giving up and never being distracted from reaching his goal. You can’t do
+    mindfulness quickly. So, hold that image of the tortoise as we go into the next chapter where I explain the importance of being a mindful craftivist.
+</p>
+<div>
+    <br clear="all"/>
+    <hr align="left" size="1" width="33%"/>
+    <div id="ftn1">
+        <p>
+            <a href="#_ftnref1" name="_ftn1" title=""><sup><sup>[1]</sup></sup></a>
+            <a href="http://time.com/3858309/attention-spans-goldfish/">http://time.com/3858309/attention-spans-goldfish/</a>
+        </p>
+    </div>
+    <div id="ftn2">
+        <p>
+            <a href="#_ftnref2" name="_ftn2" title=""><sup><sup>[2]</sup></sup></a>
+            <a href="http://www.slowfashioned.com/about">What is Slow Fashion?</a>
+            by Jessica Bourland, Slow Fashioned
+        </p>
+    </div>
+</div>
+            </div>
+        </section>
+
+      <div>
+        <a class="button-outline" href="/books/craftivist">
+          Back to book project
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+    <div class="container">
+  <div class="footer gap--sm">
+    
+    <div class="row">
+      <div class="col-sm-3 col-xs-6">
+        <a href="http://help.unbound.com/">FAQ</a>
+        <a href="/refunds">Refunds</a>
+        <a href="/terms">Terms &amp; conditions</a>
+        <a href="/privacy">Privacy policy</a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="/about" data-mp-event="about-us:click">About us</a>
+        <a href="/how-it-works">How it works</a>
+        <a href="/contact">Contact us</a>
+        <a href="/jobs">Jobs</a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="http://blog.unbound.com/" data-mp-event="blog:click">Blog</a>
+        <a href="http://library.unbound.co.uk/" data-mp-event="library:click">Library</a>
+        <a href="/authors/work-with-us">Start a project</a>
+        <a href="/publishers">Publishers</a>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <a href="http://facebook.com/unbound" rel="publisher">Facebook</a>
+        <a href="http://twitter.com/unbounders">Twitter</a>
+        <a href="https://plus.google.com/100992043051895893854">Google+</a>
+        <a href="/backlisted">Backlisted podcast</a>
+      </div>
+    </div>
+    <span class="text--sm text--light-grey">&copy; Unbound 2017</span>
+  </div>
+</div>
+<!--[if lte IE 9]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+
+  </div>
+  <!-- Javascript Loading -->
+
+<script>
+  var switchTo5x=true; // for buttons
+  window.pageIsCached = false;
+</script>
+
+<!--[if lte IE 9]>
+  <script>window.Unbound.lteIE9=true;</script>
+<![endif]-->
+
+<script src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/modernizr-f086d2e08f69fc69d349df115beec6bfcb99c2312d63725975187b6b66eac7b1.js"></script>
+<script src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/application-3aaa3e9ee5c55128be7cb56985c25323737f7cb5d3807b5f52478d8a42353fb1.js"></script>
+
+
+<script>
+  window.Unbound.loadPersonalizedContent();
+</script>
+
+  <script src="//d1hgp85ckuyd6v.cloudfront.net/assets/webpack/search-modal-d211679e699d4ac61fa7.js"></script>
+
+
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-21735407-2', {
+    'cookieDomain': 'unbound.com'
+  });
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics Code -->
+
+<!-- Facebook Custom Audience Code -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '228070747396074');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=228070747396074&amp;ev=PageView&amp;noscript=1"
+/>
+</noscript>
+<!-- Facebook Custom Audience Code -->
+<!-- Facebook Custom Audience Code -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1097099760324008');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1097099760324008&amp;ev=PageView&amp;noscript=1"
+/>
+</noscript>
+<!-- Facebook Custom Audience Code -->
+
+
+
+
+
+
+
+
+
+
+
+<script src="//d1hgp85ckuyd6v.cloudfront.net/assets/1-11/check_webfont-06af78e1668574be6e5f8d69902de07095b5688a29d5196488f060ef5723059f.js"></script>
+
+</body>
+</html>

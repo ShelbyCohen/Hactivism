@@ -1,495 +1,1073 @@
+
+   <!-- NoCookie set to [1] -->     
+
 <!DOCTYPE html>
-<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
-<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
-<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
-<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
-<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<html lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.afsc.org/sites/all/themes/afsc_seven/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law." />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://www.afsc.org/story/boycott-divestment-and-sanctions-explained" />
-<link rel="shortlink" href="https://www.afsc.org/node/7239" />
-<meta property="og:site_name" content="American Friends Service Committee" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.afsc.org/story/boycott-divestment-and-sanctions-explained" />
-<meta property="og:title" content="Boycott, divestment and sanctions explained" />
-<meta property="og:description" content="BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law." />
-<meta property="og:updated_time" content="2016-02-25T13:20:44-05:00" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://www.afsc.org/story/boycott-divestment-and-sanctions-explained" />
-<meta name="twitter:title" content="Boycott, divestment and sanctions explained" />
-<meta name="twitter:description" content="BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law." />
-<meta property="article:published_time" content="2013-02-28T14:53:10-05:00" />
-<meta property="article:modified_time" content="2016-02-25T13:20:44-05:00" />
-  <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Boycott, divestment and sanctions explained | American Friends Service Committee</title>
-  <style type="text/css" media="all">
-@import url("https://www.afsc.org/modules/system/system.base.css?ooz4ii");
-@import url("https://www.afsc.org/modules/system/system.menus.css?ooz4ii");
-@import url("https://www.afsc.org/modules/system/system.messages.css?ooz4ii");
-@import url("https://www.afsc.org/modules/system/system.theme.css?ooz4ii");
-</style>
-<style type="text/css" media="all">
-@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?ooz4ii");
-</style>
-<style type="text/css" media="all">
-@import url("https://www.afsc.org/modules/aggregator/aggregator.css?ooz4ii");
-@import url("https://www.afsc.org/modules/comment/comment.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/date/date_api/date.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ooz4ii");
-@import url("https://www.afsc.org/modules/field/theme/field.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/fitvids/fitvids.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/logintoboggan/logintoboggan.css?ooz4ii");
-@import url("https://www.afsc.org/modules/node/node.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_admin/panopoly-admin.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_admin/panopoly-admin-navbar.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_magic/css/panopoly-magic.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_magic/css/panopoly-modal.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_theme/css/panopoly-featured.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_theme/css/panopoly-accordian.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_theme/css/panopoly-layouts.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets-spotlight.css?ooz4ii");
-@import url("https://www.afsc.org/modules/search/search.css?ooz4ii");
-@import url("https://www.afsc.org/modules/user/user.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/calendar/css/calendar_multiday.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/views/css/views.css?ooz4ii");
-</style>
-<style type="text/css" media="all">
-@import url("https://www.afsc.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/ctools/css/ctools.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/panels/css/panels.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/modules/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/themes/open_framework/packages/bootstrap-2.3.1/css/bootstrap.min.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/themes/open_framework/packages/bootstrap-2.3.1/css/bootstrap-responsive.min.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/themes/open_framework/packages/font-awesome-4.3.0/css/font-awesome.min.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/libraries/superfish/css/superfish.css?ooz4ii");
-</style>
-<style type="text/css" media="all">
-@import url("https://www.afsc.org/sites/all/themes/open_framework/css/open_framework.css?ooz4ii");
-@import url("https://www.afsc.org/sites/all/themes/afsc_seven/css/global.css?ooz4ii");
-</style>
-<style type="text/css" media="print">
-@import url("https://www.afsc.org/sites/all/themes/open_framework/css/open_framework_print.css?ooz4ii");
-</style>
-<style type="text/css" media="all">
-@import url("https://www.afsc.org/sites/all/modules/panopoly_images/panopoly-images.css?ooz4ii");
-</style>
-  <script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
-<script type="text/javascript" src="https://www.afsc.org/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="https://www.afsc.org/misc/drupal.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/fitvids/jquery.fitvids.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_images/panopoly-images.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/fitvids/fitvids.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_admin/panopoly-admin.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_magic/panopoly-magic.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_theme/js/panopoly-accordion.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/colorbox/js/colorbox.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/jquery.imagesloaded/jquery.imagesloaded.min.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/google_analytics/googleanalytics.js?ooz4ii"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-395473-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/packages/bootstrap-2.3.1/js/bootstrap.min.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/supposition.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/superfish.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/libraries/superfish/supersubs.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/superfish/superfish.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/js/open_framework.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/js/jquery.placeholder.min.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/open_framework/js/override.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/afsc_seven/js/global.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/themes/afsc_seven/js/search.js?ooz4ii"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"afsc_seven","theme_token":"u9pZRPjtSEqJ2W7Fjo15ptY-2duTdhFSoefQ6OX8eyE","js":{"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets.js":1,"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/panopoly_images\/panopoly-images.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"sites\/all\/modules\/panopoly_admin\/panopoly-admin.js":1,"sites\/all\/modules\/panopoly_magic\/panopoly-magic.js":1,"sites\/all\/modules\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/all\/themes\/afsc_seven\/js\/global.js":1,"sites\/all\/themes\/afsc_seven\/js\/search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/panopoly_admin\/panopoly-admin.css":1,"sites\/all\/modules\/panopoly_admin\/panopoly-admin-navbar.css":1,"sites\/all\/modules\/panopoly_magic\/css\/panopoly-magic.css":1,"sites\/all\/modules\/panopoly_magic\/css\/panopoly-modal.css":1,"sites\/all\/modules\/panopoly_theme\/css\/panopoly-featured.css":1,"sites\/all\/modules\/panopoly_theme\/css\/panopoly-accordian.css":1,"sites\/all\/modules\/panopoly_theme\/css\/panopoly-layouts.css":1,"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets.css":1,"sites\/all\/modules\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/afsc_seven\/css\/global.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/all\/modules\/panopoly_images\/panopoly-images.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"single"},"better_exposed_filters":{"views":{"Blog_Blocks":{"displays":{"block_11":{"filters":[]}}},"quotations":{"displays":{"block":{"filters":[]}}}}},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"responsive_menus":[{"toggler_text":"\u003Ci class=\u0022fa fa-bars\u0022\u003E\u003C\/i\u003E","selectors":["#superfish-1"],"media_size":"768","remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/story\/boycott-divestment-and-sanctions-explained":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
-//--><!]]>
-</script>
-  <!--[if IE 7]>
-  <link rel="stylesheet" href="/sites/all/themes/open_framework/packages/font-awesome-4.3.0/css/font-awesome-ie7.min.css" />  <![endif]-->
-  <!-- IE Fix for HTML5 Tags -->
-  <!--[if lt IE 9]>
-    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
-  <![endif]-->
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
-  <script src="https://use.typekit.net/iqn6njn.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
-  <script type="text/javascript">
-    /*<![CDATA[*/
-    (function() {
-      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
-      sz.src = '//siteimproveanalytics.com/js/siteanalyze_89178.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
-    })();
-    /*]]>*/
-  </script>
-<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6421672/7159152/css/fonts.css" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Le styles -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/camera.css" rel="stylesheet">
+    <link href="/css/icons.css" rel="stylesheet">
+    <link href="/css/skin-jurist.css" rel="stylesheet">
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+          <script src="/js/html5shiv.js"></script>
+        <![endif]-->
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/img/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/img/logos/jurist_j.png">  
+    
+    
+    
 </head>
 
-<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-7239 node-type-story       " >
-    <a href="#main" class="element-invisible element-focusable">Skip to content</a>
-<a href="#main-nav" class="element-invisible element-focusable" data-target=".nav-collapse" data-toggle="collapse">Skip to navigation</a>
-<!-- /#skipnav -->
-<!-- /#admin-shortcuts -->
-  <div class="page-top-wrapper">
-    <div class="container">
-      <div class="site-login" class="span12">
-        <div class="region region-site-login clearfix">
-  <div id="block-block-138" class="clearfix block block-block">       <div class="content"> <p><a href="https://www.facebook.com/AmericanFriendsServiceCommittee" target="_blank"><i class="fa fa-facebook"></i></a>
-<a href="https://twitter.com/afsc_org" target="_blank"><i class="fa fa-twitter"></i></a></p> </div>
-</div><div id="block-afsc-custom-salsa-seven-custom-email-signup-header" class="clearfix block block-afsc-custom-salsa-seven">       <div class="content"> 
-		<form action="/signup" method="GET" id="afsc_custom_salsa_signup_block">
-			<input placeholder="submit email for newsletter" type="text" name="email" />
-			<input type="Submit" value="Go" id="send" />
-		</form>
-	 </div>
-</div><div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/story/boycott-divestment-and-sanctions-explained" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://www.afsc.org/sites/all/themes/afsc_seven/images/glass.svg" /></div><input type="hidden" name="form_build_id" value="form-2bevfbp8QbXMtF_g1d5wcXqALEh_3F9aWe0RPE50qzI" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form> </div>
-</div></div>
- <!-- /.region -->
-      </div>
-    </div>
-  </div>
-<div id="header" class="clearfix header" role="banner">
-  <div class="container">
-    <div class="row">
-      <div class="header-section span12">
-                <div id="logo" class="site-logo"> <a href="/" title="Home" rel="home"> <img src="https://www.afsc.org/sites/all/themes/afsc_seven/images/AFSC-logo.svg" alt="" role="presentation" /> </a></div>
-                <!-- /#logo -->
-                        <div id="site" class="hide">
-          <div id="name"><a href="/">American Friends Service Committee</a></div>
-        </div>
-                <!-- /#name-and-slogan -->
-                <div id="header-content" class="row-fluid header-content"><div class="region region-header clearfix">
-  <div id="block-system-main-menu" class="clearfix block block-system block-menu">       <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="https://secure.afsc.org/onlineactions/bn8fRtQr_0eQvsHuqjq9WA2" title="">Donate</a></li>
-<li class="leaf"><a href="/get-involved" title="">Get Involved</a></li>
-<li class="leaf"><a href="/signup" title="">Stay Informed</a></li>
-<li class="last leaf"><a href="/blogs" title="">Blogs</a></li>
-</ul> </div>
-</div><div id="block-superfish-1" class="clearfix block block-superfish">       <div class="content"> <ul id="superfish-1" class="menu sf-menu sf-menu-top-menu sf-horizontal sf-style-none sf-total-items-3 sf-parent-items-2 sf-single-items-1"><li id="menu-11426-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about" title="" class="sf-depth-1 menuparent">About AFSC</a><ul><li id="menu-11522-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/mission-vision-and-values" class="sf-depth-2">Mission, Vision, and Values</a></li><li id="menu-11514-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="https://secure.afsc.org/onlineactions/_fSFQwV7o0m0usOv-FQjZQ2" title="" class="sf-depth-2">Donate Now</a></li></ul></li><li id="menu-11526-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/key-issues" class="sf-depth-1">Key Issues</a></li><li id="menu-11427-1" class="last odd sf-item-3 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/where-we-work" title="Locations of AFSC&#039;s projects, offices, and staff in the U.S. and internationally." class="sf-depth-1 menuparent">Where We Work</a><ul><li id="menu-11532-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/where-we-work" title="" class="sf-depth-2">Find a Location</a></li></ul></li></ul> </div>
-</div></div>
- <!-- /.region -->
-</div>
-                <!-- /#header-content -->
-      </div>
 
-      <!-- /#site-login -->
-    </div>
-  </div>
-</div>
-<!-- /#header -->
-
-<!-- Front Page Slideshow, Highlights, and Tagline -->
+<!--   END startPage module
+       Included from JURIST level -->
 
 
-
-    <div class="title-region-wrapper">
-      <div class="container">
-
-        <!-- Title Region for Delta Blocks Title -->
-                  <div id="title-region" class="row-fluid title-region"> <div class="region region-title-region clearfix">
-  <div id="block-delta-blocks-page-title" class="clearfix block block-delta-blocks">       <div class="content"> <h1 id="page-title" class="title">Boycott, divestment and sanctions explained</h1> </div>
-</div></div>
- <!-- /.region -->
- </div>
-                <!-- End Title Region -->
-
-        <!-- Page Title -->
-                          <h1 class="title" id="page-title"> Boycott, divestment and sanctions explained </h1>
-                        <!-- End Page Title -->
-
-      </div>
-    </div>
-
-
-
-<div id="main" class="clearfix main" role="main">
-  <div class="container">
-                <div id="main-content" class="row-fluid main-content">
-            <div id="content" class="mc-content span9">
-        <div id="content-wrapper" class="content-wrapper">
-          <div id="content-head" class="row-fluid content-head">
-            
-
-                                                          </div>
-                    <div id="content-top" class="row-fluid content-top"> <div class="region region-content-top clearfix">
-  <div id="block-afsc-custom-seven-custom-share-widgets" class="clearfix block block-afsc-custom-seven">       <div class="content"> 
-		<div class="addthis_toolbox">
-			<div class="custom_images">
-        <a class="addthis_button_facebook"><i class="fa fa-facebook"></i></a>
-        <a class="addthis_button_twitter"><i class="fa fa-twitter"></i></a>
-        <a class="addthis_button_tumblr"><i class="fa fa-tumblr"></i></a>
-        <a class="addthis_button_email"><i class="fa fa-envelope"></i></a>
-			</div>
-		</div>
-		<script type="text/javascript">
-      var addthis_config = {
-         data_ga_property: 'UA-395473-1',
-         data_ga_social : true
-      };
-			var addthis_share = {
-				url_transforms : {
-          shorten: {
-               twitter: 'bitly'
-          }
-				 },
-				 shorteners : {
-							bitly : {}
-				 }
-			};
-		</script>
-		<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-537cfc37095c5d60"></script>
-	 </div>
-</div></div>
- <!-- /.region -->
- </div>
-                                        <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
-  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-7239" class="node node-story clearfix">              <div class="date-created">Published: February 28, 2013 </div>
-    <div class="content">
-      	<div class="thumbs-left"><div class="thumb"><a href="#modal-thumb-7237" role="button" data-toggle="modal"><img src="https://www.afsc.org/sites/afsc.civicactions.net/files/styles/normal/public/images/TC-17-7-12-022.JPG?itok=RmtOZdwz" alt="" title="" /></a><div class="afsc-caption"><em>Photo: AFSC</em></div>
-    <div id="modal-thumb-7237" class="modal hide fade" tabindex="-1" aria-labelledby="modal-thumb-7237-label" aria-hidden="true">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 id="modal-thumb-7237-label" class="invisible">TIAA-CREF Protest - SF</h3>
-      </div>
-      <div class="modal-body">
-        <img src="https://www.afsc.org/sites/afsc.civicactions.net/files/styles/maxsize/public/images/TC-17-7-12-022.JPG?itok=i9GCiBEN" alt="" title="" /><div class="afsc-caption"><em>Photo: AFSC</em></div>
-      </div>
-    </div></div></div>    
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>AFSC and BDS</h3>
-<p>AFSC’s Israel-Palestine work is guided by its <a href="http://afsc.org/document/principles-just-and-lasting-peace-between-palestinians-and-israelis">“Principles for a Just and Lasting Peace in Palestine and Israel.”</a> These principles support the implementation of international human rights and humanitarian law and call for an end to Israel’s occupation of the Palestinian territories, support self-determination for both Israelis and Palestinians, implementation of refugees’ right of return, and equality for Palestinians and Israelis.  In the context of Israel and Palestine AFSC supports the the use of boycott and divestment campaigns targeting only companies that support the occupation, settlements, militarism, or any other violations of international humanitarian or human rights law. Our position does not call for a full boycott of Israel nor of companies because they are either Israeli or doing business in Israel.  Our actions also never focus on individuals.</p>
-<p>Our support for the use of boycotts and divestments is contextualized by Quakers and AFSC's long support for boycotts, divestment, and sanctions as economic tactics that appeal to human conscience and change behavior. In the 1800s, Quakers helped lead the “Free Produce Movement,” a boycott of goods produced using slave labor. In recent times, AFSC has participated in boycott and divestment campaigns connected to the in the civil rights, anti-apartheid, farm worker, and prison rights struggles. Since 1948 AFSC has worked with both Palestinians and Israelis to achieving a just and lasting peace and we remain committed to supporting nonviolent activism designed to achieve this end. Taking into account AFSC principles and history, AFSC supports all nonviolent efforts to realize peace and justice in Israel and Palestine including the strategic use of boycott, divestment, and sanctions tactics.</p>
-<h3>What is BDS?</h3>
-<p>BDS stands for Boycott, Divestment and Sanctions. In the Israel-Palestine context, BDS  refers to a call issued by over 170 Palestinian organizations in 2005 asking that the international community implement boycott and divestment initiatives to bring change in Israel and Palestine. The initial Palestinian call was signed by a broad coalition that included unions, academics, political parties, cultural groups, and civil society organizations. </p>
-<p>BDS is a form of economic activism that is premised on the idea that violations of Palestinians’ rights result not only from Israeli government policies and actions, but also from corporate and institutional policies and actions that support and sustain Israel’s occupation and violations of international human rights and humanitarian law. Boycott and divestment actions therefore target institutions and companies (Israeli and international) that profit from or are complicit in the violation of Palestinian rights with the goal of changing corporate/institutional and Israeli actions. In all cases, BDS actions target institutions—not individuals—for their complicity in Israel’s occupation and/or human rights abuses. </p>
-<h3>What does BDS hope to accomplish?</h3>
-<p>The Palestinian BDS call requests that international civil society groups and individuals target Israel using boycott, divestment, and sanctions tactics until Israel meets its obligation under international law to recognize the Palestinian people’s right to self-determination and:</p>
-<ol><li>Ends its occupation of all Arab lands and dismantles the Wall</li>
-<li>Recognizes the fundamental rights of the Arab-Palestinian citizens of Israel to full equality</li>
-<li>Respects, protects, and promotes the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194</li>
-</ol><h3>Who leads the “BDS movement”?</h3>
-<p>The “BDS movement” is made up of an informal coalition of international, national, and local groups that include faith-based organizations, peace groups, solidarity and student activists, and other coalitions of concerned individuals. Supporters of the Palestinian BDS Call hold in common a commitment to using nonviolent boycott, divestment, and sanctions tactics until Israel ends its occupation and complies with the rights outlined above.</p>
-<h3>What does BDS look like?   </h3>
-<p>Boycott, divestment, and sanctions are nonviolent tactics used by activists to help realize specific changes. They are not ends unto themselves.  For this reason, <em>BDS is not a one-size fits all movement</em> but rather is a movement that recognizes the importance of carrying out customized actions targeted to local contexts and political realities. In this sense there is no leadership within the BDS movement that dictates what actions activists should take to help realize the three core BDS rights. However, the <a href="http://www.endtheoccupation.org/">Boycott National Committee</a> was set up in 2007 by the Palestinian signatories to the 2005 BDS Call and plays a core role in coordinating and building awareness about BDS actions and successes around the world. </p>
-<p>BDS campaigns take many different forms. Groups around the world have organized street protests, board room lobbying, shareholder actions, lawsuits, strikes, teach-ins, and other actions to call attention to corporate and institutional complicity in occupation. Among others, targets have included arms manufacturers, agricultural exporters, cosmetic manufacturers, cultural groups, investment firms and academic institutions. What links these disparate campaigns is their common goal of ending corporate and institutional complicity in Israel’s occupation and violations of international human rights and humanitarian law. Below are examples of several broadly successful BDS campaigns: </p>
-<h4>We Divest</h4>
-<p>The <a href="http://wedivest.org">“We Divest” Campaign</a> asks investment giant TIAA-CREF to divest from corporations that profit from the military occupation. TIAA-CREF is one of the largest retirement account providers in the U.S. and has the largest social choice investment fund in the U.S. Companies targeted through this campaign include Veolia, Caterpillar Inc., Elbit Systems, Motorola Solutions, HP, and Northup Grumman. During 2012 the campaign marked a significant victory when TIAA-CREF dropped Caterpillar Inc. from its social choice accounts in part due to Caterpillar’s provision of military equipment to the Israeli military. </p>
-<h4>Stolen Beauty</h4>
-<p>“Stolen Beauty” is a boycott campaign initiated by Code Pink in 2009 that targets stores that sell products produced by AHAVA Dead Sea Laboratories. AHAVA produces a popular line of beauty and skin care products in an illegal Israeli settlement located in the West Bank using natural resources stolen from West Bank portions of the Dead Sea in violation of international law. Campaign actions have targeted retailers selling and celebrities endorsing AHAVA products. As a result of the campaign a number of stores and celebrity endorsers have ended their associations with AHAVA.</p>
-<h4>Dump Veolia</h4>
-<p>Veolia profits by operating segregated bus lines connecting settlements to Israel, operating a landfill built on confiscated Palestinian land in the West Bank for the benefit of settlements, and constructing and operating a light rail system built in occupied East Jerusalem and servicing Israeli settlements. Since 2005 groups in Europe and the U.S. have organized a variety of highly successful boycott campaigns targeting Veolia. As a result the company has lost over $13 billion in contracts and many investors, with several communities worldwide declaring themselves "Veolia Free."</p>
-<h3><strong>For more information:</strong></h3>
-<blockquote><p>We Divest: <a href="http://wedivest.org/">http://wedivest.org/</a></p></blockquote>
-<blockquote><p>SodaStream Boycott: <a href="http://sodastreamboycott.org/">http://sodastreamboycott.org/</a> </p></blockquote>
-<blockquote><p>Who Profits: <a href="http://www.whoprofits.org/">http://www.whoprofits.org/</a></p></blockquote>
-<blockquote><p>Global Exchange: Economic Activism for Palestine Project: <a href="http://www.globalexchange.org/programs/economicactivism">http://www.globalexchange.org/programs/economicactivism</a> </p></blockquote>
-<blockquote><p>Quakers with a Concern for Palestine-Israel: <a href="http://www.quakerpi.org/default.shtml">http://www.quakerpi.org/default.shtml</a></p></blockquote>
-<blockquote><p>The U.S. Campaign to End the Israeli Occupation: <a href="http://www.endtheoccupation.org/">http://www.endtheoccupation.org/</a></p></blockquote>
-<blockquote><p>Kairos Palestine: <a href="http://www.kairospalestine.ps/">http://www.kairospalestine.ps/</a></p></blockquote>
-<blockquote><p>The Boycott National Committee: <a href="http://www.endtheoccupation.org/">http://www.endtheoccupation.org/</a> </p></blockquote>
-<blockquote><p>The Palestinian Academic and Cultural Boycott Initiative: <a href="http://www.pacbi.org">http://www.pacbi.org</a></p></blockquote>
-</div></div></div>  </div>
-    </article>
- </div>
-</div></div>
- <!-- /.region -->
-  </div>
-                                                                                <div id="content-bottom" class="row-fluid content-bottom"> <div class="region region-content-bottom clearfix">
-  <div id="block-cck-blocks-field-related-content" class="clearfix block block-cck-blocks">     <h2>Related Content</h2>
-      <div class="content"> <div class="field field-name-field-related-content field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="media"><a href="/story/investigate-screen-your-investments" class="pull-left"><img src="https://www.afsc.org/sites/afsc.civicactions.net/files/styles/blog_thumb/public/images/Investigate%20Palm%20Card_v1_Page_1.png?itok=QRR0UcoY" width="60" height="60" alt="&quot;Investigate&quot; with a magnifying glass" title="investigate" /></a><div class="media-body"><div class="slug">Story</div><a href="/story/investigate-screen-your-investments"><div class="media-heading">Investigate: Screen your investments</div></a></div></div></div></div></div> </div>
-</div></div>
- <!-- /.region -->
- </div>
-                  </div>
-        <!-- /#content-wrap -->
-      </div>
-      <!-- /#content -->
-            <div id="sidebar-second" class="sidebar span3 site-sidebar-second">
-        <div class="row-fluid"><div class="region region-sidebar-second clearfix">
-  <div id="block-cck-blocks-field-issue-campaign-ref" class="clearfix block block-cck-blocks">     <h2>Learn more about</h2>
-      <div class="content"> <div class="field field-name-field-issue-campaign-ref field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="media"><div class="media-body"><div class="slug">campaign</div><a href="/key-issues/issue/economic-activism"><div class="media-heading">Economic activism</div></a></div></div></div></div></div> </div>
-</div>
-</div>
- <!-- /.region -->
-</div>
-      </div>
-      <!-- /#sidebar-second -->
-          </div>
-  </div>
-</div>
-<div id="bottom" class="clearfix site-bottom" role="contentinfo">
-  <div class="container">
-            <div id="bottom-left" class="row-fluid bottom-left"> <div class="region region-bottom-left clearfix">
-  <div id="block-views-quotations-block" class="clearfix block block-views">       <div class="content"> <div class="view view-quotations view-id-quotations view-display-id-block view-dom-id-727b8c8fabeed3e2884b5abd6923c872">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field views-field-field-logline">        <div class="field-content">Fear is a disease that eats away at logic and makes man inhuman.
-
-</div>  </div>  
-  <div class="views-field views-field-field-attribution">        <div class="field-content">Marian Anderson, Singer</div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div> </div>
-</div></div>
- <!-- /.region -->
- </div>
-                <div id="bottom-right" class="row-fluid bottom-right"> <div class="region region-bottom-right clearfix">
-  <div id="block-afsc-custom-salsa-seven-custom-email-signup" class="clearfix block block-afsc-custom-salsa-seven">     <h2>Subscribe to our Newsletter</h2>
-      <div class="content"> 
-		<form action="/signup" method="GET" id="afsc_custom_salsa_signup_block">
-			<input placeholder="your email address" type="text" name="email" />
-			
-			<input type="Submit" value="Go" id="send" />
-		</form>
-	 </div>
-</div><div id="block-block-140" class="clearfix block block-block">       <div class="content"> <p>
-
-<a href="https://www.facebook.com/AmericanFriendsServiceCommittee" target="_blank"><i class="fa fa-facebook-square"></i></a>
-<a href="https://twitter.com/afsc_org" target="_blank"><i class="fa fa-twitter-square" target="_blank"></i></a>
-<a href="https://www.instagram.com/americanfriendsservice/" target="_blank"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/user/AFSCVideos" target="_blank"><i class="fa fa-youtube-square"></i></a>
-<a href="http://afsc-org.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-<a href="https://www.pinterest.com/americanfriends/" target="_blank"><i class="fa fa-pinterest-square"></i></a>
-
-</p> </div>
-</div></div>
- <!-- /.region -->
- </div>
-      </div>
-</div>
-<!-- /#main, /#main-wrapper -->
-<div id="footer" class="clearfix site-footer" role="contentinfo">
-  <div class="container">
-            <div id="footer-top-left" class="row-fluid footer-top-left"> <div class="region region-footer-top-left clearfix">
-  <div id="block-block-141" class="clearfix block block-block">     <h2>American Friends Service Committee</h2>
-      <div class="content"> <p>1501 Cherry Street, Philadelphia, PA 19102</p>
-<p>215-241-7000  </p>
-<p><a href="/contact">Email us</a></p>
- </div>
-</div><div id="block-block-6" class="clearfix block block-block">     <h2>Who we are</h2>
-      <div class="content"> <p>AFSC is a Quaker organization devoted to service, development, and peace programs throughout the world. Our work is based on the belief in the worth of every person, and faith in the power of love to overcome violence and injustice. <a class="read-more" href="/about">Read More</a></p>
- </div>
-</div></div>
- <!-- /.region -->
- </div>
-                <div id="footer-top-right" class="row-fluid footer-top-right"> <div class="region region-footer-top-right clearfix">
-  <div id="block-menu-menu-ways-to-give" class="clearfix block block-menu">     <h2>Ways to give</h2>
-      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="https://secure.afsc.org/onlineactions/bn8fRtQr_0eQvsHuqjq9WA2" title="Give a gift online.">Donate now</a></li>
-<li class="leaf"><a href="/give" title="See a list of all the ways you can give to AFSC.">See all giving options</a></li>
-<li class="leaf"><a href="https://secure.afsc.org/onlineactions/kMnvrtC35k-gn9T6a8Nuqw2" title="">Make a tribute</a></li>
-<li class="leaf"><a href="/1917-society" title="Join the 1917 Society">1917 Society</a></li>
-<li class="leaf"><a href="http://legacyofpeace.afsc.org" title="Learn about our planned giving options.">Planned giving</a></li>
-<li class="leaf"><a href="/support-afsc-gifts-stock" title="Support AFSC with Gifts of Stock">Gifts of Stock</a></li>
-<li class="last leaf"><a href="https://quakerbooks.org/search?q=afsc" title="AFSC merchandise from QuakerBooks.org">Buy AFSC literature</a></li>
-</ul> </div>
-</div><div id="block-menu-menu-multimedia" class="clearfix block block-menu">     <h2>Multimedia</h2>
-      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/audio">Audio</a></li>
-<li class="leaf"><a href="/blogs" title="">Blogs</a></li>
-<li class="leaf"><a href="/publications" title="Publications">Publications</a></li>
-<li class="leaf"><a href="http://tools.afsc.org/slideshow" title="">Slideshows</a></li>
-<li class="collapsed"><a href="/videos">Videos</a></li>
-<li class="last leaf"><a href="/program/video-and-film-lending-library" title="">Video Lending Library</a></li>
-</ul> </div>
-</div><div id="block-menu-menu-employment" class="clearfix block block-menu">     <h2>Employment</h2>
-      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/job-center" title="Jobs at AFSC Homepage">Jobs at AFSC</a></li>
-<li class="leaf"><a href="/volunteers-interns-fellows" title="listing of internships around the country">Internships</a></li>
-<li class="last leaf"><a href="/diversity-and-inclusion" title="Affirmative Action, Diversity and Inclusion Homepage">Affirmative Action</a></li>
-</ul> </div>
-</div><div id="block-menu-menu-newsroom" class="clearfix block block-menu">     <h2>Newsroom</h2>
-      <div class="content"> <ul class="menu nav"><li class="first leaf"><a href="/newsroom/in-the-news" title="">AFSC in the news</a></li>
-<li class="leaf"><a href="/experts" title="AFSC experts ">Experts</a></li>
-<li class="leaf"><a href="/media-kit" title="">Media Kit</a></li>
-<li class="leaf"><a href="/newsroom/afsc-statements" title="See all available press releases and statements.">Statements</a></li>
-<li class="last leaf"><a href="/calendar" title="">Events Calendar</a></li>
-</ul> </div>
-</div><div id="block-block-4" class="clearfix block block-block">       <div class="content"> <p><img src="/sites/afsc.civicactions.net/files/u1723/charity_seals_new.jpg" alt="" width="225" /></p>
-<p class="contact"><a href="/node/119">Privacy Policy</a>   <a href="/node/120">Site Credits</a></p>
-<p class="contact creative-commons">This website is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons License</a> except where noted.</p>
- </div>
-</div><div id="block-block-23" class="clearfix block block-block">     <h2>Where we work</h2>
-      <div class="content"> <div class="footmenu-noscript">AFSC has offices around the world. To see a complete list see the <a title="AFSC Offices" href="http://www.afsc.org/where-we-work">Where We Work</a> page.</div>
-<form class="location-selectbox">
-<div><label for="office-select">U.S. Locations</label>
-<div class="office-select-wrapper form-item">
-<select class="office-select form-select" name="tid"><option selected="selected" value="0">Select a U.S. Office</option><option value="/office/akron-oh">Akron, OH</option><option value="/office/albuquerque-nm">Albuquerque, NM</option><option value="/office/ann-arbor-mi">Ann Arbor, MI</option><option value="/office/atlanta-ga">Atlanta, GA</option><option value="/office/baltimore-md">Baltimore, MD</option><option value="/office/cambridge-ma">Cambridge, MA</option><option value="/office/charleston-wv">Charleston, WV</option><option value="/office/chicago-il">Chicago, IL</option><option value="/office/concord-nh">Concord, NH</option><option value="/office/dayton-oh">Dayton, OH</option><option value="/office/denver-co">Denver, CO</option><option value="/office/des-moines-ia">Des Moines, IA</option><option value="/office/farmersville-ca">Farmersville, CA</option><option value="/office/fresno-ca">Fresno, CA</option><option value="/office/greensboro-nc">Greensboro, NC</option><option value="/office/indianapolis">Indianapolis, IN</option><option value="/office/kansas-city-mo">Kansas City, MO</option><option value="/office/logan-wv">Logan, WV</option><option value="/office/los-angeles-ca">Los Angeles, CA</option><option value="/office/miami-fl">Miami, FL</option><option value="/office/newark-nj">Newark, NJ</option><option value="/office/new-orleans-la">New Orleans, LA</option><option value="/office/new-york-ny">New York, NY</option><option value="/office/northampton-ma">Northampton, MA</option><option value="/office/perry-me">Perry, ME</option><option value="/office/philadelphia-pa">Philadelphia, PA</option><option value="/office/pittsburgh-pa">Pittsburgh, PA</option><option value="/office/portland-or">Portland, OR</option><option value="/office/providence-ri">Providence, RI</option><option value="/office/san-diego-ca">San Diego, CA</option><option value="/office/san-francisco-ca">San Francisco, CA</option><option value="/office/seattle-wa">Seattle, WA</option><option value="/office/st-louis-mo">St. Louis, MO</option><option value="/office/st-paul-minn">St. Paul, MN</option><option value="/office/stockton-ca">Stockton, CA</option><option value="/office/tucson-az">Tucson, AZ</option><option value="/office/washington-dc">Washington, DC</option></select></div>
-</div>
-<div><label for="international-select">International </label>
-<div class="international-select-wrapper form-item">
-<select class="international-select form-select" name="tid_1"><option selected="selected" value="0">Select an International Location</option><option value="/office/burundi">Burundi</option><option value="/office/cambodia">Cambodia</option><option value="/office/china">China</option><option value="/office/el-salvador">El Salvador</option><option value="/office/guatemala">Guatemala</option><option value="/office/haiti">Haiti</option><option value="/office/indonesia">Indonesia</option><option value="/office/israel">Israel</option><option value="/office/mexico">Mexico</option><option value="/office/myanmar-burma">Myanmar (Burma)</option><option value="/office/north-korea">North Korea</option><option value="/office/palestine">Palestine</option><option value="/office/quaker-united-nations-office">Quaker United Nations Offices</option><option value="/office/somalia">Somalia</option><option value="/office/syria">Syria</option><option value="/office/zimbabwe">Zimbabwe</option></select></div>
-</div>
-</form>
- </div>
-</div></div>
- <!-- /.region -->
- </div>
-            </div>
-</div>
-<!-- /#footer -->
-  <script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets.js?ooz4ii"></script>
-<script type="text/javascript" src="https://www.afsc.org/sites/all/modules/panopoly_widgets/panopoly-widgets-spotlight.js?ooz4ii"></script>
-
-  <!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '796754017021217');
-fbq('track', 'PageView');
+<title>JURIST - 
+   Boycott, Divestment and Sanctions Movements
+</title>
+<!-- BEGIN templateJavascriptIncludes -->
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/custom.js"></script>
+<!-- END templateJavascriptIncludes --><!--
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=796754017021217&ev=PageView&noscript=1"
-/></noscript>
-<!-- DO NOT MODIFY -->
-<!-- End Facebook Pixel Code -->  <!-- Google Code for Remarketing Tag -->
-  <script type="text/javascript">
-  /* <![CDATA[ */
-  var google_conversion_id = 957468114;
-  var google_custom_params = window.google_tag_params;
-  var google_remarketing_only = true;
-  /* ]]> */
-  </script>
-  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-  </script>
-  <noscript>
-  <div style="display:inline;">
-  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957468114/?value=0&amp;guid=ON&amp;script=0"/>
-  </div>
-  </noscript>
-</body>
 
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/193718472/JURIST_DFP_Commentary_Half_Page', [300, 600], 'div-gpt-ad-1454441536554-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script> --><script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/193718472/JURIST_DFP_Commentary_Rect', [336, 280], 'div-gpt-ad-1454441950501-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+               
+<body class="boxed">
+    <div class="body">
+          <!---Header & styling-->
+<header>
+    <div class="row-fluid">
+    <div class="span12 left0">
+        <div class="row-nav navbar hidden-print">
+            <div class="jurist_logo_holder">
+                <a href="http://jurist.org/"><img src="/img/logos/jurist_logo_trans.png"  class="jurist_logo"/></a>
+            </div>
+            <div class="navbar-inner buffered">
+                <ul id="nav" class="nav">
+                    <li class="dropdown" id="menu_news">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">News<b class="caret"></b></a>
+                        <ul class="dropdown-menu js-activated" style="display: none;">
+                            <li><a href="http://jurist.org/paperchase/">All Legal News</a></li>
+                            <li><a href="http://jurist.org/uslatest/">US Legal News</a></li>
+                            <li><a href="http://jurist.org/worldlatest/">World Legal News</a></li>
+                            <li><a href="http://jurist.org/paperchase/indexarch.php">News Archive</a></li>
+                            <li><a href="http://jurist.org/thisday">This Day at Law</a></li>
+                        </ul>
+                    </li>
+                    <li class="divider-vertical"></li>
+                    <li class="dropdown" id="menu_commentary">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Commentary<b class="caret"></b></a>
+                        <ul class="dropdown-menu js-activated" style="display: none;">
+                            <li><a href="http://jurist.org/commentary/">All Commentary</a></li>
+                            <li><a href="http://jurist.org/forum/">Academic Commentary</a></li>
+                            <li><a href="http://jurist.org/hotline/">Professional Commentary</a></li>
+                            <li><a href="http://jurist.org/dateline/">Student Commentary</a></li>
+                            <li><a href="http://jurist.org/commentary/contributing/">Contributing Editors</a></li>
+                        </ul>
+                    </li>
+                    <li class="divider-vertical"></li>
+                    <li class="dropdown" id="menu_support">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Support<b class="caret"></b></a>
+                        <ul class="dropdown-menu js-activated" style="display: none;">
+                            <li><a href="http://jurist.org/supportjurist/index.php">Why Support JURIST?</a></li>
+                            <li><a href="http://jurist.org/supportjurist/donate-now.php">Donate</a></li>
+                            <li><a href="http://jurist.org/supportjurist/honorroll.php">Honor Roll</a></li>
+                            <li><a href="http://jurist.org/supportjurist/sponsorship.php">Sponsorship</a></li>
+                        </ul>
+                    </li>
+                    <li class="divider-vertical"></li>
+                    <li class="dropdown" id="menu_about">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" >About <b class="caret"></b></a>
+                        <ul class="dropdown-menu js-activated" style="display: none;">
+                            <li><a href="http://jurist.org/faq/">FAQ</a></li>
+                            <li><a href="http://jurist.org/staff/">Staff</a></li>
+                            <li><a href="http://jurist.org/contact">Contact</a></li>
+                            <li><a href="http://jurist.org/transparency">Transparency</a></li>
+                            <li><a href="http://jurist.org/sutin/">Sutin Prize</a></li>
+                            <li><a href="http://jurist.org/shawl/">Shawl Award</a></li>
+                        </ul>
+                    </li>
+                    <li class="divider-vertical"></li>
+                     <li class="dropdown" id="menu_follow">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Follow<b class="caret"></b></a>
+                        <ul class="dropdown-menu js-activated" style="display: none;">
+                            <li><a href="http://www.facebook.com/jurist.org"  target="_new"><i class="icon-facebook right10"></i> Facebook</a></li>
+                            <li><a href="http://twitter.com/#!/JURISTnews" target="_new"><i class="icon-twitter right10"></i> Twitter</a></li>
+                            <li><a href="https://plus.google.com/104917366812948399309" target="_new"><i class="icon-google-plus right10"></i> Google Plus</a></li>
+                            <li><a href="http://www.linkedin.com/company/jurist" target="_new"><i class="icon-linkedin right10"></i> LinkedIn</a></li>
+                            <li><a href="http://jurist.org/contact/" target="_new"><i class="icon-envelope right10"></i> Contact</a></li>
+                            <li><a href="http://jurist.org/subscription.php" target="_new"><i class="icon-rss right10"></i> Feeds</a></li>
+                        </ul>
+                    </li>
+                    <li class="divider-vertical"></li>
+                    <li class="dropdown" id="menu_more"><a href="#" class="dropdown-toggle" data-toggle="dropdown" >More<b class="caret"></b></a>
+                        <ul class="dropdown-menu js-activated" style="display: none;">
+                            <li><a href="http://jurist.org/feature">Features</a></li>
+                            <li><a href="http://jurist.org/documents/executiveorders/">US Executive Orders</a></li>
+                            <li><a href="http://jurist.org/documents/presidentialdocuments/">US Presidential Documents</a></li>
+                            <li><a href="http://jurist.org/documents/rulemaking/">US Federal Rulemaking</a></li>
+                            <li><a href="http://jurist.org/j20/election2000/">J20: Election 2000</a></li>
+                            <li><a href="http://jurist.org/j20/famoustrials/">J20: Famous Trials</a></li>
+                            <li><a href="http://jurist.org/j20/staff/">J20: Staff Retrospective</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <script language="javascript">
+                <!--                     function checkQuotes (){                         var searchText = document.getElementById ("searchBox").value;                         if (searchText.indexOf (" ") > 0 ) {
+                    function checkQuotes (){
+                        var searchText = document.getElementById ("searchBox").value;
+                        if (searchText.indexOf (" ") > 0 ) {
+                            document.getElementById ("searchBox").value  = "\"" + searchText + "\"";
+                        }
+                        submitSearch(); //document.getElementById('search').submit();
+                    }
+                    
+                    function submitSearch () {
+                        var authorSearchToken = "author:";
+                        if ( $('#searchBox').val().indexOf (authorSearchToken) == 0 ) {
+                            var searchText = $('#searchBox').val().substring ( authorSearchToken.length, $('#searchBox').val().length);
+                            if ( (searchText.indexOf (" ") > 0 ) && (searchText.charAt(0) != "\"") ) {
+                                $('#searchAuthor').val("\"" + searchText + "\"");
+                            }
+                            else {
+                                $('#searchAuthor').val(searchText);
+                            }
+                            $('#searchBox').val( "");
+                            $("#searchAuthored").val ("true");
+                            $('#searchFiltered').val ("true");
+                        }
+                        return true; //document.getElementById('search').submit()
+                    }
+                -->
+                </script>
+                <div id="search">
+                    <a href="#" onclick="$(this).toggleClass('active'); $('#searchBar').slideToggle('fast');"></a>
+                </div>
+            </div>
+            <div class="span12 left0 alignright searchbar" id="searchBar" style="display: none;" >
+                <form id="searcher" onsubmit="submitSearch ()" action="http://jurist.org/cgi-bin/mt/jurist-search.cgi" method="GET">
+                    <input type="hidden" name="IncludeBlogs" value="2,5,4,6,21,15">
+                    <input type="hidden" name="authored" id="searchAuthored" value=""/>
+                    <input type="hidden" name="author" id="searchAuthor"  value=""/>
+                    <input type="hidden" name="filtered" id="searchFiltered"  value=""/>
+                    <!-- <a href="#" onclick="document.getElementById('search').submit();"></a> -->
+                    <input type="text" id="searchBox" name="search" class="searchbar_text" onfocus="if(this.value =='Search ...' ) this.value=''" onblur="if(this.value==''){ this.value='Search ...';}" value="Search ..." >
+                    <a style="" class="btn top0" href="#" onclick="$('#search').submit();" >Search</a>
+                </form>
+            </div>
+            <div class="infoaddress left0 alignright right5">
+                A Collaboration with the <a href="http://pitt.edu">University of Pittsburgh</a>
+            </div>
+        </div>
+      </div>
+    </div>
+</header>
+ <!--   END Banner Header module
+        Included from JURIST level -->          
+          <!--BEGIN set active tab module
+        included from JURIST level -->
+    <!-- set active tab to menu_commentary -->
+    <script language="javascript">
+        var activeTab= "menu_commentary";
+        if (activeTab != "" )
+        {
+            document.getElementById(activeTab).className="dropdown active";
+        }
+        else
+        {
+            document.getElementById("menu_home").className="dropdown active";
+        }
+    </script>
+    <!--END set active tab module
+        included from JURIST level -->
+
+          
+       <div class="container">
+
+          <!-- BEGIN hotlineTitle module
+          Included from Hotline level -->
+          <div class="page-header top25 bottom0 narrowlines">
+               <a href="/hotline/">
+                    <h1 class="left0 bottom0">  
+                         Professional Commentary <span class="smallest text-error hidden-phone">Analysis of legal news by newsmakers, activists, and legal experts</span>
+                    </h1>
+               </a>
+               <div class="headerdivider bottom10">
+               </div>
+          </div>
+          <!-- END hotlineTitle module
+          Included from Hotline level -->          
+          <div class="row-fluid">
+               <div class="span8 span-fixed-sidebar">
+               <div class="row-fluid">
+                    <div class="span12">
+    
+                         <header class="entry-header">
+                             <div class="sectiontitlepost">
+                                  <h2>Boycott, Divestment and Sanctions Movements</h2>
+                             </div>
+                             <div class="entry-meta">
+                                <span class="entry-date">Saturday 11 June 2016 at  2:44 PM ET</span>
+                                <!-- Begin entryAuthorSearchForm from JURIST level -->
+    <form name="searchAuthorForm" id="searchAuthorForm" action="http://jurist.org/cgi-bin/mt/jurist-search.cgi" method="POST" style="display:none">
+        <input type="hidden" name="IncludeBlogs" id="IncludeBlogs" value="2,5,4,6,21,15"/>
+        <input type="hidden" name="author" id="searchAuthorId" value="315" />
+    </form>
+    
+        
+    
+    
+        <span class="pull-right">edited  by <a href="#" onclick="$('#searchAuthorForm').submit()">Elizabeth Dennis</a></span>
+    
+    <!-- End entryAuthorSearchForm from JURIST level -->
+                             </div>
+                             <!-- sets preEntryText and entryText variables -->
+                             <!-- BEGIN parseEntryText module
+                         Included from JURIST level -->
+                    <!-- found j:header -->                    <!-- END parseEntryText module
+                         Included from JURIST level -->
+                         </header>
+                         
+                         <div class="innerblogboxtwo">
+                              <div class="entry-content">
+                              <div class="span12 box">
+                                   JURIST Guest Columnist Abed Awad of Awad & Khoury, LLP, discusses the boycott, divestment and sanctions movement...                              </div>
+                                <!--
+            BEGIN attributedImage Module
+            Included from JURIST level
+        -->
+        
+        
+        
+            <!--
+            <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/My_Trusty_Gavel.jpg/640px-My_Trusty_Gavel.jpg" class="pull-left paddingright paddingbottom itemmainimage top5" alt=""> -->
+        
+        <!--
+            END attributedImage Module
+            Included from JURIST level
+        -->
+                                <p>
+                                    <strong>I</strong>n 1880, English Captain Charles C. Boycott led an eviction campaign against tenants in Ireland. Appalled at the inhumanity of Mr. Boycott's ruthless actions, his employees refused to work for him.  These events introduced the word "boycott" to the English language as a way to describe economic protest to effect social, political and economic change. <br />
+ <br />
+Boycotts in the 20th Century have ignited and facilitated historic social and political change. The <a href="http://www.history.com/topics/black-history/montgomery-bus-boycott">Montgomery, Alabama, Bus Boycott</a> against racial segregation, <a href="http://www.ufw.org/_board.php?mode=view&b_code=cc_his_research&b_no=10482">Cesar Chavez's grape boycott</a> against abuse of farm workers, <a href="http://www.remember-them.org/milk.htm">Harvey Milk's boycott against LGBT discrimination</a>, <a href="https://www.nonviolent-conflict.org/the-anti-apartheid-struggle-in-south-africa-1912-1992/">the Anti-Apartheid boycotts in the 1980s against the Apartheid regime in South Africa</a> are but a few examples of boycott activism against injustices and human rights abuses.<br />
+ <br />
+American may be surprised to learn that state lawmaker are currently considering bills intended to abridge the freedom of speech of Americans, American businesses and institutions to engage in such peaceful protests of injustice.<br />
+ <br />
+In <a href="https://history.state.gov/milestones/1945-1952/creation-israel">1948</a>, Israel was established resulting in the displacement of the indigenous Palestinians. While hundreds of thousands became stateless refugees, a sizable number of Palestinians remained. Currently Palestinian citizens of Israel make up about 20 percent of the population. They are subjected to systemic institutional discrimination. Non-Jewish Israeli citizens are legally excluded from living in more than 400 Jewish communities. Palestinian citizens suffer legally sanctioned discrimination with close to 50 discriminatory laws against Palestinian citizens of the state in employment, education, housing and land ownership.<br />
+ <br />
+After the <a href="http://www.history.com/this-day-in-history/six-day-war-ends">1967 Arab-Israeli War</a>, Israel occupied the rest of historical Palestine&8212;East Jerusalem, the West Bank and Gaza Strip. Since 1967, Palestinians in the Occupied Territories have been living under Israeli military occupation. Israel restricts and denies Palestinians their basic human rights. Israel continues to confiscate Palestinian land to build and expand illegal settlements. The demolition of homes, uprooting of crops, restriction of movement and numerous other abuses documented by human rights groups like Amnesty International, Human Rights Watch and B'Tselem have become routine.<br />
+ <br />
+<a href="https://bdsmovement.net/">The Boycott, Divestment and Sanctions movement</a> seeks to pressure Israel to end its occupation of Palestinian territories and comply with international law. The US civil-rights and South African anti-apartheid movements inspire and guide BDS. BDS is a peaceful tool to achieve justice and equality.<br />
+ <br />
+BDS is gaining traction in American civil society. The United Methodists, the Presbyterian Church (USA) and the United Church of Christ have all endorsed elements of BDS. Academic associations, university student governments, labor groups and others have similarly supported BDS. This is a healthy development forcing a serious public debate on Israel's treatment of Palestinians.<br />
+ <br />
+As of this writing <a href="http://palestinelegal.org/legislation/">nine states have passed anti-BDS laws</a>. At least nine other states have considered or are considering similar laws so far this year. Even county and municipal governments are considering such legislation. There are three common threads in the legislation aimed at curtailing the BDS movement that is pending or has passed. Bills that condition the receipt of state funding for higher education institutions on non-engagement in boycotts of Israel have so far been defeated because of their blatant unconstitutionality in states including Illinois and New York. Such bills are still pending in Pennsylvania and New Jersey. Other bills legislation prohibits the investment of State public retirement funds in entities that boycott Israel. Some legislation goes as far as prohibiting the state from entering into contracts with companies that boycott Israel.<br />
+ <br />
+Much of this legislation makes it a condition that recipients of government benefits espouse the State government's anti-BDS position. The effective result of these bills is that any opposition or critique of the state of Israel is treated as an exception to the First Amendment. Their unconstitutionality is blatant.<br />
+ <br />
+Many lawmakers are entitled to disagree with my opinion. But it is unthinkable for a state legislature to suppress a citizen's right to participate in a peaceful boycott against human rights abuses.<br />
+ <br />
+That boycotts are a recognized form of political speech is well-established in American jurisprudence. In <a href="https://scholar.google.com/scholar_case?case=7271075303659098319">NAACP v. Claiborne Hardware Co</a>, for example, the NAACP organized a boycott of white-owned businesses to pressure government officials to meet their demands of equality and non-discrimination. The Supreme Court explained in that case that political boycotts are protected First Amendment activities directed at issues of public concern, and on the highest rung of the hierarchy of First Amendment values. By succumbing to Israeli government pressures to suppress BDS, State lawmakers are using their state's economic leverage to restrict, discourage and silence constitutionally protected boycott activities of Americans.<br />
+ <br />
+Moreover the Supreme Court in <a href="https://scholar.google.com/scholar_case?case=4415013413682250783">Perry v. Sindermann</a> held that the governments;may not deny a benefit to a person on a basis that infringes his constitutionally protected interests - especially, his interest in freedom of speech.<br />
+ <br />
+Recently the United States Supreme Court in <a href="http://heinonline.org/HOL/Page?handle=hein.journals/tlr93&div=51&g_sent=1">Agency for International Development v. Alliance for Open Society International, Inc. (2013)</a> held that requiring that organizations receiving funding under the T<a href="http://www.state.gov/j/tip/laws/">rafficking Victims Protection Act</a> to have a policy expressly opposing prostitution violated <a href="https://www.law.cornell.edu/constitution/first_amendment">First Amendment</a> free speech protections.<br />
+ <br />
+Like in <u>Claiborne</u> BDS supporters are exercising their rights to free speech and association to effect justice and equality for Palestinians. Like in <u>Perry</u> and <u>Agency for International Development</u>, requiring organizations receiving government funding to hold or reject a particular social policy or political position cannot survive constitutional scrutiny.<br />
+ <br />
+<em>Abed Awad is a founding partner of Awad & Khoury, LLP located in Hasbrouck Heights, New Jersey. His practice focuses on general civil litigation and business advice, including complex matrimonial law, commercial law, Islamic law and international law. Mr. Awad has native fluency in Arabic and is an expert in Islamic law and the laws of the Middle East.</em></p>
+
+<p><strong>Suggested citation: </strong> Abed Awad <em>BDS-Oped</em>, JURIST- Professional Commentary, June 13, 2016, http://jurist.org/professional/2016/06/abed-awad-sanctions-movement.php.</p>
+
+<hr height='1'><font size='1'>This article was prepared for publication by <a href="/jurist_search.php?q=Elizabeth+Dennis">Elizabeth Dennis</a>, an Assistant Editor for JURIST Commentary. Please direct any questions or comments to her at <a href="mailto:commentary@jurist.org">commentary@jurist.org</a></font><hr height='1'>                                </p>
+                              </div>
+                              <!--
+                       BEGIN corrections
+                       included from JURIST Level
+                    -->
+                    
+                    
+                    
+                    
+                    <!--
+                       END corrections
+                       included from JURIST Level
+                    -->
+                              <div class="boxwhite span12 left0 text-error">
+Opinions expressed in JURIST Commentary are the sole responsibility of the author and do not necessarily reflect the views of JURIST's editors, staff, donors or the University of Pittsburgh. 
+</div>                              
+                         </div>
+                    </div>
+               </div> <!-- END Row-fluid -->
+          </div> <!--/span-->
+          <div class="span4">
+               <!-- BEGIN dfpCommentaryLargeRect module
+                 Included from JURIST level -->
+                
+                <div class="span12 left0 boxad bottom10 aligncenter" style="position:relative;">
+                    <div class="ad_notice">advertisement</div>
+                    <div class="adbox_largerect">
+                        <div id='div-gpt-ad-1454441950501-0' style='height:280px; width:336px;'>
+                        <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454441950501-0'); });
+                        </script>
+                        </div>
+                    </div>
+                </div>
+            <!-- END dfpCommentaryLargeRect module
+                 Included from JURIST level -->
+               
+               
+               <!-- BEGIN recentEntriesWithExternalData module
+          Included from JURIST level -->
+    <div class="span12 hidden-print">
+        <ul id="myTab" class="nav nav-tabs">
+           <li class="active"><a href="#stories" data-toggle="tab">Recent Professional Commentary</a></li>
+           <li class=""><a href="#tags" data-toggle="tab">Tags</a></li>
+        </ul>
+        <div id="myTabContent" class="tab-content multi-sidebar">
+            <div class="tab-pane fade active in" id="stories">
+                    
+            <!-- BEGIN Hotline recent entries page
+             Included from HOTLINE level -->
+             
+            
+            <!-- BEGIN recentEntriesData module
+                         Included from JURIST level -->
+                    
+                    <!-- using [set value:4,10][context value: 4] -->
+                    <ul class="sidebar-latest">
+                        
+                            
+                            
+                                
+                                
+                            
+                            
+                            
+                            
+                              <li class="clearfix">
+                                <div class="span3 hidden-phone hidden-tablet">
+                                    <a href="http://jurist.org/hotline/2017/04/Jillian-Blake-immigrants-presumed-guilty.php"><img src="http://jurist.org/hotline/assets_c/2017/05/Immigration%20Photo-thumb-800x590-12288..jpg" class="attachment-thumbnail" alt=""></a>
+                                </div>
+                                <div class="span9 narrowlines top5 left0">
+                                  <a href="http://jurist.org/hotline/2017/04/Jillian-Blake-immigrants-presumed-guilty.php" class="bold">Immigrants Accused of Crimes Presumed Guilty</a><br>
+                                    
+                                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                        <div class='smallest mediumgray top10'> Jillian Blake <br>  Blake & Wilson Immigration Law </div>                                    
+                                  <small><a href="#"><span class="entry-date"> 3:58 PM ET, 30 April 2017</span></a></small>
+                                </div>
+                              </li>
+                         
+                            
+                            
+                                
+                                
+                            
+                            
+                            
+                            
+                              <li class="clearfix">
+                                <div class="span3 hidden-phone hidden-tablet">
+                                    <a href="http://jurist.org/hotline/2017/04/Kip-Wainscott-reclaim-our-elections.php"><img src="http://jurist.org/hotline/assets_c/2017/04/A%20depiction%20of%20the%201812%20Gerry-Mander%20map%20via%20the%20Salem%20Gazette.-thumb-467x767-12151..jpg" class="attachment-thumbnail" alt=""></a>
+                                </div>
+                                <div class="span9 narrowlines top5 left0">
+                                  <a href="http://jurist.org/hotline/2017/04/Kip-Wainscott-reclaim-our-elections.php" class="bold">Democratizing the Legal Fight to Reclaim Our Elections</a><br>
+                                    
+                                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                        <div class='smallest mediumgray top10'> Kip Wainscott <br>  CrowdJustice </div>                                    
+                                  <small><a href="#"><span class="entry-date">12:33 AM ET, 14 April 2017</span></a></small>
+                                </div>
+                              </li>
+                         
+                            
+                            
+                                
+                                
+                            
+                            
+                            
+                            
+                              <li class="clearfix">
+                                <div class="span3 hidden-phone hidden-tablet">
+                                    <a href="http://jurist.org/hotline/2017/04/Andreas-Kuersten-internet-consumer-privacy.php"><img src="http://jurist.org/hotline/assets_c/2017/04/FCC-thumb-602x600-12086..png" class="attachment-thumbnail" alt=""></a>
+                                </div>
+                                <div class="span9 narrowlines top5 left0">
+                                  <a href="http://jurist.org/hotline/2017/04/Andreas-Kuersten-internet-consumer-privacy.php" class="bold">The Hollowness of the Arguments of the FCC and FTC Chairmen Regarding Internet Consumer Privacy</a><br>
+                                    
+                                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                            
+                                  <small><a href="#"><span class="entry-date"> 9:54 PM ET,  6 April 2017</span></a></small>
+                                </div>
+                              </li>
+                         
+                            
+                            
+                                
+                                
+                            
+                            
+                            
+                            
+                              <li class="clearfix">
+                                <div class="span3 hidden-phone hidden-tablet">
+                                    <a href="http://jurist.org/hotline/2017/04/Bettina-Nemeth-hungary-refugee-crisis.php"><img src="http://jurist.org/hotline/assets_c/2017/04/Refugee%20Crisis-thumb-640x427-12169..jpg" class="attachment-thumbnail" alt=""></a>
+                                </div>
+                                <div class="span9 narrowlines top5 left0">
+                                  <a href="http://jurist.org/hotline/2017/04/Bettina-Nemeth-hungary-refugee-crisis.php" class="bold">Is Hungary's approach to the refugee crisis a test of the European Union unity?</a><br>
+                                    
+                                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                        <div class='smallest mediumgray top10'> Bettina Nemeth <br>  </div>                                    
+                                  <small><a href="#"><span class="entry-date"> 7:21 PM ET,  4 April 2017</span></a></small>
+                                </div>
+                              </li>
+                         
+                            
+                            
+                                
+                                
+                            
+                            
+                            
+                            
+                              <li class="clearfix">
+                                <div class="span3 hidden-phone hidden-tablet">
+                                    <a href="http://jurist.org/hotline/2017/04/the-nfl-concussion-lawsuit-from-the-eyes-of-the-pittsburgh-lawyer-who-originated-the-case.php"><img src="http://jurist.org/hotline/assets_c/2017/04/NFL%20Football-thumb-640x427-12050..jpg" class="attachment-thumbnail" alt=""></a>
+                                </div>
+                                <div class="span9 narrowlines top5 left0">
+                                  <a href="http://jurist.org/hotline/2017/04/the-nfl-concussion-lawsuit-from-the-eyes-of-the-pittsburgh-lawyer-who-originated-the-case.php" class="bold">The NFL Concussion Lawsuit from the Eyes of the Pittsburgh Lawyer who Originated the Case</a><br>
+                                    
+                                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                        <div class='smallest mediumgray top10'> Jason Luckasevic <br>  Goldberg Persky & White </div>                                    
+                                  <small><a href="#"><span class="entry-date"> 5:45 PM ET,  3 April 2017</span></a></small>
+                                </div>
+                              </li>
+                         
+                            
+                            
+                                
+                                
+                            
+                            
+                            
+                            
+                              <li class="clearfix">
+                                <div class="span3 hidden-phone hidden-tablet">
+                                    <a href="http://jurist.org/hotline/2017/03/arizonas-death-penalty-procedures-professional-ethics.php"><img src="http://jurist.org/hotline/assets_c/2017/03/death%20panelty%20-thumb-640x475-11755..jpg" class="attachment-thumbnail" alt=""></a>
+                                </div>
+                                <div class="span9 narrowlines top5 left0">
+                                  <a href="http://jurist.org/hotline/2017/03/arizonas-death-penalty-procedures-professional-ethics.php" class="bold">Arizona&#8217;s Death Penalty Procedures & Professional Ethics</a><br>
+                                    
+                                                                                
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                        <div class='smallest mediumgray top10'> Tasha Russell <br>  Exit International </div>                                    
+                                  <small><a href="#"><span class="entry-date"> 6:19 PM ET, 14 March 2017</span></a></small>
+                                </div>
+                              </li>
+                         
+                         <li class="clearfix">
+                    </ul>
+                    <!-- END recentEntriesData module
+                        Included from JURIST level -->
+             
+        <!-- END Hotline recent entries page
+             Included from HOTLINE level -->
+            </div>
+            <div class="tab-pane fade" id="tags">
+                <div class="tagcloud">
+                   
+                                               <a href="/jurist_search.php?q= Awad & Khoury LLP">affiliation: Awad & Khoury LLP</a>
+                   
+                                               <a href="/jurist_search.php?q= Abed Awad">author: Abed Awad</a>
+                   
+                                               <a href="/jurist_search.php?q=BDS">BDS</a>
+                   
+                                               <a href="/jurist_search.php?q=boycott">boycott</a>
+                   
+                                               <a href="/jurist_search.php?q=divestment">divestment</a>
+                   
+                                               <a href="/jurist_search.php?q=Israel">Israel</a>
+                   
+                                               <a href="/jurist_search.php?q=Palestine">Palestine</a>
+                   
+                                               <a href="/jurist_search.php?q=sanctions">sanctions</a>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END recentEntriesWithExternalData module
+          Included from JURIST level -->
+          
+               <div class="break hidden-print"></div>
+               <!-- BEGIN dfpCommentaryHalfPage module
+                 Included from JURIST level -->
+                <!-- BEGIN halfPageAd module
+                 Included from JURIST level -->
+                <div class="span12 left0 boxad bottom10 aligncenter hidden-print" style="position:relative;">
+                    <div class="ad_notice">advertisement</div>
+                    <div class="adbox_halfpage">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- JURIST Half Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:300px;height:600px"
+                             data-ad-client="ca-pub-6692374162994440"
+                             data-ad-slot="1390205018"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
+            <!-- END halfPageAd module
+                 Included from JURIST level -->                
+            <!-- END dfpCommentaryHalfPage module
+                 Included from JURIST level -->               <!-- BEGIN supportBox module
+                    included from Support level -->
+               <div class="info-box shadow-large span12 left0 top10 hidden-print">
+                    <div class="info-box-inner">
+                        <div class="info-content smallest aligncenter">
+                            <h4>Support JURIST</h4>
+                            <p>
+                                We rely on our readers to keep JURIST running
+                            </p>
+                            <br>
+                            <a style="" class="btn btn-primary" href="/supportjurist/donate-now.php"><i class="icon-usd"></i>&nbsp;Donate now!</a>
+                        </div>
+                        <div class="clearfix">
+                        </div>
+                    </div>
+                </div>
+                <!-- END supportBox module
+                    included from Support level -->               <!--     BEGIN taboolaTilesRail
+                 included from JURIST Level ->
+        <div class="span12 hidden-phone hidden-tablet">
+          <div class="span9 left25">
+            <div id="taboola-right-rail-thumbnails"></div>
+              <script type="text/javascript">
+                window._taboola = window._taboola || [];
+                _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-right-rail-thumbnails',
+                placement: 'Right Rail Thumbnails',
+                target_type: 'mix'
+              });
+              </script>
+           </div>
+        </div>
+        <!--     END taboolaTilesRail  included from JURIST Level-->           </div>
+        </div>
+        <div class="break hidden-print">&nbsp;</div>
+        
+        <div class="row-fluid hidden-print">
+          <div class="span6" style="min-height: 200px;">
+               <!--
+        BEGIN News Carousel Backend Module
+        Included from Paper Chase level
+    -->
+    <div class="span12 left0 hidden-print" style="min-height: 350px;">
+        <div class="span12 left0">
+            <div class="titleborder">
+                <div class="narrowlines">
+                    <small>Latest News</small>
+                </div>
+            </div>
+        </div>
+        <div class="heightauto">
+            <div class="list_carousel">
+                <div class="carousel_nav">
+                    <a class="prev" id="recent-news_car_prev" href="#"><span>prev</span></a>
+                    <a class="next" id="recent-news_car_next" href="#"><span>next</span></a>
+                </div>
+                <div class="clearfix">
+                </div>
+                <ul id="recent-news" class="panel2">
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                                                  <li class="carousel-limiter">
+                            <p>
+                                
+                                    <a href="http://jurist.org/paperchase/2017/05/puerto-rico-files-for-bankruptcy-protection-under-special-law.php">
+                                    <div class="span11">
+                                        <div class="span12 left0 crop-image-carousel-horizontal">
+                                            <img src="http://www.jurist.org/images/wiki/17/05/puerto rico.jpg" class="span12" alt="">
+                                        </div>
+                                        <div class="span12 left0 top10 bottom10">
+                                            <div class="biggest blacktext bold">Puerto Rico files for bankruptcy protection under special law</div>
+                                            <div class="span12 left0 smallest mediumgray top10">
+                                                6 hours ago
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </a>
+                                
+                            </p>
+                        </li>
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                                                  <li class="carousel-limiter">
+                            <p>
+                                
+                                    <a href="http://jurist.org/paperchase/2017/05/eu-proposes-brexit-negotiation-terms.php">
+                                    <div class="span11">
+                                        <div class="span12 left0 crop-image-carousel-horizontal">
+                                            <img src="http://www.jurist.org/images/wiki/17/05/©  WikiMedia .jpg" class="span12" alt="">
+                                        </div>
+                                        <div class="span12 left0 top10 bottom10">
+                                            <div class="biggest blacktext bold">EU proposes Brexit negotiation terms</div>
+                                            <div class="span12 left0 smallest mediumgray top10">
+                                                9 hours ago
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </a>
+                                
+                            </p>
+                        </li>
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                                                  <li class="carousel-limiter">
+                            <p>
+                                
+                                    <a href="http://jurist.org/paperchase/2017/05/hrw-syria-used-chemical-weapons-in-multiple-attacks.php">
+                                    <div class="span11">
+                                        <div class="span12 left0 crop-image-carousel-horizontal">
+                                            <img src="http://www.jurist.org/images/wiki/17/05/syria war.jpg" class="span12" alt="">
+                                        </div>
+                                        <div class="span12 left0 top10 bottom10">
+                                            <div class="biggest blacktext bold">HRW: Syria used chemical weapons in multiple attacks</div>
+                                            <div class="span12 left0 smallest mediumgray top10">
+                                                1 day ago
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </a>
+                                
+                            </p>
+                        </li>
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                                                  <li class="carousel-limiter">
+                            <p>
+                                
+                                    <a href="http://jurist.org/paperchase/2017/05/appeals-court-declines-to-reconsider-net-neutrality-decision.php">
+                                    <div class="span11">
+                                        <div class="span12 left0 crop-image-carousel-horizontal">
+                                            <img src="http://www.jurist.org/images/wiki/17/05/Network Neutrality.png" class="span12" alt="">
+                                        </div>
+                                        <div class="span12 left0 top10 bottom10">
+                                            <div class="biggest blacktext bold">Appeals court declines to reconsider net neutrality decision</div>
+                                            <div class="span12 left0 smallest mediumgray top10">
+                                                1 day ago
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </a>
+                                
+                            </p>
+                        </li>
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                                                  <li class="carousel-limiter">
+                            <p>
+                                
+                                    <a href="http://jurist.org/paperchase/2017/05/supreme-court-declines-to-hear-lawsuit-against-california-ban-on-gay-conversion-therapy.php">
+                                    <div class="span11">
+                                        <div class="span12 left0 crop-image-carousel-horizontal">
+                                            <img src="http://www.jurist.org/images/wiki/17/05/supreme court building.jpg" class="span12" alt="">
+                                        </div>
+                                        <div class="span12 left0 top10 bottom10">
+                                            <div class="biggest blacktext bold">Supreme Court declines to hear lawsuit against California ban on gay conversion therapy</div>
+                                            <div class="span12 left0 smallest mediumgray top10">
+                                                1 day ago
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </a>
+                                
+                            </p>
+                        </li>
+                    
+                        
+                        
+                            
+                            
+                            
+                            
+                        
+                        
+                                                  <li class="carousel-limiter">
+                            <p>
+                                
+                                    <a href="http://jurist.org/paperchase/2017/05/supreme-court-rules-cities-can-sue-banks-for-predatory-lending-practices.php">
+                                    <div class="span11">
+                                        <div class="span12 left0 crop-image-carousel-horizontal">
+                                            <img src="http://www.jurist.org/images/wiki/17/05/miami city.jpg" class="span12" alt="">
+                                        </div>
+                                        <div class="span12 left0 top10 bottom10">
+                                            <div class="biggest blacktext bold">Supreme Court rules cities can sue banks for predatory lending practices</div>
+                                            <div class="span12 left0 smallest mediumgray top10">
+                                                2 days ago
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </a>
+                                
+                            </p>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="span12 left0 readmorebox">
+            <p class="continueread">
+                <a href="/paperchase">More News</a>
+            </p>
+        </div>
+    </div>
+    <!-- CALL Carousel -->
+    
+    <!-- BEGIN carouselJavascript module
+     included from the JURIST level -->
+    <script type="text/javascript">
+
+    $(window).load(function(){
+        $('#recent-news').carouFredSel({
+            responsive: true,
+            width: '100%',
+            auto: true,
+            circular: true,
+            infinite: false,
+            prev : {
+            button: "#recent-news_car_prev",
+            key: "left",
+            },
+            next : {
+                button: "#recent-news_car_next",
+                key: "right",
+            },
+            swipe: {
+                onMouse: true,
+                onTouch: true
+            },
+            scroll : 1500,
+                items: {
+                    visible: {
+                    min: 1,
+                    max: 1
+                }
+            }
+        });
+    });
+    </script>
+    <!-- END carouselJavascript module
+         included from the JURIST level -->    
+    <!--
+        END News Carousel Module Backend
+        Included from Paper Chase level
+    -->          </div> 
+          <div class="span6">
+               <!-- BEGIN aboutHotline module
+          Included from Hotline level -->
+     <div class="span12 box effect2">
+          <h3>About Professional Commentary</h3>
+          <p>
+               <a href="/hotline">Professional Commentary</a> is JURIST's platform for newsmakers, activists and legal experts to comment on national and international legal developments.
+               <p>
+                    Hotline welcomes submissions, inquiries and comments at <a href="mailto:professionalcommentary@jurist.org">professionalcommentary@jurist.org</a>.
+               </p>
+          </p>
+          <div class="pull-right smaller"><a href="/contact/">Contact Academic Commentary >></a></div>
+     </div>
+     <!-- END aboutHotline module
+          Included from Hotline level -->          </div>
+
+        </div>    
+        <div class="span12 left0 aligncenter">
+           <!-- BEGIN leaderboardAd Module 
+               Included from JURIST level -- >
+            <div class="adbox_leaderboard top10 aligncenter">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <ins class="adsbygoogle"
+                     style="display:inline-block;width:728px;height:90px"
+                     data-ad-client="ca-pub-6692374162994440"
+                     data-ad-slot="4175862213"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+          !-- END leaderboardAd Module
+               Included from JURIST level -->        </div>        
+</div> 
+<div class="footer footerdark hidden-print">
+        <div class="text-center wraptotop ">
+            <a class="totop"><i class="icon-chevron-up"></i></a>
+        </div>
+        <div class="container">
+            <!-- 1st row -->
+            <div class="row-fluid">
+                <div class="span4">
+                    <h1 class="title">About JURIST</h1>
+                    <hr>
+                    <p>
+                        JURIST is a 501(c)(3) non-profit organization dedicated to bringing objective legal news and reasoned expert analysis to the public. 
+                    </p>
+                    <p>
+                        E-mail inquiries, changes, news tips, URLs, corrections, etc. to <a href="mailto:jurist@jurist.org">JURIST@jurist.org</a>. 
+                    </p>
+                </div>
+                <div class="span4">
+                    <h1 class="title">Legal Disclaimer</h1>
+                    <hr>
+                    <p>
+                       JURIST cannot and does not provide legal advice. 
+                       As such, <strong>nothing on this site is intended as legal advice</strong>. If you have a legal problem, please consult an attorney.
+                    </p>
+                    <p>
+                        We wish you the best of luck with your case, but we can't help.
+                    </p>
+                </div>
+                <div class="span4">
+                    <h1 class="title">Questions</h1>
+                    <hr>
+                    <div class="done">
+                        <div class="alert alert-success">
+                            <button type="button" class="close" data-dismiss="alert">×</button>
+                            Your message has been sent. Thank you!
+                        </div>
+                    </div>
+                    <form method="post" action="contact.php" id="contactform">
+                        <input type="hidden" name="source_page" value="/hotline/2016/06/abed-awad-sanctions-movement.php (test)" />
+                        <div class="form">
+                            <div class="controls controls-row">
+                                <input class="span6" type="text" name="name" placeholder="Name">
+                                <input class="span6" type="text" name="email" placeholder="E-mail">
+                            </div>
+                            <div class="controls">
+                                <textarea class="span12" name="comment" rows="4" placeholder="Message"></textarea>
+                            </div>
+                            <div id="asdf">
+                            </div>
+                            <input type="submit" id="contact_submit" class="btn" value="Send">
+                        </div>
+                    </form>
+                    <script language="javascript">
+                    <!--
+                        $('#asdf').append ("<div class='controls controls-row' id='asdfasdfasdf'><input type='input' class='span6' name='asdfasdf' placeholder='What color is the sun?'/><br><br>");
+                    -->
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2nd row -->
+    <div class="footerbottom footerbottomdark hidden-print">
+        <div class="container">
+            <div class="row-fluid">
+                <!-- left -->
+                <div class="span7 smallspacetop">
+                    <p class="smaller">
+                        <span class="copyright">&copy;</span> Copyright JURIST Legal News and Research Services, Inc., 2013. 
+                    </p>
+                </div>
+                <!-- right -->
+                <div class="span5 smallspacetop">
+                    <div class="pull-right smaller">
+                        <ul class="footermenu">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/paperchase">News</a></li>
+                            <li><a href="/forum">Commentary</a></li>
+                            <li><a href="/feature">Features</a></li>
+                            <li><a href="/podcast">Podcasts</a></li>
+                            <li><a href="/supportjurist">Support</a></li>
+                            <li><a href="/faq">About</a></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix">
+                    </div>
+                </div>
+                <!-- end right -->
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer footerdark visible-print">
+        <div class="row-fluid">
+            <div class="span6">
+                <p class="smaller">
+                    <span class="copyright">&copy;</span> Copyright JURIST Legal News and Research Services, Inc., 2013. 
+                </p>
+            </div>
+            <div class="span6">
+                    <strong>Legal Disclaimer</strong>
+                    <hr>
+                    <p>
+                        Please note that JURIST cannot and does not provide legal advice. 
+                    </p>
+                    <p>
+                        As such, nothing on this site is intended as legal advice. If you have a legal problem, please consult an attorney.
+                    </p>
+                    <p>
+                        We wish you the best of luck with your case, but we can't help.
+                    </p>
+                </div>
+        </div>
+    </div>
+    
+        <!-- Universal Analytics upgrade -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-609467-1', 'auto');
+      ga('send', 'pageview');
+    </script><!--
+                   BEGIN registerReader module
+                   included from JURIST Level
+                -->
+                    <script language="javascript">
+                    <!--
+                        /*
+                            Register the user in an AJAX transaction to avoid load-lag from the IP query server.
+                        */
+                        $.ajax({
+                          type: "POST",
+                          url: "/latestreaders.php",
+                          data: { register: "true"}
+                        })
+                          .done(function( msg ) {});
+                    -->
+                    </script>
+                <!--
+                   END registerReadermodule
+                   included from JURIST Level
+                -->
+
+<!-- START PITCH BOX -->
+<!-- ALERTMODAL not in preview: /hotline/2016/06/abed-awad-sanctions-movement.php --><!-- END PITCH BOX --></div>
+</body>
+<!-- END entryMeta
+     adds FB OG data for published entries -->
+<head></head>
+<!-- END entryMeta -->
 </html>
