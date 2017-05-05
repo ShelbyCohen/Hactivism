@@ -1,6 +1,7 @@
 import plotly as plotly
 import plotly.graph_objs as go
 from plotly.graph_objs import *
+import numpy as np
 
 
 from random import *
@@ -48,11 +49,11 @@ def make_heatmap (cosine_list):
 
     trace = go.Heatmap(z=cosine_list,  # lists of z values by row
                        x=movements, y=movements, colorscale="Jet")
+
     data = [trace]
 
     make_scatterplot(cosine_list, movements)
-    plotly.offline.plot(data)
-
+    plotly.offline.plot(data, filename='heatmap.html')
 
     return
 
@@ -64,6 +65,7 @@ def make_scatterplot (cosine_list, movement_list):
     x = list()
     y = list()
     z = list()
+    colors = ["#004715", "#15302a", "#3c89a3", "#e2d9ff", "#443147", "#30011f", "#ffc7d9", "#e8898c", "#ffe9d9", "#1a140d", "#a3990d", "#65752e", "#15a345", "#5e8c86", "#1a3347", "#276ee8", "#7725ba", "#e8e1e8", "#a36286", "#75152c", "#75461c", "#a38a6a", "#fffa9e", "#65e823", "#69ffc8", "#e3fffb", "#03488c", "#031130", "#3d125e", "#ff08d2", "#ff78b5", "#ba0b20", "#ff7e05", "#ffc663", "#ebff12", "#bae8ae", "#087558", "#40ecff", "#63afff", "#130fff", "#c384e8", "#75095e", "#e81a62", "#300708",]
 
     path = "data/"
     item_path = path + "item/"
@@ -88,14 +90,14 @@ def make_scatterplot (cosine_list, movement_list):
                 z.append(0)
 
         trace = Scatter3d(
-            name=movements[i],
+            name = movements[i],
             x=x[:],
             y=y[:],
             z=z[:],
             mode='markers',
             marker=dict(
                 size=5,
-                colorscale="Jet",  # choose a colorscale
+                color=colors[randint(0, len(colors) - 1)],  # choose a colorscale
                 opacity=0.8
             )
         )
